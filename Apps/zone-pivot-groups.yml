@@ -1,0 +1,75 @@
+### YamlMime:ZonePivotGroups
+groups:
+- id: app-info-data-mcas
+  title: Categorias de Informações do Aplicativo
+  prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
+  pivots:
+  - id: general
+    title: Geral
+  - id: data
+    title: Tratamento de dados
+  - id: mcas
+    title: Segurança e Conformidade
+- id: app-info-mcas
+  title: Categorias de Informações do Aplicativo
+  prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
+  pivots:
+  - id: general
+    title: Geral
+  - id: mcas
+    title: Segurança e Conformidade
+- id: app-info-identity
+  title: Categorias de Informações do Aplicativo
+  prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
+  pivots:
+  - id: general
+    title: Geral
+  - id: identity
+    title: Identidade
+- id: app-info-data
+  title: Categorias de Informações do Aplicativo
+  prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
+  pivots:
+  - id: general
+    title: Geral
+  - id: data
+    title: Tratamento de dados
+- id: app-info-data-identity
+  title: Categorias de Informações do Aplicativo
+  prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
+  pivots:
+  - id: general
+    title: Geral
+  - id: data
+    title: Tratamento de dados
+  - id: identity
+    title: Identidade
+- id: app-info-mcas-identity
+  title: Categorias de Informações do Aplicativo
+  prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
+  pivots:
+  - id: general
+    title: Geral
+  - id: mcas
+    title: Segurança e Conformidade
+  - id: identity
+    title: Identidade
+- id: app-info-data-mcas-identity
+  title: Categorias de Informações do Aplicativo
+  prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
+  pivots:
+  - id: general
+    title: Geral
+  - id: data
+    title: Tratamento de dados
+  - id: mcas
+    title: Segurança e Conformidade
+  - id: identity
+    title: Identidade
+metadata:
+  ms.openlocfilehash: 63cbd1492249802a82a13a4a68fd056a5ba26754
+  ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 04/28/2021
+  ms.locfileid: "52070885"
