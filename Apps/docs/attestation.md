@@ -1,0 +1,70 @@
+---
+title: Atestado completo do Publisher
+author: LGerrard
+ms.author: legerrar
+description: Mais informações sobre o programa de Atestado do Publisher
+keywords: app attestation certification 365 questionnaire appSource
+ms.topic: conceptual
+ms.service: attestation
+ms.openlocfilehash: b169e63e6f4b4f7492c75c9e2aba09c2d7541b74
+ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52070804"
+---
+# <a name="complete-publisher-attestation"></a>Atestado completo do Publisher
+
+O Atestado do Publisher é um programa voluntário em que você conclui uma autoavaliação das práticas de segurança, tratamento de dados e conformidade do seu aplicativo. As informações fornecidas serão apresentadas aos seus clientes para que eles possam avaliar melhor seu aplicativo antes de habilita-lo para sua organização. 
+
+> [!IMPORTANT]
+> A Microsoft não valida as informações fornecidas. O desenvolvedor é o único responsável pelas informações fornecidas na autoavaliação. 
+
+## <a name="program-benefits"></a>Benefícios do Programa
+- Economia de tempo. Aponte seus clientes para sua página de documentos onde eles podem encontrar suas respostas para perguntas frequentes sobre seu aplicativo. 
+- Acelerando a linha do tempo de revisão interna de segurança e conformidade de uma organização empresarial.
+- Maior transparência.
+- Diferenciação de outros aplicativos na loja. 
+- Link para a página de documentos da sua entrada no AppSource. 
+- Qualificação para iniciar a Certificação do Microsoft 365.
+
+## <a name="publisher-attestation-applies-to-apps-that-integrate-with"></a>O Atestado do Publisher se aplica a aplicativos que se integram a:
+- Teams
+- Word
+- Excel
+- PowerPoint 
+- Outlook
+- SharePoint
+- Project
+- OneNote
+
+## <a name="publisher-attestation-process"></a>Processo de Atestado do Publisher
+
+1. **Participar —** o Atestado do Publisher agora está integrado ao Partner Center. Você pode concluir o atestado em um questionário amigável, tudo no Partner Center. Consulte nosso guia [de usuário](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) para o processo passo a passo.
+
+2. **Aguarde comentários e** resultados da análise — Durante a revisão de verificação de consistência, se os analistas encontrarem problemas de bloqueio, como dados de resposta inadequados, você será contatado para obter mais informações. Os analistas manterão um log de atividades do aplicativo detalhando os resultados da revisão e seus envios de acompanhamento em todo o processo. Depois que tiver sido determinado que seu relatório de atestado está concluído e suas respostas são aceitáveis, seu envio será aprovado. Seu status de aprovação será válido por um ano a partir do momento do envio.
+
+> [!NOTE]
+> Se, dentro do período de status de aprovação provisória, você atualizar ou modificar seu aplicativo ou receber notificação de desinformação de envio de atestado relatado, deverá revisar e reabrir sua documentação.
+
+3. **Exibir o portal online** — Depois que seu atestado for aprovado, seu aplicativo será listado no repositório online e incluirá o seguinte:
+
+   - Um data/hora de envio.
+   - Links para uma cópia detalhada das informações enviadas.
+   - Uma declaração de que as informações fornecidas se baseiam no relatório de atestado enviado.
+
+Por exemplo, *consulte* [Microsoft Teams App Security and Compliance](../teams/teams-apps.md)
+
+4. **Revisão e retransmissão** — o Atestado do Seu Editor precisará ser resubmitido anualmente. Quando o atestado se aproximar da marca de um ano, você receberá uma notificação por meio do Partner Center incentivando uma remissão do atestado. 
+
+   Se o Atestado do Publisher não for renovado antes da data de expiração, o status de atestado de seus aplicativos será revogado e seu Atestado do Publisher será removido das páginas de documentos da Microsoft. 
+
+>[!IMPORTANT]
+>Ao participar do programa de Atestado do Publisher, você está concordando com esses termos complementares e em conformidade com qualquer documentação que acompanha a sua participação no programa de Atestado do Publisher com a Microsoft Corporation ("Microsoft", "nós", "nós" ou "nosso"). Você representa e garante a nós que tem a autoridade para aceitar estes termos suplementares de Atestado do Publisher em nome de si mesmo, de uma empresa e/ou de outra entidade, conforme aplicável. Podemos alterar, alterar ou encerrar esses termos suplementares a qualquer momento. Sua participação contínua no programa de Atestado do Publisher após qualquer alteração ou alteração significa que você concorda com os novos termos complementares. Se você não concordar com os novos termos suplementares ou se encerrarmos esses termos, você deve parar de participar do programa de Atestado do Publisher.
+
+## <a name="learn-more"></a>Saiba mais
+
+* [Visão geral do Programa de Conformidade de Aplicativos do Microsoft 365](~/overview.md)  
+* [Concluir a Verificação do Publisher](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
+* [O que é Atestado do Publisher?](~/docs/enterprise-app-attestation-guide.md)  
+* [Concluir a certificação do Microsoft 365](~/docs/certification.md)
