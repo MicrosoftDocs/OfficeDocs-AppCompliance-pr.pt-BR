@@ -1,0 +1,61 @@
+---
+title: Programa de Conformidade de Aplicativos do Microsoft 365
+author: LGerrard
+ms.author: Legerrar
+description: Introdução e visão geral do programa
+keywords: microsoft 365 aplicativo m365 certificação do Atestado do Editor
+ms.topic: overview
+ms.service: attestation
+localization_priority: Priority
+ms.openlocfilehash: 199c8f82a894566a918c30e529cefdfb8c259a48
+ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52070902"
+---
+# <a name="microsoft-365-app-compliance-program"></a>Programa de Conformidade de Aplicativos do Microsoft 365
+
+O Programa de Conformidade de Aplicativos do Microsoft 365 é um método de três camadas para segurança e conformidade dos aplicativos. Cada camada se baseia na próxima, oferecendo um programa em camadas para dar aos usuários a confiança de que precisam para usar aplicativos no ecossistema do Microsoft 365. Atualmente, todas as camadas do programa são voluntárias e são concluídas a critério dos desenvolvedores do aplicativo. 
+
+Nossa missão: os clientes da Microsoft têm total confiança nos aplicativos que administram suas organizações.
+  ![Modelo em 3 camadas para a Conformidade de Aplicativos](media/Microsoft-App-Compliance-Overview.png) 
+
+## <a name="publisher-verification"></a>Verificação do Editor
+
+A [Verificação do Editor](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview) ajuda administradores e usuários a entenderem a autenticidade dos desenvolvedores de aplicativos integrados à plataforma de identidade da Microsoft. Quando um aplicativo é marcado como verificado pelo editor, significa que o editor verificou sua identidade usando uma conta do Microsoft Partner Network que concluiu o processo de verificação e associou essa conta do MPN ao registro do aplicativo.
+A Verificação do Editor se aplica aos aplicativos que atendem às seguintes condições:  
+- Usando o OAuth 2.0 e o OpenID Connect para conectar os usuários e solicitar acesso aos dados usando service-side APIs, como o Microsoft Graph. 
+- Registrado no Azure AD como multilocatário.  
+
+> [!IMPORTANT]
+> A Verificação do Editor não impede que um desenvolvedor de aplicativos inicie ou conclua o Atestado do Editor ou a Certificação Microsoft 365. Se não se aplicar ao aplicativo, a verificação pode ser ignorada e o atestado pode ser iniciado.
+
+## <a name="publisher-attestation"></a>Atestado do Editor
+
+O [Atestado de Editor](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) é onde os desenvolvedores compartilham informações gerais, de gerenciamento de dados e de segurança e conformidade sobre os serviços do aplicativo. Isso reduz a necessidade dos administradores de TI trabalharem diretamente com os editores de aplicativos. Todas as informações necessárias para tomar uma decisão informada podem ser encontradas sobre todos os aplicativos que concluíram o teste do editor em um único lugar e em um formato consistente. O objetivo é facilitar e acelerar o processo de adoção de aplicativos, garantindo aos clientes que os aplicativos usados nos seus locatários atendem aos seus padrões organizacionais.
+
+O Atestado do Editor se aplica a aplicativos que se integram a estas plataformas da Microsoft:
+-   Teams
+-   Word
+-   Excel
+-   PowerPoint 
+-   Outlook
+- Microsoft Office SharePoint Online
+- Project
+- OneNote
+
+> [!IMPORTANT]
+> A Microsoft não valida as informações fornecidas. O desenvolvedor apenas afirma a veracidade, precisão e integridade da documentação do atestado e dos dados de desempenho do aplicativo correspondentes. 
+
+## <a name="microsoft-365-certification"></a>Certificação Microsoft 365
+A [Certificação Microsoft 365](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide) oferece garantia e confiança às organizações de que os dados e a privacidade estão adequadamente protegidos ao usar aplicativos do Microsoft Teams. A certificação confirma que uma solução de aplicativo é compatível com as tecnologias da Microsoft, compatível com as práticas recomendadas de segurança de aplicativos na nuvem e com suporte da Microsoft. Durante esse processo, os desenvolvedores de aplicativos trabalham com um avaliador terceirizado para validar a segurança organizacional e os padrões de conformidade. A Certificação Microsoft 365 se aplica a aplicativos que se integram a estas plataformas da Microsoft:
+
+-   Teams
+-   Word
+-   Excel
+-   PowerPoint 
+-   Outlook
+- Microsoft Office SharePoint Online
+- Project
+- OneNote
