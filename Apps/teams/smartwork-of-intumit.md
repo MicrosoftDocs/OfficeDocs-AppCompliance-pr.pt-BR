@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/31/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o SmartWork, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3fa673b3b6488cbca428f4583fe60021734525cf
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: ac3365dd3b37fcc89ac63db89fc3f233a68ae045
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092213"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52249889"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -33,7 +34,7 @@ Informações fornecidas pelo SmartWork do Intumit para a Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | SmartWork |
 | ID | WA200001149 |
-| Recursos | Bot |
+| Recursos | Bot, Guia |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | SmartWork of Intumit |
 | URL do site do parceiro | [https://www.intumit.com](https://www.intumit.com) |

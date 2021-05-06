@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/19/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade para todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 31d085e5a2f8d01e8899f7c3fe911184c2cff879
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 6bc983288ea2acb783fd99a80c6c4dbcfbf83fae
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52070786"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251040"
 ---
 # <a name="microsoft-teams-app-security-and-compliance"></a>Segurança e Conformidade de Aplicativos do Microsoft Teams
 
@@ -21,6 +21,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** | **Informações sobre Gerenciamento de Dados** | **Informações do Cloud App Security.**  | **Recursos do Aplicativo** |
 |:--------|:------------|:----------------------:|:-------------:|:-----------------------------:|:----------------------------------:|:---------------------|
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  | Sim | Sim | Guia, Conector |
+| [ADI](./akari-solutions-limited-adi.md) | Akari Solutions Limited | **✓** |  | Sim | Sim | Bot |
 | [Adobe Sign](./adobe-systems-inc-sign.md) | Adobe Systems Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | Sim | Sim | Bot, Guia |
 | [Quadro de Tarefas Agile](./agile-is-task-board.md) | Agile-IS | **✓** |  | Sim | Sim | Guia |
 | [Alvao Service Desk](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  | Sim | Sim | Bot, Extensão de Mensagem |
@@ -31,10 +32,14 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [atSpoke](./townsend-street-labs-inc-atspoke.md) | Townsend Street Labs, Inc. | **✓** |  | Sim | Sim | Bot |
 | [AttendanceBot](./anaek-attendancebot.md) | Anaek | **✓** |  | Sim | Sim | Bot |
 | [AVA](./avepoint-inc-ava.md) | AvePoint, Inc. | **✓** |  | Sim | Sim | Bot, Guia |
+| [Beekast](./beekast.md) | Beekast | **✓** |  | Sim | Sim | Guia |
 | [Beesy](./beesapps-beesy.md) | BeesApps | **✓** |  | Sim | Sim | Bot, Guia |
 | [Board Connect](./engage-squared-board-connect.md) | Engage Squared | **✓** |  | Sim | Sim | Guia |
 | [Bonusly](./bonusly.md) | Bonusly | **✓** |  | Sim | Sim | Bot |
+| [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  | Sim | Sim | Bot |
 | [Breakthru](./breakthru.md) | Breakthru | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem |
+| [Brightidea](./brightidea.md) | Brightidea | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem |
+| [Bot de Adoção C.AI](./contexxtai-cai-adoption-bot.md) | contexxt.ai | **✓** |  | Sim | Sim | Bot, Guia |
 | [BOT de Calendário](./approved-contact-calendar-bot.md) | Contato Aprovado | **✓** |  | Sim | Sim | Bot, Guia |
 | [CatchEm](./chimu-software-catchem.md) | Chimu Software | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem |
 | [Centrical](./biz-effective-centrical.md) | Biz-Effective | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem |
@@ -48,15 +53,18 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [DisasterTech DICE](./disastertech-dice.md) | DisasterTech | **✓** |  | Sim | Sim | Guia |
 | [Droplr](./droplr.md) | Droplr | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem |
 | [Dynamic Signal](./dynamic-signal.md) | Dynamic Signal | **✓** |  | Sim | Sim | Bot, Guia |
+| [Easy Projects](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  | Sim | Sim | Bot, Extensão de Mensagem |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR(Asia) Co.Ltd. | **✓** |  | Sim | Sim | Guia |
 | [EdMill](./my-serious-game-edmill.md) | My-Serious-Game | **✓** |  | Sim | Sim | Guia |
 | [elmah.io](./elmahio.md) | elmah.io | **✓** |  | Sim | Sim | Conector |
 | [Email TeamMate](./harmonie-email-teammate.md) | harmon.ie | **✓** |  | Sim | Sim | Bot, Extensão de Mensagem |
+| [Empuls](./empuls.md) | Empuls | **✓** |  | Sim | Sim | Bot, Extensão de Mensagem |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  | Sim | Sim | Bot |
 | [Evernote](./evernote.md) | Evernote | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem |
 | [Evocom](./evocom-informationssysteme-gmbh.md) | Evocom Informationssysteme GmbH | **✓** |  | Sim | Sim | Guia |
 | [ezTeam](./enterprizid-inc-ezteam.md) | EnterprizID Inc | **✓** |  | Sim | Sim | Bot, Guia |
 | [FormMachines](./enterprise-digital-machines-formmachines.md) | Enterprise Digital Machines | **✓** |  | Sim | Sim | Guia, Conector |
+| [Freehand pela InVision](./invision-app-freehand-by.md) | Aplicativo InVision | **✓** |  | Sim | Sim | Guia |
 | [Freshdesk](./freshworks-inc-freshdesk.md) | Freshworks INC | **✓** |  | Sim | Sim | Bot |
 | [Fusion Remote](./jujo-inc-fusion-remote.md) | Jujo Inc. | **✓** |  | Sim | Sim | Bot |
 | [Go1](./go1.md) | Go1 | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem |
@@ -66,8 +74,10 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [HeyTaco!](./heytaco!.md) | HeyTaco! | **✓** |  | Sim | Sim | Bot, Guia |
 | [Hi5](./hi5technologies-hi5.md) | Hi5Technologies | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem |
 | [Hibob](./hibob-inc.md) | Hibob Inc. | **✓** |  | Sim | Sim | Bot |
+| [HighSide](./highside-inc.md) | HighSide, Inc. | **✓** |  | Sim | Sim | Bot, Extensão de Mensagem |
 | [Hoylu](./hoylu.md) | Hoylu | **✓** |  | Sim | Sim | Guia |
 | [HunchBuzz](./hunchbuzz.md) | HunchBuzz | **✓** |  | Sim | Sim | Guia, Conector |
+| [Hyperproof](./hyperproof.md) | Hyperproof | **✓** |  | Sim | Sim | Bot |
 | [IndustryIntel](./industry-intelligence-team-industryintel.md) | Industry Intelligence Team | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem |
 | [InStation](./developers-invillia-instation.md) | Developers Invillia | **✓** |  | Sim | Sim | Guia |
 | [Jetdocs](./jetdocs.md) | Jetdocs | **✓** |  | Sim | Sim | Bot, Guia |
@@ -103,10 +113,13 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Nulia Works](./nulia-works.md) | Nulia | **✓** |  | Sim | Sim | Guia, Conector |
 | [OfficeSpace](./officespace-software.md) | OfficeSpace Software | **✓** |  | Sim | Sim | Bot |
 | [Officevibe](./officevibe.md) | Officevibe | **✓** |  | Sim | Sim | Bot |
+| [Onsight Connect](./librestream-onsight-connect.md) | Librestream | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem |
 | [OpenAgora](./open-agora-openagora.md) | Open Agora | **✓** |  | Sim | Sim | Bot, Guia |
 | [Org@Work](./lundano-org@work.md) | Lundano | **✓** |  | Sim | Sim | Bot, Guia |
+| [Notificador de Pacote](./qburst-technologies-pvt-ltd-package-notifier.md) | QBURST TECHNOLOGIES PVT LTD | **✓** |  | Sim | Sim | Conector |
 | [Perfony](./perfony.md) | Perfony | **✓** |  | Sim | Sim | Guia |
 | [Piazza](./piazza.md) | Piazza | **✓** |  | Sim | Sim | Guia |
+| [Calendário de Equipe do Planyway](./rubius-planyway-team-calendar.md) | Rubius | **✓** |  | Sim | Sim | Guia |
 | [Polly](./polly.md) | Polly | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem |
 | [Prezi Video](./prezi-video.md) | Prezi | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | Sim | Sim | Bot, Guia, Extensão de Mensagem, Conector |
@@ -139,22 +152,27 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [SkyPoint Cloud](./skypoint-cloud-inc.md) | SkyPoint Cloud Inc. | **✓** |  | Sim | Sim | Bot |
 | [Slido](./slido.md) | Slido | **✓** |  | Sim | Sim | Bot, Guia |
 | [Smart Connect para Jira](./yasoon-gmbh-smart-connect-for-jira.md) | yasoon GmbH | **✓** |  | Sim | Sim | Bot, Extensão de Mensagem |
+| [Pacote de Aprendizagem SMART](./smart-technologies-ulc-learning-suite.md) | SMART Technologies ULC | **✓** |  | Sim | Sim | Guia |
 | [Smartnotation](./smartnotation-bv.md) | Smartnotation B.V. | **✓** |  | Sim | Sim | Guia, Conector |
 | [Smartsheet](./smartsheet.md) | Smartsheet | **✓** |  | Sim | Sim | Bot, Guia |
-| [SmartWork](./smartwork-of-intumit.md) | SmartWork of Intumit | **✓** |  | Sim | Sim | Bot |
+| [SmartWork](./smartwork-of-intumit.md) | SmartWork of Intumit | **✓** |  | Sim | Sim | Bot, Guia |
+| [SmileBack](./smileback.md) | SmileBack | **✓** |  | Sim | Sim | Conector |
 | [Soapbox](./soapbox.md) | Soapbox | **✓** |  | Sim | Sim | Bot, Guia |
 | [Spinify](./spinify.md) | Spinify | **✓** |  | Sim | Sim | Bot, Guia |
 | [Stack Overflow para o Teams](./stack-overflow-for-teams.md) | Stack Overflow | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem |
 | [Standup Alice](./bao-le-duc-standup-alice.md) | Bao Le Duc | **✓** |  | Sim | Sim | Bot |
 | [StarLeaf](./starleaf.md) | StarLeaf | **✓** |  | Sim | Sim | Bot, Extensão de Mensagem |
+| [StealthMail](./stealthmail-software-ltd.md) | Stealthmail Software Ltd | **✓** |  | Sim | Sim | Guia |
 | [Streem](./streem.md) | Streem | **✓** |  | Sim | Sim | Bot |
 | [Studi.ly](./inlogic-office-store-studily.md) | inLogic-Office Store | **✓** |  | Sim | Sim | Guia |
 | [SurveyMonkey](./surveymonkey.md) | SurveyMonkey | **✓** |  | Sim | Sim | Bot, Guia, Extensão de Mensagem, Conector |
+| [SurveySparrow](./admin@surveysparrowcom-surveysparrow.md) | admin@surveysparrow.com | **✓** |  | Sim | Sim | Bot |
 | [Sympli](./sympli-llc.md) | Sympli, LLC | **✓** |  | Sim | Sim | Bot, Extensão de Mensagem |
 | [TackleBox](./insiten-tacklebox.md) | Insiten | **✓** |  | Sim | Sim | Guia, Conector |
 | [Talla](./talla-inc.md) | Talla Inc. | **✓** |  | Sim | Sim | Bot, Guia |
 | [Talview Entrevistas](./talview-inc-interviews.md) | Talview Inc | **✓** |  | Sim | Sim | Guia |
 | [TaskList](./limestat-inc-tasklist.md) | LimeStat, Inc | **✓** |  | Sim | Sim | Bot |
+| [Teamhood](./eylean-uab-teamhood.md) | Eylean, UAB | **✓** |  | Sim | Sim | Bot, Extensão de Mensagem |
 | [TeamMate por ChitChattr](./chitchattr-teammate-by.md) | ChitChattr | **✓** |  | Sim | Sim | Bot, Guia |
 | [TeamMood](./power-up-conseil-teammood.md) | Power Up Conseil | **✓** |  | Sim | Sim | Bot |
 | [Teams Manager](./solutions2share-gmbh-teams-manager.md) | Solutions2Share GmbH | **✓** |  | Sim | Sim | Bot, Guia |
@@ -165,7 +183,9 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  | Sim | Sim | Bot, Extensão de Mensagem |
 | [timeghost](./kollisch-gmbh-timeghost.md) | K&#246;llisch GmbH | **✓** |  | Sim | Sim | Guia |
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  | Sim | Sim | Bot, Conector |
+| [Tribute](./tribute-co.md) | Tribute Co. | **✓** |  | Sim | Sim | Guia |
 | [Trivia](./springworks-hr-tech-trivia.md) | Springworks HR Tech | **✓** |  | Sim | Sim | Bot, Guia |
+| [Trivie](./trivie-inc.md) | Trivie, Inc. | **✓** |  | Sim | Sim | Guia |
 | [Tryane Analytics](./tryane-analytics.md) | Tryane | **✓** |  | Sim | Sim | Guia |
 | [Controlador de Férias](./vacation-tracker.md) | Vacation Tracker | **✓** |  | Sim | Sim | Bot, Guia |
 | [Viima](./viima-solutions-oy.md) | Viima Solutions Oy | **✓** |  | Sim | Sim | Guia |

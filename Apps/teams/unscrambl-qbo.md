@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/01/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o qbo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f19c54d5a43f5380d6762ad39ac59f97a241e79d
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: eb7e450bfffbecade66f44a78c8ca366eac5f5f9
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092343"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52248049"
 ---
 # <a name="qbo"></a>qbo
 

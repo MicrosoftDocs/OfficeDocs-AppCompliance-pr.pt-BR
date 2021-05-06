@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/24/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o EdMill, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c99dbd9cc7e34123c1c75e56cc2b17273fc0220a
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 09c2fc59918336acd1268b378b71fb3e1c0a6615
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092245"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251220"
 ---
 # <a name="edmill"></a>EdMill
 
@@ -33,7 +34,7 @@ Informações fornecidas pelo My-Serious-Game para a Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | EdMill |
 | ID | WA200002622 |
-| Recursos | Guia |
+| Recursos | Tab |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | My-Serious-Game |
 | URL do site do parceiro | [https://www.edmill.com/](https://www.edmill.com/) |

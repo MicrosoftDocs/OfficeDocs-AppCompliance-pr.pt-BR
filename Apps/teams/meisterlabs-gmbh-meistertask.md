@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o MeisterTask, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c5b2ae69841476d5a85edb9a3b889ee962245fd3
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 976df0385411c670c2f185b302a88d4746a92e73
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092260"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251250"
 ---
 # <a name="meistertask"></a>MeisterTask
 
@@ -33,7 +34,7 @@ Informações fornecidas pelo MeisterLabs GmbH para a Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | MeisterTask |
 | ID | WA104381349 |
-| Recursos | Guia |
+| Recursos | Tab |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | MeisterLabs GmbH |
 | URL do site do parceiro | [https://www.meistertask.com](https://www.meistertask.com) |

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/28/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Evocom, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ae711fd91db656bb1c00d8bd55bd81d5c3e7090d
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 4e72a8116eba9e2f091806cf2b5e1d07e95f93c2
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092427"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250689"
 ---
 # <a name="evocom"></a>Evocom
 

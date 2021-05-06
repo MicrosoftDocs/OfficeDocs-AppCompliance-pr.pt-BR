@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/12/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Skillate, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5775e9a2ea511498c03c68dab29bf4eb9bef43c2
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 4f997d64a6306933f8006bf1931d55c26fba5466
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092673"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250059"
 ---
 # <a name="skillate"></a>Skillate
 
@@ -128,11 +129,10 @@ Essas informações foram fornecidas pelo Skillate Laboratories Pvt. Ltd. sobre 
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Não |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,
-<br />
-- OAuth2 Flow, a menos que seja necessário para um SPA
-<br />
-- Fluxo de ropc (credencial de senha do proprietário do recurso) | | Seu aplicativo expõe alguma APIs da Web? | Nenhuma | | Seu aplicativo usa APIs de visualização? | Nenhuma | | Seu aplicativo usa APIs preteridas? | Nenhuma |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Seu aplicativo expõe alguma APIs da Web? | Não |
+| Seu aplicativo usa APIs de visualização? | Não |
+| Seu aplicativo usa APIs preteridas? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
