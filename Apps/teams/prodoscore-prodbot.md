@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/23/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Prodoscore ProdBot, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 373544c31b3baca313c71cb1620b9c57c627fa69
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: b5075edb0ff6f23f01ef0975ee5429560720af9e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092315"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252361"
 ---
 # <a name="prodoscore-prodbot"></a>Prodoscore ProdBot
 
@@ -125,11 +126,10 @@ Essas informações foram fornecidas pela Prodoscore sobre como esse aplicativo 
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Sim |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,
-<br />
-
-<br />
- | | Seu aplicativo expõe alguma APIs da Web? | Nenhuma | | Seu aplicativo usa APIs de visualização? | Sim | | Seu aplicativo usa APIs preteridas? | Nenhuma |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/><br/> |
+| Seu aplicativo expõe alguma APIs da Web? | Não |
+| Seu aplicativo usa APIs de visualização? | Sim |
+| Seu aplicativo usa APIs preteridas? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/08/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Alvao Service Desk, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bfdac5e3e6c6dfaf0d4b2a71bc3607ab81995a56
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 0af9951b7f2b41212897c2593e273c24500ba8b1
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092550"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252721"
 ---
 # <a name="alvao-service-desk"></a>Alvao Service Desk
 
@@ -125,11 +126,11 @@ Essas informações foram fornecidas pela ALVAO s.r.o. sobre como esse aplicativ
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Não |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,
-<br />
-- OAuth2 Flow, a menos que seja necessário para um SPA
-<br />
-- Fluxo de ropc (credencial de senha do proprietário do recurso) | | Seu aplicativo expõe alguma APIs da Web? | Sim | | Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim | | Seu aplicativo usa APIs de visualização? | Nenhuma | | Seu aplicativo usa APIs preteridas? | Nenhuma |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Seu aplicativo expõe alguma APIs da Web? | Sim |
+| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Seu aplicativo usa APIs de visualização? | Não |
+| Seu aplicativo usa APIs preteridas? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

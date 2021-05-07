@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
-description: Todas as informações de segurança e conformidade disponíveis para o Zoho CRM, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+certification_type: attested
+description: Todas as informações de segurança e conformidade disponíveis para o Zoho CRM, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2e04101b9b993f17decec407aa3dbcc603b136f5
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 4387faccb63299392acb23ab91f312d175d1524d
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092690"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251600"
 ---
 # <a name="zoho-crm"></a>Zoho CRM
 
@@ -20,7 +21,7 @@ ms.locfileid: "52092690"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 16 de dezembro de 2019</p>
 
-* <a href="https://teams.microsoft.com/l/app/003a8a54-9d27-41cd-9c28-aec5875a3497" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/003a8a54-9d27-41cd-9c28-aec5875a3497" target="_blank">Exibir no Armazenamento do Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104382094" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -34,10 +35,10 @@ Informações fornecidas pela Zoho Corporation Pvt Ltd para a Microsoft:
 | Nome do aplicativo | Zoho CRM |
 | ID | WA104382094 |
 | Recursos | Bot, Guia, Extensão de Mensagem |
-| Office 365 clientes com suporte | Microsoft Teams |
+| Clientes do Office 365 com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Zoho Corporation Pvt Ltd |
 | URL do site do parceiro | [https://www.zoho.com/](https://www.zoho.com/) |
-| URL da página Teams de informações do aplicativo | [https://www.zoho.com/crm/help/microsoft-teams-integration.h...](https://www.zoho.com/crm/help/microsoft-teams-integration.html) |
+| Página de informações do aplicativo URL do Teams | [https://www.zoho.com/crm/help/microsoft-teams-integration.h...](https://www.zoho.com/crm/help/microsoft-teams-integration.html) |
 | URL da Política de Privacidade | [https://www.zoho.com/privacy.html](https://www.zoho.com/privacy.html) |
 | URL dos Termos de Uso | [https://www.zoho.com/crm/zohocrm-terms.html](https://www.zoho.com/crm/zohocrm-terms.html) |
 
@@ -53,7 +54,7 @@ Essas informações foram fornecidas pela Zoho Corporation Pvt Ltd sobre como es
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Listar todas [as permissões do Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exige.
 
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
@@ -68,11 +69,11 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| perfil | delegado |  | Exibir o perfil básico do usuário | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 
 
-#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
+#### <a name="non-microsoft-services-used"></a>Serviços que não são da Microsoft usados
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Os serviços que não são da Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -101,9 +102,9 @@ Descrever como os administradores da organização podem controlar suas informa�
 
 ::: zone pivot="mcas"
 
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do catálogo de Segurança do Aplicativo na [Nuvem](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) da Microsoft aparecem abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/22307' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Informações de Segurança do Aplicativo na Nuvem da Microsoft' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/22307' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/22307" target="_blank">Exibir em uma nova guia</a>
 

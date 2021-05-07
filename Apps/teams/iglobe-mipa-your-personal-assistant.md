@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/06/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para MIPA - Seu Assistente Pessoal, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7acb929082cdebca9780c741fbb584f3848b8108
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 243a39894b36ea470d25d4145169ecd6f2a27c75
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092394"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252531"
 ---
 # <a name="mipa---your-personal-assistant"></a>MIPA - seu Assistente Pessoal
 
