@@ -2,22 +2,23 @@
 title: Informações do aplicativo para a Matriz de Prioridade - Transformar emails em tarefas pela Appfluence Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/17/2020
+ms.date: 04/16/2021
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para a Matriz de Prioridade - Transforme emails em tarefas, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f92f29796daf072b24233bdcc9459d7db82d40bc
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 3f4ba1a7f888c576ae7a87286488d7b5f06037a2
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092633"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52258988"
 ---
 # <a name="priority-matrix---turn-emails-into-tasks"></a>Matriz de Prioridade - Transformar emails em tarefas
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Última atualização pelo desenvolvedor em: 17 de novembro de 2020</p>
+<p>Última atualização pelo desenvolvedor em: 16 de abril de 2021</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381735" target="_blank">Exibir no AppSource</a>
 
@@ -105,9 +106,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone pivot="mcas"
 
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do catálogo de Segurança do Aplicativo na [Nuvem](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) da Microsoft aparecem abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35667' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Informações de Segurança do Aplicativo na Nuvem da Microsoft' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35667' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35667" target="_blank">Exibir em uma nova guia</a>
 
@@ -124,7 +125,7 @@ Essas informações foram fornecidas pela Appfluence Inc sobre como esse aplicat
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração da plataforma de identidade da Microsoft?  | Sim |
 | Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
@@ -132,11 +133,11 @@ Essas informações foram fornecidas pela Appfluence Inc sobre como esse aplicat
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Sim |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,
-<br />
-
-<br />
-- Fluxo de ropc (credencial de senha do proprietário do recurso) | | Seu aplicativo expõe alguma APIs da Web? | Sim | | Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim | | Seu aplicativo usa APIs de visualização? | Nenhuma | | Seu aplicativo usa APIs preteridas? | Nenhuma |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/><br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Seu aplicativo expõe alguma APIs da Web? | Sim |
+| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Seu aplicativo usa APIs de visualização? | Não |
+| Seu aplicativo usa APIs preteridas? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

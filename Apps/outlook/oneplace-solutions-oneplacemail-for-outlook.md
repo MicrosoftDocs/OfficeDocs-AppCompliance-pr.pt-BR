@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/31/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o OnePlaceMail para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 380e836399d5978b0312b7f1e9dccb4144e09840
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 1eeee8a3aff40a8ca4486308bcfef5887b6ced6c
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092613"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252952"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail para Outlook
 
@@ -69,7 +70,7 @@ Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que n�
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| SharePoint | Sim | SharePoint URLs, nomes de biblioteca/lista/pasta | As informações organizacionais acessadas por são usadas para facilitar o processo de salvar emails e anexos de Exchange para SharePoint. Esses dados adicionais não são armazenados em repouso e são criptografados em trânsito. Exemplos desses dados incluem SharePoint de coluna, como valores de coluna De escolha, valores de taxonomia, nomes de Tipo de Conteúdo, Nomes de Pasta, Nomes de Site.  | Embora esses dados não são armazenados ou coletados pelo aplicativo, eles podem aparecer em telemetria/logs em que são mantidos por 90 dias. | Os dados não são armazenados |
+>| Microsoft Office SharePoint Online | Sim | SharePoint URLs, nomes de biblioteca/lista/pasta | As informações organizacionais acessadas por são usadas para facilitar o processo de salvar emails e anexos de Exchange para SharePoint. Esses dados adicionais não são armazenados em repouso e são criptografados em trânsito. Exemplos desses dados incluem SharePoint de coluna, como valores de coluna De escolha, valores de taxonomia, nomes de Tipo de Conteúdo, Nomes de Pasta, Nomes de Site.  | Embora esses dados não são armazenados ou coletados pelo aplicativo, eles podem aparecer em telemetria/logs em que são mantidos por 90 dias. | Os dados não são armazenados |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
@@ -141,11 +142,11 @@ Essas informações foram fornecidas pelas Soluções do OnePlace sobre como ess
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Sim |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,
-<br />
-- OAuth2 Flow, a menos que seja necessário para um SPA
-<br />
-- Fluxo de ropc (credencial de senha do proprietário do recurso) | | Seu aplicativo expõe alguma APIs da Web? | Sim | | Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim | | Seu aplicativo usa APIs de visualização? | Nenhuma | | Seu aplicativo usa APIs preteridas? | Nenhuma |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Seu aplicativo expõe alguma APIs da Web? | Sim |
+| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Seu aplicativo usa APIs de visualização? | Não |
+| Seu aplicativo usa APIs preteridas? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

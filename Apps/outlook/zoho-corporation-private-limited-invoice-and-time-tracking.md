@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Invoice e Time Tracking - Zoho Invoice, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 900935b6422b2a9e48ddb0a79c92c0b1f6b4d139
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 97c065f0cdb0efbc005353cd6f6e459a67303651
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092600"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52253232"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>Invoice and Time Tracking - Zoho Invoice
 

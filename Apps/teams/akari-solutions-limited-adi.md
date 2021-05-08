@@ -1,46 +1,46 @@
 ---
-title: Informações do aplicativo para a teamhood por Eylean, UAB
+title: Informações do aplicativo para ADI pela Akari Solutions Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/27/2021
+ms.date: 04/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Teamhood, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para ADI, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 45367d70e46d9431a4cec2c9667009831e302821
-ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
+ms.openlocfilehash: 435ede7d8821a4f93e930996f7159b794b5b8a22
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52258838"
+ms.locfileid: "52253042"
 ---
-# <a name="teamhood"></a>Teamhood
+# <a name="adi"></a>ADI
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 27 de abril de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 28 de abril de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/22372c30-c5de-483e-85b4-8d51db246eda" target="_blank">Exibir no Armazenamento do Teams</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002568" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/de5717a1-6884-4b96-8b1e-ee17b5d778f3" target="_blank">Exibir no Teams store</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002615" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas por Eylean, UAB para a Microsoft:
+Informações fornecidas pela Akari Solutions Limited à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Teamhood |
-| ID | WA200002568 |
-| Recursos | Bot, Extensão de Mensagem |
-| Clientes do Office 365 com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Eylean, UAB |
-| URL do site do parceiro | [https://teamhood.com](https://teamhood.com) |
-| Página de informações do aplicativo URL do Teams | [https://teamhood.com/features/teamhood-and-microsoft-teams-...](https://teamhood.com/features/teamhood-and-microsoft-teams-integration/) |
-| URL da Política de Privacidade | [https://teamhood.com/privacy-policy/](https://teamhood.com/privacy-policy/) |
-| URL dos Termos de Uso | [https://teamhood.com/terms-of-use/](https://teamhood.com/terms-of-use/) |
+| Nome do aplicativo | ADI |
+| ID | WA200002615 |
+| Recursos | Bot |
+| Office 365 clientes com suporte | Microsoft Teams |
+| Nome da empresa de parceiro | Akari Solutions Limited |
+| URL do site do parceiro | [https://akari.io/adi/](https://akari.io/adi/) |
+| URL da página Teams de informações do aplicativo | [https://akari.io/adi](https://akari.io/adi) |
+| URL da Política de Privacidade | [https://akari.io/adi-privacy-policy/](https://akari.io/adi-privacy-policy/) |
+| URL dos Termos de Uso | [https://akari.io/adi-terms-and-conditions/](https://akari.io/adi-terms-and-conditions/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,20 +50,20 @@ Informações fornecidas por Eylean, UAB para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo Eylean, UAB sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Akari Solutions Limited sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Listar todas [as permissões do Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exige.
+Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
 >Este aplicativo não usa o Microsoft Graph.
 
 
-#### <a name="non-microsoft-services-used"></a>Serviços que não são da Microsoft usados
+#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Os serviços que não são da Microsoft não são usados.
+>Não serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -83,7 +83,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Se necessário, solicitando um consentimento explícito pelo usuário final do Teamhood
+>Um pequeno número de administradores têm acesso por meio de &amp; PIM MFA aos componentes da plataforma de aplicativos.
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -97,11 +97,11 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone pivot="mcas"
 
-As informações do catálogo de Segurança do Aplicativo na [Nuvem](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) da Microsoft aparecem abaixo.
+As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Informações de Segurança do Aplicativo na Nuvem da Microsoft' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37586' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37587' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37586" target="_blank">Exibir em uma nova guia</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37587" target="_blank">Exibir em uma nova guia</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,22 +111,21 @@ As informações do catálogo de Segurança do Aplicativo na [Nuvem](https://www
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pelo Eylean, UAB sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pela Akari Solutions Limited sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração da plataforma de identidade da Microsoft?  | Sim |
-| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | falso |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
 | As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
-| Seu aplicativo tem um cliente confidencial? | Sim |
+| Seu aplicativo tem um cliente confidencial? | Não |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- Fluxo Implícito OAuth2, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
-| Seu aplicativo expõe alguma APIs da Web? | Sim |
-| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Para seu aplicativo, o que você evita usar? | ,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/> |
+| Seu aplicativo expõe alguma APIs da Web? | Não |
 | Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 

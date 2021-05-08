@@ -2,17 +2,17 @@
 title: Microsoft Project Segurança e Conformidade do Aplicativo - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/15/2021
+ms.date: 05/06/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft Project aplicativos.
 localization_priority: Normal
-ms.openlocfilehash: 99c6c69d3df94f1a3255ea7fe7b25159469b8473
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 45d043a81ba5ce3ce4cc56fd46b356e1139f4d60
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52070898"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52258958"
 ---
 # <a name="microsoft-project-app-security-and-compliance"></a>Microsoft Project Segurança e Conformidade do Aplicativo
 

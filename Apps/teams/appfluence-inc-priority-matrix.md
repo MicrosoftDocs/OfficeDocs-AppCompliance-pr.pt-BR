@@ -2,25 +2,25 @@
 title: Informações do aplicativo para a matriz de prioridade pela Appfluence Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/17/2020
+ms.date: 04/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Todas as informações de segurança e conformidade disponíveis para a Matriz de Prioridade, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para a Matriz de Prioridade, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ccd03dd271cfafb55fd99fc65f4820a9d8787e83
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 0e6e5afc6bc05299c149e46aed345ae6bb171ecd
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250870"
+ms.locfileid: "52258868"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Última atualização pelo desenvolvedor em: 17 de novembro de 2020</p>
+<p>Última atualização pelo desenvolvedor em: 16 de abril de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/5be2b320-a5b7-4221-893c-dee506e4e365" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/5be2b320-a5b7-4221-893c-dee506e4e365" target="_blank">Exibir no Armazenamento do Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104382005" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -34,10 +34,10 @@ Informações fornecidas pela Appfluence Inc à Microsoft:
 | Nome do aplicativo | Priority Matrix |
 | ID | WA104382005 |
 | Recursos | Bot, Guia, Extensão de Mensagem, Conector |
-| Office 365 clientes com suporte | Microsoft Teams |
+| Clientes do Office 365 com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Appfluence Inc |
 | URL do site do parceiro | [https://appfluence.com](https://appfluence.com) |
-| URL da página Teams de informações do aplicativo | [https://appfluence.com/project-management-integration-for-m...](https://appfluence.com/project-management-integration-for-microsoft-teams/) |
+| Página de informações do aplicativo URL do Teams | [https://appfluence.com/project-management-integration-for-m...](https://appfluence.com/project-management-integration-for-microsoft-teams/) |
 | URL da Política de Privacidade | [https://appfluence.com/privacy](https://appfluence.com/privacy) |
 | URL dos Termos de Uso | [https://appfluence.com/eula](https://appfluence.com/eula) |
 
@@ -53,26 +53,26 @@ Essas informações foram fornecidas pela Appfluence Inc sobre como esse aplicat
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Listar todas [as permissões do Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exige.
 
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.Read | delegado | Somente quando um novo usuário é adicionado à conta, armazenamos seus emails. | Na criação de nova conta, usamos isso para sugerir outros membros da equipe. | 5be2b320-a5b7-4221-893c-dee506e4e365 |
 >| User.ReadBasic.All | delegado | Somente quando um novo usuário é adicionado à conta, armazenamos seus emails. | Na criação de nova conta, usamos isso para sugerir outros membros da equipe. | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| offline_access | delegado | Armazenamos o token de logon para realizar solicitações em nome do usuário | Atualizar token sem incomodar o usuário. (Matriz de prioridade para Teams) | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| Files.Read.All | delegado | Não armazenamos nenhuma informação de arquivo, a menos que o usuário crie explicitamente e conscientemente um item priority Matrix que se vincula ao arquivo original. | Em nosso recurso One-on-One (disponível por meio de nosso aplicativo Web e também nossos complementos do Outlook/Teams), usamos esse recurso para realçar arquivos SharePoint/OneDrive compartilhados entre dois usuários em nosso sistema, como uma maneira de facilitar reuniões e colaboração geral. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
+>| offline_access | delegado | Armazenamos o token de logon para realizar solicitações em nome do usuário | Atualizar token sem incomodar o usuário. (Matriz de Prioridade para o Teams) | 5be2b320-a5b7-4221-893c-dee506e4e365 |
+>| Files.Read.All | delegado | Não armazenamos nenhuma informação de arquivo, a menos que o usuário crie explicitamente e conscientemente um item priority Matrix que se vincula ao arquivo original. | Em nosso recurso One-on-One (disponível por meio do nosso aplicativo Web e também de nossos complementos do Outlook/Teams), usamos esse recurso para realçar arquivos do SharePoint/OneDrive compartilhados entre dois usuários em nosso sistema, como uma maneira de facilitar reuniões e colaboração geral. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| User.Read | delegado | Informações básicas de perfil de usuário (nome de exibição, nome, sobrenome, email, avatar) são armazenadas por nós. | Obter o nome do usuário, email, avatar, para personalizar sua conta conosco. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| openid | delegado | Armazenamos a conexão SSO para indicar o modo de logon do usuário. | Para entrar nos usuários por meio de um único login. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| Calendars.Read | delegado | Um pequeno número de eventos de calendário são transformados em tarefas armazenadas em nosso sistema. | Leia eventos de calendário para que eles possam ser exibidos em nosso modo de exibição 1:1. Também para inicializar novas contas.  | d76f016f-52c7-41b5-835b-900361d7040c |
->| Mail.Read | delegado | Armazenamos tarefas criadas em nosso sistema, com um link para a mensagem original. | Usado em nosso Outlook para transformar emails em tarefas e exibir o trabalho compartilhado no visor 1:1. | d76f016f-52c7-41b5-835b-900361d7040c |
->| Tasks.Read | delegado | Algumas Outlook/Planner são replicadas em nosso sistema para ajudar novos usuários. | Inicializamos novas contas de usuário com suas Graph tarefas. | d76f016f-52c7-41b5-835b-900361d7040c |
+>| Mail.Read | delegado | Armazenamos tarefas criadas em nosso sistema, com um link para a mensagem original. | Usado no nosso complemento do Outlook para transformar emails em tarefas e para exibir o trabalho compartilhado no visor 1:1. | d76f016f-52c7-41b5-835b-900361d7040c |
+>| Tasks.Read | delegado | Algumas tarefas do Outlook/Planner são replicadas em nosso sistema para ajudar novos usuários. | Inicializamos novas contas de usuário com suas tarefas do Graph. | d76f016f-52c7-41b5-835b-900361d7040c |
 
 
-#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
+#### <a name="non-microsoft-services-used"></a>Serviços que não são da Microsoft usados
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Os serviços que não são da Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -108,9 +108,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone pivot="mcas"
 
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do catálogo de Segurança do Aplicativo na [Nuvem](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) da Microsoft aparecem abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35667' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Informações de Segurança do Aplicativo na Nuvem da Microsoft' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35667' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35667" target="_blank">Exibir em uma nova guia</a>
 
@@ -127,7 +127,7 @@ Essas informações foram fornecidas pela Appfluence Inc sobre como esse aplicat
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração da plataforma de identidade da Microsoft?  | Sim |
 | Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |

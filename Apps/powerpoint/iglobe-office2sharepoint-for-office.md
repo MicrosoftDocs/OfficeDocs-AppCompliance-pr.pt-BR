@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/17/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Office2SharePoint para Office, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 270b2396ef71a8965f02cb1a47bb3c272fe91bee
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: a6a9a6d5d3f340e576c4f2da4ba19edb74454773
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092587"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252847"
 ---
 # <a name="office2sharepoint-for-office"></a>Office2SharePoint para Office
 

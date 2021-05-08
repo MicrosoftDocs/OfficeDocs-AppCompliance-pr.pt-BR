@@ -1,46 +1,46 @@
 ---
-title: Informações do aplicativo para a teamhood por Eylean, UAB
+title: Informações do aplicativo para BrainBot por Biggerbrains
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/27/2021
+ms.date: 04/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Teamhood, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o BrainBot, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 45367d70e46d9431a4cec2c9667009831e302821
+ms.openlocfilehash: 74b3ca5d6a674ea7322995eb9941dadcd939b01c
 ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52258838"
+ms.locfileid: "52258858"
 ---
-# <a name="teamhood"></a>Teamhood
+# <a name="brainbot"></a>BrainBot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 27 de abril de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 28 de abril de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/22372c30-c5de-483e-85b4-8d51db246eda" target="_blank">Exibir no Armazenamento do Teams</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002568" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/3c95872f-ca12-456e-84b9-c717fe93330c" target="_blank">Exibir no Armazenamento do Teams</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381981" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas por Eylean, UAB para a Microsoft:
+Informações fornecidas por Biggerbrains à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Teamhood |
-| ID | WA200002568 |
-| Recursos | Bot, Extensão de Mensagem |
+| Nome do aplicativo | BrainBot |
+| ID | WA104381981 |
+| Recursos | Bot |
 | Clientes do Office 365 com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Eylean, UAB |
-| URL do site do parceiro | [https://teamhood.com](https://teamhood.com) |
-| Página de informações do aplicativo URL do Teams | [https://teamhood.com/features/teamhood-and-microsoft-teams-...](https://teamhood.com/features/teamhood-and-microsoft-teams-integration/) |
-| URL da Política de Privacidade | [https://teamhood.com/privacy-policy/](https://teamhood.com/privacy-policy/) |
-| URL dos Termos de Uso | [https://teamhood.com/terms-of-use/](https://teamhood.com/terms-of-use/) |
+| Nome da empresa de parceiro | Biggerbrains |
+| URL do site do parceiro | [https://brainbot.ai](https://brainbot.ai) |
+| Página de informações do aplicativo URL do Teams | [https://brainbot.ai](https://brainbot.ai) |
+| URL da Política de Privacidade | [https://brainbot.ai/privacypolicy/](https://brainbot.ai/privacypolicy/) |
+| URL dos Termos de Uso | [https://brainbot.ai/terms/](https://brainbot.ai/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,13 +50,15 @@ Informações fornecidas por Eylean, UAB para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo Eylean, UAB sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas por Biggerbrains sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
 Listar todas [as permissões do Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exige.
 
->Este aplicativo não usa o Microsoft Graph.
+>| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
+>| User.Read | aplicação | Usamos nomes completos &amp; de endereços de email como parte do processo de autenticação. Além disso, os endereços de email são usados para enviar sequências de aprendizado para o usuário quando ele se inscreve em um | Usamos nomes completos &amp; de endereços de email como parte do processo de autenticação. Além disso, os endereços de email são usados para enviar sequências de aprendizado para o usuário quando ele se inscreve em um | b256b34a-b377-4fc2-b25a-a8f5f0594e86 |
 
 
 #### <a name="non-microsoft-services-used"></a>Serviços que não são da Microsoft usados
@@ -69,7 +71,9 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
->Nenhum EUII é acessado.
+>| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
+>|:--------------------------------|:---------------------|:--------------------------|
+>| Usamos nomes completos &amp; de endereços de email como parte do processo de autenticação. Além disso, os endereços de email são usados para enviar sequências de aprendizado para o usuário quando ele se inscreve em um | Endereços de email &amp; com nomes completos | Eles são usados para fins de logon e como parte da funcionalidade do aplicativo para enviar sequências de aprendizado ao usuário quando ele se inscreveu em uma |
 
 
 
@@ -77,13 +81,13 @@ Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá ac
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Nenhum OII ou EUII aparece nos logs ou telemetria de aplicativos.
+>as respostas do usuário às avaliações de treinamento são armazenadas até que a remoção seja solicitada pelo indivíduo ou pela organização.  Contas inativas são excluídas após doze meses. 
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Se necessário, solicitando um consentimento explícito pelo usuário final do Teamhood
+>n/a, nenhum dado é armazenado em sistemas parceiros
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -99,9 +103,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 As informações do catálogo de Segurança do Aplicativo na [Nuvem](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) da Microsoft aparecem abaixo.
 
-<iframe height='1020' title='Informações de Segurança do Aplicativo na Nuvem da Microsoft' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37586' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Informações de Segurança do Aplicativo na Nuvem da Microsoft' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37584' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37586" target="_blank">Exibir em uma nova guia</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37584" target="_blank">Exibir em uma nova guia</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,22 +115,21 @@ As informações do catálogo de Segurança do Aplicativo na [Nuvem](https://www
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pelo Eylean, UAB sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas por Biggerbrains sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração da plataforma de identidade da Microsoft?  | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração da plataforma de identidade da Microsoft?  | Não |
 | Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
 | As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
-| Seu aplicativo dá suporte a multi-enancy? | Sim |
-| Seu aplicativo tem um cliente confidencial? | Sim |
+| Seu aplicativo dá suporte a multi-enancy? | Não |
+| Seu aplicativo tem um cliente confidencial? | Não |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
 | Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- Fluxo Implícito OAuth2, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
-| Seu aplicativo expõe alguma APIs da Web? | Sim |
-| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Seu aplicativo expõe alguma APIs da Web? | Não |
 | Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 

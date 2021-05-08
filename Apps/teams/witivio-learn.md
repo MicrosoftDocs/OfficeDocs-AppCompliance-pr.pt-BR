@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/31/2020
 ms.topic: article
 ms.service: attestation
-description: Todas as informações de segurança e conformidade disponíveis para Learn, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+certification_type: attested
+description: Todas as informações de segurança e conformidade disponíveis para Learn, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e7ebfb89a25634fb1691df9eaa9182334278726a
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 724ecb5bd0eb5365ea06af4fda0b51b4fd23b157
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52092335"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52253242"
 ---
 # <a name="learn"></a>Saiba mais
 
@@ -20,7 +21,7 @@ ms.locfileid: "52092335"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 31 de março de 2020</p>
 
-* <a href="https://teams.microsoft.com/l/app/2d96b540-aa26-431b-bc31-222321c762e3" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/2d96b540-aa26-431b-bc31-222321c762e3" target="_blank">Exibir no Armazenamento do Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001308" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -34,7 +35,7 @@ Informações fornecidas pelo Witivio à Microsoft:
 | Nome do aplicativo | Saiba mais |
 | ID | WA200001308 |
 | Recursos | Bot, Guia |
-| Office 365 clientes com suporte | Microsoft Teams |
+| Clientes do Office 365 com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Witivio |
 | URL do site do parceiro | [https://www.witivio.com/learn](https://www.witivio.com/learn) |
 | URL da Política de Privacidade | [https://www.witivio.com/en/privacy](https://www.witivio.com/en/privacy) |
@@ -52,7 +53,7 @@ Essas informações foram fornecidas pelo Witivio sobre como esse aplicativo col
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Listar todas [as permissões do Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exige.
 
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
@@ -62,11 +63,11 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| perfil | delegado | N/D | Coletamos o UPN e a ID do AAD para a autorização. | 8c5c0060-2892-4355-b0db-661f206028a9 |
 
 
-#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
+#### <a name="non-microsoft-services-used"></a>Serviços que não são da Microsoft usados
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Os serviços que não são da Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -89,7 +90,7 @@ Somente administradores PROD/Run têm acesso à telemetria de produção. Os log
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->O Witivio usa apenas componentes do Azure, implantados na região norte da Europa. Usamos o insight do aplicativo e Cosmos DB para análise de dados e armazenamento..
+>O Witivio usa apenas componentes do Azure, implantados na região norte da Europa. Usamos o insight do aplicativo e o Db do Cosmos para análise e armazenamento de dados..
 O Witivio usa o MFA para todos os usuários, incluindo administradores. Os administradores têm uma conta de usuário (para estação de trabalho) e uma conta privilegiada para acessar o Azure ressources.
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
@@ -104,9 +105,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone pivot="mcas"
 
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do catálogo de Segurança do Aplicativo na [Nuvem](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) da Microsoft aparecem abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35854' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Informações de Segurança do Aplicativo na Nuvem da Microsoft' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35854' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35854" target="_blank">Exibir em uma nova guia</a>
 

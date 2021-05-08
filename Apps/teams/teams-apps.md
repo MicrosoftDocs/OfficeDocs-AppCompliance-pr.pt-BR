@@ -2,21 +2,21 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/05/2021
+ms.date: 05/06/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade para todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 6bc983288ea2acb783fd99a80c6c4dbcfbf83fae
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 029df430f55edfaef5a1c0bbf106c50438e19590
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251040"
+ms.locfileid: "52258818"
 ---
 # <a name="microsoft-teams-app-security-and-compliance"></a>Segurança e Conformidade de Aplicativos do Microsoft Teams
 
-A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 para fornecer as informações que as organizações precisam para agilizar e informar durante as decisões sobre os aplicativos e os complementos do Teams que usam. As informações são complementadas com informações do catálogo de aplicativos do [Microsoft Cloud App Security](https://www.microsoft.com/pt-BR/enterprise-mobility-security/cloud-app-security) e informações fornecidas pelos desenvolvedores quando eles enviam seus aplicativos. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
+A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 para fornecer as informações que as organizações precisam para agilizar e informar durante as decisões sobre os aplicativos e os complementos do Teams que usam. As informações são complementadas com informações do catálogo de aplicativos do [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) e informações fornecidas pelos desenvolvedores quando eles enviam seus aplicativos. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
 
 | **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** | **Informações sobre Gerenciamento de Dados** | **Informações do Cloud App Security.**  | **Recursos do Aplicativo** |
 |:--------|:------------|:----------------------:|:-------------:|:-----------------------------:|:----------------------------------:|:---------------------|
