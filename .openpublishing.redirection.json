@@ -151,6 +151,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200002677.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/axelleron",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/d813aed5-1071-460c-a088-1e6beedfe29a.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/axelleron",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200001447.md",
       "redirect_url": "/microsoft-365-app-certification/teams/beekast",
       "redirect_document_id": false
@@ -168,6 +178,16 @@
     {
       "source_path": "Apps/forward/03a513ab-60d8-4d27-8c9a-5182934a43bb.md",
       "redirect_url": "/microsoft-365-app-certification/teams/beesapps-beesy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002798.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/technologies-openmind-inc-les-berrycast",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/c7cde650-1e32-11eb-af14-639b3a7d6491.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/technologies-openmind-inc-les-berrycast",
       "redirect_document_id": false
     },
     {
@@ -1261,6 +1281,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200001639.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/qchange-software-solution-inc-leader-experience",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/32dbfdc9-7832-4969-ad02-77a4902fae35.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/qchange-software-solution-inc-leader-experience",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381933.md",
       "redirect_url": "/microsoft-365-app-certification/teams/qubie",
       "redirect_document_id": false
@@ -1441,11 +1471,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200002128.md",
-      "redirect_url": "/microsoft-365-app-certification/excel/sheetgo-europe-sl",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002067.md",
       "redirect_url": "/microsoft-365-app-certification/teams/sheetgo-europe-sl",
       "redirect_document_id": false
@@ -1453,6 +1478,11 @@
     {
       "source_path": "Apps/forward/583de270-58d0-4f94-af06-bf971f82fd94.md",
       "redirect_url": "/microsoft-365-app-certification/teams/sheetgo-europe-sl",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002128.md",
+      "redirect_url": "/microsoft-365-app-certification/excel/sheetgo-europe-sl",
       "redirect_document_id": false
     },
     {
@@ -1721,6 +1751,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200002829.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/smarter-business-solution-gmbh-tagteam",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/6d7f01cb-cfa5-48d9-beed-363d381ae32b.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/smarter-business-solution-gmbh-tagteam",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381253.md",
       "redirect_url": "/microsoft-365-app-certification/teams/talla-inc",
       "redirect_document_id": false
@@ -1748,6 +1788,16 @@
     {
       "source_path": "Apps/forward/57c81e84-9b7b-4783-be4e-0b7ffc0719af.md",
       "redirect_url": "/microsoft-365-app-certification/teams/limestat-inc-tasklist",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002660.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/effency-teamgether",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/5a0547cc-ea63-4425-acc8-08b89a8fc1a1.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/effency-teamgether",
       "redirect_document_id": false
     },
     {
