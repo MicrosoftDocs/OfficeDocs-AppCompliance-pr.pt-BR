@@ -1,31 +1,31 @@
 ---
-title: Microsoft PowerPoint App Security and Compliance - All Apps
+title: Microsoft PowerPoint Segurança e Conformidade de Aplicativos - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/06/2021
+ms.date: 05/18/2021
 ms.topic: article
 ms.service: attestation
-description: Todas as informações de segurança e conformidade disponíveis para todos os aplicativos do Microsoft PowerPoint.
+description: Todas as informações disponíveis de segurança e conformidade para todos os aplicativos PowerPoint Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 86222e80a182880468d47c462d2c4ae443ebab34
-ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
+ms.openlocfilehash: a1b40754a2f3cf24e8fd5eb2b18a9a61003dd994
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52259018"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553562"
 ---
-# <a name="microsoft-powerpoint-app-security-and-compliance"></a>Conformidade e segurança do aplicativo do Microsoft PowerPoint
+# <a name="microsoft-powerpoint-app-security-and-compliance"></a>Microsoft PowerPoint Segurança e Conformidade de Aplicativos
 
-A Microsoft trabalha com nossos parceiros de desenvolvedor do Microsoft 365 para fornecer as informações que as organizações precisam para acelerar e informar decisões sobre aplicativos e complementos do PowerPoint que usam. As informações são complementadas com informações do catálogo de aplicativos do [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) e informações fornecidas pelos desenvolvedores quando eles enviam seus aplicativos. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
+A Microsoft trabalha com nossos parceiros de desenvolvedores Microsoft 365 para fornecer as informações que as organizações precisam para agilizar e informar decisões sobre aplicativos PowerPoint e complementos que eles usam. As informações são complementadas com informações do catálogo de aplicativos do [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) e informações fornecidas pelos desenvolvedores quando eles enviam seus aplicativos. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
 
-| **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** | **Informações sobre Gerenciamento de Dados** | **Informações do Cloud App Security.** |
-|:--------|:------------|:----------------------:|:-----------------------------:|:----------------------------------:|
-| [Adobe Sign for Word e PowerPoint](./adobe-inc-sign-for-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | Sim | Sim |
-| [Automação de documentos do Excel para Word](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  | Sim | Sim |
-| [harmon.ie para Office](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  | Sim | Sim |
-| [Diagramas de Lucidchart para PowerPoint](./lucid-software-inc-lucidchart-diagrams-for-powerpoint.md) | Software Lúcido Inc | **✓** |  | Sim | Sim |
-| [NoMore](./nomorehours-nomore.md) | nomorehours | **✓** |  | Sim | Sim |
-| [Office2SharePoint for Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | Sim | Sim |
-| [officeatwork | Escolher conteúdo para Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | Sim | Sim |
-| [officeatwork | Template Chooser for Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | Sim | Sim |
-| [Wrike para Documentos do Office](./wrike-inc-for-office-documents.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | Sim | Sim |
+| **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** |
+|:--------|:------------|:----------------------:|:-------------:|
+| [Adobe Sign for Word e PowerPoint](./adobe-inc-sign-for-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Automação de documentos Excel-palavra](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
+| [harmon.ie para Office](./harmonie-corporation-for-office.md) | harmon.ie | **✓** |  |
+| [Diagramas de Lucidchart para PowerPoint](./lucid-software-inc-lucidchart-diagrams-for-powerpoint.md) | Lucid Software Inc | **✓** |  |
+| [NoMore](./nomorehours-nomore.md) | nomorehours | **✓** |  |
+| [Office2SharePoint para Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Seletor de conteúdo para Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Escolhador de modelos para Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Wrike para documentos Office](./wrike-inc-for-office-documents.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
