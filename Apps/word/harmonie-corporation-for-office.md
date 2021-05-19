@@ -1,19 +1,19 @@
 ---
-title: Informações do aplicativo para harmon.ie para Office por harmon.ie Corporation
+title: Informações sobre o harmon.ie para Office pela harmon.ie Corporation
 ms.author: elmalova
 author: elenamalova
 ms.date: 01/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o harmon.ie para Office, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações disponíveis de segurança e conformidade para harmon.ie para Office, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e80be8daa23cc470377dbc57f35e55441c4eb49b
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: bae4b6d16c862819564ddb74682b3773d53a4336
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251911"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52550461"
 ---
 # <a name="harmonie-for-office"></a>harmon.ie para Office
 
@@ -27,17 +27,17 @@ ms.locfileid: "52251911"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pela harmon.ie Corporation para a Microsoft:
+Informações fornecidas pela harmon.ie Corporation à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | harmon.ie para Office |
 | ID | WA104381050 |
-| Office 365 clientes com suporte | PowerPoint 2016 ou posterior em Windows, Word 2016 ou posterior em Windows, Excel na Web, Word na Web, PowerPoint na Web, Word 2016 ou posterior no Mac, PowerPoint 2016 ou posterior no Mac |
-| Nome da empresa de parceiro | harmon.ie Corporation |
-| URL do site do parceiro | [https://harmon.ie/](https://harmon.ie/) |
+| Office 365 clientes suportados | PowerPoint 2016 ou mais tarde em Windows, Word 2016 ou mais tarde em Windows, Excel na Web, Word na Web, PowerPoint na Web, Word 2016 ou mais tarde em Mac, PowerPoint 2016 ou mais tarde em Mac |
+| Nome da empresa parceira | harmon.ie |
+| URL do site de parceiros | [https://harmon.ie/](https://harmon.ie/) |
 | URL da Política de Privacidade | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
-| URL dos Termos de Uso | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474836605/Product_42949673246/Asset_37060a29-311b-4239-be49-1758aebbeb1a/harmonieEULA.pdf) |
+| URL de Termos de Uso | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474836605/Product_42949673246/Asset_37060a29-311b-4239-be49-1758aebbeb1a/harmonieEULA.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,52 +47,43 @@ Informações fornecidas pela harmon.ie Corporation para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela harmon.ie Corporation sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela harmon.ie Corporation sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>| **Permissão**  | **Tipo de permissão (Delegada/Aplicação)** | **Os dados são coletados? Justificativa para recolhê-lo?** | **Os dados são armazenados? Justificativa para armazená-lo?** | **ID do aplicativo Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | delegado | Obrigatório por harmon.ie para Outlook permitir que os usuários entre e recebam a função do usuário | nenhuma | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| Files.ReadWrite.All | delegado | Exigido pelo harmon.ie para Outlook para permitir que ele transfira anexos de email do Outlook e &amp; salve-os para SharePoint | nenhuma | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| Mail.ReadWrite | delegado | Exigido pelo harmon.ie para Outlook para permitir que ele transfira anexos de email do Outlook e &amp; salve-os para SharePoint | nenhuma | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| User.Read | delegado | Obrigatório pelo harmon.ie para Outlook para resolver a imagem de perfil dos usuários | nenhuma | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
+>| Directory.AccessAsUser.All | Delegada | Exigido por harmon.ie para Outlook para permitir que os usuários faça login e obtenha a função do usuário | nenhuma | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
+>| Files.ReadWrite.All | Delegada | Exigido por harmon.ie para Outlook permitir que ele transfira anexos de e-mail &amp; de Outlook e salve-os para SharePoint | nenhuma | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
+>| Mail.ReadWrite | Delegada | Exigido por harmon.ie para Outlook permitir que ele transfira anexos de e-mail &amp; de Outlook e salve-os para SharePoint | nenhuma | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
+>| User.Read | Delegada | Exigido por harmon.ie para Outlook para resolver a imagem do perfil dos usuários | nenhuma | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não-Microsoft, liste o serviço não-Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não serviços Microsoft não são utilizadas.
 
 
-
-#### <a name="add-in-data-access"></a>Acesso a dados do complemento
-
-Listar as permissões necessárias para acessar os dados da sua organização, a justificativa e a finalidade dessa permissão (para que o aplicativo usa essas informações?) e se o aplicativo armazena qualquer uma dessas informações em seus bancos de dados.
-
->| **Permissão**  | **Descrição** |
->|:----------------|:----------------|
->| Documento ReadWrite | Pode ler e fazer alterações no documento |
->| Enviar Dados | Pode enviar dados pela Internet |
 
 #### <a name="telemetry-data"></a>Dados de telemetria
 
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Dados de uso e usuários em upn
+>Dados de uso e upn de usuários
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
 
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
 >-
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
-Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
+Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de informações organificáveis (OII) coletados ou armazenados por este aplicativo?
 
 >Não
 
@@ -102,9 +93,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone pivot="mcas"
 
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36360' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36360' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36360" target="_blank">Exibir em uma nova guia</a>
 
@@ -116,22 +107,22 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pela harmon.ie Corporation sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pela harmon.ie Corporation sobre como este aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
-| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
-| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
-| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
-| Seu aplicativo dá suporte a multi-enancy? | Sim |
+| Você integra-se com a Microsoft Identify Platform (Azure AD)?  | Sim |
+| Você revisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração plataforma de identidade da Microsoft?  | Sim |
+| Seu aplicativo usa o MSAL (Microsoft Authentication Library) para autenticação? | Não |
+| Seu aplicativo suporta políticas de acesso condicional? | Não |
+| Seu aplicativo pede menos permissões privilegiadas para o seu cenário? | Sim |
+| As permissões cadastradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará de forma dinâmica e incremental? | Sim |
+| Seu aplicativo suporta multi-locação? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Não |
-| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
-| Seu aplicativo expõe alguma APIs da Web? | Sim |
-| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Você possui todo o identificador unificado de recursos (URI) cadastrado no seu aplicativo? | Sim |
+| Para o seu aplicativo, o que você evita usar? | - Curinga redirecionar URIs,<br/>- OAuth2 Flow Implícita, a menos que seja necessário para um SPA<br/>- Fluxo de credencial de senha do proprietário de recursos (ROPC) |
+| Seu aplicativo expõe alguma APIs web? | Sim |
+| Seu modelo de permissão só permite que as chamadas tenham sucesso se o aplicativo cliente receber o consentimento adequado? | Sim |
 | Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 

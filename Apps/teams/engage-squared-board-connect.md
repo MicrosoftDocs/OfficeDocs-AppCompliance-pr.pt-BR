@@ -1,19 +1,19 @@
 ---
-title: Informações do aplicativo para o Conexão por Engage Squared
+title: Informações do aplicativo para Conexão de conselho por Engage Squared
 ms.author: elmalova
 author: elenamalova
 ms.date: 02/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o board Conexão, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações disponíveis de segurança e conformidade para Conexão do Conselho, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fdc58284721104fde1bb122f13532d9ecf63aabb
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 6b314c6cc51515efced101ba986555d859dc4182
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250709"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553182"
 ---
 # <a name="board-connect"></a>Board Connect
 
@@ -21,26 +21,25 @@ ms.locfileid: "52250709"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 16 de fevereiro de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/e8f06a4e-cefe-4b1e-a24b-c97bea471130" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/e8f06a4e-cefe-4b1e-a24b-c97bea471130" target="_blank">Vista na loja Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001955" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Engage Squared para a Microsoft:
+Informações fornecidas pelo Engage Squared à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | Board Connect |
 | ID | WA200001955 |
-| Recursos | Guia |
-| Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Engage Squared |
-| URL do site do parceiro | [https://boardconnect.app](https://boardconnect.app) |
-| URL da página Teams de informações do aplicativo | [https://boardconnect.app](https://boardconnect.app) |
+| Office 365 clientes suportados | Microsoft Teams |
+| Nome da empresa parceira | Engage Squared |
+| URL do site de parceiros | [https://boardconnect.app](https://boardconnect.app) |
+| URL da página de informações do aplicativo Teams | [https://boardconnect.app](https://boardconnect.app) |
 | URL da Política de Privacidade | [https://boardconnect.app/privacy](https://boardconnect.app/privacy) |
-| URL dos Termos de Uso | [https://boardconnect.app/terms](https://boardconnect.app/terms) |
+| URL de Termos de Uso | [https://boardconnect.app/terms](https://boardconnect.app/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,51 +49,50 @@ Informações fornecidas pelo Engage Squared para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo Engage Squared sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo Engage Squared sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>| **Permissão**  | **Tipo de permissão (Delegada/Aplicação)** | **Os dados são coletados? Justificativa para recolhê-lo?** | **Os dados são armazenados? Justificativa para armazená-lo?** | **ID do aplicativo Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | delegado | Para permitir que o aplicativo atualize calendários do usuário para refletir as respostas de participação da reunião do conselho enviadas por meio do aplicativo. | Nenhum dado é armazenado no armazenamento da tabela do azure | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| Group.ReadWrite.All | delegado | Para permitir que o aplicativo crie, atualize e exclua eventos de calendário de grupo. | Armazenamos a id do grupo, juntamente com a ID do locatário , que é armazenada e usada de uma perspectiva de licenciamento para que possamos validar que a organização está licenciada para o Board Conexão. Também usamos isso para rastrear quantas instalações dos aplicativos existem dentro do locatário, pois isso está em linha com nosso modelo de licenciamento | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| Sites.Manage.All | delegado | Para permitir que o aplicativo crie listas e bibliotecas, gerencie itens de lista e gerencie documentos em um conjunto de sites de equipe. | Nenhum | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| User.Read | delegado | Para permitir que os usuários entre no aplicativo e permitir que o aplicativo leia o perfil do usuário atualmente assinado. | Nenhum dado desse ponto de extremidade é armazenado no armazenamento da tabela do azure | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| User.ReadBasic.All | delegado | Para permitir que o aplicativo leia um conjunto básico de propriedades de perfil de outros usuários em nome do usuário assinado, para exibi-lo no aplicativo. Isso inclui nome de exibição, nome e sobrenome, endereço de email e foto. | Nenhum, os dados não são armazenados no armazenamento da tabela do azure | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| offline_access | delegado | Para permitir que o aplicativo receba um token de atualização, que pode ser usado para obter um novo token de acesso quando o atual expirar. | Nenhum, os dados não são armazenados no armazenamento da tabela do azure | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
+>| Calendars.ReadWrite | Delegada | Para permitir que o aplicativo atualize os calendários dos usuários para refletir as respostas de comparecimento da reunião do conselho enviadas através do aplicativo. | Nenhum dado é armazenado em nosso armazenamento de tabela azul | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
+>| Group.ReadWrite.All | Delegada | Para permitir que o aplicativo crie, atualize e exclua eventos do calendário do grupo. | Armazenamos a id do grupo, juntamente com o id do inquilino - este é armazenado e usado de uma perspectiva de licenciamento para que possamos validar que a organização é licenciada para Conexão do Conselho. Também usamos isso para rastrear quantas instalações dos aplicativos existem dentro do inquilino, pois isso está em linha com nosso modelo de licenciamento | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
+>| Sites.Manage.All | Delegada | Para permitir que o aplicativo crie listas e bibliotecas, gerencie itens de lista e gerencie documentos em uma coleção de sites da equipe. | Nenhum | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
+>| User.Read | Delegada | Para permitir que os usuários façaem login no aplicativo e permitam que o aplicativo leia o perfil do usuário atualmente conectado. | Nenhum dado deste ponto final é armazenado em nosso armazenamento de tabela azul | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
+>| User.ReadBasic.All | Delegada | Para permitir que o aplicativo leia um conjunto básico de propriedades de perfil de outros usuários em nome do usuário conectado, a fim de exibi-lo no aplicativo. Isso inclui nome de exibição, nome e sobrenome, endereço de e-mail e foto. | Nenhum, os dados não são armazenados em nosso armazenamento de tabela azul | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
+>| offline_access | Delegada | Para permitir que o aplicativo obtenha um token de atualização, que ele pode usar para obter um novo token de acesso quando o atual expirar. | Nenhum, os dados não são armazenados em nosso armazenamento de tabela azul | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não-Microsoft, liste o serviço não-Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não serviços Microsoft não são utilizadas.
 
-#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
+#### <a name="data-access-via-bots"></a>Acesso a dados via bots
 
-Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
+Se este aplicativo contiver um bot ou uma extensão de mensagens, ele pode acessar informações identificáveis pelo usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de e-mail) de qualquer membro da equipe em uma equipe ou chat a que é adicionado. Este aplicativo faz uso desse recurso?
 
 >Nenhum EUII é acessado.
 
 
-
 #### <a name="telemetry-data"></a>Dados de telemetria
 
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Nenhum OII ou EUII aparece nos logs ou telemetria de aplicativos.
+>Nenhum OII ou EUII aparecem nos aplicativos telemetria ou logs.
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
 
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->2FA para todos os administradores, apenas dois usuários se envolvem ao quadrado podem acessar
+>2FA para todos os administradores, apenas dois usuários ao quadrado podem acessar
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
-Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
+Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de informações organificáveis (OII) coletados ou armazenados por este aplicativo?
 
 >Não
 
@@ -104,9 +102,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone pivot="mcas"
 
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36435' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36435' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36435" target="_blank">Exibir em uma nova guia</a>
 
@@ -118,22 +116,22 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pelo Engage Squared sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pelo Engage Squared sobre como este aplicativo lida com a autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
-| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
-| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
-| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
-| Seu aplicativo dá suporte a multi-enancy? | Sim |
+| Você integra-se com a Microsoft Identify Platform (Azure AD)?  | Sim |
+| Você revisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração plataforma de identidade da Microsoft?  | Sim |
+| Seu aplicativo usa o MSAL (Microsoft Authentication Library) para autenticação? | Sim |
+| Seu aplicativo suporta políticas de acesso condicional? | Não |
+| Seu aplicativo pede menos permissões privilegiadas para o seu cenário? | Sim |
+| As permissões cadastradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará de forma dinâmica e incremental? | Sim |
+| Seu aplicativo suporta multi-locação? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Não |
-| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/> |
-| Seu aplicativo expõe alguma APIs da Web? | Sim |
-| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Você possui todo o identificador unificado de recursos (URI) cadastrado no seu aplicativo? | Sim |
+| Para o seu aplicativo, o que você evita usar? | - Curinga redirecionar URIs,<br/>- OAuth2 Flow Implícita, a menos que seja necessário para um SPA<br/> |
+| Seu aplicativo expõe alguma APIs web? | Sim |
+| Seu modelo de permissão só permite que as chamadas tenham sucesso se o aplicativo cliente receber o consentimento adequado? | Sim |
 | Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 

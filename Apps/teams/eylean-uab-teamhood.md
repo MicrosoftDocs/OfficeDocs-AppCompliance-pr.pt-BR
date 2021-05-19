@@ -1,19 +1,19 @@
 ---
-title: Informações do aplicativo para a teamhood por Eylean, UAB
+title: Informações de aplicação para teamhood por Eylean, UAB
 ms.author: elmalova
 author: elenamalova
 ms.date: 04/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Teamhood, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações disponíveis de segurança e conformidade para a Teamhood, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 45367d70e46d9431a4cec2c9667009831e302821
-ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
+ms.openlocfilehash: 760f57e7fdc562e5ee39d563792c195d38aecb23
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52258838"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553152"
 ---
 # <a name="teamhood"></a>Teamhood
 
@@ -21,7 +21,7 @@ ms.locfileid: "52258838"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 27 de abril de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/22372c30-c5de-483e-85b4-8d51db246eda" target="_blank">Exibir no Armazenamento do Teams</a>
+* <a href="https://teams.microsoft.com/l/app/22372c30-c5de-483e-85b4-8d51db246eda" target="_blank">Vista na loja Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002568" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -34,13 +34,12 @@ Informações fornecidas por Eylean, UAB para a Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | Teamhood |
 | ID | WA200002568 |
-| Recursos | Bot, Extensão de Mensagem |
-| Clientes do Office 365 com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Eylean, UAB |
-| URL do site do parceiro | [https://teamhood.com](https://teamhood.com) |
-| Página de informações do aplicativo URL do Teams | [https://teamhood.com/features/teamhood-and-microsoft-teams-...](https://teamhood.com/features/teamhood-and-microsoft-teams-integration/) |
+| Office 365 clientes suportados | Microsoft Teams |
+| Nome da empresa parceira | Eylean, UAB |
+| URL do site de parceiros | [https://teamhood.com](https://teamhood.com) |
+| URL da página de informações do aplicativo Teams | [https://teamhood.com/features/teamhood-and-microsoft-teams-...](https://teamhood.com/features/teamhood-and-microsoft-teams-integration/) |
 | URL da Política de Privacidade | [https://teamhood.com/privacy-policy/](https://teamhood.com/privacy-policy/) |
-| URL dos Termos de Uso | [https://teamhood.com/terms-of-use/](https://teamhood.com/terms-of-use/) |
+| URL de Termos de Uso | [https://teamhood.com/terms-of-use/](https://teamhood.com/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,44 +49,43 @@ Informações fornecidas por Eylean, UAB para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo Eylean, UAB sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Eylean, UAB, sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
 
-Listar todas [as permissões do Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exige.
+Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
 
 >Este aplicativo não usa o Microsoft Graph.
 
 
-#### <a name="non-microsoft-services-used"></a>Serviços que não são da Microsoft usados
+#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não-Microsoft, liste o serviço não-Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Os serviços que não são da Microsoft não são usados.
+>Não serviços Microsoft não são utilizadas.
 
-#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
+#### <a name="data-access-via-bots"></a>Acesso a dados via bots
 
-Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
+Se este aplicativo contiver um bot ou uma extensão de mensagens, ele pode acessar informações identificáveis pelo usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de e-mail) de qualquer membro da equipe em uma equipe ou chat a que é adicionado. Este aplicativo faz uso desse recurso?
 
 >Nenhum EUII é acessado.
 
 
-
 #### <a name="telemetry-data"></a>Dados de telemetria
 
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Nenhum OII ou EUII aparece nos logs ou telemetria de aplicativos.
+>Nenhum OII ou EUII aparecem nos aplicativos telemetria ou logs.
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
 
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Se necessário, solicitando um consentimento explícito pelo usuário final do Teamhood
+>Se necessário, pedindo um consentimento explícito pelo usuário final da Teamhood
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
-Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
+Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de informações organificáveis (OII) coletados ou armazenados por este aplicativo?
 
 >Não
 
@@ -97,9 +95,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone pivot="mcas"
 
-As informações do catálogo de Segurança do Aplicativo na [Nuvem](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) da Microsoft aparecem abaixo.
+As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
 
-<iframe height='1020' title='Informações de Segurança do Aplicativo na Nuvem da Microsoft' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37586' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37586' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37586" target="_blank">Exibir em uma nova guia</a>
 
@@ -111,22 +109,22 @@ As informações do catálogo de Segurança do Aplicativo na [Nuvem](https://www
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pelo Eylean, UAB sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pela Eylean, UAB, sobre como este aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração da plataforma de identidade da Microsoft?  | Sim |
-| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
-| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
-| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
-| Seu aplicativo dá suporte a multi-enancy? | Sim |
+| Você integra-se com a Microsoft Identify Platform (Azure AD)?  | Sim |
+| Você revisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração plataforma de identidade da Microsoft?  | Sim |
+| Seu aplicativo usa o MSAL (Microsoft Authentication Library) para autenticação? | Não |
+| Seu aplicativo suporta políticas de acesso condicional? | Não |
+| Seu aplicativo pede menos permissões privilegiadas para o seu cenário? | Sim |
+| As permissões cadastradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará de forma dinâmica e incremental? | Sim |
+| Seu aplicativo suporta multi-locação? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Sim |
-| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- Fluxo Implícito OAuth2, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
-| Seu aplicativo expõe alguma APIs da Web? | Sim |
-| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Você possui todo o identificador unificado de recursos (URI) cadastrado no seu aplicativo? | Sim |
+| Para o seu aplicativo, o que você evita usar? | - Curinga redirecionar URIs,<br/>- OAuth2 Flow Implícita, a menos que seja necessário para um SPA<br/>- Fluxo de credencial de senha do proprietário de recursos (ROPC) |
+| Seu aplicativo expõe alguma APIs web? | Sim |
+| Seu modelo de permissão só permite que as chamadas tenham sucesso se o aplicativo cliente receber o consentimento adequado? | Sim |
 | Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 

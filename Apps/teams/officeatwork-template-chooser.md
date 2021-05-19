@@ -1,45 +1,44 @@
 ---
-title: Informações do aplicativo para o Selador de Modelo por officeatwork
+title: Informações do aplicativo para escolha de modelo por officeatwork
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/08/2020
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Todas as informações de segurança e conformidade disponíveis para o Selador de Modelos, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações disponíveis de segurança e conformidade para o Template Chooser, suas políticas de manipulação de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 97967acac5f81e330b6cfcaccf68300a3a34d9a7
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 6af7611aebaf90acfc1785ad5e5cbba3e58f3871
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251200"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552882"
 ---
 # <a name="template-chooser"></a>Template Chooser
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Última atualização pelo desenvolvedor em: 8 de dezembro de 2020</p>
 
-* <a href="https://teams.microsoft.com/l/app/13d1defc-6301-4e62-9c53-3361db865183" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/13d1defc-6301-4e62-9c53-3361db865183" target="_blank">Vista na loja Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000110" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo officeatwork à Microsoft:
+Informações fornecidas pelo officeatwork para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | Template Chooser |
-| ID | WA200000110 |
-| Recursos | Tab |
-| Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | officeatwork |
-| URL do site do parceiro | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
-| URL da página Teams de informações do aplicativo | [https://links.officeatwork.com/officeatwork-apps](https://links.officeatwork.com/officeatwork-apps) |
+| ID | WA20000110 |
+| Office 365 clientes suportados | Microsoft Teams |
+| Nome da empresa parceira | officeatwork |
+| URL do site de parceiros | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| URL da página de informações do aplicativo Teams | [https://links.officeatwork.com/officeatwork-apps](https://links.officeatwork.com/officeatwork-apps) |
 | URL da Política de Privacidade | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
-| URL dos Termos de Uso | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
+| URL de Termos de Uso | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,61 +48,60 @@ Informações fornecidas pelo officeatwork à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo officeatwork sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo officeatwork sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados que o aplicativo coleta.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>| **Permissão**  | **Tipo de permissão (Delegada/Aplicação)** | **Os dados são coletados? Justificativa para recolhê-lo?** | **Os dados são armazenados? Justificativa para armazená-lo?** | **ID do aplicativo Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | delegado | Nenhum dado é armazenado. | Favoritos: para poder ler e gravar dados para os usuários OneDrive; OneDrive: para poder ler e gravar dados para os usuários OneDrive. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| Group.ReadWrite.All | delegado | Nenhum dado é armazenado. | Teams: para poder ler e gravar dados em um Grupo. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| GroupMember.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online: permissão do usuário para habilitar a leitura de dados SharePoint Online. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| Sites.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online: para habilitar a leitura de dados SharePoint Online. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| User.Read | delegado | Nenhum dado é armazenado. | Sing-In: para habilitar o aplicativo officeatwork para ler as propriedades básicas do usuário. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| User.Read.All | delegado | Nenhum dado é armazenado. | Teams: para descobrir a que grupos um usuário pertence. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| offline_access | delegado | Nenhum dado é armazenado. | Sing-In: para habilitar a logona automática por meio de tokens de atualização, como sem, os usuários teriam que entrar manualmente sempre que iniciarem o aplicativo officeatwork. Esse escopo só é necessário para aplicativos host não habilitados para SSO. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| openid | delegado | Nenhum dado é armazenado. | Sing-In: para permitir que os usuários entre no aplicativo officeatwork com sua conta organizacional e/ou da Microsoft | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| perfil | delegado | Nenhum dado é armazenado. | Sing-In: para mostrar o usuário de assinatura no aplicativo officeatwork. Isso ajuda a garantir/confirmar ao usuário qual conta foi usada para entrar no aplicativo officeatwork. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| Files.ReadWrite.All | Delegada | Nenhum dado é armazenado. | Favoritos: poder ler e gravar dados aos usuários OneDrive; OneDrive: ser capaz de ler e escrever dados para os usuários OneDrive. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| Group.ReadWrite.All | Delegada | Nenhum dado é armazenado. | Teams: ser capaz de ler e escrever dados para um Grupo. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| GroupMember.Read.All | Delegada | Nenhum dado é armazenado. | SharePoint Online: permissão do usuário para ativar dados de leitura de SharePoint Online. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| Sites.Read.All | Delegada | Nenhum dado é armazenado. | SharePoint Online: para ativar a leitura de dados do SharePoint Online. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| User.Read | Delegada | Nenhum dado é armazenado. | Sing-In: para habilitar o aplicativo officeatwork para ler as propriedades básicas do usuário. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| User.Read.All | Delegada | Nenhum dado é armazenado. | Teams: descobrir a quais grupos um usuário pertence. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| offline_access | Delegada | Nenhum dado é armazenado. | Sing-In: para ativar o login automático via'tokens de atualização, como sem, os usuários teriam que fazer login manualmente toda vez que lançarem o aplicativo officeatwork. Este escopo só é necessário para aplicativos de host não habilitados para SSO. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| openid | Delegada | Nenhum dado é armazenado. | Sing-In: para permitir que os usuários entrem no aplicativo officeatwork com sua conta organizacional e/ou Microsoft | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| perfil | Delegada | Nenhum dado é armazenado. | Sing-In: para mostrar o usuário assinado no aplicativo officeatwork. Isso ajuda a garantir/confirmar ao usuário qual conta foi usada para fazer login no aplicativo officeatwork. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
-Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
+Aplicativos e complementos incorporados em Microsoft 365 podem usar APIs adicionais da Microsoft além da Microsoft Graph para coletar ou processar informações identificáveis organizacionais (OII). Liste quaisquer APIs da Microsoft além da Microsoft Graph que este aplicativo usa.
 
->| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
+>| **API** |  **OII é coletado?** |  **O que o OII é coletado?** | **Justificativa para a coleta de OII?** | **OII está armazenado?** | **Justificativa para armazenar OII?** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
 >| APIs REST do SharePoint | Não |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não-Microsoft, liste o serviço não-Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não serviços Microsoft não são utilizadas.
 
-#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
+#### <a name="data-access-via-bots"></a>Acesso a dados via bots
 
-Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
+Se este aplicativo contiver um bot ou uma extensão de mensagens, ele pode acessar informações identificáveis pelo usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de e-mail) de qualquer membro da equipe em uma equipe ou chat a que é adicionado. Este aplicativo faz uso desse recurso?
 
 >Nenhum EUII é acessado.
 
 
-
 #### <a name="telemetry-data"></a>Dados de telemetria
 
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Sim, os eventos incluem oid e tenantId e são enviados para o Azure AppInsights. Os eventos são excluídos automaticamente após 90 dias. Se um cliente desejar excluir esses dados, ele poderá usar o link fornecido na declaração de privacidade para iniciar a exclusão desses dados.
+>Sim, os eventos incluem o oid e o inquilinoId e são enviados para a Azure AppInsights. Os eventos são automaticamente excluídos após 90 dias. Se um cliente deseja ter esses dados excluídos, ele pode usar o link fornecido na declaração de privacidade para iniciar a exclusão desses dados.
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
 
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Os dados de configurações de aplicativos (sinalizadores de recursos, nome de exibição da organização, tenantId, lista de administradores oids) são armazenados em uma instância do Azure Cosmos DB (um arquivo por locatário). Os arquivos DB são criptografados e o acesso é restrito aos engenheiros de trabalho do officeatwork selecionados e à equipe de suporte. O cliente pode acessar e manipular os dados de configurações do aplicativo officeatwork usando o Aplicativo Web do Centro de Administração.
+>Os dados de configurações de configurações de aplicativos (bandeiras de recurso, nome de exibição da organização, inquilino, lista de administradores oids) são armazenados em uma instância de DB Cosmos Azure (um arquivo por inquilino). Os arquivos DB são criptografados e o acesso é restrito a engenheiros de escritórios selecionados e equipe de suporte. O cliente pode acessar e manipular os dados de configurações do aplicativo officeatwork usando o Aplicativo Web do Admin Center.
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
-Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
+Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de informações organificáveis (OII) coletados ou armazenados por este aplicativo?
 
 >Não
 
@@ -113,9 +111,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone pivot="mcas"
 
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385" target="_blank">Exibir em uma nova guia</a>
 
@@ -127,22 +125,22 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pelo officeatwork sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pelo officeatwork sobre como este aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
-| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
-| Listar os tipos de políticas com suporte | Padrões de segurança |
-| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
-| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Não |
-| Seu aplicativo dá suporte a multi-enancy? | Sim |
+| Você integra-se com a Microsoft Identify Platform (Azure AD)?  | Sim |
+| Você revisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração plataforma de identidade da Microsoft?  | Sim |
+| Seu aplicativo usa o MSAL (Microsoft Authentication Library) para autenticação? | Não |
+| Seu aplicativo suporta políticas de acesso condicional? | Sim |
+| Liste os tipos de políticas suportadas | Padrões de segurança |
+| Seu aplicativo pede menos permissões privilegiadas para o seu cenário? | Sim |
+| As permissões cadastradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará de forma dinâmica e incremental? | Não |
+| Seu aplicativo suporta multi-locação? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Sim |
-| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
-| Seu aplicativo expõe alguma APIs da Web? | Não |
+| Você possui todo o identificador unificado de recursos (URI) cadastrado no seu aplicativo? | Sim |
+| Para o seu aplicativo, o que você evita usar? | - Curinga redirecionar URIs,<br/>- OAuth2 Flow Implícita, a menos que seja necessário para um SPA<br/>- Fluxo de credencial de senha do proprietário de recursos (ROPC) |
+| Seu aplicativo expõe alguma APIs web? | Não |
 | Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 

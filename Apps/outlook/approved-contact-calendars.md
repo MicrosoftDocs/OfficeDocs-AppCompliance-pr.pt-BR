@@ -1,21 +1,21 @@
 ---
-title: Informações do aplicativo para calendários de contatos aprovados por contato aprovado
+title: Informações de solicitação para calendários de contato aprovados por contato aprovado
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Calendários de Contatos Aprovados, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações disponíveis de segurança e conformidade para calendários de contato aprovados, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b9af5ceadaa2c4b6f5ca79f511f4533f9c63d7e5
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 57dd499fe648ed9a9b481d4175056977a0d6fa61
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252982"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552552"
 ---
-# <a name="approved-contact-calendars"></a>Calendários de contatos aprovados
+# <a name="approved-contact-calendars"></a>Calendários de contato aprovados
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -27,17 +27,17 @@ ms.locfileid: "52252982"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Contato Aprovado para a Microsoft:
+Informações fornecidas pelo Contato Aprovado à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Calendários de contatos aprovados |
+| Nome do aplicativo | Calendários de contato aprovados |
 | ID | WA104380294 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
-| Nome da empresa de parceiro | Contato Aprovado |
-| URL do site do parceiro | [https://approvedcontact.com/](https://approvedcontact.com/) |
+| Office 365 clientes suportados | Outlook 2013 ou mais tarde em Windows, Outlook 2016 ou mais tarde no Mac, Outlook na web |
+| Nome da empresa parceira | Contato Aprovado |
+| URL do site de parceiros | [https://approvedcontact.com/](https://approvedcontact.com/) |
 | URL da Política de Privacidade | [https://approvedcontact.com/Privacy%20Policy.pdf](https://approvedcontact.com/Privacy%20Policy.pdf) |
-| URL dos Termos de Uso | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| URL de Termos de Uso | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,54 +47,45 @@ Informações fornecidas pelo Contato Aprovado para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo Contato Aprovado sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo Approved Contact sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>| **Permissão**  | **Tipo de permissão (Delegada/Aplicação)** | **Os dados são coletados? Justificativa para recolhê-lo?** | **Os dados são armazenados? Justificativa para armazená-lo?** | **ID do aplicativo Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | delegado | Para o BOT de calendário, estamos armazenar o tempo livre/ocupado dos usuários para encontrar horários gratuitos para várias pessoas.  | Lemos e comparamos o tempo livre/ocupado e agendamos reuniões. | adef9811-448f-4dd5-88d9-68734050fe58 |
->| Contacts.Read | delegado | Sim, armazenamos informações de contato. | Importação e sincronização de contatos. | adef9811-448f-4dd5-88d9-68734050fe58 |
->| User.Read | delegado | Sim | Informações básicas do perfil. | adef9811-448f-4dd5-88d9-68734050fe58 |
->| User.ReadBasic.All | delegado | Não | Usado para exibir perfis de colegas de trabalho e comparar horários gratuitos e agendar salas de conferência. | adef9811-448f-4dd5-88d9-68734050fe58 |
->| offline_access | delegado | Sim, tempos de tempo livre/de ocupado para usuários offline. | Chame Graph quando o usuário não estiver usando ativamente nosso site. | adef9811-448f-4dd5-88d9-68734050fe58 |
->| openid | delegado | Não | Office 365 SSO. | adef9811-448f-4dd5-88d9-68734050fe58 |
+>| Calendars.ReadWrite | Delegada | Para o CALENDÁRIO BOT, estamos armazenando os usuários em tempo livre/ocupado para encontrar tempos gratuitos para várias pessoas.  | Lemos e comparamos o horário livre/ocupado e agendamos reuniões. | adef9811-448f-4dd5-88d9-68734050fe58 |
+>| Contacts.Read | Delegada | Sim, armazenamos informações de contato. | Importação e sincronização de contatos. | adef9811-448f-4dd5-88d9-68734050fe58 |
+>| User.Read | Delegada | Sim | Informações básicas do perfil. | adef9811-448f-4dd5-88d9-68734050fe58 |
+>| User.ReadBasic.All | Delegada | Não | Usado para visualizar perfis de colegas de trabalho e comparar horários livres e agendar salas de conferência. | adef9811-448f-4dd5-88d9-68734050fe58 |
+>| offline_access | Delegada | Sim, tempos livres/ocupados para usuários offline. | Ligue para Graph quando o usuário não estiver usando ativamente nosso site. | adef9811-448f-4dd5-88d9-68734050fe58 |
+>| openid | Delegada | Não | Office 365 Sso. | adef9811-448f-4dd5-88d9-68734050fe58 |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não-Microsoft, liste o serviço não-Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não serviços Microsoft não são utilizadas.
 
 
-
-#### <a name="add-in-data-access"></a>Acesso a dados do complemento
-
-Listar as permissões necessárias para acessar os dados da sua organização, a justificativa e a finalidade dessa permissão (para que o aplicativo usa essas informações?) e se o aplicativo armazena qualquer uma dessas informações em seus bancos de dados.
-
->| **Permissão**  | **Descrição** |
->|:----------------|:----------------|
->| ReadWrite Item | Esse complemento pode acessar e modificar informações pessoais na mensagem ativa, como o corpo, assunto, remetente, destinatários e informações de anexo. Ele pode enviar esses dados para um serviço de terceiros. Outros itens em sua caixa de correio&#8217;podem ser lidos ou modificados. |
->| Enviar Dados | Pode enviar dados pela Internet |
 
 #### <a name="telemetry-data"></a>Dados de telemetria
 
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Sim, registramos endereços de email para conectar compras de licença ao Commercial Appsource. Fornecemos a capacidade de excluir essas informações de nossos logs.
+>Sim, registramos endereços de e-mail para conectar compras de licenças à Commercial Appsource. Fornecemos a capacidade de excluir essas informações de nossos registros.
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
 
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Somente desenvolvedores têm acesso aos logs. Aplicamos o 2FA para acesso a todas as plataformas de desenvolvimento.
+>Apenas desenvolvedores têm acesso aos nossos logs. Aplicamos o 2FA para acesso a todas as plataformas de desenvolvimento.
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
-Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
+Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de informações organificáveis (OII) coletados ou armazenados por este aplicativo?
 
 >Não
 
@@ -104,9 +95,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone pivot="mcas"
 
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/20445' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/20445' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/20445" target="_blank">Exibir em uma nova guia</a>
 

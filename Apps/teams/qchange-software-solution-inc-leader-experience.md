@@ -1,45 +1,45 @@
 ---
-title: Informações de aplicação para o Sensei Labs Conductor pela Sensei Labs Inc.
+title: Informações do aplicativo para qChange Leader Experience by qChange Software Solution, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/05/2021
+ms.date: 04/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações disponíveis de segurança e conformidade para o Sensei Labs Conductor, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações disponíveis de segurança e conformidade para qChange Leader Experience, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6365c2a9916693a94c6af8ed107865872e8e000b
+ms.openlocfilehash: 312240988228c487ea9d616ba0e62fe58d5ee8f1
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551691"
+ms.locfileid: "52551926"
 ---
-# <a name="sensei-labs-conductor"></a>Sensei Labs Conductor
+# <a name="qchange-leader-experience"></a>qChange Leader Experience
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 5 de janeiro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 20 de abril de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/c5418a24-940a-4bf1-a802-8d9e633838fa" target="_blank">Vista na loja Teams</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001951" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/32dbfdc9-7832-4969-ad02-77a4902fae35" target="_blank">Vista na loja Teams</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001639" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pela Sensei Labs Inc. à Microsoft:
+Informações fornecidas pela qChange Software Solution, Inc. à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Sensei Labs Conductor |
-| ID | WA200001951 |
+| Nome do aplicativo | qChange Leader Experience |
+| ID | WA200001639 |
 | Office 365 clientes suportados | Microsoft Teams |
-| Nome da empresa parceira | Sensei Labs Inc. |
-| URL do site de parceiros | [https://www.senseilabs.com/conductor/?utm_campaign=msftteam...](https://www.senseilabs.com/conductor/?utm_campaign=msftteamslaunch&amp;utm_source=teamsappsource&amp;utm_medium=createdby&amp;utm_content=conductorlink) |
-| URL da página de informações do aplicativo Teams | [Não disponível](N/A) |
-| URL da Política de Privacidade | [https://www.senseilabs.com/conductor/conductor-privacy-poli...](https://www.senseilabs.com/conductor/conductor-privacy-policy/) |
-| URL de Termos de Uso | [https://www.senseilabs.com/conductor/msft-teams-terms-condi...](https://www.senseilabs.com/conductor/msft-teams-terms-conditions/) |
+| Nome da empresa parceira | qChange Software Solution, Inc. |
+| URL do site de parceiros | [https://www.qchange.com/](https://www.qchange.com/) |
+| URL da página de informações do aplicativo Teams | [https://www.qchange.com/leader-experience](https://www.qchange.com/leader-experience) |
+| URL da Política de Privacidade | [https://www.qchange.com/privacy-policy](https://www.qchange.com/privacy-policy) |
+| URL de Termos de Uso | [https://www.qchange.com/terms-of-service](https://www.qchange.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,21 +49,16 @@ Informações fornecidas pela Sensei Labs Inc. à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela Sensei Labs Inc. sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela qChange Software Solution, Inc. sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
 
 Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
 
->Este aplicativo não usa o Microsoft Graph.
+>| **Permissão**  | **Tipo de permissão (Delegada/Aplicação)** | **Os dados são coletados? Justificativa para recolhê-lo?** | **Os dados são armazenados? Justificativa para armazená-lo?** | **ID do aplicativo Azure AD** |
+>|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
+>| User.Read | Delegada | Informações do Calendário do Usuário e avatar | A Microsoft Graph token para o usuário. Ele é usado para puxar dados de calendário para o usuário. | c35f7dcf-1079-4510-a6ec-1f69659c98c1 32dbfdc9-7832-4969-ad02-77a4902fae35 |
 
-#### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
-
-Aplicativos e complementos incorporados em Microsoft 365 podem usar APIs adicionais da Microsoft além da Microsoft Graph para coletar ou processar informações identificáveis organizacionais (OII). Liste quaisquer APIs da Microsoft além da Microsoft Graph que este aplicativo usa.
-
->| **API** |  **OII é coletado?** |  **O que o OII é coletado?** | **Justificativa para a coleta de OII?** | **OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| estrutura de bot | Sim | ID de instância Teams | para mapear Teams instância para instância de nossa aplicação associada à organização  | ID de instância Teams | para mapear Teams instância para instância de nossa aplicação associada à organização  |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
@@ -77,26 +72,26 @@ Se este aplicativo contiver um bot ou uma extensão de mensagens, ele pode acess
 
 >| **Justificativa para acessar o EUII?**  | **O EUII está armazenado em banco de dados?** | **Justificativa para armazenar euii?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| para abordar adequadamente a pessoa durante as conversas com bot. A fim de mapear o usuário em Teams para o seu usuário em nosso aplicativo | identificador, nome, endereço de e-mail Teams | para mapear Teams usuário para usuário em nossa plataforma |
+>| O primeiro nome, sobrenome e endereços de e-mail de usuários que aceitaram convites para eventos de calendário autenticados do usuário. | O primeiro nome, sobrenome e endereços de e-mail de usuários que aceitaram convites para eventos de calendário autenticados do usuário. | Esses usuários podem ser convidados a usar nosso aplicativo por um usuário autenticado do nosso aplicativo. |
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
 
 Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Teams membro da equipe. Associação entre a instância de Teams do cliente e sua instância de Condutor. Os dados retidos desde que sejam um cliente Condutor. Remoção quando a instância do condutor do cliente é desativada ou depois de ser solicitada
+>Nenhum OII ou EUII aparecem nos aplicativos telemetria ou logs.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Não disponível
+>os administradores da organização podem entrar em contato com nossa equipe de suporte para exclusão, retenção e outras solicitações.
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
 Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de informações organificáveis (OII) coletados ou armazenados por este aplicativo?
 
->Sim
+>Não
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -106,9 +101,9 @@ Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de
 
 As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36367' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/38162' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36367" target="_blank">Exibir em uma nova guia</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/38162" target="_blank">Exibir em uma nova guia</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -118,12 +113,12 @@ As informações do [Microsoft Cloud App Security](https://www.microsoft.com/ent
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pela Sensei Labs Inc. sobre como este aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de identidade.
+Essas informações foram fornecidas pela qChange Software Solution, Inc. sobre como este aplicativo lida com a autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Você integra-se com a Microsoft Identify Platform (Azure AD)?  | Sim |
-| Você revisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração plataforma de identidade da Microsoft?  | Não |
+| Você revisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração plataforma de identidade da Microsoft?  | Sim |
 | Seu aplicativo usa o MSAL (Microsoft Authentication Library) para autenticação? | Sim |
 | Seu aplicativo suporta políticas de acesso condicional? | Não |
 | Seu aplicativo pede menos permissões privilegiadas para o seu cenário? | Sim |
@@ -133,7 +128,7 @@ Essas informações foram fornecidas pela Sensei Labs Inc. sobre como este aplic
 | Você possui todo o identificador unificado de recursos (URI) cadastrado no seu aplicativo? | Sim |
 | Para o seu aplicativo, o que você evita usar? | - Curinga redirecionar URIs,<br/>- OAuth2 Flow Implícita, a menos que seja necessário para um SPA<br/>- Fluxo de credencial de senha do proprietário de recursos (ROPC) |
 | Seu aplicativo expõe alguma APIs web? | Sim |
-| Seu modelo de permissão só permite que as chamadas tenham sucesso se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Seu modelo de permissão só permite que as chamadas tenham sucesso se o aplicativo cliente receber o consentimento adequado? | Não |
 | Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 

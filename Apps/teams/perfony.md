@@ -1,19 +1,19 @@
 ---
-title: Informações do aplicativo para Perfony por Perfony
+title: Informações de aplicação para Perfony por Perfony
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para a Perfony, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações disponíveis de segurança e conformidade para a Perfony, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b2edc779991249e4968500fa5d19e24fdfae5790
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: b936a0a6834f6904ced959b5a7c00e130a74480c
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250439"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551851"
 ---
 # <a name="perfony"></a>Perfony
 
@@ -21,26 +21,25 @@ ms.locfileid: "52250439"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 16 de dezembro de 2019</p>
 
-* <a href="https://teams.microsoft.com/l/app/6cceb7cf-854d-4a5f-a11a-64ed78c8de0e" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/6cceb7cf-854d-4a5f-a11a-64ed78c8de0e" target="_blank">Vista na loja Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381418" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas por Perfony à Microsoft:
+Informações fornecidas pela Perfony à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | Perfony |
 | ID | WA104381418 |
-| Recursos | Guia |
-| Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Perfony |
-| URL do site do parceiro | [https://www.perfony.com](https://www.perfony.com) |
-| URL da página Teams de informações do aplicativo | [https://www.perfony.com/academie/installer-onglet-perfony-t...](https://www.perfony.com/academie/installer-onglet-perfony-teams/) |
+| Office 365 clientes suportados | Microsoft Teams |
+| Nome da empresa parceira | Perfony |
+| URL do site de parceiros | [https://www.perfony.com](https://www.perfony.com) |
+| URL da página de informações do aplicativo Teams | [https://www.perfony.com/academie/installer-onglet-perfony-t...](https://www.perfony.com/academie/installer-onglet-perfony-teams/) |
 | URL da Política de Privacidade | [https://www.perfony.com/fr/confidentialite/](https://www.perfony.com/fr/confidentialite/) |
-| URL dos Termos de Uso | [https://www.perfony.com/fr/conditions-generales-dabonnement/](https://www.perfony.com/fr/conditions-generales-dabonnement/) |
+| URL de Termos de Uso | [https://www.perfony.com/fr/conditions-generales-dabonnement/](https://www.perfony.com/fr/conditions-generales-dabonnement/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,41 +49,40 @@ Informações fornecidas por Perfony à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela Perfony sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Perfony sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
 
 >Este aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não-Microsoft, liste o serviço não-Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não serviços Microsoft não são utilizadas.
 
-#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
+#### <a name="data-access-via-bots"></a>Acesso a dados via bots
 
-Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
+Se este aplicativo contiver um bot ou uma extensão de mensagens, ele pode acessar informações identificáveis pelo usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de e-mail) de qualquer membro da equipe em uma equipe ou chat a que é adicionado. Este aplicativo faz uso desse recurso?
 
 >Nenhum EUII é acessado.
 
 
-
 #### <a name="telemetry-data"></a>Dados de telemetria
 
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Perfony registra o nome, sobrenome e email em logs.
-O administrador empresarial pode gerenciar a exclusão de dados em um painel de controle.
+>Perfony registra nome, sobrenome e e-mail em logs.
+O administrador corporativo pode gerenciar a exclusão de dados, em um painel de controle.
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
 
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Enterprise administrador pode gerenciar a política de segurança de senha e exclusão de dados em um painel de controle. Outros recursos (SAML v2, OAuth2, política de usuário final e assim por diante) podem ser fornecidos por solicitação aos administradores de Perfony.
+>Enterprise administrador pode gerenciar a política de exclusão de dados e segurança de senha em um painel de controle. Outros recursos (SAML v2, OAuth2, política de usuário final e assim por diante) podem ser fornecidos á solicitação aos administradores perfony.
 
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -93,9 +91,9 @@ Descrever como os administradores da organização podem controlar suas informa�
 
 ::: zone pivot="mcas"
 
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35697' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35697' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35697" target="_blank">Exibir em uma nova guia</a>
 

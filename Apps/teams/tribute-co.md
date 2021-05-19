@@ -1,19 +1,19 @@
 ---
-title: Informações do aplicativo para tributo pelo Co do Tributo.
+title: Informações do aplicativo para tributo pela Tribute Co.
 ms.author: elmalova
 author: elenamalova
 ms.date: 04/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Tributo, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações disponíveis de segurança e conformidade para o Tribute, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3fead70ef460ec81d89144420850ce47e3aee3e4
-ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
+ms.openlocfilehash: 57c0c47bd47a23efb9cf93247988b3a374690ede
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52258778"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52551171"
 ---
 # <a name="tribute"></a>Tribute
 
@@ -21,26 +21,25 @@ ms.locfileid: "52258778"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 16 de abril de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/cfb46a87-a75b-4045-9f22-a0ae0614fd60" target="_blank">Exibir no Armazenamento do Teams</a>
+* <a href="https://teams.microsoft.com/l/app/cfb46a87-a75b-4045-9f22-a0ae0614fd60" target="_blank">Vista na loja Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002589" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Co. do Tributo à Microsoft:
+Informações fornecidas pela Tribute Co. à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | Tribute |
 | ID | WA200002589 |
-| Recursos | Tab |
-| Clientes do Office 365 com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Tribute Co. |
-| URL do site do parceiro | [https://www.tributementorship.com](https://www.tributementorship.com) |
-| Página de informações do aplicativo URL do Teams | [https://www.tributementorship.com/how-it-works](https://www.tributementorship.com/how-it-works) |
+| Office 365 clientes suportados | Microsoft Teams |
+| Nome da empresa parceira | Tribute Co. |
+| URL do site de parceiros | [https://www.tributementorship.com](https://www.tributementorship.com) |
+| URL da página de informações do aplicativo Teams | [https://www.tributementorship.com/how-it-works](https://www.tributementorship.com/how-it-works) |
 | URL da Política de Privacidade | [https://www.tributementorship.com/privacy](https://www.tributementorship.com/privacy) |
-| URL dos Termos de Uso | [https://www.tributementorship.com/terms](https://www.tributementorship.com/terms) |
+| URL de Termos de Uso | [https://www.tributementorship.com/terms](https://www.tributementorship.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,44 +49,43 @@ Informações fornecidas pelo Co. do Tributo à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo Co do Tributo sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Tribute Co. sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados que o aplicativo coleta.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
 
-Listar todas [as permissões do Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exige.
+Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
 
 >Este aplicativo não usa o Microsoft Graph.
 
 
-#### <a name="non-microsoft-services-used"></a>Serviços que não são da Microsoft usados
+#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não-Microsoft, liste o serviço não-Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Os serviços que não são da Microsoft não são usados.
+>Não serviços Microsoft não são utilizadas.
 
-#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
+#### <a name="data-access-via-bots"></a>Acesso a dados via bots
 
-Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
+Se este aplicativo contiver um bot ou uma extensão de mensagens, ele pode acessar informações identificáveis pelo usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de e-mail) de qualquer membro da equipe em uma equipe ou chat a que é adicionado. Este aplicativo faz uso desse recurso?
 
 >Nenhum EUII é acessado.
 
 
-
 #### <a name="telemetry-data"></a>Dados de telemetria
 
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Nenhum OII ou EUII aparece nos logs ou telemetria de aplicativos.
+>Nenhum OII ou EUII aparecem nos aplicativos telemetria ou logs.
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
 
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Somos um processador de dados, não um controlador. 
+>Somos um processador de dados, não controlador. 
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
-Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
+Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de informações organificáveis (OII) coletados ou armazenados por este aplicativo?
 
 >Não
 
@@ -97,9 +95,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone pivot="mcas"
 
-As informações do catálogo de Segurança do Aplicativo na [Nuvem](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) da Microsoft aparecem abaixo.
+As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
 
-<iframe height='1020' title='Informações de Segurança do Aplicativo na Nuvem da Microsoft' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870" target="_blank">Exibir em uma nova guia</a>
 
@@ -111,20 +109,20 @@ As informações do catálogo de Segurança do Aplicativo na [Nuvem](https://www
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pelo Co do Tributo sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pela Tribute Co. sobre como este aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração da plataforma de identidade da Microsoft?  | Sim |
-| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
-| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
-| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Não |
-| Seu aplicativo dá suporte a multi-enancy? | Sim |
+| Você integra-se com a Microsoft Identify Platform (Azure AD)?  | Sim |
+| Você revisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração plataforma de identidade da Microsoft?  | Sim |
+| Seu aplicativo usa o MSAL (Microsoft Authentication Library) para autenticação? | Sim |
+| Seu aplicativo suporta políticas de acesso condicional? | Não |
+| Seu aplicativo pede menos permissões privilegiadas para o seu cenário? | Sim |
+| As permissões cadastradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará de forma dinâmica e incremental? | Não |
+| Seu aplicativo suporta multi-locação? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Sim |
-| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Seu aplicativo expõe alguma APIs da Web? | Não |
+| Você possui todo o identificador unificado de recursos (URI) cadastrado no seu aplicativo? | Sim |
+| Seu aplicativo expõe alguma APIs web? | Não |
 | Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 

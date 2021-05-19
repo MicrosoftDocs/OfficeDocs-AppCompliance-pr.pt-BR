@@ -1,19 +1,19 @@
 ---
-title: Informações do aplicativo engagewith by SpringRole
+title: Informações do aplicativo para engajamentocom por SpringRole
 ms.author: elmalova
 author: elenamalova
 ms.date: 01/13/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para EngageWith, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações disponíveis de segurança e conformidade para o EngageWith, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 42896bd4a2cd23ee5b5bff2f8236ddacabc56a3f
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 6bb19440f4d5e9518e917856fbe709fbcfc0792f
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52248349"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52552752"
 ---
 # <a name="engagewith"></a>EngageWith
 
@@ -21,7 +21,7 @@ ms.locfileid: "52248349"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 13 de janeiro de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/6fb7f99a-d746-4a4b-8964-7c17d48935bb" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/6fb7f99a-d746-4a4b-8964-7c17d48935bb" target="_blank">Vista na loja Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001915" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -34,13 +34,12 @@ Informações fornecidas pela SpringRole à Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | EngageWith |
 | ID | WA200001915 |
-| Recursos | Bot |
-| Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | SpringRole |
-| URL do site do parceiro | [https://engagewith.springworks.in/](https://engagewith.springworks.in/) |
-| URL da página Teams de informações do aplicativo | [https://www.springworks.in/engagewith/](https://www.springworks.in/engagewith/) |
+| Office 365 clientes suportados | Microsoft Teams |
+| Nome da empresa parceira | SpringRole |
+| URL do site de parceiros | [https://engagewith.springworks.in/](https://engagewith.springworks.in/) |
+| URL da página de informações do aplicativo Teams | [https://www.springworks.in/engagewith/](https://www.springworks.in/engagewith/) |
 | URL da Política de Privacidade | [https://engagewith.springworks.in/privacy-policy](https://engagewith.springworks.in/privacy-policy) |
-| URL dos Termos de Uso | [https://engagewith.springworks.in/terms-and-conditions](https://engagewith.springworks.in/terms-and-conditions) |
+| URL de Termos de Uso | [https://engagewith.springworks.in/terms-and-conditions](https://engagewith.springworks.in/terms-and-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,48 +49,47 @@ Informações fornecidas pela SpringRole à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela SpringRole sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela SpringRole sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
 
 >Este aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não-Microsoft, liste o serviço não-Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
+>| **Todos os OII não serviços Microsoft são transferidos para** |  **O que é transferido?** | **Justificativa para transferir OII?** |
 >|:-------------------|:--------------------------|:--------------------------|
->| AWS, Mailchimp, Stripe. Nome do cliente, email, IP, informações de pagamento. Usamos esses terceiros para fornecer a melhor experiência do cliente para nossos clientes | Nome, email | esse add-in não usa APIs adicionais |
+>| AWS, Mailchimp, Stripe. Nome do cliente, e-mail, IP, informações de pagamento. Usamos esses terceiros para fornecer a melhor experiência do cliente aos nossos clientes | Nome, e-mail | este complemento não usa APIs adicionais |
 
-#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
+#### <a name="data-access-via-bots"></a>Acesso a dados via bots
 
-Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
+Se este aplicativo contiver um bot ou uma extensão de mensagens, ele pode acessar informações identificáveis pelo usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de e-mail) de qualquer membro da equipe em uma equipe ou chat a que é adicionado. Este aplicativo faz uso desse recurso?
 
->| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
+>| **Justificativa para acessar o EUII?**  | **O EUII está armazenado em banco de dados?** | **Justificativa para armazenar euii?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| Esses dados são usados para exibir e armazenar o histórico de resgate de pontos &amp; de recompensa. Também é usado na funcionalidade principal do aplicativo para dar Kudos e Shoutout aos pares | Nome, email, aniversário e aniversário de trabalho. | Esses dados são usados para exibir e armazenar seu histórico de resgate de pontos &amp; de recompensa |
-
+>| Esses dados são usados para exibir e armazenar o histórico de resgate de pontos &amp; de recompensa. Também utilizado na principal funcionalidade do aplicativo para dar Kudos e Shoutout para os pares | Nome, e-mail, aniversário e aniversário de trabalho. | Esses dados são usados para exibir e armazenar seu histórico de resgate de pontos de recompensa &amp; |
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
 
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->OII: nome da organização, ID de locatário aparecem em logs; EUII: Aad ID do objeto, nome completo, email aparecem em logs. Período de retenção de 30 dias, exclusão automática
+>OII: nome da organização, ID do inquilino aparecem em logs; EUII: aad Object ID, nome completo, e-mail aparecem em logs. Período de retenção de 30 dias, exclusão automática
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
 
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Dados armazenados no RDS, AWS. ele é criptografado. O Acesso é apenas para um Engenheiro devops, Líder de Engenharia e fundador
+>Dados armazenados em RDS, AWS. ele é criptografado. O acesso é apenas para um engenheiro, líder de engenharia e fundador da Devops
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
-Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
+Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de informações organificáveis (OII) coletados ou armazenados por este aplicativo?
 
 >Não
 
@@ -101,9 +99,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone pivot="mcas"
 
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36381' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36381' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36381" target="_blank">Exibir em uma nova guia</a>
 
@@ -115,11 +113,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pela SpringRole sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pela SpringRole sobre como este aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
+| Você integra-se com a Microsoft Identify Platform (Azure AD)?  | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
