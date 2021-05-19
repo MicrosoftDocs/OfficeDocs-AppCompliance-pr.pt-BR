@@ -261,6 +261,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200000150.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/calendarhero-inc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/cac7469b-37cc-44f5-bf08-ff6654d35819.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/calendarhero-inc",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002639.md",
       "redirect_url": "/microsoft-365-app-certification/teams/chimu-software-catchem",
       "redirect_document_id": false
@@ -2143,16 +2153,6 @@
     {
       "source_path": "Apps/forward/153059f1-912e-45d6-a13a-037675d66974.md",
       "redirect_url": "/microsoft-365-app-certification/teams/zoho-corporation-private-limited-sprints",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200000150.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/zoomai-inc-meeting-assistant",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/cac7469b-37cc-44f5-bf08-ff6654d35819.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/zoomai-inc-meeting-assistant",
       "redirect_document_id": false
     },
     {
