@@ -6,7 +6,7 @@ ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações disponíveis de segurança e conformidade para o ServiceDesk Plus Cloud, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para o ServiceDesk Plus Cloud, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 04797702995180e8a0a5305e88d49903eff80690
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -21,7 +21,7 @@ ms.locfileid: "52550541"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 16 de dezembro de 2019</p>
 
-* <a href="https://teams.microsoft.com/l/app/04fdcea1-3511-499c-966d-099d59aef45f" target="_blank">Vista na loja Teams</a>
+* <a href="https://teams.microsoft.com/l/app/04fdcea1-3511-499c-966d-099d59aef45f" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000037" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -34,12 +34,12 @@ Informações fornecidas pela Zoho Corporation Private Limited à Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | ServiceDesk Plus Cloud |
 | ID | WA200000037 |
-| Office 365 clientes suportados | Microsoft Teams |
-| Nome da empresa parceira | Zoho Corporation Private Limited |
-| URL do site de parceiros | [https://www.manageengine.com/products/service-desk](https://www.manageengine.com/products/service-desk) |
-| URL da página de informações do aplicativo Teams | [https://help.sdpondemand.com/servicedeskplus_cloud_for_teams](https://help.sdpondemand.com/servicedeskplus_cloud_for_teams) |
+| Office 365 clientes com suporte | Microsoft Teams |
+| Nome da empresa de parceiro | Zoho Corporation Private Limited |
+| URL do site do parceiro | [https://www.manageengine.com/products/service-desk](https://www.manageengine.com/products/service-desk) |
+| URL da página Teams de informações do aplicativo | [https://help.sdpondemand.com/servicedeskplus_cloud_for_teams](https://help.sdpondemand.com/servicedeskplus_cloud_for_teams) |
 | URL da Política de Privacidade | [https://www.manageengine.com/privacy.html](https://www.manageengine.com/privacy.html) |
-| URL de Termos de Uso | [https://ondemand.manageengine.com/terms.html](https://ondemand.manageengine.com/terms.html) |
+| URL dos Termos de Uso | [https://ondemand.manageengine.com/terms.html](https://ondemand.manageengine.com/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,49 +49,49 @@ Informações fornecidas pela Zoho Corporation Private Limited à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
+Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicação)** | **Os dados são coletados? Justificativa para recolhê-lo?** | **Os dados são armazenados? Justificativa para armazená-lo?** | **ID do aplicativo Azure AD** |
+>| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.ReadWrite | aplicação |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read | Delegada |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.Selected | Delegada |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read | Delegada | ID por e-mail do usuário. | Permite que o usuário faça login e dá acesso ao aplicativo à sua UPN para ativar o login silencioso. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read.Selected | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Read | delegado | ID de email do usuário. | Permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 >| User.Read.All | aplicação |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | Delegada | ID de e-mail, Nome, ID do funcionário, título de trabalho, Telefone, Mobile, Site, Departamento, Locale, Foto do perfil do usuário. | Permite importar informações básicas dos usuários de Azure Active Directory. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| email | Delegada | ID por e-mail do usuário. | Veja o endereço de e-mail do usuário. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | Delegada |  | Mantenha o acesso aos dados aos que você deu acesso. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| perfil | Delegada |  | Veja o perfil básico do usuário. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.ReadBasic.All | delegado | ID de email, Nome, ID do Funcionário, Cargo, Telefone, Celular, Site, Departamento, Localidade, Foto de perfil do usuário. | Permite importar informações básicas dos usuários Azure Active Directory. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| email | delegado | ID de email do usuário. | Exibir o endereço de email do usuário. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| offline_access | delegado |  | Mantenha acesso aos dados aos que você lhe deu acesso. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| perfil | delegado |  | Exibir o perfil básico do usuário. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não-Microsoft, liste o serviço não-Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são utilizadas.
+>Não serviços Microsoft não são usados.
 
-#### <a name="data-access-via-bots"></a>Acesso a dados via bots
+#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
-Se este aplicativo contiver um bot ou uma extensão de mensagens, ele pode acessar informações identificáveis pelo usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de e-mail) de qualquer membro da equipe em uma equipe ou chat a que é adicionado. Este aplicativo faz uso desse recurso?
+Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >Nenhum EUII é acessado.
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
 
-Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Não coletamos EUII / PII em telemetria / logs. Temos scripts no lugar que procuram padrões e alertam para corrigi-lo
+>Não coletamos EUII/PII em telemetria/logs. Temos scripts no local que estão procurando padrões e alertas para corrigi-lo
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
-Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Todos os dados estão criptografados no REST. Somente pessoas autorizadas têm acesso ao sistema que é de qualquer forma protegido de acesso, completamente auditado para todo tipo de acesso. MFA em vigor para acesso, contas autorizadas são mantidas em diretório corporativo e host
+>Todos os dados são criptografados em REST. Somente pessoas autorizadas têm acesso ao sistema que está protegido de qualquer maneira, completamente auditado para todo tipo de acesso. MFA in-place for access, authorized accounts are maintained in a corporate directory and host
 
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -100,9 +100,9 @@ Descrever como os administradores da organização podem controlar suas informa�
 
 ::: zone pivot="mcas"
 
-As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
+As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802" target="_blank">Exibir em uma nova guia</a>
 

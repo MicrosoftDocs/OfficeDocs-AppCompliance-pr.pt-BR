@@ -1,12 +1,12 @@
 ---
-title: Informações do aplicativo para Sheetgo pela SHEETGO EUROPE SL
+title: Informações do aplicativo para Sheetgo by SHEETGO EUROPE SL
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações disponíveis de segurança e conformidade para a Sheetgo, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para Sheetgo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: cba1d32ef248cc8228a0e38e1dc953dd07f4e5ad
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -27,17 +27,17 @@ ms.locfileid: "52548718"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pela SHEETGO EUROPE SL à Microsoft:
+Informações fornecidas pelo SHEETGO EUROPE SL para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | Sheetgo |
 | ID | WA200002128 |
-| Office 365 clientes suportados | Excel 2016 ou mais tarde em Mac, Excel 2016 ou mais tarde em Windows, Excel na Web |
-| Nome da empresa parceira | SHEETGO EUROPE SL |
-| URL do site de parceiros | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| Office 365 clientes com suporte | Excel 2016 ou posterior no Mac, Excel 2016 ou posterior no Windows, Excel na Web |
+| Nome da empresa de parceiro | SHEETGO EUROPE SL |
+| URL do site do parceiro | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
 | URL da Política de Privacidade | [https://www.sheetgo.com/legal/privacy](https://www.sheetgo.com/legal/privacy) |
-| URL de Termos de Uso | [https://www.sheetgo.com/legal/terms](https://www.sheetgo.com/legal/terms) |
+| URL dos Termos de Uso | [https://www.sheetgo.com/legal/terms](https://www.sheetgo.com/legal/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,42 +47,42 @@ Informações fornecidas pela SHEETGO EUROPE SL à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela SHEETGO EUROPE SL sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo SHEETGO EUROPE SL sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
+Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
 >Este aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não-Microsoft, liste o serviço não-Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->| **Todos os OII não serviços Microsoft são transferidos para** |  **O que é transferido?** | **Justificativa para transferir OII?** |
+>| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
 >|:-------------------|:--------------------------|:--------------------------|
->| MongoDB: Sistema de registro e dados do usuário para funcionar, Google BigQuery: Sistema de registro registra uso, Google Firestore: Um sistema que mantém e orquestra o estado de nossos microsserviços, Stripe: Sistema de pagamento |  | Esses aplicativos não usam APIs adicionais da Microsoft |
+>| MongoDB: Registrar dados do sistema e do usuário para funcionar, Google BigQuery: Registrar o uso de logs do sistema, Google Firestore: um sistema que mantém e orquestra o estado de nossos microserviços, Stripe: Sistema de pagamento |  | Esses aplicativos não usam APIs adicionais da Microsoft |
 
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
 
-Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Telemetria/logs inclui o endereço de e-mail do usuário apenas como informações identificáveis pelo usuário final. Quando solicitado pelo usuário, a equipe de suporte ao aplicativo executa uma rotina automática interna que desfoca endereços de e-mail através de telemetria/logs e torna os dados do usuário não mais identificáveis.
+>Telemetria/logs inclui o endereço de email do usuário apenas como informações de identificação do usuário final. Quando solicitado pelo usuário, a equipe de suporte ao aplicativo executa uma rotina automática interna que desfoque os endereços de email entre telemetria/logs e torna os dados do usuário não mais identificáveis.
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
-Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->MongoDB: Sistema de registro e dados do usuário para funcionar Google BigQuery: Sistema de registro registra uso do Google Firestore: Um sistema que mantém e orquestra o estado de nossos microsserviços. Os únicos dados críticos neste trânsito de serviço é a credencial do usuário, que é criptografada usando o sistema AES256 Stripe: Payment.
+>MongoDB: Grave dados do sistema e do usuário para funcionar Google BigQuery: Registrar o uso de logs do sistema Google Firestore: um sistema que mantém e orquestra o estado de nossos microsserviços. Os únicos dados críticos que esse serviço transita é a credencial do usuário, que é criptografada usando o AES256 Stripe: Sistema de pagamento.
  
-Todos os dados em trânsito usam HTTPS para conexões seguras e todos os dados confidenciais são criptografados usando AES256
+Todos os dados em trânsito usam HTTPS para conexões seguras e todos os dados confidenciais são criptografados usando o AES256
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
-Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de informações organificáveis (OII) coletados ou armazenados por este aplicativo?
+Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
 
 >Sim
 
@@ -92,9 +92,9 @@ Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de
 
 ::: zone pivot="mcas"
 
-As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
+As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36141' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36141' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36141" target="_blank">Exibir em uma nova guia</a>
 

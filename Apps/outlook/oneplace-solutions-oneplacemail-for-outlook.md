@@ -1,12 +1,12 @@
 ---
-title: Informações do aplicativo para OnePlaceMail para Outlook pela OnePlace Solutions
+title: Informações sobre aplicativos do OnePlaceMail para Outlook soluções do OnePlace
 ms.author: elmalova
 author: elenamalova
 ms.date: 01/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações disponíveis de segurança e conformidade para o OnePlaceMail for Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para o OnePlaceMail para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 5094d1ad5e7b028ac115529de16ddb9cbef2086f
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -27,17 +27,17 @@ ms.locfileid: "52552492"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pela OnePlace Solutions para a Microsoft:
+Informações fornecidas pelas Soluções do OnePlace para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | OnePlaceMail para Outlook |
 | ID | WA104380723 |
-| Office 365 clientes suportados | Outlook 2013 ou mais tarde em Windows, Outlook 2016 ou posterior no Mac, Outlook no iOS, Outlook no Android, Outlook na web |
-| Nome da empresa parceira | Soluções OnePlace |
-| URL do site de parceiros | [https://www.oneplacesolutions.com/](https://www.oneplacesolutions.com/) |
+| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook no iOS, Outlook no Android, Outlook na Web |
+| Nome da empresa de parceiro | Soluções OnePlace |
+| URL do site do parceiro | [https://www.oneplacesolutions.com/](https://www.oneplacesolutions.com/) |
 | URL da Política de Privacidade | [https://www.oneplacesolutions.com/oneplacemailapp-privacy](https://www.oneplacesolutions.com/oneplacemailapp-privacy) |
-| URL de Termos de Uso | [https://www.oneplacesolutions.com/oneplacemailapp-eula](https://www.oneplacesolutions.com/oneplacemailapp-eula) |
+| URL dos Termos de Uso | [https://www.oneplacesolutions.com/oneplacemailapp-eula](https://www.oneplacesolutions.com/oneplacemailapp-eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,56 +47,56 @@ Informações fornecidas pela OnePlace Solutions para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela OnePlace Solutions sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelas Soluções do OnePlace sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
+Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicação)** | **Os dados são coletados? Justificativa para recolhê-lo?** | **Os dados são armazenados? Justificativa para armazená-lo?** | **ID do aplicativo Azure AD** |
+>| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | Delegada | Necessário determinar Teams o usuário atual é membro de. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
->| Mail.ReadWrite.Shared | Delegada | Necessário acessar propriedades de e-mail para definir SharePoint colunas e adicionar a categoria Transferido à SharePoint no item de e-mail | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
->| MailboxSettings.ReadWrite | Delegada | Sem dados coletados ou usados, este é usado para adicionar uma categoria à lista de categorias mestres em uma caixa de correio de usuários | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
->| Sites.ReadWrite.All | Delegada | Necessário para definir propriedades em itens que o aplicativo carregou para SharePoint. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.Read | Delegada | Necessário para autenticação para o Microsoft Graph. | Os seguintes dados são armazenados pelo aplicativo em um banco de dados e são usados para rastreamento de assinatura e licença de usuário: Identificação do usuário, E-mail, Primeiro Nome, Sobrenome. | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadBasic.All | Delegada | Necessário mostrar a imagem do perfil do usuário no campo de coleta de pessoas. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadBasic.All | Delegada | Necessário mostrar a imagem do perfil do usuário no campo de coleta de pessoas. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadWrite.All | Delegada | Necessário determinar se o serviço Teams está habilitado dentro dos usuários Office 365 locação. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
+>| Group.ReadWrite.All | delegado | Obrigatório para determinar Teams o usuário atual é membro. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
+>| Mail.ReadWrite.Shared | delegado | Necessário para acessar propriedades de email para definir SharePoint colunas e adicionar a categoria Transferido para SharePoint no item de email | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
+>| MailboxSettings.ReadWrite | delegado | Sem dados coletados ou usados, isso é usado para adicionar uma categoria à lista de categorias mestras em uma caixa de correio de usuários | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
+>| Sites.ReadWrite.All | delegado | Necessário para definir propriedades em itens que o aplicativo carregou para SharePoint. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
+>| User.Read | delegado | Obrigatório para autenticação no microsoft Graph. | Os dados a seguir são armazenados pelo aplicativo em um banco de dados e são usados para acompanhamento de licenças de usuário e assinatura: ID do usuário, Email, Nome, Sobrenome. | 44a72516-136f-4a55-ae26-ef09977230be |
+>| User.ReadBasic.All | delegado | Necessário para mostrar a imagem do perfil do usuário no campo se picker de pessoas. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
+>| User.ReadBasic.All | delegado | Necessário para mostrar a imagem do perfil do usuário no campo se picker de pessoas. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
+>| User.ReadWrite.All | delegado | Necessário para determinar se o serviço Teams está habilitado dentro do Office 365 de usuário. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
-Aplicativos e complementos incorporados em Microsoft 365 podem usar APIs adicionais da Microsoft além da Microsoft Graph para coletar ou processar informações identificáveis organizacionais (OII). Liste quaisquer APIs da Microsoft além da Microsoft Graph que este aplicativo usa.
+Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
 
->| **API** |  **OII é coletado?** |  **O que o OII é coletado?** | **Justificativa para a coleta de OII?** | **OII está armazenado?** | **Justificativa para armazenar OII?** |
+>| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| Microsoft Office SharePoint Online | Sim | SharePoint URLs, nomes de biblioteca/lista/pasta | As informações organizacionais acessadas são usadas para facilitar o processo de salvar e-mails e anexos de Exchange para SharePoint. Esses dados adicionais não são armazenados em repouso e são criptografados em trânsito. Exemplos desses dados incluem valores de coluna SharePoint, como valores da coluna Escolha, valores de Taxonomia, nomes de tipo de conteúdo, nomes de pastas, nomes de sites.  | Embora esses dados não são armazenados ou coletados pelo aplicativo, ele pode aparecer em telemetria/logs onde são retidos por 90 dias. | Os dados não são armazenados |
+>| SharePoint | Sim | SharePoint URLs, nomes de biblioteca/lista/pasta | As informações organizacionais acessadas por são usadas para facilitar o processo de salvar emails e anexos de Exchange para SharePoint. Esses dados adicionais não são armazenados em repouso e são criptografados em trânsito. Exemplos desses dados incluem SharePoint de coluna, como valores de coluna De escolha, valores de taxonomia, nomes de Tipo de Conteúdo, Nomes de Pasta, Nomes de Site.  | Embora esses dados não são armazenados ou coletados pelo aplicativo, eles podem aparecer em telemetria/logs em que são mantidos por 90 dias. | Os dados não são armazenados |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não-Microsoft, liste o serviço não-Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->| **Todos os OII não serviços Microsoft são transferidos para** |  **O que é transferido?** | **Justificativa para transferir OII?** |
+>| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
 >|:-------------------|:--------------------------|:--------------------------|
->| O serviço Chargify é usado para gerenciamento de assinaturas e faturamento. Para criação de assinatura no aplicativo (gratuito) o Primeiro Nome, Sobrenome, Endereço de E-mail do usuário são compartilhados com o Chargify. Para assinaturas compradas (que suportam vários usuários licenciados) os detalhes individuais do usuário não são compartilhados com o serviço Chargify. | Endereço de Email | Para ser capaz de comunicar eventos do ciclo de vida de assinatura ao usuário |
+>| O serviço Chargify é usado para gerenciamento e cobrança de assinaturas. Para criação de assinatura no aplicativo (gratuita) o Nome, Sobrenome, Endereço de Email do usuário são compartilhados com Chargify. Para assinaturas compradas (que suportam vários usuários licenciados), os detalhes individuais do usuário não são compartilhados com o serviço Chargify. | Endereço de Email | Para poder comunicar eventos de ciclo de vida de assinatura ao usuário |
 
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
 
-Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Euii e OII aparecem em telemetria. Essas informações são armazenadas em Insights de Aplicativos, criptografadas em repouso, controladas e excluídas após 90 dias
+>EUII e OII aparecem na telemetria. Essas informações são armazenadas no Application Insights, criptografadas em repouso, o acesso controlado e excluído após 90 dias
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
-Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Os dados armazenados no aplicativo são criptografados em trânsito e em repouso. Contamos com Office 365 credenciais para nossos aplicativos, para que não armazenemos senhas de usuário em nosso sistema. O acesso aos dados/logs/telemetria armazenados é fortemente controlado pela equipe da administração interna com a necessidade de acessar as informações com o propósito de executar e monitorar a saúde do aplicativo. Two-Factor Autenticação aplicada para todos os funcionários da administração interna.
+>Os dados armazenados no aplicativo são criptografados em trânsito e em repouso. Confiamos em Office 365 credenciais para nossos aplicativos, portanto, não armazenamos senhas de usuário em nosso sistema. O acesso a dados/logs/telemetria armazenados é fortemente controlado à equipe de administração interna com a necessidade de acessar as informações com o objetivo de executar e monitorar a saúde do aplicativo. Two-Factor Autenticação imposta para toda a equipe de administração interna.
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
-Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de informações organificáveis (OII) coletados ou armazenados por este aplicativo?
+Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
 
 >Sim
 
@@ -106,9 +106,9 @@ Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de
 
 ::: zone pivot="mcas"
 
-As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
+As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35746' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35746' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35746" target="_blank">Exibir em uma nova guia</a>
 
@@ -120,22 +120,22 @@ As informações do [Microsoft Cloud App Security](https://www.microsoft.com/ent
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pela OnePlace Solutions sobre como este aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de identidade.
+Essas informações foram fornecidas pelas Soluções do OnePlace sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você integra-se com a Microsoft Identify Platform (Azure AD)?  | Sim |
-| Você revisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração plataforma de identidade da Microsoft?  | Sim |
-| Seu aplicativo usa o MSAL (Microsoft Authentication Library) para autenticação? | Sim |
-| Seu aplicativo suporta políticas de acesso condicional? | Não |
-| Seu aplicativo pede menos permissões privilegiadas para o seu cenário? | Sim |
-| As permissões cadastradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará de forma dinâmica e incremental? | Sim |
-| Seu aplicativo suporta multi-locação? | Sim |
+| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
+| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
+| Seu aplicativo dá suporte a multi-enancy? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Sim |
-| Você possui todo o identificador unificado de recursos (URI) cadastrado no seu aplicativo? | Sim |
-| Para o seu aplicativo, o que você evita usar? | - Curinga redirecionar URIs,<br/>- OAuth2 Flow Implícita, a menos que seja necessário para um SPA<br/>- Fluxo de credencial de senha do proprietário de recursos (ROPC) |
-| Seu aplicativo expõe alguma APIs web? | Sim |
-| Seu modelo de permissão só permite que as chamadas tenham sucesso se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Seu aplicativo expõe alguma APIs da Web? | Sim |
+| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
 | Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 

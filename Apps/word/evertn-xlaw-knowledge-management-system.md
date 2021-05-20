@@ -1,12 +1,12 @@
 ---
-title: Informações de aplicação para xLaw - sistema de gestão de conhecimento por evertn
+title: Informações do aplicativo para xLaw - sistema de gerenciamento de conhecimento por evertn
 ms.author: elmalova
 author: elenamalova
 ms.date: 02/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações disponíveis de segurança e conformidade para xLaw - sistema de gerenciamento de conhecimento, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para xLaw - sistema de gerenciamento de conhecimento, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: e10b2149f8d103ae9c9ab042402168be6ac73e9b
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -15,7 +15,7 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 05/19/2021
 ms.locfileid: "52552652"
 ---
-# <a name="xlaw---knowledge-management-system"></a>xLaw - sistema de gestão do conhecimento
+# <a name="xlaw---knowledge-management-system"></a>xLaw - sistema de gerenciamento de conhecimento
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -27,17 +27,17 @@ ms.locfileid: "52552652"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas por evertn à Microsoft:
+Informações fornecidas pelo evertn à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | xLaw - sistema de gestão do conhecimento |
+| Nome do aplicativo | xLaw - sistema de gerenciamento de conhecimento |
 | ID | WA104381077 |
-| Office 365 clientes suportados | Word 2016 ou mais tarde em Mac, Word na Web, Word 2013 ou mais tarde em Windows |
-| Nome da empresa parceira | evertn |
-| URL do site de parceiros | [https://xlaw.eu/](https://xlaw.eu/) |
+| Office 365 clientes com suporte | Word 2016 ou posterior no Mac, Word na Web, Word 2013 ou posterior no Windows |
+| Nome da empresa de parceiro | evertn |
+| URL do site do parceiro | [https://xlaw.eu/](https://xlaw.eu/) |
 | URL da Política de Privacidade | [https://xlaw.eu/en/privacypolicy.html](https://xlaw.eu/en/privacypolicy.html) |
-| URL de Termos de Uso | [https://xlaw.eu/en/tos.html](https://xlaw.eu/en/tos.html) |
+| URL dos Termos de Uso | [https://xlaw.eu/en/tos.html](https://xlaw.eu/en/tos.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,38 +47,38 @@ Informações fornecidas por evertn à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela Evertn sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo evertn sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
+Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
 >Este aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não-Microsoft, liste o serviço não-Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são utilizadas.
+>Não serviços Microsoft não são usados.
 
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
 
-Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Nenhum OII ou EUII aparecem nos aplicativos telemetria ou logs.
+>Nenhum OII ou EUII aparece nos logs ou telemetria de aplicativos.
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
-Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
 >Controle de acesso
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
-Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de informações organificáveis (OII) coletados ou armazenados por este aplicativo?
+Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
 
 >Não
 
@@ -88,9 +88,9 @@ Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de
 
 ::: zone pivot="mcas"
 
-As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
+As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36910' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36910' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36910" target="_blank">Exibir em uma nova guia</a>
 
@@ -102,11 +102,11 @@ As informações do [Microsoft Cloud App Security](https://www.microsoft.com/ent
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas por evertn sobre como este aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de identidade.
+Essas informações foram fornecidas pelo evertn sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você integra-se com a Microsoft Identify Platform (Azure AD)?  | Não |
+| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
