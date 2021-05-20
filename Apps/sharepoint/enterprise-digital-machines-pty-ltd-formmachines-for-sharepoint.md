@@ -1,12 +1,12 @@
 ---
-title: Informações de aplicação para FormMachines para SharePoint por MÁQUINAS DIGITAIS CORPORATIVAS PTY LTD
+title: Informações do aplicativo para FormMachines para SharePoint por ENTERPRISE DIGITAL MACHINES PTY LTD
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações disponíveis de segurança e conformidade para o FormMachines para SharePoint, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para FormMachines para SharePoint, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 4c423cac4f879ba4f73a9bba5f9004acb4cfa21a
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -27,17 +27,17 @@ ms.locfileid: "52553542"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pela ENTERPRISE DIGITAL MACHINES PTY LTD à Microsoft:
+Informações fornecidas pela ENTERPRISE DIGITAL MACHINES PTY LTD para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | FormMachines para SharePoint |
 | ID | WA200000357 |
-| Office 365 clientes suportados | SharePoint 2016 ou mais tarde |
-| Nome da empresa parceira | MÁQUINAS DIGITAIS CORPORATIVAS PTY LTD |
-| URL do site de parceiros | [https://www.formmachines.com/](https://www.formmachines.com/) |
+| Office 365 clientes com suporte | SharePoint 2016 ou posterior |
+| Nome da empresa de parceiro | ENTERPRISE DIGITAL MACHINES PTY LTD |
+| URL do site do parceiro | [https://www.formmachines.com/](https://www.formmachines.com/) |
 | URL da Política de Privacidade | [https://www.formmachines.com/?dirKey=fm-privacy](https://www.formmachines.com/?dirKey=fm-privacy) |
-| URL de Termos de Uso | [https://www.formmachines.com/?dirKey=fm-terms-of-use](https://www.formmachines.com/?dirKey=fm-terms-of-use) |
+| URL dos Termos de Uso | [https://www.formmachines.com/?dirKey=fm-terms-of-use](https://www.formmachines.com/?dirKey=fm-terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,40 +47,40 @@ Informações fornecidas pela ENTERPRISE DIGITAL MACHINES PTY LTD à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela ENTERPRISE DIGITAL MACHINES PTY LTD sobre como este aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela ENTERPRISE DIGITAL MACHINES PTY LTD sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando Graph microsoft
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Liste quaisquer [permissões Graph microsoft](https://docs.microsoft.com/graph/permissions-reference) que este aplicativo exigir.
+Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicação)** | **Os dados são coletados? Justificativa para recolhê-lo?** | **Os dados são armazenados? Justificativa para armazená-lo?** | **ID do aplicativo Azure AD** |
+>| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | Delegada | (login, e-mail, Azure Guid, displayName, first_login_date_time) | permite que o usuário faça login e dá acesso ao aplicativo à sua UPN para habilitar o login silencioso, nos permite identificar exclusivamente cada usuário | 8c87660f-d36f-41f6-b0ae-025253f380aa |
+>| User.Read | delegado | (logon, email, Guid do Azure, displayName, first_login_date_time) | permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso, nos permite identificar cada usuário com exclusividade | 8c87660f-d36f-41f6-b0ae-025253f380aa |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não-Microsoft, liste o serviço não-Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são utilizadas.
+>Não serviços Microsoft não são usados.
 
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
 
-Alguma informação identificável organizacional (OII) ou informações identificáveis pelo usuário final (EUII) aparece na telemetria ou registros deste aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->. Nós apenas registramos erros. Em nosso registro de erros, só registramos informações relacionadas a erros. Qual cliente ou cliente desencadeou um erro específico não é coletado. Somente os engenheiros de suporte têm acesso a registros de erros . Os registros de erro são visualizados online, não baixados e visualizados . Os registros de erro são excluídos automaticamente após 30 dias
+>. Somente registramos erros . Em nosso log de erros, registramos apenas informações relacionadas a erros. Qual cliente ou cliente disparou um erro específico não é coletado . Somente os engenheiros de suporte têm acesso a logs de erro. Os logs de erro são exibidos online, não baixados e exibidos. Logs de erro são excluídos automaticamente após 30 dias
 
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados por parceiro
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
-Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->. Os dados são armazenados em data centers baseados no Azure nos EUA. Os dados fornecidos pelo cliente, como modelos e envios, são criptografados no DB . Os anexos dos arquivos são armazenados em recipientes privados do Azure BLOB, os usuários devem autenticar antes de acessá-los . Temos no máximo dois administradores que podem acessar nossos ativos de produção, para solução de problemas e implantação. Essas duas contas administrativas são divididas de forma diferente de todas as outras contas. O número de acessos administrativos nunca excederá dois
+>. Os dados são armazenados em data centers baseados no Azure US. Dados fornecidos pelo cliente, como modelos e envios, são criptografados no DB . Os anexos de arquivo são armazenados em contêineres BLOB privados do Azure, os usuários devem autenticar antes de acessá-los. Temos no máximo dois administradores que podem acessar nossos ativos de produção para solução de problemas e implantação. Essas duas contas de administrador são particionadas de forma diferente para todas as outras contas. O número de acesso de administrador nunca excederá dois
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
-Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de informações organificáveis (OII) coletados ou armazenados por este aplicativo?
+Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
 
 >Sim
 
@@ -90,9 +90,9 @@ Os seres humanos estão envolvidos na revisão ou análise de quaisquer dados de
 
 ::: zone pivot="mcas"
 
-As informações do [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) catálogo aparecem abaixo.
+As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security informação' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36144' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36144' frameborder='no' style='width: 100%;'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36144" target="_blank">Exibir em uma nova guia</a>
 
