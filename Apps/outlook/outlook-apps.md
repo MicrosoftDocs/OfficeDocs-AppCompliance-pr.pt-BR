@@ -2,21 +2,21 @@
 title: Microsoft Outlook Segurança e Conformidade de Aplicativos - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/18/2021
+ms.date: 05/21/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os aplicativos Outlook Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 06cae2eff49ec4ad80a27fe5dea2c3fd2ef5b30d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bf0efa79460f5c5d794f1b300af9ff6af98dd2b7
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552482"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629623"
 ---
 # <a name="microsoft-outlook-app-security-and-compliance"></a>Microsoft Outlook Segurança e Conformidade de Aplicativos
 
-A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para fornecer as informações que as organizações precisam para acelerar e informar as decisões sobre Outlook aplicativos e complementos que usam. As informações são complementadas com informações do catálogo de aplicativos do [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) e informações fornecidas pelos desenvolvedores quando eles enviam seus aplicativos. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
+A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para fornecer as informações que as organizações precisam para agilizar e informar as decisões sobre o Microsoft Outlook aplicativos e complementos que usam. As informações são complementadas com informações do catálogo de aplicativos do [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) e informações fornecidas pelos desenvolvedores quando eles enviam seus aplicativos. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
 
 | **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** |
 |:--------|:------------|:----------------------:|:-------------:|

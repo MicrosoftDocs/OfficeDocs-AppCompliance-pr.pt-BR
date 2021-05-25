@@ -2,21 +2,21 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/18/2021
+ms.date: 05/21/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade para todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: e495dfe779f04f40b1c58b3faad3651ae1ede1f4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 001280a003f107cac7503bc7f680c2f17ced7ef6
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553792"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629633"
 ---
 # <a name="microsoft-teams-app-security-and-compliance"></a>Segurança e Conformidade de Aplicativos do Microsoft Teams
 
-A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 para fornecer as informações que as organizações precisam para agilizar e informar durante as decisões sobre os aplicativos e os complementos do Teams que usam. As informações são complementadas com informações do catálogo de aplicativos do [Microsoft Cloud App Security](https://www.microsoft.com/pt-BR/enterprise-mobility-security/cloud-app-security) e informações fornecidas pelos desenvolvedores quando eles enviam seus aplicativos. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
+A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 para fornecer as informações que as organizações precisam para agilizar e informar durante as decisões sobre os aplicativos e os complementos do Microsoft Teams que usam. As informações são complementadas com informações do catálogo de aplicativos do [Microsoft Cloud App Security](https://www.microsoft.com/pt-BR/enterprise-mobility-security/cloud-app-security) e informações fornecidas pelos desenvolvedores quando eles enviam seus aplicativos. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
 
 | **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -95,7 +95,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Solicitação de saída por LTAPPs](./ltapps-software-coltd-leave-request-by.md) | LTAPPs SOFTWARE CO.,LTD | **✓** |  |
 | [Listy](./information-age-technologies-listy.md) | Information Age Technologies | **✓** |  |
 | [Chat ao vivo](./social-intents-live-chat.md) | Social Intents | **✓** |  |
-| [LMS365](./elearningforce-international-lms365.md) | ELEARNINGFORCE International | **✓** |  |
+| [LMS365](./elearningforce-international-lms365.md) | ELEARNINGFORCE International | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Lucidchart](./lucid-software-lucidchart.md) | Lucid Software | **✓** |  |
 | [LuckyDraw](./tony-xia-luckydraw.md) | Tony Xia | **✓** |  |
 | [MailClark](./mailclark.md) | MailClark | **✓** |  |
@@ -199,6 +199,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Webex Call](./cisco-webex-call.md) | Cisco | **✓** |  |
 | [Wide Ideas](./wide-ideas.md) | Wide Ideas | **✓** |  |
 | [Woobot](./woobot.md) | Woobot | **✓** |  |
+| [Workboard](./workboard.md) | Workboard | **✓** |  |
 | [Workday](./workday.md) | Workday | **✓** |  |
 | [Wrike](./wrike-inc.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Wunder365](./jiji-technologies-pvt-ltd-wunder365.md) | JiJi Technologies Pvt Ltd | **✓** |  |

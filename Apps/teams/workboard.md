@@ -1,44 +1,45 @@
 ---
-title: Informações do aplicativo para texto por contato aprovado
+title: Informações do aplicativo para a workboard por workboard
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/10/2021
+ms.date: 05/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Text, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Workboard, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8d9e5cfd3b082692656c7bb9a67417564cf7ab57
+ms.openlocfilehash: ebbece019cea24042a54c69271da9ce0e4dca337
 ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629653"
+ms.locfileid: "52629711"
 ---
-# <a name="text"></a>Texto
+# <a name="workboard"></a>Workboard
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 10 de maio de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 12 de maio de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/a622ceb4-b6e2-4557-8218-e22e80975ba4" target="_blank">Exibir no Teams store</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000383" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/28d0282b-3cd2-49f0-90bb-a016843750c6" target="_blank">Exibir no Teams store</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381599" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Contato Aprovado para a Microsoft:
+Informações fornecidas pela Workboard à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Texto |
-| ID | WA200000383 |
+| Nome do aplicativo | Workboard |
+| ID | WA104381599 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Contato Aprovado |
-| URL do site do parceiro | [www.approvedcontact.com](www.approvedcontact.com) |
-| URL da Política de Privacidade | [https://sales.approvedcontact.com/wp-content/uploads/text-p...](https://sales.approvedcontact.com/wp-content/uploads/text-privacy-policy.pdf) |
-| URL dos Termos de Uso | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
+| Nome da empresa de parceiro | Workboard |
+| URL do site do parceiro | [https://www.workboard.com](https://www.workboard.com) |
+| URL da página Teams de informações do aplicativo | [https://www.workboard.com/microsoft/](https://www.workboard.com/microsoft/) |
+| URL da Política de Privacidade | [https://www.workboard.com/license/privacy-policy.html](https://www.workboard.com/license/privacy-policy.html) |
+| URL dos Termos de Uso | [https://www.workboard.com/license/terms_of_use_v1.php](https://www.workboard.com/license/terms_of_use_v1.php) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,7 +49,7 @@ Informações fornecidas pelo Contato Aprovado para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo Contato Aprovado sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Workboard sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
@@ -56,11 +57,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | delegado | Para o BOT de texto, capturamos o identificador de equipe para criar canais futuros para mensagens de texto de entrada. | Permite criar canais Teams para usuários. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| email | delegado | endereços de email | Obtendo informações de contato do usuário. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| offline_access | delegado | Os tokens de atualização são armazenados em nosso banco de dados. | Usado para persistir tokens de atualização em nosso banco de dados | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| openid | delegado | Credenciais de logon | Permite que o usuário faça logon. para que os textos possam ser entregues em Teams canais | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| perfil | delegado | endereços de email | Obtendo informações de contato do usuário. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>| User.Read | delegado | endereço de email e ids dos usuários.  Ele é usado para mapear o usuário para a ID de usuário da WorkBoard | A WorkBoard armazena apenas a identidade do usuário em seus bancos de dados | User.Read |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -75,26 +72,26 @@ Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá ac
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| Usado para persistir tokens de atualização em nosso banco de dados | Armazenamos endereços de email. | Usado para persistir tokens de atualização em nosso banco de dados |
+>| A id do usuário é usada para notificações proativas enviadas Teams workBord | Endereço de email do usuário e id | Usado para mapear o usuário para a ID de usuário da WorkBoard |
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Sim, registramos endereços de email para conectar compras de licença ao Commercial Appsource. Fornecemos a capacidade de excluir essas informações de nossos logs.
+>Nenhum OII ou EUII aparece nos logs ou telemetria de aplicativos.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Somente desenvolvedores têm acesso aos logs. Aplicamos o 2FA para acesso a todas as plataformas de desenvolvimento.
+>WorkBoard não armazena dados da organização em sistemas de parceiros
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
 Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
 
->Não
+>Sim
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -104,9 +101,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35752' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/29004' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35752" target="_blank">Exibir em uma nova guia</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/29004" target="_blank">Exibir em uma nova guia</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,20 +113,22 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pelo Contato Aprovado sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pela Workboard sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
-| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
+| Listar os tipos de políticas com suporte | A WorkBoard implementou suas próprias políticas de acesso que são impostas no aplicativo.  A organização, a equipe e a identidade do usuário são usadas para determinar os direitos de acesso. |
 | Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
 | As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Não |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Seu aplicativo expõe alguma APIs da Web? | Não |
+| Seu aplicativo expõe alguma APIs da Web? | Sim |
+| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
 | Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 

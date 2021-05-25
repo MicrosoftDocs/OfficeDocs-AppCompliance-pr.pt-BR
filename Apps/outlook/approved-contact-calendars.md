@@ -2,24 +2,24 @@
 title: Informações do aplicativo para calendários de contatos aprovados por contato aprovado
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 05/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Calendários de Contatos Aprovados, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 57dd499fe648ed9a9b481d4175056977a0d6fa61
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 6849ef81797483688f6e0fad69338b1a015748d0
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552552"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629643"
 ---
 # <a name="approved-contact-calendars"></a>Calendários de contatos aprovados
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 16 de dezembro de 2019</p>
+<p>Última atualização pelo desenvolvedor em: 10 de maio de 2021</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380294" target="_blank">Exibir no AppSource</a>
 
@@ -35,9 +35,9 @@ Informações fornecidas pelo Contato Aprovado para a Microsoft:
 | ID | WA104380294 |
 | Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
 | Nome da empresa de parceiro | Contato Aprovado |
-| URL do site do parceiro | [https://approvedcontact.com/](https://approvedcontact.com/) |
+| URL do site do parceiro | [www.approvedcontact.com](www.approvedcontact.com) |
 | URL da Política de Privacidade | [https://approvedcontact.com/Privacy%20Policy.pdf](https://approvedcontact.com/Privacy%20Policy.pdf) |
-| URL dos Termos de Uso | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| URL dos Termos de Uso | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -105,3 +105,27 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Informações de identidade
+
+Essas informações foram fornecidas pelo Contato Aprovado sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
+| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
+| Seu aplicativo dá suporte a multi-enancy? | Sim |
+| Seu aplicativo tem um cliente confidencial? | Não |
+| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
+| Seu aplicativo expõe alguma APIs da Web? | Não |
+| Seu aplicativo usa APIs de visualização? | Não |
+| Seu aplicativo usa APIs preteridas? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
