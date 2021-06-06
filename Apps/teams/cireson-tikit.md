@@ -2,24 +2,24 @@
 title: Informações do aplicativo para Tikit por Cireson
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/11/2021
+ms.date: 05/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Tikit, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: de10b787d3e4100972e46efe76050ed0c7df31fd
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3c292fa0c8e0ae526c7258f7adc508fcccaeb9d8
+ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553242"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "52789963"
 ---
 # <a name="tikit"></a>Tikit
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 11 de março de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 4 de maio de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/b13c40ee-e073-459e-96b5-3f3cca046a37" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002602" target="_blank">Exibir no AppSource</a>
@@ -38,8 +38,8 @@ Informações fornecidas pelo Cireson à Microsoft:
 | Nome da empresa de parceiro | Cireson |
 | URL do site do parceiro | [https://tikit.ai](https://tikit.ai) |
 | URL da página Teams de informações do aplicativo | [https://tikit.ai](https://tikit.ai) |
-| URL da Política de Privacidade | [https://tikit.ai/privacy-statement](https://tikit.ai/privacy-statement) |
-| URL dos Termos de Uso | [https://tikit.ai/terms-service](https://tikit.ai/terms-service) |
+| URL da Política de Privacidade | [https://tikit.ai/privacy-statement/](https://tikit.ai/privacy-statement/) |
+| URL dos Termos de Uso | [https://tikit.ai/terms-service/](https://tikit.ai/terms-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -136,7 +136,8 @@ Essas informações foram fornecidas pelo Cireson sobre como esse aplicativo lid
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
 | Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
+| Listar os tipos de políticas com suporte | Autenticação multifagável, permitindo que apenas dispositivos inscritos do Intune acessem serviços específicos, restrição de locais de usuários e intervalo de IP |
 | Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
 | As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
