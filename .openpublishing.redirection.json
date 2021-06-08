@@ -376,6 +376,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200002755.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/docusign-inc-esignature",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/e3e1c0f3-e2b3-492f-8944-d551b6dd71b9.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/docusign-inc-esignature",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381718.md",
       "redirect_url": "/microsoft-365-app-certification/teams/droplr",
       "redirect_document_id": false
@@ -936,6 +946,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200002261.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/corel-mindmanager",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/cebe4a59-b076-47f3-a7bf-79148daf82f7.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/corel-mindmanager",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381116.md",
       "redirect_url": "/microsoft-365-app-certification/teams/meisterlabs-gmbh-mindmeister",
       "redirect_document_id": false
@@ -1401,6 +1421,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200002761.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/sailpoint-technologies-inc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/ceca14aa-4fd9-4a8b-b51f-ee05bf98accc.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/sailpoint-technologies-inc",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104379334.md",
       "redirect_url": "/microsoft-365-app-certification/outlook/salesforcecom-salesforce",
       "redirect_document_id": false
@@ -1443,6 +1473,16 @@
     {
       "source_path": "Apps/forward/256ff1bc-fd16-4f82-aeb3-8a6977ff2ec4.md",
       "redirect_url": "/microsoft-365-app-certification/teams/mysecretary-secretarybot",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200001861.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/selfdrvn",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/227f2790-98ab-42dc-8d3f-1d76c83c9d04.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/selfdrvn",
       "redirect_document_id": false
     },
     {
