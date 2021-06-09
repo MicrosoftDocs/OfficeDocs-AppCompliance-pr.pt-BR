@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/04/2021
+ms.date: 06/08/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade para todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 7633d1f172f68ac03427729a62cc7f5f1664ed15
-ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
+ms.openlocfilehash: c4ba6cd0abc0c6a7a026feabdd1a57e688d4a0d1
+ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52789993"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851581"
 ---
 # <a name="microsoft-teams-app-security-and-compliance"></a>Segurança e Conformidade de Aplicativos do Microsoft Teams
 
@@ -28,6 +28,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [ApproveSimple](./capriza-inc-approvesimple.md) | Capriza, Inc | **✓** |  |
 | [Asana](./asana.md) | Asana | **✓** |  |
 | [askR.ai](./askrai.md) | askR.ai | **✓** |  |
+| [Assembly](./carrothr-inc-assembly.md) | CarrotHR Inc. | **✓** |  |
 | [AtBot](./h3-solutions-inc-atbot.md) | H3 Solutions, Inc. | **✓** |  |
 | [atSpoke](./townsend-street-labs-inc-atspoke.md) | Townsend Street Labs, Inc. | **✓** |  |
 | [AttendanceBot](./anaek-attendancebot.md) | Anaek | **✓** |  |
@@ -40,12 +41,15 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Bonusly](./bonusly.md) | Bonusly | **✓** |  |
 | [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  |
 | [Breakthru](./breakthru.md) | Breakthru | **✓** |  |
+| [Votações Brilhante](./chat-apps-llc-bright-poll.md) | Aplicativos de Chat, LLC | **✓** |  |
 | [Brightidea](./brightidea.md) | Brightidea | **✓** |  |
+| [Transmissão](./cerkl-broadcast.md) | Cerkl | **✓** |  |
 | [Bot de Adoção C.AI](./contexxtai-cai-adoption-bot.md) | contexxt.ai | **✓** |  |
 | [BOT de Calendário](./approved-contact-calendar-bot.md) | Contato Aprovado | **✓** |  |
 | [CalendarHero](./calendarhero-inc.md) | CalendarHero Inc | **✓** |  |
 | [CatchEm](./chimu-software-catchem.md) | Chimu Software | **✓** |  |
 | [Centrical](./biz-effective-centrical.md) | Biz-Effective | **✓** |  |
+| [ChurnZero](./churnzero.md) | ChurnZero | **✓** |  |
 | [Cisco Webex Meetings](./cisco-webex-meetings.md) | Cisco Webex Meetings | **✓** |  |
 | [Clever Ads](./clever-ads.md) | Clever Ads | **✓** |  |
 | [Cloverpop](./cloverpop.md) | Cloverpop | **✓** |  |
@@ -107,6 +111,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [MindMup](./sauf-pompiers-ltd-mindmup.md) | Sauf Pompiers Ltd | **✓** |  |
 | [MIPA - seu Assistente Pessoal](./iglobe-mipa-your-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [monday.com](./mondaycom.md) | monday.com | **✓** |  |
+| [Avançar o trabalho com Jira](./move-work-forward-with-jira.md) | Avançar o trabalho | **✓** |  |
 | [MURAL](./mural.md) | MURAL | **✓** |  |
 | [Mybys](./facilis-mybys.md) | Facilis | **✓** |  |
 | [MyHub](./avepoint-inc-myhub.md) | AvePoint, inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -125,6 +130,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Perfony](./perfony.md) | Perfony | **✓** |  |
 | [Piazza](./piazza.md) | Piazza | **✓** |  |
 | [Calendário de Equipe do Planyway](./rubius-planyway-team-calendar.md) | Rubius | **✓** |  |
+| [PlayQuiz - Aprende &amp; Juega](./teamschamp-playquiz-aprende-and-juega.md) | TeamsChamp | **✓** |  |
 | [Polly](./polly.md) | Polly | **✓** |  |
 | [Prezi Video](./prezi-video.md) | Prezi | **✓** |  |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -132,6 +138,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Q](./moduleq-q.md) | ModuleQ | **✓** |  |
 | [qbo](./unscrambl-qbo.md) | Unscrambl | **✓** |  |
 | [qExperiência do Líder de Mudança](./qchange-software-solution-inc-leader-experience.md) | qChange Software Solution, Inc. | **✓** |  |
+| [Qualificado](./qualified.md) | Qualificado | **✓** |  |
 | [Qubie](./qubie.md) | Qubie | **✓** |  |
 | [Quicklinks](./chitchattr-quicklinks.md) | ChitChattr | **✓** |  |
 | [Reach](./livetiles-reach.md) | LiveTiles | **✓** |  |
