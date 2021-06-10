@@ -2289,6 +2289,11 @@
       "source_path": "Apps/teams/index.md",
       "redirect_url": "/microsoft-365-app-certification/overview",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/index.md",
+      "redirect_url": "/microsoft-365-app-certification/overview",
+      "redirect_document_id": false
     }
   ]
 }
