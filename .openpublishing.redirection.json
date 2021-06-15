@@ -562,17 +562,17 @@
     },
     {
       "source_path": "Apps/forward/WA200000357.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/enterprise-digital-machines-pty-ltd-formmachines-for-sharepoint",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/WA104381362.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/invision-app-freehand-by",
+      "redirect_url": "/microsoft-365-app-certification/teams/invisionapp-inc-freehand",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/67cf2c5a-db0e-4256-a423-14010cbeafdd.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/invision-app-freehand-by",
+      "redirect_url": "/microsoft-365-app-certification/teams/invisionapp-inc-freehand",
       "redirect_document_id": false
     },
     {
@@ -628,6 +628,16 @@
     {
       "source_path": "Apps/forward/aeff86e0-d07b-4537-ad02-9980424a93c5.md",
       "redirect_url": "/microsoft-365-app-certification/teams/freevolut-ltd-google-analytics-insights",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200000962.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/logmein-inc-gotoconnect",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/3d5dab1c-61e2-11e9-8647-d663bd873d93.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/logmein-inc-gotoconnect",
       "redirect_document_id": false
     },
     {
@@ -688,6 +698,16 @@
     {
       "source_path": "Apps/forward/3c77edc8-0136-4ca2-8d4b-3558923c0e77.md",
       "redirect_url": "/microsoft-365-app-certification/teams/highside-inc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002894.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/highspot",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/55b7c78e-4768-47e0-97be-e6b953e6a0d0.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/highspot",
       "redirect_document_id": false
     },
     {
@@ -798,16 +818,6 @@
     {
       "source_path": "Apps/forward/WA200000056.md",
       "redirect_url": "/microsoft-365-app-certification/outlook/atlassiancom-jira-cloud-for-outlook-official",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200000962.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/jive-by-logmein-inc-communications",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/3d5dab1c-61e2-11e9-8647-d663bd873d93.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/jive-by-logmein-inc-communications",
       "redirect_document_id": false
     },
     {
@@ -938,6 +948,16 @@
     {
       "source_path": "Apps/forward/WA104380118.md",
       "redirect_url": "/microsoft-365-app-certification/word/lucid-software-inc-lucidchart-diagrams-for-word",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002583.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/lucid-software-lucidspark",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/e9ab21fa-5fd5-48bb-a85d-4de7ced89cd1.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/lucid-software-lucidspark",
       "redirect_document_id": false
     },
     {
@@ -2287,11 +2307,6 @@
     },
     {
       "source_path": "Apps/teams/index.md",
-      "redirect_url": "/microsoft-365-app-certification/overview",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Teams/index.md",
       "redirect_url": "/microsoft-365-app-certification/overview",
       "redirect_document_id": false
     }
