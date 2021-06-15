@@ -67,7 +67,7 @@
           href: teams/biggerbrains-brainbot.md
         - name: Breakthru
           href: teams/breakthru.md
-        - name: Sondagem Brilhante
+        - name: Votações Brilhante
           href: teams/chat-apps-llc-bright-poll.md
         - name: Brightidea
           href: teams/brightidea.md
@@ -129,8 +129,8 @@
           href: teams/enterprizid-inc-ezteam.md
         - name: FormMachines
           href: teams/enterprise-digital-machines-formmachines.md
-        - name: Freehand pela InVision
-          href: teams/invision-app-freehand-by.md
+        - name: Freehand
+          href: teams/invisionapp-inc-freehand.md
         - name: Freshdesk
           href: teams/freshworks-inc-freshdesk.md
         - name: Fusion Remote
@@ -141,6 +141,8 @@
           href: teams/goodera.md
         - name: Insights do Google Analytics
           href: teams/freevolut-ltd-google-analytics-insights.md
+        - name: GoToConnect
+          href: teams/logmein-inc-gotoconnect.md
         - name: Guru
           href: teams/guru-technologies.md
         - name: HeyTaco!
@@ -151,6 +153,8 @@
           href: teams/hibob-inc.md
         - name: HighSide
           href: teams/highside-inc.md
+        - name: Highspot
+          href: teams/highspot.md
         - name: Hoylu
           href: teams/hoylu.md
         - name: HunchBuzz
@@ -165,8 +169,6 @@
           href: teams/jetdocs.md
         - name: Jira Cloud
           href: teams/atlassian-jira-cloud.md
-        - name: Jive Communications
-          href: teams/jive-by-logmein-inc-communications.md
         - name: Karma
           href: teams/sliday-ltd-karma.md
         - name: Klaxoon
@@ -189,6 +191,8 @@
           href: teams/elearningforce-international-lms365.md
         - name: Lucidchart
           href: teams/lucid-software-lucidchart.md
+        - name: Lucidspark
+          href: teams/lucid-software-lucidspark.md
         - name: LuckyDraw
           href: teams/tony-xia-luckydraw.md
         - name: MailClark
@@ -207,7 +211,7 @@
           href: teams/iglobe-mipa-your-personal-assistant.md
         - name: monday.com
           href: teams/mondaycom.md
-        - name: Mover o trabalho para frente com Jira
+        - name: Avançar o trabalho com Jira
           href: teams/move-work-forward-with-jira.md
         - name: MURAL
           href: teams/mural.md
@@ -531,8 +535,8 @@
       items:
         - name: Agile Task Board for SharePoint Online
           href: sharepoint/agile-is-task-board-for-sharepoint-online.md
-        - name: FormMachines para SharePoint
-          href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-for-sharepoint.md
+        - name: Conector FormMachines para SharePoint
+          href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
         - name: Alternar para SharePoint
           href: sharepoint/gagglenet-inc-gaggle-for-sharepoint.md
         - name: Complementos do iGlobe CRM
