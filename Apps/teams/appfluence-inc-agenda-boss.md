@@ -1,43 +1,45 @@
 ---
-title: Informações do aplicativo para CloudExtend Analytics para NetSuite por Celigo CloudExtend
+title: Informações do aplicativo para Agenda Boss pela Appfluence Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/19/2021
+ms.date: 05/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o CloudExtend Analytics for NetSuite, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Agenda Boss, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2393250c620e3e543eae1d25e1cf0bcf0dd2f7cc
+ms.openlocfilehash: e2f48c8a563e83f040907acf393d6794264a02cf
 ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987676"
+ms.locfileid: "52987723"
 ---
-# <a name="cloudextend-analytics-for-netsuite"></a>CloudExtend Analytics para NetSuite
+# <a name="agenda-boss"></a>Agenda chefe
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 19 de maio de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 16 de maio de 2021</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200002784" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/ae645efa-0e64-47d9-91e4-b693a99f7f87" target="_blank">Exibir no Teams store</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002607" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Celigo CloudExtend para a Microsoft:
+Informações fornecidas pela Appfluence Inc à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | CloudExtend Analytics para NetSuite |
-| ID | WA200002784 |
-| Office 365 clientes com suporte | Excel 2016 ou posterior no Mac, Excel 2016 ou posterior no Windows, Excel na Web |
-| Nome da empresa de parceiro | Celigo CloudExtend |
-| URL do site do parceiro | [https://www.cloudextend.io](https://www.cloudextend.io) |
-| URL da Política de Privacidade | [https://www.celigo.com/privacy/](https://www.celigo.com/privacy/) |
-| URL dos Termos de Uso | [https://www.cloudextend.io/agreements/ssa/2019-12/](https://www.cloudextend.io/agreements/ssa/2019-12/) |
+| Nome do aplicativo | Agenda chefe |
+| ID | WA200002607 |
+| Office 365 clientes com suporte | Microsoft Teams |
+| Nome da empresa de parceiro | Appfluence Inc |
+| URL do site do parceiro | [https://agendaboss.com](https://agendaboss.com) |
+| URL da página Teams de informações do aplicativo | [https://agendaboss.com/about](https://agendaboss.com/about) |
+| URL da Política de Privacidade | [https://agendaboss.com/privacy/](https://agendaboss.com/privacy/) |
+| URL dos Termos de Uso | [https://agendaboss.com/eula](https://agendaboss.com/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,39 +49,39 @@ Informações fornecidas pelo Celigo CloudExtend para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas por Celigo CloudExtend sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Appfluence Inc sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | ambos | Leia o conjunto de sites para os quais o usuário tem acesso para obter informações da workbook compartilhada por meio de sites | siteid do store para acessar a workbook offline. | 7040f194-bf08-400e-acb1-69df7939416a |
->| Files.ReadWrite.All | ambos | Leia o conteúdo da pasta de trabalho como tabelas e planilha e seja capaz de gravar conteúdo nessas tabelas | detalhes da workbook, como url da Web, id da workbook e o local da workbook para acessá-la offline | 7040f194-bf08-400e-acb1-69df7939416a |
+>Este aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
->| Chargebee, NetSuite, Salesforce, Intercom, LogRocket, Amazon AWS | Nome da organização, número da conta NetSuite, endereços de email domínio da organização, informações de contato de cobrança | Provisionamento de licença, validação e cobrança Suporte ao cliente, solução de problemas e gerenciamento de contas |
+>Não serviços Microsoft não são usados.
 
+#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
+
+Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
+
+>Nenhum EUII é acessado.
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->endereço de email, 
+>Nenhum OII ou EUII aparece nos logs ou telemetria de aplicativos.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->N/A
+>Gerenciamos um banco de dados Postgres em nosso sistema hospedado, sem intervenção externa.
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -95,9 +97,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/39480' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/39732' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/39480" target="_blank">Exibir em uma nova guia</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/39732" target="_blank">Exibir em uma nova guia</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -107,7 +109,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas por Celigo CloudExtend sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pela Appfluence Inc sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
@@ -117,7 +119,7 @@ Essas informações foram fornecidas por Celigo CloudExtend sobre como esse apli
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
 | As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
-| Seu aplicativo dá suporte a multi-enancy? | Sim |
+| Seu aplicativo dá suporte a multi-enancy? | Não |
 | Seu aplicativo tem um cliente confidencial? | Não |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
 | Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
