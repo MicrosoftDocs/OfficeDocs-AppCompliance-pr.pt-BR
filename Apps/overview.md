@@ -7,19 +7,20 @@ keywords: microsoft 365 aplicativo m365 certificação do Atestado do Editor
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: 199c8f82a894566a918c30e529cefdfb8c259a48
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: fd06ecd028876a862fa3938253817fae3ff0fea0
+ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52070902"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53053435"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Programa de Conformidade de Aplicativos do Microsoft 365
 
 O Programa de Conformidade de Aplicativos do Microsoft 365 é um método de três camadas para segurança e conformidade dos aplicativos. Cada camada se baseia na próxima, oferecendo um programa em camadas para dar aos usuários a confiança de que precisam para usar aplicativos no ecossistema do Microsoft 365. Atualmente, todas as camadas do programa são voluntárias e são concluídas a critério dos desenvolvedores do aplicativo. 
 
-Nossa missão: os clientes da Microsoft têm total confiança nos aplicativos que administram suas organizações.
-  ![Modelo em 3 camadas para a Conformidade de Aplicativos](media/Microsoft-App-Compliance-Overview.png) 
+Nossa declaração de missão: os clientes da Microsoft têm total confiança nos aplicativos que administram suas organizações.
+
+  ![Abordagem de 3 camadas para Conformidade de Aplicativos](media/Microsoft-App-Compliance-Overview.png) 
 
 ## <a name="publisher-verification"></a>Verificação do Editor
 
@@ -44,18 +45,12 @@ O Atestado do Editor se aplica a aplicativos que se integram a estas plataformas
 - Microsoft Office SharePoint Online
 - Project
 - OneNote
+- Aplicativos Web
 
 > [!IMPORTANT]
-> A Microsoft não valida as informações fornecidas. O desenvolvedor apenas afirma a veracidade, precisão e integridade da documentação do atestado e dos dados de desempenho do aplicativo correspondentes. 
+> A Microsoft não valida as informações fornecidas. O desenvolvedor afirma exclusivamente a veracidade, a precisão e a integridade da documentação de atestado e dos dados de desempenho do aplicativo correspondentes. 
 
 ## <a name="microsoft-365-certification"></a>Certificação Microsoft 365
-A [Certificação Microsoft 365](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide) oferece garantia e confiança às organizações de que os dados e a privacidade estão adequadamente protegidos ao usar aplicativos do Microsoft Teams. A certificação confirma que uma solução de aplicativo é compatível com as tecnologias da Microsoft, compatível com as práticas recomendadas de segurança de aplicativos na nuvem e com suporte da Microsoft. Durante esse processo, os desenvolvedores de aplicativos trabalham com um avaliador terceirizado para validar a segurança organizacional e os padrões de conformidade. A Certificação Microsoft 365 se aplica a aplicativos que se integram a estas plataformas da Microsoft:
+A [Certificação Microsoft 365](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide) oferece garantia e confiança às organizações de que os dados e a privacidade estão adequadamente protegidos ao usar aplicativos do Microsoft Teams. A certificação confirma que uma solução de aplicativo é compatível com as tecnologias da Microsoft, compatível com as práticas recomendadas de segurança de aplicativos na nuvem e com suporte da Microsoft. Durante esse processo, os desenvolvedores de aplicativos trabalham com um avaliador terceirizado para validar a segurança organizacional e os padrões de conformidade. A certificação do Microsoft 365 se aplica aos mesmos aplicativos que se qualificam para o Atestado do Publicador. 
 
--   Teams
--   Word
--   Excel
--   PowerPoint 
--   Outlook
-- Microsoft Office SharePoint Online
-- Project
-- OneNote
+
