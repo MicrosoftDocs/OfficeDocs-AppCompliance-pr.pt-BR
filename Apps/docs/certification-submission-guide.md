@@ -6,12 +6,12 @@ description: Microsoft 365 Exibição granular do Guia de Envio de Certificaçã
 keywords: equipes de certificação de aplicativos Microsoft 365 conformidade de segurança m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 5e99defd75573b1335975ddc19e851c50da7721f
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: 1ee9ba43ffe793f38438a26365cbb8cbc05aa2f3
+ms.sourcegitcommit: d8a1524fc419a1ca33971b656197f0b6a5efe2b9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053445"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53125961"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 Guia de Envio de Certificação
 
@@ -35,7 +35,7 @@ ms.locfileid: "53053445"
 - [Apêndice E](#appendix-e) 
 - [Apêndice F](#appendix-f) 
 - [Apêndice G ](#appendix-g)
-- [Saiba mais](#learn-more) 
+- [Saiba Mais](#learn-more) 
 - [Glossário](#glossary) 
 
 
@@ -104,9 +104,9 @@ As solicitações de evidências em suporte à avaliação de certificação dev
 
 |Tamanho da população              | Amostra                  |
 |---------------------------- |-------------------------|
-|<5|1|
-|>5 & <10|2|
-|>9 & <25|3|
+|<5|1 |
+|>5 & <10|2 |
+|>9 & <25|3 |
 |>24|4 |
 
 > [!NOTE]
@@ -233,6 +233,7 @@ Onde as técnicas são usadas para segmentar os ambientes no escopo de outros am
 Os relatórios de teste de penetração serão revisados **** para garantir que não haja vulnerabilidades que atendem aos seguintes critérios de falha automática descritos nos controles abaixo.
  
 **Requisitos de teste de penetração**
+
 ||**Controles de Teste de Penetração**|
 | -------------------------|-----------------------------|
 |**Critérios Gerais**| **Controls**|
