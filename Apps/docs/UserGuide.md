@@ -6,74 +6,74 @@ description: Guia do usuário isv para Microsoft 365 de conformidade de aplicati
 keywords: Guia do usuário isv para Microsoft 365 de conformidade de aplicativos
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: b8560fe46bbad2710001467e9edfeab72d6e0cb7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 437fcbc56309ca14566dbb95f470097af82c26bf
+ms.sourcegitcommit: bfabb191087786fae2b476e3f30861317886defa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549921"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53179020"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>Guia do usuário do parceiro para Microsoft 365 De conformidade de aplicativos
 
-|||
+|Fase|Título|
 |---|---|
-|Camada 1| Atestado do Editor|
-|Camada 2| Certificação Microsoft 365|
+|Fase 1| Atestado do Editor|
+|Fase 2| Certificação Microsoft 365|
 
 ## <a name="1-overview"></a>1. Visão geral
-Este documento atua como um guia de usuário passo a passo para nossos Parceiros, inscrito no Programa de Conformidade de Aplicativos do Microsoft 365 visando Publisher atestado e certificação por meio do portal do Partner Center.
+Este documento atua como um guia de usuário passo a passo para nossos parceiros inscritos no Programa de Conformidade de Aplicativos do Microsoft 365 com o objetivo de passar por Publisher Atestado e Certificação no portal do Partner Center.
 
 ## <a name="2-acronyms--definitions"></a>2. Acrônimos & Definições
-| | |
+| Acronym |Definição |
 |---|----|
-|Acronym | Definição |
-|PC (Partner Center)|Um portal para todos os parceiros microsoft. Um parceiro faz login no Partner Center e envia Self-Assessment Questionário https://partner.microsoft.com/|
-|ISV|Fornecedor de Software Independente A.k.a. Parceiro ou desenvolvedor|
-|Fonte do aplicativo| Catálogo de aplicativos (https://appsource.microsoft.com/)
-||Exemplo: agora agente virtual (https://appsource.microsoft.com/en-us/product/office/WA104381816)|
+|PC [(Partner Center)](https://partner.microsoft.com/)|Um portal para todos os parceiros microsoft. Um parceiro faz login no Partner Center e envia Self-Assessment Questionário. [Partner Center](https://partner.microsoft.com/dashboard/home) for Microsoft 365 App Compliance|
+|ISV|Fornecedor de Software Independente. A.k.a. Parceiro ou desenvolvedor|
+|Fonte do aplicativo| [Catálogo de aplicativos](https://appsource.microsoft.com/)
+||Exemplo: [agora agente virtual](https://appsource.microsoft.com/product/office/WA104381816)|
 
 ## <a name="3---publisher-attestation-workflow"></a>3. Publisher Fluxo de Trabalho de Atestado
 
 Home Page: essa é a página inicial quando um parceiro faz logo depois de entrar no Partner Center.
 
-![Tela Inicial do Partner Center](../media/Picture1.png)
+![Tela Inicial do Partner Center](../media/UserGuidePhotos/01.png)
 
 **Etapa 1:**   No lado esquerdo da página, na barra de navegação:
 1. Selecione Office store
 1. Selecionar Visão Geral
 
-![Office A Loja pode ser encontrada na navegação à esquerda](../media/Picture2.png)
+![Office A Loja pode ser encontrada na navegação à esquerda](../media/UserGuidePhotos/02.png)
 
 Ao selecionar 'Visão geral', o parceiro pode ver a lista de aplicativos enviados por meio do Partner Center e disponíveis para o programa Microsoft 365 Conformidade.
 
 **Etapa 2:** Selecione um aplicativo na lista para iniciar o processo Publisher Atestado.
 
-![Escolha qual aplicativo você deseja atestar](../media/Picture3.png)
+![Escolha qual aplicativo você deseja atestar](../media/UserGuidePhotos/03.png)
 
-Ao selecionar um aplicativo, outra barra de navegação será pop-up com a opção 'Conformidade do aplicativo'
+Ao selecionar um aplicativo, outra barra de navegação será pop-up com a opção 'Conformidade do aplicativo'.
 
 **Etapa 3:** Selecione 'Conformidade do aplicativo'
 
-![Selecionar Conformidade do Aplicativo](../media/App%20compliance%20step%203.png)
+![Selecionar Conformidade do Aplicativo](../media/UserGuidePhotos/04.png)
 
 **Etapa 4:** preencher o questionário Self-Assessment para Publisher Atestado
 
-![Importação/Exportação](../media/step4-new%20add.PNG)
+![Atestado do Editor](../media/UserGuidePhotos/5.5.PNG)
 
-![import/Export](../media/NewFeature%20impExp.PNG)
+**Observação:** Se você estiver voltando para atualizar/re-enviar seu aplicativo, clique em menu suspenso para "Escolher o produto", selecione o aplicativo e clique em "Clone".
 
-**Observação**:Se você estiver voltando para atualizar/re-enviar seu aplicativo, clique em menu suspenso para "Escolher o produto", selecione o aplicativo e clique em "clone".
+![Clone](../media/UserGuidePhotos/05.PNG)
 
-![CLone ](../media/clone.PNG)
- ![ Clone2](../media/clone2.PNG)
+Você também pode aproveitar o recurso Importação/Exportação para concluir o formulário offline e importá-lo depois de concluído.
+
+![Importar Recurso de Exportação](../media/UserGuidePhotos/06.PNG)
 
 Você também pode aproveitar o recurso Importação/Exportação para concluir o formulário offline e importá-lo depois de concluído. 
 
 **Etapa 5:** depois de concluída, clique em "Enviar", a avaliação agora estará "sob revisão".
 
-![Clique em Sumbit](../media/Picture8.png)
+![Clique em Sumbit](../media/UserGuidePhotos/07.png)
 
-![A revisão agora está em andamento](../media/Picture9.png)
+![A revisão agora está em andamento](../media/UserGuidePhotos/08.png)
 
 ### <a name="approvereject-scenarios"></a>Aprovar/rejeitar cenários:
 
@@ -81,11 +81,8 @@ Você também pode aproveitar o recurso Importação/Exportação para concluir 
 
 Em caso de rejeição neste estágio, um parceiro pode:
 -   Exibir relatório de falha.
-    - O parceiro será notificado no Partner Center e por email.
--   Atualize Self-Assessment respostas.
--   Re-enviar Autoavaliação.
-
-![Atualizar e reabrir a avaliação](../media/Picture10.png)
+    - O parceiro será notificado por email e poderá exibir o relatório de falha no Partner Center
+-   Atualizar e enviar novamente Publisher Attestation ![ Update e reaubmit avaliação](../media/UserGuidePhotos/09.png)
 
 **B.Publisher Atestado Re-envio**
 
