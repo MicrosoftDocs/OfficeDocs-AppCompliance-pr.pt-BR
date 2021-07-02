@@ -42,16 +42,19 @@
       "ocv-translation-feedback": true,
       "breadcrumb_path": "/microsoft-365-app-certification/breadcrumb/toc.json",
       "extendBreadcrumb": true,
+      "recommendations": true,
       "contributors_to_exclude": [
         "dstrome",
         "dstrome2"
       ],
       "hideEdit": true,
-      "searchScope": ["Microsoft Teams"],
+      "searchScope": [
+        "Microsoft Teams"
+      ],
       "titleSuffix": "Microsoft 365 App Certification",
       "feedback_system": "None",
       "hide_comments": true,
-      "bilingual_type": "hover over"
+      "recommendations": true
     },
     "fileMetadata": {},
     "template": [],
