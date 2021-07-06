@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Workday, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 181356178c5af1fc2f728ad84b2bbd33a7fc92a1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f85cc0ccc778f7ed3440e85795574faad3868d24
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550811"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53279003"
 ---
 # <a name="workday"></a>Workday
 
@@ -36,10 +36,10 @@ Informações fornecidas pelo Workday à Microsoft:
 | ID | WA200001555 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Workday |
-| URL do site do parceiro | [https://nw.myworkday.com/microsoftteams](https://nw.myworkday.com/microsoftteams) |
+| URL do site do parceiro | [https://www.workday.com/en-us/homepage.html](https://www.workday.com/en-us/homepage.html) |
 | URL da página Teams de informações do aplicativo | [https://nw.myworkday.com/microsoftteams/](https://nw.myworkday.com/microsoftteams/) |
 | URL da Política de Privacidade | [https://www.workday.com/en-us/privacy.html](https://www.workday.com/en-us/privacy.html) |
-| URL dos Termos de Uso | [https://nw.myworkday.com/microsoftteams/post-license](https://nw.myworkday.com/microsoftteams/post-license) |
+| URL dos Termos de Uso | [https://nw.myworkday.com/microsoftteams/post-license/](https://nw.myworkday.com/microsoftteams/post-license/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

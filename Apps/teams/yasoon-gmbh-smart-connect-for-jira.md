@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Smart Conexão para Jira, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6fb1be576d588727c75f14d72db48bc3a7a8aeb5
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b8266a72ed6690bd4c9994b64bceccbe73d87013
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550731"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53278963"
 ---
 # <a name="smart-connect-for-jira"></a>Smart Connect para Jira
 
@@ -36,10 +36,10 @@ Informações fornecidas pelo yasoon GmbH para a Microsoft:
 | ID | WA200002055 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | yasoon GmbH |
-| URL do site do parceiro | [https://yasoon.com](https://yasoon.com) |
+| URL do site do parceiro | [https://www.yasoon.com](https://www.yasoon.com) |
 | URL da página Teams de informações do aplicativo | [https://yasoon.com/microsoft-teams-for-jira/](https://yasoon.com/microsoft-teams-for-jira/) |
-| URL da Política de Privacidade | [https://yasoon.com/privacy-policy-services](https://yasoon.com/privacy-policy-services) |
-| URL dos Termos de Uso | [https://yasoon.com/terms-of-use](https://yasoon.com/terms-of-use) |
+| URL da Política de Privacidade | [https://yasoon.com/privacy-policy-services/](https://yasoon.com/privacy-policy-services/) |
+| URL dos Termos de Uso | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474846970/Product_42949680957/Asset_3f25ec80-eacb-454f-8cc2-eeee583b65c6/170825EULAOfficeaddinEN.doc) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -59,13 +59,13 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Channel.ReadBasic.All | delegado | A permissão é usada para permitir que o usuário selecione um desses canais ingressado no Jira. | ID do canal, para fins de cache | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
 >| ChannelMessage.Read.Group | aplicação | Permite que o aplicativo mostre mensagens de canal vinculadas em Jira. | IDs de mensagem para vincular mensagens a problemas Jira | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| ChannelMessage.Send | delegado | Nenhum dado é usado, essa API é usada para permitir que o usuário responda às mensagens de canal de Jira. | Nenhum | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| ChannelSettings.Read.Group | aplicação | Usado para procurar informações detalhadas sobre um canal. | Nenhum | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| Chat.ReadWrite | delegado | Usado para permitir que o usuário adicione novas respostas a chats e exibir mensagens de chat de Jira. | Nenhum | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| Member.Read.Group | aplicação | Usado para verificações de permissão, permite que o aplicativo valide a associação de equipe dos usuários. | Nenhum | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| ChannelMessage.Send | delegado | Nenhum dado é usado, essa API é usada para permitir que o usuário responda às mensagens de canal de Jira. | Nenhuma | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| ChannelSettings.Read.Group | aplicação | Usado para procurar informações detalhadas sobre um canal. | Nenhuma | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| Chat.ReadWrite | delegado | Usado para permitir que o usuário adicione novas respostas a chats e exibir mensagens de chat de Jira. | Nenhuma | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| Member.Read.Group | aplicação | Usado para verificações de permissão, permite que o aplicativo valide a associação de equipe dos usuários. | Nenhuma | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
 >| Team.ReadBasic.All | delegado | A permissão é usada para permitir que o usuário selecione uma dessas equipes ingressáveis no Jira. | IDs de equipe para fins de cache | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| TeamSettings.Read.Group | aplicação | Permite que o aplicativo leia as configurações de equipe para respeitar determinados padrões. | Nenhum | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| User.ReadBasic.All | delegado | Permite que o usuário selecione colegas de trabalho para @-mention em uma mensagem de canal | Nenhum | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| TeamSettings.Read.Group | aplicação | Permite que o aplicativo leia as configurações de equipe para respeitar determinados padrões. | Nenhuma | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| User.ReadBasic.All | delegado | Permite que o usuário selecione colegas de trabalho para @-mention em uma mensagem de canal | Nenhuma | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

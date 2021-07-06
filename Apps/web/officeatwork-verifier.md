@@ -1,26 +1,27 @@
 ---
-title: Informações do aplicativo para o officeatwork | Assistente para Office por officeatwork
+title: Informações do aplicativo para Verificador por officeatwork
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2020
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
-description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | Assistente para Office, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+certification_type: attested
+description: Todas as informações de segurança e conformidade disponíveis para a Verifier, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5cc8fa3937324d734558365d237ca612941b3be1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: ab2bc82f8dfff62649d4eac833be2136c57f6821
+ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279103"
+ms.locfileid: "53275192"
 ---
-# <a name="officeatwork--wizard-for-office"></a>officeatwork | Assistente para Office
+# <a name="verifier"></a>Verificador
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Última atualização pelo desenvolvedor em: 8 de dezembro de 2020</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>Última atualização pelo desenvolvedor em: 23 de junho de 2021</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380519" target="_blank">Exibir no AppSource</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/officeatwork-ag.verifier" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
@@ -30,9 +31,8 @@ Informações fornecidas pelo officeatwork à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | officeatwork - Assistente para Office |
-| ID | WA104380519 |
-| Office 365 clientes com suporte | Word 2016 ou posterior no Mac, Word 2016 ou posterior no Windows, Word no iPad, Word na Web |
+| Nome do aplicativo | Verificador |
+| ID | officeatwork-ag.verifier |
 | Nome da empresa de parceiro | officeatwork |
 | URL do site do parceiro | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | URL da Política de Privacidade | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
@@ -54,17 +54,13 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Contacts.Read | delegado | Nenhum dado é armazenado. | Contatos: para habilitar a leitura de todos os contatos do usuário que entrou. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Files.Read | delegado | Nenhum dado é armazenado. | OneDrive - Arquivos (Conteúdo): para habilitar a leitura dos arquivos do usuário de acesso. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Files.Read.All | delegado | Nenhum dado é armazenado. | Teams - Arquivos (Conteúdo): para habilitar a leitura de todos os arquivos do usuário de acesso. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Group.Read.All | delegado | Nenhum dado é armazenado. | Office 365 Usuários - Limite ao grupo: para habilitar a leitura de todos os grupos do usuário in-locar. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Sites.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online: para habilitar a leitura de dados SharePoint Online. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.Read | delegado | Nenhum dado é armazenado. | Sing-In: para habilitar o aplicativo officeatwork para ler as propriedades básicas do usuário. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.Read.All | delegado | Nenhum dado é armazenado. | Office 365 Usuários - Todas as propriedades: para habilitar a leitura de todas as propriedades de todos os usuários. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.ReadBasic.All | delegado | Nenhum dado é armazenado. | Office 365 Usuários - Propriedades básicas: para habilitar a leitura das propriedades básicas de todos os usuários | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| offline_access | delegado | Nenhum dado é armazenado. | Sing-In: para habilitar a logona automática por meio de tokens de atualização, como sem, os usuários teriam que entrar manualmente sempre que iniciarem o aplicativo officeatwork. Esse escopo só é necessário para aplicativos host não habilitados para SSO. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| openid | delegado | Nenhum dado é armazenado. | Sing-In: para permitir que os usuários entre no aplicativo officeatwork com sua conta organizacional e/ou da Microsoft | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| perfil | delegado | Nenhum dado é armazenado. | Sing-In: para mostrar o usuário de assinatura no aplicativo officeatwork. Isso ajuda a garantir/confirmar ao usuário qual conta foi usada para entrar no aplicativo officeatwork. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
+>| Files.Read | delegado | Nenhum dado é armazenado. | OneDrive: para poder ler os arquivos do usuário in-lo como | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
+>| Files.Read.All | delegado | Nenhum dado é armazenado. | Teams: para ler todos os arquivos aos que o usuário inscreveu tem acesso. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
+>| Sites.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online: para habilitar a leitura de dados SharePoint Online, o usuário in-loca tem acesso. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
+>| User.Read | delegado | Nenhum dado é armazenado. | Entrar: para habilitar o aplicativo officeatwork para ler as propriedades básicas do usuário. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
+>| offline_access | delegado | Nenhum dado é armazenado. | Entrar: para habilitar a logona automática por meio de tokens de atualização, como sem, os usuários teriam que entrar manualmente sempre que iniciarem o aplicativo officeatwork. Esse escopo só é necessário para aplicativos host não habilitados para SSO. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
+>| openid | delegado | Nenhum dado é armazenado. | Sing-In: para permitir que os usuários entre no aplicativo do officeatwork com sua conta organizacional e/ou da Microsoft. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
+>| perfil | delegado | Nenhum dado é armazenado. | Sing-In: para mostrar o usuário de assinatura no aplicativo officeatwork. Isso ajuda a garantir/confirmar ao usuário qual conta foi usada para entrar no aplicativo officeatwork. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
@@ -108,9 +104,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35749' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35755' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35749" target="_blank">Exibir em uma nova guia</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35755" target="_blank">Exibir em uma nova guia</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

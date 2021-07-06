@@ -1,45 +1,45 @@
 ---
-title: Informações do aplicativo para Viima by Viima Solutions Oy
+title: Informações do aplicativo para Skilled Human by SaltFlat Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/17/2020
+ms.date: 05/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Viima, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Skilled Human, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: badd7c64ad512ad2051da270b07fdc8e87fbf628
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 73e0fe6ac097da2212173a467f38cdea21657dff
+ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279033"
+ms.locfileid: "53275195"
 ---
-# <a name="viima"></a>Viima
+# <a name="skilledhuman"></a>Skilled Human
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 17 de novembro de 2020</p>
+<p>Última atualização pelo desenvolvedor em: 25 de maio de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/2bffa4e8-aac7-4d2e-976d-5a7db5c4b768" target="_blank">Exibir no Teams store</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001589" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/7c44d518-b820-461c-bbbd-2cbbd83aa3bc" target="_blank">Exibir no Teams store</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002603" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Viima Solutions Oy para a Microsoft:
+Informações fornecidas pela SaltFlat Limited à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Viima |
-| ID | WA200001589 |
+| Nome do aplicativo | Skilled Human |
+| ID | WA200002603 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Viima Solutions Oy |
-| URL do site do parceiro | [https://www.viima.com](https://www.viima.com) |
-| URL da página Teams de informações do aplicativo | [https://www.viima.com/product](https://www.viima.com/product) |
-| URL da Política de Privacidade | [https://www.viima.com/privacy](https://www.viima.com/privacy) |
-| URL dos Termos de Uso | [https://www.viima.com/terms](https://www.viima.com/terms) |
+| Nome da empresa de parceiro | SaltFlat Limited |
+| URL do site do parceiro | [https://skilledhuman.org](https://skilledhuman.org) |
+| URL da página Teams de informações do aplicativo | [https://skilledhuman.org/teamsapp](https://skilledhuman.org/teamsapp) |
+| URL da Política de Privacidade | [https://skilledhuman.org/privacy-policy.aspx](https://skilledhuman.org/privacy-policy.aspx) |
+| URL dos Termos de Uso | [https://skilledhuman.org/terms](https://skilledhuman.org/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,15 +49,13 @@ Informações fornecidas pelo Viima Solutions Oy para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo Viima Solutions Oy sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela SaltFlat Limited sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado |  Primeiros e últimos nomes, endereço UPN/email, local, localidade, departamento, local do escritório. Eles são usados para fazer logoff do usuário e fornecer informações básicas de perfil para eles no aplicativo. | permite que o usuário entre e dê acesso ao aplicativo para suas informações de perfil UPN e básicas para habilitar o logon silencioso | b8ea7030-ce4d-4ecd-98d7-dc16d8298d1b |
+>Este aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -77,13 +75,13 @@ Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá ac
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Nome da organização, ID da organização do Viima, emails do usuário final e IDs aparecem em logs. Controles auditados de terceiros compatíveis com ISO27001 para acesso restrito e arquivamento/exclusão desses dados.
+>Nenhum OII ou EUII aparece nos logs ou telemetria de aplicativos.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Os dados são armazenados no AWS (Irlanda). O acesso aos dados é limitado apenas à equipe de manutenção e suporte técnico autorizados que receberam treinamento apropriado e são protegidos com várias medidas de segurança, como 2FA, intervalo DE IP protegido (acesso somente da rede corporativa) etc. As medidas são compatíveis com ISO27001 e auditadas por terceiros.
+>Não compartilhamos dados com parceiros
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -99,9 +97,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/33480' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/40123' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/33480" target="_blank">Exibir em uma nova guia</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/40123" target="_blank">Exibir em uma nova guia</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,7 +109,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pelo Viima Solutions Oy sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pela SaltFlat Limited sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
@@ -122,11 +120,10 @@ Essas informações foram fornecidas pelo Viima Solutions Oy sobre como esse apl
 | Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
 | As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
-| Seu aplicativo tem um cliente confidencial? | Sim |
+| Seu aplicativo tem um cliente confidencial? | Não |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
 | Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
-| Seu aplicativo expõe alguma APIs da Web? | Sim |
-| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Seu aplicativo expõe alguma APIs da Web? | Não |
 | Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 
