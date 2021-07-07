@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o SmartWork, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4e757f0d927d10ecbccb406d8d4071b52b234deb
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f6ed1a9278713153be2ef14d61ad56453ee03fa3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552782"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283195"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -36,7 +36,7 @@ Informações fornecidas pelo SmartWork do Intumit para a Microsoft:
 | ID | WA200001149 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | SmartWork of Intumit |
-| URL do site do parceiro | [https://www.intumit.com](https://www.intumit.com) |
+| URL do site do parceiro | [https://www.intumit.com/english/](https://www.intumit.com/english/) |
 | URL da Política de Privacidade | [https://www.intumit.com/privacy.html](https://www.intumit.com/privacy.html) |
 | URL dos Termos de Uso | [https://www.intumit.com/english/TermsOfUse.html](https://www.intumit.com/english/TermsOfUse.html) |
 

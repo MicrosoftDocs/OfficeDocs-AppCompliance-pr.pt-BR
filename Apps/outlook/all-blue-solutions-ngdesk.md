@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o ngDesk, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c527842a226a4029f8c1d0ad842ef762c47ed85f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 307c22805fdb3f0b92d65fa5cc0b754d28e34519
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553762"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282925"
 ---
 # <a name="ngdesk"></a>ngDesk
 
@@ -33,11 +33,11 @@ Informações fornecidas por Todas as Soluções Azuis para a Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | ngDesk |
 | ID | WA200002505 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
+| Office 365 clientes com suporte | Outlook 2013 ou posterior em Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
 | Nome da empresa de parceiro | Todas as soluções azuis |
-| URL do site do parceiro | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
-| URL da Política de Privacidade | [https://ngdesk.com/privacy-policy-office-365](https://ngdesk.com/privacy-policy-office-365) |
-| URL dos Termos de Uso | [https://ngdesk.com/subscription-agreement](https://ngdesk.com/subscription-agreement) |
+| URL do site do parceiro | [https://ngdesk.com](https://ngdesk.com) |
+| URL da Política de Privacidade | [https://ngdesk.com/privacy-policy-office-365/](https://ngdesk.com/privacy-policy-office-365/) |
+| URL dos Termos de Uso | [https://ngdesk.com/terms-of-service/](https://ngdesk.com/terms-of-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

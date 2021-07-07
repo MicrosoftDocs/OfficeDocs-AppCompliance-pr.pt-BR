@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Navo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ef2c71df0559a5a3db4612df5acf86835efe1a71
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 11346ff15831615ac6b617d8d14f83f38c7de0a5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553932"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283105"
 ---
 # <a name="navo"></a>Navo
 
@@ -36,7 +36,7 @@ Informações fornecidas pelo Regroove Solutions para a Microsoft:
 | ID | WA200001047 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Regroove Solutions |
-| URL do site do parceiro | [https://getnavo.com](https://getnavo.com) |
+| URL do site do parceiro | [https://regroove.ca ; https://getnavo.com](https://regroove.ca ; https://getnavo.com) |
 | URL da Política de Privacidade | [https://getnavo.com/privacy-policy/](https://getnavo.com/privacy-policy/) |
 | URL dos Termos de Uso | [https://getnavo.com/terms-of-service/](https://getnavo.com/terms-of-service/) |
 
@@ -79,13 +79,13 @@ Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá ac
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Sim, no Application Insights, armazenamos a ID autenticada do usuário e a ID da conta de usuário (ID de autenticação).
+>Sim, no Application Insights armazenamos a ID autenticada do usuário e a ID da Conta de Usuário (ID deenancy).
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Todos os dados que armazenamos (não por meio de um serviço como Stripe ou Application Insights) são armazenados em um banco de dados do Azure Cosmos. Todos os administradores usam 2FA e o acesso é restrito a um subconjunto de nossos funcionários.
+>Todos os dados que armazenamos (não por meio de um serviço como Stripe ou Aplicativo Insights) são armazenados em um banco de dados do Azure Cosmos. Todos os administradores usam 2FA e o acesso é restrito a um subconjunto de nossos funcionários.
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 

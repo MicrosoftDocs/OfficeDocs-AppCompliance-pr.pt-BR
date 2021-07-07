@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Veleiro, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: befd216c19352c4b812703fe7d59d2c3fd3fd7d7
-ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
+ms.openlocfilehash: bcde5fdd363b217adabcdfd91074dedfcbe73b88
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52790016"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283075"
 ---
-# <a name="sailpoint"></a>Ponto de velas
+# <a name="sailpoint"></a>Sailpoint
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,11 +32,11 @@ Informações fornecidas pela Tecnologias do VelasPoint, Inc. para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Ponto de velas |
+| Nome do aplicativo | Sailpoint |
 | ID | WA200002761 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Tecnologias do VelasPoint, Inc. |
-| URL do site do parceiro | [sailpoint.com](sailpoint.com) |
+| Nome da empresa de parceiro | SailPoint Technologies, Inc. |
+| URL do site do parceiro | [https://sailpoint.com](https://sailpoint.com) |
 | URL da Política de Privacidade | [https://www.sailpoint.com/legal/privacy/](https://www.sailpoint.com/legal/privacy/) |
 | URL dos Termos de Uso | [https://www.sailpoint.com/legal/customer-agreements/](https://www.sailpoint.com/legal/customer-agreements/) |
 
@@ -82,7 +82,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->N/A
+>N/D
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 

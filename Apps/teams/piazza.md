@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Empresa, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b168fe7a5bc0b6f2f85c182c22667d6cfb2320ae
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a5c3e9c4d557ff73815181725e74e42433b0fb01
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552852"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283145"
 ---
 # <a name="piazza"></a>Piazza
 
@@ -36,7 +36,7 @@ Informações fornecidas pela Empresa para a Microsoft:
 | ID | WA200001568 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Piazza |
-| URL do site do parceiro | [https://piazza.com](https://piazza.com) |
+| URL do site do parceiro | [https://www.piazza.com](https://www.piazza.com) |
 | URL da Política de Privacidade | [https://piazza.com/legal/privacy](https://piazza.com/legal/privacy) |
 | URL dos Termos de Uso | [https://piazza.com/legal/terms](https://piazza.com/legal/terms) |
 

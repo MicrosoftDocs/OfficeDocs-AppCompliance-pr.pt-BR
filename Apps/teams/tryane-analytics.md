@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Tryane Analytics, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 265fa798414c907f25690252e1714bebfdbdde1b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d5b5119f0c9897b6d59163ad03580744a7f822f0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551101"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283567"
 ---
 # <a name="tryane-analytics"></a>Tryane Analytics
 
@@ -36,9 +36,9 @@ Informações fornecidas por Tryane à Microsoft:
 | ID | WA200001827 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Tryane |
-| URL do site do parceiro | [https://tryane.com/en/produit/tat/](https://tryane.com/en/produit/tat/) |
-| URL da Política de Privacidade | [https://tryane.com/tryane-analytics/privacy_policy.html](https://tryane.com/tryane-analytics/privacy_policy.html) |
-| URL dos Termos de Uso | [https://tryane.com/tryane-analytics/terms_of_use.html](https://tryane.com/tryane-analytics/terms_of_use.html) |
+| URL do site do parceiro | [https://www.tryane.com](https://www.tryane.com) |
+| URL da Política de Privacidade | [https://analytics.tryane.com/docs/en/privacy_policy.html](https://analytics.tryane.com/docs/en/privacy_policy.html) |
+| URL dos Termos de Uso | [https://analytics.tryane.com/docs/en/terms_of_use.html](https://analytics.tryane.com/docs/en/terms_of_use.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

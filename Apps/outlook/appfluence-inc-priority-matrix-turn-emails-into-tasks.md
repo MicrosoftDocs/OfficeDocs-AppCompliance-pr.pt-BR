@@ -2,23 +2,23 @@
 title: Informações do aplicativo para a Matriz de Prioridade - Transformar emails em tarefas pela Appfluence Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/16/2021
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para a Matriz de Prioridade - Transforme emails em tarefas, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9843ece5a330f4a8b8adb6f1388a4a26e12dbe21
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 45ce05ada25cde937488b7372262dbb63c90f66c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553752"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282915"
 ---
 # <a name="priority-matrix---turn-emails-into-tasks"></a>Matriz de Prioridade - Transformar emails em tarefas
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Última atualização pelo desenvolvedor em: 16 de abril de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 23 de junho de 2021</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381735" target="_blank">Exibir no AppSource</a>
 
@@ -34,8 +34,8 @@ Informações fornecidas pela Appfluence Inc à Microsoft:
 | ID | WA104381735 |
 | Office 365 clientes com suporte | Outlook 2016 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook no iOS, Outlook no Android, Outlook na Web |
 | Nome da empresa de parceiro | Appfluence Inc |
-| URL do site do parceiro | [https://appfluence.com/](https://appfluence.com/) |
-| URL da Política de Privacidade | [https://appfluence.com/privacy](https://appfluence.com/privacy) |
+| URL do site do parceiro | [https://appfluence.com/office-365-project-management-integr...](https://appfluence.com/office-365-project-management-integration/) |
+| URL da Política de Privacidade | [https://appfluence.com/privacy/](https://appfluence.com/privacy/) |
 | URL dos Termos de Uso | [https://appfluence.com/eula](https://appfluence.com/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -117,7 +117,7 @@ Essas informações foram fornecidas pela Appfluence Inc sobre como esse aplicat
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
-| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
 | As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |

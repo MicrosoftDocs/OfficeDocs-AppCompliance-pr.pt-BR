@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | O Escolhidor de Conteúdo para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 692402e0fc74c65df64e7ff47df838bb834564cb
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f7aa512ec63224aebff1ef61b2b6ffc3b6793916
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552502"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282875"
 ---
 # <a name="officeatwork--content-chooser-for-outlook"></a>officeatwork | O Selador de Conteúdo para Outlook
 
@@ -32,9 +32,9 @@ Informações fornecidas pelo officeatwork à Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | officeatwork - Content Chooser for Outlook |
 | ID | WA104380690 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
+| Office 365 clientes com suporte | Outlook 2013 ou posterior em Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
 | Nome da empresa de parceiro | officeatwork |
-| URL do site do parceiro | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| URL do site do parceiro | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | URL da Política de Privacidade | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | URL dos Termos de Uso | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

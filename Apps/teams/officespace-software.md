@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o OfficeSpace, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 216f79628f149fa3e62118b63d26bf63da16bb1f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4d72b695fe5078922922f5a26ca81c4ab7970fc1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551871"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283165"
 ---
 # <a name="officespace"></a>OfficeSpace
 
@@ -36,8 +36,7 @@ Informações fornecidas pelo Software do OfficeSpace para a Microsoft:
 | ID | WA200002052 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | OfficeSpace Software |
-| URL do site do parceiro | [https://www.officespacesoftware.com/](https://www.officespacesoftware.com/) |
-| URL da página Teams de informações do aplicativo | [N/A](N/A) |
+| URL do site do parceiro | [https://www.officespacesoftware.com](https://www.officespacesoftware.com) |
 | URL da Política de Privacidade | [https://www.officespacesoftware.com/oss-customer-privacy-po...](https://www.officespacesoftware.com/oss-customer-privacy-policy-25052018) |
 | URL dos Termos de Uso | [https://www.officespacesoftware.com/oss-teams-app-terms-of-...](https://www.officespacesoftware.com/oss-teams-app-terms-of-use) |
 

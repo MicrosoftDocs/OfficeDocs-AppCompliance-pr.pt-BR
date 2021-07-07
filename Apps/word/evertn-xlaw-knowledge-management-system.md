@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para xLaw - sistema de gerenciamento de conhecimento, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e10b2149f8d103ae9c9ab042402168be6ac73e9b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 57f63c4bc93739fa2a251d797ea4475ef786a09d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552652"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283485"
 ---
 # <a name="xlaw---knowledge-management-system"></a>xLaw - sistema de gerenciamento de conhecimento
 
@@ -35,7 +35,7 @@ Informações fornecidas pelo evertn à Microsoft:
 | ID | WA104381077 |
 | Office 365 clientes com suporte | Word 2016 ou posterior no Mac, Word na Web, Word 2013 ou posterior no Windows |
 | Nome da empresa de parceiro | evertn |
-| URL do site do parceiro | [https://xlaw.eu/](https://xlaw.eu/) |
+| URL do site do parceiro | [https://extendlaw.com](https://extendlaw.com) |
 | URL da Política de Privacidade | [https://xlaw.eu/en/privacypolicy.html](https://xlaw.eu/en/privacypolicy.html) |
 | URL dos Termos de Uso | [https://xlaw.eu/en/tos.html](https://xlaw.eu/en/tos.html) |
 

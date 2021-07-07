@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | Designer para Office, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2df5ab4f69bd416e1c671818abda805b3e1350d3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 75a181280e13843471a66597f992c536c61534f8
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552622"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283455"
 ---
 # <a name="officeatwork--designer-for-office"></a>officeatwork | Designer para Office
 
@@ -34,7 +34,7 @@ Informações fornecidas pelo officeatwork à Microsoft:
 | ID | WA104380518 |
 | Office 365 clientes com suporte | Word 2016 ou posterior no Mac, Word na Web, Word 2016 ou posterior no Windows, Word no iPad |
 | Nome da empresa de parceiro | officeatwork |
-| URL do site do parceiro | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| URL do site do parceiro | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | URL da Política de Privacidade | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | URL dos Termos de Uso | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

@@ -2,24 +2,24 @@
 title: Informações do aplicativo para mover o trabalho para frente com Jira pelo Move Work Forward
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/05/2021
+ms.date: 06/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Move Work Forward with Jira, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a5ca2ec25650abba3f68a2ec543434c56d3c3d27
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 2f0f51e841a3b22c1fe1670defe99948cc99f5a3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852023"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282955"
 ---
-# <a name="move-work-forward-with-jira"></a>Mover o trabalho para frente com Jira
+# <a name="move-work-forward-with-jira"></a>Avançar o trabalho com Jira
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 5 de maio de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 10 de junho de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/79ca2e8f-dd2c-40d5-897e-1b22d41038fe" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002855" target="_blank">Exibir no AppSource</a>
@@ -32,10 +32,10 @@ Informações fornecidas pelo Move Work Forward para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Mover o trabalho para frente com Jira |
+| Nome do aplicativo | Avançar o trabalho com Jira |
 | ID | WA200002855 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Mover o trabalho para frente |
+| Nome da empresa de parceiro | Avançar o trabalho |
 | URL do site do parceiro | [https://www.moveworkforward.com](https://www.moveworkforward.com) |
 | URL da página Teams de informações do aplicativo | [https://www.moveworkforward.com/product/microsoft-teams-jir...](https://www.moveworkforward.com/product/microsoft-teams-jira-connector) |
 | URL da Política de Privacidade | [https://www.moveworkforward.com/privacy-policy](https://www.moveworkforward.com/privacy-policy) |

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Notifier de Pacotes, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 32a5d38cf65162adfcf236d955d881b77cba0ec7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 76f042a43f4a14b7ee1de71a9bb70a5e646413d4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552812"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283125"
 ---
 # <a name="package-notifier"></a>Notificador de Pacote
 
@@ -36,8 +36,7 @@ Informações fornecidas pela QBURST TECHNOLOGIES PVT LTD à Microsoft:
 | ID | WA200002737 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | QBURST TECHNOLOGIES PVT LTD |
-| URL do site do parceiro | [https://package-notifier.qburst.in](https://package-notifier.qburst.in) |
-| URL da página Teams de informações do aplicativo | [N/A](N/A) |
+| URL do site do parceiro | [https://www.qburst.in](https://www.qburst.in) |
 | URL da Política de Privacidade | [https://package-notifier.qburst.in/privacy-policy.html](https://package-notifier.qburst.in/privacy-policy.html) |
 | URL dos Termos de Uso | [https://package-notifier.qburst.in/terms-and-conditions.html](https://package-notifier.qburst.in/terms-and-conditions.html) |
 

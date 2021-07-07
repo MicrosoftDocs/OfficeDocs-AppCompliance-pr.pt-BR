@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o atSpoke, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9a159ce3ac976eb1916cd94b3eb1cf002f8e13c1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b3e3027c83c78373347a972124853add6214ee8d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551191"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283385"
 ---
 # <a name="atspoke"></a>atSpoke
 
@@ -36,9 +36,9 @@ Informações fornecidas pelo Laboratórios de Rua Desabilados, Inc. para a Micr
 | ID | WA200001454 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Townsend Street Labs, Inc. |
-| URL do site do parceiro | [https://www.atspoke.com](https://www.atspoke.com) |
+| URL do site do parceiro | [https://www.atspoke.com/](https://www.atspoke.com/) |
 | URL da Política de Privacidade | [https://www.atspoke.com/privacy-policy/](https://www.atspoke.com/privacy-policy/) |
-| URL dos Termos de Uso | [https://www.atspoke.com/terms-of-service](https://www.atspoke.com/terms-of-service) |
+| URL dos Termos de Uso | [https://www.atspoke.com/terms-of-service/](https://www.atspoke.com/terms-of-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

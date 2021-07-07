@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Onsight Conexão, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f4010e47049177b1c9b5ce316ad48795dfe98b6b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 647c6b2a4da987f5fef828ae4b8b3fb632e65c69
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552002"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282985"
 ---
 # <a name="onsight-connect"></a>Onsight Connect
 
@@ -38,7 +38,7 @@ Informações fornecidas pelo Librestream para a Microsoft:
 | Nome da empresa de parceiro | Librestream |
 | URL do site do parceiro | [https://librestream.com](https://librestream.com) |
 | URL da Política de Privacidade | [https://librestream.com/onsight-privacy-notice-mobile-2/](https://librestream.com/onsight-privacy-notice-mobile-2/) |
-| URL dos Termos de Uso | [https://librestream.com/support-archives/termsofuse/](https://librestream.com/support-archives/termsofuse/) |
+| URL dos Termos de Uso | [https://librestream.com/support-archives/software-eula/](https://librestream.com/support-archives/software-eula/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

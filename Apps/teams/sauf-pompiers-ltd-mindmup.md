@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para MindMup, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fc8852fe84307129e40d79f2f2d29c6133a81c11
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 0bf09c9e6a144fb4415879577af4debcc5fc6713
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551791"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283055"
 ---
 # <a name="mindmup"></a>MindMup
 
@@ -38,7 +38,7 @@ Informações fornecidas pela Sauf Pompiers Ltd para a Microsoft:
 | Nome da empresa de parceiro | Sauf Pompiers Ltd |
 | URL do site do parceiro | [https://www.mindmup.com](https://www.mindmup.com) |
 | URL da Política de Privacidade | [https://www.mindmup.com/resources/privacy_policy.html](https://www.mindmup.com/resources/privacy_policy.html) |
-| URL dos Termos de Uso | [https://www.mindmup.com/resources/terms_gold.html](https://www.mindmup.com/resources/terms_gold.html) |
+| URL dos Termos de Uso | [https://www.mindmup.com/resources/terms_mindmup.html](https://www.mindmup.com/resources/terms_mindmup.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

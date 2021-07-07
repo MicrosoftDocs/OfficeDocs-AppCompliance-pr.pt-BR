@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para MIPA - Seu Próprio Assistente Pessoal, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a9f8609539de3ce0f630134dfac4c6b10b7d9378
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e9637e4a1ea86df832c6d63b042b54cad8288445
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552522"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282885"
 ---
 # <a name="mipa---your-own-personal-assistant"></a>MIPA - Seu próprio assistente pessoal
 
@@ -32,11 +32,11 @@ Informações fornecidas pelo iGlobe à Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | MIPA - Seu próprio assistente pessoal |
 | ID | WA200000062 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
+| Office 365 clientes com suporte | Outlook 2013 ou posterior em Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
 | Nome da empresa de parceiro | iGlobe |
-| URL do site do parceiro | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
+| URL do site do parceiro | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | URL da Política de Privacidade | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
-| URL dos Termos de Uso | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-iglobe-mipa) |
+| URL dos Termos de Uso | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Adobe Sign for Word e PowerPoint, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: aa9b4a19f83574d7d9428bbf979ac7ee1375227c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 0c5ed86f2de8925a87b726db9c2a9946721e06c7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552662"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283317"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word and PowerPoint
 
@@ -34,9 +34,9 @@ Informações fornecidas pelo Adobe Inc. à Microsoft:
 | ID | WA104381155 |
 | Office 365 clientes com suporte | Word 2016 ou posterior no Mac, PowerPoint 2013 Service Pack 1 ou posterior no Windows, Word 2013 Service Pack 1 ou posterior no Windows, Word na Web, PowerPoint na Web, PowerPoint 2016 ou posterior no Mac |
 | Nome da empresa de parceiro | Adobe Inc. |
-| URL do site do parceiro | [https://www.adobe.com/](https://www.adobe.com/) |
-| URL da Política de Privacidade | [https://www.adobe.com/privacy/policies-business/esign.html](https://www.adobe.com/privacy/policies-business/esign.html) |
-| URL dos Termos de Uso | [https://support.office.com/client/61994a3b-2c87-41c4-a88d-a...](https://support.office.com/client/61994a3b-2c87-41c4-a88d-a6455efa362d?omkt=en) |
+| URL do site do parceiro | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
+| URL da Política de Privacidade | [https://www.adobe.com/privacy/policy.html](https://www.adobe.com/privacy/policy.html) |
+| URL dos Termos de Uso | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

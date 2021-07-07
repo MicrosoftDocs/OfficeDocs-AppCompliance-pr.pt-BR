@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Teams Manager, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f941df5497b74f3558a56c0407456b42f3b2095d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: fbca7409c87bed006a18b31d7de2fa43afd9b95f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552762"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283185"
 ---
 # <a name="teams-manager"></a>Teams Manager
 
@@ -36,7 +36,7 @@ Informações fornecidas pela Solutions2Share GmbH para a Microsoft:
 | ID | WA200000764 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Solutions2Share GmbH |
-| URL do site do parceiro | [https://www.teams-manager.com](https://www.teams-manager.com) |
+| URL do site do parceiro | [https://teams-manager.com/](https://teams-manager.com/) |
 | URL da Política de Privacidade | [https://www.teams-manager.com/privacy](https://www.teams-manager.com/privacy) |
 | URL dos Termos de Uso | [https://www.teams-manager.com/terms-of-use/](https://www.teams-manager.com/terms-of-use/) |
 
@@ -57,10 +57,10 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Group.ReadWrite.All | ambos | Estamos armazenar o TenantID e o TeamId para mapear os modelos.  | Permitir listagem de todos os Teams e também criar Teams. | b9a1aab-e8aa-4b92-b4ce-f13cae74caa7 |
->| Notes.ReadWrite.All | aplicação | Nenhum | Permite que o aplicativo adicione blocos de anotações a uma equipe aprovada. | b9a1aab-e8aa-4b92-b4ce-f13cae74caa7 |
->| User.Read | delegado | Nenhum | Permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso. | b9a1aab-e8aa-4b92-b4ce-f13cae74caa7 |
+>| Notes.ReadWrite.All | aplicação | Nenhuma | Permite que o aplicativo adicione blocos de anotações a uma equipe aprovada. | b9a1aab-e8aa-4b92-b4ce-f13cae74caa7 |
+>| User.Read | delegado | Nenhuma | Permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso. | b9a1aab-e8aa-4b92-b4ce-f13cae74caa7 |
 >| User.Read.All | ambos | Salvamos a id do usuário inserido na seção aprovador/administrador. | Listar todos os usuários para exibi-los no selador de pessoas dentro do aplicativo. | b9a1aab-e8aa-4b92-b4ce-f13cae74caa7 |
->| User.ReadBasic.All | delegado | Nenhum | Listar todos os usuários para exibi-los no selador de pessoas dentro do aplicativo. | b9a1aab-e8aa-4b92-b4ce-f13cae74caa7 |
+>| User.ReadBasic.All | delegado | Nenhuma | Listar todos os usuários para exibi-los no selador de pessoas dentro do aplicativo. | b9a1aab-e8aa-4b92-b4ce-f13cae74caa7 |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

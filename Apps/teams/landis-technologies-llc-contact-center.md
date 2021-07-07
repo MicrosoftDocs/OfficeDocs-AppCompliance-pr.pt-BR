@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Contact Center, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f6e143a7666d5f3a4cfb5744b7a27edfbe60b982
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 121d59640731b43137d1b2e9d7df987a2a78fe01
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552012"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282995"
 ---
 # <a name="contact-center"></a>Contact Center
 
@@ -36,8 +36,8 @@ Informações fornecidas pelo LLC da Landis Technologies para a Microsoft:
 | ID | WA200001428 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Landis Technologies LLC |
-| URL do site do parceiro | [https://landistechnologies.com/office365contactcenter/](https://landistechnologies.com/office365contactcenter/) |
-| URL da Política de Privacidade | [https://landistechnologies.com/legal/](https://landistechnologies.com/legal/) |
+| URL do site do parceiro | [https://landistechnologies.com/](https://landistechnologies.com/) |
+| URL da Política de Privacidade | [https://www.landistechnologies.com/legal/](https://www.landistechnologies.com/legal/) |
 | URL dos Termos de Uso | [https://landistechnologies.com/eula/](https://landistechnologies.com/eula/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -95,7 +95,7 @@ Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá ac
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Sim. As solicitações Graph API do MS são registradas para ajudar com as incidências de suporte. Ele é excluído por Microsoft Azure de Insights de Aplicativo.
+>Sim. As solicitações Graph API do MS são registradas para ajudar com as incidências de suporte. Ele é excluído por Microsoft Azure aplicativo Insights padrão.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
