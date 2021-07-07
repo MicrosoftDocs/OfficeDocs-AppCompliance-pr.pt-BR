@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Stack Overflow para Teams, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 62f32ce131b2ebdf827d8e11e24873fc552577a7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: da3e4b0f9a5219bcf0d652938f24397c12b7bdb4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552742"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280853"
 ---
 # <a name="stack-overflow-for-teams"></a>Stack Overflow para o Teams
 
@@ -36,9 +36,9 @@ Informações fornecidas pelo Stack Overflow para a Microsoft:
 | ID | WA200000739 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Stack Overflow |
-| URL do site do parceiro | [https://stackoverflow.com](https://stackoverflow.com) |
+| URL do site do parceiro | [https://www.stackoverflow.com](https://www.stackoverflow.com) |
 | URL da Política de Privacidade | [https://stackoverflow.com/legal/privacy-policy](https://stackoverflow.com/legal/privacy-policy) |
-| URL dos Termos de Uso | [https://stackoverflow.com/legal/terms-of-service/public](https://stackoverflow.com/legal/terms-of-service/public) |
+| URL dos Termos de Uso | [https://stackoverflow.com/legal/terms-of-service/teams](https://stackoverflow.com/legal/terms-of-service/teams) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o iPlanner Pro Office 365, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a191dc43512ce9a58ff36277c3a602aff2e799a7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9c77c1e0a5f70dae4bd296c545cff51fb163f6cb
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553722"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281613"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
@@ -32,9 +32,9 @@ Informações fornecidas pelo iGlobe à Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | iPlanner Pro Office 365 |
 | ID | WA104380464 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook no iOS, Outlook na Web |
+| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook iOS, Outlook na Web |
 | Nome da empresa de parceiro | iGlobe |
-| URL do site do parceiro | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
+| URL do site do parceiro | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | URL da Política de Privacidade | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
 | URL dos Termos de Uso | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
 

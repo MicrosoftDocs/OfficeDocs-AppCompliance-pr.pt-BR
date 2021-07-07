@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Smartsheet, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ddf77e7e73cc0bef1a21e72d1db328a4845a12f5
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c97f12b0e1f423318c98419f11e7569c5285830d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551521"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280933"
 ---
 # <a name="smartsheet"></a>Smartsheet
 
@@ -36,10 +36,10 @@ Informações fornecidas pelo Smartsheet à Microsoft:
 | ID | WA104380975 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Smartsheet |
-| URL do site do parceiro | [https://help.smartsheet.com/articles/2476201](https://help.smartsheet.com/articles/2476201) |
+| URL do site do parceiro | [https://www.smartsheet.com](https://www.smartsheet.com) |
 | URL da página Teams de informações do aplicativo | [https://help.smartsheet.com/articles/2476201-interact-with-...](https://help.smartsheet.com/articles/2476201-interact-with-smartsheet-items-in-microsoft-teams) |
-| URL da Política de Privacidade | [https://www.smartsheet.com/privacy](https://www.smartsheet.com/privacy) |
-| URL dos Termos de Uso | [https://www.smartsheet.com/user-agreement](https://www.smartsheet.com/user-agreement) |
+| URL da Política de Privacidade | [https://www.smartsheet/legal/privacy](https://www.smartsheet/legal/privacy) |
+| URL dos Termos de Uso | [https://Default Contrato do Usuário: https://www.smartsheet.com/.. .](https://Default User Agreement: https://www.smartsheet.com/legal/user-agreement) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -70,7 +70,7 @@ Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que n�
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| APIs da Estrutura de Bot | Sim | Usamos a API da Estrutura de Bot para entregar mensagens como o aplicativo para o aplicativo teams. O Smartsheet armazena informações userId para acompanhar com quem o bot smartsheet está falando. |  | Nenhum |  |
+>| APIs da Estrutura de Bot | Sim | Usamos a API da Estrutura de Bot para entregar mensagens como o aplicativo para o aplicativo teams. O Smartsheet armazena informações userId para acompanhar com quem o bot smartsheet está falando. |  | Nenhuma |  |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para IndustryIntel, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6e2c1c35d0054df773b83fa2d31a95daceaee585
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a213e68c58f2f3aea6f9bc1e6c8568fcbdefc141
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553062"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281243"
 ---
 # <a name="industryintel"></a>IndustryIntel
 
@@ -36,8 +36,8 @@ Informações fornecidas pela Equipe de Inteligência do Setor à Microsoft:
 | ID | WA200001907 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Industry Intelligence Team |
-| URL do site do parceiro | [https://www.industryintel.com/public:about-us/our-team](https://www.industryintel.com/public:about-us/our-team) |
-| URL da Política de Privacidade | [https://www.industryintel.com/public:legal/privacy-policy-m...](https://www.industryintel.com/public:legal/privacy-policy-msteams) |
+| URL do site do parceiro | [https://www.industryintel.com](https://www.industryintel.com) |
+| URL da Política de Privacidade | [https://www.industryintel.com/public:legal/privacy-policy](https://www.industryintel.com/public:legal/privacy-policy) |
 | URL dos Termos de Uso | [https://www.industryintel.com/public:legal/terms-of-use](https://www.industryintel.com/public:legal/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

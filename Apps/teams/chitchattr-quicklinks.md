@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Quicklinks, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5d29a93ab0f6edfe5b95267d8f808d8f16180822
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d810e1bdabf4aed954d8deb6ee42db46bf03a194
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553262"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281373"
 ---
 # <a name="quicklinks"></a>Quicklinks
 
@@ -36,10 +36,10 @@ Informações fornecidas por ChitChattr à Microsoft:
 | ID | WA200001833 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | ChitChattr |
-| URL do site do parceiro | [https://www.chitchattr.com?p=quicklinks](https://www.chitchattr.com?p=quicklinks) |
+| URL do site do parceiro | [https://www.chitchattr.com](https://www.chitchattr.com) |
 | URL da página Teams de informações do aplicativo | [https://www.chitchattr.com/quicklinks/](https://www.chitchattr.com/quicklinks/) |
 | URL da Política de Privacidade | [https://www.chitchattr.com/privacy?p=quicklinks](https://www.chitchattr.com/privacy?p=quicklinks) |
-| URL dos Termos de Uso | [https://www.chitchattr.com/termsofuse?p=quicklinks](https://www.chitchattr.com/termsofuse?p=quicklinks) |
+| URL dos Termos de Uso | [https://www.chitchattr.com/termsofuse](https://www.chitchattr.com/termsofuse) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

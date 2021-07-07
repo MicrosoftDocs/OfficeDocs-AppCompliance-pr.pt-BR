@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para a ferramenta de relatório do iPlanner para o Office 365 Planner, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a577fcc75982703bfae0de740a7e69d9d13e509a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2b9797eb2b4ec271804711473a77f26a9cce4e13
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548761"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281143"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>Ferramenta de relatório do iPlanner para Office 365 Planner
 
@@ -34,9 +34,9 @@ Informações fornecidas pelo iGlobe à Microsoft:
 | ID | WA104380686 |
 | Office 365 clientes com suporte | Excel 2016 ou posterior no Windows, Excel na Web, Excel 2016 ou posterior no Mac |
 | Nome da empresa de parceiro | iGlobe |
-| URL do site do parceiro | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
-| URL da Política de Privacidade | [https://iglobecrm.com/content/legal-information](https://iglobecrm.com/content/legal-information) |
-| URL dos Termos de Uso | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474836912/Product_42949680354/Asset_9d620695-979f-49e4-bc56-98259b0cdeb2/EULAPlanner.pdf) |
+| URL do site do parceiro | [https://iglobecrm.com/](https://iglobecrm.com/) |
+| URL da Política de Privacidade | [https://instassl.iglobecrm.com/legal-information](https://instassl.iglobecrm.com/legal-information) |
+| URL dos Termos de Uso | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

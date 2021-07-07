@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Q, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3424ac372f46be0fc9834611fb1a0d57c69831a4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2bdf876ddb9ab17d9fa8616edda8b849e0d85df7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551901"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281744"
 ---
 # <a name="q"></a>I
 
@@ -37,8 +37,8 @@ Informações fornecidas pelo ModuleQ à Microsoft:
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | ModuleQ |
 | URL do site do parceiro | [https://moduleq.com](https://moduleq.com) |
-| URL da Política de Privacidade | [https://moduleq.com/privacy-policy/](https://moduleq.com/privacy-policy/) |
-| URL dos Termos de Uso | [https://moduleq.com/terms-of-service/](https://moduleq.com/terms-of-service/) |
+| URL da Política de Privacidade | [https://moduleq.com/privacy-policy](https://moduleq.com/privacy-policy) |
+| URL dos Termos de Uso | [https://moduleq.com/terms-of-service](https://moduleq.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,10 +57,10 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.Read | aplicação | armazena dados de reunião, exceto o corpo da mensagem e quaisquer anexos | Permite que o aplicativo leia os eventos de calendário de um usuário para entender de forma inteligente as prioridades comerciais do usuário. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| Group.Read.All | delegado | Nenhum | Permite que o aplicativo interaja em uma equipe para compartilhar conteúdo. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
+>| Group.Read.All | delegado | Nenhuma | Permite que o aplicativo interaja em uma equipe para compartilhar conteúdo. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
 >| Mail.Read | aplicação | armazena dados de email, exceto o corpo da mensagem e quaisquer anexos | Permite que o aplicativo leia o email de um usuário para entender de forma inteligente as prioridades comerciais do usuário | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
 >| User.Read | delegado | tokens de autenticação e email do usuário | Permite que o usuário entre e vincule sua conta Office 365 com sua conta ModuleQ | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| User.Read.All | delegado | Nenhum | Permita que o aplicativo receba a lista de Teams que o usuário faz parte. Usado apenas para compartilhamento  | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
+>| User.Read.All | delegado | Nenhuma | Permita que o aplicativo receba a lista de Teams que o usuário faz parte. Usado apenas para compartilhamento  | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

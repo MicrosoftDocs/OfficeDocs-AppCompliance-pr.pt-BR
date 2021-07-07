@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o OnePlaceMail para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5094d1ad5e7b028ac115529de16ddb9cbef2086f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 97c9b74768b11e3c63a302566a20a2cb762275a0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552492"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281703"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail para Outlook
 
@@ -35,9 +35,9 @@ Informações fornecidas pelas Soluções do OnePlace para a Microsoft:
 | ID | WA104380723 |
 | Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook no iOS, Outlook no Android, Outlook na Web |
 | Nome da empresa de parceiro | Soluções OnePlace |
-| URL do site do parceiro | [https://www.oneplacesolutions.com/](https://www.oneplacesolutions.com/) |
+| URL do site do parceiro | [https://www.oneplacesolutions.com](https://www.oneplacesolutions.com) |
 | URL da Política de Privacidade | [https://www.oneplacesolutions.com/oneplacemailapp-privacy](https://www.oneplacesolutions.com/oneplacemailapp-privacy) |
-| URL dos Termos de Uso | [https://www.oneplacesolutions.com/oneplacemailapp-eula](https://www.oneplacesolutions.com/oneplacemailapp-eula) |
+| URL dos Termos de Uso | [https://www.oneplacesolutions.com/eula.html](https://www.oneplacesolutions.com/eula.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +55,14 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | delegado | Obrigatório para determinar Teams o usuário atual é membro. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
->| Mail.ReadWrite.Shared | delegado | Necessário para acessar propriedades de email para definir SharePoint colunas e adicionar a categoria Transferido para SharePoint no item de email | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
->| MailboxSettings.ReadWrite | delegado | Sem dados coletados ou usados, isso é usado para adicionar uma categoria à lista de categorias mestras em uma caixa de correio de usuários | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
->| Sites.ReadWrite.All | delegado | Necessário para definir propriedades em itens que o aplicativo carregou para SharePoint. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
+>| Group.ReadWrite.All | delegado | Obrigatório para determinar Teams o usuário atual é membro. | Nenhuma | 44a72516-136f-4a55-ae26-ef09977230be |
+>| Mail.ReadWrite.Shared | delegado | Necessário para acessar propriedades de email para definir SharePoint colunas e adicionar a categoria Transferido para SharePoint no item de email | Nenhuma | 44a72516-136f-4a55-ae26-ef09977230be |
+>| MailboxSettings.ReadWrite | delegado | Sem dados coletados ou usados, isso é usado para adicionar uma categoria à lista de categorias mestras em uma caixa de correio de usuários | Nenhuma | 44a72516-136f-4a55-ae26-ef09977230be |
+>| Sites.ReadWrite.All | delegado | Necessário para definir propriedades em itens que o aplicativo carregou para SharePoint. | Nenhuma | 44a72516-136f-4a55-ae26-ef09977230be |
 >| User.Read | delegado | Obrigatório para autenticação no microsoft Graph. | Os dados a seguir são armazenados pelo aplicativo em um banco de dados e são usados para acompanhamento de licenças de usuário e assinatura: ID do usuário, Email, Nome, Sobrenome. | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadBasic.All | delegado | Necessário para mostrar a imagem do perfil do usuário no campo se picker de pessoas. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadBasic.All | delegado | Necessário para mostrar a imagem do perfil do usuário no campo se picker de pessoas. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadWrite.All | delegado | Necessário para determinar se o serviço Teams está habilitado dentro do Office 365 de usuário. | Nenhum | 44a72516-136f-4a55-ae26-ef09977230be |
+>| User.ReadBasic.All | delegado | Necessário para mostrar a imagem do perfil do usuário no campo se picker de pessoas. | Nenhuma | 44a72516-136f-4a55-ae26-ef09977230be |
+>| User.ReadBasic.All | delegado | Necessário para mostrar a imagem do perfil do usuário no campo se picker de pessoas. | Nenhuma | 44a72516-136f-4a55-ae26-ef09977230be |
+>| User.ReadWrite.All | delegado | Necessário para determinar se o serviço Teams está habilitado dentro do Office 365 de usuário. | Nenhuma | 44a72516-136f-4a55-ae26-ef09977230be |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
@@ -86,7 +86,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->EUII e OII aparecem na telemetria. Essas informações são armazenadas no Application Insights, criptografadas em repouso, o acesso controlado e excluído após 90 dias
+>EUII e OII aparecem na telemetria. Essas informações são armazenadas em Aplicativos Insights, criptografados em repouso, acesso controlado e excluído após 90 dias
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Office2SharePoint para Office, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1d1fccbab2aab91eacbc5a43ef79462dd536ff6e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 85198f216bb99ab5d172886d7852878d0cf61be1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548841"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281133"
 ---
 # <a name="office2sharepoint-for-office"></a>Office2SharePoint para Office
 
@@ -34,7 +34,7 @@ Informações fornecidas pelo iGlobe à Microsoft:
 | ID | WA104381787 |
 | Office 365 clientes com suporte | Excel 2016 ou posterior no Mac, Excel 2016 ou posterior no Windows, Excel na Web, Word 2016 ou posterior no Mac, Word na Web, Word 2016 ou posterior em Windows, PowerPoint 2016 ou posterior no Mac, PowerPoint na Web, PowerPoint 2016 ou posterior no Windows |
 | Nome da empresa de parceiro | iGlobe |
-| URL do site do parceiro | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
+| URL do site do parceiro | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | URL da Política de Privacidade | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
 | URL dos Termos de Uso | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
 

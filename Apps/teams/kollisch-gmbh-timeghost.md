@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o timeghost, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ac22c7368da817caf44157bad920221791989245
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1a6a6cda6c7f70fff9df1c5fa6dbfb009ea12ed1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552032"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281784"
 ---
 # <a name="timeghost"></a>timeghost
 
@@ -36,7 +36,7 @@ Informações fornecidas por K&#246;llisch GmbH para a Microsoft:
 | ID | WA200001532 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | K&#246;llisch GmbH |
-| URL do site do parceiro | [https://timeghost.io/](https://timeghost.io/) |
+| URL do site do parceiro | [https://timeghost.io](https://timeghost.io) |
 | URL da página Teams de informações do aplicativo | [https://timeghost.io](https://timeghost.io) |
 | URL da Política de Privacidade | [https://timeghost.io/privacy-policy/](https://timeghost.io/privacy-policy/) |
 | URL dos Termos de Uso | [https://timeghost.io/terms-and-conditions/](https://timeghost.io/terms-and-conditions/) |

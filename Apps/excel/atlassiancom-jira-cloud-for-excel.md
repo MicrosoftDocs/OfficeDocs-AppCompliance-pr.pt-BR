@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Jira Cloud para Excel, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cbed2eb7aada40d5631391a9549600a4af3edebf
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 73212faa010d95233281a0cf7f120e9ee0fd1ffb
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549821"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281193"
 ---
 # <a name="jira-cloud-for-excel"></a>Nuvem Jira para Excel
 
@@ -35,9 +35,9 @@ Informações fornecidas pelo Atlassian.com para a Microsoft:
 | ID | WA200000556 |
 | Office 365 clientes com suporte | Excel 2016 ou posterior no Mac, Excel 2016 ou posterior no Windows, Excel na Web |
 | Nome da empresa de parceiro | Atlassian.com |
-| URL do site do parceiro | [https://www.atlassian.com/](https://www.atlassian.com/) |
-| URL da Política de Privacidade | [https://www.atlassian.com/legal/privacy-policy](https://www.atlassian.com/legal/privacy-policy) |
-| URL dos Termos de Uso | [https://www.microsoft.com/en-us/store/standard-application-...](https://www.microsoft.com/en-us/store/standard-application-license-terms) |
+| URL do site do parceiro | [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira) |
+| URL da Política de Privacidade | [https://www.msteams-atlassian.com/privacy-policy/](https://www.msteams-atlassian.com/privacy-policy/) |
+| URL dos Termos de Uso | [https://www.msteams-atlassian.com/legal/](https://www.msteams-atlassian.com/legal/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

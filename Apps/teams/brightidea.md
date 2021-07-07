@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Brightidea, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0ef99ec3d04a72624f002c05f6a120a34f674b8a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8648dbe30e43ca31964493d797cb3629234fa671
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553282"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281383"
 ---
 # <a name="brightidea"></a>Brightidea
 
@@ -36,7 +36,7 @@ Informações fornecidas pelo Brightidea à Microsoft:
 | ID | WA200002795 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Brightidea |
-| URL do site do parceiro | [https://www.brightidea.com](https://www.brightidea.com) |
+| URL do site do parceiro | [https://brightidea.com](https://brightidea.com) |
 | URL da Política de Privacidade | [https://www.brightidea.com/privacy/](https://www.brightidea.com/privacy/) |
 | URL dos Termos de Uso | [https://www.brightidea.com/terms-of-use/](https://www.brightidea.com/terms-of-use/) |
 

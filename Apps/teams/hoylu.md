@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Hoylu, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4b63b3bd9cfec20a665d7fd112d2db09c280b594
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b48adaf3c3816bea363b0fd8e6581f061a5eaed1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553082"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281854"
 ---
 # <a name="hoylu"></a>Hoylu
 
@@ -37,8 +37,8 @@ Informações fornecidas por Hoylu à Microsoft:
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Hoylu |
 | URL do site do parceiro | [https://hoylu.com](https://hoylu.com) |
-| URL da Política de Privacidade | [https://hoylu.com/privacy-policy](https://hoylu.com/privacy-policy) |
-| URL dos Termos de Uso | [https://hoylu.com/terms-of-use](https://hoylu.com/terms-of-use) |
+| URL da Política de Privacidade | [https://www.hoylu.com/privacy-policy/](https://www.hoylu.com/privacy-policy/) |
+| URL dos Termos de Uso | [https://www.hoylu.com/terms-of-use/](https://www.hoylu.com/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

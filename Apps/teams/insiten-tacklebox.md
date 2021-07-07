@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o TackleBox, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6d521b6172e4915d6ce10ea493069355ce3abfdf
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3ca294c588f6447c5e54c53cf1dec33b1e849a47
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552062"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281824"
 ---
 # <a name="tacklebox"></a>TackleBox
 
@@ -36,7 +36,7 @@ Informações fornecidas pelo Insiten à Microsoft:
 | ID | WA200002310 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Insiten |
-| URL do site do parceiro | [https://tacklebox.app/](https://tacklebox.app/) |
+| URL do site do parceiro | [https://insiten.com](https://insiten.com) |
 | URL da página Teams de informações do aplicativo | [https://tacklebox.app](https://tacklebox.app) |
 | URL da Política de Privacidade | [https://tacklebox.app/privacy/](https://tacklebox.app/privacy/) |
 | URL dos Termos de Uso | [https://tacklebox.app/terms/](https://tacklebox.app/terms/) |
@@ -58,7 +58,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Files.ReadWrite.All | delegado | Permite que os usuários naveguem suas OneDrive, pastas e arquivos; vincular arquivos ao TackleBox; ler Excel arquivos para extrair automaticamente gráficos, gráficos, tabelas, áreas de impressão e intervalos nomeados; criar e atualizar PowerPoint arquivos com esses Excel visuais | ID da unidade, ID da pasta, ID do arquivo, Link de exibição, criado por, data criada, modificado por, data modificada, ID da versão, nome do arquivo | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
->| Sites.Read.All | delegado | Permitir que os usuários naveguem e vinculem Excel arquivos localizados em canais Teams privados | Nenhum | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
+>| Sites.Read.All | delegado | Permitir que os usuários naveguem e vinculem Excel arquivos localizados em canais Teams privados | Nenhuma | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
 >| User.Read | delegado | Permite que o aplicativo leia o perfil de usuários assinados e retree seu endereço de email para notificações | Email | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
 >| openid | delegado | Permite que os usuários acessem nosso aplicativo usando Microsoft 365 conta | ID de locatário e ID de objeto para usuário | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |
 >| perfil | delegado | Permite que o aplicativo exibe o perfil básico dos usuários (nome, nome do usuário) para facilitar a colaboração | UPN, Nome, Sobrenome | 485936ec-d15d-4a17-9f7d-2eeb5ea43b94 |

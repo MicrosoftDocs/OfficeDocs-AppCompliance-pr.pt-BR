@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Salesforce, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 29c00595a806c5144b34701ba54860353f9cafc0
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b5999dd08ed27ce75bc958e431c0974e10830a3c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553702"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281693"
 ---
 # <a name="salesforce"></a>Salesforce
 
@@ -33,11 +33,11 @@ Informações fornecidas pelo salesforce.com para a Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | Salesforce |
 | ID | WA104379334 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
+| Office 365 clientes com suporte | Outlook 2013 ou posterior em Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
 | Nome da empresa de parceiro | salesforce.com |
-| URL do site do parceiro | [https://www.salesforce.com/](https://www.salesforce.com/) |
-| URL da Política de Privacidade | [https://www.salesforce.com/company/privacy](https://www.salesforce.com/company/privacy) |
-| URL dos Termos de Uso | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474843361/Product_42949677285/Asset_540860c0-685e-4047-9f3a-082a748e57a2/LIGHTNINGFOROUTLOOKOrderFormSu.doc) |
+| URL do site do parceiro | [https://www.salesforce.com](https://www.salesforce.com) |
+| URL da Política de Privacidade | [https://www.salesforce.com/company/privacy/](https://www.salesforce.com/company/privacy/) |
+| URL dos Termos de Uso | [https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC...](https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC&amp;p5=WA104379334&amp;cmu=en-US) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

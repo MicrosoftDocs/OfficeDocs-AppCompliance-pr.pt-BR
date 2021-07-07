@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Webex Call, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8cd5499529eb41a5a840c9a7792e9b47f9a6c877
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3c6552bd7b266f4c35d35dabefe3abbf7e407ea1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552282"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281954"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -36,9 +36,8 @@ Informações fornecidas pela Cisco à Microsoft:
 | ID | WA200001495 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Cisco |
-| URL do site do parceiro | [https://www.cisco.com/c/en/us/solutions/collaboration/webex...](https://www.cisco.com/c/en/us/solutions/collaboration/webex-teams.html) |
-| URL da página Teams de informações do aplicativo | [N/A](N/A) |
-| URL da Política de Privacidade | [https://www.cisco.com/c/en/us/about/legal/privacy-full.html](https://www.cisco.com/c/en/us/about/legal/privacy-full.html) |
+| URL do site do parceiro | [https://www.cisco.com](https://www.cisco.com) |
+| URL da Política de Privacidade | [https://www.cisco.com/c/en/us/about/legal/privacy.html](https://www.cisco.com/c/en/us/about/legal/privacy.html) |
 | URL dos Termos de Uso | [https://www.cisco.com/c/en/us/products/universal-cloud-agre...](https://www.cisco.com/c/en/us/products/universal-cloud-agreement.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

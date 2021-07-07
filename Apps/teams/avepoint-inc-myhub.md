@@ -2,23 +2,23 @@
 title: Informações do aplicativo para MyHub by AvePoint, inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/21/2020
+ms.date: 05/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o MyHub, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ccf5367ea692731bafcdc03d04ab4dad2e76c976
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: a45478d976bc03d682c1236d8f266bc7443973a0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553382"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282014"
 ---
 # <a name="myhub"></a>MyHub
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Última atualização pelo desenvolvedor em: 21 de dezembro de 2020</p>
+<p>Última atualização pelo desenvolvedor em: 25 de maio de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/c3ff6344-f6f0-4bfa-8697-b9d47b32ca4b" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000726" target="_blank">Exibir no AppSource</a>
@@ -36,8 +36,9 @@ Informações fornecidas pelo AvePoint, inc. à Microsoft:
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | AvePoint, inc. |
 | URL do site do parceiro | [https://www.avepoint.com](https://www.avepoint.com) |
-| URL da Política de Privacidade | [https://www.avepoint.com/company/privacy-policy](https://www.avepoint.com/company/privacy-policy) |
-| URL dos Termos de Uso | [https://www.avepoint.com/company/terms-and-conditions/](https://www.avepoint.com/company/terms-and-conditions/) |
+| URL da página Teams de informações do aplicativo | [https://www.avepoint.com/products/cloud/myhub](https://www.avepoint.com/products/cloud/myhub) |
+| URL da Política de Privacidade | [https://www.avepoint.com/privacy-policy/](https://www.avepoint.com/privacy-policy/) |
+| URL dos Termos de Uso | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,3 +114,28 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Informações de identidade
+
+Essas informações foram fornecidas pelo AvePoint, inc. sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
+| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
+| Seu aplicativo dá suporte a multi-enancy? | Sim |
+| Seu aplicativo tem um cliente confidencial? | Sim |
+| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
+| Seu aplicativo expõe alguma APIs da Web? | Sim |
+| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Seu aplicativo usa APIs de visualização? | Sim |
+| Seu aplicativo usa APIs preteridas? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

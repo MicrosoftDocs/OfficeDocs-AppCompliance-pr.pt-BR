@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Wrike para documentos Office, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ce29d8d0e8923795e860ffb9013267a39889970e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 87656417cb587e3778ddf85f2c20766b3a43cf86
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548701"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281073"
 ---
 # <a name="wrike-for-office-documents"></a>Wrike for Office Documents
 
@@ -34,9 +34,9 @@ Informações fornecidas pela Wrike Inc. à Microsoft:
 | ID | WA104379841 |
 | Office 365 clientes com suporte | Excel 2016 ou posterior no Windows, Word 2013 ou posterior no Windows, PowerPoint 2013 ou posterior no Windows, Excel 2016 ou posterior no Mac, Excel na Web, Word 2016 ou posterior no Mac, Word na Web, PowerPoint 2016 ou posterior no Mac, PowerPoint na Web |
 | Nome da empresa de parceiro | Wrike Inc. |
-| URL do site do parceiro | [https://wrike.com/](https://wrike.com/) |
-| URL da Política de Privacidade | [https://www.wrike.com/privacy](https://www.wrike.com/privacy) |
-| URL dos Termos de Uso | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| URL do site do parceiro | [https://www.wrike.com/](https://www.wrike.com/) |
+| URL da Política de Privacidade | [https://www.wrike.com/privacy/](https://www.wrike.com/privacy/) |
+| URL dos Termos de Uso | [https://www.wrike.com/terms/](https://www.wrike.com/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

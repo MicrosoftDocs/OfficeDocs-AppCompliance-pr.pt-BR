@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o add-in StarLeaf para Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f201131be32c743550a02a24e653f784a1d91817
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 48335c7260921e50740f28d57192d74a9e0a4fe5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552472"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281593"
 ---
 # <a name="starleaf-add-in-for-outlook"></a>Add-in StarLeaf for Outlook
 
@@ -33,11 +33,11 @@ Informações fornecidas pelo StarLeaf à Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | Add-in StarLeaf for Outlook |
 | ID | WA104381343 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
+| Office 365 clientes com suporte | Outlook 2013 ou posterior em Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
 | Nome da empresa de parceiro | StarLeaf |
-| URL do site do parceiro | [https://www.starleaf.com/](https://www.starleaf.com/) |
-| URL da Política de Privacidade | [https://www.starleaf.com/privacy-policy](https://www.starleaf.com/privacy-policy) |
-| URL dos Termos de Uso | [https://support.starleaf.com/legal-information/end-user-lic...](https://support.starleaf.com/legal-information/end-user-license-agreement-for-starleaf-applications) |
+| URL do site do parceiro | [https://www.starleaf.com](https://www.starleaf.com) |
+| URL da Política de Privacidade | [https://support.starleaf.com/legal-information/starleaf-pri...](https://support.starleaf.com/legal-information/starleaf-privacy-notice/) |
+| URL dos Termos de Uso | [https://support.starleaf.com/legal-information/starleaf-clo...](https://support.starleaf.com/legal-information/starleaf-cloud-services-customer-terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

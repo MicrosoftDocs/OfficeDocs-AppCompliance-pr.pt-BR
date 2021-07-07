@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para TagTeam, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5c4976272cd5ee2f280544bf1bb6fb674ca5297d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b4e3fcf89e816c115887fa5bd0df38cc95d4ae2f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553304"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280943"
 ---
 # <a name="tagteam"></a>TagTeam
 
@@ -36,7 +36,7 @@ Informações fornecidas pelo GmbH da Solução De Negócios Mais Inteligentes p
 | ID | WA200002829 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Smarter Business Solution GmbH |
-| URL do site do parceiro | [https://www.smarterbusiness.at/en](https://www.smarterbusiness.at/en) |
+| URL do site do parceiro | [https://www.smarterbusiness.at](https://www.smarterbusiness.at) |
 | URL da página Teams de informações do aplicativo | [https://www.smarterbusiness.at/en/tagteam-help](https://www.smarterbusiness.at/en/tagteam-help) |
 | URL da Política de Privacidade | [https://www.smarterbusiness.at/en/add-in-privacy-policy](https://www.smarterbusiness.at/en/add-in-privacy-policy) |
 | URL dos Termos de Uso | [https://www.smarterbusiness.at/en/terms-of-use-for-tagteam](https://www.smarterbusiness.at/en/terms-of-use-for-tagteam) |
@@ -57,10 +57,10 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ChannelMessage.Read.All | delegado | Não coletamos esses dados - apenas para exibir conversas marcadas. Gostariamos de alterá-lo para a API de Pesquisa, mas Graph API não está suportando isso no momento.  | Nenhum | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
->| User.Read | delegado | Exibir User-Information (por exemplo, Nome) em nossa Guia | Nenhum | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
->| User.ReadBasic.All | delegado | Exibir User-Avatars em nossa guia | Nenhum | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
->| openid | delegado | Somente para SignIn - nenhum dado é armazenado | Nenhum | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
+>| ChannelMessage.Read.All | delegado | Não coletamos esses dados - apenas para exibir conversas marcadas. Gostariamos de alterá-lo para a API de Pesquisa, mas Graph API não está suportando isso no momento.  | Nenhuma | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
+>| User.Read | delegado | Exibir User-Information (por exemplo, Nome) em nossa Guia | Nenhuma | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
+>| User.ReadBasic.All | delegado | Exibir User-Avatars em nossa guia | Nenhuma | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
+>| openid | delegado | Somente para SignIn - nenhum dado é armazenado | Nenhuma | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

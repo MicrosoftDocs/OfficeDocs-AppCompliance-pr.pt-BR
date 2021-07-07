@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Wrike para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1ee6c98b2513459c588100a9b3b19ba529d98af0
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 5ee9a184fbe3c5358e79253a7227bbb69d62d4d4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553692"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282405"
 ---
 # <a name="wrike-for-outlook"></a>Wrike para Outlook
 
@@ -34,9 +34,9 @@ Informações fornecidas pela Wrike Inc. à Microsoft:
 | ID | WA104381120 |
 | Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook no iOS, Outlook na Web, Outlook no Android |
 | Nome da empresa de parceiro | Wrike Inc. |
-| URL do site do parceiro | [https://wrike.com/](https://wrike.com/) |
-| URL da Política de Privacidade | [https://www.wrike.com/security/privacy](https://www.wrike.com/security/privacy) |
-| URL dos Termos de Uso | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| URL do site do parceiro | [https://www.wrike.com/](https://www.wrike.com/) |
+| URL da Política de Privacidade | [https://www.wrike.com/privacy/](https://www.wrike.com/privacy/) |
+| URL dos Termos de Uso | [https://www.wrike.com/terms/](https://www.wrike.com/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

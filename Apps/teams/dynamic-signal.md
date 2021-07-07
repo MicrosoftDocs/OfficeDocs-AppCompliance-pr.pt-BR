@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Sinal Dinâmico, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0d3c59f6809bafe16eec2a1d709f40a980576b1b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 19f633362ac605ef5891b3d7e11f34a8ec04d74f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552222"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281303"
 ---
 # <a name="dynamic-signal"></a>Dynamic Signal
 
@@ -36,7 +36,7 @@ Informações fornecidas pelo Sinal Dinâmico para a Microsoft:
 | ID | WA200000102 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Dynamic Signal |
-| URL do site do parceiro | [https://dynamicsignal.com](https://dynamicsignal.com) |
+| URL do site do parceiro | [https://www.dynamicsignal.com](https://www.dynamicsignal.com) |
 | URL da página Teams de informações do aplicativo | [https://support.dynamicsignal.com/hc/en-us/requests/new?tic...](https://support.dynamicsignal.com/hc/en-us/requests/new?ticket_form_id=360000290032) |
 | URL da Política de Privacidade | [https://dynamicsignal.com/privacy/](https://dynamicsignal.com/privacy/) |
 | URL dos Termos de Uso | [https://dynamicsignal.com/terms-of-use/platform-terms-of-us...](https://dynamicsignal.com/terms-of-use/platform-terms-of-use/) |

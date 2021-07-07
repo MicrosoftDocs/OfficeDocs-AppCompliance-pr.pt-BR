@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para AVA, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6176bc86a6d382285623d3e3286852afd4a4ff96
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c55d372c0249302da425ea5b2483aba88f1a2e42
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552362"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281403"
 ---
 # <a name="ava"></a>AVA
 
@@ -36,9 +36,9 @@ Informações fornecidas pelo AvePoint, Inc. à Microsoft:
 | ID | WA104381883 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | AvePoint, Inc. |
-| URL do site do parceiro | [https://www.avepoint.com](https://www.avepoint.com) |
+| URL do site do parceiro | [https://www.avepoint.com/](https://www.avepoint.com/) |
 | URL da página Teams de informações do aplicativo | [https://www.avepoint.com/support/](https://www.avepoint.com/support/) |
-| URL da Política de Privacidade | [https://www.avepoint.com/privacy-policy](https://www.avepoint.com/privacy-policy) |
+| URL da Política de Privacidade | [https://www.avepoint.com/company/privacy-policy/](https://www.avepoint.com/company/privacy-policy/) |
 | URL dos Termos de Uso | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -57,7 +57,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Mail.ReadWrite.Shared | delegado | Nenhum | Pesquisar emails do usuário e mover o email para a pasta especificada | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
+>| Mail.ReadWrite.Shared | delegado | Nenhuma | Pesquisar emails do usuário e mover o email para a pasta especificada | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
 >| User.Read | delegado |  Token de acesso do usuário - usado para pesquisar e restaurar dados do usuário | Permite que o usuário entre e dê o token de acesso ao aplicativo | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
 >| User.ReadWrite | delegado | DisplayName, UserPrincipalName, JobTitle, Organization, Country, MySiteUrl - grave as informações básicas do usuário que usou o aplicativo | Obter informações básicas de perfil do usuário | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
 
@@ -67,7 +67,7 @@ Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que n�
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| APIs REST do SharePoint | Sim | Pesquisar arquivo na reciclagem do site pessoal do usuário e restaurar esses arquivos. Requer permissão AllSites.Manage. |  | Nenhum |  |
+>| APIs REST do SharePoint | Sim | Pesquisar arquivo na reciclagem do site pessoal do usuário e restaurar esses arquivos. Requer permissão AllSites.Manage. |  | Nenhuma |  |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Vídeos Altru, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 85f884846493c52203d9479277bbdb889a79679e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 50f3b5adfb587502d852637e3465ff1cc5c06db8
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552572"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281663"
 ---
 # <a name="altru-videos"></a>Vídeos altru
 
@@ -33,11 +33,11 @@ Informações fornecidas pela Altru à Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | Vídeos altru |
 | ID | WA200000026 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
+| Office 365 clientes com suporte | Outlook 2013 ou posterior em Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
 | Nome da empresa de parceiro | Altru |
-| URL do site do parceiro | [https://www.altrulabs.com/](https://www.altrulabs.com/) |
+| URL do site do parceiro | [https://www.icims.com](https://www.icims.com) |
 | URL da Política de Privacidade | [https://www.altrulabs.com/privacy](https://www.altrulabs.com/privacy) |
-| URL dos Termos de Uso | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| URL dos Termos de Uso | [https://www.icims.com/gc/video-studio-service-addendum/](https://www.icims.com/gc/video-studio-service-addendum/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

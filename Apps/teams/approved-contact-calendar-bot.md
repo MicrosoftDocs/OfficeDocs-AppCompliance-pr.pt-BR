@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para BOT do Calendário, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 48861f5f4c49a424a0740b0a56e6d85107326396
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: 597a368e36fab6036eb8aed34a1afe197d15d26c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629662"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282054"
 ---
 # <a name="calendar-bot"></a>BOT de Calendário
 
@@ -36,7 +36,7 @@ Informações fornecidas pelo Contato Aprovado para a Microsoft:
 | ID | WA104381271 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Contato Aprovado |
-| URL do site do parceiro | [www.approvedcontact.com](www.approvedcontact.com) |
+| URL do site do parceiro | [https://www.approvedcontact.com](https://www.approvedcontact.com) |
 | URL da Política de Privacidade | [https://approvedcontact.com/Privacy%20Policy%20Bot.pdf](https://approvedcontact.com/Privacy%20Policy%20Bot.pdf) |
 | URL dos Termos de Uso | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 

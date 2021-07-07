@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o COCO, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a97f2af9e6cf88cf14794293a574d62b91f357e1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 5b1c7194ed42779d966c4d7d4f519374bbb78bb1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552122"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281253"
 ---
 # <a name="coco"></a>COCO
 
@@ -35,7 +35,7 @@ Informações fornecidas pela Hexaware Technologies Ltd. à Microsoft:
 | ID | WA200001468 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Hexaware Technologies Ltd. |
-| URL do site do parceiro | [https://hexaware.com/](https://hexaware.com/) |
+| URL do site do parceiro | [https://hexaware.com](https://hexaware.com) |
 | URL da Política de Privacidade | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf) |
 | URL dos Termos de Uso | [https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-...](https://hexaware.com/wp-content/uploads/2020/03/Teams_COCO-Privacy-Policy-and-Additional-Terms_V2.1.pdf#page=6) |
 
@@ -55,13 +55,13 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | delegado | Nenhum | Diretório do Access como o usuário interno | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| Directory.Read.All | aplicação | Nenhum | Ler dados do diretório | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| Directory.ReadWrite.All | delegado | Nenhum | Ler e gravar dados de diretório | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.Read | delegado | Nenhum | Entrar e ler o perfil do usuário | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.Read.All | aplicação | Nenhum | Ler os perfis completos de todos os usuários | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| User.ReadWrite.All | delegado | Nenhum | Ler e gravar os perfis completos de todos os usuários | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
->| openid | delegado | Nenhum | Conectar os usuários | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| Directory.AccessAsUser.All | delegado | Nenhuma | Diretório do Access como o usuário interno | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| Directory.Read.All | aplicação | Nenhuma | Ler dados do diretório | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| Directory.ReadWrite.All | delegado | Nenhuma | Ler e gravar dados de diretório | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| User.Read | delegado | Nenhuma | Entrar e ler o perfil do usuário | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| User.Read.All | aplicação | Nenhuma | Ler os perfis completos de todos os usuários | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| User.ReadWrite.All | delegado | Nenhuma | Ler e gravar os perfis completos de todos os usuários | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
+>| openid | delegado | Nenhuma | Conectar os usuários | 82eb2bf2-969c-46da-9e89-1db59ac4fbb3 |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

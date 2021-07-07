@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Sheetgo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cba1d32ef248cc8228a0e38e1dc953dd07f4e5ad
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9441bc0dcf4b2041b524db3715258caecfaa9aec
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548718"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281083"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -35,9 +35,9 @@ Informações fornecidas pelo SHEETGO EUROPE SL para a Microsoft:
 | ID | WA200002128 |
 | Office 365 clientes com suporte | Excel 2016 ou posterior no Mac, Excel 2016 ou posterior no Windows, Excel na Web |
 | Nome da empresa de parceiro | SHEETGO EUROPE SL |
-| URL do site do parceiro | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
-| URL da Política de Privacidade | [https://www.sheetgo.com/legal/privacy](https://www.sheetgo.com/legal/privacy) |
-| URL dos Termos de Uso | [https://www.sheetgo.com/legal/terms](https://www.sheetgo.com/legal/terms) |
+| URL do site do parceiro | [https://www.sheetgo.com/](https://www.sheetgo.com/) |
+| URL da Política de Privacidade | [https://www.sheetgo.com/legal/privacy/](https://www.sheetgo.com/legal/privacy/) |
+| URL dos Termos de Uso | [https://www.sheetgo.com/legal/terms/](https://www.sheetgo.com/legal/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

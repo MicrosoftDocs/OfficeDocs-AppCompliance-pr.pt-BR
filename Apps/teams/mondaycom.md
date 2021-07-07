@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para monday.com, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 64fc8e948618b760a3f82ee9c1ac67a32de9afb6
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1252ff537b354a1a8bc068e9c6ac6779c7af3fc4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552922"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281213"
 ---
 # <a name="mondaycom"></a>monday.com
 
@@ -36,8 +36,8 @@ Informações fornecidas pelo monday.com para a Microsoft:
 | ID | WA200001798 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | monday.com |
-| URL do site do parceiro | [https://monday.com](https://monday.com) |
-| URL da Política de Privacidade | [https://monday.com/privacy](https://monday.com/privacy) |
+| URL do site do parceiro | [https://monday.com/](https://monday.com/) |
+| URL da Política de Privacidade | [https://monday.com/terms/privacy](https://monday.com/terms/privacy) |
 | URL dos Termos de Uso | [https://monday.com/terms/tos](https://monday.com/terms/tos) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -85,7 +85,7 @@ Descrever como os administradores da organização podem controlar suas informa�
 >monday.com serviço é hospedado na infraestrutura AWS no Norte da Virgínia em várias Zonas de Disponibilidade, com um site de DR estabelecido em uma região diferente. Determinados dados de backup são armazenados em GCP (EUA, multi-região). O acesso ao serviço monday.com é controlado pelos administradores da organização do usuário e é obtido utilizando os seguintes recursos:
 - Tipos de usuários
 - Permissões no nível da conta
-- Workplaces
+- Espaços de trabalho
 - Tipos de quadro
 - Permissões no nível da placa
 - As permissões no nível de coluna monday.com suportam os seguintes métodos de autenticação:

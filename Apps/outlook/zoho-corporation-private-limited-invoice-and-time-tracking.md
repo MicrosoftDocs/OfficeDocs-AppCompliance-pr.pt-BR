@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Invoice e Time Tracking - Zoho Invoice, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0909b65a673af03aa6b190d181f1572ab84b5e77
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 0a3e8afb7be998c2fba33e7c4320956cbd990ef3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553662"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281573"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>Invoice and Time Tracking - Zoho Invoice
 
@@ -33,11 +33,11 @@ Informações fornecidas pela Zoho Corporation Private Limited à Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | Invoice and Time Tracking - Zoho Invoice |
 | ID | WA104381067 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
+| Office 365 clientes com suporte | Outlook 2013 ou posterior em Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
 | Nome da empresa de parceiro | Zoho Corporation Private Limited |
 | URL do site do parceiro | [https://www.zoho.com/](https://www.zoho.com/) |
-| URL da Política de Privacidade | [https://zoho.com/privacy.html](https://zoho.com/privacy.html) |
-| URL dos Termos de Uso | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| URL da Política de Privacidade | [https://www.zoho.com/privacy.html](https://www.zoho.com/privacy.html) |
+| URL dos Termos de Uso | [https://www.zoho.com/terms.html](https://www.zoho.com/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

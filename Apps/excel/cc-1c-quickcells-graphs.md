@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para QuickCells Graphs, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b92b95440d82639e1fbd0a126e0c10d9076a74f5
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 7db491204c22eb49eb155d29e7656c61a1721c2d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549781"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281183"
 ---
 # <a name="quickcells-graphs"></a>Gráficos QuickCells
 
@@ -35,7 +35,7 @@ Informações fornecidas pelo CC-1C à Microsoft:
 | ID | WA200001574 |
 | Office 365 clientes com suporte | Excel 2016 ou posterior no Mac, Excel 2016 ou posterior no Windows, Excel na Web |
 | Nome da empresa de parceiro | CC-1C |
-| URL do site do parceiro | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| URL do site do parceiro | [https://quickcells.co](https://quickcells.co) |
 | URL da Política de Privacidade | [https://quickcells.co/legal/privacy](https://quickcells.co/legal/privacy) |
 | URL dos Termos de Uso | [https://quickcells.co/legal/tos](https://quickcells.co/legal/tos) |
 

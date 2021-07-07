@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | Template Chooser for SharePoint, its data handling policies, its Microsoft Cloud App Security app catalog information, and security/compliance information in the CSA STAR registry.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7d114cfdc01d155897fd5ebb0c25134ff6fabeae
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4ca57d9a566a058e8af0ae2929333361eea70f90
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553472"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281493"
 ---
 # <a name="officeatwork--template-chooser-for-sharepoint"></a>officeatwork | Template Chooser for SharePoint
 
@@ -34,7 +34,7 @@ Informações fornecidas pelo officeatwork à Microsoft:
 | ID | WA200001923 |
 | Office 365 clientes com suporte | SharePoint 2016 ou posterior |
 | Nome da empresa de parceiro | officeatwork |
-| URL do site do parceiro | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| URL do site do parceiro | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | URL da Política de Privacidade | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | URL dos Termos de Uso | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

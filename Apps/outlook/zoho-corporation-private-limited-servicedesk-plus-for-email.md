@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o ServiceDesk Plus for Email, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: dc342375eba7084f5afb31b0f879e46e959fa970
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 759c59f93daa664dcc6b5b0b230a4b0fedfbf140
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553652"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282385"
 ---
 # <a name="servicedesk-plus-for-email"></a>ServiceDesk Plus para Email
 
@@ -33,11 +33,11 @@ Informações fornecidas pela Zoho Corporation Private Limited à Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | ServiceDesk Plus para Email |
 | ID | WA104381518 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
+| Office 365 clientes com suporte | Outlook 2013 ou posterior em Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
 | Nome da empresa de parceiro | Zoho Corporation Private Limited |
-| URL do site do parceiro | [https://www.zoho.com/](https://www.zoho.com/) |
+| URL do site do parceiro | [https://www.manageengine.com/products/service-desk](https://www.manageengine.com/products/service-desk) |
 | URL da Política de Privacidade | [https://www.manageengine.com/privacy.html](https://www.manageengine.com/privacy.html) |
-| URL dos Termos de Uso | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| URL dos Termos de Uso | [https://ondemand.manageengine.com/terms.html](https://ondemand.manageengine.com/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

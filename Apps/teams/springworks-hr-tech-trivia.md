@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Trivia, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fbd1b9f5f308f3690a9d55a40993ba6122e8f81b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6facd1d8622d78a616329030cef6ffa83bf3bec3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553842"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280893"
 ---
 # <a name="trivia"></a>Trivia
 
@@ -36,7 +36,7 @@ Informações fornecidas pela Springworks HR Tech para a Microsoft:
 | ID | WA200001956 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Springworks HR Tech |
-| URL do site do parceiro | [https://springworks.in/](https://springworks.in/) |
+| URL do site do parceiro | [https://www.springworks.in](https://www.springworks.in) |
 | URL da página Teams de informações do aplicativo | [https://www.springworks.in/trivia](https://www.springworks.in/trivia) |
 | URL da Política de Privacidade | [https://trivia.springworks.in/policy](https://trivia.springworks.in/policy) |
 | URL dos Termos de Uso | [https://trivia.springworks.in/tnc](https://trivia.springworks.in/tnc) |

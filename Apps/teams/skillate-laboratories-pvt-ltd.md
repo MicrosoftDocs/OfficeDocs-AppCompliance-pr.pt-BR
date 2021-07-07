@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Skillate, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 982f32da96968ac9426ef93a86741e037c0f1713
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e92d7e997ba94746820fde5daccb028fc246e255
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553872"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281043"
 ---
 # <a name="skillate"></a>Skillate
 
@@ -36,10 +36,10 @@ Informações fornecidas pelo Skillate Laboratories Pvt. Ltd. para a Microsoft:
 | ID | WA200002490 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Skillate Laboratories Pvt. Ltd. |
-| URL do site do parceiro | [https://skillate.com/](https://skillate.com/) |
+| URL do site do parceiro | [https://www.skillate.com](https://www.skillate.com) |
 | URL da página Teams de informações do aplicativo | [https://www.skillate.com/features/intelligent-hiring/](https://www.skillate.com/features/intelligent-hiring/) |
-| URL da Política de Privacidade | [https://www.skillate.com/privacy-policy](https://www.skillate.com/privacy-policy) |
-| URL dos Termos de Uso | [https://www.skillate.com/terms-and-conditions](https://www.skillate.com/terms-and-conditions) |
+| URL da Política de Privacidade | [https://www.skillate.com/privacy-policy/](https://www.skillate.com/privacy-policy/) |
+| URL dos Termos de Uso | [https://www.skillate.com/terms-and-conditions/](https://www.skillate.com/terms-and-conditions/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

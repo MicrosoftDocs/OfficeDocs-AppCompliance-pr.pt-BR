@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Beesy, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d669b1b43c7b273b3cc68ed6cfc0f24b7234a293
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e9d982e61f2afeda47bcfdab51c549346fc5fe60
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552342"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281393"
 ---
 # <a name="beesy"></a>Beesy
 
@@ -36,7 +36,7 @@ Informações fornecidas pelo BeesApps para a Microsoft:
 | ID | WA200001248 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | BeesApps |
-| URL do site do parceiro | [https://www.beesy.me/](https://www.beesy.me/) |
+| URL do site do parceiro | [https://www.beesapps.com/](https://www.beesapps.com/) |
 | URL da Política de Privacidade | [https://www.beesy.me/legal/privacypolicy_en.pdf](https://www.beesy.me/legal/privacypolicy_en.pdf) |
 | URL dos Termos de Uso | [https://www.beesy.me/legal/termsofservice_en_v1.03.pdf](https://www.beesy.me/legal/termsofservice_en_v1.03.pdf) |
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | Content Chooser for Office, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f4d95e0dcbb0a7234299f190766e85b17f6a853f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 39c7e2b45c8fa4d525d3b024533fbf63fa17b0be
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552582"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281734"
 ---
 # <a name="officeatwork--content-chooser-for-office"></a>officeatwork | O Selador de Conteúdo para Office
 
@@ -34,7 +34,7 @@ Informações fornecidas pelo officeatwork à Microsoft:
 | ID | WA104380602 |
 | Office 365 clientes com suporte | Excel no iPad, Excel 2016 ou posterior no Mac, Excel 2013 Service Pack 1 ou posterior no Windows, Excel na Web, Word no iPad, Word 2016 ou posterior no Mac, Word na Web, Word 2013 Service Pack 1 ou posterior no Windows, PowerPoint no iPad, PowerPoint 2016 ou posterior no Mac, PowerPoint na Web, PowerPoint 2013 Service Pack 1 ou posterior no Windows, OneNote na Web |
 | Nome da empresa de parceiro | officeatwork |
-| URL do site do parceiro | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| URL do site do parceiro | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | URL da Política de Privacidade | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | URL dos Termos de Uso | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

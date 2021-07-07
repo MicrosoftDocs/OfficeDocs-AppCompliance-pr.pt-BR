@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Studi.ly, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 26a89739809e0d398db2a823bd714aa06a2d210d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bc3307db955cf9f124442f08fc315c1cd8158659
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553052"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281233"
 ---
 # <a name="studily"></a>Studi.ly
 
@@ -36,9 +36,9 @@ Informações fornecidas pelo inLogic-Office Store para a Microsoft:
 | ID | WA200001668 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | inLogic-Office Store |
-| URL do site do parceiro | [https://www.studi.ly](https://www.studi.ly) |
-| URL da Política de Privacidade | [https://www.studi.ly/Studily_Privacy_Statement.pdf](https://www.studi.ly/Studily_Privacy_Statement.pdf) |
-| URL dos Termos de Uso | [https://www.studi.ly/Studily_Terms_Of_Use_v1.pdf](https://www.studi.ly/Studily_Terms_Of_Use_v1.pdf) |
+| URL do site do parceiro | [https://www.inlogic.dk](https://www.inlogic.dk) |
+| URL da Política de Privacidade | [https://studi.ly/Studily_Privacy_Statement.pdf](https://studi.ly/Studily_Privacy_Statement.pdf) |
+| URL dos Termos de Uso | [https://studi.ly/Studily_Terms_Of_Use_v1.pdf](https://studi.ly/Studily_Terms_Of_Use_v1.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

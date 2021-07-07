@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para CalendarHero, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d27858000c591c320cfadc301ea16ddf2fac89bd
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f3609c1e5884a49e4b52077295108622e10e7ff5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553302"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281994"
 ---
 # <a name="calendarhero"></a>CalendarHero
 
@@ -36,10 +36,10 @@ Informações fornecidas pelo CalendarHero Inc à Microsoft:
 | ID | WA200000150 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | CalendarHero Inc |
-| URL do site do parceiro | [https://calendarhero.com](https://calendarhero.com) |
+| URL do site do parceiro | [https://zoom.ai](https://zoom.ai) |
 | URL da página Teams de informações do aplicativo | [https://faq.zoom.ai/](https://faq.zoom.ai/) |
-| URL da Política de Privacidade | [https://calendarhero.com/privacy](https://calendarhero.com/privacy) |
-| URL dos Termos de Uso | [https://calendarhero.com/terms-of-use](https://calendarhero.com/terms-of-use) |
+| URL da Política de Privacidade | [https://zoom.ai/privacy-policy](https://zoom.ai/privacy-policy) |
+| URL dos Termos de Uso | [https://zoom.ai/terms-of-use](https://zoom.ai/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

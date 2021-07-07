@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Karma, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9da5f26e68be07cc9817c50434e214de3f3784c4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: ffdd34522178c481b84d0a5b102fab20f41ea3ed
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551631"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281033"
 ---
 # <a name="karma"></a>Karma
 
@@ -36,10 +36,10 @@ Informações fornecidas pela Sliday LTD à Microsoft:
 | ID | WA104381640 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Sliday LTD |
-| URL do site do parceiro | [https://karmabot.chat/ms](https://karmabot.chat/ms) |
+| URL do site do parceiro | [https://sliday.com](https://sliday.com) |
 | URL da página Teams de informações do aplicativo | [https://karmabot.readme.io/](https://karmabot.readme.io/) |
-| URL da Política de Privacidade | [https://karmabot.readme.io/v3.0/docs/privacy-policy-for-mic...](https://karmabot.readme.io/v3.0/docs/privacy-policy-for-microsoft-teams) |
-| URL dos Termos de Uso | [https://karmabot.readme.io/docs/karma-end-user-license-agre...](https://karmabot.readme.io/docs/karma-end-user-license-agreement-eula) |
+| URL da Política de Privacidade | [https://karmabot.readme.io/docs/privacy-policy-for-microsof...](https://karmabot.readme.io/docs/privacy-policy-for-microsoft-teams) |
+| URL dos Termos de Uso | [https://karmabot.readme.io/docs/terms-and-conditions](https://karmabot.readme.io/docs/terms-and-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

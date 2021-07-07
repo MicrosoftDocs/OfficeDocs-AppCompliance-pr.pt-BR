@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o TeamMate by ChitChattr, suas políticas de tratamento de dados, Microsoft Cloud App Security informações de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 457cfd0fc3ace631a0994fea787e515ba74e1faf
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4a01e90cbd14eefd9621e1ef93b8a992fc469efa
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552292"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281964"
 ---
 # <a name="teammate-by-chitchattr"></a>TeamMate por ChitChattr
 
@@ -36,10 +36,10 @@ Informações fornecidas por ChitChattr à Microsoft:
 | ID | WA200002530 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | ChitChattr |
-| URL do site do parceiro | [https://www.chitchattr.com?p=teammate](https://www.chitchattr.com?p=teammate) |
+| URL do site do parceiro | [https://www.chitchattr.com](https://www.chitchattr.com) |
 | URL da página Teams de informações do aplicativo | [https://www.chitchattr.com/teammate/](https://www.chitchattr.com/teammate/) |
 | URL da Política de Privacidade | [https://www.chitchattr.com/privacy?p=teammate](https://www.chitchattr.com/privacy?p=teammate) |
-| URL dos Termos de Uso | [https://www.chitchattr.com/termsofuse?p=teammate](https://www.chitchattr.com/termsofuse?p=teammate) |
+| URL dos Termos de Uso | [https://www.chitchattr.com/termsofuse](https://www.chitchattr.com/termsofuse) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

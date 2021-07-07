@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para DisasterTech DICE, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 29d53402a9bbf635e83d6d262227a8363577e261
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c9aceaf48c36012ad8c6eb062c1161746d55da6a
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552232"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281914"
 ---
 # <a name="disastertech-dice"></a>DisasterTech DICE
 
@@ -36,7 +36,7 @@ Informações fornecidas pela DisasterTech para a Microsoft:
 | ID | WA200001909 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | DisasterTech |
-| URL do site do parceiro | [https://dice.disastertech.com](https://dice.disastertech.com) |
+| URL do site do parceiro | [https://www.disastertech.com](https://www.disastertech.com) |
 | URL da Política de Privacidade | [https://dice.disastertech.com/privacy.html](https://dice.disastertech.com/privacy.html) |
 | URL dos Termos de Uso | [https://dice.disastertech.com/tos.html](https://dice.disastertech.com/tos.html) |
 
@@ -57,10 +57,10 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| User.Read | delegado | Endereço de email do usuário armazenado para estabelecer direitos de acesso, bem como o nome de usuário para identificar usuários pelo nome | Permite que o usuário entre e dê acesso ao aplicativo para seu UPN para habilitar o logon silencioso, bem como Teams logon, também para estabelecer nomes de usuário e endereços de email. | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| email | delegado | Nenhum | Obrigatório para Teams single Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| offline_access | delegado | Nenhum | Obrigatório para Teams single Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| openid | delegado | Nenhum | Obrigatório para Teams single Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| perfil | delegado | Nenhum | Obrigatório para Teams login único. | 36d23b76-c58b-4a34-a60f-dceac6962bad |
+>| email | delegado | Nenhuma | Obrigatório para Teams single Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
+>| offline_access | delegado | Nenhuma | Obrigatório para Teams single Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
+>| openid | delegado | Nenhuma | Obrigatório para Teams single Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
+>| perfil | delegado | Nenhuma | Obrigatório para Teams login único. | 36d23b76-c58b-4a34-a60f-dceac6962bad |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

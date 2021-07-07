@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o harmon.ie para Office, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bae4b6d16c862819564ddb74682b3773d53a4336
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9c04ab6e1a50167fbf489191e5845f86cb09ee00
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553622"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282365"
 ---
 # <a name="harmonie-for-office"></a>harmon.ie para Office
 
@@ -35,9 +35,9 @@ Informações fornecidas pela harmon.ie Corporation para a Microsoft:
 | ID | WA104381050 |
 | Office 365 clientes com suporte | PowerPoint 2016 ou posterior em Windows, Word 2016 ou posterior em Windows, Excel na Web, Word na Web, PowerPoint na Web, Word 2016 ou posterior no Mac, PowerPoint 2016 ou posterior no Mac |
 | Nome da empresa de parceiro | harmon.ie Corporation |
-| URL do site do parceiro | [https://harmon.ie/](https://harmon.ie/) |
+| URL do site do parceiro | [https://harmon.ie](https://harmon.ie) |
 | URL da Política de Privacidade | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
-| URL dos Termos de Uso | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474836605/Product_42949673246/Asset_37060a29-311b-4239-be49-1758aebbeb1a/harmonieEULA.pdf) |
+| URL dos Termos de Uso | [https://harmon.ie/legal/eula](https://harmon.ie/legal/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Analisador de Email da Konnect, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6341fbe817009d86dbd92256fed54c72ff89161f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1af3a75f49bf10e0185ba80a289fd05524c8130e
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552462"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282114"
 ---
 # <a name="konnect-email-parser"></a>Konnect eMail Parser
 
@@ -35,7 +35,7 @@ Informações fornecidas pela Konnect eMail para a Microsoft:
 | ID | WA200001893 |
 | Office 365 clientes com suporte | SharePoint 2016 ou posterior |
 | Nome da empresa de parceiro | Konnect eMail |
-| URL do site do parceiro | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| URL do site do parceiro | [https://www.konnectemail.com](https://www.konnectemail.com) |
 | URL da Política de Privacidade | [https://www.konnectemail.com/privacy-policy-sharepoint-pars...](https://www.konnectemail.com/privacy-policy-sharepoint-parser-app) |
 | URL dos Termos de Uso | [https://www.konnectemail.com/eula](https://www.konnectemail.com/eula) |
 
@@ -68,7 +68,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Logs mantidos por 90 dias no Azure Application Insights
+>Logs mantidos por 90 dias no aplicativo Azure Insights
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 

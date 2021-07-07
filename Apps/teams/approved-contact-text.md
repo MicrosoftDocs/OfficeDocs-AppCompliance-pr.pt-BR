@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Text, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8d9e5cfd3b082692656c7bb9a67417564cf7ab57
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: f87ac4854d4301ea194d7b906f9b417e268a9df3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629653"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281423"
 ---
 # <a name="text"></a>Texto
 
@@ -36,7 +36,7 @@ Informações fornecidas pelo Contato Aprovado para a Microsoft:
 | ID | WA200000383 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Contato Aprovado |
-| URL do site do parceiro | [www.approvedcontact.com](www.approvedcontact.com) |
+| URL do site do parceiro | [https://www.approvedcontact.com](https://www.approvedcontact.com) |
 | URL da Política de Privacidade | [https://sales.approvedcontact.com/wp-content/uploads/text-p...](https://sales.approvedcontact.com/wp-content/uploads/text-privacy-policy.pdf) |
 | URL dos Termos de Uso | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 

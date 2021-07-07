@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SurveyMonkey, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 57ba8ed84e0d9ea4101ea82ed5d92aef1f634ed1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: daf5de5437a08ca8b748157a5e136bbe7b114122
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552722"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280813"
 ---
 # <a name="surveymonkey"></a>SurveyMonkey
 
@@ -38,8 +38,8 @@ Informações fornecidas pelo SurveyMonkey à Microsoft:
 | Nome da empresa de parceiro | SurveyMonkey |
 | URL do site do parceiro | [https://www.surveymonkey.com](https://www.surveymonkey.com) |
 | URL da página Teams de informações do aplicativo | [https://help.surveymonkey.com/articles/en_US/kb/Microsoft-T...](https://help.surveymonkey.com/articles/en_US/kb/Microsoft-Teams-Integration) |
-| URL da Política de Privacidade | [https://www.surveymonkey.com/privacy](https://www.surveymonkey.com/privacy) |
-| URL dos Termos de Uso | [https://www.surveymonkey.com/mp/policy/terms-of-use/](https://www.surveymonkey.com/mp/policy/terms-of-use/) |
+| URL da Política de Privacidade | [https://www.surveymonkey.com/mp/legal/privacy-policy/](https://www.surveymonkey.com/mp/legal/privacy-policy/) |
+| URL dos Termos de Uso | [https://www.surveymonkey.com/mp/legal/terms-of-use/](https://www.surveymonkey.com/mp/legal/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

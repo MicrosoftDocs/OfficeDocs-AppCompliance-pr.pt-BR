@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Wunder365, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c4b1e022c3ed482c3020284f07a7d1f986d7cbb3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f5c07b646cd3d23d6a1fbda2c9bd5ef7b4973f32
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552512"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281713"
 ---
 # <a name="wunder365"></a>Wunder365
 
@@ -35,9 +35,9 @@ Informações fornecidas pela JiJi Technologies Private Limited à Microsoft:
 | ID | WA200000391 |
 | Office 365 clientes com suporte | Outlook 2016 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
 | Nome da empresa de parceiro | Tecnologias JiJi Private Limited |
-| URL do site do parceiro | [https://apps4.pro/](https://apps4.pro/) |
+| URL do site do parceiro | [https://www.jijitechnologies.com](https://www.jijitechnologies.com) |
 | URL da Política de Privacidade | [https://www.wunder365.com/outlook-addin-privacy-policy](https://www.wunder365.com/outlook-addin-privacy-policy) |
-| URL dos Termos de Uso | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| URL dos Termos de Uso | [https://www.wunder365.com/terms-of-service](https://www.wunder365.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -74,7 +74,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Estamos entrando no Azure Application Insights. Estamos registrando a ID do locatário e a id de email do usuário para identificar problemas e ajudar os clientes a resolver problemas.
+>Estamos entrando no aplicativo Azure Insights. Estamos registrando a ID do locatário e a id de email do usuário para identificar problemas e ajudar os clientes a resolver problemas.
 
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
