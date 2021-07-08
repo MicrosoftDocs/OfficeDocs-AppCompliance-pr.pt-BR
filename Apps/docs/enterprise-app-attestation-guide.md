@@ -6,12 +6,12 @@ description: Mais detalhes sobre o programa Publisher Atestado
 keywords: app attestation certification 365 questionnaire appSource publisher
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 5b49b6aa06dffc0df6a87cf1e9b0824806a90cc2
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: 3479395605bd7e3ecc0ab618b8030987e67d2617
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053475"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315081"
 ---
 # <a name="what-is-publisher-attestation"></a>O que Publisher atestado?
 
@@ -20,7 +20,7 @@ Publisher Atestado é a próxima camada do Programa de Conformidade Microsoft 36
 > [!IMPORTANT]
 > A Microsoft não valida as informações fornecidas. O desenvolvedor do aplicativo é o único responsável pelas informações fornecidas no atestado de publicação. 
 
-O Atestado do Editor se aplica a aplicativos que se integram a estas plataformas da Microsoft:
+Publisher O atestado se aplica aos WebApps e a todos os aplicativos que se integram às seguintes plataformas da Microsoft:
 - Teams
 - Word
 - Excel
@@ -29,7 +29,6 @@ O Atestado do Editor se aplica a aplicativos que se integram a estas plataformas
 - Microsoft Office SharePoint Online
 - Project
 - OneNote
-- Aplicativos Web
 
 ### <a name="benefits-for-it-admins"></a>Benefícios para administradores de IT
 Os benefícios de concluir o Publisher atestado para administradores de IT incluem:

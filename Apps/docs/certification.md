@@ -6,12 +6,12 @@ description: Microsoft 365 Visão geral dos detalhes da certificação
 keywords: atestado de certificação de aplicativos Microsoft 365 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 4c4f5b3ab20038eb1d21e9bf24d60d64fa6a02d9
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: e5696890f532589ae4fbec08aaf9f5be7b2e4590
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053455"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315091"
 ---
 # <a name="complete-microsoft-365-certification"></a>Concluir Microsoft 365 Certificação
 
@@ -34,6 +34,9 @@ Antes de começar o processo de certificação, você precisará ter concluído 
 1. Navegue até o Partner Center e revise sua documentação [Publisher Atestado.]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation) Se necessário, você pode editar e atualizar suas respostas; no entanto, se você fizer isso, precisará reabrir sua documentação de atestado para aprovação. Se o envio tiver mais de três meses, exigiremos que você Publisher atestado para revisão e validação. 
 1. Leia cuidadosamente o Guia Microsoft 365 de Envio de [Certificação](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide) para entender o que será necessário para você. Certifique-se de que você será capaz de atender aos requisitos [de]( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#app-certification-criteria) controle especificados no Guia de Envio Microsoft 365 Certificação.
 1. No partner center, clique em "Iniciar Certificação". Isso o levará ao seu portal de envio de documento inicial. Envie seu [envio inicial de documento.](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission) Isso nos ajudará a determinar o que está no escopo de sua avaliação com base em como seu aplicativo é projetado e lida com dados do cliente. Verifique esta página com frequência para ver se seu envio foi aceito.
+
+>[!NOTE]
+>Para todos os aplicativos do office, você pode fazer referência Office Guia do [Usuário do Aplicativos.](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) Para todos os WebApps, você pode fazer referência ao nosso [Guia de Usuário do Aplicativo SaaS.](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)
 
 ### <a name="assessment"></a>Avaliação
 1. Depois que o envio inicial do documento for aceito, o conjunto de controles de segurança necessários para seu aplicativo será exibido automaticamente no portal. Em seguida, você será obrigado a enviar evidências para cada controle demonstrando que o controle está no local. Tenha em mente que você receberá **60 dias para** enviar todas as evidências. Um analista revisará suas evidências e aprovará o controle ou solicitará evidências novas ou adicionais. Verifique esta página com frequência para ver se suas evidências foram aceitas.

@@ -6,12 +6,12 @@ description: Microsoft 365 Exibição granular do Guia de Envio de Certificaçã
 keywords: equipes de certificação de aplicativos Microsoft 365 conformidade de segurança m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1ee9ba43ffe793f38438a26365cbb8cbc05aa2f3
-ms.sourcegitcommit: d8a1524fc419a1ca33971b656197f0b6a5efe2b9
+ms.openlocfilehash: dd3a61b6b9768c278cd7d48dd88847ea9ee56421
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53125961"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315121"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 Guia de Envio de Certificação
 
@@ -48,10 +48,11 @@ Ao participar do programa de Certificação Microsoft 365, você está concordan
 Este documento destina-se a ISVs (Fornecedores de Software Independentes) para fornecer informações sobre o processo de Certificação Microsoft 365, pré-requisitos para iniciar o processo e detalhes de controles de segurança específicos que os ISVs devem ter no local.  Informações gerais do programa Microsoft 365 Conformidade de Aplicativos podem ser encontradas na página Microsoft 365 do programa de Conformidade de [Aplicativos.](https://docs.microsoft.com/microsoft-365-app-certification/overview) 
 
 > [!IMPORTANT]
-> Atualmente, a Microsoft 365 certificação é limitada:
+> Atualmente, Microsoft 365 Certificação é aplicável a todos:
 >* Microsoft Teams aplicativos (Guias, Bots etc.) .
 >* Aplicativos/Complementos do Sharepoint
 >* Office Complementos (Word, Excel, PowerPoint, Outlook, Project, OneNote)
+>* WebApps
 
 ## <a name="prerequisites"></a>Pré-requisitos
 
@@ -104,9 +105,9 @@ As solicitações de evidências em suporte à avaliação de certificação dev
 
 |Tamanho da população              | Amostra                  |
 |---------------------------- |-------------------------|
-|<5|1 |
-|>5 & <10|2 |
-|>9 & <25|3 |
+|<5|1|
+|>5 & <10|2|
+|>9 & <25|3|
 |>24|4 |
 
 > [!NOTE]
@@ -116,12 +117,29 @@ As solicitações de evidências em suporte à avaliação de certificação dev
 
 Antes de iniciar o processo de certificação, você precisará ter escompletado com êxito seu Publisher Atestado. Suas respostas de atestado serão usadas em suporte ao processo de Certificação Microsoft 365 e continuarão da seguinte forma:
 
-1.  Revise sua documentação Publisher atestado para garantir que ela ainda esteja precisa com seu ambiente atual.
-2.  Revise o guia Microsoft 365 de envio de certificação para garantir que você possa atender a todos os controles antes de iniciar.
-3.  Clique em "Iniciar Certificação" no Partner Center e envie seu Envio Inicial de Documento. Suas respostas aqui ajudarão a determinar o escopo da avaliação.
-4.  Você receberá uma listagem completa de controles para os quais você precisará fornecer evidências para sua avaliação.
-5.  Enviar evidências que demonstram que todos os controles de certificação no escopo Microsoft 365 foram atendidos em uma janela de 60 dias.
-6.  Verifique o envio com frequência para ver se você tem algum comentário ou solicitações pendentes que exigem sua atenção. Depois que as evidências foram aprovadas para todos os controles, você receberá uma certificação Microsoft 365. 
+## <a name="certification-process"></a>Processo de Certificação
+
+Antes de começar o processo de certificação, você precisará ter concluído o Publisher Atestado. Depois que o atestado do seu editor for aprovado, você receberá um email introdutório convidando você a ingressar Microsoft 365 Certificação.
+
+### <a name="preparation"></a>Preparação
+1. Navegue até o Partner Center e revise sua documentação [Publisher Atestado.]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation) Se necessário, você pode editar e atualizar suas respostas; no entanto, se você fizer isso, precisará reabrir sua documentação de atestado para aprovação. Se o envio tiver mais de três meses, exigiremos que você Publisher atestado para revisão e validação. 
+1. Leia cuidadosamente o Guia Microsoft 365 de Envio de [Certificação](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide) para entender o que será necessário para você. Certifique-se de que você será capaz de atender aos requisitos [de]( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#app-certification-criteria) controle especificados no Guia de Envio Microsoft 365 Certificação.
+1. No partner center, clique em "Iniciar Certificação". Isso o levará ao seu portal de envio de documento inicial. Envie seu [envio inicial de documento.](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission) Isso nos ajudará a determinar o que está no escopo de sua avaliação com base em como seu aplicativo é projetado e lida com dados do cliente. Verifique esta página com frequência para ver se seu envio foi aceito.
+
+>[!NOTE]
+>Para todos os aplicativos do office, você pode fazer referência Office Guia do [Usuário do Aplicativos.](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) Para todos os WebApps, você pode fazer referência ao nosso [Guia de Usuário do Aplicativo SaaS.](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)
+
+### <a name="assessment"></a>Avaliação
+1. Depois que o envio inicial do documento for aceito, o conjunto de controles de segurança necessários para seu aplicativo será exibido automaticamente no portal. Em seguida, você será obrigado a enviar evidências para cada controle demonstrando que o controle está no local. Tenha em mente que você receberá **60 dias para** enviar todas as evidências. Um analista revisará suas evidências e aprovará o controle ou solicitará evidências novas ou adicionais. Verifique esta página com frequência para ver se suas evidências foram aceitas.
+### <a name="certification"></a>Certificação
+1. Depois que seu envio tiver sido validado por um analista, você será notificado da sua decisão de certificação. Os aplicativos que receberam uma certificação receberão um selo em seu aplicativo em Páginas de documentos do **AppSource** e **da Microsoft.** Você pode ler sobre os benefícios completos da [certificação aqui](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits).
+
+## <a name="review-and-re-certification"></a>Revisão e re-certificação
+No caso de seu aplicativo sofrer [alterações](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#significant-changes) significativas a qualquer momento, você será obrigado a nos notificar.
+
+Você também será obrigado a passar pela recertificação anualmente. Isso exigirá a revalidação dos controles no escopo em relação ao seu ambiente atual. Esse processo pode começar até 90 dias antes da expiração da certificação. Sua certificação existente não expirará durante o período de re-certificação. A re-certificação em todos os programas expira no aniversário de um ano da certificação Microsoft 365.
+
+Se sua certificação não for renovada antes da data de expiração, o status de certificação de seus aplicativos será revogado. Todas as marcas de certificação, ícones e marcas de certificação associadas serão removidas do seu aplicativo e você será proibido de anunciar seu aplicativo como Microsoft 365 Certificado.
 
 
 > [!IMPORTANT]

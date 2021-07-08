@@ -6,12 +6,12 @@ description: Mais informações sobre o programa Publisher Atestado
 keywords: app attestation certification 365 questionnaire appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 4d5284beb199cc1c5a77bd6091bbc04428b545bd
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: abedb09bc280c0b643f037324178aa854f2f117f
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053425"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315101"
 ---
 # <a name="complete-publisher-attestation"></a>Concluir Publisher Atestado
 
@@ -19,6 +19,16 @@ Publisher Atestado é um programa voluntário em que você conclui uma autoavali
 
 > [!IMPORTANT]
 > A Microsoft não valida as informações fornecidas. O desenvolvedor é o único responsável pelas informações fornecidas na autoavaliação. 
+
+**Publisher O atestado se aplica aos WebApps e a todos os aplicativos que se integram aos seguintes produtos Microsoft:**
+- Teams
+- Word
+- Excel
+- PowerPoint 
+- Outlook
+- Microsoft Office SharePoint Online
+- Project
+- OneNote
 
 
 ## <a name="program-benefits"></a>Benefícios do Programa
@@ -28,17 +38,7 @@ Publisher Atestado é um programa voluntário em que você conclui uma autoavali
 - Diferenciação de outros aplicativos na loja. 
 - Vincule à página documentos da sua entrada no AppSource, no Centro de Administração Teams e no Centro de Administração da Microsoft. 
 - Qualificação para iniciar a Microsoft 365 Certificação.
-
-## <a name="publisher-attestation-applies-to-apps-that-integrate-with"></a>Publisher Atestado se aplica a aplicativos que se integram a:
-- Teams
-- Word
-- Excel
-- PowerPoint 
-- Outlook
-- Microsoft Office SharePoint Online
-- Project
-- OneNote
-- Aplicativos Web
+ 
 
 ## <a name="publisher-attestation-process"></a>Publisher Processo de atestado
 

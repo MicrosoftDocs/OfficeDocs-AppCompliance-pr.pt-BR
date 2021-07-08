@@ -6,19 +6,19 @@ description: Microsoft 365 Detalhes da certificação
 keywords: app attestation microsoft 365 certification 365 questionnaire appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: a8abea4e9670f22583b8a7c718b3dec9883b9adb
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: 4322695ea694e30d42925e8316c848b867394f3b
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053465"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315071"
 ---
 # <a name="what-is-microsoft-365-certification"></a>O que é Microsoft 365 Certificação?
 
 Microsoft 365 A certificação oferece garantias de que os dados e a privacidade são adequadamente protegidos e protegidos quando você usa um aplicativo de terceiros. A certificação confirma que um aplicativo está em conformidade com os critérios descritos no guia de envio [Microsoft 365 certificação.](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide) Os aplicativos que passam na validação serão designados Microsoft 365 Certificado.
 A certificação de aplicativo é alcançada por meio da revisão e aprovação de um analista qualificado de um centro de avaliação abrangente em estruturas, processos e procedimentos de segurança e conformidade de um aplicativo. Embora a participação seja opcional, receber uma certificação é uma maneira inabalável de sinalizar que seu aplicativo e procedimentos operacionais passaram por uma revisão de segurança intensa.
 
-Microsoft 365 A certificação se aplica aos WebApps e a todos os aplicativos que se integram aos seguintes produtos:
+Microsoft 365 A certificação se aplica aos WebApps e a todos os aplicativos que se integram aos seguintes produtos microsoft:
 - Teams
 - Word
 - Excel
