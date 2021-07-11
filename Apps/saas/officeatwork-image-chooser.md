@@ -1,26 +1,27 @@
 ---
-title: Informações do aplicativo para o officeatwork | Escolher conteúdo para Outlook officeatwork
+title: Informações do aplicativo para o Selador de Imagem por officeatwork
 ms.author: elmalova
 author: elenamalova
 ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
-description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | O Escolhidor de Conteúdo para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+certification_type: attested
+description: Todas as informações de segurança e conformidade disponíveis para o Image Chooser, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e4218aa4ef1cf61734b1234859e1203493b6e3b8
-ms.sourcegitcommit: 758b31a15dcb9224b8a3b6f367d501438c6e422c
+ms.openlocfilehash: f5de723dfa038a621d06771b0bf4b329821eca97
+ms.sourcegitcommit: 5cd33d38cc7376b28458ee47ebc2c2710ce7f113
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2021
-ms.locfileid: "53366133"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53339803"
 ---
-# <a name="officeatwork--content-chooser-for-outlook"></a>officeatwork | O Selador de Conteúdo para Outlook
+# <a name="image-chooser"></a>Selador de imagem
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 23 de junho de 2021</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380690" target="_blank">Exibir no AppSource</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/officeatwork-ag.image-chooser" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
@@ -30,12 +31,11 @@ Informações fornecidas pelo officeatwork à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | officeatwork - Content Chooser for Outlook |
-| ID | WA104380690 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior em Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
+| Nome do aplicativo | Selador de imagem |
+| ID | officeatwork-ag.image-chooser |
 | Nome da empresa de parceiro | officeatwork |
 | URL do site do parceiro | [https://www.officeatwork.com](https://www.officeatwork.com) |
-| URL da Política de Privacidade | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
+| URL da Política de Privacidade | [https://www.officeatwork.com/privacy-policy.html](https://www.officeatwork.com/privacy-policy.html) |
 | URL dos Termos de Uso | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -54,16 +54,16 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | delegado | Nenhum dado é armazenado. | Favoritos: para poder ler e gravar dados para os usuários OneDrive. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| Files.ReadWrite.All | delegado | Nenhum dado é armazenado. | OneDrive: para poder ler e gravar dados para os usuários OneDrive. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| Group.ReadWrite.All | delegado | Nenhum dado é armazenado. | Teams: para poder ler e gravar dados em um Grupo. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| GroupMember.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online - Os grupos de segurança suportam: permitir que o aplicativo liste grupos, leia as propriedades básicas do grupo e leia as associações de todos os grupos aos que o usuário associado tem acesso | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| Sites.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online: para habilitar a leitura de dados SharePoint Online. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| User.Read | delegado | Nenhum dado é armazenado. | Sing-In: para habilitar o aplicativo officeatwork para ler as propriedades básicas do usuário. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| User.Read.All | delegado | Nenhum dado é armazenado. | Teams: para descobrir a que grupos um usuário pertence. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| offline_access | delegado | Nenhum dado é armazenado. | Sing-In: para habilitar a logona automática por meio de tokens de atualização, como sem, os usuários teriam que entrar manualmente sempre que iniciarem o aplicativo officeatwork. Esse escopo só é necessário para aplicativos host não habilitados para SSO. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| openid | delegado | Nenhum dado é armazenado. | Sing-In: para permitir que os usuários entre no aplicativo do officeatwork com sua conta organizacional e/ou da Microsoft. | edb24f8f-38af-4b3e-9475-0da243678d5a |
->| perfil | delegado | Nenhum dado é armazenado. | Sing-In: para mostrar o usuário de assinatura no aplicativo officeatwork. Isso ajuda a garantir/confirmar ao usuário qual conta foi usada para entrar no aplicativo officeatwork. | edb24f8f-38af-4b3e-9475-0da243678d5a |
+>| Files.ReadWrite.All | delegado | Nenhum dado é armazenado. | Favoritos: para poder ler e gravar dados para os usuários OneDrive. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| Files.ReadWrite.All | delegado | Nenhum dado é armazenado. | OneDrive: para poder ler e gravar dados para os usuários OneDrive. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| Group.ReadWrite.All | delegado | Nenhum dado é armazenado. | Teams: para poder ler e gravar dados em um Grupo. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| GroupMember.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online - Os grupos de segurança suportam: permitir que o aplicativo liste grupos, leia as propriedades básicas do grupo e leia as associações de todos os grupos aos que o usuário associado tem acesso | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| Sites.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online: para habilitar a leitura de dados SharePoint Online. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| User.Read | delegado | Nenhum dado é armazenado. | Sing-In: para habilitar o aplicativo officeatwork para ler as propriedades básicas do usuário. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| User.Read.All | delegado | Nenhum dado é armazenado. | Teams: para descobrir a que grupos um usuário pertence. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| offline_access | delegado | Nenhum dado é armazenado. | Sing-In: para habilitar a logona automática por meio de tokens de atualização, como sem, os usuários teriam que entrar manualmente sempre que iniciarem o aplicativo officeatwork. Esse escopo só é necessário para aplicativos host não habilitados para SSO. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| openid | delegado | Nenhum dado é armazenado. | Sing-In: para permitir que os usuários entre no aplicativo do officeatwork com sua conta organizacional e/ou da Microsoft. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| perfil | delegado | Nenhum dado é armazenado. | Sing-In: para mostrar o usuário de assinatura no aplicativo officeatwork. Isso ajuda a garantir/confirmar ao usuário qual conta foi usada para entrar no aplicativo officeatwork. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
@@ -107,9 +107,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35751' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/40833' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35751" target="_blank">Exibir em uma nova guia</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/40833" target="_blank">Exibir em uma nova guia</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

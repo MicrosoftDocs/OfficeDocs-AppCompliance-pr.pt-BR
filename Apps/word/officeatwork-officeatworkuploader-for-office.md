@@ -2,23 +2,23 @@
 title: Informações do aplicativo para o officeatwork | Uploader for Office by officeatwork
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2020
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | Uploader for Office, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 872034760bea88cfe6e8b75b02d19819a6686b46
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d1cc1e1d9f8f03f9f8274bdfed9214e8a0ec190f
+ms.sourcegitcommit: 758b31a15dcb9224b8a3b6f367d501438c6e422c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283445"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53366173"
 ---
 # <a name="officeatwork--uploader-for-office"></a>officeatwork | Uploader for Office
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Última atualização pelo desenvolvedor em: 8 de dezembro de 2020</p>
+<p>Última atualização pelo desenvolvedor em: 23 de junho de 2021</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381430" target="_blank">Exibir no AppSource</a>
 

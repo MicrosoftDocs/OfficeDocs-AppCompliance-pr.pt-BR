@@ -7,12 +7,12 @@ keywords: microsoft 365 aplicativo m365 certificação do Atestado do Editor
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: fd06ecd028876a862fa3938253817fae3ff0fea0
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: c644414281f46696ff49f3b9eb1341f02e96f0ba
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053435"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315111"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Programa de Conformidade de Aplicativos do Microsoft 365
 
@@ -36,7 +36,7 @@ A Verificação do Editor se aplica aos aplicativos que atendem às seguintes co
 
 O [Atestado de Editor](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) é onde os desenvolvedores compartilham informações gerais, de gerenciamento de dados e de segurança e conformidade sobre os serviços do aplicativo. Isso reduz a necessidade dos administradores de TI trabalharem diretamente com os editores de aplicativos. Todas as informações necessárias para tomar uma decisão informada podem ser encontradas sobre todos os aplicativos que concluíram o teste do editor em um único lugar e em um formato consistente. O objetivo é facilitar e acelerar o processo de adoção de aplicativos, garantindo aos clientes que os aplicativos usados nos seus locatários atendem aos seus padrões organizacionais.
 
-O Atestado do Editor se aplica a aplicativos que se integram a estas plataformas da Microsoft:
+O Atestado do Publisher aplica-se ao WebApps e a todos os aplicativos que se integram com os seguintes produtos da Microsoft:
 -   Teams
 -   Word
 -   Excel
@@ -45,7 +45,6 @@ O Atestado do Editor se aplica a aplicativos que se integram a estas plataformas
 - Microsoft Office SharePoint Online
 - Project
 - OneNote
-- Aplicativos Web
 
 > [!IMPORTANT]
 > A Microsoft não valida as informações fornecidas. O desenvolvedor afirma exclusivamente a veracidade, a precisão e a integridade da documentação de atestado e dos dados de desempenho do aplicativo correspondentes. 
