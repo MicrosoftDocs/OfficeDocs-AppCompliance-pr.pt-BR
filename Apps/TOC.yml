@@ -43,6 +43,8 @@
           href: excel/iglobe-office2sharepoint-for-office.md
         - name: officeatwork | O Selador de Conteúdo para Office
           href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork | Image Chooser for Office
+          href: excel/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork | Template Chooser for Office
           href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: Gráficos QuickCells
@@ -60,6 +62,8 @@
       items:
         - name: officeatwork | O Selador de Conteúdo para Office
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork | Image Chooser for Office
+          href: onenote/officeatwork-officeatworkimage-chooser-for-office.md
         - name: Wunder365 para Office
           href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
     - name: Microsoft Outlook Apps
@@ -126,6 +130,8 @@
           href: powerpoint/iglobe-office2sharepoint-for-office.md
         - name: officeatwork | O Selador de Conteúdo para Office
           href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork | Image Chooser for Office
+          href: powerpoint/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork | Slide Chooser for Office
           href: powerpoint/officeatwork-officeatworkslide-chooser-for-office.md
         - name: officeatwork | Template Chooser for Office
@@ -616,6 +622,8 @@
           href: word/officeatwork-officeatworkcontent-chooser-for-office.md
         - name: officeatwork | Designer para Office
           href: word/officeatwork-officeatworkdesigner-for-office.md
+        - name: officeatwork | Image Chooser for Office
+          href: word/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork | Template Chooser for Office
           href: word/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: officeatwork | Uploader for Office
@@ -653,6 +661,8 @@
           href: saas/appfluence-inc-priority-matrix.md
         - name: SalesTim
           href: saas/salestim.md
+        - name: Selador de slides
+          href: saas/officeatwork-slide-chooser.md
         - name: Template Chooser
           href: saas/officeatwork-template-chooser.md
         - name: Navegador do Selador de Modelo
