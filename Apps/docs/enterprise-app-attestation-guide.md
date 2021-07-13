@@ -6,19 +6,19 @@ description: Mais detalhes sobre o programa Publisher Atestado
 keywords: app attestation certification 365 questionnaire appSource publisher
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 3479395605bd7e3ecc0ab618b8030987e67d2617
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: d91c11b53f1f807fbb4335918586a7748f14bf91
+ms.sourcegitcommit: a475d48e9538faa7ed682c11829c2e45ba675af6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315081"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53383724"
 ---
 # <a name="what-is-publisher-attestation"></a>O que Publisher atestado?
 
 Publisher Atestado é a próxima camada do Programa de Conformidade Microsoft 365 Aplicativos. O desenvolvedor de aplicativos é solicitado a concluir uma autoavaliação que inclui perguntas frequentes feitas por clientes ou administradores de IT quando eles estão avaliando a segurança e a conformidade de um aplicativo. Em seguida, a Microsoft publica essas informações para uma avaliação mais fácil e em tempo há tempo.
 
 > [!IMPORTANT]
-> A Microsoft não valida as informações fornecidas. O desenvolvedor do aplicativo é o único responsável pelas informações fornecidas no atestado de publicação. 
+> A Microsoft não valida todas as informações fornecidas. O desenvolvedor de aplicativos é o único responsável pelas informações fornecidas no atestado do editor. 
 
 Publisher O atestado se aplica aos WebApps e a todos os aplicativos que se integram às seguintes plataformas da Microsoft:
 - Teams
