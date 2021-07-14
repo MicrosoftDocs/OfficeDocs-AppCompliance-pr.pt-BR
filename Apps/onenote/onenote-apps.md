@@ -1,20 +1,20 @@
 ---
-title: Microsoft OneNote Segurança e Conformidade do Aplicativo - Todos os Aplicativos
+title: Microsoft OneNote Segurança e Conformidade de Aplicativos - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/14/2021
 ms.topic: article
 ms.service: attestation
-description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft OneNote aplicativos.
+description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft OneNote Apps.
 localization_priority: Normal
-ms.openlocfilehash: 0303adc7cf8b30f5e0445f2e1ce4592beb777d77
-ms.sourcegitcommit: 3583fc1d7037a9a9d9d463913e34ffbbd65042f1
+ms.openlocfilehash: 9403718e45505b241bdd890d379323cb3827999a
+ms.sourcegitcommit: 0098942ce316ab984e09fd9d2063cbc516c8bfb5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53341147"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "53422712"
 ---
-# <a name="microsoft-onenote-app-security-and-compliance"></a>Microsoft OneNote Segurança e Conformidade do Aplicativo
+# <a name="microsoft-onenote-apps-security-and-compliance"></a>Microsoft OneNote Segurança e conformidade de aplicativos
 
 A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para fornecer as informações que as organizações precisam para acelerar e informar as decisões sobre Microsoft OneNote aplicativos e complementos que usam. As informações são complementadas com informações do catálogo de aplicativos do [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) e informações fornecidas pelos desenvolvedores quando eles enviam seus aplicativos. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
 
