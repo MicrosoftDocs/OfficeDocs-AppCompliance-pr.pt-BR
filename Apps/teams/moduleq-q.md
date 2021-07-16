@@ -2,24 +2,24 @@
 title: Informações do aplicativo para Q por ModuleQ
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/17/2020
+ms.date: 07/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Q, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2bdf876ddb9ab17d9fa8616edda8b849e0d85df7
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 3444110a1d98a1a9a1157c21e76774373782b8c2
+ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281744"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53456579"
 ---
 # <a name="q"></a>I
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 17 de março de 2020</p>
+<p>Última atualização pelo desenvolvedor em: 8 de julho de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/72bb25c7-3644-4318-8249-a08e5493a520" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381433" target="_blank">Exibir no AppSource</a>
@@ -37,7 +37,8 @@ Informações fornecidas pelo ModuleQ à Microsoft:
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | ModuleQ |
 | URL do site do parceiro | [https://moduleq.com](https://moduleq.com) |
-| URL da Política de Privacidade | [https://moduleq.com/privacy-policy](https://moduleq.com/privacy-policy) |
+| URL da página Teams de informações do aplicativo | [https://moduleq.com/product](https://moduleq.com/product) |
+| URL da Política de Privacidade | [https://moduleq.com/privacy-policy/](https://moduleq.com/privacy-policy/) |
 | URL dos Termos de Uso | [https://moduleq.com/terms-of-service](https://moduleq.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -57,10 +58,10 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.Read | aplicação | armazena dados de reunião, exceto o corpo da mensagem e quaisquer anexos | Permite que o aplicativo leia os eventos de calendário de um usuário para entender de forma inteligente as prioridades comerciais do usuário. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| Group.Read.All | delegado | Nenhuma | Permite que o aplicativo interaja em uma equipe para compartilhar conteúdo. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
+>| Group.Read.All | delegado | Nenhum | Permite que o aplicativo interaja em uma equipe para compartilhar conteúdo. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
 >| Mail.Read | aplicação | armazena dados de email, exceto o corpo da mensagem e quaisquer anexos | Permite que o aplicativo leia o email de um usuário para entender de forma inteligente as prioridades comerciais do usuário | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
 >| User.Read | delegado | tokens de autenticação e email do usuário | Permite que o usuário entre e vincule sua conta Office 365 com sua conta ModuleQ | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| User.Read.All | delegado | Nenhuma | Permita que o aplicativo receba a lista de Teams que o usuário faz parte. Usado apenas para compartilhamento  | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
+>| User.Read.All | delegado | Nenhum | Permita que o aplicativo receba a lista de Teams que o usuário faz parte. Usado apenas para compartilhamento  | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -110,3 +111,29 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Informações de identidade
+
+Essas informações foram fornecidas pelo ModuleQ sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
+| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
+| Seu aplicativo dá suporte a multi-enancy? | Sim |
+| Seu aplicativo tem um cliente confidencial? | Não |
+| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/><br/> |
+| Seu aplicativo expõe alguma APIs da Web? | Sim |
+| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Seu aplicativo usa APIs de visualização? | Não |
+| Seu aplicativo usa APIs preteridas? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

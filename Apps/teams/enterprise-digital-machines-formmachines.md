@@ -2,24 +2,24 @@
 title: Informações do aplicativo para FormMachines por Enterprise Digital Machines
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 07/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para FormMachines, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: dbd881d2f718a0445aa6ffe4ef651ad017e68fd3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 36ee73c86e0ccb1d8943cbe04da24319789b31c7
+ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552192"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53456582"
 ---
 # <a name="formmachines"></a>FormMachines
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 3 de novembro de 2020</p>
+<p>Última atualização pelo desenvolvedor em: 5 de julho de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/54d8b826-3e30-4589-a77a-ed99cfbbb4c9" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001217" target="_blank">Exibir no AppSource</a>
@@ -37,8 +37,9 @@ Informações fornecidas por Enterprise Digital Machines para a Microsoft:
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Enterprise Digital Machines |
 | URL do site do parceiro | [https://www.formmachines.com](https://www.formmachines.com) |
-| URL da Política de Privacidade | [https://www.formmachines.com?dirKey=fm-privacy](https://www.formmachines.com?dirKey=fm-privacy) |
-| URL dos Termos de Uso | [https://www.formmachines.com?dirKey=fm-terms-of-use](https://www.formmachines.com?dirKey=fm-terms-of-use) |
+| URL da página Teams de informações do aplicativo | [https://www.FormMachines.com](https://www.FormMachines.com) |
+| URL da Política de Privacidade | [https://www.formmachines.com/dist/docs#/statements_and_agre...](https://www.formmachines.com/dist/docs#/statements_and_agreements/privacy) |
+| URL dos Termos de Uso | [https://www.formmachines.com/dist/docs#/statements_and_agre...](https://www.formmachines.com/dist/docs#/statements_and_agreements/terms_of_service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,9 +55,7 @@ Essas informações foram fornecidas pelo Enterprise Digital Machines sobre como
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado | (logon, email, Guid do Azure, displayName, first_login_date_time) | permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso, nos permite identificar cada usuário com exclusividade | 8c87660f-d36f-41f6-b0ae-025253f380aa |
+>Este aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -76,13 +75,13 @@ Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá ac
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->. Somente registramos erros . Em nosso log de erros, registramos apenas informações relacionadas a erros. Qual cliente ou cliente disparou um erro específico não é coletado . Somente os engenheiros de suporte têm acesso a logs de erro. Os logs de erro são exibidos online, não baixados e exibidos. Logs de erro são excluídos automaticamente após 30 dias
+>Em nosso log de erros, geralmente apenas registramos informações relacionadas ao erro em si. No entanto, para ajudar um determinado cliente, podemos identificar o domínio relacionado, mas não o próprio cliente. Os logs de erro são exibidos online, não baixados e exibidos. Os logs de erro são excluídos automaticamente após 90 dias.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->. Os dados são armazenados em data centers baseados no Azure US. Dados fornecidos pelo cliente, como modelos e envios, são criptografados no DB . Os anexos de arquivo são armazenados em contêineres BLOB privados do Azure, os usuários devem autenticar antes de acessá-los. Temos no máximo dois administradores que podem acessar nossos ativos de produção para solução de problemas e implantação. Essas duas contas de administrador são particionadas de forma diferente para todas as outras contas. O número de acesso de administrador nunca excederá dois
+>Os dados são armazenados em data centers baseados no Azure US. Dados fornecidos pelo cliente, como modelos e envios, são criptografados no DB/BLOB. Os anexos de arquivo são armazenados em contêineres blob privados do Azure, os usuários devem se autenticar antes de acessá-los. Temos no máximo dois administradores que podem acessar nossos ativos de produção para solução de problemas e implantação. Essas duas contas de administrador são particionadas de forma diferente para todas as outras contas. O número de acesso de administrador não excederá dois. 
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -106,3 +105,29 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Informações de identidade
+
+Essas informações foram fornecidas por Enterprise Digital Machines sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
+| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
+| Seu aplicativo dá suporte a multi-enancy? | Sim |
+| Seu aplicativo tem um cliente confidencial? | Não |
+| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Seu aplicativo expõe alguma APIs da Web? | Sim |
+| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Seu aplicativo usa APIs de visualização? | Não |
+| Seu aplicativo usa APIs preteridas? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
