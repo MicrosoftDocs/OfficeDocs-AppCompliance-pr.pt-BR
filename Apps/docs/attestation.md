@@ -6,12 +6,12 @@ description: Mais informações sobre o programa Publisher Atestado
 keywords: app attestation certification 365 questionnaire appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: abedb09bc280c0b643f037324178aa854f2f117f
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: 1d3652bb2f0eab3f1f533ce4acf3d13104843eea
+ms.sourcegitcommit: 98b9f17063c7ada0890b37af405990ad5eedd0b9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315101"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53466021"
 ---
 # <a name="complete-publisher-attestation"></a>Concluir Publisher Atestado
 
@@ -20,7 +20,7 @@ Publisher Atestado é um programa voluntário em que você conclui uma autoavali
 > [!IMPORTANT]
 > A Microsoft não valida as informações fornecidas. O desenvolvedor é o único responsável pelas informações fornecidas na autoavaliação. 
 
-**Publisher O atestado se aplica aos WebApps e a todos os aplicativos que se integram aos seguintes produtos Microsoft:**
+**Publisher O atestado se aplica aos Aplicativos Web (aplicativos SaaS publicados por meio do marketplace comercial no Partner Center) e a todos os aplicativos que se integram aos seguintes produtos Microsoft:**
 - Teams
 - Word
 - Excel
@@ -36,13 +36,13 @@ Publisher Atestado é um programa voluntário em que você conclui uma autoavali
 - Acelerando a linha do tempo de revisão interna de segurança e conformidade de uma organização empresarial.
 - Maior transparência.
 - Diferenciação de outros aplicativos na loja. 
-- Vincule à página documentos da sua entrada no AppSource, no Centro de Administração Teams e no Centro de Administração da Microsoft. 
+- Vincule à página documentos da sua entrada no AppSource, no Centro de Administração Teams, no Centro de Administração da Microsoft e no Teams Store. 
 - Qualificação para iniciar a Microsoft 365 Certificação.
  
 
 ## <a name="publisher-attestation-process"></a>Publisher Processo de atestado
 
-1. **Participar —** o Publisher atestado agora está integrado no Partner Center. Você pode concluir o atestado em um questionário amigável, tudo no Partner Center. Consulte nosso guia [de usuário](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) para o processo passo a passo.
+1. **Participar —** o Publisher atestado agora está integrado no [Partner Center](https://partner.microsoft.com). Você pode concluir o atestado em um questionário amigável, tudo no Partner Center. Consulte nossos guias de usuário [da Office Store](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) e do [Marketplace](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide) Comercial para o processo passo a passo.
 
 2. **Aguarde comentários e** resultados da análise — Durante a revisão de verificação de consistência, se os analistas encontrarem problemas de bloqueio, como dados de resposta inadequados, você será contatado para obter mais informações. Os analistas manterão um log de atividades do aplicativo detalhando os resultados da revisão e seus envios de acompanhamento em todo o processo. Depois que tiver sido determinado que seu relatório de atestado está concluído e suas respostas são aceitáveis, seu envio será aprovado. Seu status de aprovação será válido por um ano a partir do momento do envio.
 
