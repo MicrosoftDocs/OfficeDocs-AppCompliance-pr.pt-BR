@@ -1096,11 +1096,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/elearningforce.lms365_spfx.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/elearningforce-international-aps-lms365",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104381467.md",
       "redirect_url": "/microsoft-365-app-certification/teams/elearningforce-international-lms365",
       "redirect_document_id": false
@@ -1108,6 +1103,11 @@
     {
       "source_path": "Apps/forward/d136f17e-df84-47f2-97a4-13aa24c0c647.md",
       "redirect_url": "/microsoft-365-app-certification/teams/elearningforce-international-lms365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/elearningforce.lms365_spfx.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/elearningforce-international-aps-lms365",
       "redirect_document_id": false
     },
     {
@@ -1328,6 +1328,16 @@
     {
       "source_path": "Apps/forward/f1a2add5-d007-4062-a10a-60f4ea29fdbc.md",
       "redirect_url": "/microsoft-365-app-certification/teams/kl-software-technologies-netdocshare",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002968.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/64d24486-30aa-4fae-8bdc-2680a85dcbb5.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
       "redirect_document_id": false
     },
     {
@@ -2271,11 +2281,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200000110.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officeatwork-template-chooser",
       "redirect_document_id": false
@@ -2283,6 +2288,11 @@
     {
       "source_path": "Apps/forward/13d1defc-6301-4e62-9c53-3361db865183.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officeatwork-template-chooser",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
       "redirect_document_id": false
     },
     {
@@ -2466,6 +2476,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200000391.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/jiji-technologies-private-limited-wunder365",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200000742.md",
       "redirect_url": "/microsoft-365-app-certification/teams/jiji-technologies-pvt-ltd-wunder365",
       "redirect_document_id": false
@@ -2473,11 +2488,6 @@
     {
       "source_path": "Apps/forward/7e8f9ad5-07d9-4259-8713-d316f451cbf3.md",
       "redirect_url": "/microsoft-365-app-certification/teams/jiji-technologies-pvt-ltd-wunder365",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200000391.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/jiji-technologies-private-limited-wunder365",
       "redirect_document_id": false
     },
     {
