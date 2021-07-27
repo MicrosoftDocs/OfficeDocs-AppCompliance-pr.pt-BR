@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o BrainBot, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2b2d399cc59b9df98708a41720514a6ecb2d6dea
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: aa9379b91d921edeb6c6a85a0756ba2017bd5fbb
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282004"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522067"
 ---
 # <a name="brainbot"></a>BrainBot
 
@@ -55,9 +55,9 @@ Essas informações foram fornecidas por Biggerbrains sobre como esse aplicativo
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | aplicação | Usamos nomes completos &amp; de endereços de email como parte do processo de autenticação. Além disso, os endereços de email são usados para enviar sequências de aprendizado para o usuário quando ele se inscreve em um | Usamos nomes completos &amp; de endereços de email como parte do processo de autenticação. Além disso, os endereços de email são usados para enviar sequências de aprendizado para o usuário quando ele se inscreve em um | b256b34a-b377-4fc2-b25a-a8f5f0594e86 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | aplicação | Usamos nomes completos &amp; de endereços de email como parte do processo de autenticação. Além disso, os endereços de email são usados para enviar sequências de aprendizado para o usuário quando ele se inscreve em um | Usamos nomes completos &amp; de endereços de email como parte do processo de autenticação. Além disso, os endereços de email são usados para enviar sequências de aprendizado para o usuário quando ele se inscreve em um | [b256b34a-b377-4fc2-b25a-a8f5f0594e86](https://docs.microsoft.com/microsoft-365-app-certification/azure/b256b34a-b377-4fc2-b25a-a8f5f0594e86) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -71,7 +71,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Usamos nomes completos &amp; de endereços de email como parte do processo de autenticação. Além disso, os endereços de email são usados para enviar sequências de aprendizado para o usuário quando ele se inscreve em um | Endereços de email &amp; com nomes completos | Eles são usados para fins de logon e como parte da funcionalidade do aplicativo para enviar sequências de aprendizado ao usuário quando ele se inscreveu em uma |
 
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para AVA, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c55d372c0249302da425ea5b2483aba88f1a2e42
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 462181d4ba98d11e5aeae15a4827c6138bc80924
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281403"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522064"
 ---
 # <a name="ava"></a>AVA
 
@@ -55,19 +55,19 @@ Essas informações foram fornecidas pelo AvePoint, Inc. sobre como esse aplicat
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Mail.ReadWrite.Shared | delegado | Nenhuma | Pesquisar emails do usuário e mover o email para a pasta especificada | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
->| User.Read | delegado |  Token de acesso do usuário - usado para pesquisar e restaurar dados do usuário | Permite que o usuário entre e dê o token de acesso ao aplicativo | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
->| User.ReadWrite | delegado | DisplayName, UserPrincipalName, JobTitle, Organization, Country, MySiteUrl - grave as informações básicas do usuário que usou o aplicativo | Obter informações básicas de perfil do usuário | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Mail.ReadWrite.Shared | delegado | Nenhum | Pesquisar emails do usuário e mover o email para a pasta especificada | [6f30434d-3cfa-4cf8-9810-6fcf79ae750a](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f30434d-3cfa-4cf8-9810-6fcf79ae750a) |
+>| User.Read | delegado |  Token de acesso do usuário - usado para pesquisar e restaurar dados do usuário | Permite que o usuário entre e dê o token de acesso ao aplicativo | [6f30434d-3cfa-4cf8-9810-6fcf79ae750a](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f30434d-3cfa-4cf8-9810-6fcf79ae750a) |
+>| User.ReadWrite | delegado | DisplayName, UserPrincipalName, JobTitle, Organization, Country, MySiteUrl - grave as informações básicas do usuário que usou o aplicativo | Obter informações básicas de perfil do usuário | [6f30434d-3cfa-4cf8-9810-6fcf79ae750a](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f30434d-3cfa-4cf8-9810-6fcf79ae750a) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
 Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| APIs REST do SharePoint | Sim | Pesquisar arquivo na reciclagem do site pessoal do usuário e restaurar esses arquivos. Requer permissão AllSites.Manage. |  | Nenhuma |  |
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
+>| APIs REST do SharePoint | Sim | Pesquisar arquivo na reciclagem do site pessoal do usuário e restaurar esses arquivos. Requer permissão AllSites.Manage. |  | Nenhum |  |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para 365Projects, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 07ef4c5e5e71ee8034c75869b97d5c8924f502fd
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: aad8e35ad1e02212c23ef2a892412ba3c0ce1312
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281483"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522184"
 ---
 # <a name="365projects"></a>365Projects
 
@@ -55,15 +55,15 @@ Essas informações foram fornecidas pelo 365Apps sobre como esse aplicativo col
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Channel.ReadBasic.All | delegado | canais dentro da equipe para vincular o projeto com o canal | canais dentro da equipe para vincular o projeto com o canal | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
->| Group.Read.All | delegado | obter tarefas do planejador/planejador de equipe, será melhor se outro escopo de privilégios mínimos permitir que o aplicativo receba tarefas de planos e planos do usuário, mas infelizmente não há escopos que permitam isso | não armazenar no DB | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
->| Group.ReadWrite.All | aplicação | Criar Teams  | não armazenado no DB | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
->| People.Read | delegado | nome do usuário, para adicioná-los como membros da equipe ou atribuir tarefas a eles | o Guid do usuário é armazenado na atribuição da tarefa | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
->| Team.ReadBasic.All | delegado | Nomes de equipe ingressados, para vincular o projeto ao Teams Channel | O Guid da Equipe é armazenado nos metadados do projeto para estabelecer o link | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
->| User.Read | delegado | obter informações do usuário para mostrar no header  | o email do usuário é armazenado como proprietário quando o locatário é provisionado pela primeira vez | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
->| User.Read.All | delegado | ler usuários para atualizar a atribuição de tarefas | Somente o Guid do usuário é armazenado nenhuma informação pessoal identificada é armazenada no DB | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | delegado | canais dentro da equipe para vincular o projeto com o canal | canais dentro da equipe para vincular o projeto com o canal | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| Group.Read.All | delegado | obter tarefas do planejador/planejador de equipe, será melhor se outro escopo de privilégios mínimos permitir que o aplicativo receba tarefas de planos e planos do usuário, mas infelizmente não há escopos que permitam isso | não armazenar no DB | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| Group.ReadWrite.All | aplicação | Criar Teams  | não armazenado no DB | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| People.Read | delegado | nome do usuário, para adicioná-los como membros da equipe ou atribuir tarefas a eles | o Guid do usuário é armazenado na atribuição da tarefa | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| Team.ReadBasic.All | delegado | Nomes de equipe ingressados, para vincular o projeto ao Teams Channel | O Guid da Equipe é armazenado nos metadados do projeto para estabelecer o link | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| User.Read | delegado | obter informações do usuário para mostrar no header  | o email do usuário é armazenado como proprietário quando o locatário é provisionado pela primeira vez | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| User.Read.All | delegado | ler usuários para atualizar a atribuição de tarefas | Somente o Guid do usuário é armazenado nenhuma informação pessoal identificada é armazenada no DB | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

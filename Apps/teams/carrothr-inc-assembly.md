@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Assembly, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6cc680f1f7ec25df961d2453dcbfdc20afd0b2eb
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: f8d63c77c3fd9b52353ce22954dfa4dadb8dea2f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852027"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522044"
 ---
 # <a name="assembly"></a>Assembly
 
@@ -55,15 +55,15 @@ Essas informações foram fornecidas pela CarrotHR Inc. sobre como esse aplicati
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Channel.Create | delegado | Permitir que o usuário atribua o aplicativo a um canal recém-criado do nosso aplicativo | Armazenamos id de canal para manter nosso aplicativo em sincronia com o canal correto | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| Directory.Read.All | aplicação | Mantenha nossos perfis em sincronia para que os membros sejam pesquisáveis corretamente no Assembly | Qualquer informação adicional de perfil que possa estar disponível para manter os membros pesquisáveis no Assembly | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| Group.Read.All | delegado | Observamos os dados para garantir que eles possam atribuir nosso aplicativo ao grupo correto | Não armazenamos grupos | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| Teams.ReadBasic.All | aplicação | Capacidade de atribuir nosso aplicativo à guia de equipe correta | Não armazenamos equipes que esperam a que estamos anexados  | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| TeamsTab.Create | aplicação | Usamos isso para permitir que nosso aplicativo seja anexado a um canal/equipe corretamente | Não estamos coletando ou armazenar dados da guia | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| email | delegado | Email do usuário para que possamos conceder acesso a sua conta específica | Email do usuário para que possamos conceder acesso a suas contas específicas e identidades de combinação | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| perfil | delegado | Nome de usuário para popular automaticamente o Assembly e manter a sincronização com as alterações no Microsoft Teams | Nome completo do usuário | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Channel.Create | delegado | Permitir que o usuário atribua o aplicativo a um canal recém-criado do nosso aplicativo | Armazenamos id de canal para manter nosso aplicativo em sincronia com o canal correto | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| Directory.Read.All | aplicação | Mantenha nossos perfis em sincronia para que os membros sejam pesquisáveis corretamente no Assembly | Qualquer informação adicional de perfil que possa estar disponível para manter os membros pesquisáveis no Assembly | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| Group.Read.All | delegado | Observamos os dados para garantir que eles possam atribuir nosso aplicativo ao grupo correto | Não armazenamos grupos | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| Teams.ReadBasic.All | aplicação | Capacidade de atribuir nosso aplicativo à guia de equipe correta | Não armazenamos equipes que esperam a que estamos anexados  | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| TeamsTab.Create | aplicação | Usamos isso para permitir que nosso aplicativo seja anexado a um canal/equipe corretamente | Não estamos coletando ou armazenar dados da guia | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| email | delegado | Email do usuário para que possamos conceder acesso a sua conta específica | Email do usuário para que possamos conceder acesso a suas contas específicas e identidades de combinação | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| perfil | delegado | Nome de usuário para popular automaticamente o Assembly e manter a sincronização com as alterações no Microsoft Teams | Nome completo do usuário | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Slide Chooser, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2f0ce4658affc712691c0a90327cbe6301995849
-ms.sourcegitcommit: 3583fc1d7037a9a9d9d463913e34ffbbd65042f1
+ms.openlocfilehash: d9cb99daeedbe4060e43eff715b0e9b82617f20e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53341200"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522264"
 ---
 # <a name="slide-chooser"></a>Selador de slides
 
@@ -52,25 +52,25 @@ Essas informações foram fornecidas pelo officeatwork sobre como esse aplicativ
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | delegado | Nenhum dado é armazenado. | Favoritos: para poder ler e gravar dados para os usuários OneDrive. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| Files.ReadWrite.All | delegado | Nenhum dado é armazenado. | OneDrive: para poder ler e gravar dados para os usuários OneDrive. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| Group.ReadWrite.All | delegado | Nenhum dado é armazenado. | Teams: para poder ler e gravar dados em um Grupo. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| GroupMember.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online - Os grupos de segurança suportam: permitir que o aplicativo liste grupos, leia as propriedades básicas do grupo e leia as associações de todos os grupos aos que o usuário associado tem acesso | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| Sites.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online: para habilitar a leitura de dados SharePoint Online. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| User.Read | delegado | Nenhum dado é armazenado. | Sing-In: para habilitar o aplicativo officeatwork para ler as propriedades básicas do usuário. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| User.Read.All | delegado | Nenhum dado é armazenado. | Teams: para descobrir a que grupos um usuário pertence. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| offline_access | delegado | Nenhum dado é armazenado. | Sing-In: para habilitar a logona automática por meio de tokens de atualização, como sem, os usuários teriam que entrar manualmente sempre que iniciarem o aplicativo officeatwork. Esse escopo só é necessário para aplicativos host não habilitados para SSO. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| openid | delegado | Nenhum dado é armazenado. | Sing-In: para permitir que os usuários entre no aplicativo do officeatwork com sua conta organizacional e/ou da Microsoft. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
->| perfil | delegado | Nenhum dado é armazenado. | Sing-In: para mostrar o usuário de assinatura no aplicativo officeatwork. Isso ajuda a garantir/confirmar ao usuário qual conta foi usada para entrar no aplicativo officeatwork. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.ReadWrite.All | delegado | Nenhum dado é armazenado. | Favoritos: para poder ler e gravar dados para os usuários OneDrive. | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| Files.ReadWrite.All | delegado | Nenhum dado é armazenado. | OneDrive: para poder ler e gravar dados para os usuários OneDrive. | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| Group.ReadWrite.All | delegado | Nenhum dado é armazenado. | Teams: para poder ler e gravar dados em um Grupo. | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| GroupMember.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online - Os grupos de segurança suportam: permitir que o aplicativo liste grupos, leia as propriedades básicas do grupo e leia as associações de todos os grupos aos que o usuário associado tem acesso | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| Sites.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online: para habilitar a leitura de dados SharePoint Online. | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| User.Read | delegado | Nenhum dado é armazenado. | Sing-In: para habilitar o aplicativo officeatwork para ler as propriedades básicas do usuário. | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| User.Read.All | delegado | Nenhum dado é armazenado. | Teams: para descobrir a que grupos um usuário pertence. | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| offline_access | delegado | Nenhum dado é armazenado. | Sing-In: para habilitar a logona automática por meio de tokens de atualização, como sem, os usuários teriam que entrar manualmente sempre que iniciarem o aplicativo officeatwork. Esse escopo só é necessário para aplicativos host não habilitados para SSO. | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| openid | delegado | Nenhum dado é armazenado. | Sing-In: para permitir que os usuários entre no aplicativo do officeatwork com sua conta organizacional e/ou da Microsoft. | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
+>| perfil | delegado | Nenhum dado é armazenado. | Sing-In: para mostrar o usuário de assinatura no aplicativo officeatwork. Isso ajuda a garantir/confirmar ao usuário qual conta foi usada para entrar no aplicativo officeatwork. | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
 Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| APIs REST do SharePoint | Não |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
