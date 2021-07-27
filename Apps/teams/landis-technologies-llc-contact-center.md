@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Contact Center, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 121d59640731b43137d1b2e9d7df987a2a78fe01
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 57fd0d98d6c7139c6356b4c23a6ac8a21c48e6b6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282995"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521476"
 ---
 # <a name="contact-center"></a>Contact Center
 
@@ -54,26 +54,26 @@ Essas informações foram fornecidas pelo LLC da Landis Technologies sobre como 
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calls.AccessMedia.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| Calls.Initiate.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| Calls.InitiateGroupCall.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| Calls.JoinGroupCall.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| Calls.JoinGroupCallAsGuest.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| OnlineMeetings.Read.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| OnlineMeetings.ReadWrite.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| User.Read | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| User.Read.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | 341e195c-b261-4b05-8ba5-dd4a89b1f3e7 |
->| Calls.AccessMedia.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| Calls.Initiate.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| Calls.InitiateGroupCall.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| Calls.JoinGroupCall.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| Calls.JoinGroupCallAsGuest.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| OnlineMeetings.Read.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| OnlineMeetings.ReadWrite.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| User.Read | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | 3a08b250-02ce-4316-94f7-069f4ae0c41b |
->| User.Read | delegado | Perfil de usuário | Permite que o usuário entre | c22c3a9e-5d2c-4177-8ea1-1c53c5af36b8 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calls.AccessMedia.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| Calls.Initiate.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| Calls.InitiateGroupCall.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| Calls.JoinGroupCall.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| Calls.JoinGroupCallAsGuest.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| OnlineMeetings.Read.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| OnlineMeetings.ReadWrite.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| User.Read | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| User.Read.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite fila de chamada, relatório &amp; ivrs | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| Calls.AccessMedia.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| Calls.Initiate.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| Calls.InitiateGroupCall.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| Calls.JoinGroupCall.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| Calls.JoinGroupCallAsGuest.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| OnlineMeetings.Read.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| OnlineMeetings.ReadWrite.All | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| User.Read | aplicação | Relatório de detalhes de chamada, gravação de sentimento de &amp; chamada | Permite o controle de sentimento de gravação &amp; de chamada | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| User.Read | delegado | Perfil de usuário | Permite que o usuário entre | [c22c3a9e-5d2c-4177-8ea1-1c53c5af36b8](https://docs.microsoft.com/microsoft-365-app-certification/azure/c22c3a9e-5d2c-4177-8ea1-1c53c5af36b8) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -87,7 +87,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Fornecer relatórios de chamada e análise do usuário. | Nome, sobrenome e UPN ou número de telefone. Essas informações são usadas em relatórios de detalhes de chamada e análise de atividades do usuário. |  |
 
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Ideias Amplas, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 05daba10da032e947976d99411e0e70982e17f00
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 1e73a7aebbaaffa12572717f7a4a9968fd5667f7
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279036"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528057"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
@@ -54,11 +54,11 @@ Essas informações foram fornecidas por Ideias Amplas sobre como esse aplicativ
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | aplicação | Salvamos a ID do Grupo e quais usuários pertencem a quais grupos | Permite que o aplicativo leia dados no diretório da organização dos clientes, como usuários e grupos.  | 77baef51-6387-4aff-9b3f-23e4654c30cd |
->| Group.ReadWrite.All | aplicação | Salvamos a ID do canal que está associada ao grupo. | Permite que o usuário crie equipes, canais e guias dentro Microsoft Teams do Portal do Cliente. Isso também permite que o usuário sincronize as equipes existentes Microsoft Teams no Portal do Cliente. | 77baef51-6387-4aff-9b3f-23e4654c30cd |
->| User.Read | delegado | Salvamos email de &amp; nome | Permite que os usuários entre e dê acesso ao Microsoft Graph em seu nome | 77baef51-6387-4aff-9b3f-23e4654c30cd |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | aplicação | Salvamos a ID do Grupo e quais usuários pertencem a quais grupos | Permite que o aplicativo leia dados no diretório da organização dos clientes, como usuários e grupos.  | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
+>| Group.ReadWrite.All | aplicação | Salvamos a ID do canal que está associada ao grupo. | Permite que o usuário crie equipes, canais e guias dentro Microsoft Teams do Portal do Cliente. Isso também permite que o usuário sincronize as equipes existentes Microsoft Teams no Portal do Cliente. | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
+>| User.Read | delegado | Salvamos email de &amp; nome | Permite que os usuários entre e dê acesso ao Microsoft Graph em seu nome | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -66,7 +66,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Email de email que é usado para notificações por email. |  | N/D |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
@@ -74,7 +74,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Para criar usuários em nosso back-end e dar permissões para acessar conteúdo vinculado à equipe. | Armazenamos: Nome - Para mostrar o nome do usuário, endereço de email - Para identificar o usuário |  |
 
 

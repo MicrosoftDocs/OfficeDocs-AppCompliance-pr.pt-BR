@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Salesforce, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b5999dd08ed27ce75bc958e431c0974e10830a3c
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d0490ea422179e064443f7fad12abb64bc6efa47
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281693"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527907"
 ---
 # <a name="salesforce"></a>Salesforce
 
@@ -60,7 +60,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| API JavaScript para Office | Sim | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. |  | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade de usuário atual do Outlook, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos, CreateItem (.js), que é usada para criar uma mensagem de rascunho. |  |
 >| Serviços Web do Exchange (EWS) | Sim | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. |  | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade de usuário atual do Outlook, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos, CreateItem (.js), que é usada para criar uma mensagem de rascunho. |  |
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Reach, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 91729da78b1a031be38569bfd4e4168f2a96f83a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d188c61f6f87dbe528219d82f1b58477b184da8a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281774"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521456"
 ---
 # <a name="reach"></a>Reach
 
@@ -55,13 +55,13 @@ Essas informações foram fornecidas pelo LiveTiles sobre como esse aplicativo c
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| TeamsActivity.Send | aplicação | none | none | a7c1920d-3ac0-42db-9757-078a2b321fd8  |
->| User.Read | delegado | User DisplayName, User Email Address, UPN. Necessário para permitir que os usuários entre no aplicativo e recebam informações básicas do usuário in-loco, como o nome para exibição. O endereço de email é usado para enviar notificações por email.  | User DisplayName, User Email Address, UPN. Necessário para permitir que os usuários entre no aplicativo e recebam informações básicas do usuário in-loco, como o nome para exibição. O endereço de email é usado para enviar notificações por email.  | d492530a-8cff-481c-90da-9c3c3f1be7da |
->| User.ReadBasic.All | delegado | User DisplayName, User Email Address, UPN, User Department, User Job Title, User Mobile Telefone Number, User Business Telefone Number, User Office Location. Necessário para permitir que os usuários pesquisam outros usuários dentro do aplicativo (Phonebook) e consulte as informações básicas de perfil e contato de outros usuários.  | nenhuma | d492530a-8cff-481c-90da-9c3c3f1be7da |
->| Directory.Read.All | aplicação | Associação a grupos, grupos de AD no Diretório. A associação de grupo dos usuários é armazenada em um cache para minimizar as chamadas para a API Graph Microsoft. Necessário para permitir que os usuários pesquisem grupos do Active Directory. Além disso, essa permissão é necessária para que o aplicativo resolva a associação de grupo do AD de usuários em trabalhos da Web do back-end. | Associação de grupo de usuários. A associação de grupo dos usuários é armazenada em um cache para minimizar as chamadas para a API Graph Microsoft. Necessário para permitir que os usuários pesquisem grupos do Active Directory. Além disso, essa permissão é necessária para que o aplicativo resolva a associação de grupo do AD de usuários em trabalhos da Web do back-end.  | d492530a-8cff-481c-90da-9c3c3f1be7da  |
->| User.Read.All | aplicação | Os dados recuperados do perfil de usuário dependem da configuração do recurso de Direcionamento de Público especificado no aplicativo. Necessário para permitir que o aplicativo leia perfis de usuário sem um usuário assinado. A leitura de dados de perfil é necessária para o recurso de direcionamento de informações dentro do aplicativo, para que as informações são exibidas para usuários específicos com base em um valor de propriedade de perfil específico.  | nenhuma | d492530a-8cff-481c-90da-9c3c3f1be7da  |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| TeamsActivity.Send | aplicação | none | none | [a7c1920d-3ac0-42db-9757-078a2b321fd8 ](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7c1920d-3ac0-42db-9757-078a2b321fd8 ) |
+>| User.Read | delegado | User DisplayName, User Email Address, UPN. Necessário para permitir que os usuários entre no aplicativo e recebam informações básicas do usuário in-loco, como o nome para exibição. O endereço de email é usado para enviar notificações por email.  | User DisplayName, User Email Address, UPN. Necessário para permitir que os usuários entre no aplicativo e recebam informações básicas do usuário in-loco, como o nome para exibição. O endereço de email é usado para enviar notificações por email.  | [d492530a-8cff-481c-90da-9c3c3f1be7da](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da) |
+>| User.ReadBasic.All | delegado | User DisplayName, User Email Address, UPN, User Department, User Job Title, User Mobile Telefone Number, User Business Telefone Number, User Office Location. Necessário para permitir que os usuários pesquisam outros usuários dentro do aplicativo (Phonebook) e consulte as informações básicas de perfil e contato de outros usuários.  | nenhuma | [d492530a-8cff-481c-90da-9c3c3f1be7da](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da) |
+>| Directory.Read.All | aplicação | Associação a grupos, grupos de AD no Diretório. A associação de grupo dos usuários é armazenada em um cache para minimizar as chamadas para a API Graph Microsoft. Necessário para permitir que os usuários pesquisem grupos do Active Directory. Além disso, essa permissão é necessária para que o aplicativo resolva a associação de grupo do AD de usuários em trabalhos da Web do back-end. | Associação de grupo de usuários. A associação de grupo dos usuários é armazenada em um cache para minimizar as chamadas para a API Graph Microsoft. Necessário para permitir que os usuários pesquisem grupos do Active Directory. Além disso, essa permissão é necessária para que o aplicativo resolva a associação de grupo do AD de usuários em trabalhos da Web do back-end.  | [d492530a-8cff-481c-90da-9c3c3f1be7da ](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da ) |
+>| User.Read.All | aplicação | Os dados recuperados do perfil de usuário dependem da configuração do recurso de Direcionamento de Público especificado no aplicativo. Necessário para permitir que o aplicativo leia perfis de usuário sem um usuário assinado. A leitura de dados de perfil é necessária para o recurso de direcionamento de informações dentro do aplicativo, para que as informações são exibidas para usuários específicos com base em um valor de propriedade de perfil específico.  | nenhuma | [d492530a-8cff-481c-90da-9c3c3f1be7da ](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da ) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -69,7 +69,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| SendGrid, OneSignal | endereço de email, nome para exibição | Enviar notificação para o usuário por email e notificações por push móvel |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots

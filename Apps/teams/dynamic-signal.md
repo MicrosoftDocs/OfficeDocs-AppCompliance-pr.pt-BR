@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Sinal Dinâmico, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 19f633362ac605ef5891b3d7e11f34a8ec04d74f
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 5b5906e8eee51821481de11c3cbd720600d4c36e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281303"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521794"
 ---
 # <a name="dynamic-signal"></a>Dynamic Signal
 
@@ -55,12 +55,12 @@ Essas informações foram fornecidas pelo Sinal Dinâmico sobre como esse aplica
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado | O Sinal Dinâmico sincroniza o usuário do Azure AD com sua plataforma para permitir a ativação simplificada e desativação de usuários em tempo real. Os dados são armazenados no Sinal Dinâmico para permitir que os usuários usem esse aplicativo enquanto a sincronização ocorre. | Leia permissões de um usuário específico para sincronizar usuários da plataforma de Sinal Dinâmico com o Azure AD. | 79ff4a2a-e22b-47d5-94dc-ef76fe46af75 |
->| User.Read.All | delegado | O Sinal Dinâmico sincroniza o usuário do Azure AD com sua plataforma para permitir a ativação simplificada e desativação de usuários em tempo real. Os dados são armazenados no Sinal Dinâmico para permitir que os usuários usem esse aplicativo enquanto a sincronização ocorre. | Leia permissões de um usuário específico para sincronizar usuários da plataforma de Sinal Dinâmico com o Azure AD. | 79ff4a2a-e22b-47d5-94dc-ef76fe46af75 |
->| offline_access | delegado | O Sinal Dinâmico sincroniza o usuário do Azure AD com sua plataforma para permitir a ativação simplificada e desativação de usuários em tempo real. Os dados são armazenados no Sinal Dinâmico para permitir que os usuários usem esse aplicativo enquanto a sincronização ocorre. | Retenha o acesso aos grupos e equipes do locatário. | 79ff4a2a-e22b-47d5-94dc-ef76fe46af75 |
->| openid | delegado | O Sinal Dinâmico sincroniza o usuário do Azure AD com sua plataforma para permitir a ativação simplificada e desativação de usuários em tempo real. Os dados são armazenados no Sinal Dinâmico para permitir que os usuários usem esse aplicativo enquanto a sincronização ocorre. | Autenticar usuários com o Aplicativo de Sinal Dinâmico. | 79ff4a2a-e22b-47d5-94dc-ef76fe46af75 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | delegado | O Sinal Dinâmico sincroniza o usuário do Azure AD com sua plataforma para permitir a ativação simplificada e desativação de usuários em tempo real. Os dados são armazenados no Sinal Dinâmico para permitir que os usuários usem esse aplicativo enquanto a sincronização ocorre. | Leia permissões de um usuário específico para sincronizar usuários da plataforma de Sinal Dinâmico com o Azure AD. | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
+>| User.Read.All | delegado | O Sinal Dinâmico sincroniza o usuário do Azure AD com sua plataforma para permitir a ativação simplificada e desativação de usuários em tempo real. Os dados são armazenados no Sinal Dinâmico para permitir que os usuários usem esse aplicativo enquanto a sincronização ocorre. | Leia permissões de um usuário específico para sincronizar usuários da plataforma de Sinal Dinâmico com o Azure AD. | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
+>| offline_access | delegado | O Sinal Dinâmico sincroniza o usuário do Azure AD com sua plataforma para permitir a ativação simplificada e desativação de usuários em tempo real. Os dados são armazenados no Sinal Dinâmico para permitir que os usuários usem esse aplicativo enquanto a sincronização ocorre. | Retenha o acesso aos grupos e equipes do locatário. | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
+>| openid | delegado | O Sinal Dinâmico sincroniza o usuário do Azure AD com sua plataforma para permitir a ativação simplificada e desativação de usuários em tempo real. Os dados são armazenados no Sinal Dinâmico para permitir que os usuários usem esse aplicativo enquanto a sincronização ocorre. | Autenticar usuários com o Aplicativo de Sinal Dinâmico. | [79ff4a2a-e22b-47d5-94dc-ef76fe46af75](https://docs.microsoft.com/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -74,7 +74,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| openid entre usando openid directory.readwrite.all acesso ao domínio e aos grupos do locatário, adicione um aplicativo a uma equipe offline_access reter acesso aos grupos e equipes do locatário | openid Permitir autenticação independente. directory.readwrite.all acesso ao domínio e aos grupos do locatário, adicione um aplicativo a uma equipe offline_access mantenha acesso aos grupos e equipes do locatário Observação: o aplicativo do Sinal Dinâmico usa o bot de equipes para aplicar grupos e permissões criados no Sinal Dinâmico ao Teams para que um usuário ativo no Sinal Dinâmico tenha acesso aos mesmos grupos e usuários que no Teams. |  |
 
 

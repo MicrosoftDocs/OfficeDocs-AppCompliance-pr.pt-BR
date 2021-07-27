@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Workday, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f85cc0ccc778f7ed3440e85795574faad3868d24
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 71a16c42f8676ac12ed4de34ccbdf010de009453
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279003"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528037"
 ---
 # <a name="workday"></a>Workday
 
@@ -55,10 +55,10 @@ Essas informações foram fornecidas pelo Workday sobre como esse aplicativo col
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| TeamsAppInstallation.ReadWriteForUser.All | aplicação | Retreive a ID do aplicativo, instale App for User, Obter Teams de licença do AAD | Não armazenamos dados relacionados a esse recurso.  Ele nos permite instalar o aplicativo para o usuário. | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
->| User.Read.All | aplicação | Recuperar usuários AAID para enviar mensagens de usuários. | Apenas a AAID e Teams AAID  | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| TeamsAppInstallation.ReadWriteForUser.All | aplicação | Retreive a ID do aplicativo, instale App for User, Obter Teams de licença do AAD | Não armazenamos dados relacionados a esse recurso.  Ele nos permite instalar o aplicativo para o usuário. | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
+>| User.Read.All | aplicação | Recuperar usuários AAID para enviar mensagens de usuários. | Apenas a AAID e Teams AAID  | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -66,7 +66,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Os dados organizacionais são compartilhados entre o Workday Services e a Microsoft. Consulte os termos do seu contrato com o Workday para obter detalhes adicionais. | Os dados organizacionais são compartilhados entre o Workday Services e a Microsoft. Consulte os termos do seu contrato com o Workday para obter detalhes adicionais. | N/D |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
@@ -74,7 +74,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Os dados de lista são usados para personalizar a interação de um usuário com o Aplicativo Workday. | Não |  |
 
 

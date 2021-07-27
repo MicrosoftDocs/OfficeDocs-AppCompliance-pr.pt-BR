@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a ferramenta Campanhas do Zoho para automação de marketing, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e54e3313dcfa51542439775a0c3ca0cae38aca93
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: b6b0137447f5de7d7ef2394c32eb6996772852ad
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281583"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527887"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>Ferramenta Campanhas do Zoho para automação de marketing
 
@@ -53,17 +53,17 @@ Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | delegado | A ID do calendário é armazenada para criar eventos nesse calendário a partir de Campanhas do Zoho. | Permite que o usuário importe o evento de calendário do Office365 para Campanhas do Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Calendars.ReadWrite | delegado |  | Permite que o usuário adicione eventos de Campanhas do Zoho ao calendário do Office365. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Contacts.Read | delegado |  Para salvar as informações de contato. | Permite que o usuário importe contatos do Office365 para Campanhas do Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Contacts.ReadWrite | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| email | delegado | O email é armazenado para identificação do usuário. |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| perfil | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | delegado | A ID do calendário é armazenada para criar eventos nesse calendário a partir de Campanhas do Zoho. | Permite que o usuário importe o evento de calendário do Office365 para Campanhas do Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Calendars.ReadWrite | delegado |  | Permite que o usuário adicione eventos de Campanhas do Zoho ao calendário do Office365. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Contacts.Read | delegado |  Para salvar as informações de contato. | Permite que o usuário importe contatos do Office365 para Campanhas do Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Contacts.ReadWrite | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| email | delegado | O email é armazenado para identificação do usuário. |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| offline_access | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| perfil | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

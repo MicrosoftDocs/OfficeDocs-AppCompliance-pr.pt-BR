@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Navo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 11346ff15831615ac6b617d8d14f83f38c7de0a5
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: e17eac9ef2db9418a38900d0de84ce62fad71097
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283105"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521204"
 ---
 # <a name="navo"></a>Navo
 
@@ -54,10 +54,10 @@ Essas informações foram fornecidas pelo Regroove Solutions sobre como esse apl
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | aplicação | Armazenamos a contagem de usuários e consultamos-a uma vez por ciclo de cobrança. Também usamos a ID deenancy como a ID da organização. | Permite contar quantos usuários estão na área de trabalho, que usamos para fins de cobrança. Ele também nos permite consultar em quais grupos um usuário está, para que possamos usar a recortação de segurança para proteger determinados dados. Também consultamos a ID deenancy da organização. | 75ce4e02-e37b-479c-81c7-438348a2a251 |
->| User.Read | delegado | Nenhum dado armazenado | Entrar e ler o perfil do usuário | 75ce4e02-e37b-479c-81c7-438348a2a251 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | aplicação | Armazenamos a contagem de usuários e consultamos-a uma vez por ciclo de cobrança. Também usamos a ID deenancy como a ID da organização. | Permite contar quantos usuários estão na área de trabalho, que usamos para fins de cobrança. Ele também nos permite consultar em quais grupos um usuário está, para que possamos usar a recortação de segurança para proteger determinados dados. Também consultamos a ID deenancy da organização. | [75ce4e02-e37b-479c-81c7-438348a2a251](https://docs.microsoft.com/microsoft-365-app-certification/azure/75ce4e02-e37b-479c-81c7-438348a2a251) |
+>| User.Read | delegado | Nenhum dado armazenado | Entrar e ler o perfil do usuário | [75ce4e02-e37b-479c-81c7-438348a2a251](https://docs.microsoft.com/microsoft-365-app-certification/azure/75ce4e02-e37b-479c-81c7-438348a2a251) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -65,7 +65,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Armazenamos a ID deenancy e a contagem de usuários em Stripe. |  | User.Read | Delegated | Entrar e ler o perfil do usuário - Nenhum dado armazenado |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots

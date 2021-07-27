@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Invoice e Time Tracking - Zoho Invoice, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0a3e8afb7be998c2fba33e7c4320956cbd990ef3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 3879f8b00191c9dbd9f712e685430d0360bb74fb
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281573"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527867"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>Invoice and Time Tracking - Zoho Invoice
 
@@ -53,16 +53,16 @@ Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Contacts.Read | delegado |  |  Permitir que os usuários sincronizem contatos do Office365 com a Fatura do Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Mail.Read | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Mail.Send | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Export.All | delegado |  | Permitir que o usuário exporte todas as informações relacionadas ao usuário. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read.All | delegado |  | Permitir que os usuários se inscrevam e leiam o perfil de usuário. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | delegado |  | Permitir que os usuários importem usuários do Office365 para o Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| email | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| perfil | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Contacts.Read | delegado |  |  Permitir que os usuários sincronizem contatos do Office365 com a Fatura do Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Mail.Read | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Mail.Send | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Export.All | delegado |  | Permitir que o usuário exporte todas as informações relacionadas ao usuário. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read.All | delegado |  | Permitir que os usuários se inscrevam e leiam o perfil de usuário. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | delegado |  | Permitir que os usuários importem usuários do Office365 para o Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| email | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| perfil | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

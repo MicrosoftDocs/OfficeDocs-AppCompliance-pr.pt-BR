@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Go1, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 39501f6cb09502287dcff26acab4d8720b5fb6a0
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d6fa3c9d0ecf710724379da869fba4b0cec23f6a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281273"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521664"
 ---
 # <a name="go1"></a>Go1
 
@@ -54,11 +54,11 @@ Essas informações foram fornecidas por Go1 sobre como esse aplicativo coleta e
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | aplicação | app não armazena dados de arquivos | permite que os usuários carreguem e compartilhem arquivos do onedrive | c859de61-8a6b-42e6-ba88-f639df33bc72 |
->| Group.ReadWrite.All | aplicação | Teams nome do canal e id exclusiva armazenada para dar suporte ao ambiente de aprendizagem de gerenciamento de aplicativos | permite que o aplicativo configure dinamicamente Teams canais para dar suporte ao aprendizado estruturado Teams ambiente | c859de61-8a6b-42e6-ba88-f639df33bc72 |
->| User.Read.All | aplicação | nome dos usuários, email e UPN armazenados para fornecer experiência direta do aluno pessoal | permite usos para assinar e dar suporte ao compartilhamento de recursos de aprendizagem entre membros da equipe | c859de61-8a6b-42e6-ba88-f639df33bc72 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.ReadWrite.All | aplicação | app não armazena dados de arquivos | permite que os usuários carreguem e compartilhem arquivos do onedrive | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
+>| Group.ReadWrite.All | aplicação | Teams nome do canal e id exclusiva armazenada para dar suporte ao ambiente de aprendizagem de gerenciamento de aplicativos | permite que o aplicativo configure dinamicamente Teams canais para dar suporte ao aprendizado estruturado Teams ambiente | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
+>| User.Read.All | aplicação | nome dos usuários, email e UPN armazenados para fornecer experiência direta do aluno pessoal | permite usos para assinar e dar suporte ao compartilhamento de recursos de aprendizagem entre membros da equipe | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -66,7 +66,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Os usuários de primeiro e último nome podem ser compartilhados com os provedores de conteúdo do GO1 ao jogar conteúdo do curso. Isso é compartilhado apenas quando o provedor de conteúdo exige isso para provedor de uma experiência de aprendizado personalizada. |  | N/D |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots

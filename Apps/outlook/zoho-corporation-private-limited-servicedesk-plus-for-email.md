@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o ServiceDesk Plus for Email, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 759c59f93daa664dcc6b5b0b230a4b0fedfbf140
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 39ee4450c2545d1cc891464d7946cde4c4c3b53a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282385"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527857"
 ---
 # <a name="servicedesk-plus-for-email"></a>ServiceDesk Plus para Email
 
@@ -53,17 +53,17 @@ Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | aplicação |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.Selected | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read | delegado | ID de email do usuário. | Permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read.All | aplicação |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | delegado | ID de email, Nome, ID do Funcionário, Cargo, Telefone, Celular, Site, Departamento, Localidade, Foto de perfil do usuário. | Permite importar informações básicas dos usuários Azure Active Directory. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| email | delegado | ID de email do usuário. | Exibir o endereço de email do usuário. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | delegado |  | Mantenha acesso aos dados aos que você lhe deu acesso. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| perfil | delegado |  | Exibir o perfil básico do usuário. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | aplicação |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.Selected | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read | delegado | ID de email do usuário. | Permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read.All | aplicação |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | delegado | ID de email, Nome, ID do Funcionário, Cargo, Telefone, Celular, Site, Departamento, Localidade, Foto de perfil do usuário. | Permite importar informações básicas dos usuários Azure Active Directory. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| email | delegado | ID de email do usuário. | Exibir o endereço de email do usuário. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| offline_access | delegado |  | Mantenha acesso aos dados aos que você lhe deu acesso. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| perfil | delegado |  | Exibir o perfil básico do usuário. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

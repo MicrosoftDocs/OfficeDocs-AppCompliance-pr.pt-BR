@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o TeamSticker by Communitio, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 944fa2eaf8df347cf3ce1b96bad9cd8521dceed3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 871c410b520fc7b8697942a4921104329a239338
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281934"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521854"
 ---
 # <a name="teamsticker-by-communitio"></a>TeamSticker por Communitio
 
@@ -55,22 +55,22 @@ Essas informações foram fornecidas pela Communitio Corporation sobre como esse
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Chat.ReadWrite | aplicação |  Porque o aplicativo posta no chat. | O aplicativo não armazena dados. | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| Group.ReadWrite.All | ambos | O aplicativo coleta id de grupo e nome do grupo. | O aplicativo armazena a id do grupo e o par de nomes. | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| User.Read | delegado | O aplicativo coleta a imagem de perfil do usuário. | O aplicativo armazena a imagem de perfil do usuário para exibir o ícone do usuário. | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| User.Read.All | ambos | O aplicativo coleta objectId/email/name do usuário para encontrar o usuário para enviar cartão. | O aplicativo não armazena dados nesse caso. | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| offline_access | delegado | O aplicativo coleta o token de api do usuário para usar User.Read / User.Read.All em segundo plano. | O aplicativo armazena o token de api do usuário para usar User.Read / User.Read.All em segundo plano. | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| openid | delegado | Nenhum dado coletado. | O aplicativo usa essa permissão para fazer logon pelo openid. | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| perfil | delegado | O aplicativo coleta objectId/email/name do usuário. | O aplicativo armazena objectId/email/name do usuário. | bceca1f0-723f-44d0-b732-b3506c0a641d |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Chat.ReadWrite | aplicação |  Porque o aplicativo posta no chat. | O aplicativo não armazena dados. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| Group.ReadWrite.All | ambos | O aplicativo coleta id de grupo e nome do grupo. | O aplicativo armazena a id do grupo e o par de nomes. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| User.Read | delegado | O aplicativo coleta a imagem de perfil do usuário. | O aplicativo armazena a imagem de perfil do usuário para exibir o ícone do usuário. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| User.Read.All | ambos | O aplicativo coleta objectId/email/name do usuário para encontrar o usuário para enviar cartão. | O aplicativo não armazena dados nesse caso. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| offline_access | delegado | O aplicativo coleta o token de api do usuário para usar User.Read / User.Read.All em segundo plano. | O aplicativo armazena o token de api do usuário para usar User.Read / User.Read.All em segundo plano. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| openid | delegado | Nenhum dado coletado. | O aplicativo usa essa permissão para fazer logon pelo openid. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| perfil | delegado | O aplicativo coleta objectId/email/name do usuário. | O aplicativo armazena objectId/email/name do usuário. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
 Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >|  API REST da Estrutura de Bot | Não |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -84,7 +84,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Porque ter permissão de User.Read.All. | Não |  |
 
 

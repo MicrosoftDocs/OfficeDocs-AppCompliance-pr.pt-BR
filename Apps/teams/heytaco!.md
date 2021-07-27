@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para HeyTaco!, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 66739977ba4aa3eef7456d4ec60530f94065a2b9
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 7b4641b33166043dd311bdd89568c9eaea4b87a1
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553122"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521634"
 ---
 # <a name="heytaco"></a>HeyTaco!
 
@@ -54,11 +54,11 @@ Essas informações foram fornecidas pela HeyTaco! sobre como esse aplicativo co
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| email | delegado | usado para corresponder ao usuário para transferências de dados do Slack para o MS Teams | usado para corresponder ao usuário para transferências de dados do Slack para a Equipe MS | be8d11cf-265a-4974-9912-4ff28c29fc21 |
->| openid | delegado | usado para entrar pessoa em HeyTaco! | usado para entrar pessoa em HeyTaco! | be8d11cf-265a-4974-9912-4ff28c29fc21 |
->| perfil | delegado | usado para capturar nome de usuário, imagem de perfil, deslocamento de zona de tempo, id de locatário e id de equipe | usado para capturar nome de usuário, avatar, deslocamento de zona de tempo, id de locatário e id de equipe | be8d11cf-265a-4974-9912-4ff28c29fc21 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| email | delegado | usado para corresponder ao usuário para transferências de dados do Slack para o MS Teams | usado para corresponder ao usuário para transferências de dados do Slack para a Equipe MS | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| openid | delegado | usado para entrar pessoa em HeyTaco! | usado para entrar pessoa em HeyTaco! | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| perfil | delegado | usado para capturar nome de usuário, imagem de perfil, deslocamento de zona de tempo, id de locatário e id de equipe | usado para capturar nome de usuário, avatar, deslocamento de zona de tempo, id de locatário e id de equipe | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -72,7 +72,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Para dizer ao usuário que ele recebeu um taco e de quem ele é. | Endereço de email (para tacos de migração de uma plataforma para outra) Nome (para saudação do usuário) Imagem de perfil (para exibição no quadro de líderes) Timezone (para mostrar corretamente os tacos dados na página de atividade) ID do locatário (Para agregar dados por locatário) ID da equipe (Para agregar dados por equipe)  |  |
 
 

@@ -2,24 +2,24 @@
 title: Informações do aplicativo para Conexão para Jira pelo yasoon GmbH
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/22/2021
+ms.date: 07/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Smart Conexão para Jira, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b8266a72ed6690bd4c9994b64bceccbe73d87013
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: a4a5a1ad980bba5214811bea5d981a1705ec4f1f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53278963"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528021"
 ---
 # <a name="smart-connect-for-jira"></a>Smart Connect para Jira
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 22 de janeiro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 21 de julho de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/6402de97-ce33-4386-bf28-b37e9e139c09" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002055" target="_blank">Exibir no AppSource</a>
@@ -55,17 +55,17 @@ Essas informações foram fornecidas pelo yasoon GmbH sobre como esse aplicativo
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Channel.ReadBasic.All | delegado | A permissão é usada para permitir que o usuário selecione um desses canais ingressado no Jira. | ID do canal, para fins de cache | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| ChannelMessage.Read.Group | aplicação | Permite que o aplicativo mostre mensagens de canal vinculadas em Jira. | IDs de mensagem para vincular mensagens a problemas Jira | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| ChannelMessage.Send | delegado | Nenhum dado é usado, essa API é usada para permitir que o usuário responda às mensagens de canal de Jira. | Nenhuma | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| ChannelSettings.Read.Group | aplicação | Usado para procurar informações detalhadas sobre um canal. | Nenhuma | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| Chat.ReadWrite | delegado | Usado para permitir que o usuário adicione novas respostas a chats e exibir mensagens de chat de Jira. | Nenhuma | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| Member.Read.Group | aplicação | Usado para verificações de permissão, permite que o aplicativo valide a associação de equipe dos usuários. | Nenhuma | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| Team.ReadBasic.All | delegado | A permissão é usada para permitir que o usuário selecione uma dessas equipes ingressáveis no Jira. | IDs de equipe para fins de cache | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| TeamSettings.Read.Group | aplicação | Permite que o aplicativo leia as configurações de equipe para respeitar determinados padrões. | Nenhuma | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| User.ReadBasic.All | delegado | Permite que o usuário selecione colegas de trabalho para @-mention em uma mensagem de canal | Nenhuma | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | delegado | A permissão é usada para permitir que o usuário selecione um desses canais ingressado no Jira. | ID do canal, para fins de cache | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| ChannelMessage.Read.Group | aplicação | Permite que o aplicativo mostre mensagens de canal vinculadas em Jira. | IDs de mensagem para vincular mensagens a problemas Jira | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| ChannelMessage.Send | delegado | Nenhum dado é usado, essa API é usada para permitir que o usuário responda às mensagens de canal de Jira. | Nenhum | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| ChannelSettings.Read.Group | aplicação | Usado para procurar informações detalhadas sobre um canal. | Nenhum | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Chat.ReadWrite | delegado | Usado para permitir que o usuário adicione novas respostas a chats e exibir mensagens de chat de Jira. | Nenhum | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Member.Read.Group | aplicação | Usado para verificações de permissão, permite que o aplicativo valide a associação de equipe dos usuários. | Nenhum | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Team.ReadBasic.All | delegado | A permissão é usada para permitir que o usuário selecione uma dessas equipes ingressáveis no Jira. | IDs de equipe para fins de cache | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| TeamSettings.Read.Group | aplicação | Permite que o aplicativo leia as configurações de equipe para respeitar determinados padrões. | Nenhum | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| User.ReadBasic.All | delegado | Permite que o usuário selecione colegas de trabalho para @-mention em uma mensagem de canal | Nenhum | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -73,7 +73,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| A Jira atlassiana e possivelmente um dos nossos contratados podem ser vistos aqui: https://go.yasoon.com/contractors | Metadados de mensagem (ids, timestamps), metadados de usuário e organizacionais (IDs de usuário, ids de organização) e endereços de email do usuário | Dando suporte à funcionalidade do aplicativo (por exemplo, correspondência de contas atlassianas com Office contas) e permitindo que nosso suporte solucione problemas mais rapidamente. |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
@@ -81,7 +81,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Correspondência da conta Teams usuários com a conta Jira do Atlassian dos usuários | Não |  |
 
 
@@ -138,7 +138,7 @@ Essas informações foram fornecidas pelo yasoon GmbH sobre como esse aplicativo
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
 | Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
 | Seu aplicativo expõe alguma APIs da Web? | Não |
-| Seu aplicativo usa APIs de visualização? | Sim |
+| Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Qualificado, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6b4f5f034fbdca44cd71c74b0530cfd15664a1c8
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: d47e6f2919fb97eb1c9a162f2ade8c1a1bf485a8
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852024"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521128"
 ---
 # <a name="qualified"></a>Qualificado
 
@@ -55,17 +55,17 @@ Essas informações foram fornecidas por Qualified sobre como esse aplicativo co
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Channel.ReadBasic.All | aplicação | Permite selecionar canal para notificar | endereço de email, id de locatário, token de atualização do oauth | 2c951ed5-c5c6-493f-9b02-4b42e3ba536c |
->| Team.ReadBasic.All | aplicação | Permite que encontremos todos os canais de todas as equipes, para nos permitir selecionar canais para notificar | endereço de email, id de locatário, token de atualização do oauth | 2c951ed5-c5c6-493f-9b02-4b42e3ba536c |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | aplicação | Permite selecionar canal para notificar | endereço de email, id de locatário, token de atualização do oauth | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c) |
+>| Team.ReadBasic.All | aplicação | Permite que encontremos todos os canais de todas as equipes, para nos permitir selecionar canais para notificar | endereço de email, id de locatário, token de atualização do oauth | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
 Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| API da Estrutura de Bots | Sim | ID de locatário, IDs de equipe, IDs de canal | ID do locatário: para determinar service_url para chamadas de api de estrutura de bot; IDs de equipe + IDs de canal: para determinar a quais equipes/canais nosso bot foi adicionado | ID de locatário, IDs de equipe, IDs de canal | ID do locatário: para determinar service_url para chamadas de api de estrutura de bot; IDs de equipe + IDs de canal: para determinar a quais equipes/canais nosso bot foi adicionado |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -73,7 +73,7 @@ Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que n�
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Heroku, Sentry, Papertrail | Nome, endereço de email, IP | Esses sistemas hospedam e monitoram nosso serviço de produção |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots

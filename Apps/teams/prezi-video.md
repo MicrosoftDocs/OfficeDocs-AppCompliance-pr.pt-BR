@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Prezi Video, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8bd0c290442e01f6f7a07f39bc38f2f7ece2123b
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 8e7e9c70ee848fd284e3297a915ec9847d3ef1ee
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283135"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521240"
 ---
 # <a name="prezi-video"></a>Prezi Video
 
@@ -62,7 +62,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Para obter detalhes, visite https://prezi.com/privacy-policy/ |  | As APIs/SDK a seguir são usadas para a integração junto com o 1. Botbuilder-SDK (python): usando esse SDK, armazenamos a ID do objeto Azure Active Directory (referida pela API como aad_object_id). Precisamos dessa informação para mapear um usuário Microsoft Teams para qualquer conteúdo relacionado ao Vídeo Prezi criado prezi.com.  2. Botbuilder-js (javascript): nenhum Microsoft Teams dados específicos são coletados usando esse SDK. |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
@@ -70,7 +70,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| O bot não acessa as informações de lista mencionadas. | O bot não acessa as informações de lista mencionadas. |  |
 
 

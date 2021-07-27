@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Listy, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bfa36c199e7839ce0756ecb5dfb3f5b923821405
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 9f8d7a9060a53b5261bbb0378c2181a2ec8bfa3b
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281834"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521544"
 ---
 # <a name="listy"></a>Listy
 
@@ -55,9 +55,9 @@ Essas informações foram fornecidas pelas Tecnologias da Idade da Informação 
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| TeamSettings.Read.Group | ambos | Para criar uma conta de aplicativo local para que o usuário não tenha que preencher dados manualmente | Para criar uma conta de aplicativo local para que o usuário não tenha que preencher dados manualmente | 8aa22b64-9a2c-403b-83c1-feaf774c764c |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| TeamSettings.Read.Group | ambos | Para criar uma conta de aplicativo local para que o usuário não tenha que preencher dados manualmente | Para criar uma conta de aplicativo local para que o usuário não tenha que preencher dados manualmente | [8aa22b64-9a2c-403b-83c1-feaf774c764c](https://docs.microsoft.com/microsoft-365-app-certification/azure/8aa22b64-9a2c-403b-83c1-feaf774c764c) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Anúncios Inteligentes, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d0ef9f59476133e673a0bf9edf99e63cfc424559
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7880682782fe62fad68426bb59b74e3997bb7f64
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281944"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521874"
 ---
 # <a name="clever-ads"></a>Clever Ads
 
@@ -54,9 +54,9 @@ Essas informações foram fornecidas por Anúncios Inteligentes sobre como esse 
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado | User.Read: armazenamos UPN, AzureObjectId para identificar o usuário. | User.Read, permite que o usuário entre no painel do aplicativo. Usamos UPN, AzureObjectId para entrar no usuário. | ac2b56c0-f2a5-4e90-b618-882f8d3596f0 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | delegado | User.Read: armazenamos UPN, AzureObjectId para identificar o usuário. | User.Read, permite que o usuário entre no painel do aplicativo. Usamos UPN, AzureObjectId para entrar no usuário. | [ac2b56c0-f2a5-4e90-b618-882f8d3596f0](https://docs.microsoft.com/microsoft-365-app-certification/azure/ac2b56c0-f2a5-4e90-b618-882f8d3596f0) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -70,7 +70,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| O aplicativo acessa a lista para identificar se um usuário pertence à equipe ou não e enviar mensagens agendadas pelo usuário para suas equipes. | Armazenamos a id do usuário, azureObjectId, UPN, tenantId, conversationId e serviceUrl para que possamos enviar mensagens para o usuário ou equipe e identificá-lo ao acessar a guia do painel. |  |
 
 

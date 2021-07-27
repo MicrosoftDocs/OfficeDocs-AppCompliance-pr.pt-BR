@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Berrycast, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c3236368fbab418754e758f6009607335e593515
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 67b58bf2246c109bd58bbe15e9cf1c281e3ad51f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283415"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528127"
 ---
 # <a name="berrycast"></a>Berrycast
 
@@ -54,13 +54,13 @@ Essas informações foram fornecidas pela Technologies Openmind Inc, Les sobre c
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| People.Read | delegado | Para obter todos os contatos do usuário | Os contatos email, nome do punho, sobrenome e imagem são armazenados para dar acesso de compartilhamento rápido de registros | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
->| User.Read | delegado | Para identificar o usuário com informações básicas (nome e sobrenome e imagem) | Para exibir o nome. lastname e picture no aplicativo | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
->| email | delegado | Para identificar o usuário | Para identificar o usuário para registro em log e enviar notificação | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
->| offline_access | delegado | Manter acesso aos dados aos quais você concedeu acesso | N/D | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
->| openid | delegado | Para identificar o usuário | Para identificar o usuário para registro em log | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| People.Read | delegado | Para obter todos os contatos do usuário | Os contatos email, nome do punho, sobrenome e imagem são armazenados para dar acesso de compartilhamento rápido de registros | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| User.Read | delegado | Para identificar o usuário com informações básicas (nome e sobrenome e imagem) | Para exibir o nome. lastname e picture no aplicativo | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| email | delegado | Para identificar o usuário | Para identificar o usuário para registro em log e enviar notificação | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| offline_access | delegado | Manter acesso aos dados aos quais você concedeu acesso | N/D | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| openid | delegado | Para identificar o usuário | Para identificar o usuário para registro em log | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -68,7 +68,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Stripe, Intercom, MixPanel, Amplitude | email, identificação exclusiva do usuário, nome, sobrenome  | Para processar o pagamento seguro, para executar campanha de marketing, para ter um serviço de cliente eficiente e rastrear o usuário com análise para melhorar o produto |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots

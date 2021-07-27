@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Fusion Remote, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 67518ab9859fa9643eea4f6cc40d97dbd40a9109
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: b920e0fa93512c7cc9429b02dcecd9c0e3fe27b6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281804"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521486"
 ---
 # <a name="fusion-remote"></a>Fusion Remote
 
@@ -54,22 +54,22 @@ Essas informações foram fornecidas pela Jujo Inc. sobre como esse aplicativo c
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.Read | delegado | Ler arquivos do usuário | Ler arquivos do usuário | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.Read.All | delegado | Ler todos os arquivos que o usuário pode acessar | Ler todos os arquivos que o usuário pode acessar | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.Read.Selected | delegado | Ler arquivos selecionados pelo usuário | Ler arquivos selecionados pelo usuário | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.ReadWrite | delegado | Ter acesso total aos arquivos do usuário | Ter acesso total aos arquivos do usuário | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.ReadWrite.All | delegado | Ter acesso total a todos os arquivos que o usuário pode acessar | Ter acesso total a todos os arquivos que o usuário pode acessar | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.ReadWrite.AppFolder | delegado | Ter acesso total à pasta do aplicativo (prévia) | Ter acesso total à pasta do aplicativo (prévia) | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| Files.ReadWrite.Selected | delegado | Ler e gravar arquivos selecionados pelo usuário | Ler e gravar arquivos selecionados pelo usuário | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.Read | delegado | Entrar e ler o perfil do usuário | Entrar e ler o perfil do usuário | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.Read.All | delegado | Ler os perfis completos de todos os usuários | Ler os perfis completos de todos os usuários | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.ReadBasic.All | delegado | Ler os perfis básicos de todos usuários | Ler os perfis básicos de todos usuários | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.ReadWrite | delegado | Acesso de leitura e gravação ao perfil de usuário | Acesso de leitura e gravação ao perfil de usuário | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| User.ReadWrite.All | delegado | Ler e gravar os perfis completos de todos os usuários | Ler e gravar os perfis completos de todos os usuários | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| offline_access | delegado | Manter acesso aos dados aos quais você concedeu acesso | Manter acesso aos dados aos quais você concedeu acesso | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
->| openid | delegado | Conectar os usuários | Conectar os usuários | 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.Read | delegado | Ler arquivos do usuário | Ler arquivos do usuário | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.Read.All | delegado | Ler todos os arquivos que o usuário pode acessar | Ler todos os arquivos que o usuário pode acessar | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.Read.Selected | delegado | Ler arquivos selecionados pelo usuário | Ler arquivos selecionados pelo usuário | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.ReadWrite | delegado | Ter acesso total aos arquivos do usuário | Ter acesso total aos arquivos do usuário | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.ReadWrite.All | delegado | Ter acesso total a todos os arquivos que o usuário pode acessar | Ter acesso total a todos os arquivos que o usuário pode acessar | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.ReadWrite.AppFolder | delegado | Ter acesso total à pasta do aplicativo (prévia) | Ter acesso total à pasta do aplicativo (prévia) | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| Files.ReadWrite.Selected | delegado | Ler e gravar arquivos selecionados pelo usuário | Ler e gravar arquivos selecionados pelo usuário | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário | Entrar e ler o perfil do usuário | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.Read.All | delegado | Ler os perfis completos de todos os usuários | Ler os perfis completos de todos os usuários | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.ReadBasic.All | delegado | Ler os perfis básicos de todos usuários | Ler os perfis básicos de todos usuários | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.ReadWrite | delegado | Acesso de leitura e gravação ao perfil de usuário | Acesso de leitura e gravação ao perfil de usuário | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| User.ReadWrite.All | delegado | Ler e gravar os perfis completos de todos os usuários | Ler e gravar os perfis completos de todos os usuários | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| offline_access | delegado | Manter acesso aos dados aos quais você concedeu acesso | Manter acesso aos dados aos quais você concedeu acesso | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
+>| openid | delegado | Conectar os usuários | Conectar os usuários | [238d0bd1-fa0a-4bb6-be82-97f7f9ee590e](https://docs.microsoft.com/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -83,7 +83,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Lista de reuniões | NENHUM DADO ARMAZENADO NO BANCO DE DADOS |  |
 
 

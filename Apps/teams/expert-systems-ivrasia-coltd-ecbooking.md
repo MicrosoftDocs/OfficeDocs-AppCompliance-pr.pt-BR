@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o ecBooking, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b1806ca26bb20d1f4f24d87d7b617ad9ff108397
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: f36edd400f35d7e4ccbfef5edd0225855f73ab69
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281874"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521724"
 ---
 # <a name="ecbooking"></a>ecBooking
 
@@ -55,14 +55,14 @@ Essas informações foram fornecidas pelo Expert Systems IVR(Asia) Co.Ltd. sobre
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | aplicação | Dados como Email do Usuário, Eventos de Usuário são armazenados. Os Eventos do Usuário são coletados para verificar a disponibilidade de salas e a criação de eventos. | A ID do evento users, o nome do local e os detalhes de outros eventos seriam armazenados. Os dados são coletados para verificar a disponibilidade de salas e a criação de eventos. | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| Mail.Send | aplicação | Dados como Email do Usuário. O Email do Usuário é coletado para o envio de email de lembrete de reserva de sala. | Dados como Email do Usuário. O Email do Usuário é coletado para o envio de email de lembrete de reserva de sala. | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| User.Read | delegado | Dados como ID do usuário, nome e email. Os dados do usuário são coletados para entrar no aplicativo do usuário. | Dados como ID do usuário, nome e email. Os dados do usuário são coletados para entrar no aplicativo do usuário. | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| User.Read.All | aplicação | Dados como ID do usuário, nome e email. Os dados do usuário são coletados para entrar no aplicativo do usuário. | Dados como ID do usuário, nome e email. Os dados do usuário são coletados para entrar no aplicativo do usuário. | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| email | delegado | Dados como Email do Usuário. O Email do Usuário é coletado para verificar a disponibilidade do usuário e a criação de eventos. | Dados como Email do Usuário. O Email do Usuário é coletado para verificar a disponibilidade do usuário e a criação de eventos. | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| openid | delegado | A inordenidade openid do usuário para permitir que o usuário faça logon no aplicativo. | A inordenidade openid do usuário para permitir que o usuário faça logon no aplicativo. | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | aplicação | Dados como Email do Usuário, Eventos de Usuário são armazenados. Os Eventos do Usuário são coletados para verificar a disponibilidade de salas e a criação de eventos. | A ID do evento users, o nome do local e os detalhes de outros eventos seriam armazenados. Os dados são coletados para verificar a disponibilidade de salas e a criação de eventos. | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| Mail.Send | aplicação | Dados como Email do Usuário. O Email do Usuário é coletado para o envio de email de lembrete de reserva de sala. | Dados como Email do Usuário. O Email do Usuário é coletado para o envio de email de lembrete de reserva de sala. | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| User.Read | delegado | Dados como ID do usuário, nome e email. Os dados do usuário são coletados para entrar no aplicativo do usuário. | Dados como ID do usuário, nome e email. Os dados do usuário são coletados para entrar no aplicativo do usuário. | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| User.Read.All | aplicação | Dados como ID do usuário, nome e email. Os dados do usuário são coletados para entrar no aplicativo do usuário. | Dados como ID do usuário, nome e email. Os dados do usuário são coletados para entrar no aplicativo do usuário. | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| email | delegado | Dados como Email do Usuário. O Email do Usuário é coletado para verificar a disponibilidade do usuário e a criação de eventos. | Dados como Email do Usuário. O Email do Usuário é coletado para verificar a disponibilidade do usuário e a criação de eventos. | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| openid | delegado | A inordenidade openid do usuário para permitir que o usuário faça logon no aplicativo. | A inordenidade openid do usuário para permitir que o usuário faça logon no aplicativo. | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

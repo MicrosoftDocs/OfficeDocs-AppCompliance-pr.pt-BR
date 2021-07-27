@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o add-in StarLeaf para Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 48335c7260921e50740f28d57192d74a9e0a4fe5
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 66f31eb44942e20b4db10d5e718eb67e3e50b03e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281593"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527897"
 ---
 # <a name="starleaf-add-in-for-outlook"></a>Add-in StarLeaf for Outlook
 
@@ -53,10 +53,10 @@ Essas informações foram fornecidas pelo StarLeaf sobre como esse aplicativo co
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | aplicação | armazenamos o iCalUId de reuniões, hora/data da reunião, endereços de email do participante e uma propriedade De Valor Único-Estendido que lemos e escrevemos na reunião usando a interface de propriedades personalizadas Office.js. O iCalUId é usado para correlacionar a reunião em um calendário&#8217;do outlook do usuário com a reunião de vídeo em nosso serviço. A hora/data e os participantes são usados para fornecer uma reunião de vídeo no momento certo para as pessoas certas em nosso serviço. SVEP são usados com nosso complemento O365 para fornecer uma interface para os usuários definirem detalhes sobre a reunião de vídeo em nosso serviço, como gravação. | usado para assinar notificações de webhook para acompanhar as alterações do usuário em seus calendários e atualizar nosso serviço para mantê-lo consistente. Ele também é usado para criar eventos em seu calendário quando um usuário interage com nosso aplicativo Teams e agenda uma reunião em nosso serviço. | 6e86b349-768f-4953-ac2e-fb03f92db4be |
->| User.Read | aplicação | armazenamos o token de atualização do oauth para poder fazer logon. Armazenamos a ID de perfil de usuários para poder comparar com futuras tentativas OAuth desse usuário e garantir que&#8217;armazenar seus detalhes duas vezes.  | permite que os usuários entre no aplicativo e permite que nosso aplicativo faça com que o usuário&#8217;endereço de email correlacionar seu logon com uma conta em nosso serviço.  | 6e86b349-768f-4953-ac2e-fb03f92db4be |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | aplicação | armazenamos o iCalUId de reuniões, hora/data da reunião, endereços de email do participante e uma propriedade De Valor Único-Estendido que lemos e escrevemos na reunião usando a interface de propriedades personalizadas Office.js. O iCalUId é usado para correlacionar a reunião em um calendário&#8217;do outlook do usuário com a reunião de vídeo em nosso serviço. A hora/data e os participantes são usados para fornecer uma reunião de vídeo no momento certo para as pessoas certas em nosso serviço. SVEP são usados com nosso complemento O365 para fornecer uma interface para os usuários definirem detalhes sobre a reunião de vídeo em nosso serviço, como gravação. | usado para assinar notificações de webhook para acompanhar as alterações do usuário em seus calendários e atualizar nosso serviço para mantê-lo consistente. Ele também é usado para criar eventos em seu calendário quando um usuário interage com nosso aplicativo Teams e agenda uma reunião em nosso serviço. | [6e86b349-768f-4953-ac2e-fb03f92db4be](https://docs.microsoft.com/microsoft-365-app-certification/azure/6e86b349-768f-4953-ac2e-fb03f92db4be) |
+>| User.Read | aplicação | armazenamos o token de atualização do oauth para poder fazer logon. Armazenamos a ID de perfil de usuários para poder comparar com futuras tentativas OAuth desse usuário e garantir que&#8217;armazenar seus detalhes duas vezes.  | permite que os usuários entre no aplicativo e permite que nosso aplicativo faça com que o usuário&#8217;endereço de email correlacionar seu logon com uma conta em nosso serviço.  | [6e86b349-768f-4953-ac2e-fb03f92db4be](https://docs.microsoft.com/microsoft-365-app-certification/azure/6e86b349-768f-4953-ac2e-fb03f92db4be) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -64,7 +64,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Se surgirem problemas de suporte técnico, os dados organizacionais poderão ser transferidos para SalesForce para gerenciamento de casos. Se o usuário fizer uso do recurso de discagem PSTN, a chamada fluirá através de Twilio, Plivo ou Voxbone |  | N/D |
 
 

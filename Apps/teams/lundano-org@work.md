@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Org@Work, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6791c124a7d18f6a6d0554857cad1f35b6fd7781
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 2c1cfec539c8db4ddd597b8125079521d40615c4
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281754"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521404"
 ---
 # <a name="orgwork"></a>Org@Work
 
@@ -55,13 +55,13 @@ Essas informações foram fornecidas por Lundano sobre como esse aplicativo cole
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | Nenhuma | aa1c54a1-f482-424d-9389-dbd131233483 |
->| email | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | Nenhuma | aa1c54a1-f482-424d-9389-dbd131233483 |
->| offline_access | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | Nenhuma | aa1c54a1-f482-424d-9389-dbd131233483 |
->| openid | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | Nenhuma | aa1c54a1-f482-424d-9389-dbd131233483 |
->| perfil | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | nenhuma | aa1c54a1-f482-424d-9389-dbd131233483 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | Nenhum | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| email | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | Nenhum | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| offline_access | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | Nenhum | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| openid | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | Nenhum | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| perfil | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | nenhuma | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -75,7 +75,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| O push de bot precisa mencionar o nome do funcionário para seu gerente de planejamento confirmá-lo | Sobrenomes do &amp; funcionário, endereço de email, local de trabalho e organização | Essas informações são necessárias pelo Org@Work de planejamento para concluir o fluxo de trabalho do &amp; processo |
 
 

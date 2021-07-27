@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Office2SharePoint para Office, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 85198f216bb99ab5d172886d7852878d0cf61be1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: ccf31f36f748348a01a798c3222c3fcdd6cb4606
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281553"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527827"
 ---
 # <a name="office2sharepoint-for-office"></a>Office2SharePoint para Office
 
@@ -52,25 +52,25 @@ Essas informações foram fornecidas pelo iGlobe sobre como esse aplicativo cole
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Permite ao aplicativo ter o mesmo acesso que o usuário conectado a informações no diretório. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Directory.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Directory.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Para obter os sites de grupo dos usuários. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Group.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Para acessar os emails/s selecionados e obter os anexos. No email ou adicione do site SharePoint ou Grupos ao email. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Mail.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Para acessar os emails/s selecionados e obter os anexos. No email ou adicione do site SharePoint ou Grupos ao email. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.Manage.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Permite que o aplicativo crie ou exclua bibliotecas de documentos e listas em todos os conjunto de sites em nome do usuário registrado. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Para obter os usuários SharePoint site. Obter arquivos e salvar anexos do email selecionado. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Para obter SharePoint, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Para obter os usuários SharePoint site, OneDrive e sites de grupo. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Permite ao aplicativo ter o mesmo acesso que o usuário conectado a informações no diretório. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Para obter os sites de grupo dos usuários. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Para acessar os emails/s selecionados e obter os anexos. No email ou adicione do site SharePoint ou Grupos ao email. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Mail.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Para acessar os emails/s selecionados e obter os anexos. No email ou adicione do site SharePoint ou Grupos ao email. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Manage.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Permite que o aplicativo crie ou exclua bibliotecas de documentos e listas em todos os conjunto de sites em nome do usuário registrado. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Para obter os usuários SharePoint site. Obter arquivos e salvar anexos do email selecionado. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Para obter SharePoint, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Para obter os usuários SharePoint site, OneDrive e sites de grupo. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
 Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Exchange - EWS. AccessAsUser.All | Não |  |  |  |  |
 >| Exchange - Mail.ReadWrite | Não |  |  |  |  |
 >| Exchange - MailboxSettings.ReadWrite | Não |  |  |  |  |

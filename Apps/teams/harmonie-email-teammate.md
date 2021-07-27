@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Email TeamMate, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 21c17ca6e6ac518063e9ba097b17422907e7189e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a5d84cc70ee039a4b2973fb5ec9bfd9f20a9a179
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553102"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521654"
 ---
 # <a name="email-teammate"></a>Email TeamMate
 
@@ -55,14 +55,14 @@ Essas informações foram fornecidas pelo harmon.ie sobre como esse aplicativo c
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Chat.Read | delegado | Obrigatório pelo TeamMate para obter membros de chat de uma conversa específica para compartilhar arquivos salvo em uma unidade SharePoint/Um com os membros do chat de conversa | nenhuma | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| Files.ReadWrite.All | delegado | Obrigatório pelo TeamMate para salvar anexos de emails em SharePoint &amp; /Teams /OneDrive | nenhuma | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| Mail.ReadWrite | delegado | Obrigatório pelo TeamMate para mostrar os emails do usuário e responder a emails salvos em Teams | nenhuma | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| People.Read | delegado | Obrigatório pelo TeamMate para pesquisar emails por pessoas e sugerir pessoas que você está contatando com frequência. | nenhuma | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| User.Read | delegado | permite que os usuários entre no TeamMate com sua conta e permite que o TeamMate veja informações básicas de perfil de usuário | nenhuma | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| User.ReadBasic.All | delegado | Obrigatório pelo TeamMate para resolver endereços de email de membros de chat para que os arquivos de compartilhamento salvos OneDrive com eles  | nenhuma | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Chat.Read | delegado | Obrigatório pelo TeamMate para obter membros de chat de uma conversa específica para compartilhar arquivos salvo em uma unidade SharePoint/Um com os membros do chat de conversa | nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| Files.ReadWrite.All | delegado | Obrigatório pelo TeamMate para salvar anexos de emails em SharePoint &amp; /Teams /OneDrive | nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| Mail.ReadWrite | delegado | Obrigatório pelo TeamMate para mostrar os emails do usuário e responder a emails salvos em Teams | nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| People.Read | delegado | Obrigatório pelo TeamMate para pesquisar emails por pessoas e sugerir pessoas que você está contatando com frequência. | nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| User.Read | delegado | permite que os usuários entre no TeamMate com sua conta e permite que o TeamMate veja informações básicas de perfil de usuário | nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| User.ReadBasic.All | delegado | Obrigatório pelo TeamMate para resolver endereços de email de membros de chat para que os arquivos de compartilhamento salvos OneDrive com eles  | nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o InStation, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 46b7c4131e1f3897036cf0b2180b2f99c2e6ff2c
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 1db56e204dc2fd83916a9ec6f2b20a13e02ed357
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282024"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521804"
 ---
 # <a name="instation"></a>InStation
 
@@ -54,18 +54,18 @@ Essas informações foram fornecidas pelos Desenvolvedores Invillia sobre como e
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| OnlineMeetings.Read.All | delegado | stores: id, join_url, join_web_url e chat_id. Permite que o aplicativo crie reuniões | stores: id, join_url, join_web_url e chat_id. Permite que o aplicativo crie reuniões | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| OnlineMeetings.ReadWrite.All | delegado | stores: id, join_url, join_web_url e chat_id. Permite que o aplicativo crie reuniões | stores: id, join_url, join_web_url e chat_id. Permite que o aplicativo crie reuniões | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| Presence.Read | delegado | Permite que o aplicativo faça logon na organização em sua primeira etapa | atividade e avaliabilidade. Permite que o aplicativo capture o status dos usuários; | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| Presence.Read.All | delegado | Permite que o aplicativo faça logon na organização em sua primeira etapa, | atividade e avaliabilidade. Permite que o aplicativo capture o status dos usuários; | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| User.Read | delegado | stores: id, email, nome de exibição, sobrenome e imagem. Permite que o aplicativo pesquise dados do usuário; | stores: id, email, nome de exibição, sobrenome e imagem. Permite que o aplicativo pesquise dados do usuário; | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| User.Read.All | delegado | stores: id, email, nome de exibição, sobrenome e imagem. Permite que o aplicativo pesquise dados do usuário; | stores: id, email, nome de exibição, sobrenome e imagem. Permite que o aplicativo pesquise dados do usuário; | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| email | delegado | Permite que o aplicativo capture as informações básicas&#180;administrador no primeiro logon | Permite que o aplicativo capture as informações básicas&#180;administrador no primeiro logon | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| offline_access | delegado | stores: token e token de atualização. Permite que o aplicativo execute uma atualização no token MS | stores: token e token de atualização. Permite que o aplicativo execute uma atualização no token MS | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| openid | delegado | Permite que o aplicativo faça logon na organização em sua primeira etapa | Permite que o aplicativo faça logon na organização em sua primeira etapa | 0c841985-9919-4c0a-b87d-b06b301148b3 |
->| perfil | delegado | Permite que o aplicativo capture as informações básicas&#180;Administrador no primeiro logon; | Permite que o aplicativo capture as informações básicas&#180;Administrador no primeiro logon; | 0c841985-9919-4c0a-b87d-b06b301148b3 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| OnlineMeetings.Read.All | delegado | stores: id, join_url, join_web_url e chat_id. Permite que o aplicativo crie reuniões | stores: id, join_url, join_web_url e chat_id. Permite que o aplicativo crie reuniões | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| OnlineMeetings.ReadWrite.All | delegado | stores: id, join_url, join_web_url e chat_id. Permite que o aplicativo crie reuniões | stores: id, join_url, join_web_url e chat_id. Permite que o aplicativo crie reuniões | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| Presence.Read | delegado | Permite que o aplicativo faça logon na organização em sua primeira etapa | atividade e avaliabilidade. Permite que o aplicativo capture o status dos usuários; | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| Presence.Read.All | delegado | Permite que o aplicativo faça logon na organização em sua primeira etapa, | atividade e avaliabilidade. Permite que o aplicativo capture o status dos usuários; | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| User.Read | delegado | stores: id, email, nome de exibição, sobrenome e imagem. Permite que o aplicativo pesquise dados do usuário; | stores: id, email, nome de exibição, sobrenome e imagem. Permite que o aplicativo pesquise dados do usuário; | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| User.Read.All | delegado | stores: id, email, nome de exibição, sobrenome e imagem. Permite que o aplicativo pesquise dados do usuário; | stores: id, email, nome de exibição, sobrenome e imagem. Permite que o aplicativo pesquise dados do usuário; | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| email | delegado | Permite que o aplicativo capture as informações básicas&#180;administrador no primeiro logon | Permite que o aplicativo capture as informações básicas&#180;administrador no primeiro logon | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| offline_access | delegado | stores: token e token de atualização. Permite que o aplicativo execute uma atualização no token MS | stores: token e token de atualização. Permite que o aplicativo execute uma atualização no token MS | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| openid | delegado | Permite que o aplicativo faça logon na organização em sua primeira etapa | Permite que o aplicativo faça logon na organização em sua primeira etapa | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| perfil | delegado | Permite que o aplicativo capture as informações básicas&#180;Administrador no primeiro logon; | Permite que o aplicativo capture as informações básicas&#180;Administrador no primeiro logon; | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

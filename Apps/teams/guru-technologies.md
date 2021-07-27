@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Guru, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4577aabcc19f32941d3d9005ba7e9fe61e4675cc
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 87316d020c6658b00fe7e12cc7326917779f2623
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281263"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521644"
 ---
 # <a name="guru"></a>Guru
 
@@ -63,7 +63,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Aplicativo de usuário final e bancos de dados internos do Guru | quando um usuário ou empresa configura o aplicativo Guru para Teams, informações comuns como nome de usuário, email e nome da empresa associados ao perfil de usuário são gravadas e acessíveis pelo Guru | Dado que um usuário deve ter uma conta de Teams e do Guru para usar a integração, acompanhamos e acompanhamos quais usuários estão habilitando a integração para ajudar a fornecer suporte e gerenciamento a esses usuários |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots

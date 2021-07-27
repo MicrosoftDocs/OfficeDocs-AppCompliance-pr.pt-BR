@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Viima, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: badd7c64ad512ad2051da270b07fdc8e87fbf628
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7c9db86a4ffce9107b7345f178fe850a66e26560
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279033"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528067"
 ---
 # <a name="viima"></a>Viima
 
@@ -55,9 +55,9 @@ Essas informações foram fornecidas pelo Viima Solutions Oy sobre como esse apl
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado |  Primeiros e últimos nomes, endereço UPN/email, local, localidade, departamento, local do escritório. Eles são usados para fazer logoff do usuário e fornecer informações básicas de perfil para eles no aplicativo. | permite que o usuário entre e dê acesso ao aplicativo para suas informações de perfil UPN e básicas para habilitar o logon silencioso | b8ea7030-ce4d-4ecd-98d7-dc16d8298d1b |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | delegado |  Primeiros e últimos nomes, endereço UPN/email, local, localidade, departamento, local do escritório. Eles são usados para fazer logoff do usuário e fornecer informações básicas de perfil para eles no aplicativo. | permite que o usuário entre e dê acesso ao aplicativo para suas informações de perfil UPN e básicas para habilitar o logon silencioso | [b8ea7030-ce4d-4ecd-98d7-dc16d8298d1b](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8ea7030-ce4d-4ecd-98d7-dc16d8298d1b) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

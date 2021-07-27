@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Cloverpop, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c6be013237c6368624687f7eb297a7149c28a548
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 3865c07aca73134fd9029ee0550559d9a4f93fd2
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281343"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521864"
 ---
 # <a name="cloverpop"></a>Cloverpop
 
@@ -54,11 +54,11 @@ Essas informações foram fornecidas pelo Cloverpop sobre como esse aplicativo c
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado | armazenar dados do usuário como. email, oid, givenName, familyName, user avatar, user object id. organization id(tenantId), organization display name, Also we store on our side teams/channels names, ids, teams members. Quando os usuários criam e interagem com decisões, associamos esses dados ao usuário, equipe e organização que os criou. Também precisamos exibir essa propriedade em um UX amigável humano, portanto, estamos armazenar informações de exibição, por exemplo, o usuário&#8217;avatar. | permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso&#8221; - email, nome, oid, tid, givenName, sobrenome, familyName, user avatar(photo), organização displayName | 1040474b-572d-4575-a423-95dd262a8b8a |
->| openid | delegado | Armazenar dados do usuário como. email, oid, givenName, familyName, user avatar, user object id. organization id(tenantId), organization display name, Also we store on our side teams/channels names, ids, teams members. Quando os usuários criam e interagem com decisões, associamos esses dados ao usuário, equipe e organização que os criou. Também precisamos exibir essa propriedade em um UX amigável humano, portanto, estamos armazenar informações de exibição, por exemplo, o usuário&#8217;avatar. | Para implementar &#8220;entrar com Teams&#8221; em nosso aplicativo Web. | 1040474b-572d-4575-a423-95dd262a8b8a |
->| perfil | delegado | Armazenar dados do usuário como. email, oid, givenName, familyName, user avatar, user object id. organization id(tenantId), organization display name, Also we store on our side teams/channels names, ids, teams members. Quando os usuários criam e interagem com decisões, associamos esses dados ao usuário, equipe e organização que os criou. Também precisamos exibir essa propriedade em um UX amigável humano, portanto, estamos armazenar informações de exibição, por exemplo, o usuário&#8217;avatar. | Para implementar &#8220;entrar com Teams&#8221; em nosso aplicativo Web. | 1040474b-572d-4575-a423-95dd262a8b8a |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | delegado | armazenar dados do usuário como. email, oid, givenName, familyName, user avatar, user object id. organization id(tenantId), organization display name, Also we store on our side teams/channels names, ids, teams members. Quando os usuários criam e interagem com decisões, associamos esses dados ao usuário, equipe e organização que os criou. Também precisamos exibir essa propriedade em um UX amigável humano, portanto, estamos armazenar informações de exibição, por exemplo, o usuário&#8217;avatar. | permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso&#8221; - email, nome, oid, tid, givenName, sobrenome, familyName, user avatar(photo), organização displayName | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |
+>| openid | delegado | Armazenar dados do usuário como. email, oid, givenName, familyName, user avatar, user object id. organization id(tenantId), organization display name, Also we store on our side teams/channels names, ids, teams members. Quando os usuários criam e interagem com decisões, associamos esses dados ao usuário, equipe e organização que os criou. Também precisamos exibir essa propriedade em um UX amigável humano, portanto, estamos armazenar informações de exibição, por exemplo, o usuário&#8217;avatar. | Para implementar &#8220;entrar com Teams&#8221; em nosso aplicativo Web. | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |
+>| perfil | delegado | Armazenar dados do usuário como. email, oid, givenName, familyName, user avatar, user object id. organization id(tenantId), organization display name, Also we store on our side teams/channels names, ids, teams members. Quando os usuários criam e interagem com decisões, associamos esses dados ao usuário, equipe e organização que os criou. Também precisamos exibir essa propriedade em um UX amigável humano, portanto, estamos armazenar informações de exibição, por exemplo, o usuário&#8217;avatar. | Para implementar &#8220;entrar com Teams&#8221; em nosso aplicativo Web. | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -72,7 +72,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Acessamos os dados de nome de primeira/última/exibição para exibir com precisão quais ações foram tomadas por usuários específicos relacionados a uma decisão. Usamos o endereço de email como o identificador exclusivo para cada usuário em nosso db, pois permitimos que cada usuário pertença a várias organizações. Só acessamos esses dados quando eles interagem com nosso aplicativo, por exemplo, se eles responderem a uma sondagem. | Armazenamos os dados de nome de primeira/última/exibição para exibir com precisão quais ações foram tomadas por usuários específicos relacionados a uma decisão.  Armazenamos o endereço de email porque o usamos como o identificador exclusivo para cada usuário em nosso db, pois permitimos que cada usuário pertença a várias organizações. Armazenamos esses dados somente quando eles interagem com nosso aplicativo, por exemplo, se eles responderem a uma sondagem. Nossos dados de decisão devem ser um sistema de registro para decisões, portanto, é importante armazenar os dados para identificar como cada usuário envolvido com uma decisão contribuiu para essa decisão. |  |
 
 
