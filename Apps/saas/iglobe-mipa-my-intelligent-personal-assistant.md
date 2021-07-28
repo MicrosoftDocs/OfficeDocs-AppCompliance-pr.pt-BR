@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para MIPA - Meu Assistente Pessoal Inteligente, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 684cd61aec216db5bc60bb92abd2d93963c2138a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: b57d64361c4e89d3f0e1d2c4eda908c8b56f3b08
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282427"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53524564"
 ---
 # <a name="mipa---my-intelligent-personal-assistant"></a>MIPA - Meu Assistente Pessoal Inteligente
 
@@ -52,33 +52,33 @@ Essas informações foram fornecidas pelo iGlobe sobre como esse aplicativo cole
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar inteiros de calendário | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Contacts.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar inteiros de calendário | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Directory.AccessAsUser.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados. Para verificar se o usuário tem consentimento e tem acesso para usar a API. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Directory.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Files.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Group.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. Integração ao iGlobe CRM Office 365 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Mail.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar email sinalizado | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| MailboxSettings.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar inteiros do calendário, ler e atualizar email sinalizado, ler e atualizar Outlook To Do inteiros | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Tasks.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas, ler, atualizar, criar tarefas de painel | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.ReadBasic.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas, ler, atualizar, criar tarefas de painel | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| email | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Permite que o aplicativo leia o endereço de email principal de seus usuários ( para SSO). | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| offline_access | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Permite que o aplicativo veja e atualize os dados aos que você deu acesso a ele, mesmo quando os usuários não estão usando o aplicativo no momento. Isso não dá ao aplicativo permissões adicionais ( para SSO). | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| openid | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Permite que os usuários entre no aplicativo com suas contas de trabalho ou de estudante e permite que o aplicativo veja informações básicas de perfil de usuário(para SSO). | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| perfil | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas, ler, atualizar, criar tarefas de painel | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar inteiros de calendário | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Contacts.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar inteiros de calendário | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Directory.AccessAsUser.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados. Para verificar se o usuário tem consentimento e tem acesso para usar a API. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Directory.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Files.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Group.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. Integração ao iGlobe CRM Office 365 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Mail.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar email sinalizado | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| MailboxSettings.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar inteiros do calendário, ler e atualizar email sinalizado, ler e atualizar Outlook To Do inteiros | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Tasks.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas, ler, atualizar, criar tarefas de painel | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.ReadBasic.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas, ler, atualizar, criar tarefas de painel | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| email | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Permite que o aplicativo leia o endereço de email principal de seus usuários ( para SSO). | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| offline_access | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Permite que o aplicativo veja e atualize os dados aos que você deu acesso a ele, mesmo quando os usuários não estão usando o aplicativo no momento. Isso não dá ao aplicativo permissões adicionais ( para SSO). | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| openid | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Permite que os usuários entre no aplicativo com suas contas de trabalho ou de estudante e permite que o aplicativo veja informações básicas de perfil de usuário(para SSO). | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| perfil | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas, ler, atualizar, criar tarefas de painel | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
 Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Exchange - Calendars.ReadWrite.All | Não |  |  |  |  |
 >| Exchange - EWS. AccessAsUser.All | Não |  |  |  |  |
 >| Exchange - Mail.Read | Não |  |  |  |  |

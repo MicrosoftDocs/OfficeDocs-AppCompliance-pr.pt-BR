@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o AtBot, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3f56d0b3eb19f5bed8f7092507c8605af936b911
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 94cc732dc5f6cf6416fd1b386271b3694d6f3698
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552132"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525615"
 ---
 # <a name="atbot"></a>AtBot
 
@@ -55,16 +55,16 @@ Essas informações foram fornecidas pela H3 Solutions, Inc. sobre como esse apl
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | aplicação | Nome do grupo AAD, GUID do grupo AAD, UPN | Enumerar grupos AAD para permitir a recortação de segurança de habilidades de bot. Enumerar usuários para poder aplicar licenças. Enumerar usuários a adicionar como Administradores/Colaboradores | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| Directory.Read.All | delegado | Nome do grupo AAD, GUID do grupo AAD, UPN | Enumerar grupos AAD para permitir a recortação de segurança de habilidades de bot. Enumerar usuários para poder aplicar licenças. Enumerar usuários a adicionar como Administradores/Colaboradores | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| People.Read | delegado | Não | Enumerar pessoas em uma ação Obter Pessoa Flow.  Permite que o bot recupere pessoas do ponto de extremidade /People no Microsoft Graph. | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| User.Read | delegado | ID de locatário, UPN | Nos dá acesso ao usuário&#8217;ID de Locatário e UPN para nos permitir a adoção de Fluxos/Aplicativos Lógicos criados aos usuários que os criaram. | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| email | delegado | Não | Nos dá acesso ao endereço de email do usuário. | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| offline_access | delegado | Tokens de acesso/atualização. | Permite usar um token de atualização para manter os usuários conectados. | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| openid | delegado | Não | Permite que os usuários faça logoff. | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| perfil | delegado | UPN | Acesso ao UPN do usuário. | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | aplicação | Nome do grupo AAD, GUID do grupo AAD, UPN | Enumerar grupos AAD para permitir a recortação de segurança de habilidades de bot. Enumerar usuários para poder aplicar licenças. Enumerar usuários a adicionar como Administradores/Colaboradores | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| Directory.Read.All | delegado | Nome do grupo AAD, GUID do grupo AAD, UPN | Enumerar grupos AAD para permitir a recortação de segurança de habilidades de bot. Enumerar usuários para poder aplicar licenças. Enumerar usuários a adicionar como Administradores/Colaboradores | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| People.Read | delegado | Não | Enumerar pessoas em uma ação Obter Pessoa Flow.  Permite que o bot recupere pessoas do ponto de extremidade /People no Microsoft Graph. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| User.Read | delegado | ID de locatário, UPN | Nos dá acesso ao usuário&#8217;ID de Locatário e UPN para nos permitir a adoção de Fluxos/Aplicativos Lógicos criados aos usuários que os criaram. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| email | delegado | Não | Nos dá acesso ao endereço de email do usuário. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| offline_access | delegado | Tokens de acesso/atualização. | Permite usar um token de atualização para manter os usuários conectados. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| openid | delegado | Não | Permite que os usuários faça logoff. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| perfil | delegado | UPN | Acesso ao UPN do usuário. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -78,7 +78,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| A criação de menções em mensagens de chat geradas por bot | Não |  |
 
 
@@ -86,7 +86,7 @@ Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá ac
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->ID do locatário, UPN Usamos o Application Insights e nossos logs durarão 90 dias antes de serem arquivados automaticamente. (https://docs.microsoft.com/azure/azure-monitor/app/data-retention-privacy)
+>ID do locatário, UPN Usamos aplicativo Insights e nossos logs durarão 90 dias antes de serem arquivados automaticamente. (https://docs.microsoft.com/azure/azure-monitor/app/data-retention-privacy)
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 

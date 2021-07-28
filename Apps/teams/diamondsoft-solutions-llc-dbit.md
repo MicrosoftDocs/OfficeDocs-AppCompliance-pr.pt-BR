@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a DBit, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: dbdb857d15f33848c459bc817fa9c2c55da8e6b4
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: f3adc828ee3a7b77b54d49c401375a9671a496e6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281313"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525715"
 ---
 # <a name="dbit"></a>DBit
 
@@ -54,13 +54,13 @@ Essas informações foram fornecidas pelas Soluções Da Diamondsoft, LLC sobre 
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado | Não armazenamos informações Graph em nosso sistema ou bancos de dados. | Entrar e ler o perfil do usuário | 1533d702-7604-463a-9fa3-63077c425e76 |
->| email | delegado | Não armazenamos informações Graph em nosso sistema ou bancos de dados. | Exibir o endereço de email do usuário | 1533d702-7604-463a-9fa3-63077c425e76 |
->| offline_access | delegado | Não armazenamos informações Graph em nosso sistema ou bancos de dados. | Manter acesso aos dados aos quais você concedeu acesso | 1533d702-7604-463a-9fa3-63077c425e76 |
->| openid | delegado | Não armazenamos informações Graph em nosso sistema ou bancos de dados. | Conectar os usuários | 1533d702-7604-463a-9fa3-63077c425e76 |
->| perfil | delegado | Não armazenamos informações Graph em nosso sistema ou bancos de dados. | Exibir os perfis básicos dos usuários | 1533d702-7604-463a-9fa3-63077c425e76 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | delegado | Não armazenamos informações Graph em nosso sistema ou bancos de dados. | Entrar e ler o perfil do usuário | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
+>| email | delegado | Não armazenamos informações Graph em nosso sistema ou bancos de dados. | Exibir o endereço de email do usuário | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
+>| offline_access | delegado | Não armazenamos informações Graph em nosso sistema ou bancos de dados. | Manter acesso aos dados aos quais você concedeu acesso | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
+>| openid | delegado | Não armazenamos informações Graph em nosso sistema ou bancos de dados. | Conectar os usuários | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
+>| perfil | delegado | Não armazenamos informações Graph em nosso sistema ou bancos de dados. | Exibir os perfis básicos dos usuários | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -74,7 +74,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Para criar uma mensagem de boas-vindas | Não armazenamos informações de lista em nosso sistema ou bancos de dados. |  |
 
 

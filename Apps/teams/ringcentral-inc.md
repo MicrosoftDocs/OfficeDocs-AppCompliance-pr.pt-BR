@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para RingCentral, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2035f615146f8809d6113192d796d2760d87f50e
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.openlocfilehash: bb0787720195363368e3d822e45f173acee67870
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987724"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525395"
 ---
 # <a name="ringcentral"></a>RingCentral
 
@@ -55,12 +55,12 @@ Essas informações foram fornecidas pela RingCentral, Inc. sobre como esse apli
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | delegado |  Permite que o aplicativo envie convites de reunião por meio de seu calendário | Nenhum |  0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
->| offline_access | delegado |  Permite que o aplicativo receba e atualize o token oauth |  Token de acesso, token de atualização para acessar a API de Graph MS |  0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
->| User.Read | delegado |  Permite que o aplicativo leia um usuário&#8217;perfil básico (email, nome) para fazer as combinações de contato em nosso final. E permite que o usuário entre e vincule sua conta do O365 com a conta RingCentral |  Email, nome, sobrenome | 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
->| User.Read.All | delegado | Permite que o aplicativo leia o perfil completo de um usuário com números de telefone para fazer chamadas telefônicas com nossos serviços. | Nenhum | 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | delegado |  Permite que o aplicativo envie convites de reunião por meio de seu calendário | Nenhum | [ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| offline_access | delegado |  Permite que o aplicativo receba e atualize o token oauth |  Token de acesso, token de atualização para acessar a API de Graph MS | [ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| User.Read | delegado |  Permite que o aplicativo leia um usuário&#8217;perfil básico (email, nome) para fazer as combinações de contato em nosso final. E permite que o usuário entre e vincule sua conta do O365 com a conta RingCentral |  Email, nome, sobrenome | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| User.Read.All | delegado | Permite que o aplicativo leia o perfil completo de um usuário com números de telefone para fazer chamadas telefônicas com nossos serviços. | Nenhum | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

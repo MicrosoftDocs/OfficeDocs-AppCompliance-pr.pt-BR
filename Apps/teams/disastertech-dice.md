@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para DisasterTech DICE, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c9aceaf48c36012ad8c6eb062c1161746d55da6a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d8eec2ad9c7047a33dae446943c3ab2d934cc78c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281914"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525705"
 ---
 # <a name="disastertech-dice"></a>DisasterTech DICE
 
@@ -54,13 +54,13 @@ Essas informações foram fornecidas pela DisasterTech sobre como esse aplicativ
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado | Endereço de email do usuário armazenado para estabelecer direitos de acesso, bem como o nome de usuário para identificar usuários pelo nome | Permite que o usuário entre e dê acesso ao aplicativo para seu UPN para habilitar o logon silencioso, bem como Teams logon, também para estabelecer nomes de usuário e endereços de email. | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| email | delegado | Nenhuma | Obrigatório para Teams single Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| offline_access | delegado | Nenhuma | Obrigatório para Teams single Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| openid | delegado | Nenhuma | Obrigatório para Teams single Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| perfil | delegado | Nenhuma | Obrigatório para Teams login único. | 36d23b76-c58b-4a34-a60f-dceac6962bad |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | delegado | Endereço de email do usuário armazenado para estabelecer direitos de acesso, bem como o nome de usuário para identificar usuários pelo nome | Permite que o usuário entre e dê acesso ao aplicativo para seu UPN para habilitar o logon silencioso, bem como Teams logon, também para estabelecer nomes de usuário e endereços de email. | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| email | delegado | Nenhum | Obrigatório para Teams single Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| offline_access | delegado | Nenhum | Obrigatório para Teams single Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| openid | delegado | Nenhum | Obrigatório para Teams single Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| perfil | delegado | Nenhum | Obrigatório para Teams login único. | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

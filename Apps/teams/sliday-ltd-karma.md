@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Karma, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ffdd34522178c481b84d0a5b102fab20f41ea3ed
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: a7603ed4676653b26d93027e5c3e3d47065e83db
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281033"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53524684"
 ---
 # <a name="karma"></a>Karma
 
@@ -55,9 +55,9 @@ Essas informações foram fornecidas pela Sliday LTD sobre como esse aplicativo 
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | aplicação | Nome, sobrenome e endereço de email da empresa. Nome, sobrenome para relatórios voltados para administrador. Endereço de email para comunicação em relação ao Karma, fins de cobrança e herarquia. | Nome de exibição de consentimento do administrador. Entre e leia o perfil do usuário. Descrição do consentimento do administrador. Permite que os usuários se inscrevam no aplicativo e permitem que o aplicativo leia o perfil de usuários assinados. Ele também permite que o aplicativo leia informações básicas da empresa de usuários assinados. Nome de exibição de consentimento do usuárioSigne você e leia seu perfil. Descrição do consentimento do usuário. Permite que você entre no aplicativo com sua conta organizacional e permita que o aplicativo leia seu perfil. Ele também permite que o aplicativo leia informações básicas da empresa. | 9ff28b02-ccc5-4cac-9d17-4cf6987c371f |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | aplicação | Nome, sobrenome e endereço de email da empresa. Nome, sobrenome para relatórios voltados para administrador. Endereço de email para comunicação em relação ao Karma, fins de cobrança e herarquia. | Nome de exibição de consentimento do administrador. Entre e leia o perfil do usuário. Descrição do consentimento do administrador. Permite que os usuários se inscrevam no aplicativo e permitem que o aplicativo leia o perfil de usuários assinados. Ele também permite que o aplicativo leia informações básicas da empresa de usuários assinados. Nome de exibição de consentimento do usuárioSigne você e leia seu perfil. Descrição do consentimento do usuário. Permite que você entre no aplicativo com sua conta organizacional e permita que o aplicativo leia seu perfil. Ele também permite que o aplicativo leia informações básicas da empresa. | [9ff28b02-ccc5-4cac-9d17-4cf6987c371f](https://docs.microsoft.com/microsoft-365-app-certification/azure/9ff28b02-ccc5-4cac-9d17-4cf6987c371f) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -71,7 +71,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Nome, sobrenome e endereço de email da empresa Nome, sobrenome do administrador voltado para o endereço de email de relatório para comunicação em relação ao Karma. A lista é necessária para fins de cobrança e para dividir os usuários em massa em departaments separados. | Nome, sobrenome e endereço de email da empresa Nome, sobrenome para relatórios voltados para administrador. Endereço de email para comunicação em relação ao Karma, fins de cobrança e hierarquia de usuários do Karma. |  |
 
 

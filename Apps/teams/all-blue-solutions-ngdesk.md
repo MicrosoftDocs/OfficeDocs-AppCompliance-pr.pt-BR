@@ -1,45 +1,45 @@
 ---
-title: Informações do aplicativo para o Sentry by Sentry
+title: Informações do aplicativo para ngDesk por Todas as Soluções Azuis
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/09/2020
+ms.date: 06/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Sentry, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o ngDesk, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fb959fbccb6b1ceddfaa6496cb155803fc9f9a28
+ms.openlocfilehash: b361541352b4fb5c21431403aaea8d7b13a0e104
 ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/22/2021
-ms.locfileid: "53524729"
+ms.locfileid: "53526447"
 ---
-# <a name="sentry"></a>Sentry
+# <a name="ngdesk"></a>ngDesk
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 9 de dezembro de 2020</p>
+<p>Última atualização pelo desenvolvedor em: 30 de junho de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/5adee720-30de-4006-a342-d454317db1d4" target="_blank">Exibir no Teams store</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002106" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/64d24486-30aa-4fae-8bdc-2680a85dcbb5" target="_blank">Exibir no Teams store</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002968" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Sentry para a Microsoft:
+Informações fornecidas por Todas as Soluções Azuis para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Sentry |
-| ID | WA200002106 |
+| Nome do aplicativo | ngDesk |
+| ID | WA200002968 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Sentry |
-| URL do site do parceiro | [https://sentry.io](https://sentry.io) |
-| URL da página Teams de informações do aplicativo | [https://docs.sentry.io/product/integrations/msteams/](https://docs.sentry.io/product/integrations/msteams/) |
-| URL da Política de Privacidade | [https://sentry.io/privacy/](https://sentry.io/privacy/) |
-| URL dos Termos de Uso | [https://sentry.io/terms/](https://sentry.io/terms/) |
+| Nome da empresa de parceiro | Todas as soluções azuis |
+| URL do site do parceiro | [https://ngdesk.com](https://ngdesk.com) |
+| URL da página Teams de informações do aplicativo | [https://ngdesk.com](https://ngdesk.com) |
+| URL da Política de Privacidade | [https://ngdesk.com/privacy-policy](https://ngdesk.com/privacy-policy) |
+| URL dos Termos de Uso | [https://ngdesk.com/terms-of-service/](https://ngdesk.com/terms-of-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ Informações fornecidas pelo Sentry para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo Sentry sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas por All Blue Solutions sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
@@ -57,14 +57,6 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >Este aplicativo não usa o Microsoft Graph.
 
-#### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
-
-Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
-
->| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| teams | Não |  |  |  |  |
->| conversations | Não |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
@@ -89,7 +81,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->N/D
+>Não enviamos dados para outros sistemas parceiros
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -105,9 +97,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35271' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35271" target="_blank">Exibir em uma nova guia</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559" target="_blank">Exibir em uma nova guia</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -117,7 +109,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pelo Sentry sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas por All Blue Solutions sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|

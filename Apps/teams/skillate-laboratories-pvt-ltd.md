@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Skillate, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e92d7e997ba94746820fde5daccb028fc246e255
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: c64088a0debbb7766a57631841c489a8d8ea1826
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281043"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53524704"
 ---
 # <a name="skillate"></a>Skillate
 
@@ -55,10 +55,10 @@ Essas informações foram fornecidas pelo Skillate Laboratories Pvt. Ltd. sobre 
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| email | delegado | Os dados são coletados para autorizar o usuário final em Skillate | Armazenamos o endereço de email apenas para criar a conta do usuário no aplicativo Skillate | ed4df345-c860-4ffe-b614-0460d9106f0f |
->| openid | delegado | Estamos usando a API para registrar o usuário na Microsoft para Habilidosa usando o SSO | Estamos armazenar apenas o nome e o sobrenome do usuário final | ed4df345-c860-4ffe-b614-0460d9106f0f |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| email | delegado | Os dados são coletados para autorizar o usuário final em Skillate | Armazenamos o endereço de email apenas para criar a conta do usuário no aplicativo Skillate | [ed4df345-c860-4ffe-b614-0460d9106f0f](https://docs.microsoft.com/microsoft-365-app-certification/azure/ed4df345-c860-4ffe-b614-0460d9106f0f) |
+>| openid | delegado | Estamos usando a API para registrar o usuário na Microsoft para Habilidosa usando o SSO | Estamos armazenar apenas o nome e o sobrenome do usuário final | [ed4df345-c860-4ffe-b614-0460d9106f0f](https://docs.microsoft.com/microsoft-365-app-certification/azure/ed4df345-c860-4ffe-b614-0460d9106f0f) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -72,7 +72,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Estamos usando o endereço de email apenas para autorizar os usuários a usarem a extensão de mensagens | Ao criar a conta, armazenamos emails, nome e sobrenome. No entanto, durante o uso do aplicativo, o usuário pode optar por adicionar mais variável com base nas entradas do cliente | Estamos apenas armazenar emails, nome e sobrenome do usuário final para autorizar e criar conta.  |
 
 

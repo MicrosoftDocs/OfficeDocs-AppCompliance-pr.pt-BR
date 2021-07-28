@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para MailClark, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9d21ca3fe09b49a66725b0e7195fe08836d3d125
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3e9c01b76c513fd0786b27a0447a70c1f9c9d7e0
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552952"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525495"
 ---
 # <a name="mailclark"></a>MailClark
 
@@ -55,14 +55,14 @@ Essas informações foram fornecidas pelo MailClark sobre como esse aplicativo c
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Mail.ReadWrite | aplicação |  | Leitura: para assinar notificações por push para emails de entrada. Gravação: para criar rascunhos. |  |
->| Mail.Send | aplicação |  | Para enviar rascunhos. |  |
->| User.Read | aplicação | Detalhes da conta, por exemplo, endereço de email. | Para identificar a conta. |  |
->| offline_access | aplicação | Token de atualização | Para renovar a autenticação até que a conta seja desconectada. |  |
->| openid | aplicação |  | Necessário para autenticar. |  |
->| perfil | aplicação |  | Para autenticar o usuário. |  |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Mail.ReadWrite | aplicação |  | Leitura: para assinar notificações por push para emails de entrada. Gravação: para criar rascunhos. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.Send | aplicação |  | Para enviar rascunhos. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | aplicação | Detalhes da conta, por exemplo, endereço de email. | Para identificar a conta. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | aplicação | Token de atualização | Para renovar a autenticação até que a conta seja desconectada. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| openid | aplicação |  | Necessário para autenticar. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| perfil | aplicação |  | Para autenticar o usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -76,7 +76,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Para atribuir pessoas a conversas | Nome, sobrenome, nome para exibição, endereço de email |  |
 
 

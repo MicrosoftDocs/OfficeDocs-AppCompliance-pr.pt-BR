@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Lumio pelo SMART, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 50cde4ecae9abf39b199b381bcf8e5da33b345e6
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7f97e53eb5b4c27aa8bf2be4c97760f8a536cd06
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283295"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53520984"
 ---
 # <a name="lumio-by-smart"></a>Lumio por SMART
 
@@ -55,10 +55,10 @@ Essas informações foram fornecidas pelo SMART Technologies ULC sobre como esse
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | delegado | Os dados são usados para verificar as permissões de grupo que nenhum dado é coletado.  | Nenhum dado de diretório é armazenado no banco de dados | 14cf575a-fae2-48e2-af39-e3448d3a48bb |
->| Group.Read.All | delegado | de qual grupo eles são, isso é usado para verificar se eles fazem parte do grupo de alunos ou professores para determinar a funcionalidade. Nenhum dado coletado.  | Somente os dados armazenados são as ID exclusivas dos clientes | 14cf575a-fae2-48e2-af39-e3448d3a48bb |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | delegado | Os dados são usados para verificar as permissões de grupo que nenhum dado é coletado.  | Nenhum dado de diretório é armazenado no banco de dados | [14cf575a-fae2-48e2-af39-e3448d3a48bb](https://docs.microsoft.com/microsoft-365-app-certification/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb) |
+>| Group.Read.All | delegado | de qual grupo eles são, isso é usado para verificar se eles fazem parte do grupo de alunos ou professores para determinar a funcionalidade. Nenhum dado coletado.  | Somente os dados armazenados são as ID exclusivas dos clientes | [14cf575a-fae2-48e2-af39-e3448d3a48bb](https://docs.microsoft.com/microsoft-365-app-certification/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

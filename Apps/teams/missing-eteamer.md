@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o eTeamer, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 61646392953ecd8ed21de5ba7029f8ec0d11db2f
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 149cc78306c01d767de2a646a67d4d2848bf95db
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282417"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525465"
 ---
 # <a name="eteamer"></a>eTeamer
 
@@ -54,9 +54,9 @@ Essas informações foram fornecidas pelo &#28145;&#22323;&#20234;&#30331;&#3671
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ChannelMember.ReadWrite.All | ambos | A ID do aplicativo de locatário e a senha do aplicativo são coletadas para autorização implícita do OAuth 2.0 para sincronizar informações do usuário | A ID do locatário, a ID do aplicativo de locatário, a senha do aplicativo e as informações do usuário são armazenadas no banco de dados, que é usado para obter as informações de arquivo de canal dos usuários no Teams e operar nos arquivos | 3407e97c-3eed-4eca-add5-2549ed881269 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ChannelMember.ReadWrite.All | ambos | A ID do aplicativo de locatário e a senha do aplicativo são coletadas para autorização implícita do OAuth 2.0 para sincronizar informações do usuário | A ID do locatário, a ID do aplicativo de locatário, a senha do aplicativo e as informações do usuário são armazenadas no banco de dados, que é usado para obter as informações de arquivo de canal dos usuários no Teams e operar nos arquivos | [3407e97c-3eed-4eca-add5-2549ed881269](https://docs.microsoft.com/microsoft-365-app-certification/azure/3407e97c-3eed-4eca-add5-2549ed881269) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para MindManager, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 69efbc45560d3271f03f8af8e9cfeb1aa7c89e5d
-ms.sourcegitcommit: 41be194e2be4de3cdb686daee7a8f6e4d1fc765a
+ms.openlocfilehash: 7a431ae7736e2efa22a2d75ff3a1cfc2e1e2234f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52904537"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525735"
 ---
 # <a name="mindmanager"></a>MindManager
 
@@ -54,14 +54,14 @@ Essas informações foram fornecidas pelo Corel sobre como esse aplicativo colet
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ChannelMessage.Send | delegado | Informações sobre as alterações feitas em um arquivo MindManager que podem ser postadas como uma mensagem | metadados de arquivo, conteúdo de arquivo - para navegador de arquivo, o usuário pode navegar por seus arquivos para abrir um arquivo MindManager (.mmap). | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| Chat.Send | delegado | Informações sobre as alterações feitas em um arquivo MindManager que podem ser postadas como uma mensagem | metadados de arquivo, conteúdo de arquivo - para navegador de arquivo, o usuário pode navegar por seus arquivos para abrir um arquivo MindManager (.mmap). | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| Files.ReadWrite | delegado | listagem de sites, listagem de pastas, metadados de arquivo, conteúdo de arquivo - para o navegador de arquivos, o usuário pode navegar por seus arquivos para abrir um arquivo MindManager (.mmap). | - dados de perfil: para identificar o usuário e mostrar seu perfil - conteúdo do arquivo: durante a sessão de co-edição (edição colaborativa em tempo real em arquivos .mmap mindManager) | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| Sites.ReadWrite.All | delegado | listagem de sites, listagem de pastas, metadados de arquivo, conteúdo de arquivo - para o navegador de arquivos, o usuário pode navegar por seus arquivos para abrir um arquivo MindManager (.mmap). | conteúdo do arquivo: durante a sessão de co-edição (edição colaborativa em tempo real em arquivos .mmap mindManager) | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| User.Read | delegado | dados de perfil: para identificar o usuário e mostrar seu perfil | dados de perfil: para identificar o usuário e mostrar seu perfil | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| offline_access | delegado | Isso nos permite salvar um arquivo de volta ao local original em nome do usuário mais tarde, se necessário. | conteúdo do arquivo: durante a sessão de co-edição (edição colaborativa em tempo real em arquivos .mmap mindManager) | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ChannelMessage.Send | delegado | Informações sobre as alterações feitas em um arquivo MindManager que podem ser postadas como uma mensagem | metadados de arquivo, conteúdo de arquivo - para navegador de arquivo, o usuário pode navegar por seus arquivos para abrir um arquivo MindManager (.mmap). | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| Chat.Send | delegado | Informações sobre as alterações feitas em um arquivo MindManager que podem ser postadas como uma mensagem | metadados de arquivo, conteúdo de arquivo - para navegador de arquivo, o usuário pode navegar por seus arquivos para abrir um arquivo MindManager (.mmap). | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| Files.ReadWrite | delegado | listagem de sites, listagem de pastas, metadados de arquivo, conteúdo de arquivo - para o navegador de arquivos, o usuário pode navegar por seus arquivos para abrir um arquivo MindManager (.mmap). | - dados de perfil: para identificar o usuário e mostrar seu perfil - conteúdo do arquivo: durante a sessão de co-edição (edição colaborativa em tempo real em arquivos .mmap mindManager) | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| Sites.ReadWrite.All | delegado | listagem de sites, listagem de pastas, metadados de arquivo, conteúdo de arquivo - para o navegador de arquivos, o usuário pode navegar por seus arquivos para abrir um arquivo MindManager (.mmap). | conteúdo do arquivo: durante a sessão de co-edição (edição colaborativa em tempo real em arquivos .mmap mindManager) | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| User.Read | delegado | dados de perfil: para identificar o usuário e mostrar seu perfil | dados de perfil: para identificar o usuário e mostrar seu perfil | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| offline_access | delegado | Isso nos permite salvar um arquivo de volta ao local original em nome do usuário mais tarde, se necessário. | conteúdo do arquivo: durante a sessão de co-edição (edição colaborativa em tempo real em arquivos .mmap mindManager) | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -69,7 +69,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Amazon Web Services | Nome da organização, Domínio da Organização | A organização precisa de uma configuração de conta em nossa infraestrutura de aplicativos para usar o aplicativo dentro Teams |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots

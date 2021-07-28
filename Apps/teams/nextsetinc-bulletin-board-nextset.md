@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Quadro de Boletins - NextSet, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 98e8c546a86d63a6fd63832d30759854cfae844a
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.openlocfilehash: c423181155ac9b777bb03576032f01a8a16578b4
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987743"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525435"
 ---
-# <a name="bulletin-board---nextset"></a>Quadro de Boletins - NextSet
+# <a name="bulletin-board---nextset"></a>Quadro de Avisos - NextSet
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Informações fornecidas pelo NextSet,Inc. à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Quadro de Boletins - NextSet |
+| Nome do aplicativo | Quadro de Avisos - NextSet |
 | ID | WA200002122 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | NextSet,Inc. |
@@ -55,19 +55,19 @@ Essas informações foram fornecidas pelo NextSet,Inc. sobre como esse aplicativ
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | ambos | &#25237;&#31295;&#12487;&#12540;&#12479;&#12434;Excel&#12458;&#12531;&#12521;&#12452;&#12531;&#12395;&#20986;&#21147;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | &#25237;&#31295;&#20869;&#23481;&#12434;Excel&#12458;&#12531;&#12521;&#12452;&#12531;&#12398;&#12501;&#12449;&#12452;&#12523;&#12395;&#20445;&#23384;&#12375;&#12414;&#12377;&#12290; | cec02d43-1b67-4430-9bc9-861da8582801 |
->| email | delegado | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | &#12525;&#12464;&#12452;&#12531;&#12518;&#12540;&#12470;&#12540;&#12398;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12398;&#12415;&#20445;&#23384;&#12375;&#12414;&#12377;&#12290; | cec02d43-1b67-4430-9bc9-861da8582801 |
->| openid | delegado | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | &#12525;&#12464;&#12452;&#12531;&#12518;&#12540;&#12470;&#12540;&#12398;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12398;&#12415;&#20445;&#23384;&#12375;&#12414;&#12377;&#12290; | cec02d43-1b67-4430-9bc9-861da8582801 |
->| perfil | ambos | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | &#12525;&#12464;&#12452;&#12531;&#12518;&#12540;&#12470;&#12540;&#12398;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12398;&#12415;&#20445;&#23384;&#12375;&#12414;&#12377;&#12290; | ff5f406c-2ded-423f-b6ba-2950a2532b69 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.ReadWrite.All | ambos | &#25237;&#31295;&#12487;&#12540;&#12479;&#12434;Excel&#12458;&#12531;&#12521;&#12452;&#12531;&#12395;&#20986;&#21147;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | &#25237;&#31295;&#20869;&#23481;&#12434;Excel&#12458;&#12531;&#12521;&#12452;&#12531;&#12398;&#12501;&#12449;&#12452;&#12523;&#12395;&#20445;&#23384;&#12375;&#12414;&#12377;&#12290; | [cec02d43-1b67-4430-9bc9-861da8582801](https://docs.microsoft.com/microsoft-365-app-certification/azure/cec02d43-1b67-4430-9bc9-861da8582801) |
+>| email | delegado | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | &#12525;&#12464;&#12452;&#12531;&#12518;&#12540;&#12470;&#12540;&#12398;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12398;&#12415;&#20445;&#23384;&#12375;&#12414;&#12377;&#12290; | [cec02d43-1b67-4430-9bc9-861da8582801](https://docs.microsoft.com/microsoft-365-app-certification/azure/cec02d43-1b67-4430-9bc9-861da8582801) |
+>| openid | delegado | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | &#12525;&#12464;&#12452;&#12531;&#12518;&#12540;&#12470;&#12540;&#12398;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12398;&#12415;&#20445;&#23384;&#12375;&#12414;&#12377;&#12290; | [cec02d43-1b67-4430-9bc9-861da8582801](https://docs.microsoft.com/microsoft-365-app-certification/azure/cec02d43-1b67-4430-9bc9-861da8582801) |
+>| perfil | ambos | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | &#12525;&#12464;&#12452;&#12531;&#12518;&#12540;&#12470;&#12540;&#12398;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12398;&#12415;&#20445;&#23384;&#12375;&#12414;&#12377;&#12290; | [ff5f406c-2ded-423f-b6ba-2950a2532b69](https://docs.microsoft.com/microsoft-365-app-certification/azure/ff5f406c-2ded-423f-b6ba-2950a2532b69) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
 Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Exchange Online PowerShell, 365 PowerShell | Sim | 365&#12398;&#12464;&#12523;&#12540;&#12503;&#12420;&#12518;&#12540;&#12470;&#12540;&#24773;&#22577;&#12398;&#12484;&#12522;&#12540; | &#12518;&#12540;&#12470;&#12540;&#12398;&#32068;&#32340;&#24773;&#22577;&#12395;&#22522;&#12389;&#12356;&#12383;&#25237;&#31295;&#12506;&#12540;&#12472;&#12398;&#12450;&#12463;&#12475;&#12473;&#21046;&#24481;&#12434;&#23455;&#29694;&#12377;&#12427;&#12383;&#12417; | &#32068;&#32340;&#21517;&#12420;ID&#12289;&#12518;&#12540;&#12470;&#12540;&#21517;&#12420;ID&#12289;&#12518;&#12540;&#12470;&#12540;&#12398;&#32068;&#32340;&#12408;&#12398;&#25152;&#23646;&#27083;&#25104; | &#12518;&#12540;&#12470;&#12540;&#12398;&#32068;&#32340;&#24773;&#22577;&#12395;&#22522;&#12389;&#12356;&#12383;&#25237;&#31295;&#12506;&#12540;&#12472;&#12398;&#12450;&#12463;&#12475;&#12473;&#21046;&#24481;&#12434;&#23455;&#29694;&#12377;&#12427;&#12383;&#12417; |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -93,7 +93,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->N/A
+>N/D
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 

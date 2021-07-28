@@ -2,24 +2,24 @@
 title: Informações do aplicativo para Hi5 by Hi5Technologies
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 07/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Hi5, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 983f86210f224bc492f54a7ab65192dee5b4ad6c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 1356b3e31e309379e1943dc5ca59e10c72c23410
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552112"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525595"
 ---
 # <a name="hi5"></a>Hi5
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 3 de novembro de 2020</p>
+<p>Última atualização pelo desenvolvedor em: 21 de julho de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/ca334a56-72b5-4613-81d4-77b1148df03c" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001610" target="_blank">Exibir no AppSource</a>
@@ -36,7 +36,8 @@ Informações fornecidas pela Hi5Technologies à Microsoft:
 | ID | WA200001610 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Hi5Technologies |
-| URL do site do parceiro | [https://www.get5.io/](https://www.get5.io/) |
+| URL do site do parceiro | [https://www.get5.io](https://www.get5.io) |
+| URL da página Teams de informações do aplicativo | [https://help.get5.io](https://help.get5.io) |
 | URL da Política de Privacidade | [https://www.get5.io/privacy](https://www.get5.io/privacy) |
 | URL dos Termos de Uso | [https://www.get5.io/terms](https://www.get5.io/terms) |
 
@@ -54,13 +55,13 @@ Essas informações foram fornecidas por Hi5Technologies sobre como esse aplicat
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado | Armazenamos apenas as informações de sessão dos usuários Teams e o usuário precisa aprovar isso adicionando notificações (eles podem removê-los a qualquer momento). Nenhuma outra informação é armazenada. | Obrigatório para logon e autenticação de SSO em nosso servidor | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
->| email | delegado | Armazenamos apenas as informações de sessão dos usuários Teams e o usuário precisa aprovar isso adicionando notificações (eles podem removê-los a qualquer momento). Nenhuma outra informação é armazenada. | Obrigatório para logon e autenticação de SSO em nosso servidor | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
->| offline_access | delegado | Armazenamos apenas as informações de sessão dos usuários Teams e o usuário precisa aprovar isso adicionando notificações (eles podem removê-los a qualquer momento). Nenhuma outra informação é armazenada. | Mantém que o usuário está vendo as informações corretas e podemos enviar as informações corretas para outras pessoas que ingressarem na mesma empresa/espaço de trabalho. | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
->| openid | delegado | Armazenamos apenas as informações de sessão dos usuários Teams e o usuário precisa aprovar isso adicionando notificações (eles podem removê-los a qualquer momento). Nenhuma outra informação é armazenada. | Obrigatório para logon e autenticação de SSO em nosso servidor | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
->| perfil | delegado | Armazenamos apenas as informações de sessão dos usuários Teams e o usuário precisa aprovar isso adicionando notificações (eles podem removê-los a qualquer momento). Nenhuma outra informação é armazenada. | Obrigatório para logon e autenticação de SSO em nosso servidor | 7cb50e3e-0427-409e-90d2-638eb28217c3 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | delegado | Armazenamos apenas as informações de sessão dos usuários Teams e o usuário precisa aprovar isso adicionando notificações (eles podem removê-los a qualquer momento). Nenhuma outra informação é armazenada. | Obrigatório para logon e autenticação de SSO em nosso servidor | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
+>| email | delegado | Armazenamos apenas as informações de sessão dos usuários Teams e o usuário precisa aprovar isso adicionando notificações (eles podem removê-los a qualquer momento). Nenhuma outra informação é armazenada. | Obrigatório para logon e autenticação de SSO em nosso servidor | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
+>| offline_access | delegado | Armazenamos apenas as informações de sessão dos usuários Teams e o usuário precisa aprovar isso adicionando notificações (eles podem removê-los a qualquer momento). Nenhuma outra informação é armazenada. | Mantém que o usuário está vendo as informações corretas e podemos enviar as informações corretas para outras pessoas que ingressarem na mesma empresa/espaço de trabalho. | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
+>| openid | delegado | Armazenamos apenas as informações de sessão dos usuários Teams e o usuário precisa aprovar isso adicionando notificações (eles podem removê-los a qualquer momento). Nenhuma outra informação é armazenada. | Obrigatório para logon e autenticação de SSO em nosso servidor | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
+>| perfil | delegado | Armazenamos apenas as informações de sessão dos usuários Teams e o usuário precisa aprovar isso adicionando notificações (eles podem removê-los a qualquer momento). Nenhuma outra informação é armazenada. | Obrigatório para logon e autenticação de SSO em nosso servidor | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -74,8 +75,8 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
->| Para notificar o usuário em um canal que recebeu um Hi5 | Nenhuma informação é armazenada, o usuário será apenas @ pelo cartão enviado de volta no canal |  |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| Para notificar o usuário em um canal que recebeu um Hi5 | Nenhuma informação é armazenada, o usuário será apenas @ pelo cartão enviado de volta no canal | Nenhuma informação é armazenada, o usuário será apenas @ pelo cartão enviado de volta no canal |
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
@@ -116,3 +117,28 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Informações de identidade
+
+Essas informações foram fornecidas por Hi5Technologies sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
+| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
+| Seu aplicativo dá suporte a multi-enancy? | Não |
+| Seu aplicativo tem um cliente confidencial? | Sim |
+| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Seu aplicativo expõe alguma APIs da Web? | Não |
+| Seu aplicativo usa APIs de visualização? | Sim |
+| Seu aplicativo usa APIs preteridas? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

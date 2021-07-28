@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Medxnote MT, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ee4a304ac2844bff1fcec309fe0c96edba04208f
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 5eff51e5045f299ad8fe9e8335b3c5dac41af919
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282975"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525485"
 ---
 # <a name="medxnote-mt"></a>Medxnote MT
 
@@ -54,10 +54,10 @@ Essas informações foram fornecidas pelo Medxnote sobre como esse aplicativo co
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read.All | aplicação | estamos armazenando em cache Nome e email, usados no lado do hospital para verificar privilégios de usuários | ao enviar mensagens algumas vezes Nome e endereço de email são adicionados, estamos armazenando em cache esses dados no lado do servidor, eles também são usados para verificação opcional de privilégio no lado do hospital | fc70bbbe-91c4-4d8f-a9c9-a022068d5752 |
->| openid | delegado | estamos armazenando id de sessão em cache, id do usuário, token de portador e email, usado para entrar usuários no módulo Tarefa | usando-o para entrar em usuários no módulo Tarefa, estamos armazenar id de sessão, userid, email, tokens de portador | fc70bbbe-91c4-4d8f-a9c9-a022068d5752 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read.All | aplicação | estamos armazenando em cache Nome e email, usados no lado do hospital para verificar privilégios de usuários | ao enviar mensagens algumas vezes Nome e endereço de email são adicionados, estamos armazenando em cache esses dados no lado do servidor, eles também são usados para verificação opcional de privilégio no lado do hospital | [fc70bbbe-91c4-4d8f-a9c9-a022068d5752](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc70bbbe-91c4-4d8f-a9c9-a022068d5752) |
+>| openid | delegado | estamos armazenando id de sessão em cache, id do usuário, token de portador e email, usado para entrar usuários no módulo Tarefa | usando-o para entrar em usuários no módulo Tarefa, estamos armazenar id de sessão, userid, email, tokens de portador | [fc70bbbe-91c4-4d8f-a9c9-a022068d5752](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc70bbbe-91c4-4d8f-a9c9-a022068d5752) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

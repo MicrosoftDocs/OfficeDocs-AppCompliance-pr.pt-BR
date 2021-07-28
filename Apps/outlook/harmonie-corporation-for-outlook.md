@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o harmon.ie para Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 90b5ce81e0b2a0b0d0c9568facb456c5e87aad62
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: e63a6614f0e0d6fb62cae5343982f4118a4c9168
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281623"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526477"
 ---
 # <a name="harmonie-for-outlook"></a>harmon.ie para Outlook
 
@@ -53,12 +53,12 @@ Essas informações foram fornecidas pela harmon.ie Corporation sobre como esse 
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | delegado | Obrigatório por harmon.ie para Outlook permitir que os usuários entre e recebam a função do usuário | nenhuma | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| Files.ReadWrite.All | delegado | Exigido pelo harmon.ie para Outlook para permitir que ele transfira anexos de email do Outlook e &amp; salve-os para SharePoint | nenhuma | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| Mail.ReadWrite | delegado | Exigido pelo harmon.ie para Outlook para permitir que ele transfira anexos de email do Outlook e &amp; salve-os para SharePoint | nenhuma | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| User.Read | delegado | Obrigatório pelo harmon.ie para Outlook para resolver a imagem de perfil dos usuários | nenhuma | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | delegado | Obrigatório por harmon.ie para Outlook permitir que os usuários entre e recebam a função do usuário | nenhuma | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
+>| Files.ReadWrite.All | delegado | Exigido pelo harmon.ie para Outlook para permitir que ele transfira anexos de email do Outlook e &amp; salve-os para SharePoint | nenhuma | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
+>| Mail.ReadWrite | delegado | Exigido pelo harmon.ie para Outlook para permitir que ele transfira anexos de email do Outlook e &amp; salve-os para SharePoint | nenhuma | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
+>| User.Read | delegado | Obrigatório pelo harmon.ie para Outlook para resolver a imagem de perfil dos usuários | nenhuma | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

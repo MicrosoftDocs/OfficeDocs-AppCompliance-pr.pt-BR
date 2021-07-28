@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Lucidspark, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c05b4a1f7c5a1707ce7ab4f2d3230bdf1c7bdb4d
-ms.sourcegitcommit: 1b9ad544fd91bb0fb25e467baf2d368a812dc476
+ms.openlocfilehash: e79bed420b3081ae31a0abda25299610eeb1bc5f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52927257"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525505"
 ---
 # <a name="lucidspark"></a>Lucidspark
 
@@ -55,11 +55,11 @@ Essas informações foram fornecidas pelo Software Lúcido sobre como esse aplic
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| email | delegado | Nome e endereço de email. | As permissões de email, openid e perfil permitem que o Lucidspark gere um token openid para um usuário e obter informações básicas suficientes sobre o usuário para registrar uma conta do Lucidspark para eles, se necessário. Para verificar os dados que vêm da Microsoft, fazemos uma solicitação para obter a chave pública com a assinatura da resposta. Nenhum outro dado é recebido ou enviado para a Microsoft como parte do nosso fluxo de SSO. | 3557d5c0-bcab-410b-8a03-f7045aa48de0 |
->| openid | delegado | Nome e endereço de email. | As permissões de email, openid e perfil permitem que o Lucidspark gere um token openid para um usuário e obter informações básicas suficientes sobre o usuário para registrar uma conta do Lucidspark para eles, se necessário. Para verificar os dados que vêm da Microsoft, fazemos uma solicitação para obter a chave pública com a assinatura da resposta. Nenhum outro dado é recebido ou enviado para a Microsoft como parte do nosso fluxo de SSO. | 3557d5c0-bcab-410b-8a03-f7045aa48de0 |
->| perfil | delegado | Nome e endereço de email. | As permissões de email, openid e perfil permitem que o Lucidspark gere um token openid para um usuário e obter informações básicas suficientes sobre o usuário para registrar uma conta do Lucidspark para eles, se necessário. Para verificar os dados que vêm da Microsoft, fazemos uma solicitação para obter a chave pública com a assinatura da resposta. Nenhum outro dado é recebido ou enviado para a Microsoft como parte do nosso fluxo de SSO. | 3557d5c0-bcab-410b-8a03-f7045aa48de0 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| email | delegado | Nome e endereço de email. | As permissões de email, openid e perfil permitem que o Lucidspark gere um token openid para um usuário e obter informações básicas suficientes sobre o usuário para registrar uma conta do Lucidspark para eles, se necessário. Para verificar os dados que vêm da Microsoft, fazemos uma solicitação para obter a chave pública com a assinatura da resposta. Nenhum outro dado é recebido ou enviado para a Microsoft como parte do nosso fluxo de SSO. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
+>| openid | delegado | Nome e endereço de email. | As permissões de email, openid e perfil permitem que o Lucidspark gere um token openid para um usuário e obter informações básicas suficientes sobre o usuário para registrar uma conta do Lucidspark para eles, se necessário. Para verificar os dados que vêm da Microsoft, fazemos uma solicitação para obter a chave pública com a assinatura da resposta. Nenhum outro dado é recebido ou enviado para a Microsoft como parte do nosso fluxo de SSO. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
+>| perfil | delegado | Nome e endereço de email. | As permissões de email, openid e perfil permitem que o Lucidspark gere um token openid para um usuário e obter informações básicas suficientes sobre o usuário para registrar uma conta do Lucidspark para eles, se necessário. Para verificar os dados que vêm da Microsoft, fazemos uma solicitação para obter a chave pública com a assinatura da resposta. Nenhum outro dado é recebido ou enviado para a Microsoft como parte do nosso fluxo de SSO. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -67,7 +67,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Os dados do Lucidspark e do lucidchart são armazenados no AWS e no Floco de Neve | Nome da organização, informações de contato e nível de licença | Não usamos APIs da Microsoft. Usamos o openID para obter dados básicos do usuário para executar o SSO. Usamos a API do se picker de arquivos, mas isso não nos dá acesso aos arquivos do usuário que não os que nos enviam por meio do se picker. |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots

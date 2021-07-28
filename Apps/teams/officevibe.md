@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Officevibe, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f007500f61edad32eb5f58a2ec57dabfa4c08de6
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 968e5ba9e3144e4dd987e63af0480311ab7f4cab
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552872"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525415"
 ---
 # <a name="officevibe"></a>Officevibe
 
@@ -55,13 +55,13 @@ Essas informações foram fornecidas pelo Officevibe sobre como esse aplicativo 
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | 3e500164-df82-4d1e-9db8-0901e07d374d  |
->| Group.Read.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | 3e500164-df82-4d1e-9db8-0901e07d374d  |
->| TeamsAppInstallation.ReadWriteForUser | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | 3e500164-df82-4d1e-9db8-0901e07d374d  |
->| User.Read | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | 3e500164-df82-4d1e-9db8-0901e07d374d  |
->| User.Read.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | 3e500164-df82-4d1e-9db8-0901e07d374d  |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
+>| Group.Read.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
+>| TeamsAppInstallation.ReadWriteForUser | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
+>| User.Read | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
+>| User.Read.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -69,7 +69,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Hubspot, Recurly, Xero, MongoDB Atlas | Nome da empresa e Setor | Gerenciamento de clientes, gerenciamento de pagamento e assinaturas e armazenamento de dados de aplicativos |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots

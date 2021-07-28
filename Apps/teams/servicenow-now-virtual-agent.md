@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Agente Virtual Now, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bbd2b42fe7ad81e2ba0ba8157a34da67878e09c8
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1ac2988c550894341d5933afbc59de6f63c51b68
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551661"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53520994"
 ---
 # <a name="now-virtual-agent"></a>Now Virtual Agent
 
@@ -55,9 +55,9 @@ Essas informações foram fornecidas pelo ServiceNow sobre como esse aplicativo 
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado | O domínio é armazenado em nosso data center para fins futuros de roteamento de mensagens. | Quando o administrador serviceNow instala a integração com o MS Teams, o administrador precisa fazer logoff em sua conta de Teams MS. Lemos o domínio do endereço de email (não endereço de email completo). |  |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | delegado | O domínio é armazenado em nosso data center para fins futuros de roteamento de mensagens. | Quando o administrador serviceNow instala a integração com o MS Teams, o administrador precisa fazer logoff em sua conta de Teams MS. Lemos o domínio do endereço de email (não endereço de email completo). | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
