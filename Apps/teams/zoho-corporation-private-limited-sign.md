@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Zoho Sign, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 356c8755ee40269ef4efe844d22ebbc20e53937d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f164b4afadb0d85971cdaa40ab1bb43828ecb290
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552712"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528327"
 ---
 # <a name="zoho-sign"></a>Zoho Sign
 
@@ -55,17 +55,17 @@ Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Contacts.ReadWrite | delegado |  | Tenha acesso total aos contatos do usuário. |  |
->| Contacts.ReadWrite.Shared | delegado |  | Ler e gravar usuários e contatos compartilhados. |  |
->| Files.ReadWrite | delegado |  | Ter acesso total aos arquivos do usuário. |  |
->| Files.ReadWrite.All | delegado |  | Ter acesso total a todos os arquivos que o usuário pode acessar. |  |
->| Files.ReadWrite.Selected | delegado |  | Ler e gravar arquivos selecionados pelo usuário. |  |
->| User.ReadBasic.All | delegado |  | Leia todos os perfis básicos do usuário. |  |
->| email | delegado |  | Exibir o endereço de email do usuário. |  |
->| offline_access | delegado |  | Mantenha acesso aos dados aos que você lhe deu acesso. |  |
->| perfil | delegado |  | Exibir o perfil básico do usuário. |  |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Contacts.ReadWrite | delegado |  | Tenha acesso total aos contatos do usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Contacts.ReadWrite.Shared | delegado |  | Ler e gravar usuários e contatos compartilhados. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.ReadWrite | delegado |  | Ter acesso total aos arquivos do usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.ReadWrite.All | delegado |  | Ter acesso total a todos os arquivos que o usuário pode acessar. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.ReadWrite.Selected | delegado |  | Ler e gravar arquivos selecionados pelo usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.ReadBasic.All | delegado |  | Leia todos os perfis básicos do usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| email | delegado |  | Exibir o endereço de email do usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | delegado |  | Mantenha acesso aos dados aos que você lhe deu acesso. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| perfil | delegado |  | Exibir o perfil básico do usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

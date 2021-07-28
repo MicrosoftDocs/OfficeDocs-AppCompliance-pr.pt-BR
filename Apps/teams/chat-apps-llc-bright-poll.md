@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Bright Poll, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4dc8177da248fffd18ab6a4667cb6f94ea8db07c
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: af6e29845108dee6504e87864c80b5ef5a11aa16
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852022"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525825"
 ---
-# <a name="bright-poll"></a>Sondagem Brilhante
+# <a name="bright-poll"></a>Votações Brilhante
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Informações fornecidas por Aplicativos de Chat, LLC para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Sondagem Brilhante |
+| Nome do aplicativo | Votações Brilhante |
 | ID | WA200002562 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Aplicativos de Chat, LLC |
@@ -68,7 +68,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Armazenar nomes de usuários, IDs exclusivas e endereços de email é necessário para fornecer e dar suporte à funcionalidade de sondagem. | IDs, nomes e endereços de email exclusivos da equipe e do usuário. | IDs, nomes e endereços de email exclusivos são necessários para a funcionalidade do aplicativo e para dar suporte ao aplicativo. |
 
 

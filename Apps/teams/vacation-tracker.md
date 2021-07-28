@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Vacation Tracker, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 89ed0cc27e26acdeae13cc787fc180cc9f93b8ae
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 55d54fbb94141dec562a829fdc647279a3cc006e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550991"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527537"
 ---
 # <a name="vacation-tracker"></a>Vacation Tracker
 
@@ -55,17 +55,17 @@ Essas informações foram fornecidas pelo Vacation Tracker sobre como esse aplic
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.Read.All | delegado | Lemos IDs e nomes de canal público quando os usuários configuram suas notificações semanais ou diárias. | Os usuários podem selecionar um canal no qual eles querem receber notificações diárias ou semanais do Vacation Tracker. Quando um usuário escolhe seu canal preferencial, armazenamos a ID do canal. | eab5463e-8168-40ee-887a-7ac78de1d266 |
->| Team.ReadBasic.All | delegado | Listamos o Microsoft Teams equipes ingressado durante a assinatura para permitir que os usuários selecionem uma equipe que eles querem inscrever-se no Rastreador de Férias. Como alternativa, eles podem se inscrever em toda a organização. | Armazenamos a Microsoft Teams de equipe para uma equipe selecionada somente se o usuário se insissar no Rastreador de Férias como uma única equipe (não como uma organização inteira). Usamos as IDs de equipe para conectar um usuário conectado a uma conta existente no Rastreador de Férias. | eab5463e-8168-40ee-887a-7ac78de1d266 |
->| User.Read | delegado | Coletamos as informações básicas do usuário, incluindo o nome, a ID e a ID do locatário. Usamos esses dados para conectar usuários conectados à sua organização no Vacation Tracker. | Armazenamos o nome do usuário, a ID e a ID do locatário. Usamos esses dados para conectar usuários conectados à sua organização no Vacation Tracker. | eab5463e-8168-40ee-887a-7ac78de1d266 |
->| User.Read.All | delegado | Nossos usuários podem importar todos os usuários de sua organização Microsoft 365 ou Microsoft Teams equipe. Usamos essa permissão para importar somente usuários licenciados para uma equipe Microsoft Teams ou organização selecionada. | Armazenamos informações básicas sobre usuários importados, incluindo seu nome, endereço de email e ID do usuário. | eab5463e-8168-40ee-887a-7ac78de1d266 |
->| User.ReadBasic.All | delegado | Permitimos que os usuários importem os outros usuários de sua organização ou Microsoft Teams equipe. Usamos essa permissão para listar os usuários disponíveis e seus endereços de email no pop-up de importação. | Quando os usuários selecionam seus colegas de trabalho para importar para o Vacation Tracker, armazenamos informações básicas sobre esses usuários importados, incluindo seu nome, endereço de email e ID do usuário. | eab5463e-8168-40ee-887a-7ac78de1d266 |
->| email | delegado | Quando o usuário faz login usando o Microsoft AAD, armazenamos seu endereço de email como um identificador exclusivo. | Armazenamos o email do usuário como um identificador exclusivo. Não usamos esse email para comunicação, os usuários insere seu endereço de email comercial que usamos para comunicação durante a inscrição. | eab5463e-8168-40ee-887a-7ac78de1d266 |
->| offline_access | delegado | Não coletamos dados com essa permissão. Ele é usado para manter o acesso aos dados que podemos acessar. | Não armazenamos dados com essa permissão. | eab5463e-8168-40ee-887a-7ac78de1d266 |
->| openid | delegado | Usamos essa permissão para entrar ou inscrever usuários no Rastreador de Férias. Não coletamos dados específicos com essa permissão. | Usamos essa permissão para entrar ou inscrever usuários no Rastreador de Férias. Não armazenamos dados específicos com essa permissão. | eab5463e-8168-40ee-887a-7ac78de1d266 |
->| perfil | delegado | Coletamos as informações básicas do usuário, incluindo o nome, a ID e a ID do locatário. Usamos esses dados para conectar usuários conectados à sua organização no Vacation Tracker. | Armazenamos o nome do usuário, a ID e a ID do locatário. Usamos esses dados para conectar usuários conectados à sua organização no Vacation Tracker. | eab5463e-8168-40ee-887a-7ac78de1d266 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.Read.All | delegado | Lemos IDs e nomes de canal público quando os usuários configuram suas notificações semanais ou diárias. | Os usuários podem selecionar um canal no qual eles querem receber notificações diárias ou semanais do Vacation Tracker. Quando um usuário escolhe seu canal preferencial, armazenamos a ID do canal. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| Team.ReadBasic.All | delegado | Listamos o Microsoft Teams equipes ingressado durante a assinatura para permitir que os usuários selecionem uma equipe que eles querem inscrever-se no Rastreador de Férias. Como alternativa, eles podem se inscrever em toda a organização. | Armazenamos a Microsoft Teams de equipe para uma equipe selecionada somente se o usuário se insissar no Rastreador de Férias como uma única equipe (não como uma organização inteira). Usamos as IDs de equipe para conectar um usuário conectado a uma conta existente no Rastreador de Férias. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| User.Read | delegado | Coletamos as informações básicas do usuário, incluindo o nome, a ID e a ID do locatário. Usamos esses dados para conectar usuários conectados à sua organização no Vacation Tracker. | Armazenamos o nome do usuário, a ID e a ID do locatário. Usamos esses dados para conectar usuários conectados à sua organização no Vacation Tracker. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| User.Read.All | delegado | Nossos usuários podem importar todos os usuários de sua organização Microsoft 365 ou Microsoft Teams equipe. Usamos essa permissão para importar somente usuários licenciados para uma equipe Microsoft Teams ou organização selecionada. | Armazenamos informações básicas sobre usuários importados, incluindo seu nome, endereço de email e ID do usuário. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| User.ReadBasic.All | delegado | Permitimos que os usuários importem os outros usuários de sua organização ou Microsoft Teams equipe. Usamos essa permissão para listar os usuários disponíveis e seus endereços de email no pop-up de importação. | Quando os usuários selecionam seus colegas de trabalho para importar para o Vacation Tracker, armazenamos informações básicas sobre esses usuários importados, incluindo seu nome, endereço de email e ID do usuário. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| email | delegado | Quando o usuário faz login usando o Microsoft AAD, armazenamos seu endereço de email como um identificador exclusivo. | Armazenamos o email do usuário como um identificador exclusivo. Não usamos esse email para comunicação, os usuários insere seu endereço de email comercial que usamos para comunicação durante a inscrição. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| offline_access | delegado | Não coletamos dados com essa permissão. Ele é usado para manter o acesso aos dados que podemos acessar. | Não armazenamos dados com essa permissão. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| openid | delegado | Usamos essa permissão para entrar ou inscrever usuários no Rastreador de Férias. Não coletamos dados específicos com essa permissão. | Usamos essa permissão para entrar ou inscrever usuários no Rastreador de Férias. Não armazenamos dados específicos com essa permissão. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| perfil | delegado | Coletamos as informações básicas do usuário, incluindo o nome, a ID e a ID do locatário. Usamos esses dados para conectar usuários conectados à sua organização no Vacation Tracker. | Armazenamos o nome do usuário, a ID e a ID do locatário. Usamos esses dados para conectar usuários conectados à sua organização no Vacation Tracker. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -73,7 +73,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Stripe, AWS, Crisp, Customer.io, Segment, Amplitude, Google Tag Manager | Nome da empresa (conforme inserido pelo usuário) | Quando um usuário se ins inscrever, ele instala o nome da empresa e usamos esse nome como o nome da organização dentro do produto |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
@@ -81,7 +81,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| O bot pode ver as informações básicas sobre o usuário se comunicando com o bot. No entanto, não armazenamos ou usamos essas informações. Usamos apenas a ID do usuário, a ID da conversa e uma mensagem enviada ao nosso bot. | Armazenamos o endereço de email do usuário, o nome do usuário (conforme definido no Microsoft AAD) e a foto de perfil do usuário (do Microsoft AAD) | Usamos um endereço de email como um identificador exclusivo para nossos usuários e o nome e a foto de perfil do usuário para permitir que administradores e aprovadores da mesma empresa reconheçam seus funcionários em nosso painel.  |
 
 

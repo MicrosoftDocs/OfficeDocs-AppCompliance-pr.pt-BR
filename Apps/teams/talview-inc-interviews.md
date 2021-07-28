@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Entrevistas do Talview, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a641b49729a43c8b12339f162eeee395183f5859
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 38ab0472b84fc2b53c357bed1ad32ed4e3a6ad11
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282935"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528157"
 ---
 # <a name="talview-interviews"></a>Talview Entrevistas
 
@@ -55,12 +55,12 @@ Essas informações foram fornecidas pela Talview Inc sobre como esse aplicativo
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado | Entrar e ler o perfil do usuário | Endereço de email/Nomes de Usuário para notificações e autenticação | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
->| email | delegado | Exibir o endereço de email dos usuários para mapear contas de usuário | Endereço de email/Nomes de Usuário para notificações e autenticação | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
->| openid | delegado | Entrar usuários, para fazer logon na plataforma | Endereço de email/Nomes de Usuário para notificações e autenticação | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
->| perfil | delegado | Exibir os perfis básicos dos usuários | Endereço de email/Nomes de Usuário para notificações e autenticação | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | delegado | Entrar e ler o perfil do usuário | Endereço de email/Nomes de Usuário para notificações e autenticação | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
+>| email | delegado | Exibir o endereço de email dos usuários para mapear contas de usuário | Endereço de email/Nomes de Usuário para notificações e autenticação | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
+>| openid | delegado | Entrar usuários, para fazer logon na plataforma | Endereço de email/Nomes de Usuário para notificações e autenticação | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
+>| perfil | delegado | Exibir os perfis básicos dos usuários | Endereço de email/Nomes de Usuário para notificações e autenticação | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para CalendarHero, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f3609c1e5884a49e4b52077295108622e10e7ff5
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 41a7dd8a2cb7d900ac26b228c4cc2522d76da59c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281994"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527587"
 ---
 # <a name="calendarhero"></a>CalendarHero
 
@@ -55,15 +55,15 @@ Essas informações foram fornecidas pelo CalendarHero Inc sobre como esse aplic
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | ambos | As reuniões são armazenadas em cache em nosso mongoDB no Azure, mas as descrições são criptografadas. | Acesso aos eventos de calendário do usuário. |  |
->| Contacts.ReadWrite | ambos | Nome e endereço de email de contatos. | Leia os contatos do usuário (para que possamos convidá-los para uma reunião). |  |
->| Group.Read.All | ambos | Nome e membros do grupo. | (Opcional) leia grupos de usuários corporativos (para agendamento com grupos). |  |
->| Mail.Read | ambos | Contate email/nome, frequência/receência de interações. | (Opcional) é usado para ler os metadados de email para quem são os contatos mais importantes do usuário (por meio Machine Learning). |  |
->| MailboxSettings.ReadWrite | ambos | Timezone do usuário. | Timezone do usuário. |  |
->| User.Read.All | ambos | Email de nome do &amp; usuário (armazenado como contato). | (Opcional) ler usuários corporativos (para agendamento com colegas de trabalho) |  |
->| offline_access | aplicação | Não | Precisamos ler e gravar nosso back-end a qualquer momento, sem a presença do usuário. |  |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | ambos | As reuniões são armazenadas em cache em nosso mongoDB no Azure, mas as descrições são criptografadas. | Acesso aos eventos de calendário do usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Contacts.ReadWrite | ambos | Nome e endereço de email de contatos. | Leia os contatos do usuário (para que possamos convidá-los para uma reunião). | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Group.Read.All | ambos | Nome e membros do grupo. | (Opcional) leia grupos de usuários corporativos (para agendamento com grupos). | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.Read | ambos | Contate email/nome, frequência/receência de interações. | (Opcional) é usado para ler os metadados de email para quem são os contatos mais importantes do usuário (por meio Machine Learning). | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| MailboxSettings.ReadWrite | ambos | Timezone do usuário. | Timezone do usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read.All | ambos | Email de nome do &amp; usuário (armazenado como contato). | (Opcional) ler usuários corporativos (para agendamento com colegas de trabalho) | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | aplicação | Não | Precisamos ler e gravar nosso back-end a qualquer momento, sem a presença do usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -77,7 +77,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| importar nomes/emails de colegas de trabalho para que nosso assistente de reunião possa agendar reuniões com eles | email &amp; de nome. ambos são armazenados em nosso banco de dados para pesquisa rápida e para pesquisa parcial de nome (por exemplo. meet with Joe P) |  |
 
 

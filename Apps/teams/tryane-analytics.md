@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Tryane Analytics, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d5b5119f0c9897b6d59163ad03580744a7f822f0
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 2bfff7785dbad9398697aef468115cb8f7275acd
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283567"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527547"
 ---
 # <a name="tryane-analytics"></a>Tryane Analytics
 
@@ -54,16 +54,16 @@ Essas informações foram fornecidas por Tryane sobre como esse aplicativo colet
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ActivityFeed.Read | aplicação |  | Ler todas as atividades dos usuários em equipes | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Channel.ReadBasic.All | aplicação |  | Listar todos os canais com nomes, descrições | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| ChannelMessage.Read.All | aplicação |  | Listar todas as mensagens de canais&#8217; metadados | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Directory.Read.All | aplicação |  | Identificar usuários com uma licença de equipe no locatário | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Member.Read.Hidden | aplicação |  | Obter uma lista de todas as equipes, membros&#8217;equipe e associações ocultas | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Reports.Read.All | aplicação |  | Ler todas as atividades dos usuários em equipes | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Team.ReadBasic.All | aplicação |  | Listar todas as propriedades de canais e equipes | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| User.Read | delegado | ID do usuário, Nome, Endereço de Email, Data de Criação. Armazenamos esses dados para fornecer análises de uso em Teams | Identificar o usuário atual durante a assinatura | 9b03f15d-1219-4b2f-9699-640be54e1319 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ActivityFeed.Read | aplicação |  | Ler todas as atividades dos usuários em equipes | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Channel.ReadBasic.All | aplicação |  | Listar todos os canais com nomes, descrições | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| ChannelMessage.Read.All | aplicação |  | Listar todas as mensagens de canais&#8217; metadados | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Directory.Read.All | aplicação |  | Identificar usuários com uma licença de equipe no locatário | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Member.Read.Hidden | aplicação |  | Obter uma lista de todas as equipes, membros&#8217;equipe e associações ocultas | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Reports.Read.All | aplicação |  | Ler todas as atividades dos usuários em equipes | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Team.ReadBasic.All | aplicação |  | Listar todas as propriedades de canais e equipes | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| User.Read | delegado | ID do usuário, Nome, Endereço de Email, Data de Criação. Armazenamos esses dados para fornecer análises de uso em Teams | Identificar o usuário atual durante a assinatura | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

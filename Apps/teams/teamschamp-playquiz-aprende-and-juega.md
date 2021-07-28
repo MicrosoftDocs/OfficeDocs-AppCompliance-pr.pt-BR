@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para PlayQuiz - Aprende Juega, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do &amp; CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 76593cbcaa9d4284fab7b90e887090254d4ca414
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 2d538edf2b96311ea7f2611a33d2362786453ee3
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852025"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528135"
 ---
 # <a name="playquiz---aprende-amp-juega"></a>PlayQuiz - Aprende &amp; Juega
 
@@ -55,12 +55,12 @@ Essas informações foram fornecidas pelo TeamsChamp sobre como esse aplicativo 
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado | Nome, email e imagem de perfil do usuário | email, para cantá-lo no aplicativo e no nome para exibi-lo no aplicativo | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
->| User.ReadBasic.All | delegado | Nome, email e imagem de perfil | não armazenar esses dados, somente lê-lo para exibi-lo no leaderboad (aplicativo) | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
->| openid | delegado | exibir o perfil básico do usuário | email, para cante no aplicativo e nome para exibi-lo no aplicativo | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
->| perfil | delegado | Ler o perfil básico do usuário | email, para cante no aplicativo e nome para exibi-lo no aplicativo | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | delegado | Nome, email e imagem de perfil do usuário | email, para cantá-lo no aplicativo e no nome para exibi-lo no aplicativo | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| User.ReadBasic.All | delegado | Nome, email e imagem de perfil | não armazenar esses dados, somente lê-lo para exibi-lo no leaderboad (aplicativo) | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| openid | delegado | exibir o perfil básico do usuário | email, para cante no aplicativo e nome para exibi-lo no aplicativo | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| perfil | delegado | Ler o perfil básico do usuário | email, para cante no aplicativo e nome para exibi-lo no aplicativo | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

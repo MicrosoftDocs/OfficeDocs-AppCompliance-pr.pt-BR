@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Text, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f87ac4854d4301ea194d7b906f9b417e268a9df3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: fec1cbe4c30ef87592503e6e00ad1063cf953e05
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281423"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525885"
 ---
 # <a name="text"></a>Texto
 
@@ -54,13 +54,13 @@ Essas informações foram fornecidas pelo Contato Aprovado sobre como esse aplic
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | delegado | Para o BOT de texto, capturamos o identificador de equipe para criar canais futuros para mensagens de texto de entrada. | Permite criar canais Teams para usuários. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| email | delegado | endereços de email | Obtendo informações de contato do usuário. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| offline_access | delegado | Os tokens de atualização são armazenados em nosso banco de dados. | Usado para persistir tokens de atualização em nosso banco de dados | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| openid | delegado | Credenciais de logon | Permite que o usuário faça logon. para que os textos possam ser entregues em Teams canais | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| perfil | delegado | endereços de email | Obtendo informações de contato do usuário. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | delegado | Para o BOT de texto, capturamos o identificador de equipe para criar canais futuros para mensagens de texto de entrada. | Permite criar canais Teams para usuários. | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
+>| email | delegado | endereços de email | Obtendo informações de contato do usuário. | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
+>| offline_access | delegado | Os tokens de atualização são armazenados em nosso banco de dados. | Usado para persistir tokens de atualização em nosso banco de dados | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
+>| openid | delegado | Credenciais de logon | Permite que o usuário faça logon. para que os textos possam ser entregues em Teams canais | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
+>| perfil | delegado | endereços de email | Obtendo informações de contato do usuário. | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -74,7 +74,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Usado para persistir tokens de atualização em nosso banco de dados | Armazenamos endereços de email. | Usado para persistir tokens de atualização em nosso banco de dados |
 
 

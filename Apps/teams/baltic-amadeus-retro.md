@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Retro, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 49b17e202fb358284b9a36ed33646926d649afe3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2ccca5bd5160eb1772245841df037d2033f58881
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553452"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527617"
 ---
 # <a name="retro"></a>Retro
 
@@ -62,7 +62,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| O aplicativo retro tem sua própria API Web que não é considerada um serviço da Microsoft. Como mencionado anteriormente, ele armazena Email e Nome Completo para fins de identificação e exibição de conteúdo apropriado. Esses dados não são enviados a nenhum outro lugar. Além disso, Retro tem uma funcionalidade opcional para exportar dados de sprint para o espaço de confluência atlassiano. Para fazer isso, o usuário precisa inserir seu nome de usuário e senha de confluência. Esses dados são usados apenas para fazer solicitações autenticadas para api de confluência em nome do usuário e não são armazenados nem registrados em qualquer lugar. |  | Retro tem sua própria API Web que também está registrada no azure. Para usá-lo, o usuário deve ser autenticado por meio da Plataforma de Identidade da Microsoft. O usuário precisa ser autenticado para que o aplicativo Retro possa servidor de conteúdo específico do usuário |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
@@ -70,7 +70,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Bot acessa a lista para verificar qual membro ingressou ou saiu da equipe. Com base nisso, ele adiciona ou desativa esse usuário do projeto para que o usuário não seja mais exibido na lista de participantes de sprint. | Email e FullName são vinculados e armazenados no banco de dados. O email é usado para identificação do usuário para exibir o conteúdo apropriado para o usuário conectado. FullName é usado para exibir as crias, para que outros usuários possam saber para quem estão avaliando ou escrevendo comentários.  |  |
 
 

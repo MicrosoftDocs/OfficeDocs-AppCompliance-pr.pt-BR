@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o StealthMail, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4855cb478e8ba2e53b793a1d61f477de88b74058
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 322cdc906ab0cd2ae8980d1412bb4dd9c897a5f6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552732"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528217"
 ---
 # <a name="stealthmail"></a>StealthMail
 
@@ -55,15 +55,15 @@ Essas informações foram fornecidas pela Stealthmail Software Ltd sobre como es
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ChannelMessage.Read.All | delegado | Aplicativo envia a mensagem para o canal com a referência em email seguro criado | nada | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| ChannelMessage.Send | delegado | Aplicativo envia a mensagem para o canal com a referência em email seguro criado | nada | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| Chat.ReadWrite | delegado | Aplicativo envia a mensagem para conversar com a referência em email seguro criado | nada | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| GroupMember.Read.All | delegado | Aplicativo obtém membros do canal para tornar emails seguros para eles | nada | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| User.Read.All | delegado | Aplicativo obtém membros de chat para tornar emails seguros para eles | nada | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| User.ReadBasic.All | delegado | Aplicativo obtém membros de chat para tornar emails seguros para eles | nada | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| email | delegado | Autenticar usuário | armazenamento de nada no banco de dados | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ChannelMessage.Read.All | delegado | Aplicativo envia a mensagem para o canal com a referência em email seguro criado | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| ChannelMessage.Send | delegado | Aplicativo envia a mensagem para o canal com a referência em email seguro criado | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| Chat.ReadWrite | delegado | Aplicativo envia a mensagem para conversar com a referência em email seguro criado | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| GroupMember.Read.All | delegado | Aplicativo obtém membros do canal para tornar emails seguros para eles | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| User.Read.All | delegado | Aplicativo obtém membros de chat para tornar emails seguros para eles | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| User.ReadBasic.All | delegado | Aplicativo obtém membros de chat para tornar emails seguros para eles | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| email | delegado | Autenticar usuário | armazenamento de nada no banco de dados | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

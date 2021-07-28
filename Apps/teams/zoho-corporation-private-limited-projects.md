@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Projetos do Zoho, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6e447efd8259b94dbc41eed731912a2288600a5f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: cb0d9ec4caabe3307474e0927adc4a793046a449
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552682"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528337"
 ---
 # <a name="zoho-projects"></a>Zoho Projects
 
@@ -55,18 +55,18 @@ Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | delegado |  | Ter acesso total aos calendários do usuário. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Files.Read | delegado |  | Leia todos os arquivos. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Files.Read.All | delegado |  | Leia todos os arquivos que o usuário pode acessar. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Files.Read.Selected | delegado |  | Leia arquivos que o usuário seleciona. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Tasks.Read | delegado |  | Ler tarefas do usuário. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Tasks.ReadWrite | delegado |  | Criar, ler, atualizar e excluir tarefas e projetos do usuário. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| Tasks.ReadWrite.Shared | delegado |  | Ler e gravar usuário e tarefas compartilhadas. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| User.Read | delegado |  | Entre e leia o perfil do usuário. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| User.ReadBasic.All | delegado |  | Leia os perfis básicos de todos os usuários. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
->| offline_access | delegado |  | Mantenha acesso aos dados aos que você lhe deu acesso. | 621d9ae7-c14e-4fab-9604-63e1ffc9e721 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | delegado |  | Ter acesso total aos calendários do usuário. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Files.Read | delegado |  | Leia todos os arquivos. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Files.Read.All | delegado |  | Leia todos os arquivos que o usuário pode acessar. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Files.Read.Selected | delegado |  | Leia arquivos que o usuário seleciona. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Tasks.Read | delegado |  | Ler tarefas do usuário. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Tasks.ReadWrite | delegado |  | Criar, ler, atualizar e excluir tarefas e projetos do usuário. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| Tasks.ReadWrite.Shared | delegado |  | Ler e gravar usuário e tarefas compartilhadas. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| User.Read | delegado |  | Entre e leia o perfil do usuário. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| User.ReadBasic.All | delegado |  | Leia os perfis básicos de todos os usuários. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
+>| offline_access | delegado |  | Mantenha acesso aos dados aos que você lhe deu acesso. | [621d9ae7-c14e-4fab-9604-63e1ffc9e721](https://docs.microsoft.com/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

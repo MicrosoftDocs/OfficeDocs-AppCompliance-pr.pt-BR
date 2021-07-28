@@ -6,12 +6,12 @@ description: Mais detalhes sobre o programa Publisher Atestado
 keywords: app attestation certification 365 questionnaire appSource publisher
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: d91c11b53f1f807fbb4335918586a7748f14bf91
-ms.sourcegitcommit: a475d48e9538faa7ed682c11829c2e45ba675af6
+ms.openlocfilehash: 06c64ab2aa09790a0c20ee9d555adf1177031f12
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53383724"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526097"
 ---
 # <a name="what-is-publisher-attestation"></a>O que Publisher atestado?
 
@@ -20,7 +20,8 @@ Publisher Atestado é a próxima camada do Programa de Conformidade Microsoft 36
 > [!IMPORTANT]
 > A Microsoft não valida todas as informações fornecidas. O desenvolvedor de aplicativos é o único responsável pelas informações fornecidas no atestado do editor. 
 
-Publisher O atestado se aplica aos WebApps e a todos os aplicativos que se integram às seguintes plataformas da Microsoft:
+Publisher Atestado se aplica a Aplicativos Web (aplicativos SaaS publicados por meio do marketplace comercial no Partner Center). Os aplicativos SaaS estão atualmente em uma visualização privada, se você estiver interessado em participar, preencha este [formulário](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu). O atestado também inclui todos os aplicativos que se integram aos seguintes produtos da Microsoft:
+
 - Teams
 - Word
 - Excel

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SlideHub, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 39e3c631cdcd79de9eab484749f45354b87ca0cf
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7eca7f35cb46db8450f6805c9e8a4c2503934dd6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282473"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527807"
 ---
 # <a name="slidehub"></a>SlideHub
 
@@ -53,9 +53,9 @@ Essas informações foram fornecidas por nomorehours sobre como esse aplicativo 
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | aplicação | email e nome. O email é usado como o nome de usuário no aplicativo. Coletar o email pode ajudar a registrar e fazer logon no aplicativo mais rapidamente. O nome é usado no caso de um evento de registro. | O email é usado para habilitar o logon por meio Office 365 e, em alguns casos, registrar usuários que fazem parte da organização que já aceitaram os termos em seu nome. | 33ccef75-8248-44e8-88d3-24526ca9c2d3 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | aplicação | email e nome. O email é usado como o nome de usuário no aplicativo. Coletar o email pode ajudar a registrar e fazer logon no aplicativo mais rapidamente. O nome é usado no caso de um evento de registro. | O email é usado para habilitar o logon por meio Office 365 e, em alguns casos, registrar usuários que fazem parte da organização que já aceitaram os termos em seu nome. | [33ccef75-8248-44e8-88d3-24526ca9c2d3](https://docs.microsoft.com/microsoft-365-app-certification/azure/33ccef75-8248-44e8-88d3-24526ca9c2d3) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

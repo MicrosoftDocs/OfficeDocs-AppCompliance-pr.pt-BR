@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Tikit, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3c292fa0c8e0ae526c7258f7adc508fcccaeb9d8
-ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
+ms.openlocfilehash: c17273ad8e2cdc9bd2f60ce5a3157f1f8473bb88
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52789963"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525785"
 ---
 # <a name="tikit"></a>Tikit
 
@@ -55,25 +55,25 @@ Essas informações foram fornecidas pelo Cireson sobre como esse aplicativo col
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Device.Read | aplicação | Informações do gráfico do usuário usadas para o login único, por meio da comunicação do bot do teams  | Armazenamos funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID do usuário. Esse informe é usado para autenticação de aplicativos, segurança, RBAC, integração de equipes, notificações de equipes e mapeamento de relação de usuário   | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| Directory.AccessAsUser.All | delegado | Nomes de grupo e funções para RBAC | Nome da Função de Grupo Nome, precisa fornecer controle de acesso &amp; mapeado seguro. | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| Directory.Read.All | delegado | Nomes de grupo e funções para RBAC | Nome da Função de Grupo Nome, precisa fornecer controle de acesso &amp; mapeado seguro. | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| Group.Read.All | ambos | Nomes de grupo e funções para RBAC | Nomes de grupo e funções para RBAC | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| User.Read | delegado | Funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID de usuário, usada para autenticação  | Funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID de usuário, usada para autenticação  | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| User.Read.All | aplicação | Funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID de usuário, usada para autenticação  | Funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID de usuário, usada para autenticação  | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| User.ReadBasic.All | delegado | Funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID de usuário, usada para autenticação  | Funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID de usuário, usada para autenticação  | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| email | delegado | Email de usuário usado para logon e identificação associada de entidades relacionadas. &quot;Usuário atribuído&quot; | Email de usuário usado para logon e identificação associada de entidades relacionadas. &quot;Usuário atribuído&quot; | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| openid | delegado | usado para autenticação via MSAL por requisitos  | usado para autenticação via MSAL por requisitos  | b13c40ee-e073-459e-96b5-3f3cca046a37 |
->| perfil | delegado | usado para autenticação via MSAL por requisitos  | usado para autenticação via MSAL por requisitos  | b13c40ee-e073-459e-96b5-3f3cca046a37 |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Device.Read | aplicação | Informações do gráfico do usuário usadas para o login único, por meio da comunicação do bot do teams  | Armazenamos funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID do usuário. Esse informe é usado para autenticação de aplicativos, segurança, RBAC, integração de equipes, notificações de equipes e mapeamento de relação de usuário   | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| Directory.AccessAsUser.All | delegado | Nomes de grupo e funções para RBAC | Nome da Função de Grupo Nome, precisa fornecer controle de acesso &amp; mapeado seguro. | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| Directory.Read.All | delegado | Nomes de grupo e funções para RBAC | Nome da Função de Grupo Nome, precisa fornecer controle de acesso &amp; mapeado seguro. | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| Group.Read.All | ambos | Nomes de grupo e funções para RBAC | Nomes de grupo e funções para RBAC | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.Read | delegado | Funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID de usuário, usada para autenticação  | Funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID de usuário, usada para autenticação  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.Read.All | aplicação | Funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID de usuário, usada para autenticação  | Funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID de usuário, usada para autenticação  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.ReadBasic.All | delegado | Funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID de usuário, usada para autenticação  | Funções de usuário, nome da família, nome dado, email, ID do AAD, Teams ID de usuário, usada para autenticação  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| email | delegado | Email de usuário usado para logon e identificação associada de entidades relacionadas. &quot;Usuário atribuído&quot; | Email de usuário usado para logon e identificação associada de entidades relacionadas. &quot;Usuário atribuído&quot; | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| openid | delegado | usado para autenticação via MSAL por requisitos  | usado para autenticação via MSAL por requisitos  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| perfil | delegado | usado para autenticação via MSAL por requisitos  | usado para autenticação via MSAL por requisitos  | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
 Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Criador de QnA | Não |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -87,7 +87,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Nome e email para relações de entidade do usuário &quot; Solicitador de Tíquete&quot;  | Nome e email  | para as relações de entidade do usuário &quot; Solicitante de Tíquete&quot;  |
 
 

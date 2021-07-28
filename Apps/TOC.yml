@@ -156,9 +156,13 @@
           href: sharepoint/konnect-email-parser.md
         - name: officeatwork | Template Chooser for SharePoint
           href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
+        - name: Power BI Colaboração
+          href: sharepoint/ataira-power-bi-collaboration.md
     - name: Microsoft Teams Aplicativos
       href: teams/teams-apps.md
       items:
+        - name: 365-QA
+          href: teams/advantive-365-qa.md
         - name: 365Projects
           href: teams/365apps-365projects.md
         - name: 8x8
@@ -193,6 +197,8 @@
           href: teams/avepoint-inc-ava.md
         - name: Axelleron
           href: teams/axelleron.md
+        - name: Beagle
+          href: teams/decision-point-beagle.md
         - name: Beekast
           href: teams/beekast.md
         - name: Beesy
@@ -213,6 +219,8 @@
           href: teams/brightidea.md
         - name: Transmitir
           href: teams/cerkl-broadcast.md
+        - name: Brochesia
+          href: teams/brochesia.md
         - name: Quadro de Avisos - NextSet
           href: teams/nextsetinc-bulletin-board-nextset.md
         - name: Bot de Adoção C.AI
@@ -241,6 +249,10 @@
           href: teams/hexaware-technologies-ltd-coco.md
         - name: CodeStream
           href: teams/codestream.md
+        - name: CoffeePals
+          href: teams/carnduff-co-coffeepals.md
+        - name: Conjunto Pot
+          href: teams/gifted-to-you-limited-collection-pot.md
         - name: Concluir
           href: teams/cauzey-pty-ltd-complish.md
         - name: Conferences i/o
@@ -249,6 +261,8 @@
           href: teams/reward-gateway-connectplus.md
         - name: Contact Center
           href: teams/landis-technologies-llc-contact-center.md
+        - name: Malhação de Cuco
+          href: teams/cuckoo-networks-oy-workout.md
         - name: Datto Workplace
           href: teams/datto-inc-workplace.md
         - name: DBit
@@ -271,12 +285,16 @@
           href: teams/elmahio.md
         - name: Email TeamMate
           href: teams/harmonie-email-teammate.md
+        - name: Gerenciamento de Treinamento de Funcionários
+          href: teams/sharepointsapiens-employee-training-management.md
         - name: Empuls
           href: teams/empuls.md
         - name: EngageWith
           href: teams/springrole-engagewith.md
         - name: eTeamer
           href: teams/missing-eteamer.md
+        - name: Gerenciamento de Eventos
+          href: teams/sharepointsapiens-event-management.md
         - name: Evernote
           href: teams/evernote.md
         - name: Evocom
@@ -285,6 +303,8 @@
           href: teams/enterprizid-inc-ezteam.md
         - name: Colega
           href: teams/fellow-insights-inc.md
+        - name: ForceManager CRM
+          href: teams/tritium-software-sl-forcemanager-crm.md
         - name: FormMachines
           href: teams/enterprise-digital-machines-formmachines.md
         - name: Mão livre
@@ -391,6 +411,8 @@
           href: teams/regroove-solutions-navo.md
         - name: netDocShare
           href: teams/kl-software-technologies-netdocshare.md
+        - name: NewCOS
+          href: teams/newtech-newcos.md
         - name: ngDesk
           href: teams/all-blue-solutions-ngdesk.md
         - name: Now Virtual Agent
@@ -421,6 +443,8 @@
           href: teams/teamschamp-playquiz-aprende-and-juega.md
         - name: Polly
           href: teams/polly.md
+        - name: Power BI Colaboração
+          href: teams/ataira-power-bi-collaboration.md
         - name: Prezi Video
           href: teams/prezi-video.md
         - name: Priority Matrix
@@ -441,6 +465,8 @@
           href: teams/chitchattr-quicklinks.md
         - name: Reach
           href: teams/livetiles-reach.md
+        - name: Real Time Tradutor
+          href: teams/fairuse-real-time-translator.md
         - name: RememberThis
           href: teams/tom-morgan-rememberthis.md
         - name: Remind
@@ -451,6 +477,8 @@
           href: teams/baltic-amadeus-retro.md
         - name: RingCentral
           href: teams/ringcentral-inc.md
+        - name: RowShare
+          href: teams/rowshare.md
         - name: RSpace
           href: teams/researchspace-rspace.md
         - name: Saberr
@@ -475,6 +503,8 @@
           href: teams/zoho-corporation-private-limited-servicedesk-plus-cloud.md
         - name: Sheetgo
           href: teams/sheetgo-europe-sl.md
+        - name: SHL
+          href: teams/shl.md
         - name: Shortlinks
           href: teams/chitchattr-shortlinks.md
         - name: SIGNL4
@@ -511,6 +541,8 @@
           href: teams/spinify.md
         - name: Stack Overflow para o Teams
           href: teams/stack-overflow-for-teams.md
+        - name: StaffCircle
+          href: teams/staffcircle.md
         - name: Standup Alice
           href: teams/bao-le-duc-standup-alice.md
         - name: StarLeaf
@@ -521,6 +553,8 @@
           href: teams/streem.md
         - name: Studi.ly
           href: teams/inlogic-office-store-studily.md
+        - name: SuitePro-G
+          href: teams/iqar-suitepro-g.md
         - name: SurveyMonkey
           href: teams/surveymonkey.md
         - name: SurveySparrow
@@ -583,6 +617,8 @@
           href: teams/cisco-webex-call.md
         - name: Wide Ideas
           href: teams/wide-ideas.md
+        - name: Wisembly
+          href: teams/wisembly.md
         - name: Woobot
           href: teams/woobot.md
         - name: Workboard

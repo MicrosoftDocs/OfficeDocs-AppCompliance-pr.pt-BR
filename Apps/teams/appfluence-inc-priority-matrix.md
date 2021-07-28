@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para a Matriz de Prioridade, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 93b64ae01c745f370af36bd6cb8a73787d39867a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: e88ba3c98c9ab444f2500ed09013071a6b5ab2c3
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281433"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525895"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
@@ -54,17 +54,17 @@ Essas informações foram fornecidas pela Appfluence Inc sobre como esse aplicat
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | delegado | Somente quando um novo usuário é adicionado à conta, armazenamos seus emails. | Na criação de nova conta, usamos isso para sugerir outros membros da equipe. | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| User.ReadBasic.All | delegado | Somente quando um novo usuário é adicionado à conta, armazenamos seus emails. | Na criação de nova conta, usamos isso para sugerir outros membros da equipe. | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| offline_access | delegado | Armazenamos o token de logon para realizar solicitações em nome do usuário | Atualizar token sem incomodar o usuário. (Matriz de prioridade para Teams) | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| Files.Read.All | delegado | Não armazenamos nenhuma informação de arquivo, a menos que o usuário crie explicitamente e conscientemente um item priority Matrix que se vincula ao arquivo original. | Em nosso recurso One-on-One (disponível por meio de nosso aplicativo Web e também nossos complementos do Outlook/Teams), usamos esse recurso para realçar arquivos SharePoint/OneDrive compartilhados entre dois usuários em nosso sistema, como uma maneira de facilitar reuniões e colaboração geral. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
->| User.Read | delegado | Informações básicas de perfil de usuário (nome de exibição, nome, sobrenome, email, avatar) são armazenadas por nós. | Obter o nome do usuário, email, avatar, para personalizar sua conta conosco. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
->| openid | delegado | Armazenamos a conexão SSO para indicar o modo de logon do usuário. | Para entrar nos usuários por meio de um único login. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
->| Calendars.Read | delegado | Um pequeno número de eventos de calendário são transformados em tarefas armazenadas em nosso sistema. | Leia eventos de calendário para que eles possam ser exibidos em nosso modo de exibição 1:1. Também para inicializar novas contas.  | d76f016f-52c7-41b5-835b-900361d7040c |
->| Mail.Read | delegado | Armazenamos tarefas criadas em nosso sistema, com um link para a mensagem original. | Usado em nosso Outlook para transformar emails em tarefas e exibir o trabalho compartilhado no visor 1:1. | d76f016f-52c7-41b5-835b-900361d7040c |
->| Tasks.Read | delegado | Algumas Outlook/Planner são replicadas em nosso sistema para ajudar novos usuários. | Inicializamos novas contas de usuário com suas Graph tarefas. | d76f016f-52c7-41b5-835b-900361d7040c |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | delegado | Somente quando um novo usuário é adicionado à conta, armazenamos seus emails. | Na criação de nova conta, usamos isso para sugerir outros membros da equipe. | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
+>| User.ReadBasic.All | delegado | Somente quando um novo usuário é adicionado à conta, armazenamos seus emails. | Na criação de nova conta, usamos isso para sugerir outros membros da equipe. | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
+>| offline_access | delegado | Armazenamos o token de logon para realizar solicitações em nome do usuário | Atualizar token sem incomodar o usuário. (Matriz de prioridade para Teams) | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
+>| Files.Read.All | delegado | Não armazenamos nenhuma informação de arquivo, a menos que o usuário crie explicitamente e conscientemente um item priority Matrix que se vincula ao arquivo original. | Em nosso recurso One-on-One (disponível por meio de nosso aplicativo Web e também nossos complementos do Outlook/Teams), usamos esse recurso para realçar arquivos SharePoint/OneDrive compartilhados entre dois usuários em nosso sistema, como uma maneira de facilitar reuniões e colaboração geral. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
+>| User.Read | delegado | Informações básicas de perfil de usuário (nome de exibição, nome, sobrenome, email, avatar) são armazenadas por nós. | Obter o nome do usuário, email, avatar, para personalizar sua conta conosco. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
+>| openid | delegado | Armazenamos a conexão SSO para indicar o modo de logon do usuário. | Para entrar nos usuários por meio de um único login. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
+>| Calendars.Read | delegado | Um pequeno número de eventos de calendário são transformados em tarefas armazenadas em nosso sistema. | Leia eventos de calendário para que eles possam ser exibidos em nosso modo de exibição 1:1. Também para inicializar novas contas.  | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
+>| Mail.Read | delegado | Armazenamos tarefas criadas em nosso sistema, com um link para a mensagem original. | Usado em nosso Outlook para transformar emails em tarefas e exibir o trabalho compartilhado no visor 1:1. | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
+>| Tasks.Read | delegado | Algumas Outlook/Planner são replicadas em nosso sistema para ajudar novos usuários. | Inicializamos novas contas de usuário com suas Graph tarefas. | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -78,7 +78,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| O bot é capaz de criar tarefas e atribuí-las a um parceiro de equipe específico, e para fazer isso, ele precisa saber seu nome. | Não |  |
 
 

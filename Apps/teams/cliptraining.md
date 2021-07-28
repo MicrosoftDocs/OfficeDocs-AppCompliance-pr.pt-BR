@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para ClipTraining, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9eb5383b9bd372e1f46af30b838160bca88e308b
-ms.sourcegitcommit: 5cd33d38cc7376b28458ee47ebc2c2710ce7f113
+ms.openlocfilehash: 5d59d4cbd2d28f1c906e541e7ffc78311c12ffb6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53339802"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525765"
 ---
 # <a name="cliptraining"></a>ClipTraining
 
@@ -55,12 +55,12 @@ Essas informações foram fornecidas pela ClipTraining sobre como esse aplicativ
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| email | delegado | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | af089bb5-48be-413d-ad34-53c32799da7d |
->| offline_access | delegado | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | af089bb5-48be-413d-ad34-53c32799da7d |
->| openid | delegado | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | af089bb5-48be-413d-ad34-53c32799da7d |
->| perfil | delegado | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | af089bb5-48be-413d-ad34-53c32799da7d |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| email | delegado | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| offline_access | delegado | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| openid | delegado | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| perfil | delegado | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | Endereço de email, nome, sobrenome para logon e correspondência do usuário.  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -68,7 +68,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| não-Microsoft hosting service, non-Microsoft CRM | Nome, sobrenome, endereço de email | Obrigatório para uso comercial |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots

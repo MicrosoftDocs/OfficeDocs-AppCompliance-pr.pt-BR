@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Wunder365 para Office, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 85e7b014e9bbc5754016bd83a7734ff2481aa8dc
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: ab9ea33824f66afecc8af8df74754fc7f2dd6d43
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281683"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526037"
 ---
 # <a name="wunder365-for-office"></a>Wunder365 para Office
 
@@ -53,13 +53,13 @@ Essas informações foram fornecidas pelo JiJi Technologies Private Limited sobr
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | delegado | Nenhum dado armazenado. | Para obter/atualizar tarefas do Planner, poste atualizações de tarefas no canal de equipe | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| Mail.Send | delegado | Nenhum dado armazenado. | Permitir que o aplicativo envie uma notificação de email para os usuários | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| offline_access | delegado | Nenhum dado armazenado. | Para manter o usuário conectado. | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| openid | delegado | Nenhum dado armazenado. | Permite que os usuários faça logoff com conta organizacional | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| perfil | delegado | UPN, ID do Usuário, ID de Email, ID de locatário para verificação de licenciamento, licença gratuita. | Permite que os usuários faça logoff com conta organizacional | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | delegado | Nenhum dado armazenado. | Para obter/atualizar tarefas do Planner, poste atualizações de tarefas no canal de equipe | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| Mail.Send | delegado | Nenhum dado armazenado. | Permitir que o aplicativo envie uma notificação de email para os usuários | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| offline_access | delegado | Nenhum dado armazenado. | Para manter o usuário conectado. | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| openid | delegado | Nenhum dado armazenado. | Permite que os usuários faça logoff com conta organizacional | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| perfil | delegado | UPN, ID do Usuário, ID de Email, ID de locatário para verificação de licenciamento, licença gratuita. | Permite que os usuários faça logoff com conta organizacional | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

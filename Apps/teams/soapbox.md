@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Soapbox, suas políticas de tratamento de dados, Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6e2b43df38aac6307c36c4a2cc8d00fe1c3fb629
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 89151d495479f3390aa179f810325ab56f77337a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552772"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528277"
 ---
 # <a name="soapbox"></a>Soapbox
 
@@ -55,11 +55,11 @@ Essas informações foram fornecidas pela Soapbox sobre como esse aplicativo col
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | delegado | Token de sincronização. | O acesso ao calendário é necessário para sincronizar reuniões soapBox com eventos de calendário |  |
->| User.Read | delegado | Nome, email, ID de usuário da Microsoft. | Nome e email são usados para criar usuários soapBox. |  |
->| offline_access | delegado |  | O acesso offline a calendários é necessário para tornar o tempo de notificações soapBox relevante para eventos de calendário sincronizados. |  |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | delegado | Token de sincronização. | O acesso ao calendário é necessário para sincronizar reuniões soapBox com eventos de calendário | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | delegado | Nome, email, ID de usuário da Microsoft. | Nome e email são usados para criar usuários soapBox. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | delegado |  | O acesso offline a calendários é necessário para tornar o tempo de notificações soapBox relevante para eventos de calendário sincronizados. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -73,7 +73,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| O aplicativo acessa a Lista de Equipes e a Lista de Chat que usamos para criar canais de equipe no SoapBox com membros da equipe/chat | Nome, email, id de usuário da Microsoft dos usuários para melhorar a aparência do aplicativo para os usuários do Microsoft Teams e garantir que cada usuário possa se envolver totalmente no software de reunião. |  |
 
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Appspace, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7171a8574efe7757d024f4d9dd93056e7c206519
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: 592194c022b276a07d7fb91d9c0253724d8f28e7
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53459529"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527637"
 ---
 # <a name="appspace"></a>Appspace
 
@@ -55,10 +55,10 @@ Essas informações foram fornecidas pela Appspace, Inc. sobre como esse aplicat
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Team.ReadBasic.All | delegado | Obter as equipes às que o usuário pertence. | O cache do aplicativo pode conter as equipes e as IDs às que a conta de usuário/serviço tem acesso. Esses dados permanecem criptografados durante todo o ciclo de vida. | a9a866c4-e5cf-47f2-932c-db14cb89008f |
->| User.ReadBasic.All | delegado | Leia as propriedades básicas de perfil de outros usuários em sua organização em nome do usuário que está dentro. Inclui o nome para exibição, nome e sobrenome, endereço de email, extensões abertas e foto. Também permite que o aplicativo leia o perfil completo do usuário conectado. | O nome de usuário do usuário conectado persiste para permitir que os usuários identifiquem qual usuário ou conta de serviço eles vincularam à plataforma Appspace. | a9a866c4-e5cf-47f2-932c-db14cb89008f |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Team.ReadBasic.All | delegado | Obter as equipes às que o usuário pertence. | O cache do aplicativo pode conter as equipes e as IDs às que a conta de usuário/serviço tem acesso. Esses dados permanecem criptografados durante todo o ciclo de vida. | [a9a866c4-e5cf-47f2-932c-db14cb89008f](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f) |
+>| User.ReadBasic.All | delegado | Leia as propriedades básicas de perfil de outros usuários em sua organização em nome do usuário que está dentro. Inclui o nome para exibição, nome e sobrenome, endereço de email, extensões abertas e foto. Também permite que o aplicativo leia o perfil completo do usuário conectado. | O nome de usuário do usuário conectado persiste para permitir que os usuários identifiquem qual usuário ou conta de serviço eles vincularam à plataforma Appspace. | [a9a866c4-e5cf-47f2-932c-db14cb89008f](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para ChurnZero, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a0e92bdd9440e20ebf30cece47ee17e675b35656
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 18ebf804bfc99fe0d31043aee77fa856f42dda7a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852026"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525795"
 ---
 # <a name="churnzero"></a>ChurnZero
 
@@ -54,9 +54,9 @@ Essas informações foram fornecidas pelo ChurnZero sobre como esse aplicativo c
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | delegado | A ID do Objeto do Azure do Usuário de delegação para correlacionar com um Usuário ChurnZero, a fim de identificar e autorizar esse Usuário durante uma sessão de bot futura. | A ID do Objeto do Azure do Usuário de delegação para correlacionar com um Usuário ChurnZero, a fim de identificar e autorizar esse Usuário durante uma sessão de bot futura. | c2e66b59-725d-4c56-8a0e-ee2587031d9f |
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | delegado | A ID do Objeto do Azure do Usuário de delegação para correlacionar com um Usuário ChurnZero, a fim de identificar e autorizar esse Usuário durante uma sessão de bot futura. | A ID do Objeto do Azure do Usuário de delegação para correlacionar com um Usuário ChurnZero, a fim de identificar e autorizar esse Usuário durante uma sessão de bot futura. | [c2e66b59-725d-4c56-8a0e-ee2587031d9f](https://docs.microsoft.com/microsoft-365-app-certification/azure/c2e66b59-725d-4c56-8a0e-ee2587031d9f) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -70,7 +70,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| Permite que nosso Cliente identifique seus Contatos pelo nome e envie-os Email como parte da execução de operações comerciais normais. ChurnZero é um processador desses dados, não um coletor. | Nome, Sobrenome, Endereço de Email de Contatos que nosso Cliente forneceu. | Permite que nosso Cliente identifique seus Contatos pelo nome e envie-os Email como parte da execução de operações comerciais normais. ChurnZero é um processador desses dados, não um coletor. |
 
 
@@ -84,7 +84,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->N/A
+>N/D
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
