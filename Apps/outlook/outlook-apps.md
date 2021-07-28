@@ -1,22 +1,22 @@
 ---
-title: Microsoft Outlook Segurança e Conformidade de Aplicativos - Todos os Aplicativos
+title: Microsoft Outlook Apps Segurança e Conformidade - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/02/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
-description: Todas as informações de segurança e conformidade disponíveis para todos os aplicativos Outlook Microsoft.
+description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos Outlook Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 00e8b55b4cb0767405adc0bab02a084256df0418
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: c8c0a58ce6455b4853ad7042785b2963370f5abb
+ms.sourcegitcommit: 2785ea8a6c1b1af129dea2cbe833de98659e3b2d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53265767"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53547886"
 ---
-# <a name="microsoft-outlook-app-security-and-compliance"></a>Microsoft Outlook Segurança e Conformidade de Aplicativos
+# <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Aplicativos de Segurança e Conformidade
 
-A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para fornecer as informações que as organizações precisam para agilizar e informar as decisões sobre o Microsoft Outlook aplicativos e complementos que usam. As informações são complementadas com informações do catálogo de aplicativos do [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) e informações fornecidas pelos desenvolvedores quando eles enviam seus aplicativos. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
+A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para fornecer as informações que as organizações precisam para acelerar e informar as decisões sobre o Microsoft Outlook Aplicativos e os complementos que usam. As informações são complementadas com informações do catálogo de aplicativos do [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) e informações fornecidas pelos desenvolvedores quando eles enviam seus aplicativos. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
 
 | **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -24,7 +24,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Vídeos altru](./altru-videos.md) | Altru | **✓** |  |
 | [Calendários de contatos aprovados](./approved-contact-calendars.md) | Contato Aprovado | **✓** |  |
 | [Asana para Outlook](./asana-for-outlook.md) | Asana | **✓** |  |
-| [CI-Signature](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
+| [CI-Signature](./ci-solution-gmbh-signature.md) | solução ci GmbH | **✓** |  |
 | [harmon.ie para Outlook](./harmonie-corporation-for-outlook.md) | harmon.ie Corporation | **✓** |  |
 | [Invoice and Time Tracking - Zoho Invoice](./zoho-corporation-private-limited-invoice-and-time-tracking.md) | Zoho Corporation Private Limited | **✓** |  |
 | [IPlanner Office 365 Do Planner para Outlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -39,7 +39,6 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [ServiceDesk Plus para Email](./zoho-corporation-private-limited-servicedesk-plus-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Add-in StarLeaf for Outlook](./starleaf-add-in-for-outlook.md) | StarLeaf | **✓** |  |
-| [Wrike para Outlook](./wrike-inc-for-outlook.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Wunder365](./jiji-technologies-private-limited-wunder365.md) | Tecnologias JiJi Private Limited | **✓** |  |
 | [Ferramenta Campanhas do Zoho para automação de marketing](./zoho-corporation-private-limited-campaigns-tool-for-marketing-automation.md) | Zoho Corporation Private Limited | **✓** |  |
 | [Zoho CRM para email](./zoho-corporation-private-limited-crm-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
