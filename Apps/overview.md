@@ -7,12 +7,12 @@ keywords: microsoft 365 aplicativo m365 certificação do Atestado do Editor
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: c644414281f46696ff49f3b9eb1341f02e96f0ba
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: 17d5c8cdba50666e2c38912e42fc60dd36d00d091531294bf865d6c0f92a31f4
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315111"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54803647"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Programa de Conformidade de Aplicativos do Microsoft 365
 

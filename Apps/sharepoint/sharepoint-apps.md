@@ -2,17 +2,17 @@
 title: Microsoft SharePoint Segurança e Conformidade de Aplicativos - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/27/2021
+ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos SharePoint Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 147de4919d6286d69ac0e428b1899514fd979c9d
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.openlocfilehash: f1cd651728f42db27b312ce27aa9b1213ae649f1f977461222edb138038a8957
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53609801"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54803017"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint Apps Security and Compliance
 
@@ -21,10 +21,11 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [Agile Task Board for SharePoint Online](./agile-is-task-board-for-sharepoint-online.md) | Agile-IS | **✓** |  |
+| [ArcGIS Mapas](./esri-inc-arcgis-maps.md) | Esri, Inc. | **✓** |  |
 | [Conector FormMachines para SharePoint](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | ENTERPRISE DIGITAL MACHINES PTY LTD | **✓** |  |
 | [Alternar para SharePoint](./gagglenet-inc-gaggle-for-sharepoint.md) | Gaggle.net, Inc. | **✓** |  |
 | [Complementos do iGlobe CRM](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [IGlobe CRM Office 365 para Microsoft Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Konnect eMail Parser](./konnect-email-parser.md) | Konnect eMail | **✓** |  |
 | [officeatwork | Template Chooser for SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Power BI Colaboração](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
+| [Colaboração do Power BI](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |

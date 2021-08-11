@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/05/2021
+ms.date: 08/04/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 8715b10a4f9325128fd21b7f9769062b3a8724f9a6f3c544fdc6d0f8956f008c
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 294453e0e22c2deb750a50a63467c7f35fa2bf4b
+ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54749881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53772268"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -43,7 +43,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Beekast](./beekast.md) | Beekast | **✓** |  |
 | [Beesy](./beesapps-beesy.md) | BeesApps | **✓** |  |
 | [Berrycast](./technologies-openmind-inc-les-berrycast.md) | Technologies Openmind Inc, Les | **✓** |  |
-| [BlackBerry AtHoc](./blackberry-athoc.md) | BlackBerry | **✓** |  |
 | [Board Connect](./engage-squared-board-connect.md) | Engage Squared | **✓** |  |
 | [Bonusly](./bonusly.md) | Bonusly | **✓** |  |
 | [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  |
@@ -82,7 +81,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Easy Projects](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR(Asia) Co.Ltd. | **✓** |  |
 | [EdMill](./my-serious-game-edmill.md) | My-Serious-Game | **✓** |  |
-| [Egnyte](./egnyte.md) | Egnyte | **✓** |  |
 | [elmah.io](./elmahio.md) | elmah.io | **✓** |  |
 | [Email TeamMate](./harmonie-email-teammate.md) | harmon.ie | **✓** |  |
 | [Gerenciamento da Treinamento de Funcionários](./sharepointsapiens-employee-training-management.md) | SharePoint|Sapiens | **✓** |  |
@@ -135,7 +133,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [LuckyDraw](./tony-xia-luckydraw.md) | Tony Xia | **✓** |  |
 | [Lumio por SMART](./smart-technologies-ulc-lumio-by.md) | SMART Technologies ULC | **✓** |  |
 | [MailClark](./mailclark.md) | MailClark | **✓** |  |
-| [Marvel](./marvel.md) | Marvel | **✓** |  |
 | [Medxnote MT](./medxnote-mt.md) | Medxnote | **✓** |  |
 | [MeisterTask](./meisterlabs-gmbh-meistertask.md) | MeisterLabs GmbH | **✓** |  |
 | [MindManager](./corel-mindmanager.md) | Corel | **✓** |  |
@@ -254,7 +251,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Controlador de Férias](./vacation-tracker.md) | Vacation Tracker | **✓** |  |
 | [Viima](./viima-solutions-oy.md) | Viima Solutions Oy | **✓** |  |
 | [VisualSP](./visualsp.md) | VisualSP | **✓** |  |
-| [Vonage Business Communications](./vonage-business-communications.md) | Vonage | **✓** |  |
 | [Webex Call](./cisco-webex-call.md) | Cisco | **✓** |  |
 | [Wide Ideas](./wide-ideas.md) | Wide Ideas | **✓** |  |
 | [Wired2Perform](./wired2perform.md) | Wired2Perform | **✓** |  |
