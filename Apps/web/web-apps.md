@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os aplicativos Web.
 localization_priority: Normal
-ms.openlocfilehash: 3446acbd1f5908aa6d8e94278b74a51dfc4a5ea9
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: c9aa27bbf2532f19d59b93782887767bd88cc79b03163f063f4bc422712e8b80
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275198"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54751281"
 ---
 # <a name="web-app-security-and-compliance"></a>Segurança e Conformidade do Aplicativo Web
 

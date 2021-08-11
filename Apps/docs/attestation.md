@@ -6,12 +6,12 @@ description: Mais informações sobre o programa Publisher Atestado
 keywords: app attestation certification 365 questionnaire appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 285fb4c74f2f5bdda3defee92dafa22f07d94314
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 1566ae1d56f6313d7055f122a8444de43ef60d9a73dc9e02e9cb2b1b86ae5a7c
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53526107"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54801267"
 ---
 # <a name="complete-publisher-attestation"></a>Concluir Publisher Atestado
 

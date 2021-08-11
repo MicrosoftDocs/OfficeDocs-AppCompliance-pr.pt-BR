@@ -6,12 +6,12 @@ description: Arquivo morto de boletins informativos de conformidade
 keywords: Boletim informativo de conformidade
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 352238084dbd19e4bf1eb97bb0bb32c27beb4e2c
-ms.sourcegitcommit: eb6a263d7c795d93d70dd1d5c0c91e65ebfbc649
+ms.openlocfilehash: a69495d35eaf69bee341efa7b15f479aa53e2ac0043e1aa8a422e1adc97cd83c
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52668322"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54751701"
 ---
 # <a name="newsletter-archive"></a>Arquivo de boletim informativo
 

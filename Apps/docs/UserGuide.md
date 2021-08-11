@@ -6,12 +6,12 @@ description: Guia do usuário isv para Microsoft 365 de conformidade de aplicati
 keywords: Guia do usuário isv para Microsoft 365 de conformidade de aplicativos
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1da6de6ee6664bb868a2184be538a8e5bbc65ab2
-ms.sourcegitcommit: f6f3551bf1c00013efb6313ca3dc280de697137d
+ms.openlocfilehash: 74bb654b6084319122e0f9388792cf44d85ca4a664ce89bf308982a29cbfdfc8
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53202507"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54801647"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>Guia do usuário do parceiro para Microsoft 365 De conformidade de aplicativos
 

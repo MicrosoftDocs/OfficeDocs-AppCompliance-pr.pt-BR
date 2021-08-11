@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/27/2021
+ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 1c270d05dad7fe1cd00b141ed20436ff61792131
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.openlocfilehash: 8715b10a4f9325128fd21b7f9769062b3a8724f9a6f3c544fdc6d0f8956f008c
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53609811"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54749881"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -30,6 +30,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Alvao Service Desk](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  |
 | [ApproveSimple](./capriza-inc-approvesimple.md) | Capriza, Inc | **✓** |  |
 | [Appspace](./appspace-inc.md) | Appspace, Inc. | **✓** |  |
+| [ArcGIS Maps](./esri-arcgis-maps.md) | Esri | **✓** |  |
 | [Asana](./asana.md) | Asana | **✓** |  |
 | [askR.ai](./askrai.md) | askR.ai | **✓** |  |
 | [Assembly](./carrothr-inc-assembly.md) | CarrotHR Inc. | **✓** |  |
@@ -42,6 +43,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Beekast](./beekast.md) | Beekast | **✓** |  |
 | [Beesy](./beesapps-beesy.md) | BeesApps | **✓** |  |
 | [Berrycast](./technologies-openmind-inc-les-berrycast.md) | Technologies Openmind Inc, Les | **✓** |  |
+| [BlackBerry AtHoc](./blackberry-athoc.md) | BlackBerry | **✓** |  |
 | [Board Connect](./engage-squared-board-connect.md) | Engage Squared | **✓** |  |
 | [Bonusly](./bonusly.md) | Bonusly | **✓** |  |
 | [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  |
@@ -80,6 +82,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Easy Projects](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR(Asia) Co.Ltd. | **✓** |  |
 | [EdMill](./my-serious-game-edmill.md) | My-Serious-Game | **✓** |  |
+| [Egnyte](./egnyte.md) | Egnyte | **✓** |  |
 | [elmah.io](./elmahio.md) | elmah.io | **✓** |  |
 | [Email TeamMate](./harmonie-email-teammate.md) | harmon.ie | **✓** |  |
 | [Gerenciamento da Treinamento de Funcionários](./sharepointsapiens-employee-training-management.md) | SharePoint|Sapiens | **✓** |  |
@@ -98,6 +101,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Fusion Remote](./jujo-inc-fusion-remote.md) | Jujo Inc. | **✓** |  |
 | [GitHub](./microsoft-corporation-github.md) | Microsoft Corporation | **✓** |  |
 | [Go1](./go1.md) | Go1 | **✓** |  |
+| [Good4work](./good4work.md) | Good4work | **✓** |  |
 | [Goodera](./goodera.md) | Goodera | **✓** |  |
 | [Insights do Google Analytics](./freevolut-ltd-google-analytics-insights.md) | Freevolut LTD | **✓** |  |
 | [GoToConnect](./logmein-inc-gotoconnect.md) | LogMeIn Inc. | **✓** |  |
@@ -131,6 +135,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [LuckyDraw](./tony-xia-luckydraw.md) | Tony Xia | **✓** |  |
 | [Lumio por SMART](./smart-technologies-ulc-lumio-by.md) | SMART Technologies ULC | **✓** |  |
 | [MailClark](./mailclark.md) | MailClark | **✓** |  |
+| [Marvel](./marvel.md) | Marvel | **✓** |  |
 | [Medxnote MT](./medxnote-mt.md) | Medxnote | **✓** |  |
 | [MeisterTask](./meisterlabs-gmbh-meistertask.md) | MeisterLabs GmbH | **✓** |  |
 | [MindManager](./corel-mindmanager.md) | Corel | **✓** |  |
@@ -156,6 +161,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [OpenAgora](./open-agora-openagora.md) | Open Agora | **✓** |  |
 | [Org@Work](./lundano-org@work.md) | Lundano | **✓** |  |
 | [Notificador de Pacote](./qburst-technologies-pvt-ltd-package-notifier.md) | QBURST TECHNOLOGIES PVT LTD | **✓** |  |
+| [PandaDoc](./pandadoc.md) | PandaDoc | **✓** |  |
 | [Perfony](./perfony.md) | Perfony | **✓** |  |
 | [Piazza](./piazza.md) | Piazza | **✓** |  |
 | [Calendário de Equipe do Planyway](./rubius-planyway-team-calendar.md) | Rubius | **✓** |  |
@@ -177,6 +183,8 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Remind](./88-ventures-limited-remind.md) | 88 Ventures Limited | **✓** |  |
 | [Reminderz](./chitchattr-reminderz.md) | ChitChattr | **✓** |  |
 | [Retro](./baltic-amadeus-retro.md) | Baltic Amadeus | **✓** |  |
+| [Rezolve.ai](./actionable-science-rezolveai.md) | Ciência acionável | **✓** |  |
+| [RFPIO bot](./rfpio-bot.md) | RFPIO | **✓** |  |
 | [RingCentral](./ringcentral-inc.md) | RingCentral, Inc. | **✓** |  |
 | [RowShare](./rowshare.md) | RowShare | **✓** |  |
 | [RSpace](./researchspace-rspace.md) | ResearchSpace | **✓** |  |
@@ -246,8 +254,10 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Controlador de Férias](./vacation-tracker.md) | Vacation Tracker | **✓** |  |
 | [Viima](./viima-solutions-oy.md) | Viima Solutions Oy | **✓** |  |
 | [VisualSP](./visualsp.md) | VisualSP | **✓** |  |
+| [Vonage Business Communications](./vonage-business-communications.md) | Vonage | **✓** |  |
 | [Webex Call](./cisco-webex-call.md) | Cisco | **✓** |  |
 | [Wide Ideas](./wide-ideas.md) | Wide Ideas | **✓** |  |
+| [Wired2Perform](./wired2perform.md) | Wired2Perform | **✓** |  |
 | [Wisembly](./wisembly.md) | Wisembly | **✓** |  |
 | [Woobot](./woobot.md) | Woobot | **✓** |  |
 | [Workboard](./workboard.md) | Workboard | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

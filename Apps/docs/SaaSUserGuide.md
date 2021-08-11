@@ -6,12 +6,12 @@ description: Guia do usuário isv para Microsoft 365 saas do programa de conform
 keywords: Guia do usuário isv para Microsoft 365 saas do programa de conformidade de aplicativos
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: b3b8c37a1babf2f941f5764fddd30523319d9a34
-ms.sourcegitcommit: f6f3551bf1c00013efb6313ca3dc280de697137d
+ms.openlocfilehash: 39eed9158ab9cbaa5e26efe036c98fc2ab2b1695d615d8b28930f0d8d4735430
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53202748"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54801282"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>Guia do usuário do parceiro para Microsoft 365 de conformidade de aplicativos - SaaS
 

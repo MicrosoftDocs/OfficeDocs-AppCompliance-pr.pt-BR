@@ -6,12 +6,12 @@ description: Microsoft 365 Exibição granular do Guia de Envio de Certificaçã
 keywords: equipes de certificação de aplicativos Microsoft 365 conformidade de segurança m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: dd3a61b6b9768c278cd7d48dd88847ea9ee56421
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: 31c974a20e17daa0436826432429bd664a9a1f59dee6b351b587ae0b30cc6bac
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315121"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54750531"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 Guia de Envio de Certificação
 
@@ -35,7 +35,7 @@ ms.locfileid: "53315121"
 - [Apêndice E](#appendix-e) 
 - [Apêndice F](#appendix-f) 
 - [Apêndice G ](#appendix-g)
-- [Saiba Mais](#learn-more) 
+- [Saiba mais](#learn-more) 
 - [Glossário](#glossary) 
 
 
@@ -356,7 +356,7 @@ Esse domínio mede o alinhamento dos processos de infraestrutura e implantação
 ||Forneça evidências demonstrativas de que o IDPS está configurado para monitorar todos os fluxos de tráfego de entrada.|
 ||Forneça evidências demonstrativas de que o IDPS está configurado para monitorar todos os fluxos de tráfego de saída.|
 |**Log de Eventos de Segurança** |Forneça documentação de política para práticas recomendadas e procedimentos que governam o registro em log de eventos de segurança.|
-|| Forneça evidências demonstrativas que mostram que o log de eventos de segurança está definido em todos os componentes do sistema amostrados para registrar os seguintes eventos: acesso do usuário aos componentes do sistema e ao aplicativo, Todas as ações tomadas por um usuário com privilégios elevados, tentativas de acesso lógico inválidos Criação ou modificação de conta privilegiada, adulteração de log de eventos, Desabilitação de ferramentas de segurança (como antimalware ou registro em log de eventos) , Registro em log antimalware (como atualizações, detecção de malware e falhas de verificação).,eventos IDPS e WAF, se configurados|
+|| Forneça evidências demonstrativas que mostram que o log de eventos de segurança está definido em todos os componentes do sistema amostrados para registrar os seguintes eventos: acesso do usuário aos componentes do sistema e ao aplicativo, Todas as ações tomadas por um usuário com privilégios elevados, tentativas de acesso lógico inválidos Criação ou modificação de conta privilegiada, adulteração de log de eventos, Desabilitação de ferramentas de segurança (como antimalware ou registro em log de eventos),  Registro em log antimalware (como atualizações, detecção de malware e falhas de verificação).,eventos IDPS e WAF, se configurados|
 ||Forneça evidências demonstrativas de que os eventos de segurança registrados contêm as seguintes informações mínimas: Usuário, Tipo de evento, Data e hora, Indicadores de sucesso ou falha, Rótulo que identifica o sistema afetado|
 ||Forneça evidências demonstradas de que todos os componentes do sistema amostrados são sincronizados em tempo com os mesmos servidores primários e secundários.|
 ||Forneça evidências demonstradas quando sistemas públicos voltados para o público estão em uso, de que os logs de eventos de segurança estão sendo enviados para uma solução de registro em log centralizada que não está dentro da rede de perímetro.|

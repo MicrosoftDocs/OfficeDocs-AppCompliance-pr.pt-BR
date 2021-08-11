@@ -1,43 +1,45 @@
 ---
-title: Informações do aplicativo para ngDesk por Todas as Soluções Azuis
+title: Informações do aplicativo para Wired2Perform by Wired2Perform
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/28/2021
+ms.date: 06/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o ngDesk, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Wired2Perform, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a0d3f507338a8ef504df171542d0fa8c25c37efc
+ms.openlocfilehash: 53e25098f069130505add53c3e7b0d39d287e1ac
 ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 08/05/2021
-ms.locfileid: "53772108"
+ms.locfileid: "53774816"
 ---
-# <a name="ngdesk"></a>ngDesk
+# <a name="wired2perform"></a>Wired2Perform
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 28 de julho de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 1º de junho de 2021</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200002505" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/b08f369e-4927-4c66-b997-e1086df7970d" target="_blank">Exibir no Teams store</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002935" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas por Todas as Soluções Azuis para a Microsoft:
+Informações fornecidas pelo Wired2Perform para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | ngDesk |
-| ID | WA200002505 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior em Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
-| Nome da empresa de parceiro | Soluções All Blue |
-| URL do site do parceiro | [https://ngdesk.com](https://ngdesk.com) |
-| URL da Política de Privacidade | [https://ngdesk.com/privacy-policy-office-365/](https://ngdesk.com/privacy-policy-office-365/) |
-| URL dos Termos de Uso | [https://ngdesk.com/terms-of-service/](https://ngdesk.com/terms-of-service/) |
+| Nome do aplicativo | Wired2Perform |
+| ID | WA200002935 |
+| Office 365 clientes com suporte | Microsoft Teams |
+| Nome da empresa de parceiro | Wired2Perform |
+| URL do site do parceiro | [https://wired2perform.com](https://wired2perform.com) |
+| URL da página Teams de informações do aplicativo | [https://wired2perform.com](https://wired2perform.com) |
+| URL da Política de Privacidade | [https://wired2perform.com/privacy-for-humans](https://wired2perform.com/privacy-for-humans) |
+| URL dos Termos de Uso | [https://wired2perform.com/terms-conditions](https://wired2perform.com/terms-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,7 +49,7 @@ Informações fornecidas por Todas as Soluções Azuis para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas por All Blue Solutions sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo Wired2Perform sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
@@ -55,6 +57,13 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >Este aplicativo não usa o Microsoft Graph.
 
+#### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
+
+Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
+
+>| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
+>| Microsoft Teams API | Não |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
@@ -62,6 +71,11 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 
 >Não serviços Microsoft não são usados.
 
+#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
+
+Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
+
+>Nenhum EUII é acessado.
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
@@ -74,7 +88,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Não enviamos dados para outros sistemas parceiros
+>Essas informações não são compartilhadas, somente internas
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -90,9 +104,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/42198' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559" target="_blank">Exibir em uma nova guia</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/42198" target="_blank">Exibir em uma nova guia</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -102,7 +116,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas por All Blue Solutions sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pelo Wired2Perform sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
