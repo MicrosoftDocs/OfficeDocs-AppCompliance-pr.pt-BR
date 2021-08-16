@@ -2,24 +2,24 @@
 title: Informações do aplicativo para Email TeamMate por harmon.ie
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Email TeamMate, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a5d84cc70ee039a4b2973fb5ec9bfd9f20a9a179
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 1aecf8fedde78acae86eb654f066bb443ff387ed
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521654"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58239772"
 ---
 # <a name="email-teammate"></a>Email TeamMate
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 4 de janeiro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 10 de agosto de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/3ae27f31-ceea-4d13-a212-cdc9d786eae1" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002338" target="_blank">Exibir no AppSource</a>
@@ -30,14 +30,14 @@ ms.locfileid: "53521654"
 
 Informações fornecidas pelo harmon.ie para a Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Email TeamMate |
 | ID | WA200002338 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | harmon.ie |
 | URL do site do parceiro | [https://harmon.ie](https://harmon.ie) |
-| URL da página Teams de informações do aplicativo | [https://emailteammate.com](https://emailteammate.com) |
+| URL da página Teams de informações do aplicativo | [https://harmon.ie](https://harmon.ie) |
 | URL da Política de Privacidade | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
 | URL dos Termos de Uso | [https://harmon.ie/legal/teammate-eula](https://harmon.ie/legal/teammate-eula) |
 
@@ -57,12 +57,12 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Chat.Read | delegado | Obrigatório pelo TeamMate para obter membros de chat de uma conversa específica para compartilhar arquivos salvo em uma unidade SharePoint/Um com os membros do chat de conversa | nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| Files.ReadWrite.All | delegado | Obrigatório pelo TeamMate para salvar anexos de emails em SharePoint &amp; /Teams /OneDrive | nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| Mail.ReadWrite | delegado | Obrigatório pelo TeamMate para mostrar os emails do usuário e responder a emails salvos em Teams | nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| People.Read | delegado | Obrigatório pelo TeamMate para pesquisar emails por pessoas e sugerir pessoas que você está contatando com frequência. | nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| User.Read | delegado | permite que os usuários entre no TeamMate com sua conta e permite que o TeamMate veja informações básicas de perfil de usuário | nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| User.ReadBasic.All | delegado | Obrigatório pelo TeamMate para resolver endereços de email de membros de chat para que os arquivos de compartilhamento salvos OneDrive com eles  | nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| Chat.Read | delegado | Obrigatório pelo TeamMate para obter membros de chat de uma conversa específica para compartilhar arquivos salvo em uma unidade SharePoint/Um com os membros do chat de conversa | Nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| Files.ReadWrite.All | delegado | Obrigatório pelo TeamMate para salvar anexos de emails em SharePoint &amp; /Teams /OneDrive | Nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| Mail.ReadWrite | delegado | Obrigatório pelo TeamMate para mostrar os emails do usuário e responder a emails salvos em Teams | Nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| People.Read | delegado | Obrigatório pelo TeamMate para pesquisar emails por pessoas e sugerir pessoas que você está contatando com frequência. | Nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| User.Read | delegado | permite que os usuários entre no TeamMate com sua conta e permite que o TeamMate veja informações básicas de perfil de usuário | Nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| User.ReadBasic.All | delegado | Obrigatório pelo TeamMate para resolver endereços de email de membros de chat para que os arquivos de compartilhamento salvos OneDrive com eles  | Nenhuma | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -118,7 +118,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas por harmon.ie sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
