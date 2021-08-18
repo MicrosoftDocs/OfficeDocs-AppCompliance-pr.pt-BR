@@ -6,12 +6,12 @@ description: Microsoft 365 Exibição granular do Guia de Envio de Certificaçã
 keywords: equipes de certificação de aplicativos Microsoft 365 conformidade de segurança m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 31c974a20e17daa0436826432429bd664a9a1f59dee6b351b587ae0b30cc6bac
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: b0a207bd8fbe1834e03c08eecb82d3552c75a182
+ms.sourcegitcommit: f33609288c6c59af423367dce2eac3e261c1d297
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54750531"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58373775"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 Guia de Envio de Certificação
 
@@ -107,7 +107,7 @@ As solicitações de evidências em suporte à avaliação de certificação dev
 |---------------------------- |-------------------------|
 |<5|1|
 |>5 & <10|2|
-|>9 & <25|3|
+|>9 & <25|3 |
 |>24|4 |
 
 > [!NOTE]
@@ -115,11 +115,7 @@ As solicitações de evidências em suporte à avaliação de certificação dev
 
 ## <a name="certification-process"></a>Processo de Certificação
 
-Antes de iniciar o processo de certificação, você precisará ter escompletado com êxito seu Publisher Atestado. Suas respostas de atestado serão usadas em suporte ao processo de Certificação Microsoft 365 e continuarão da seguinte forma:
-
-## <a name="certification-process"></a>Processo de Certificação
-
-Antes de começar o processo de certificação, você precisará ter concluído o Publisher Atestado. Depois que o atestado do seu editor for aprovado, você receberá um email introdutório convidando você a ingressar Microsoft 365 Certificação.
+Antes de iniciar o processo de certificação, você precisará ter concluído com êxito seu Publisher Atestado. Depois de concluído, o Microsoft 365 de certificação de dados prosseguirá da seguinte forma:
 
 ### <a name="preparation"></a>Preparação
 1. Navegue até o Partner Center e revise sua documentação [Publisher Atestado.]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation) Se necessário, você pode editar e atualizar suas respostas; no entanto, se você fizer isso, precisará reabrir sua documentação de atestado para aprovação. Se o envio tiver mais de três meses, exigiremos que você Publisher atestado para revisão e validação. 
