@@ -6,12 +6,12 @@ description: Mais informações sobre o programa Publisher Atestado
 keywords: app attestation certification 365 questionnaire appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: ad059066c4685cf72e5d0b76b10b5d9ca22b6df9
-ms.sourcegitcommit: dc086ac579e488a38bad3dad10037d43af7efd55
+ms.openlocfilehash: 286d14e580bdb9f24ccf1754685ebeeaef6d0c11
+ms.sourcegitcommit: eae0e45c87fa8f1a87257e1e38122228e6970ba9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 08/18/2021
-ms.locfileid: "58385867"
+ms.locfileid: "58390455"
 ---
 # <a name="complete-publisher-attestation"></a>Concluir Publisher Atestado
 
@@ -32,12 +32,12 @@ Publisher Atestado se aplica a Aplicativos Web (aplicativos SaaS publicados por 
 
 
 ## <a name="program-benefits"></a>Benefícios do Programa
-- Economia de tempo. Aponte seus clientes para sua página de documentos onde eles podem encontrar suas respostas para perguntas frequentes sobre seu aplicativo
-- Acelerando a linha do tempo de revisão interna de segurança e conformidade de uma organização corporativa
-- Maior transparência
-- Diferenciação de outros aplicativos na loja 
-- Link para a página de documentos da sua entrada no AppSource, o Centro de Administração Teams, o Centro de Administração da Microsoft e o Teams Store 
-- Qualificação para iniciar a Microsoft 365 Certificação
+- Economia de tempo. Aponte seus clientes para sua página de documentos onde eles podem encontrar suas respostas para perguntas frequentes sobre seu aplicativo.
+- Acelerando a linha do tempo de revisão interna de segurança e conformidade de uma organização empresarial.
+- Maior transparência.
+- Diferenciação de outros aplicativos na loja. 
+- Vincule à página documentos da sua entrada no AppSource, no Centro de Administração Teams, no Centro de Administração da Microsoft e no Teams Store. 
+- Qualificação para iniciar a Microsoft 365 Certificação.
  
 
 ## <a name="publisher-attestation-process"></a>Publisher Processo de atestado
