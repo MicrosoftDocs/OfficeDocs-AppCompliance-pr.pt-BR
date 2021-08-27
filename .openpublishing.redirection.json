@@ -166,11 +166,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200003118.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/esri-inc-arcgis-maps",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002859.md",
       "redirect_url": "/microsoft-365-app-certification/teams/esri-arcgis-maps",
       "redirect_document_id": false
@@ -178,6 +173,11 @@
     {
       "source_path": "Apps/forward/ba4eda44-cd55-4e15-855c-0debafb0490b.md",
       "redirect_url": "/microsoft-365-app-certification/teams/esri-arcgis-maps",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003118.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/esri-inc-arcgis-maps",
       "redirect_document_id": false
     },
     {
@@ -2046,6 +2046,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003099.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/cemeq-inc-mediathequeplus",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/d546d064-6146-4341-b997-3a83855cafb3.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/cemeq-inc-mediathequeplus",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200001047.md",
       "redirect_url": "/microsoft-365-app-certification/teams/regroove-solutions-navo",
       "redirect_document_id": false
@@ -2096,11 +2106,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200002505.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/all-blue-solutions-ngdesk",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002968.md",
       "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
       "redirect_document_id": false
@@ -2108,6 +2113,11 @@
     {
       "source_path": "Apps/forward/64d24486-30aa-4fae-8bdc-2680a85dcbb5.md",
       "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002505.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/all-blue-solutions-ngdesk",
       "redirect_document_id": false
     },
     {
@@ -2396,6 +2406,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA104380739.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381384.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
       "redirect_document_id": false
@@ -2403,11 +2418,6 @@
     {
       "source_path": "Apps/forward/90381cb0-998f-4ba3-9699-130201de5ddb.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA104380739.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
       "redirect_document_id": false
     },
     {
