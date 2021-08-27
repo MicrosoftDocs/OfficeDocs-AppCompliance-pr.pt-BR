@@ -181,16 +181,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200003186.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/argus-data-insights-schweiz-ag-argusnylar",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/f14455f8-5bbe-4da9-8df3-9c5533057569.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/argus-data-insights-schweiz-ag-argusnylar",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002975.md",
       "redirect_url": "/microsoft-365-app-certification/teams/arrangr-inc",
       "redirect_document_id": false
@@ -1526,13 +1516,13 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/17859280.iplannerpro.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/iglobe-iplanner-pro-office-365",
+      "source_path": "Apps/forward/WA104380464.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104380464.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
+      "source_path": "Apps/forward/17859280.iplannerpro.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/iglobe-iplanner-pro-office-365",
       "redirect_document_id": false
     },
     {
@@ -2726,6 +2716,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/salestim.salestim.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/salestim",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200001393.md",
       "redirect_url": "/microsoft-365-app-certification/teams/salestim",
       "redirect_document_id": false
@@ -2733,11 +2728,6 @@
     {
       "source_path": "Apps/forward/589748de-ec98-4616-9063-e91c629bd1a4.md",
       "redirect_url": "/microsoft-365-app-certification/teams/salestim",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/salestim.salestim.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/salestim",
       "redirect_document_id": false
     },
     {
@@ -2826,11 +2816,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200002128.md",
-      "redirect_url": "/microsoft-365-app-certification/excel/sheetgo-europe-sl",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002067.md",
       "redirect_url": "/microsoft-365-app-certification/teams/sheetgo-europe-sl",
       "redirect_document_id": false
@@ -2838,6 +2823,11 @@
     {
       "source_path": "Apps/forward/583de270-58d0-4f94-af06-bf971f82fd94.md",
       "redirect_url": "/microsoft-365-app-certification/teams/sheetgo-europe-sl",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002128.md",
+      "redirect_url": "/microsoft-365-app-certification/excel/sheetgo-europe-sl",
       "redirect_document_id": false
     },
     {
