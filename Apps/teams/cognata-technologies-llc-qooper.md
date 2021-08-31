@@ -1,44 +1,45 @@
 ---
-title: Informações do aplicativo para SmartWork pelo SmartWork of Intumit
+title: Informações do aplicativo para Qooper pela COGNATA TECHNOLOGIES, LLC
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/23/2021
+ms.date: 06/11/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o SmartWork, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9df1a52e4634956a1a48984faeea9e4b453c03a4
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+description: Todas as informações de segurança e conformidade disponíveis para a Qooper, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 83bc4fea918d30cd0854ec260f817fc1ad87bacf
+ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404036"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58567187"
 ---
-# <a name="smartwork"></a>SmartWork
+# <a name="qooper"></a>Qooper
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 23 de julho de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 11 de junho de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/a938ae1e-a791-4751-9e6a-178c991fa0fa" target="_blank">Exibir no Teams store</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001149" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/fadca663-cc96-4756-8a3b-271000082238" target="_blank">Exibir no Teams store</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002964" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo SmartWork do Intumit para a Microsoft:
+Informações fornecidas pela COGNATA TECHNOLOGIES, LLC para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | SmartWork |
-| ID | WA200001149 |
+| Nome do aplicativo | Qooper |
+| ID | WA200002964 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | SmartWork of Intumit |
-| URL do site do parceiro | [https://www.intumit.com/english/](https://www.intumit.com/english/) |
-| URL da Política de Privacidade | [https://www.intumit.com/privacy.html](https://www.intumit.com/privacy.html) |
-| URL dos Termos de Uso | [https://www.intumit.com/english/TermsOfUse.html](https://www.intumit.com/english/TermsOfUse.html) |
+| Nome da empresa de parceiro | TECNOLOGIAS COGNATA, LLC |
+| URL do site do parceiro | [https://qooper.io](https://qooper.io) |
+| URL da página Teams de informações do aplicativo | [https://qooper.io](https://qooper.io) |
+| URL da Política de Privacidade | [https://qooper.io/user-privacy-policy](https://qooper.io/user-privacy-policy) |
+| URL dos Termos de Uso | [https://qooper.io/terms-of-use](https://qooper.io/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,15 +49,13 @@ Informações fornecidas pelo SmartWork do Intumit para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo SmartWork do Intumit sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas por TECNOLOGIAS COGNATA, LLC sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | delegado | Usando userPrincipalName para identificar se o email do usuário é de um AAD válido ou não | Entrar e ler o perfil do usuário | [a938ae1e-a791-4751-9e6a-178c991fa0fa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
+>Este aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -69,28 +68,26 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
 
->| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Usando para identificar o email do usuário se é de um AAD válido ou não | Email do usuário | Lista de emails do usuário armazenado para identificar se o usuário é de um AAD válido ou não |
+>Nenhum EUII é acessado.
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Não. Durante a conversa, vamos usar o modo de sessão para controlar. Usando a id para corresponder ao item no db, acesse os dados. Não registraremos especificamente as informações do usuário
+>Nenhum OII ou EUII aparece nos logs ou telemetria de aplicativos.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Somente você tem uma conta AAD válida pode acessar o aplicativo.
+>Os administradores podem excluir suas contas sob demanda. Depois que a conta for excluída por meio do consentimento do usuário, removeremos completamente as informações confidenciais do nosso armazenamento.
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
 Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
 
->Sim
+>Não
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,9 +97,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35852' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35852" target="_blank">Exibir em uma nova guia</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -112,22 +109,21 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pelo SmartWork of Intumit sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas por TECNOLOGIAS COGNATA, LLC sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
-| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
 | As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Sim |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | ,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/> |
-| Seu aplicativo expõe alguma APIs da Web? | Sim |
-| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Seu aplicativo expõe alguma APIs da Web? | Não |
 | Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 
