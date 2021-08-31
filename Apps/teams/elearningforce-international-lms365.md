@@ -2,23 +2,23 @@
 title: Informações do aplicativo para LMS365 por ELEARNINGFORCE International
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/18/2021
+ms.date: 07/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o LMS365, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4a4690496c4da8fd31de70bfa796d15d73dba844
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 5a88349d6fa62769d528c66baeb428b791a007b0
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521764"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672738"
 ---
 # <a name="lms365"></a>LMS365
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Última atualização pelo desenvolvedor em: 18 de março de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 28 de julho de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/d136f17e-df84-47f2-97a4-13aa24c0c647" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381467" target="_blank">Exibir no AppSource</a>
@@ -58,6 +58,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| GroupMember.Read.All | aplicação | Nenhum | Permite que o aplicativo expanda membros do grupo do AD, o que é necessário para registrar um grupo de usuários nos cursos. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| Mail.Send | delegado | Nenhum | A permissão é solicitada dinamicamente durante a configuração da conta de email para notificação. Permite que o aplicativo envie emails de notificação | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| OnlineMeetings.ReadWrite | delegado | A permissão é solicitada dinamicamente durante a configuração da conta de email para notificação. Permite que um aplicativo crie e leia reuniões online | A URL da reunião online é armazenada como uma referência na entidade de sessão do curso | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| RoleManagement.Read.Directory | aplicação | Nenhum | Permite que o aplicativo SharePoint domínio durante o provisionamento de locatários. O domínio é usado para a construção de URL. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| User.Invite.All | delegado | Nenhum | Permite que o aplicativo convide usuários externos em nome do usuário conectado atual | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| User.Read | delegado | Nenhum | Entre e leia o perfil do usuário. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |

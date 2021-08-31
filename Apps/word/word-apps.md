@@ -2,17 +2,17 @@
 title: Microsoft Word Segurança e Conformidade de Aplicativos - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/11/2021
+ms.date: 08/27/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft Word Apps.
 localization_priority: Normal
-ms.openlocfilehash: 552b0d93486858f7b1255060c74cd794f9763c7d
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.openlocfilehash: d87b12f87692d7cc77304bb52f1b0acdef246632
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58243437"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672898"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word Segurança e conformidade de aplicativos
 
@@ -21,8 +21,12 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [Adobe Sign for Word and PowerPoint](./adobe-inc-sign-for-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [CocoFax - Envio de fax &amp; facilitado](./missing-cocofax-sending-fax-made-easy-and-secure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Excel automação de documentos do word](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
+| [Fabasoft Cloud Office Add-in](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
 | [harmon.ie para Office](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  |
+| [LegalMind Word AddIn](./legalmind-word-addin.md) | LegalMind | **✓** |  |
+| [Assistente de Contrato do Loio](./loio-inc-contract-assistant.md) | Loio Inc. | **✓** |  |
 | [Diagramas de Lucidchart para Word](./lucid-software-inc-lucidchart-diagrams-for-word.md) | Software Lúcido Inc | **✓** |  |
 | [Mendeley Cite](./elsevier-limited-mendeley-cite.md) | ELSEVIER LIMITED | **✓** |  |
 | [Office2SharePoint para Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -33,6 +37,8 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [officeatwork | Uploader for Office](./officeatwork-officeatworkuploader-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Verificador para Office](./officeatwork-officeatworkverifier-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Assistente para Office](./officeatwork-officeatworkwizard-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [RetMig &amp; Kommaforslag](./grammarsoft-aps-retmig-and-kommaforslag.md) | GrammarSoft ApS | **✓** |  |
 | [SmartCite for Papers](./digital-science-smartcite-for-papers.md) | Ciência Digital | **✓** |  |
+| [TaxKit Docs](./taxyio-gmbh-taxkit-docs.md) | Taxy.io GmbH | **✓** |  |
 | [Wunder365 para Office](./jiji-technologies-private-limited-wunder365-for-office.md) | Tecnologias JiJi Private Limited | **✓** |  |
 | [xLaw - sistema de gerenciamento de conhecimento](./evertn-xlaw-knowledge-management-system.md) | evertn | **✓** |  |
