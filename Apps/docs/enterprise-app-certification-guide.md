@@ -6,16 +6,16 @@ description: Microsoft 365 Detalhes da certificação
 keywords: app attestation microsoft 365 certification 365 questionnaire appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 51f85b71a04cb64159b228cdb881345fecaad36c
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.openlocfilehash: 49bb08fa252a3907df67766dce39ef810381be27
+ms.sourcegitcommit: 44c92cbf86ee358e4fcdf2a51dae5be001345029
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58241824"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "58862034"
 ---
 # <a name="what-is-microsoft-365-certification"></a>O que é Microsoft 365 Certificação?
 
-A Microsoft 365 é uma certificação projetada para mostrar aos clientes que um aplicativo foi vetado em relação a estruturas padrão do setor e que práticas fortes de segurança e conformidade estão em prática para proteger os dados do cliente. 
+A certificação Microsoft 365 é uma certificação projetada para mostrar aos clientes que um aplicativo foi vetado contra controles derivados de estruturas padrão líderes do setor, e que práticas fortes de segurança e conformidade estão em prática para proteger os dados do cliente. 
 
 >[!VIDEO https://www.youtube.com/embed/Aff_35f10B8]
 
