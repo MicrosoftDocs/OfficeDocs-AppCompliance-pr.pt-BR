@@ -335,8 +335,6 @@
           href: teams/disastertech-dice.md
         - name: do!book CB
           href: teams/digital-office-inc-do!book-cb.md
-        - name: Docuo
-          href: teams/r2-docuo.md
         - name: DocuSign eSignature
           href: teams/docusign-inc-esignature.md
         - name: Droplr
@@ -976,6 +974,8 @@
           href: azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md
         - name: 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0
           href: azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0.md
+        - name: 05ffe668-5b27-45ff-a64d-b2ed6c475d7a
+          href: azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md
         - name: 066a6b3a-f7a0-450a-98c7-34db1da31594
           href: azure/066a6b3a-f7a0-450a-98c7-34db1da31594.md
         - name: 0752d800-857f-49bd-87eb-e60985516c67
@@ -1094,6 +1094,8 @@
           href: azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md
         - name: 53d19d16-137b-4365-a095-685d5044d28c
           href: azure/53d19d16-137b-4365-a095-685d5044d28c.md
+        - name: 56412014-bafe-474e-95b4-ebfea106a167
+          href: azure/56412014-bafe-474e-95b4-ebfea106a167.md
         - name: 57de46f8-193a-400c-9a34-c86233aed55
           href: azure/57de46f8-193a-400c-9a34-c862333aed55.md
         - name: 5971c986-9d39-409c-a6f8-1385b1f690ef
@@ -1102,6 +1104,8 @@
           href: azure/5be2b320-a5b7-4221-893c-dee506e4e365.md
         - name: 5e4dadf5-9f90-449b-9e39-934fd10b7c23
           href: azure/5e4dadf5-9f90-449b-9e39-934fd10b7c23.md
+        - name: 5edad654-f2d5-41d8-bfc0-92c2735252e1
+          href: azure/5edad654-f2d5-41d8-bfc0-92c2735252e1.md
         - name: 5f1f4eb7-479e-42f3-b86f-4c1f53e1c222
           href: azure/5f1f4eb7-479e-42f3-b86f-4c1f53e1c222.md
         - name: 621d9ae7-c14e-4fab-9604-63e1ffc9e721
@@ -1164,10 +1168,14 @@
           href: azure/8c87660f-d36f-41f6-b0ae-025253f380aa.md
         - name: 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7
           href: azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md
+        - name: 8f79a561-d2f1-4a1e-8092-c2039043a40e
+          href: azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md
         - name: 917edb36-f047-45cf-ad96-0e7e9ec7d8af
           href: azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af.md
         - name: 950aa4fb-0583-4b13-9b5f-bbc92b9cc376
           href: azure/950aa4fb-0583-4b13-9b5f-bbc92b9cc376.md
+        - name: 98b70422-b0b2-41bf-8673-60d85f5d38c7
+          href: azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md
         - name: 99a0a9b1-5d28-45df-9f99-792aa32795f4
           href: azure/99a0a9b1-5d28-45df-9f99-792aa32795f4.md
         - name: 9a7ce614-bdc8-4640-aaea-d8c626c58966
@@ -1328,6 +1336,8 @@
           href: azure/fc70bbbe-91c4-4d8f-a9c9-a022068d5752.md
         - name: fc8f7563-e8ea-4b6d-9622-82775a21a35a
           href: azure/fc8f7563-e8ea-4b6d-9622-82775a21a35a.md
+        - name: fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc
+          href: azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md
         - name: ff540df6-84dc-4a84-baa4-a95ce3b415cd
           href: azure/ff540df6-84dc-4a84-baa4-a95ce3b415cd.md
         - name: ff5f406c-2ded-423f-b6ba-2950a2532b69

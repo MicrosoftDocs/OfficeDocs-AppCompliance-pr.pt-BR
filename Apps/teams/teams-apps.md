@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/31/2021
+ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 72b6bbd87bd01116735911edb6ec6077753fd659
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.openlocfilehash: 00113bb1bdae6e5b227293507e62255517ef5d8f
+ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836002"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58873176"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -119,7 +119,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Empuls](./empuls.md) | Empuls | **✓** |  |
 | [Enboarder](./enboarder.md) | Enboarder | **✓** |  |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  |
-| [eTeamer](./missing-eteamer.md) | &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
+| [eTeamer](./eteamer.md) | &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Gerenciamento de Eventos](./sharepointsapiens-event-management.md) | SharePoint|Sapiens | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [Evocom](./evocom-informationssysteme-gmbh.md) | Evocom Informationssysteme GmbH | **✓** |  |
@@ -159,6 +159,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Em caso de crise](./rockdove-solutions-inc-in-case-of-crisis.md) | RockDove Solutions, Inc. | **✓** |  |
 | [IndustryIntel](./industry-intelligence-team-industryintel.md) | Industry Intelligence Team | **✓** |  |
 | [InStation](./developers-invillia-instation.md) | Developers Invillia | **✓** |  |
+| [isLucid](./uab-lucid-agreements-islucid.md) | Acordos UAB Lucid | **✓** |  |
 | [Jetdocs](./jetdocs.md) | Jetdocs | **✓** |  |
 | [Jira Cloud](./atlassian-jira-cloud.md) | Atlassian | **✓** |  |
 | [JobPts](./semos-cloud-soultions-jobpts.md) | Semos Nuvem Soultions | **✓** |  |
@@ -189,7 +190,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Medxnote MT](./medxnote-mt.md) | Medxnote | **✓** |  |
 | [MeisterTask](./meisterlabs-gmbh-meistertask.md) | MeisterLabs GmbH | **✓** |  |
 | [Mentimeter](./mentimeter.md) | Mentimeter | **✓** |  |
-| [Lembrete de Mensagem](./missing-message-reminder.md) | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; | **✓** |  |
+| [Lembrete de Mensagem](./message-reminder.md) | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; | **✓** |  |
 | [Micromate](./paixon-gmbh-micromate.md) | Paixon GmbH | **✓** |  |
 | [MindManager](./corel-mindmanager.md) | Corel | **✓** |  |
 | [MindMeister](./meisterlabs-gmbh-mindmeister.md) | MeisterLabs GmbH | **✓** |  |
@@ -213,6 +214,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [NewCOS](./newtech-newcos.md) | Newtech | **✓** |  |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | Soluções All Blue | **✓** |  |
 | [NickNack](./nicknack-ltd.md) | NickNack Ltd. | **✓** |  |
+| [Nickname por jogos flowrish](./room6-nickname-by-flowrish-games.md) | sala6 | **✓** |  |
 | [Now Virtual Agent](./servicenow-now-virtual-agent.md) | ServiceNow | **✓** |  |
 | [Nugget](./panviva-nugget.md) | Panviva | **✓** |  |
 | [Nulia Works](./nulia-works.md) | Nulia | **✓** |  |
@@ -224,6 +226,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [OpenAgora](./open-agora-openagora.md) | Open Agora | **✓** |  |
 | [Org@Work](./lundano-org@work.md) | Lundano | **✓** |  |
 | [Notificador de Pacote](./qburst-technologies-pvt-ltd-package-notifier.md) | QBURST TECHNOLOGIES PVT LTD | **✓** |  |
+| [PagerDuty](./pagerduty-inc.md) | PagerDuty, Inc. | **✓** |  |
 | [PandaDoc](./pandadoc.md) | PandaDoc | **✓** |  |
 | [ParkHere Corporativo](./parkhere-gmbh-corporate.md) | ParkHere GmbH | **✓** |  |
 | [Wiki perfeito por RD17](./ooo-rd17-perfect-wiki-by.md) | OOO RD17 | **✓** |  |
@@ -253,7 +256,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [RememberThis](./tom-morgan-rememberthis.md) | Tom Morgan | **✓** |  |
 | [Remind](./88-ventures-limited-remind.md) | 88 Ventures Limited | **✓** |  |
 | [Reminderz](./chitchattr-reminderz.md) | ChitChattr | **✓** |  |
-| [researcHR](./missing-researchr.md) | KBE&#26666;&#24335;&#20250;&#31038; | **✓** |  |
+| [researcHR](./researchr.md) | KBE&#26666;&#24335;&#20250;&#31038; | **✓** |  |
 | [Retro](./baltic-amadeus-retro.md) | Baltic Amadeus | **✓** |  |
 | [Rezolve.ai](./actionable-science-rezolveai.md) | Ciência acionável | **✓** |  |
 | [RFPIO bot](./rfpio-bot.md) | RFPIO | **✓** |  |
@@ -289,7 +292,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [SmartWork](./smartwork-of-intumit.md) | SmartWork of Intumit | **✓** |  |
 | [SmileBack](./smileback.md) | SmileBack | **✓** |  |
 | [Soapbox](./soapbox.md) | Soapbox | **✓** |  |
-| [Sobol](./missing-sobol.md) | ConsenSys AG&#8217;s Sobol | **✓** |  |
+| [Sobol](./consensys-ags-sobol.md) | ConsenSys AG&#8217;s Sobol | **✓** |  |
 | [Sociável](./sociabble.md) | Sociável | **✓** |  |
 | [Advocacia Social](./oktopost-social-advocacy.md) | Oktopost | **✓** |  |
 | [Standup Espacial](./high-fidelity-inc-spatial-standup.md) | Alta Fidelidade Inc | **✓** |  |
@@ -318,7 +321,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [TAMPLO](./ityss-tamplo.md) | ITYSS | **✓** |  |
 | [TaskList](./limestat-inc-tasklist.md) | LimeStat, Inc | **✓** |  |
 | [Equipe](./teamble.md) | Equipe | **✓** |  |
-| [Bot de Verificação de Integridade do TeaMe](./missing-teame-health-check-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12461;&#12515;&#12522;&#12450;&#12487;&#12505;&#12525;&#12483;&#12503;&#12513;&#12531;&#12488;&#12539;&#12450;&#12531;&#12489;&#12539;&#12463;&#12522;&#12456;&#12452;&#12471;&#12519;&#12531; | **✓** |  |
+| [Bot de Verificação de Integridade do TeaMe](./teame-health-check-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12461;&#12515;&#12522;&#12450;&#12487;&#12505;&#12525;&#12483;&#12503;&#12513;&#12531;&#12488;&#12539;&#12450;&#12531;&#12489;&#12539;&#12463;&#12522;&#12456;&#12452;&#12471;&#12519;&#12531; | **✓** |  |
 | [Teamflect](./grepsi-software-teamflect.md) | Grepsi Software | **✓** |  |
 | [TeamGether](./effency-teamgether.md) | EFFENCY | **✓** |  |
 | [Teamhood](./eylean-uab-teamhood.md) | Eylean, UAB | **✓** |  |
@@ -333,6 +336,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost](./kollisch-gmbh-timeghost.md) | K&#246;llisch GmbH | **✓** |  |
+| [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  |
 | [Tribute](./tribute-co.md) | Tribute Co. | **✓** |  |
 | [Trivia](./springworks-hr-tech-trivia.md) | Springworks HR Tech | **✓** |  |
@@ -356,6 +360,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Woobot](./woobot.md) | Woobot | **✓** |  |
 | [Workboard](./workboard-inc.md) | Workboard Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Workday](./workday.md) | Workday | **✓** |  |
+| [WorkInSync](./moveinsync-workinsync.md) | MoveInSync | **✓** |  |
 | [Página Inicial WorkJam](./workjam-home.md) | WorkJam | **✓** |  |
 | [Agendar WorkJam](./workjam-schedule.md) | WorkJam | **✓** |  |
 | [WorkplaceBuddy](./workplacebuddy.md) | WorkplaceBuddy | **✓** |  |
