@@ -372,7 +372,7 @@
         - name: EngageWith
           href: teams/springrole-engagewith.md
         - name: eTeamer
-          href: teams/missing-eteamer.md
+          href: teams/eteamer.md
         - name: Gerenciamento de Eventos
           href: teams/sharepointsapiens-event-management.md
         - name: Evernote
@@ -451,6 +451,8 @@
           href: teams/industry-intelligence-team-industryintel.md
         - name: InStation
           href: teams/developers-invillia-instation.md
+        - name: isLucid
+          href: teams/uab-lucid-agreements-islucid.md
         - name: Jetdocs
           href: teams/jetdocs.md
         - name: Jira Cloud
@@ -512,7 +514,7 @@
         - name: Mentimeter
           href: teams/mentimeter.md
         - name: Lembrete de Mensagem
-          href: teams/missing-message-reminder.md
+          href: teams/message-reminder.md
         - name: Micromate
           href: teams/paixon-gmbh-micromate.md
         - name: MindManager
@@ -531,7 +533,7 @@
           href: teams/fest-technologies-llc-monitask.md
         - name: Avançar o trabalho com Jira
           href: teams/move-work-forward-with-jira.md
-        - name: LTAPPs do Processo de Aprovação Multi
+        - name: ' LTAPPs de Processo de Multiaprovação'
           href: teams/ltapps-software-coltd-multi-approval-process.md
         - name: MURAL
           href: teams/mural.md
@@ -543,7 +545,7 @@
           href: teams/avepoint-inc-myhub.md
         - name: MyWorkDrive
           href: teams/myworkdrive.md
-        - name: Mediatheque+
+        - name: M&#233;diath&#232;que+
           href: teams/cemeq-inc-mediathequeplus.md
         - name: Navo
           href: teams/regroove-solutions-navo.md
@@ -559,6 +561,8 @@
           href: teams/all-blue-solutions-ngdesk.md
         - name: NickNack
           href: teams/nicknack-ltd.md
+        - name: nickname by flowrish games
+          href: teams/room6-nickname-by-flowrish-games.md
         - name: Now Virtual Agent
           href: teams/servicenow-now-virtual-agent.md
         - name: Nugget
@@ -581,6 +585,8 @@
           href: teams/lundano-org@work.md
         - name: Notificador de Pacote
           href: teams/qburst-technologies-pvt-ltd-package-notifier.md
+        - name: PagerDuty
+          href: teams/pagerduty-inc.md
         - name: PandaDoc
           href: teams/pandadoc.md
         - name: ParkHere Corporativo
@@ -640,7 +646,7 @@
         - name: Reminderz
           href: teams/chitchattr-reminderz.md
         - name: researcHR
-          href: teams/missing-researchr.md
+          href: teams/researchr.md
         - name: Retro
           href: teams/baltic-amadeus-retro.md
         - name: Rezolve.ai
@@ -655,7 +661,7 @@
           href: teams/researchspace-rspace.md
         - name: Saberr
           href: teams/saberr.md
-        - name: Cofre Espaços
+        - name: ' Espaços Seguros'
           href: teams/ecare-vault-inc-safe-spaces.md
         - name: Sailpoint
           href: teams/sailpoint-technologies-inc.md
@@ -712,7 +718,7 @@
         - name: Soapbox
           href: teams/soapbox.md
         - name: Sobol
-          href: teams/missing-sobol.md
+          href: teams/consensys-ags-sobol.md
         - name: Sociável
           href: teams/sociabble.md
         - name: Advocacia Social
@@ -770,7 +776,7 @@
         - name: Equipe
           href: teams/teamble.md
         - name: Bot de Verificação de Integridade do TeaMe
-          href: teams/missing-teame-health-check-bot.md
+          href: teams/teame-health-check-bot.md
         - name: Teamflect
           href: teams/grepsi-software-teamflect.md
         - name: TeamGether
@@ -799,6 +805,8 @@
           href: teams/softsale-timeclock-365.md
         - name: timeghost
           href: teams/kollisch-gmbh-timeghost.md
+        - name: Timeneye
+          href: teams/dm-digital-srl-timeneye.md
         - name: TINYpulse
           href: teams/tinypulse.md
         - name: Tribute
@@ -845,6 +853,8 @@
           href: teams/workboard-inc.md
         - name: Workday
           href: teams/workday.md
+        - name: WorkInSync
+          href: teams/moveinsync-workinsync.md
         - name: Página Inicial WorkJam
           href: teams/workjam-home.md
         - name: Agendar WorkJam
@@ -879,7 +889,9 @@
         - name: Adobe Sign for Word and PowerPoint
           href: word/adobe-inc-sign-for-word-and-powerpoint.md
         - name: CocoFax - Envio de Fax Facilitado e Seguro
-          href: word/missing-cocofax-sending-fax-made-easy-and-secure.md
+          href: word/cocofax-sending-fax-made-easy-and-secure.md
+        - name: CrossCheck
+          href: word/krevealllc-crosscheck.md
         - name: Excel automação de documentos do word
           href: word/analysisplace-excel-to-word-document-automation.md
         - name: Fabasoft Cloud Office Add-in
@@ -1094,8 +1106,12 @@
           href: azure/5f1f4eb7-479e-42f3-b86f-4c1f53e1c222.md
         - name: 621d9ae7-c14e-4fab-9604-63e1ffc9e721
           href: azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721.md
+        - name: 6919164d-b678-4c3d-a268-e6fbecc1e68d
+          href: azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md
         - name: 6996cad6-a969-487a-9182-f4dc4c6c8803
           href: azure/6996cad6-a969-487a-9182-f4dc4c6c8803.md
+        - name: 6b4a2fee-5642-41a7-b452-d555fac690b0
+          href: azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md
         - name: 6d7f01cb-cfa5-48d9-beed-363d381ae32b
           href: azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b.md
         - name: 6e86b349-768f-4953-ac2e-fb03f92db4be
@@ -1166,6 +1182,8 @@
           href: azure/9e8e113c-8a08-4606-b08a-de4decc7252f.md
         - name: 9ff28b02-ccc5-4cac-9d17-4cf6987c371f
           href: azure/9ff28b02-ccc5-4cac-9d17-4cf6987c371f.md
+        - name: a0b58ca7-958d-4343-a2dc-a75f2eeb0953
+          href: azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md
         - name: a1a0b277-0efb-4f00-9661-6d1a3df3cddc
           href: azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md
         - name: a4c28379-0840-42c5-9407-f088a7f54048
@@ -1250,6 +1268,8 @@
           href: azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md
         - name: cec02d43-1b67-4430-9bc9-861da8582801
           href: azure/cec02d43-1b67-4430-9bc9-861da8582801.md
+        - name: d2682b2a-2037-4545-94b6-3e7216ecca5f
+          href: azure/d2682b2a-2037-4545-94b6-3e7216ecca5f.md
         - name: d27f56ed-ddc7-4cf8-86ac-721b76c7d287
           href: azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287.md
         - name: d312ff80-0c2b-42ad-887b-c6392bcf6353
@@ -1308,5 +1328,7 @@
           href: azure/fc70bbbe-91c4-4d8f-a9c9-a022068d5752.md
         - name: fc8f7563-e8ea-4b6d-9622-82775a21a35a
           href: azure/fc8f7563-e8ea-4b6d-9622-82775a21a35a.md
+        - name: ff540df6-84dc-4a84-baa4-a95ce3b415cd
+          href: azure/ff540df6-84dc-4a84-baa4-a95ce3b415cd.md
         - name: ff5f406c-2ded-423f-b6ba-2950a2532b69
           href: azure/ff5f406c-2ded-423f-b6ba-2950a2532b69.md

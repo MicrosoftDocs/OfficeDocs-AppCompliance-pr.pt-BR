@@ -2,24 +2,24 @@
 title: Informações do aplicativo para Salesforce por salesforce.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 08/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Salesforce, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d0490ea422179e064443f7fad12abb64bc6efa47
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: a2a4cb54f96d35bfd12b3396da3cf5e9c63b1c96
+ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527907"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58873456"
 ---
 # <a name="salesforce"></a>Salesforce
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 16 de dezembro de 2019</p>
+<p>Última atualização pelo desenvolvedor em: 24 de agosto de 2021</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104379334" target="_blank">Exibir no AppSource</a>
 
@@ -37,7 +37,7 @@ Informações fornecidas pelo salesforce.com para a Microsoft:
 | Nome da empresa de parceiro | salesforce.com |
 | URL do site do parceiro | [https://www.salesforce.com](https://www.salesforce.com) |
 | URL da Política de Privacidade | [https://www.salesforce.com/company/privacy/](https://www.salesforce.com/company/privacy/) |
-| URL dos Termos de Uso | [https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC...](https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC&amp;p5=WA104379334&amp;cmu=en-US) |
+| URL dos Termos de Uso | [https://www.salesforce.com/content/dam/web/en_us/www/docume...](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/software-order-form-supplements/Salesforce_Outlook_TOU_Order_Form_Addendum.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -61,8 +61,8 @@ Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que n�
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| API JavaScript para Office | Sim | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. |  | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade de usuário atual do Outlook, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos, CreateItem (.js), que é usada para criar uma mensagem de rascunho. |  |
->| Serviços Web do Exchange (EWS) | Sim | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. |  | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade de usuário atual do Outlook, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos, CreateItem (.js), que é usada para criar uma mensagem de rascunho. |  |
+>| API JavaScript para Office | Sim | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade de usuário atual do Outlook, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos, CreateItem (.js), que é usada para criar uma mensagem de rascunho. | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade de usuário atual do Outlook, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos, CreateItem (.js), que é usada para criar uma mensagem de rascunho. |
+>| Serviços Web do Exchange (EWS) | Sim | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade de usuário atual do Outlook, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos, CreateItem (.js), que é usada para criar uma mensagem de rascunho. | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade de usuário atual do Outlook, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos, CreateItem (.js), que é usada para criar uma mensagem de rascunho. |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
@@ -106,3 +106,16 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Informações de identidade
+
+Essas informações foram fornecidas por salesforce.com sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
