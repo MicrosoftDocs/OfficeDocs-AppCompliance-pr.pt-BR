@@ -672,7 +672,7 @@
     },
     {
       "source_path": "Apps/forward/WA200002263.md",
-      "redirect_url": "/microsoft-365-app-certification/word/missing-cocofax-sending-fax-made-easy-and-secure",
+      "redirect_url": "/microsoft-365-app-certification/word/cocofax-sending-fax-made-easy-and-secure",
       "redirect_document_id": false
     },
     {
@@ -788,6 +788,11 @@
     {
       "source_path": "Apps/forward/be5caee0-f2bc-11ea-b597-ef970e2f5141.md",
       "redirect_url": "/microsoft-365-app-certification/teams/contextere-ava",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003198.md",
+      "redirect_url": "/microsoft-365-app-certification/word/krevealllc-crosscheck",
       "redirect_document_id": false
     },
     {
@@ -1067,12 +1072,12 @@
     },
     {
       "source_path": "Apps/forward/WA200001621.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/missing-eteamer",
+      "redirect_url": "/microsoft-365-app-certification/teams/eteamer",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/5b4afbd0-a5ff-49c8-a0c7-c28eb5e87ef8.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/missing-eteamer",
+      "redirect_url": "/microsoft-365-app-certification/teams/eteamer",
       "redirect_document_id": false
     },
     {
@@ -1526,18 +1531,28 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104380464.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/17859280.iplannerpro.md",
       "redirect_url": "/microsoft-365-app-certification/saas/iglobe-iplanner-pro-office-365",
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA104380464.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104380686.md",
       "redirect_url": "/microsoft-365-app-certification/excel/iglobe-iplanner-reporting-tool-for-office-365-planner",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002385.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/uab-lucid-agreements-islucid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/a5711b63-5e70-4e4e-b040-0d714b64f684.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/uab-lucid-agreements-islucid",
       "redirect_document_id": false
     },
     {
@@ -1897,12 +1912,12 @@
     },
     {
       "source_path": "Apps/forward/WA200001875.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/missing-message-reminder",
+      "redirect_url": "/microsoft-365-app-certification/teams/message-reminder",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/fdadca1f-9c57-4df6-84ff-8654e6446527.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/missing-message-reminder",
+      "redirect_url": "/microsoft-365-app-certification/teams/message-reminder",
       "redirect_document_id": false
     },
     {
@@ -2151,6 +2166,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003202.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/room6-nickname-by-flowrish-games",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/1eb81651-f5d3-4e95-bceb-5ae2ffffd00e.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/room6-nickname-by-flowrish-games",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381816.md",
       "redirect_url": "/microsoft-365-app-certification/teams/servicenow-now-virtual-agent",
       "redirect_document_id": false
@@ -2333,6 +2358,16 @@
     {
       "source_path": "Apps/forward/74d74206-0183-401d-932e-315f5021fdb1.md",
       "redirect_url": "/microsoft-365-app-certification/teams/qburst-technologies-pvt-ltd-package-notifier",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200001637.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/pagerduty-inc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/c8c302dc-4e77-4536-890d-0c2bffbef9cc.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/pagerduty-inc",
       "redirect_document_id": false
     },
     {
@@ -2657,12 +2692,12 @@
     },
     {
       "source_path": "Apps/forward/WA200002557.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/missing-researchr",
+      "redirect_url": "/microsoft-365-app-certification/teams/researchr",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/13a58c36-8f58-46e7-90dd-16084830876c.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/missing-researchr",
+      "redirect_url": "/microsoft-365-app-certification/teams/researchr",
       "redirect_document_id": false
     },
     {
@@ -3057,12 +3092,12 @@
     },
     {
       "source_path": "Apps/forward/WA200002999.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/missing-sobol",
+      "redirect_url": "/microsoft-365-app-certification/teams/consensys-ags-sobol",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/659f0ad6-8b3d-4846-8c4c-00ea9dfd64c8.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/missing-sobol",
+      "redirect_url": "/microsoft-365-app-certification/teams/consensys-ags-sobol",
       "redirect_document_id": false
     },
     {
@@ -3357,12 +3392,12 @@
     },
     {
       "source_path": "Apps/forward/WA200002779.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/missing-teame-health-check-bot",
+      "redirect_url": "/microsoft-365-app-certification/teams/teame-health-check-bot",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/7a9603e3-0647-4f2c-a9a9-13ab355423c1.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/missing-teame-health-check-bot",
+      "redirect_url": "/microsoft-365-app-certification/teams/teame-health-check-bot",
       "redirect_document_id": false
     },
     {
@@ -3456,6 +3491,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200000110.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officeatwork-template-chooser",
       "redirect_document_id": false
@@ -3463,11 +3503,6 @@
     {
       "source_path": "Apps/forward/13d1defc-6301-4e62-9c53-3361db865183.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officeatwork-template-chooser",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
       "redirect_document_id": false
     },
     {
@@ -3513,6 +3548,16 @@
     {
       "source_path": "Apps/forward/e3956558-7399-4ec1-848a-c61a2aa95bc1.md",
       "redirect_url": "/microsoft-365-app-certification/teams/kollisch-gmbh-timeghost",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200001950.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/dm-digital-srl-timeneye",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/015bf4ec-bc37-4931-9862-ef8686da652b.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/dm-digital-srl-timeneye",
       "redirect_document_id": false
     },
     {
@@ -3758,6 +3803,16 @@
     {
       "source_path": "Apps/forward/aa4981ef-635f-4066-b260-97445a4b2819.md",
       "redirect_url": "/microsoft-365-app-certification/teams/workday",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002974.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/moveinsync-workinsync",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/4e00663a-be72-4de1-a163-269a477a7a6e.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/moveinsync-workinsync",
       "redirect_document_id": false
     },
     {
