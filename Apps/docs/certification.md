@@ -6,12 +6,12 @@ description: Microsoft 365 Visão geral dos detalhes da certificação
 keywords: atestado de certificação de aplicativos Microsoft 365 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: bb6434cf94db1b7af437b3317397c0ba26a4c52df23e5837d9bcab1e98ff7a47
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 7d6c72f39a07fa11bfe87a9da6d94178fd7992b3
+ms.sourcegitcommit: a2851b8a32c181843617568ab5f8b5de741547cf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54750461"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58885979"
 ---
 # <a name="complete-microsoft-365-certification"></a>Concluir Microsoft 365 Certificação
 
@@ -25,6 +25,8 @@ Buscar uma certificação é uma maneira impactante de mostrar às organizaçõe
 
 > [!IMPORTANT]
 > Ao participar do programa de Certificação Microsoft 365, você está concordando com esses termos complementares e em conformidade com qualquer documentação que acompanha a sua participação no programa de Certificação Microsoft 365 com a Microsoft Corporation ("Microsoft", "nós", "nós" ou "nosso"). Você representa e garante que tem autoridade para aceitar esses termos complementares de Certificação Microsoft 365 em nome de si mesmo, de uma empresa e/ou de outra entidade, conforme aplicável. Podemos alterar, alterar ou encerrar esses termos suplementares a qualquer momento. Sua participação contínua no programa Microsoft 365 certificação após qualquer alteração ou alteração significa que você concorda com os novos termos suplementares. Se você não concordar com os novos termos suplementares ou se encerrarmos esses termos suplementares, você deve parar de participar do programa Microsoft 365 Certificação.
+
+>Todas as evidências, incluindo, mas não se limitando a documentos, capturas de tela e imagens serão mantidas em um repositório seguro por 18 meses a partir do momento do envio como prova de auditoria. Após 18 meses, todas as evidências serão apagadas
 
 ## <a name="certification-process"></a>Processo de Certificação
 
