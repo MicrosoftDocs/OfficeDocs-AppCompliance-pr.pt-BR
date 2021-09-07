@@ -6,12 +6,12 @@ description: Microsoft 365 Visão geral dos detalhes da certificação
 keywords: atestado de certificação de aplicativos Microsoft 365 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 7d6c72f39a07fa11bfe87a9da6d94178fd7992b3
-ms.sourcegitcommit: a2851b8a32c181843617568ab5f8b5de741547cf
+ms.openlocfilehash: 9f93edb4bead62eb626f6b65544fbf1a35ad48dd
+ms.sourcegitcommit: 854938b0495a6a30c2d03a6645e32ca52b4ce295
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58885979"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58922978"
 ---
 # <a name="complete-microsoft-365-certification"></a>Concluir Microsoft 365 Certificação
 
@@ -25,8 +25,7 @@ Buscar uma certificação é uma maneira impactante de mostrar às organizaçõe
 
 > [!IMPORTANT]
 > Ao participar do programa de Certificação Microsoft 365, você está concordando com esses termos complementares e em conformidade com qualquer documentação que acompanha a sua participação no programa de Certificação Microsoft 365 com a Microsoft Corporation ("Microsoft", "nós", "nós" ou "nosso"). Você representa e garante que tem autoridade para aceitar esses termos complementares de Certificação Microsoft 365 em nome de si mesmo, de uma empresa e/ou de outra entidade, conforme aplicável. Podemos alterar, alterar ou encerrar esses termos suplementares a qualquer momento. Sua participação contínua no programa Microsoft 365 certificação após qualquer alteração ou alteração significa que você concorda com os novos termos suplementares. Se você não concordar com os novos termos suplementares ou se encerrarmos esses termos suplementares, você deve parar de participar do programa Microsoft 365 Certificação.
-
->Todas as evidências, incluindo, mas não se limitando a documentos, capturas de tela e imagens serão mantidas em um repositório seguro por 18 meses a partir do momento do envio como prova de auditoria. Após 18 meses, todas as evidências serão apagadas
+Todas as evidências, incluindo, mas não se limitando a documentos, capturas de tela e imagens serão mantidas em um repositório seguro por 18 meses a partir do momento do envio como prova de auditoria. Após 18 meses, todas as evidências serão apagadas
 
 ## <a name="certification-process"></a>Processo de Certificação
 
