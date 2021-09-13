@@ -207,8 +207,6 @@
           href: teams/arrangr-inc.md
         - name: Asana
           href: teams/asana.md
-        - name: ASC Recording Insights
-          href: teams/asc-technologies-ag-recording-insights.md
         - name: askR.ai
           href: teams/askrai.md
         - name: Assembly
@@ -269,8 +267,12 @@
           href: teams/contexxtai-cai-adoption-bot.md
         - name: BOT de Calendário
           href: teams/approved-contact-calendar-bot.md
+        - name: Calendário Pro
+          href: teams/witivio-calendar-pro.md
         - name: CalendarHero
           href: teams/calendarhero-inc.md
+        - name: Canário
+          href: teams/yattee-inc-canary.md
         - name: CatchEm
           href: teams/chimu-software-catchem.md
         - name: Centrical
@@ -303,8 +305,6 @@
           href: teams/carnduff-co-coffeepals.md
         - name: Vaso de Coleta
           href: teams/gifted-to-you-limited-collection-pot.md
-        - name: Comandante
-          href: teams/nimbella-commander.md
         - name: Concluir
           href: teams/cauzey-pty-ltd-complish.md
         - name: Conferences i/o
@@ -329,8 +329,6 @@
           href: teams/datto-inc-workplace.md
         - name: DBit
           href: teams/diamondsoft-solutions-llc-dbit.md
-        - name: Decisions
-          href: teams/decisions.md
         - name: DisasterTech DICE
           href: teams/disastertech-dice.md
         - name: do!book CB
@@ -399,6 +397,8 @@
           href: teams/freshworks-inc-freshdesk.md
         - name: Fusion Remote
           href: teams/jujo-inc-fusion-remote.md
+        - name: Geekbot
+          href: teams/geekbot-ltd.md
         - name: Gensys
           href: teams/gensys-solutions-bv.md
         - name: GitHub
@@ -467,8 +467,6 @@
           href: teams/kazoo.md
         - name: Klaxoon
           href: teams/klaxoon.md
-        - name: Koan
-          href: teams/koan-inc.md
         - name: Kronos
           href: teams/kronos-inc.md
         - name: Kudozza
@@ -497,6 +495,8 @@
           href: teams/lucid-software-lucidspark.md
         - name: LuckyDraw
           href: teams/tony-xia-luckydraw.md
+        - name: LumApps
+          href: teams/lumapps.md
         - name: Lumio por SMART
           href: teams/smart-technologies-ulc-lumio-by.md
         - name: MailClark
@@ -505,6 +505,8 @@
           href: teams/marvel.md
         - name: MeasureUp
           href: teams/media-interactiva-solutions-measureup.md
+        - name: Mediatheque+
+          href: teams/cemeq-inc-mediathequeplus.md
         - name: Medxnote MT
           href: teams/medxnote-mt.md
         - name: MeisterTask
@@ -543,8 +545,6 @@
           href: teams/avepoint-inc-myhub.md
         - name: MyWorkDrive
           href: teams/myworkdrive.md
-        - name: M&#233;diath&#232;que+
-          href: teams/cemeq-inc-mediathequeplus.md
         - name: Navo
           href: teams/regroove-solutions-navo.md
         - name: NE
@@ -559,7 +559,7 @@
           href: teams/all-blue-solutions-ngdesk.md
         - name: NickNack
           href: teams/nicknack-ltd.md
-        - name: nickname by flowrish games
+        - name: Nickname por jogos flowrish
           href: teams/room6-nickname-by-flowrish-games.md
         - name: Now Virtual Agent
           href: teams/servicenow-now-virtual-agent.md
@@ -671,6 +671,8 @@
           href: teams/scrumgenius.md
         - name: SecretaryBot
           href: teams/mysecretary-secretarybot.md
+        - name: SEFOS
+          href: teams/meaplus-ab-sefos.md
         - name: SelfDrvn
           href: teams/selfdrvn.md
         - name: Sensei Labs Conductor
@@ -757,6 +759,8 @@
           href: teams/gamalearn-swiftassess.md
         - name: Sympli
           href: teams/sympli-llc.md
+        - name: SysAid
+          href: teams/sysaid.md
         - name: TackleBox
           href: teams/insiten-tacklebox.md
         - name: Tactileo
@@ -791,8 +795,6 @@
           href: teams/teamschamp.md
         - name: TeamSticker por Communitio
           href: teams/communitio-corporation-teamsticker-by.md
-        - name: Conexão TELUS Business
-          href: teams/ringcentral-inc-telus-business-connect.md
         - name: Template Chooser
           href: teams/officeatwork-template-chooser.md
         - name: Texto
@@ -807,6 +809,8 @@
           href: teams/dm-digital-srl-timeneye.md
         - name: TINYpulse
           href: teams/tinypulse.md
+        - name: Totara
+          href: teams/totara-learning.md
         - name: Tribute
           href: teams/tribute-co.md
         - name: Trivia
@@ -886,8 +890,6 @@
       items:
         - name: Adobe Sign for Word and PowerPoint
           href: word/adobe-inc-sign-for-word-and-powerpoint.md
-        - name: CocoFax - Envio de Fax Facilitado e Seguro
-          href: word/cocofax-sending-fax-made-easy-and-secure.md
         - name: CrossCheck
           href: word/krevealllc-crosscheck.md
         - name: Excel automação de documentos do word
@@ -926,6 +928,8 @@
           href: word/digital-science-smartcite-for-papers.md
         - name: TaxKit Docs
           href: word/taxyio-gmbh-taxkit-docs.md
+        - name: TerMef
+          href: word/mondeca-termef.md
         - name: Wunder365 para Office
           href: word/jiji-technologies-private-limited-wunder365-for-office.md
         - name: xLaw - sistema de gerenciamento de conhecimento
