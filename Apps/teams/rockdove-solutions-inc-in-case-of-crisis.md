@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Em Caso de Crise, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 4671d37d77d16004c171887f101ade7506598614
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836180"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276587"
 ---
 # <a name="in-case-of-crisis"></a>Em caso de crise
 
@@ -35,7 +35,7 @@ Informações fornecidas pela RockDove Solutions, Inc. para a Microsoft:
 | Nome do aplicativo | Em caso de crise |
 | ID | WA200003194 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Soluções Da Rocha, Inc. |
+| Nome da empresa de parceiro | RockDove Solutions, Inc. |
 | URL do site do parceiro | [https://www.rockdovesolutions.com](https://www.rockdovesolutions.com) |
 | URL da página Teams de informações do aplicativo | [https://www.rockdovesolutions.com/in-case-of-crisis/in-case...](https://www.rockdovesolutions.com/in-case-of-crisis/in-case-of-crisis-platform) |
 | URL da Política de Privacidade | [https://www.rockdovesolutions.com/privacy-policy](https://www.rockdovesolutions.com/privacy-policy) |

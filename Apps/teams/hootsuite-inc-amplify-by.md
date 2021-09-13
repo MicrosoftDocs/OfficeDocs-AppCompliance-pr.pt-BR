@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Amplify by Hootsuite, suas políticas de tratamento de dados, Microsoft Cloud App Security informações de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 511693fe2d9c32e3e611fbec8c55045199e83c68
-ms.sourcegitcommit: a905d46054853025c0366c5e2efbe2139a4682d9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58632212"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277649"
 ---
 # <a name="amplify-by-hootsuite"></a>Ampliação por Hootsuite
 

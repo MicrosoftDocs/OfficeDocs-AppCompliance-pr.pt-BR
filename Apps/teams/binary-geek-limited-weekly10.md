@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Weekly10, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3a1456ccf706a9588f82e38ea35e5e37f8098b9b
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58673030"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276393"
 ---
 # <a name="weekly10"></a>Weekly10
 
@@ -35,7 +35,7 @@ Informações fornecidas pelo Binary Geek Limited à Microsoft:
 | Nome do aplicativo | Weekly10 |
 | ID | WA200001441 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Binary Geek Limited |
+| Nome da empresa de parceiro | Geek Binário Limitado |
 | URL do site do parceiro | [https://www.weekly10.com](https://www.weekly10.com) |
 | URL da página Teams de informações do aplicativo | [https://www.weekly10.com/integrations/microsoft-teams/](https://www.weekly10.com/integrations/microsoft-teams/) |
 | URL da Política de Privacidade | [https://www.weekly10.com/terms/privacy](https://www.weekly10.com/terms/privacy) |

@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Egnyte, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 9c9ff10261730b8b1cc56cbb7aa23d55d5da8383
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58241265"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277473"
 ---
 # <a name="egnyte"></a>Egnyte
 
@@ -30,7 +30,7 @@ ms.locfileid: "58241265"
 
 Informações fornecidas pelo Egnyte à Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | Egnyte |
 | ID | WA104381174 |
@@ -113,7 +113,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pelo Egnyte sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
 

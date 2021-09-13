@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Analisador de Email da Konnect, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 1af3a75f49bf10e0185ba80a289fd05524c8130e
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282114"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277720"
 ---
 # <a name="konnect-email-parser"></a>Konnect eMail Parser
 
@@ -74,7 +74,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->N/D
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 

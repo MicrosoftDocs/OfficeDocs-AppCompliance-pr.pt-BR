@@ -6,14 +6,16 @@ description: Arquivo morto de boletins informativos de conformidade
 keywords: Boletim informativo de conformidade
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: a69495d35eaf69bee341efa7b15f479aa53e2ac0043e1aa8a422e1adc97cd83c
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 72d288c7409dea138e6150537f7f90df7be597ae
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54751701"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59274895"
 ---
 # <a name="newsletter-archive"></a>Arquivo de boletim informativo
+
+[Maio de 2021](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/may2021)
 
 [Março de 2021](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/March21%20NL)
 

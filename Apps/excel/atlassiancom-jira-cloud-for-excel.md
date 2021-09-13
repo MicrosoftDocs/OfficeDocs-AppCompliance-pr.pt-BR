@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Jira Cloud para Excel, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 73212faa010d95233281a0cf7f120e9ee0fd1ffb
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281193"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276650"
 ---
 # <a name="jira-cloud-for-excel"></a>Nuvem Jira para Excel
 

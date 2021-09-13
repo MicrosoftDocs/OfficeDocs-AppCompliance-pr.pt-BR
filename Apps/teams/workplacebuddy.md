@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para WorkplaceBuddy, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: cfbab9d138e1ee0fa846f8c9e3454f7af6c86c29
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404158"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276457"
 ---
 # <a name="workplacebuddy"></a>WorkplaceBuddy
 

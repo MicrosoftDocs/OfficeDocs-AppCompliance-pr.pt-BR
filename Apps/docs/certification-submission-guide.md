@@ -7,11 +7,11 @@ keywords: equipes de certificação de aplicativos Microsoft 365 conformidade de
 ms.topic: conceptual
 ms.service: attestation
 ms.openlocfilehash: b0a207bd8fbe1834e03c08eecb82d3552c75a182
-ms.sourcegitcommit: f33609288c6c59af423367dce2eac3e261c1d297
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58373775"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276664"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 Guia de Envio de Certificação
 
@@ -107,7 +107,7 @@ As solicitações de evidências em suporte à avaliação de certificação dev
 |---------------------------- |-------------------------|
 |<5|1|
 |>5 & <10|2|
-|>9 & <25|3 |
+|>9 & <25|3|
 |>24|4 |
 
 > [!NOTE]

@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para eCademy Lernplattform, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: f5926d481fbfc766d80b61356656f6b44ea0c1bd
-ms.sourcegitcommit: 64333f4e583bacd85f1b47af6e1eaee266658924
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "58422546"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276728"
 ---
 # <a name="ecademy-lernplattform"></a>eCademy Lernplattform
 

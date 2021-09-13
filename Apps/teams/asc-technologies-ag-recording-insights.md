@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o registro do asc Insights, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: efeac55591daa01827df42e8b473acdea8ee66f5
-ms.sourcegitcommit: 3660f89e183c638979a31c295ac059daa6c387dd
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58391859"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276630"
 ---
-# <a name="asc-recording-insights"></a>AsC Recording Insights
+# <a name="asc-recording-insights"></a>ASC Recording Insights
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,9 +30,9 @@ ms.locfileid: "58391859"
 
 Informações fornecidas pela ASC Technologies AG à Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | AsC Recording Insights |
+| Nome do aplicativo | ASC Recording Insights |
 | ID | WA200000708 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | ASC Technologies AG |
@@ -126,7 +126,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pela ASC Technologies AG sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |

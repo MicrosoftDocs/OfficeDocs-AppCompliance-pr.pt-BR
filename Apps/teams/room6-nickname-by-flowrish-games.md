@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para apelido por jogos de fluxo, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3e4c0164d4aee94b2019af76aa3b134304f3a471
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58873715"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276586"
 ---
-# <a name="nickname-by-flowrish-games"></a>nickname by flowrish games
+# <a name="nickname-by-flowrish-games"></a>Nickname por jogos flowrish
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Informações fornecidas pela sala6 para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | nickname by flowrish games |
+| Nome do aplicativo | Nickname por jogos flowrish |
 | ID | WA200003202 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | room6 |
+| Nome da empresa de parceiro | sala6 |
 | URL do site do parceiro | [https://www.room6.net](https://www.room6.net) |
 | URL da página Teams de informações do aplicativo | [https://nickname-server.azurewebsites.net/help.html](https://nickname-server.azurewebsites.net/help.html) |
 | URL da Política de Privacidade | [https://www.room6.net/nickname-privacy](https://www.room6.net/nickname-privacy) |

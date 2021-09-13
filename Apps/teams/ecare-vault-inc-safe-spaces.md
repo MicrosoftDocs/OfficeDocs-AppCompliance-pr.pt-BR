@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Cofre Espaços, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 16c1adeb63cf8004df70293c8e4a188dde811250
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836177"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277478"
 ---
-# <a name="safe-spaces"></a>Cofre Espaços
+# <a name="safe-spaces"></a> Espaços Seguros
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Informações fornecidas pelo eCare Vault Inc. à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Cofre Espaços |
+| Nome do aplicativo |  Espaços Seguros |
 | ID | WA200002691 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | eCare Vault Inc. |

@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Nuvem de Confluência, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 83a34d3ae66bd3cb82fcc9d18ad88ba7ee7c4983
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407350"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276396"
 ---
-# <a name="confluence-cloud"></a>Nuvem de confluência
+# <a name="confluence-cloud"></a>Nuvem de Confluência
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Informações fornecidas pela Atlassian para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Nuvem de confluência |
+| Nome do aplicativo | Nuvem de Confluência |
 | ID | WA200003113 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Atlassian |

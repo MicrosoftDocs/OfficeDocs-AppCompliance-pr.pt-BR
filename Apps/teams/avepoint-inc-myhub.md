@@ -9,11 +9,11 @@ certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o MyHub, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 4c6997e3caa9d0a72fe81151dadb14bc7bb7374c
-ms.sourcegitcommit: cd30c7ec09b1a06fb0b5696d10739a27c8434c53
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58885801"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277624"
 ---
 # <a name="myhub"></a>MyHub
 

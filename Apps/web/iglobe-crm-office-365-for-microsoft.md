@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o iGlobe CRM Office 365 para Microsoft 365, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: dd871a1c4b9e8ef8dd0628ff73a2737e1b94550f
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275247"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277550"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-365"></a>IGlobe CRM Office 365 para Microsoft 365
 

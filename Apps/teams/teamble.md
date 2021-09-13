@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Teamble, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 121622b75fb3680bd3f42a79002c0c0a70892f4e
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404172"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277643"
 ---
-# <a name="teamble"></a>Teamble
+# <a name="teamble"></a>Equipe
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Informações fornecidas pelo Teamble à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Teamble |
+| Nome do aplicativo | Equipe |
 | ID | WA200002259 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Teamble |
+| Nome da empresa de parceiro | Equipe |
 | URL do site do parceiro | [https://teamble.com](https://teamble.com) |
 | URL da página Teams de informações do aplicativo | [https://teamble.com](https://teamble.com) |
 | URL da Política de Privacidade | [https://teamble.com/#/privacy-policy](https://teamble.com/#/privacy-policy) |

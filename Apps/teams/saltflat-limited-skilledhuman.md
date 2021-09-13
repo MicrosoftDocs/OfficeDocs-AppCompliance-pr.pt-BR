@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Skilled Human, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 73e0fe6ac097da2212173a467f38cdea21657dff
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275195"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276002"
 ---
-# <a name="skilledhuman"></a>Skilled Human
+# <a name="skilledhuman"></a>SkilledHuman
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Informações fornecidas pela SaltFlat Limited à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Skilled Human |
+| Nome do aplicativo | SkilledHuman |
 | ID | WA200002603 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | SaltFlat Limited |

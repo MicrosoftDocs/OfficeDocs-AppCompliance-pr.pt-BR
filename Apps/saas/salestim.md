@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SalesTim, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 90e9a29a28b5496e4f5f63837c28d94546c76979
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53522214"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276403"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -54,7 +54,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| AppCatalog.ReadWrite.All | delegado | Não | Permitir que o aplicativo instale e atualize seus próprios pacotes no catálogo de aplicativos corporativos. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| AppCatalog.ReadWrite.All | delegado | NÃO | Permitir que o aplicativo instale e atualize seus próprios pacotes no catálogo de aplicativos corporativos. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
 >| Directory.AccessAsUser.All | delegado | Não&#8217;armazenar apenas algumas IDs de usuários, não dados de perfil. | Permite que um usuário selecione outros usuários em vários locais no aplicativo, como selecionar aprovadores em um fluxo de trabalho. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
 >| Group.ReadWrite.All | delegado | Não&#8217;apenas grupos/IDs de equipe,&#8217;não estamos armazenar conteúdo de grupos/equipes. | Permite que o aplicativo crie grupos, leia todas as propriedades e associações de grupo em nome do usuário associado. Além disso, permite aos proprietários do grupo gerenciar seus grupos, e permite aos membros do grupo atualizar o conteúdo do grupo. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
 >| Mail.Send | delegado | Não&#8217;os metadados dessa ação, como a data da notificação, o destinatário (somente ID), a ID da solicitação. | Permite que o aplicativo envie emails de notificação por exemplo durante um fluxo de trabalho de aprovação. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |

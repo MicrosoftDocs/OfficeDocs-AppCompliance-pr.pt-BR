@@ -7,11 +7,11 @@ keywords: atestado de certificação de aplicativos Microsoft 365 appSource
 ms.topic: conceptual
 ms.service: attestation
 ms.openlocfilehash: 9f93edb4bead62eb626f6b65544fbf1a35ad48dd
-ms.sourcegitcommit: 854938b0495a6a30c2d03a6645e32ca52b4ce295
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/07/2021
-ms.locfileid: "58922978"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276663"
 ---
 # <a name="complete-microsoft-365-certification"></a>Concluir Microsoft 365 Certificação
 

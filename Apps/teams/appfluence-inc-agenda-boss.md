@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Agenda Boss, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: e2f48c8a563e83f040907acf393d6794264a02cf
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987723"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59275786"
 ---
-# <a name="agenda-boss"></a>Agenda chefe
+# <a name="agenda-boss"></a>Agenda Chefe
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Informações fornecidas pela Appfluence Inc à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Agenda chefe |
+| Nome do aplicativo | Agenda Chefe |
 | ID | WA200002607 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Appfluence Inc |

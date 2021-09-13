@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Contextere AVA, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 13e40f69e10ddabf7ca8654a186ee9db0989f44c
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567194"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276211"
 ---
-# <a name="contextere-ava"></a>Contextere AVA
+# <a name="contextere-ava"></a>Contexto AVA
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Informações fornecidas pelo Contextere à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Contextere AVA |
+| Nome do aplicativo | Contexto AVA |
 | ID | WA200003167 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Contextere |
+| Nome da empresa de parceiro | Contexto |
 | URL do site do parceiro | [https://contextere.com](https://contextere.com) |
 | URL da Política de Privacidade | [https://contextere.com/wp-primary/wp-content/uploads/CXE-Pr...](https://contextere.com/wp-primary/wp-content/uploads/CXE-Privacy-Security-Policy-1.pdf) |
 | URL dos Termos de Uso | [https://contextere.com/wp-primary/wp-content/uploads/Contex...](https://contextere.com/wp-primary/wp-content/uploads/Contextere-End-User-License-Agreement-Microsoft-Challenge.pdf) |

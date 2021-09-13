@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Indicações de Funcionários, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 2aa10a6034260c3774a134eeace4e677f29c83ba
-ms.sourcegitcommit: 823d3d853f6063f34785cab2f3316ac4ac99cdcf
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58392888"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276480"
 ---
-# <a name="employee-referrals"></a>Indicações de funcionários
+# <a name="employee-referrals"></a>Indicações de Funcionários
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,9 +30,9 @@ ms.locfileid: "58392888"
 
 Informações fornecidas pelo Recruitday Inc. à Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Indicações de funcionários |
+| Nome do aplicativo | Indicações de Funcionários |
 | ID | WA200002708 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Recruitday Inc. |
@@ -115,7 +115,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pelo Recruitday Inc. sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |

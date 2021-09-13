@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Bot de Verificação de Saúde do TeaMe, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 33670e4e1e73d4ce832304e6ae70a994f73f9dbd
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58873718"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276150"
 ---
 # <a name="teame-health-check-bot"></a>Bot de Verificação de Integridade do TeaMe
 

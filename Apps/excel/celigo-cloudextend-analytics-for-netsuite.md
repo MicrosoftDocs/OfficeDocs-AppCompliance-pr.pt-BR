@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o CloudExtend Analytics for NetSuite, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 489f4f04afc52476b34a98ecd808c035ff47a676
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53526077"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276646"
 ---
 # <a name="cloudextend-analytics-for-netsuite"></a>CloudExtend Analytics para NetSuite
 
@@ -79,7 +79,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->N/D
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 

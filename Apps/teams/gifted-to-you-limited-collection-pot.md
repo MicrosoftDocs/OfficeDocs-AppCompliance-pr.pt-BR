@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Collection Pot, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 64d48d55cdbb437697f6d001636ed505b4fcbc59
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53609915"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276720"
 ---
-# <a name="collection-pot"></a>Conjunto Pot
+# <a name="collection-pot"></a>Vaso de Coleta
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Informações fornecidas pelo Superdotado para Você Limitada à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Conjunto Pot |
+| Nome do aplicativo | Vaso de Coleta |
 | ID | WA200002016 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Superdotado para Você Limitado |
+| Nome da empresa de parceiro | Oferta Limitada para Você |
 | URL do site do parceiro | [https://www.collectionpot.com](https://www.collectionpot.com) |
 | URL da Política de Privacidade | [https://www.collectionpot.com/privacy/](https://www.collectionpot.com/privacy/) |
 | URL dos Termos de Uso | [https://www.collectionpot.com/terms-of-service/](https://www.collectionpot.com/terms-of-service/) |

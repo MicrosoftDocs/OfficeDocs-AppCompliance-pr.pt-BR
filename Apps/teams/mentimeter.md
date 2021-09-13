@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Empresameter, suas políticas de tratamento de dados, Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: fa93c3a128275ff1af1c5161ca5113d9f6070321
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58566025"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276185"
 ---
-# <a name="mentimeter"></a>Idemômetro
+# <a name="mentimeter"></a>Mentimeter
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Informações fornecidas pelo Estorômetro para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Idemômetro |
+| Nome do aplicativo | Mentimeter |
 | ID | WA200002972 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Idemômetro |
+| Nome da empresa de parceiro | Mentimeter |
 | URL do site do parceiro | [https://www.mentimeter.com](https://www.mentimeter.com) |
 | URL da página Teams de informações do aplicativo | [https://www.mentimeter.com/features](https://www.mentimeter.com/features) |
 | URL da Política de Privacidade | [https://www.mentimeter.com/privacy](https://www.mentimeter.com/privacy) |

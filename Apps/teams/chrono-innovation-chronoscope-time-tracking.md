@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Controle de Tempo de Cronoscope, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 9e87baec293d3c18e48da28e1714fce9703f446f
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407333"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276500"
 ---
-# <a name="chronoscope-time-tracking"></a>Controle de Tempo de Cronoscope
+# <a name="chronoscope-time-tracking"></a>Controle de Tempo de Cronoscópio
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Informações fornecidas pela Inovação chrono para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Controle de Tempo de Cronoscope |
+| Nome do aplicativo | Controle de Tempo de Cronoscópio |
 | ID | WA200003095 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Inovação do Chrono |
+| Nome da empresa de parceiro | Cronograma de Inovação |
 | URL do site do parceiro | [https://www.chronoinnovation.com](https://www.chronoinnovation.com) |
 | URL da página Teams de informações do aplicativo | [https://www.chronoscope.app](https://www.chronoscope.app) |
 | URL da Política de Privacidade | [https://www.chronoscope.app/privacy-policy](https://www.chronoscope.app/privacy-policy) |

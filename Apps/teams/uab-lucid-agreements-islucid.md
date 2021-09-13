@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para isLucid, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: d29616471c22a2fd4f01a849d14b965ae106aa80
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58872039"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276135"
 ---
 # <a name="islucid"></a>isLucid
 
@@ -35,7 +35,7 @@ Informações fornecidas pelos Contratos UAB Lúcidos para a Microsoft:
 | Nome do aplicativo | isLucid |
 | ID | WA200002385 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Contratos UAB Lúcidos |
+| Nome da empresa de parceiro | Acordos UAB Lucid |
 | URL do site do parceiro | [https://islucid.com](https://islucid.com) |
 | URL da página Teams de informações do aplicativo | [https://islucid.com](https://islucid.com) |
 | URL da Política de Privacidade | [https://islucid.com/privacy-policy/](https://islucid.com/privacy-policy/) |

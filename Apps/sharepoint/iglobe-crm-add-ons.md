@@ -9,11 +9,11 @@ certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para complementos do iGlobe CRM, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 3d5551ff00fa5439329176cf412a45d0490d6d64
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58672648"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277569"
 ---
 # <a name="iglobe-crm-add-ons"></a>Complementos do iGlobe CRM
 

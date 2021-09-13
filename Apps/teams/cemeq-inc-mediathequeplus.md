@@ -1,5 +1,5 @@
 ---
-title: Informações de aplicativo para Mediatheque+ por CEMEQ inc.
+title: Informações de aplicativo para M&#233;diath&#232;que+ by CEMEQ inc.
 ms.author: elmalova
 author: elenamalova
 ms.date: 07/26/2021
@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o M&#233;diath&#232;que+, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 3273664ff9280be9feeb29519f8434cd82415b13
-ms.sourcegitcommit: d4dc71e59ff046c02e575dbd9d73b66c3acce9b8
+ms.openlocfilehash: 8d2a991d23ad12ab197fc89471e4993da6e1e0a8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58699716"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276309"
 ---
 # <a name="m233diath232que"></a>M&#233;diath&#232;que+
 

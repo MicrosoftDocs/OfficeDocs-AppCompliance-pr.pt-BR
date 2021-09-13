@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o BravoNow, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 1eb20f61739f5b6969c3f3889666adcce05d64a0
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58245249"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276383"
 ---
 # <a name="bravonow"></a>BravoNow
 
@@ -30,12 +30,12 @@ ms.locfileid: "58245249"
 
 Informações fornecidas pelos Serviços de Software DedadosWorx para a Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | BravoNow |
 | ID | WA200000157 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Serviços de Software DescaradasWorx |
+| Nome da empresa de parceiro | Serviços de Software DaWorx |
 | URL do site do parceiro | [https://www.spadeworx.com](https://www.spadeworx.com) |
 | URL da página Teams de informações do aplicativo | [https://bravo.pozitive.io](https://bravo.pozitive.io) |
 | URL da Política de Privacidade | [https://docs.pozitive.io/BravoApp_Privacy%20Policy.pdf](https://docs.pozitive.io/BravoApp_Privacy%20Policy.pdf) |
@@ -85,7 +85,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->N/D
+>N/A
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -115,7 +115,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pelos Serviços de Software DesdadosWorx sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |

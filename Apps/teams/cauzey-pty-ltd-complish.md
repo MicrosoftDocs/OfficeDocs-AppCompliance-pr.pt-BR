@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Complish, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: d9cd325ef8585b5cdc6da00f4f0f40a306cf1b21
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987720"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277762"
 ---
-# <a name="complish"></a>Complish
+# <a name="complish"></a>Concluir
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Informações fornecidas pela Cauzey Pty Ltd à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Complish |
+| Nome do aplicativo | Concluir |
 | ID | WA200001641 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Cauzey Pty Ltd |

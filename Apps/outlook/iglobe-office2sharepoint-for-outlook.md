@@ -9,11 +9,11 @@ certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Office2SharePoint para Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: aee85b76c7b3008737f55d4593a491da3eacb349
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58672818"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277654"
 ---
 # <a name="office2sharepoint-for-outlook"></a>Office2SharePoint para Outlook
 

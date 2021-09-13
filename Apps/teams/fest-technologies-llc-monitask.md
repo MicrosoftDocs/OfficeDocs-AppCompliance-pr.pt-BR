@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Monitask, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 959d904123910480e62a1d8b11539a317f481ac6
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404136"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277748"
 ---
 # <a name="monitask"></a>Monitask
 
@@ -35,7 +35,7 @@ Informações fornecidas pela TECNOLOGIAs DOIS, LLC para a Microsoft:
 | Nome do aplicativo | Monitask |
 | ID | WA200002986 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | TECNOLOGIAS DO FEST, LLC |
+| Nome da empresa de parceiro | Tecnologias DEC, LLC |
 | URL do site do parceiro | [https://www.monitask.com](https://www.monitask.com) |
 | URL da Política de Privacidade | [https://www.monitask.com/en/home/privacypolicy](https://www.monitask.com/en/home/privacypolicy) |
 | URL dos Termos de Uso | [https://www.monitask.com/en/home/termsofservice](https://www.monitask.com/en/home/termsofservice) |

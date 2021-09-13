@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Health Hero, suas políticas de tratamento de dados, Microsoft Cloud App Security informações do catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 53f2892563172775e8dc6def8c4ae9cb7d2af0c8
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58245239"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277464"
 ---
-# <a name="health-hero"></a>Herói da Saúde
+# <a name="health-hero"></a>Health Hero
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,12 +30,12 @@ ms.locfileid: "58245239"
 
 Informações fornecidas pelo Herói de Saúde para a Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Herói da Saúde |
+| Nome do aplicativo | Health Hero |
 | ID | WA200001405 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Herói da Saúde |
+| Nome da empresa de parceiro | Health Hero |
 | URL do site do parceiro | [https://gohealthhero.com](https://gohealthhero.com) |
 | URL da Política de Privacidade | [https://www.gohealthhero.com/privacy-policy](https://www.gohealthhero.com/privacy-policy) |
 | URL dos Termos de Uso | [https://www.gohealthhero.com/terms](https://www.gohealthhero.com/terms) |
@@ -112,7 +112,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pelo Health Hero sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |

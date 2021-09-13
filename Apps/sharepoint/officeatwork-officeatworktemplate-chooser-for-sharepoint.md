@@ -9,11 +9,11 @@ certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | Template Chooser for SharePoint, its data handling policies, its Microsoft Cloud App Security app catalog information, and security/compliance information in the CSA STAR registry.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 071ccbcc6c5960ca533a4dd99ad3cae3e5a59a77
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527677"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59275793"
 ---
 # <a name="officeatwork--template-chooser-for-sharepoint"></a>officeatwork | Template Chooser for SharePoint
 

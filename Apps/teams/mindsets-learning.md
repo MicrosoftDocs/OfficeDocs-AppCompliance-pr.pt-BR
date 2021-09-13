@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Mindsets, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 95f3d60efa1c9cb8cb238fb51af9fa927c17a961
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404247"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277564"
 ---
 # <a name="mindsets"></a>Mindsets
 
@@ -35,7 +35,7 @@ Informações fornecidas pelo Mindsets Learning para a Microsoft:
 | Nome do aplicativo | Mindsets |
 | ID | WA200003000 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Mindsets Learning |
+| Nome da empresa de parceiro | Mindsets Aprendizado |
 | URL do site do parceiro | [https://www.mindsets.com](https://www.mindsets.com) |
 | URL da página Teams de informações do aplicativo | [https://www.mindsets.com](https://www.mindsets.com) |
 | URL da Política de Privacidade | [https://www.mindsets.com/terms](https://www.mindsets.com/terms) |

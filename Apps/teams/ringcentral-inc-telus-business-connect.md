@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Conexão TELUS Business, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 4dcb3d75594ed7c09736be8e6291bbbead9393ef
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404160"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59275748"
 ---
-# <a name="telus-business-connect"></a>TELUS Business Conexão
+# <a name="telus-business-connect"></a>Conexão TELUS Business
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Informações fornecidas pela RingCentral, Inc. à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | TELUS Business Conexão |
+| Nome do aplicativo | Conexão TELUS Business |
 | ID | WA200002300 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | RingCentral, Inc. |

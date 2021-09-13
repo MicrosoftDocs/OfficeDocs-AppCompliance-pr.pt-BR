@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para StarLeaf, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 8f9878d4de6e09c283c6d13ee7351de9fb5f0eb8
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528227"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276378"
 ---
 # <a name="starleaf"></a>StarLeaf
 
@@ -66,7 +66,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Se surgirem problemas de suporte técnico, os dados organizacionais poderão ser transferidos para SalesForce para gerenciamento de casos. Se o usuário fizer uso do recurso de discagem PSTN, a chamada fluirá através de Twilio, Plivo ou Voxbone |  | N/D |
+>| Se surgirem problemas de suporte técnico, os dados organizacionais poderão ser transferidos para SalesForce para gerenciamento de casos. Se o usuário fizer uso do recurso de discagem PSTN, a chamada fluirá através de Twilio, Plivo ou Voxbone |  | N/A |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 

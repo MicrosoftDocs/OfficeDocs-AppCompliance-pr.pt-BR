@@ -9,11 +9,11 @@ certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | Uploader for Office, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 4db105d3bfc1ba2ae292110b30c37ae3832ac7f6
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527957"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277514"
 ---
 # <a name="officeatwork--uploader-for-office"></a>officeatwork | Uploader for Office
 

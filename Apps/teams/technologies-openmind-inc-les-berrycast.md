@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Berrycast, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 714db08e839b60403a567b2cab1af888c4cb7b6f
-ms.sourcegitcommit: c545fba57f8ca821caf6ef55f5b4b068b5f35984
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/24/2021
-ms.locfileid: "53578227"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277668"
 ---
 # <a name="berrycast"></a>Berrycast
 
@@ -59,7 +59,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| People.Read | delegado | Para obter todos os contatos do usuário | Os contatos email, nome do punho, sobrenome e imagem são armazenados para dar acesso de compartilhamento rápido de registros | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
 >| User.Read | delegado | Para identificar o usuário com informações básicas (nome e sobrenome e imagem) | Para exibir o nome. lastname e picture no aplicativo | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
 >| email | delegado | Para identificar o usuário | Para identificar o usuário para registro em log e enviar notificação | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
->| offline_access | delegado | Manter acesso aos dados aos quais você concedeu acesso | N/D | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| offline_access | delegado | Manter acesso aos dados aos quais você concedeu acesso | N/A | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
 >| openid | delegado | Para identificar o usuário | Para identificar o usuário para registro em log | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
 
 

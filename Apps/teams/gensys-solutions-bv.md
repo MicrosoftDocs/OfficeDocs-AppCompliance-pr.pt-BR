@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Gensys, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: dbf8341e3c7fa1313cb716fdec39dbe7e79f895b
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404228"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276300"
 ---
 # <a name="gensys"></a>Gensys
 
@@ -35,7 +35,7 @@ Informações fornecidas pela Gensys Solutions BV para a Microsoft:
 | Nome do aplicativo | Gensys |
 | ID | WA200003044 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Gensys Solutions BV |
+| Nome da empresa de parceiro | Soluções Gensys BV |
 | URL do site do parceiro | [https://gensys.nl](https://gensys.nl) |
 | URL da Política de Privacidade | [https://gensys.nl/privacy-statement/](https://gensys.nl/privacy-statement/) |
 | URL dos Termos de Uso | [https://gensys.nl/terms-of-use/](https://gensys.nl/terms-of-use/) |

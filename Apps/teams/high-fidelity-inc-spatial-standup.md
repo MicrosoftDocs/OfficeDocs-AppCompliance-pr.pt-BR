@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Suporte Espacial, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3e918bbb24a520f430e4db7b22fc76c829b37767
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567197"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276201"
 ---
-# <a name="spatial-standup"></a>Standup espacial
+# <a name="spatial-standup"></a>Standup Espacial
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Informações fornecidas pela Alta Fidelidade Inc para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Standup espacial |
+| Nome do aplicativo | Standup Espacial |
 | ID | WA200003161 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | High Fidelity Inc |
+| Nome da empresa de parceiro | Alta Fidelidade Inc |
 | URL do site do parceiro | [https://www.highfidelity.com](https://www.highfidelity.com) |
 | URL da Política de Privacidade | [https://spatialstandup.com/privacy](https://spatialstandup.com/privacy) |
 | URL dos Termos de Uso | [https://www.highfidelity.com/terms-of-service](https://www.highfidelity.com/terms-of-service) |

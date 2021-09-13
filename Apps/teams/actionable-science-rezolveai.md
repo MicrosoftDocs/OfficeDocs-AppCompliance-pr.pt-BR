@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Rezolve.ai, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 22c71b78374956fb69f0f3f5fd5fc860d2184363
-ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53774832"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276012"
 ---
 # <a name="rezolveai"></a>Rezolve.ai
 
@@ -35,7 +35,7 @@ Informações fornecidas pelo Actionable Science para a Microsoft:
 | Nome do aplicativo | Rezolve.ai |
 | ID | WA200002724 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Ciência a actionable |
+| Nome da empresa de parceiro | Ciência acionável |
 | URL do site do parceiro | [https://www.rezolve.ai](https://www.rezolve.ai) |
 | URL da Política de Privacidade | [https://www.rezolve.ai/privacyPolicy](https://www.rezolve.ai/privacyPolicy) |
 | URL dos Termos de Uso | [https://www.rezolve.ai/generalTerms](https://www.rezolve.ai/generalTerms) |

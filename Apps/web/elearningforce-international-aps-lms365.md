@@ -9,11 +9,11 @@ certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o LMS365, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 2fa9fb2637b40b439bc6450514e194e222415ec0
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275194"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59275972"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -53,14 +53,14 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| GroupMember.Read.All | aplicação | Nenhuma | Permite que o aplicativo expanda membros do grupo do AD, o que é necessário para registrar um grupo de usuários nos cursos. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| Mail.Send | delegado | Nenhuma | A permissão é solicitada dinamicamente durante a configuração da conta de email para notificação. Permite que o aplicativo envie emails de notificação | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| RoleManagement.Read.Directory | aplicação | Nenhuma | Permite que o aplicativo SharePoint domínio durante o provisionamento de locatários. O domínio é usado para a construção de URL. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| User.Invite.All | delegado | Nenhuma | Permite que o aplicativo convide usuários externos em nome do usuário conectado atual | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| User.Read | delegado | Nenhuma | Entre e leia o perfil do usuário. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| User.Read.All | delegado | Nenhuma | Permite que o aplicativo leia o perfil completo do usuário conectado atual. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>| GroupMember.Read.All | aplicação | Nenhum | Permite que o aplicativo expanda membros do grupo do AD, o que é necessário para registrar um grupo de usuários nos cursos. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>| Mail.Send | delegado | Nenhum | A permissão é solicitada dinamicamente durante a configuração da conta de email para notificação. Permite que o aplicativo envie emails de notificação | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>| RoleManagement.Read.Directory | aplicação | Nenhum | Permite que o aplicativo SharePoint domínio durante o provisionamento de locatários. O domínio é usado para a construção de URL. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>| User.Invite.All | delegado | Nenhum | Permite que o aplicativo convide usuários externos em nome do usuário conectado atual | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>| User.Read | delegado | Nenhum | Entre e leia o perfil do usuário. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>| User.Read.All | delegado | Nenhum | Permite que o aplicativo leia o perfil completo do usuário conectado atual. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 >| User.Read.All | aplicação | Permite que o aplicativo leia o perfil de usuário completo. Ele&#8217;necessário para ler usuários&#8217; para criar relatórios de hierarquia. | Os dados pessoais a seguir são armazenados em um Banco de Dados dedicado para o respectivo cliente usado para a funcionalidade do Painel do Gerenciador de Gerenciamento do Learner &amp; no aplicativo. Nome da conta, Nome de Exibição do Usuário, Endereço de Email, Departamento, Cargo, Office, País, Cidade, ID do Gerente/Email | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| perfil | delegado | Nenhuma | Exibir o perfil básico do usuário. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>| perfil | delegado | Nenhum | Exibir o perfil básico do usuário. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Attensa, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: a63dcfb3441d9e0bec2c7ee340624f5daf4d61d5
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58567190"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277650"
 ---
 # <a name="attensa"></a>Attensa
 
@@ -35,7 +35,7 @@ Informações fornecidas pela Attensa Corporation à Microsoft:
 | Nome do aplicativo | Attensa |
 | ID | WA200003148 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Attensa Corporation |
+| Nome da empresa de parceiro | Attensa Corporação |
 | URL do site do parceiro | [https://attensa.com](https://attensa.com) |
 | URL da página Teams de informações do aplicativo | [https://attensa.com/product/](https://attensa.com/product/) |
 | URL da Política de Privacidade | [https://attensa.com/privacy/](https://attensa.com/privacy/) |

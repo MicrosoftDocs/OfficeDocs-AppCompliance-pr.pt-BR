@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a SALA X0PA, suas políticas de tratamento de dados, Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: a20b81928065203536f914a6b15d76745b2bc01a
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58835842"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59277603"
 ---
 # <a name="x0pa-room"></a>SALA X0PA
 
@@ -35,7 +35,7 @@ Informações fornecidas pela X0PA AI Singapore para a Microsoft:
 | Nome do aplicativo | SALA X0PA |
 | ID | WA200003028 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | X0PA AI Singapore |
+| Nome da empresa de parceiro | X0PA AI Singapura |
 | URL do site do parceiro | [https://x0paroom.com](https://x0paroom.com) |
 | URL da página Teams de informações do aplicativo | [https://x0paroom.com](https://x0paroom.com) |
 | URL da Política de Privacidade | [https://x0pa.com/privacy-policy/](https://x0pa.com/privacy-policy/) |

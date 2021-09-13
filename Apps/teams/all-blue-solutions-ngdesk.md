@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o ngDesk, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: b361541352b4fb5c21431403aaea8d7b13a0e104
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53526447"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276522"
 ---
 # <a name="ngdesk"></a>ngDesk
 
@@ -35,7 +35,7 @@ Informações fornecidas por Todas as Soluções Azuis para a Microsoft:
 | Nome do aplicativo | ngDesk |
 | ID | WA200002968 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Todas as soluções azuis |
+| Nome da empresa de parceiro | Soluções All Blue |
 | URL do site do parceiro | [https://ngdesk.com](https://ngdesk.com) |
 | URL da página Teams de informações do aplicativo | [https://ngdesk.com](https://ngdesk.com) |
 | URL da Política de Privacidade | [https://ngdesk.com/privacy-policy](https://ngdesk.com/privacy-policy) |

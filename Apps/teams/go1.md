@@ -9,11 +9,11 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Go1, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: d6fa3c9d0ecf710724379da869fba4b0cec23f6a
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521664"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276295"
 ---
 # <a name="go1"></a>Go1
 
@@ -67,7 +67,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Os usuários de primeiro e último nome podem ser compartilhados com os provedores de conteúdo do GO1 ao jogar conteúdo do curso. Isso é compartilhado apenas quando o provedor de conteúdo exige isso para provedor de uma experiência de aprendizado personalizada. |  | N/D |
+>| Os usuários de primeiro e último nome podem ser compartilhados com os provedores de conteúdo do GO1 ao jogar conteúdo do curso. Isso é compartilhado apenas quando o provedor de conteúdo exige isso para provedor de uma experiência de aprendizado personalizada. |  | N/A |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 

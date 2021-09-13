@@ -9,13 +9,13 @@ certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Identificador de Link, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 8a6c2ee716c7e07686e2c62e1cd79196acbdc5a3
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407354"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59276222"
 ---
-# <a name="link-spotter"></a>Localizador de Link
+# <a name="link-spotter"></a>Link Spotter
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Informações fornecidas pelos Produtos Communardo para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Localizador de Link |
+| Nome do aplicativo | Link Spotter |
 | ID | WA200003092 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Produtos Communardo |
@@ -57,15 +57,15 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Channel.ReadBasic.All | delegado | Verificando a associação de canal do usuário atual | Nenhuma | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
+>| Channel.ReadBasic.All | delegado | Verificando a associação de canal do usuário atual | none | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
 >| ChannelMessage.Read.All | aplicação | Urls dentro de mensagens, messageid, id de resposta para mensagem, id de canal, id de autor... Essas informações são necessárias porque Graph não fornece uma maneira performant de obter de volta todos os links postados em mensagens em um canal. Portanto, as mensagens devem ser analisadas ativamente para fornecer a funcionalidade do link em nossa Teams guia. | Urls dentro de mensagens, messageid, id de resposta para mensagem, id de canal, id de autor | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| User.Read | delegado | Entrar e ler o perfil do usuário | Nenhuma | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| User.Read.All | aplicação | Determine quantos usuários estão tendo uma Teams de usuário. Usado para atualizar o tamanho da sede da assinatura de origem do aplicativo pago para o locatário do cliente. | Nenhuma | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| User.ReadBasic.All | delegado | mostrando a imagem de perfil e o nome do autor da mensagem dentro do aplicativo | Nenhuma | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| email | delegado | Conexão OpenID | Nenhuma | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| offline_access | delegado | Conexão OpenID | Nenhuma | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| openid | delegado | Conexão OpenID | Nenhuma | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| perfil | delegado | Conexão OpenID | Nenhuma | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário | none | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
+>| User.Read.All | aplicação | Determine quantos usuários estão tendo uma Teams de usuário. Usado para atualizar o tamanho da sede da assinatura de origem do aplicativo pago para o locatário do cliente. | none | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
+>| User.ReadBasic.All | delegado | mostrando a imagem de perfil e o nome do autor da mensagem dentro do aplicativo | none | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
+>| email | delegado | Conexão OpenID | none | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
+>| offline_access | delegado | Conexão OpenID | none | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
+>| openid | delegado | Conexão OpenID | none | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
+>| perfil | delegado | Conexão OpenID | none | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
