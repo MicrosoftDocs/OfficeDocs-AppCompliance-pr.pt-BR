@@ -117,6 +117,8 @@
           href: outlook/starleaf-add-in-for-outlook.md
         - name: Wunder365
           href: outlook/jiji-technologies-private-limited-wunder365.md
+        - name: Email seguro XQ
+          href: outlook/xq-message-secure-email.md
         - name: Ferramenta Campanhas do Zoho para automação de marketing
           href: outlook/zoho-corporation-private-limited-campaigns-tool-for-marketing-automation.md
         - name: Zoho CRM para email
@@ -207,6 +209,8 @@
           href: teams/arrangr-inc.md
         - name: Asana
           href: teams/asana.md
+        - name: ASC Recording Insights
+          href: teams/asc-technologies-ag-recording-insights.md
         - name: askR.ai
           href: teams/askrai.md
         - name: Assembly
@@ -305,6 +309,8 @@
           href: teams/carnduff-co-coffeepals.md
         - name: Vaso de Coleta
           href: teams/gifted-to-you-limited-collection-pot.md
+        - name: Comandante
+          href: teams/nimbella-commander.md
         - name: Concluir
           href: teams/cauzey-pty-ltd-complish.md
         - name: Conferences i/o
@@ -329,10 +335,14 @@
           href: teams/datto-inc-workplace.md
         - name: DBit
           href: teams/diamondsoft-solutions-llc-dbit.md
+        - name: Decisions
+          href: teams/decisions.md
         - name: DisasterTech DICE
           href: teams/disastertech-dice.md
         - name: do!book CB
           href: teams/digital-office-inc-do!book-cb.md
+        - name: Docuo
+          href: teams/r2-docuo.md
         - name: DocuSign eSignature
           href: teams/docusign-inc-esignature.md
         - name: Droplr
@@ -467,6 +477,8 @@
           href: teams/kazoo.md
         - name: Klaxoon
           href: teams/klaxoon.md
+        - name: Koan
+          href: teams/koan-inc.md
         - name: Kronos
           href: teams/kronos-inc.md
         - name: Kudozza
@@ -795,6 +807,8 @@
           href: teams/teamschamp.md
         - name: TeamSticker por Communitio
           href: teams/communitio-corporation-teamsticker-by.md
+        - name: Conexão TELUS Business
+          href: teams/ringcentral-inc-telus-business-connect.md
         - name: Template Chooser
           href: teams/officeatwork-template-chooser.md
         - name: Texto
@@ -890,6 +904,8 @@
       items:
         - name: Adobe Sign for Word and PowerPoint
           href: word/adobe-inc-sign-for-word-and-powerpoint.md
+        - name: CocoFax - Envio de Fax Facilitado e Seguro
+          href: word/cocofax-sending-fax-made-easy-and-secure.md
         - name: CrossCheck
           href: word/krevealllc-crosscheck.md
         - name: Excel automação de documentos do word
@@ -1010,6 +1026,8 @@
           href: azure/1533d702-7604-463a-9fa3-63077c425e76.md
         - name: 170cef4c-862a-443c-b02a-c5ba04ecc7f3
           href: azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3.md
+        - name: 170d42a4-4ec0-4f51-bef0-693c589fccfc
+          href: azure/170d42a4-4ec0-4f51-bef0-693c589fccfc.md
         - name: 1ac9e5c6-4850-4864-96c5-b91e4512334e
           href: azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md
         - name: 1c7d277c-ff8a-4ea4-bc14-7d06314f8941
@@ -1022,6 +1040,8 @@
           href: azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md
         - name: 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e
           href: azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e.md
+        - name: 23b236c3-685d-49f0-a7bf-012ef3dc9ec3
+          href: azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md
         - name: 24a9cf21-407c-41f9-8cc6-e7015f4e02af
           href: azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af.md
         - name: 272032ad-0c2e-4928-910e-5d52b19f70d5
@@ -1092,6 +1112,8 @@
           href: azure/4e820d60-9e62-403c-accd-857b987cc13c.md
         - name: 4f037969-20ef-4a41-8330-422b7b115eb6
           href: azure/4f037969-20ef-4a41-8330-422b7b115eb6.md
+        - name: 5022e09d-d2f9-499f-8925-554c324ad23a
+          href: azure/5022e09d-d2f9-499f-8925-554c324ad23a.md
         - name: 50356ee3-b48b-424b-a7a7-35e53c2ce736
           href: azure/50356ee3-b48b-424b-a7a7-35e53c2ce736.md
         - name: 51e2b67d-9854-446a-8da1-cdd89ef0b987
@@ -1330,6 +1352,8 @@
           href: azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md
         - name: f6f894ce-5b44-4c9b-aff4-253d2fbe8a99
           href: azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99.md
+        - name: fb507a6d-2eaa-4f1f-b43a-140f388c4445
+          href: azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445.md
         - name: fb6ddd39-35f2-4110-a45d-d2e73b946cae
           href: azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md
         - name: fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da

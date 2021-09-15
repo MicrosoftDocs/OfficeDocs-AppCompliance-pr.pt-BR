@@ -2,17 +2,17 @@
 title: Microsoft SharePoint Segurança e Conformidade de Aplicativos - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/08/2021
+ms.date: 09/13/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos SharePoint Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 198e69bfb207fa01e52597d565b8839e47c7d5db
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9a6f577d1a87951788548eaff50423ea49a480fe
+ms.sourcegitcommit: 400dc76d16649c45cc4bc1b45dee07ba3661f890
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276345"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59345657"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint Apps Security and Compliance
 
