@@ -166,11 +166,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200003118.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/esri-inc-arcgis-maps",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002859.md",
       "redirect_url": "/microsoft-365-app-certification/teams/esri-arcgis-maps",
       "redirect_document_id": false
@@ -178,6 +173,11 @@
     {
       "source_path": "Apps/forward/ba4eda44-cd55-4e15-855c-0debafb0490b.md",
       "redirect_url": "/microsoft-365-app-certification/teams/esri-arcgis-maps",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003118.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/esri-inc-arcgis-maps",
       "redirect_document_id": false
     },
     {
@@ -2181,11 +2181,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200002505.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/all-blue-solutions-ngdesk",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002968.md",
       "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
       "redirect_document_id": false
@@ -2193,6 +2188,11 @@
     {
       "source_path": "Apps/forward/64d24486-30aa-4fae-8bdc-2680a85dcbb5.md",
       "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002505.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/all-blue-solutions-ngdesk",
       "redirect_document_id": false
     },
     {
@@ -2511,6 +2511,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA104380739.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381384.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
       "redirect_document_id": false
@@ -2518,11 +2523,6 @@
     {
       "source_path": "Apps/forward/90381cb0-998f-4ba3-9699-130201de5ddb.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA104380739.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
       "redirect_document_id": false
     },
     {
@@ -2951,6 +2951,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200002128.md",
+      "redirect_url": "/microsoft-365-app-certification/excel/sheetgo-europe-sl",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002067.md",
       "redirect_url": "/microsoft-365-app-certification/teams/sheetgo-europe-sl",
       "redirect_document_id": false
@@ -2958,11 +2963,6 @@
     {
       "source_path": "Apps/forward/583de270-58d0-4f94-af06-bf971f82fd94.md",
       "redirect_url": "/microsoft-365-app-certification/teams/sheetgo-europe-sl",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200002128.md",
-      "redirect_url": "/microsoft-365-app-certification/excel/sheetgo-europe-sl",
       "redirect_document_id": false
     },
     {
@@ -3586,6 +3586,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003239.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/thoughtwire-corp-ews",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/ed27363f-755e-4658-b7bf-409d475959d6.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/thoughtwire-corp-ews",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002602.md",
       "redirect_url": "/microsoft-365-app-certification/teams/cireson-tikit",
       "redirect_document_id": false
@@ -3713,6 +3723,16 @@
     {
       "source_path": "Apps/forward/officeatwork-ag.verifier.md",
       "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-verifier",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003230.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/tmi-systems-verto-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/b27c082b-9d45-490a-b8bb-8dcda46c73f3.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/tmi-systems-verto-365",
       "redirect_document_id": false
     },
     {
@@ -3911,6 +3931,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003241.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/workjam-tasks",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/9a8a5779-52a9-4400-989a-b0284ea78557.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/workjam-tasks",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200001238.md",
       "redirect_url": "/microsoft-365-app-certification/teams/workplacebuddy",
       "redirect_document_id": false
@@ -3921,11 +3951,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200000391.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/jiji-technologies-private-limited-wunder365",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200000742.md",
       "redirect_url": "/microsoft-365-app-certification/teams/jiji-technologies-pvt-ltd-wunder365",
       "redirect_document_id": false
@@ -3933,6 +3958,11 @@
     {
       "source_path": "Apps/forward/7e8f9ad5-07d9-4259-8713-d316f451cbf3.md",
       "redirect_url": "/microsoft-365-app-certification/teams/jiji-technologies-pvt-ltd-wunder365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200000391.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/jiji-technologies-private-limited-wunder365",
       "redirect_document_id": false
     },
     {
