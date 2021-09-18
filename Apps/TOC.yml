@@ -813,6 +813,8 @@
           href: teams/officeatwork-template-chooser.md
         - name: Texto
           href: teams/approved-contact-text.md
+        - name: ThoughtWire EWS
+          href: teams/thoughtwire-corp-ews.md
         - name: Tikit
           href: teams/cireson-tikit.md
         - name: TimeClock 365
@@ -837,6 +839,8 @@
           href: teams/uservoice.md
         - name: Vacation Tracker
           href: teams/vacation-tracker.md
+        - name: Verto 365
+          href: teams/tmi-systems-verto-365.md
         - name: Viima
           href: teams/viima-solutions-oy.md
         - name: VisualSP
@@ -875,6 +879,8 @@
           href: teams/workjam-home.md
         - name: Agendar WorkJam
           href: teams/workjam-schedule.md
+        - name: Tarefas WorkJam
+          href: teams/workjam-tasks.md
         - name: WorkplaceBuddy
           href: teams/workplacebuddy.md
         - name: Wunder365
@@ -1136,6 +1142,8 @@
           href: azure/5f1f4eb7-479e-42f3-b86f-4c1f53e1c222.md
         - name: 621d9ae7-c14e-4fab-9604-63e1ffc9e721
           href: azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721.md
+        - name: 626ce0a3-4620-483d-953d-53b106b9ffad
+          href: azure/626ce0a3-4620-483d-953d-53b106b9ffad.md
         - name: 6919164d-b678-4c3d-a268-e6fbecc1e68d
           href: azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md
         - name: 6996cad6-a969-487a-9182-f4dc4c6c8803

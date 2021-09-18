@@ -2,24 +2,23 @@
 title: Informações do aplicativo para iPlanner Pro Office 365 iGlobe
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/22/2021
+ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o iPlanner Pro Office 365, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 614bdfc648f2f16d8c96c3ad699c5a022690c0d0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a194afeb22ee861895461f8e21b818ac1aa85f00
+ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276427"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59438352"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 22 de junho de 2021</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Última atualização pelo desenvolvedor em: 16 de agosto de 2021</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/17859280.iplannerpro" target="_blank">Exibir no AppSource</a>
 
