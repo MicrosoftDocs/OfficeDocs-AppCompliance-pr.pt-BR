@@ -2,24 +2,24 @@
 title: Informações do aplicativo para avaliado pela Appraisd ltd.
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/03/2021
+ms.date: 09/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Avaliações, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: baebeaa3079fbe38cc9c1fb76f1841059346be9c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2ed2853f03b9b3e6e235e87d634fb5c2aafaaec6
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59275774"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59784751"
 ---
 # <a name="appraisd"></a>Avaliado
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 3 de agosto de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 7 de setembro de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/4f037969-20ef-4a41-8330-422b7b115eb6" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003123" target="_blank">Exibir no AppSource</a>
@@ -39,7 +39,7 @@ Informações fornecidas pela Appraisd ltd. à Microsoft:
 | URL do site do parceiro | [https://www.appraisd.com](https://www.appraisd.com) |
 | URL da página Teams de informações do aplicativo | [https://www.appraisd.com](https://www.appraisd.com) |
 | URL da Política de Privacidade | [https://help.appraisd.com/hc/en-us/articles/360007779298-Pr...](https://help.appraisd.com/hc/en-us/articles/360007779298-Privacy-Policy) |
-| URL dos Termos de Uso | [https://app.appraisd.com/account/terms](https://app.appraisd.com/account/terms) |
+| URL dos Termos de Uso | [https://www.appraisd.com/terms](https://www.appraisd.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

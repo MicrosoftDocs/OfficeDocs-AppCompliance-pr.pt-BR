@@ -2,24 +2,24 @@
 title: Informações do aplicativo para o Evernote pelo Evernote
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Evernote, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3eaaa3cacc4affc866a967a495687bc53abcfae5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 6965e328f3e976462d900e227a74411599ad959c
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277694"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59785301"
 ---
 # <a name="evernote"></a>Evernote
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 16 de dezembro de 2019</p>
+<p>Última atualização pelo desenvolvedor em: 21 de setembro de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/4e1f8576-93d5-4c24-abb5-f02782e00a4e" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381639" target="_blank">Exibir no AppSource</a>
@@ -36,9 +36,9 @@ Informações fornecidas pelo Evernote à Microsoft:
 | ID | WA104381639 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Evernote |
-| URL do site do parceiro | [https://evernote.com/](https://evernote.com/) |
-| URL da página Teams de informações do aplicativo | [https://help.evernote.com/hc/en-us/articles/360001244667](https://help.evernote.com/hc/en-us/articles/360001244667) |
-| URL da Política de Privacidade | [https://evernote.com/privacy](https://evernote.com/privacy) |
+| URL do site do parceiro | [https://evernote.com](https://evernote.com) |
+| URL da página Teams de informações do aplicativo | [https://evernote.com/about-us](https://evernote.com/about-us) |
+| URL da Política de Privacidade | [https://evernote.com/privacy/policy](https://evernote.com/privacy/policy) |
 | URL dos Termos de Uso | [https://evernote.com/legal/terms-of-service](https://evernote.com/legal/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -75,18 +75,19 @@ Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá ac
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Os dados OII ou EUII aparecem na telemetria ou nos logs.
+>Nenhum OII ou EUII aparece nos logs ou telemetria de aplicativos.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->O console de administração é onde os administradores de contas podem gerenciar informações de conta, usuários e conteúdo do Evernote Business. Algumas das coisas que os administradores de contas podem fazer no console de administração:
-- Exibir resumo da conta
-- Adicionar e gerenciar usuários
-- Exibir e gerenciar espaços, blocos de anotações, anotações, marcas e lixo
-- Exibir e gerenciar contas de cobrança, segurança e integrações https://help.evernote.com/hc/en-us/articles/209005497-Evernote-Business-Admin-Console-Overview
+>Política de usuário final, envie apenas dados anônimos. Nunca enviar PII
 
+#### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
+
+Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
+
+>Não
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -104,3 +105,16 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Informações de identidade
+
+Essas informações foram fornecidas pelo Evernote sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

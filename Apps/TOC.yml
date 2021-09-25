@@ -83,6 +83,8 @@
           href: outlook/ci-solution-gmbh-signature.md
         - name: CodeTwo para Outlook
           href: outlook/codetwo-for-outlook.md
+        - name: Evernote
+          href: outlook/evernote.md
         - name: harmon.ie para Outlook
           href: outlook/harmonie-corporation-for-outlook.md
         - name: Invoice and Time Tracking - Zoho Invoice
@@ -197,6 +199,8 @@
           href: teams/ambition.md
         - name: Ampliação por Hootsuite
           href: teams/hootsuite-inc-amplify-by.md
+        - name: AmTrav Business Travel
+          href: teams/amtrav-business-travel.md
         - name: Avaliado
           href: teams/appraisd-ltd.md
         - name: ApproveSimple
@@ -205,6 +209,8 @@
           href: teams/appspace-inc.md
         - name: ArcGIS Maps
           href: teams/esri-arcgis-maps.md
+        - name: ARGUSnylar
+          href: teams/argus-data-insights-schweiz-ag-argusnylar.md
         - name: Arrangr
           href: teams/arrangr-inc.md
         - name: Asana
@@ -259,6 +265,8 @@
           href: teams/chat-apps-llc-bright-poll.md
         - name: Brilhante Me Lembre
           href: teams/chat-apps-llc-bright-remind-me.md
+        - name: Vídeo brightcove Conexão
+          href: teams/brightcove-inc-video-connect.md
         - name: Brightidea
           href: teams/brightidea.md
         - name: Transmitir
@@ -317,6 +325,8 @@
           href: teams/conferences-io.md
         - name: Nuvem de Confluência
           href: teams/atlassian-confluence-cloud.md
+        - name: Conector de Confluência
+          href: teams/move-work-forward-confluence-connector.md
         - name: Connect+
           href: teams/reward-gateway-connectplus.md
         - name: Contact Center
@@ -337,6 +347,10 @@
           href: teams/diamondsoft-solutions-llc-dbit.md
         - name: Decisions
           href: teams/decisions.md
+        - name: Degreed
+          href: teams/degreed.md
+        - name: DELTAoverC
+          href: teams/deltaoverc.md
         - name: DisasterTech DICE
           href: teams/disastertech-dice.md
         - name: do!book CB
@@ -351,6 +365,8 @@
           href: teams/dynamic-signal.md
         - name: Easy Projects
           href: teams/logic-software-inc-easy-projects.md
+        - name: Easy2Meet
+          href: teams/easy2meet-bv.md
         - name: eCademy Lernplattform
           href: teams/cornelsen-ecademy-and-inside-gmbh-lernplattform.md
         - name: ecBooking
@@ -377,6 +393,8 @@
           href: teams/enboarder.md
         - name: EngageWith
           href: teams/springrole-engagewith.md
+        - name: enmacc
+          href: teams/enmacc.md
         - name: eTeamer
           href: teams/eteamer.md
         - name: Gerenciamento de Eventos
@@ -389,6 +407,8 @@
           href: teams/enterprizid-inc-ezteam.md
         - name: Nuvem Fabasoft
           href: teams/fabasoft-austria-gmbh-cloud.md
+        - name: FactSet
+          href: teams/factset-research-systems-inc.md
         - name: Colega
           href: teams/fellow-insights-inc.md
         - name: Cinquenta
@@ -447,6 +467,8 @@
           href: teams/highside-inc.md
         - name: Highspot
           href: teams/highspot.md
+        - name: Hive
+          href: teams/hive.md
         - name: Hoylu
           href: teams/hoylu.md
         - name: HunchBuzz
@@ -455,6 +477,8 @@
           href: teams/hyperproof.md
         - name: Em caso de crise
           href: teams/rockdove-solutions-inc-in-case-of-crisis.md
+        - name: InCaseIT
+          href: teams/pilotech-as-incaseit.md
         - name: IndustryIntel
           href: teams/industry-intelligence-team-industryintel.md
         - name: InStation
@@ -491,6 +515,8 @@
           href: teams/ltapps-software-coltd-leave-request-by.md
         - name: Lexion
           href: teams/lexion.md
+        - name: LifeWorks
+          href: teams/lifeworks.md
         - name: Link Spotter
           href: teams/communardo-products-link-spotter.md
         - name: Listy
@@ -501,6 +527,8 @@
           href: teams/elearningforce-international-lms365.md
         - name: Loops - Aprendizado criativo
           href: teams/skooler-loops-creative-learning.md
+        - name: Lucca
+          href: teams/lucca.md
         - name: Lucidchart
           href: teams/lucid-software-lucidchart.md
         - name: Lucidspark
@@ -645,6 +673,8 @@
           href: teams/chitchattr-quicklinks.md
         - name: Quire
           href: teams/potix-corporation-quire.md
+        - name: Rafiky
+          href: teams/global-congress-srl-rafiky.md
         - name: Reach
           href: teams/livetiles-reach.md
         - name: Tradutor de Tempo Real
@@ -705,6 +735,8 @@
           href: teams/derdack-signl4.md
         - name: Simple In/Out
           href: teams/simply-made-apps-inc-simple-inout.md
+        - name: Seno
+          href: teams/sineco-sine.md
         - name: Site24x7
           href: teams/zoho-corporation-private-limited-site24x7.md
         - name: Skillate
@@ -763,6 +795,8 @@
           href: teams/stylebot-inc.md
         - name: SuitePro-G
           href: teams/iqar-suitepro-g.md
+        - name: SuperBeings
+          href: teams/haptivity-technologies-pvt-ltd-superbeings.md
         - name: SurveyMonkey
           href: teams/surveymonkey.md
         - name: SurveySparrow
@@ -807,6 +841,8 @@
           href: teams/teamschamp.md
         - name: TeamSticker por Communitio
           href: teams/communitio-corporation-teamsticker-by.md
+        - name: Teamwork
+          href: teams/teamwork.md
         - name: Conexão TELUS Business
           href: teams/ringcentral-inc-telus-business-connect.md
         - name: Template Chooser
@@ -859,6 +895,8 @@
           href: teams/cisco-webex-call.md
         - name: Weekly10
           href: teams/binary-geek-limited-weekly10.md
+        - name: Gravação de tela de weet
+          href: teams/fyz-services-weet-screen-recording.md
         - name: Orientador de Bem-estar
           href: teams/meditationlive-inc-wellness-coach.md
         - name: Wide Ideas
@@ -869,6 +907,8 @@
           href: teams/wisembly.md
         - name: Woobot
           href: teams/woobot.md
+        - name: Workbench Intelligence
+          href: teams/temporall-workbench-intelligence.md
         - name: Workboard
           href: teams/workboard-inc.md
         - name: Workday
@@ -879,7 +919,7 @@
           href: teams/workjam-home.md
         - name: Agendar WorkJam
           href: teams/workjam-schedule.md
-        - name: Tarefas WorkJam
+        - name: Tarefas do WorkJam
           href: teams/workjam-tasks.md
         - name: WorkplaceBuddy
           href: teams/workplacebuddy.md
@@ -891,6 +931,8 @@
           href: teams/yarooms.md
         - name: Yeeflow
           href: teams/akmii-yeeflow.md
+        - name: yuccaHR
+          href: teams/yucca-technologies-gmbh-yuccahr.md
         - name: Zignals
           href: teams/alight-zignals.md
         - name: Zoho CRM
@@ -1106,6 +1148,8 @@
           href: azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94.md
         - name: 494610b2-b490-4f54-8384-312d6f9b4869
           href: azure/494610b2-b490-4f54-8384-312d6f9b4869.md
+        - name: 49a15c37-4eca-48b1-a327-7a8b5a3b399c
+          href: azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c.md
         - name: 4a6873f6-8360-4023-bd6f-2923d1eb2e94
           href: azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md
         - name: 4aa38041-66a2-41a4-ac97-55bc828a9803
@@ -1320,6 +1364,8 @@
           href: azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md
         - name: d76f016f-52c7-41b5-835b-900361d7040c
           href: azure/d76f016f-52c7-41b5-835b-900361d7040c.md
+        - name: d8843264-a57b-41e3-aea6-b83ea56f6bd6
+          href: azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6.md
         - name: dae2eacf-3eb5-4440-baff-984fbd5cae68
           href: azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md
         - name: dc171e47-c074-4bc2-9e7b-3856b71e0630
