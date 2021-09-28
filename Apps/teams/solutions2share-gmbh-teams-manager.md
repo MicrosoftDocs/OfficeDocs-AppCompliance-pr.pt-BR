@@ -2,24 +2,24 @@
 title: Informações do aplicativo Teams Pelo Solutions2Share GmbH
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Teams Manager, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0f135c14a96849a21ebf424b152a257df8e5e9e9
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: e51b08446bed1f22f1e058b92604841ce255eb8f
+ms.sourcegitcommit: 3ac3366e04e24db2d12183ef212738d5b599f553
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277645"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59971793"
 ---
 # <a name="teams-manager"></a>Teams Manager
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 16 de dezembro de 2019</p>
+<p>Última atualização pelo desenvolvedor em: 24 de setembro de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/87000000-3db9-bb44-5015-0b4a327a6597" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000764" target="_blank">Exibir no AppSource</a>
@@ -36,7 +36,8 @@ Informações fornecidas pela Solutions2Share GmbH para a Microsoft:
 | ID | WA200000764 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Solutions2Share GmbH |
-| URL do site do parceiro | [https://teams-manager.com/](https://teams-manager.com/) |
+| URL do site do parceiro | [https://teams-manager.com](https://teams-manager.com) |
+| URL da página Teams de informações do aplicativo | [https://teams-manager.com](https://teams-manager.com) |
 | URL da Política de Privacidade | [https://www.teams-manager.com/privacy](https://www.teams-manager.com/privacy) |
 | URL dos Termos de Uso | [https://www.teams-manager.com/terms-of-use/](https://www.teams-manager.com/terms-of-use/) |
 
@@ -111,3 +112,29 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Informações de identidade
+
+Essas informações foram fornecidas pela Solutions2Share GmbH sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
+| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
+| Seu aplicativo dá suporte a multi-enancy? | Sim |
+| Seu aplicativo tem um cliente confidencial? | Não |
+| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/><br/> |
+| Seu aplicativo expõe alguma APIs da Web? | Sim |
+| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Seu aplicativo usa APIs de visualização? | Sim |
+| Seu aplicativo usa APIs preteridas? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
