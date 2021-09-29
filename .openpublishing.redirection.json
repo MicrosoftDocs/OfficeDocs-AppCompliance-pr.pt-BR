@@ -121,6 +121,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003272.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/30secondstofly-thailand-co-ltd-amex-gbt",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/157b5ffb-b183-453c-b072-9c94bb6c694c.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/30secondstofly-thailand-co-ltd-amex-gbt",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200003153.md",
       "redirect_url": "/microsoft-365-app-certification/teams/hootsuite-inc-amplify-by",
       "redirect_document_id": false
@@ -176,6 +186,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003118.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/esri-inc-arcgis-maps",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002859.md",
       "redirect_url": "/microsoft-365-app-certification/teams/esri-arcgis-maps",
       "redirect_document_id": false
@@ -183,11 +198,6 @@
     {
       "source_path": "Apps/forward/ba4eda44-cd55-4e15-855c-0debafb0490b.md",
       "redirect_url": "/microsoft-365-app-certification/teams/esri-arcgis-maps",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200003118.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/esri-inc-arcgis-maps",
       "redirect_document_id": false
     },
     {
@@ -581,6 +591,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003164.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/casedoc-virtual-hearing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/3e701664-cc46-49e4-b356-1a7ac6500998.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/casedoc-virtual-hearing",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002639.md",
       "redirect_url": "/microsoft-365-app-certification/teams/chimu-software-catchem",
       "redirect_document_id": false
@@ -838,6 +858,16 @@
     {
       "source_path": "Apps/forward/officeatwork-ag.content-chooser.md",
       "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-content-chooser",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003250.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/colligo-inc-content-manager",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/36ad88c6-ffce-4c52-a5a5-3eae64ed65bf.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/colligo-inc-content-manager",
       "redirect_document_id": false
     },
     {
@@ -1623,6 +1653,16 @@
     {
       "source_path": "Apps/forward/officeatwork-ag.image-chooser.md",
       "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-image-chooser",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003178.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/imanage",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/c941fa60-c3a3-4bc6-b846-a63406009c15.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/imanage",
       "redirect_document_id": false
     },
     {
@@ -2646,6 +2686,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA104380739.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381384.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
       "redirect_document_id": false
@@ -2656,8 +2701,13 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104380739.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
+      "source_path": "Apps/forward/WA200001352.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/infographfx-technologies-presentations-ai",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/1f510555-b518-4084-84e0-18c7bebc807c.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/infographfx-technologies-presentations-ai",
       "redirect_document_id": false
     },
     {
@@ -2886,6 +2936,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003293.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/beremote-llc-reteam",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/92c90c0c-9a22-42ae-be52-c078eae02dea.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/beremote-llc-reteam",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104382003.md",
       "redirect_url": "/microsoft-365-app-certification/word/grammarsoft-aps-retmig-and-kommaforslag",
       "redirect_document_id": false
@@ -3096,11 +3156,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200002128.md",
-      "redirect_url": "/microsoft-365-app-certification/excel/sheetgo-europe-sl",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002067.md",
       "redirect_url": "/microsoft-365-app-certification/teams/sheetgo-europe-sl",
       "redirect_document_id": false
@@ -3108,6 +3163,11 @@
     {
       "source_path": "Apps/forward/583de270-58d0-4f94-af06-bf971f82fd94.md",
       "redirect_url": "/microsoft-365-app-certification/teams/sheetgo-europe-sl",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002128.md",
+      "redirect_url": "/microsoft-365-app-certification/excel/sheetgo-europe-sl",
       "redirect_document_id": false
     },
     {
