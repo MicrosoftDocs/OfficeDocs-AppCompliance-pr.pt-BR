@@ -197,6 +197,8 @@
           href: teams/alvao-sro-service-desk.md
         - name: Ambição
           href: teams/ambition.md
+        - name: AMEX GBT
+          href: teams/30secondstofly-thailand-co-ltd-amex-gbt.md
         - name: Ampliação por Hootsuite
           href: teams/hootsuite-inc-amplify-by.md
         - name: AmTrav Business Travel
@@ -285,6 +287,8 @@
           href: teams/calendarhero-inc.md
         - name: Canário
           href: teams/yattee-inc-canary.md
+        - name: Audiência virtual do Casedoc
+          href: teams/casedoc-virtual-hearing.md
         - name: CatchEm
           href: teams/chimu-software-catchem.md
         - name: Centrical
@@ -331,6 +335,8 @@
           href: teams/reward-gateway-connectplus.md
         - name: Contact Center
           href: teams/landis-technologies-llc-contact-center.md
+        - name: Gerenciador de Conteúdo
+          href: teams/colligo-inc-content-manager.md
         - name: Contexto AVA
           href: teams/contextere-ava.md
         - name: CSOD Aprender
@@ -475,6 +481,8 @@
           href: teams/hunchbuzz.md
         - name: Hyperproof
           href: teams/hyperproof.md
+        - name: iManage
+          href: teams/imanage.md
         - name: Em caso de crise
           href: teams/rockdove-solutions-inc-in-case-of-crisis.md
         - name: InCaseIT
@@ -647,6 +655,8 @@
           href: teams/powell-software-teams.md
         - name: Colaboração do Power BI
           href: teams/ataira-power-bi-collaboration.md
+        - name: AI de apresentações
+          href: teams/infographfx-technologies-presentations-ai.md
         - name: Prezi Video
           href: teams/prezi-video.md
         - name: Priority Matrix
@@ -687,6 +697,8 @@
           href: teams/chitchattr-reminderz.md
         - name: researcHR
           href: teams/researchr.md
+        - name: ReTeam
+          href: teams/beremote-llc-reteam.md
         - name: Retro
           href: teams/baltic-amadeus-retro.md
         - name: Rezolve.ai
@@ -1224,8 +1236,6 @@
           href: azure/75ce4e02-e37b-479c-81c7-438348a2a251.md
         - name: 77b31e8c-65d0-484d-a72f-9404ec9dfcfa
           href: azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md
-        - name: 77baef51-6387-4aff-9b3f-23e4654c30cd
-          href: azure/77baef51-6387-4aff-9b3f-23e4654c30cd.md
         - name: 79d7af39-4f57-4e95-adaf-ec8ff756d0df
           href: azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df.md
         - name: 79ff4a2a-e22b-47d5-94dc-ef76fe46af75
@@ -1314,6 +1324,8 @@
           href: azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md
         - name: ac2b56c0-f2a5-4e90-b618-882f8d3596f0
           href: azure/ac2b56c0-f2a5-4e90-b618-882f8d3596f0.md
+        - name: ac9ca94a-e666-4f61-959a-12c063e13e69
+          href: azure/ac9ca94a-e666-4f61-959a-12c063e13e69.md
         - name: adef9811-448f-4dd5-88d9-68734050fe58
           href: azure/adef9811-448f-4dd5-88d9-68734050fe58.md
         - name: af089bb5-48be-413d-ad34-53c32799da7d
@@ -1322,6 +1334,8 @@
           href: azure/afd2c390-8b78-40fa-913b-7fc5911e884a.md
         - name: affadfb6-f17b-428f-97f9-9aae3b6175bc
           href: azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md
+        - name: b0656c15-44aa-4aab-8956-bb97e3016535
+          href: azure/b0656c15-44aa-4aab-8956-bb97e3016535.md
         - name: b13c40ee-e073-459e-96b5-3f3cca046a37
           href: azure/b13c40ee-e073-459e-96b5-3f3cca046a37.md
         - name: b256b34a-b377-4fc2-b25a-a8f5f0594e86
@@ -1336,6 +1350,8 @@
           href: azure/b9604964-9c3a-483e-abf2-1b5cba495081.md
         - name: b9a1aab-e8aa-4b92-b4ce-f13cae74caa7
           href: azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7.md
+        - name: bbdcd676-7448-453c-bec7-70e5384bc290
+          href: azure/bbdcd676-7448-453c-bec7-70e5384bc290.md
         - name: bceca1f0-723f-44d0-b732-b3506c0a641d
           href: azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md
         - name: be8d11cf-265a-4974-9912-4ff28c29fc21
