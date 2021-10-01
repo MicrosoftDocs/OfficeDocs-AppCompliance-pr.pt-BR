@@ -107,6 +107,8 @@
           href: outlook/oneplace-solutions-oneplacemail-for-outlook.md
         - name: Envolvimento de vendas de divulgação para Outlook
           href: outlook/outreach-sales-engagement-for-outlook.md
+        - name: Pexip Um para Outlook
+          href: outlook/pexipas-pexip-one-for-outlook.md
         - name: Matriz de Prioridade - Transformar emails em tarefas
           href: outlook/appfluence-inc-priority-matrix-turn-emails-into-tasks.md
         - name: Local de trabalho quantum
@@ -170,6 +172,8 @@
           href: sharepoint/iglobe-crm-office-365-for-microsoft.md
         - name: Konnect eMail Parser
           href: sharepoint/konnect-email-parser.md
+        - name: Lightning Tools Lightning Conductor
+          href: sharepoint/lightning-tools-conductor.md
         - name: officeatwork | Template Chooser for SharePoint
           href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
         - name: Colaboração do Power BI
@@ -223,6 +227,8 @@
           href: teams/askrai.md
         - name: Assembly
           href: teams/carrothr-inc-assembly.md
+        - name: Aster
+          href: teams/aster.md
         - name: AtBot
           href: teams/h3-solutions-inc-atbot.md
         - name: atSpoke
@@ -335,7 +341,7 @@
           href: teams/reward-gateway-connectplus.md
         - name: Contact Center
           href: teams/landis-technologies-llc-contact-center.md
-        - name: Gerenciador de Conteúdo
+        - name: Gerente de conteúdos
           href: teams/colligo-inc-content-manager.md
         - name: Contexto AVA
           href: teams/contextere-ava.md
@@ -511,8 +517,6 @@
           href: teams/klaxoon.md
         - name: Koan
           href: teams/koan-inc.md
-        - name: Kronos
-          href: teams/kronos-inc.md
         - name: Kudozza
           href: teams/survivef5-gmbh-kudozza.md
         - name: LawToolBox
@@ -655,7 +659,7 @@
           href: teams/powell-software-teams.md
         - name: Colaboração do Power BI
           href: teams/ataira-power-bi-collaboration.md
-        - name: AI de apresentações
+        - name: IA de apresentações
           href: teams/infographfx-technologies-presentations-ai.md
         - name: Prezi Video
           href: teams/prezi-video.md
@@ -941,6 +945,8 @@
           href: teams/jiji-technologies-pvt-ltd-wunder365.md
         - name: SALA X0PA
           href: teams/x0pa-ai-singapore-room.md
+        - name: xMatters
+          href: teams/xmatters-inc.md
         - name: YAROOMS
           href: teams/yarooms.md
         - name: Yeeflow
@@ -1146,6 +1152,8 @@
           href: azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c.md
         - name: 3e500164-df82-4d1e-9db8-0901e07d374d
           href: azure/3e500164-df82-4d1e-9db8-0901e07d374d.md
+        - name: 3e701664-cc46-49e4-b356-1a7ac6500998
+          href: azure/3e701664-cc46-49e4-b356-1a7ac6500998.md
         - name: 3e745135-a761-48a7-ab54-5c0277b2e642
           href: azure/3e745135-a761-48a7-ab54-5c0277b2e642.md
         - name: 3ee373a-62fa-4fc6-b11f-9627d5b4a73d
