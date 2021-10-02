@@ -2,24 +2,24 @@
 title: Informações sobre aplicativos do OnePlaceMail para Outlook soluções do OnePlace
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/31/2021
+ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o OnePlaceMail para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 18dc1ab4ba71102564c1c85f7ed3846d9f4f1700
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 196720a00525971f29618d48436cf11b37a3aaac
+ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276525"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60080642"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail para Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 31 de janeiro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 30 de setembro de 2021</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380723" target="_blank">Exibir no AppSource</a>
 
@@ -70,7 +70,7 @@ Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que n�
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| SharePoint | Sim | SharePoint URLs, nomes de biblioteca/lista/pasta | As informações organizacionais acessadas por são usadas para facilitar o processo de salvar emails e anexos de Exchange para SharePoint. Esses dados adicionais não são armazenados em repouso e são criptografados em trânsito. Exemplos desses dados incluem SharePoint de coluna, como valores de coluna De escolha, valores de taxonomia, nomes de Tipo de Conteúdo, Nomes de Pasta, Nomes de Site.  | Embora esses dados não são armazenados ou coletados pelo aplicativo, eles podem aparecer em telemetria/logs em que são mantidos por 90 dias. | Os dados não são armazenados |
+>| Microsoft Office SharePoint Online | Sim | SharePoint URLs, nomes de biblioteca/lista/pasta | As informações organizacionais acessadas por são usadas para facilitar o processo de salvar emails e anexos de Exchange para SharePoint. Esses dados adicionais não são armazenados em repouso e são criptografados em trânsito. Exemplos desses dados incluem SharePoint de coluna, como valores de coluna De escolha, valores de taxonomia, nomes de Tipo de Conteúdo, Nomes de Pasta, Nomes de Site.  | Embora esses dados não são armazenados ou coletados pelo aplicativo, eles podem aparecer em telemetria/logs em que são mantidos por 90 dias. | Os dados não são armazenados |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
@@ -126,7 +126,7 @@ Essas informações foram fornecidas pelas Soluções do OnePlace sobre como ess
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
-| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
 | As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
