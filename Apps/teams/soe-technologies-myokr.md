@@ -1,0 +1,140 @@
+---
+title: Informações do aplicativo para myOKR por TECNOLOGIAS SOE
+ms.author: elmalova
+author: elenamalova
+ms.date: 06/18/2021
+ms.topic: article
+ms.service: attestation
+certification_type: attested
+description: Todas as informações de segurança e conformidade disponíveis para myOKR, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 94d5b0056961f509423819a04160e87bb4b5e3e0
+ms.sourcegitcommit: e339fa9776aae99797dbc1f0a28932e71b4eb823
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131713"
+---
+# <a name="myokr"></a>myOKR
+
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>Última atualização pelo desenvolvedor em: 18 de junho de 2021</p>
+
+* <a href="https://teams.microsoft.com/l/app/c0b70874-2c95-4be7-a0cb-0d893e25a2a3" target="_blank">Exibir no Teams store</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003308" target="_blank">Exibir no AppSource</a>
+
+::: zone pivot="general"
+
+### <a name="general-information"></a>Informações gerais
+
+Informações fornecidas pelas Tecnologias SOE para a Microsoft:
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Nome do aplicativo | myOKR |
+| ID | WA200003308 |
+| Office 365 clientes com suporte | Microsoft Teams |
+| Nome da empresa de parceiro | TECNOLOGIAS SOE |
+| URL do site do parceiro | [https://www.myokr.co](https://www.myokr.co) |
+| URL da página Teams de informações do aplicativo | [https://www.myokr.co](https://www.myokr.co) |
+| URL da Política de Privacidade | [https://www.myokr.co/privacy](https://www.myokr.co/privacy) |
+| URL dos Termos de Uso | [https://www.myokr.co/terms](https://www.myokr.co/terms) |
+
+ [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="data"
+
+### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
+
+Essas informações foram fornecidas pelas Tecnologias SOE sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+
+Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+
+>| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | delegado | Obter detalhes do calendário do usuário para criar uma reunião 1:1 no calendário do usuário, atualizar ou excluir criado pela plataforma myOKR e mostrar intervalos de tempo livre | Armazenamos id de calendário criado e insalvando URL no banco de dados para as reuniões criadas na plataforma myOKR | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
+>| User.Read | delegado | Usamos a ID do objeto do azure do usuário para fazer logon do usuário no aplicativo myOKR usando a autenticação da Microsoft no email | id de objeto ativo do azure e email do usuário | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
+>| User.Read.All | aplicação | Sincronizar informações do usuário com a plataforma myOKR e exibe a análise do aplicativo myOKR para o administrador com base em vários cortes de usuário, como local, gerente de &amp; departamento | Armazenamos informações de id, nome, email, departamento, título e gerente do usuário no sistema myOKR | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
+>| offline_access | delegado | ID do active directory do Azure do usuário | Usamos o acesso offline para criar reuniões recorrentes no calendário do usuário | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
+>| openid | delegado | Usamos a ID do objeto do azure do usuário para fazer logon do usuário no aplicativo myOKR usando a autenticação da Microsoft | A ID ativa do azure do usuário é armazenada no email | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
+
+
+#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
+
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+
+>Não serviços Microsoft não são usados.
+
+#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
+
+Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
+
+>| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| A ID do Diretório Ativo do Azure do usuário é armazenar no email do usuário para enviar mensagens proativas pelo bot. | Email, Nome, Informações do Gerente, Título, ID Azure Active Directory usuário  | Essas informações são usadas no aplicativo myOKR para criar conta de usuário, permitir que o gerente exsibile seus detalhes do reporte sobre o platfrom, permitir que o administrador ex view overall analytics and reports based on department, location and manager |
+
+
+#### <a name="telemetry-data"></a>Dados de telemetria
+
+Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+
+>Nenhum OII ou EUII aparece nos logs ou telemetria de aplicativos.
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
+
+Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
+
+>O SPOC da organização comunica-se conosco para encerramento do serviço e seus dados são excluídos após 30 dias após a intimação e rolados dos back-ups do banco de dados após 30 dias adicionais.
+
+#### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
+
+Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
+
+>Não
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="mcas"
+
+As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Informações de identidade
+
+Essas informações foram fornecidas pelas Tecnologias SOE sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
+| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
+| Seu aplicativo dá suporte a multi-enancy? | Sim |
+| Seu aplicativo tem um cliente confidencial? | Sim |
+| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Seu aplicativo expõe alguma APIs da Web? | Não |
+| Seu aplicativo usa APIs de visualização? | Não |
+| Seu aplicativo usa APIs preteridas? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
