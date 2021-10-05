@@ -66,6 +66,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA104381012.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/adobe-inc-sign-for-sharepoint",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381155.md",
       "redirect_url": "/microsoft-365-app-certification/word/adobe-inc-sign-for-word-and-powerpoint",
       "redirect_document_id": false
@@ -186,11 +191,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200003118.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/esri-inc-arcgis-maps",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002859.md",
       "redirect_url": "/microsoft-365-app-certification/teams/esri-arcgis-maps",
       "redirect_document_id": false
@@ -198,6 +198,11 @@
     {
       "source_path": "Apps/forward/ba4eda44-cd55-4e15-855c-0debafb0490b.md",
       "redirect_url": "/microsoft-365-app-certification/teams/esri-arcgis-maps",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003118.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/esri-inc-arcgis-maps",
       "redirect_document_id": false
     },
     {
@@ -1241,11 +1246,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104379617.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/evernote",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104381639.md",
       "redirect_url": "/microsoft-365-app-certification/teams/evernote",
       "redirect_document_id": false
@@ -1253,6 +1253,11 @@
     {
       "source_path": "Apps/forward/4e1f8576-93d5-4c24-abb5-f02782e00a4e.md",
       "redirect_url": "/microsoft-365-app-certification/teams/evernote",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA104379617.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/evernote",
       "redirect_document_id": false
     },
     {
@@ -1706,6 +1711,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003216.md",
+      "redirect_url": "/microsoft-365-app-certification/excel/impression-signatures",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003199.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/impression-signatures-for-outlook",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200003194.md",
       "redirect_url": "/microsoft-365-app-certification/teams/rockdove-solutions-inc-in-case-of-crisis",
       "redirect_document_id": false
@@ -1986,11 +2001,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/elearningforce.lms365_spfx.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/elearningforce-international-aps-lms365",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104381467.md",
       "redirect_url": "/microsoft-365-app-certification/teams/elearningforce-international-lms365",
       "redirect_document_id": false
@@ -1998,6 +2008,11 @@
     {
       "source_path": "Apps/forward/d136f17e-df84-47f2-97a4-13aa24c0c647.md",
       "redirect_url": "/microsoft-365-app-certification/teams/elearningforce-international-lms365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/elearningforce.lms365_spfx.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/elearningforce-international-aps-lms365",
       "redirect_document_id": false
     },
     {
@@ -3891,6 +3906,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003311.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/tiandm-ag-ti8m-places",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/9e384ce2-2db2-412e-8da7-08c5cf4c418e.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/tiandm-ag-ti8m-places",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002602.md",
       "redirect_url": "/microsoft-365-app-certification/teams/cireson-tikit",
       "redirect_document_id": false
@@ -4266,11 +4291,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200000391.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/jiji-technologies-private-limited-wunder365",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200000742.md",
       "redirect_url": "/microsoft-365-app-certification/teams/jiji-technologies-pvt-ltd-wunder365",
       "redirect_document_id": false
@@ -4278,6 +4298,11 @@
     {
       "source_path": "Apps/forward/7e8f9ad5-07d9-4259-8713-d316f451cbf3.md",
       "redirect_url": "/microsoft-365-app-certification/teams/jiji-technologies-pvt-ltd-wunder365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200000391.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/jiji-technologies-private-limited-wunder365",
       "redirect_document_id": false
     },
     {
