@@ -186,6 +186,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003118.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/esri-inc-arcgis-maps",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002859.md",
       "redirect_url": "/microsoft-365-app-certification/teams/esri-arcgis-maps",
       "redirect_document_id": false
@@ -193,11 +198,6 @@
     {
       "source_path": "Apps/forward/ba4eda44-cd55-4e15-855c-0debafb0490b.md",
       "redirect_url": "/microsoft-365-app-certification/teams/esri-arcgis-maps",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200003118.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/esri-inc-arcgis-maps",
       "redirect_document_id": false
     },
     {
@@ -991,6 +991,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003298.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/educatieve-uitgeversgroep-bv-digiplein",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/9a58f891-dad9-4c01-bf1a-3c418fb6b282.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/educatieve-uitgeversgroep-bv-digiplein",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200001909.md",
       "redirect_url": "/microsoft-365-app-certification/teams/disastertech-dice",
       "redirect_document_id": false
@@ -1326,6 +1336,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003303.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/infographics-uk-ltd-firewatch",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/822055b4-508e-49c8-b7cc-c891ccb5c4eb.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/infographics-uk-ltd-firewatch",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200003117.md",
       "redirect_url": "/microsoft-365-app-certification/teams/floqast",
       "redirect_document_id": false
@@ -1626,6 +1646,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003302.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/humu-inc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/7fbbb34f-a0fa-471b-9c2a-abc15daad3cb.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/humu-inc",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200000160.md",
       "redirect_url": "/microsoft-365-app-certification/teams/hunchbuzz",
       "redirect_document_id": false
@@ -1726,13 +1756,13 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/17859280.iplannerpro.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/iglobe-iplanner-pro-office-365",
+      "source_path": "Apps/forward/WA104380464.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104380464.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
+      "source_path": "Apps/forward/17859280.iplannerpro.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/iglobe-iplanner-pro-office-365",
       "redirect_document_id": false
     },
     {
@@ -2676,6 +2706,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003306.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/popp-communications-cloud-voip-connector",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/popp-communications-cloud-voip-connector",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002658.md",
       "redirect_url": "/microsoft-365-app-certification/teams/postbeyond",
       "redirect_document_id": false
@@ -2696,6 +2736,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA104380739.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381384.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
       "redirect_document_id": false
@@ -2703,11 +2748,6 @@
     {
       "source_path": "Apps/forward/90381cb0-998f-4ba3-9699-130201de5ddb.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA104380739.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
       "redirect_document_id": false
     },
     {
@@ -3166,11 +3206,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200002128.md",
-      "redirect_url": "/microsoft-365-app-certification/excel/sheetgo-europe-sl",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002067.md",
       "redirect_url": "/microsoft-365-app-certification/teams/sheetgo-europe-sl",
       "redirect_document_id": false
@@ -3178,6 +3213,11 @@
     {
       "source_path": "Apps/forward/583de270-58d0-4f94-af06-bf971f82fd94.md",
       "redirect_url": "/microsoft-365-app-certification/teams/sheetgo-europe-sl",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002128.md",
+      "redirect_url": "/microsoft-365-app-certification/excel/sheetgo-europe-sl",
       "redirect_document_id": false
     },
     {
