@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos SaaS - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/08/2021
+ms.date: 10/12/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos SaaS.
 localization_priority: Normal
-ms.openlocfilehash: f96fe39f0947dfc5f9e78b9226d4a7bc0b6a5203
-ms.sourcegitcommit: 085c227ffcf8f88e6e55d3c40752a3df25642592
+ms.openlocfilehash: 54ea847ba4234990c18870cc3d4f269736e9aa96
+ms.sourcegitcommit: 1d47df35430334cfc0c60f7ea0b62392b99b7cbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2021
-ms.locfileid: "60255664"
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60284523"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Segurança e Conformidade de Aplicativos SaaS
 
@@ -27,6 +27,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Selador de imagem](./officeatwork-image-chooser.md) | officeatwork | **✓** |  |
 | [iPlanner Pro Office 365](./iglobe-iplanner-pro-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [LMS365](./elearningforce-international-aps-lms365.md) | ELEARNINGFORCE International Aps | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Luware Nimbus para Microsoft Teams](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** |  |
 | [MIPA - Meu Assistente Pessoal Inteligente](./iglobe-mipa-my-intelligent-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [MyHub para Teams](./avepoint-inc-myhub-for-teams.md) | AvePoint Inc. | **✓** |  |
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

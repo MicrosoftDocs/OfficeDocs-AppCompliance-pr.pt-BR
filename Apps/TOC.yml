@@ -101,6 +101,10 @@
           href: outlook/iglobe-iplanner-pro-office-365.md
         - name: Nuvem Jira para Outlook (Oficial)
           href: outlook/atlassiancom-jira-cloud-for-outlook-official.md
+        - name: Prazos do LawToolBox e Gerenciamento de Outlook
+          href: outlook/lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md
+        - name: 'LawToolBox Importa para Outlook, Teams e SharePoint'
+          href: outlook/lawtoolboxcom-inc-lawtoolbox-matters-for-outlook-teams-and-sharepoint.md
         - name: MIPA - Seu próprio assistente pessoal
           href: outlook/iglobe-mipa-your-own-personal-assistant.md
         - name: ngDesk
@@ -345,7 +349,7 @@
           href: teams/atlassian-confluence-cloud.md
         - name: Conector de Confluência
           href: teams/move-work-forward-confluence-connector.md
-        - name: Connect+
+        - name: Conexão+
           href: teams/reward-gateway-connectplus.md
         - name: Contact Center
           href: teams/landis-technologies-llc-contact-center.md
@@ -371,6 +375,8 @@
           href: teams/degreed.md
         - name: DELTAoverC
           href: teams/deltaoverc.md
+        - name: Desk365
+          href: teams/kani-technologies-inc-desk365.md
         - name: Digiplein
           href: teams/educatieve-uitgeversgroep-bv-digiplein.md
         - name: DisasterTech DICE
@@ -529,12 +535,16 @@
           href: teams/sliday-ltd-karma.md
         - name: Kazoo
           href: teams/kazoo.md
+        - name: Keepass Pro
+          href: teams/witivio-keepass-pro.md
         - name: Klaxoon
           href: teams/klaxoon.md
         - name: Koan
           href: teams/koan-inc.md
         - name: Kudozza
           href: teams/survivef5-gmbh-kudozza.md
+        - name: Kunjani
+          href: teams/faceboard-pty-ltd-kunjani.md
         - name: LawToolBox
           href: teams/lawtoolboxcom-inc-lawtoolbox.md
         - name: Saiba mais
@@ -555,7 +565,7 @@
           href: teams/elearningforce-international-lms365.md
         - name: Loops - Aprendizado criativo
           href: teams/skooler-loops-creative-learning.md
-        - name: Cliente LTI
+        - name: LTI Client
           href: teams/flipick-pvt-ltd-lti-client.md
         - name: Luca
           href: teams/lucca.md
@@ -585,6 +595,8 @@
           href: teams/mentimeter.md
         - name: Lembrete de Mensagem
           href: teams/message-reminder.md
+        - name: MGR360
+          href: teams/mgr360.md
         - name: Micromate
           href: teams/paixon-gmbh-micromate.md
         - name: MindManager
@@ -645,6 +657,8 @@
           href: teams/officespace-software.md
         - name: Officevibe
           href: teams/officevibe.md
+        - name: OLIVE VLE
+          href: teams/olivegroup-olive-vle.md
         - name: Onluyen
           href: teams/edmicro-onluyen.md
         - name: Onsight Connect
@@ -763,8 +777,6 @@
           href: teams/sentry.md
         - name: ServiceDesk Plus Cloud
           href: teams/zoho-corporation-private-limited-servicedesk-plus-cloud.md
-        - name: Sheetgo
-          href: teams/sheetgo-europe-sl.md
         - name: SHL
           href: teams/shl.md
         - name: Shortlinks
@@ -881,7 +893,7 @@
           href: teams/teamschamp.md
         - name: TeamSticker por Communitio
           href: teams/communitio-corporation-teamsticker-by.md
-        - name: Teamwork
+        - name: Trabalho em equipe
           href: teams/teamwork.md
         - name: Conexão TELUS Business
           href: teams/ringcentral-inc-telus-business-connect.md
@@ -1063,6 +1075,8 @@
           href: saas/iglobe-iplanner-pro-office-365.md
         - name: LMS365
           href: saas/elearningforce-international-aps-lms365.md
+        - name: Luware Nimbus para Microsoft Teams
+          href: saas/luware-ag-nimbus-for-microsoft-teams.md
         - name: MIPA - Meu Assistente Pessoal Inteligente
           href: saas/iglobe-mipa-my-intelligent-personal-assistant.md
         - name: MyHub para Teams
