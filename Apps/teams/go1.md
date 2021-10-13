@@ -2,24 +2,24 @@
 title: Informações do aplicativo para Go1 por Go1
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/03/2020
+ms.date: 08/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Go1, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d6fa3c9d0ecf710724379da869fba4b0cec23f6a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 265d4cf5cef2f7fb685159ebf2cb6d516d32cb0f
+ms.sourcegitcommit: 1d47df35430334cfc0c60f7ea0b62392b99b7cbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276295"
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60287353"
 ---
 # <a name="go1"></a>Go1
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 3 de junho de 2020</p>
+<p>Última atualização pelo desenvolvedor em: 23 de agosto de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/c859de61-8a6b-42e6-ba88-f639df33bc72" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001484" target="_blank">Exibir no AppSource</a>
@@ -37,7 +37,7 @@ Informações fornecidas pelo Go1 para a Microsoft:
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Go1 |
 | URL do site do parceiro | [https://www.go1.com/user/login](https://www.go1.com/user/login) |
-| URL da Política de Privacidade | [https://www.go1.com/en-au/terms/privacy-policy](https://www.go1.com/en-au/terms/privacy-policy) |
+| URL da Política de Privacidade | [https://www.go1.com/terms/privacy-policy](https://www.go1.com/terms/privacy-policy) |
 | URL dos Termos de Uso | [https://www.go1.com/en-au/terms/user-terms](https://www.go1.com/en-au/terms/user-terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -67,7 +67,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Os usuários de primeiro e último nome podem ser compartilhados com os provedores de conteúdo do GO1 ao jogar conteúdo do curso. Isso é compartilhado apenas quando o provedor de conteúdo exige isso para provedor de uma experiência de aprendizado personalizada. |  | N/A |
+>| Os usuários de primeiro e último nome podem ser compartilhados com os provedores de conteúdo do GO1 ao jogar conteúdo do curso. Isso é compartilhado apenas quando o provedor de conteúdo exige isso para provedor de uma experiência de aprendizado personalizada. | Nome, Sobrenome, Endereço de Email | N/D |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -110,3 +110,28 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>Informações de identidade
+
+Essas informações foram fornecidas por Go1 sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Não |
+| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Não |
+| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Não |
+| Seu aplicativo dá suporte a multi-enancy? | Sim |
+| Seu aplicativo tem um cliente confidencial? | Não |
+| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/><br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Seu aplicativo expõe alguma APIs da Web? | Não |
+| Seu aplicativo usa APIs de visualização? | Não |
+| Seu aplicativo usa APIs preteridas? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
