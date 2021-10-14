@@ -55,6 +55,8 @@
           href: excel/cc-1c-quickcells-graphs.md
         - name: QuickCells Solvers
           href: excel/cc-1c-quickcells-solvers.md
+        - name: Report Builder
+          href: excel/adobe-inc-report-builder.md
         - name: Sheetgo
           href: excel/sheetgo-europe-sl.md
         - name: Wunder365 para Office
@@ -349,7 +351,7 @@
           href: teams/atlassian-confluence-cloud.md
         - name: Conector de Confluência
           href: teams/move-work-forward-confluence-connector.md
-        - name: Conexão+
+        - name: Connect+
           href: teams/reward-gateway-connectplus.md
         - name: Contact Center
           href: teams/landis-technologies-llc-contact-center.md
@@ -537,6 +539,8 @@
           href: teams/kazoo.md
         - name: Keepass Pro
           href: teams/witivio-keepass-pro.md
+        - name: Kipa
+          href: teams/klippas-technologies-inc-kippa.md
         - name: Klaxoon
           href: teams/klaxoon.md
         - name: Koan
@@ -761,6 +765,8 @@
           href: teams/salestim.md
         - name: ScanBuddy.ai
           href: teams/moblizeit-llc-scanbuddyai.md
+        - name: Bem-estar do Dia da Escola
+          href: teams/school-day-helsinki-oy-wellbeing.md
         - name: ScrumGenius
           href: teams/scrumgenius.md
         - name: SecretaryBot
@@ -925,6 +931,8 @@
           href: teams/trivie-inc.md
         - name: Tryane Analytics
           href: teams/tryane-analytics.md
+        - name: UKG Pro
+          href: teams/ukg-inc-pro.md
         - name: UserVoice
           href: teams/uservoice.md
         - name: Vacation Tracker
@@ -1172,6 +1180,8 @@
           href: azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c.md
         - name: 2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb
           href: azure/2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb.md
+        - name: 2f05d0f8-3f87-4a59-952d-33c69c24a6d9
+          href: azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9.md
         - name: 32eae2b8-2111-431f-9263-e8e1120d0a97
           href: azure/32eae2b8-2111-431f-9263-e8e1120d0a97.md
         - name: 33ccef75-8248-44e8-88d3-24526ca9c2d3
