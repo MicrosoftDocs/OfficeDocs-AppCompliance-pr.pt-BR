@@ -6,12 +6,12 @@ description: Microsoft 365 Exibição granular do Guia de Envio de Certificaçã
 keywords: equipes de certificação de aplicativos Microsoft 365 conformidade de segurança m365 envio de documento inicial
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: f8b45c5130d4c4a231f2d7ce7b1bc6992757bf46
-ms.sourcegitcommit: 1e461d44be2da90b41fdcb60b35a6a180d52c9d6
+ms.openlocfilehash: 0352b64649d87b40d185a2bc06ce23da6cf341ef
+ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59497092"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60378809"
 ---
 # <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 Ceritification - Guia inicial de envio de documento
 
@@ -24,27 +24,11 @@ Inclua o relatório de teste de penetração completa com datas que foram conclu
 -   Este relatório deve incluir o ambiente que dá suporte à implantação do aplicativo/adicionar juntamente com qualquer ambiente adicional que suporte a operação do aplicativo/complementos.
 
 
-## <a name="software-inventory"></a>Inventário de software
+## <a name="system-component-inventory"></a>Inventário de Componentes do Sistema
 
-Um inventário de software atualizado que inclui todos os softwares usados no ambiente no escopo juntamente com as versões.
+Um inventarátório atualizado de todos os componentes do sistema usados pela infraestrutura de suporte. Isso será usado para ajudar na amostragem ao executar a fase de avaliação. Se seu ambiente incluir PaaS, será útil se você puder fornecer detalhes de todos os serviços PaaS consumidos.
 
-**Exemplo:**
-
-|Software|  Publisher|  Versão|     Objetivo|
-|-|-|-|-|
-|Windows Server|    Microsoft 2016 | Build 14393| Sistema operacional do servidor para o ambiente de produção|.
-|Linux Ubuntu|  N/A|    16,04 (Xenial)| Sistema operacional do servidor em uso no DMZ.|
-|ESXi|  VMWare| 6.5.0 (build 13004031)| Usado para dar suporte aos servidores virtuais.|
-|Mysql (Windows)|   N/A|    8.0.2.1|    Servidor de banco de dados para armazenar o histórico de chat.|
-|Tomcat|        Apache| 7.0.92| Portal do cliente.|
-|IIS|   Microsoft|  10.0|   Dá suporte às APIs.|
-
-
-## <a name="hardware-inventory"></a>Inventário de Hardware
-
-Um inventário de hardware atualizado usado pela infraestrutura de suporte. Isso será usado para ajudar na amostragem ao executar a fase de avaliação. Se seu ambiente incluir PaaS, será útil se você puder fornecer detalhes de todos os serviços PaaS consumidos.
-
-**Observação:** IaaS/PaaS não teria nenhum hardware que estaria sob o controle ISVs.  
+**Observação:** IaaS/PaaS não teria nenhum hardware que estaria sob o controle ISVs.  Nesse caso, forneça uma lista ou captura de tela de todos os recursos viruais.
 
 **Exemplo:**
 
@@ -56,7 +40,23 @@ Um inventário de hardware atualizado usado pela infraestrutura de suporte. Isso
 |LXM2|  Máquina Linux|  Máquina de teste|N/D|N/D|       
 
 
-## <a name="web-dependencies"></a>Dependências da Web
+## <a name="software-inventory"></a>Inventário de software
+
+Um inventário atualizado de todos os ativos de software, incluindo todos os softwares usados no ambiente no escopo, juntamente com as versões.
+
+**Exemplo:**
+
+|Software|  Publisher|  Versão|     Objetivo|
+|-|-|-|-|
+|Windows Server|    Microsoft 2016 | Build 14393| Sistema operacional do servidor para o ambiente de produção|.
+|Linux Ubuntu|  N/D|    16,04 (Xenial)| Sistema operacional do servidor em uso no DMZ.|
+|ESXi|  VMWare| 6.5.0 (build 13004031)| Usado para dar suporte aos servidores virtuais.|
+|Mysql (Windows)|   N/D|    8.0.2.1|    Servidor de banco de dados para armazenar o histórico de chat.|
+|Tomcat|        Apache| 7.0.92| Portal do cliente.|
+|IIS|   Microsoft|  10.0|   Dá suporte às APIs.|
+
+
+## <a name="third-party-dependencies"></a>Dependências de terceiros
 
 Documentação listando todas as dependências usadas pelo aplicativo/complemento com as versões em execução atuais.
 

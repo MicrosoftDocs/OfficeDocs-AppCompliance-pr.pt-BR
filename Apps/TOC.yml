@@ -180,6 +180,8 @@
           href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
         - name: Alternar para SharePoint
           href: sharepoint/gagglenet-inc-gaggle-for-sharepoint.md
+        - name: HelloSign para SharePoint
+          href: sharepoint/dropbox-inc-hellosign-for-sharepoint.md
         - name: Complementos do iGlobe CRM
           href: sharepoint/iglobe-crm-add-ons.md
         - name: IGlobe CRM Office 365 para Microsoft Office 365
@@ -192,6 +194,8 @@
           href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
         - name: Colaboração do Power BI
           href: sharepoint/ataira-power-bi-collaboration.md
+        - name: Reserva de Eventos Mais Inteligentes
+          href: sharepoint/smarter-business-solutions-gmbh-event-booking.md
     - name: Microsoft Teams Aplicativos
       href: teams/teams-apps.md
       items:
@@ -539,7 +543,7 @@
           href: teams/kazoo.md
         - name: Keepass Pro
           href: teams/witivio-keepass-pro.md
-        - name: Kipa
+        - name: Kippa
           href: teams/klippas-technologies-inc-kippa.md
         - name: Klaxoon
           href: teams/klaxoon.md
@@ -689,6 +693,8 @@
           href: teams/rubius-planyway-team-calendar.md
         - name: PlayQuiz - Aprende e Juega
           href: teams/teamschamp-playquiz-aprende-and-juega.md
+        - name: Plumm
+          href: teams/plumm-health-ltd.md
         - name: Polly
           href: teams/polly.md
         - name: Conector VoIP Nuvem POPP
@@ -765,7 +771,7 @@
           href: teams/salestim.md
         - name: ScanBuddy.ai
           href: teams/moblizeit-llc-scanbuddyai.md
-        - name: Bem-estar do Dia da Escola
+        - name: Bem-estar do Dia Escolar
           href: teams/school-day-helsinki-oy-wellbeing.md
         - name: ScrumGenius
           href: teams/scrumgenius.md
@@ -1264,6 +1270,8 @@
           href: azure/57de46f8-193a-400c-9a34-c862333aed55.md
         - name: 5971c986-9d39-409c-a6f8-1385b1f690ef
           href: azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md
+        - name: 597cc93d-8951-4f62-b549-eca97ba5c042
+          href: azure/597cc93d-8951-4f62-b549-eca97ba5c042.md
         - name: 5be2b320-a5b7-4221-893c-dee506e4e365
           href: azure/5be2b320-a5b7-4221-893c-dee506e4e365.md
         - name: 5e4dadf5-9f90-449b-9e39-934fd10b7c23
@@ -1274,6 +1282,8 @@
           href: azure/5f1f4eb7-479e-42f3-b86f-4c1f53e1c222.md
         - name: 5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e
           href: azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md
+        - name: 61dc5e28-775a-4dd0-8990-aaabe3be9e2f
+          href: azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f.md
         - name: 621d9ae7-c14e-4fab-9604-63e1ffc9e721
           href: azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721.md
         - name: 626ce0a3-4620-483d-953d-53b106b9ffad
@@ -1314,6 +1324,8 @@
           href: azure/7a483472-4f1b-4c75-bff3-7a48dae227dc.md
         - name: 7afd058a-f568-4496-96b1-28d06ab3500f
           href: azure/7afd058a-f568-4496-96b1-28d06ab3500f.md
+        - name: 7c90e3d4-5233-4e49-8753-36cd5feb7fa0
+          href: azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0.md
         - name: 7cb50e3e-0427-409e-90d2-638eb28217c3
           href: azure/7cb50e3e-0427-409e-90d2-638eb28217c3.md
         - name: 806359be-da23-4538-80bb-baa82107ec2d
@@ -1390,6 +1402,8 @@
           href: azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md
         - name: a9a866c4-e5cf-47f2-932c-db14cb89008f
           href: azure/a9a866c4-e5cf-47f2-932c-db14cb89008f.md
+        - name: a9b0c190-bafb-49ca-a61a-dab99cf2c43b
+          href: azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md
         - name: a9d28fcf-036e-4a85-9003-332303e3a29b
           href: azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md
         - name: aa1c54a1-f482-424d-9389-dbd131233483
