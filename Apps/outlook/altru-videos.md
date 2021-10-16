@@ -2,18 +2,18 @@
 title: Informações do aplicativo para vídeos altru por Altru
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/27/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Vídeos Altru, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 50f3b5adfb587502d852637e3465ff1cc5c06db8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b700fd30d724c7c708d2be61bfe778dd54446f72
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276257"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60404748"
 ---
 # <a name="altru-videos"></a>Vídeos altru
 
@@ -111,3 +111,4 @@ Essas informações foram fornecidas pela Altru sobre como esse aplicativo lida 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

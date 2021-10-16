@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Wrike pela Wrike Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/04/2021
+ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Wrike, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f5f044ee38389321d9f566d1e5f8e5c95586df4c
-ms.sourcegitcommit: e339fa9776aae99797dbc1f0a28932e71b4eb823
+ms.openlocfilehash: df1592c144238d87643602613bec173f63714e82
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60131694"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60405840"
 ---
 # <a name="wrike"></a>Wrike
 
@@ -135,3 +135,4 @@ Essas informações foram fornecidas pela Wrike Inc. sobre como esse aplicativo 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
