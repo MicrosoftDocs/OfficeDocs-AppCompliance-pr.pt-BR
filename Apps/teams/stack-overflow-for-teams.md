@@ -2,18 +2,18 @@
 title: Informações do aplicativo para estouro de pilha para Teams por Estouro de Pilha
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2020
+ms.date: 12/17/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Stack Overflow para Teams, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7ea59acc5a3a85fd8ad827947c117266e95901fd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3c6493326d8b58ad4c8e7e4fc5486a7f03cd2b8b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277674"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410835"
 ---
 # <a name="stack-overflow-for-teams"></a>Stack Overflow para o Teams
 
@@ -107,4 +107,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

@@ -2,18 +2,18 @@
 title: Informações do aplicativo para o Saberr pelo Saberr
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/11/2021
+ms.date: 02/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Saberr, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4445df9966efc07b0aa2e80b4ec7c061b451e343
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 87c1fbd609d7e6c5a04bfbccca1bdc7fadbf3354
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277682"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411516"
 ---
 # <a name="saberr"></a>Saberr
 
@@ -131,3 +131,4 @@ Essas informações foram fornecidas pelo Saberr sobre como esse aplicativo lida
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

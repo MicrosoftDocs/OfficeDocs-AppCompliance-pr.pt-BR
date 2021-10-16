@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Site24x7 pela Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Site24x7, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bbcd20206e1520327e65b36f97690c197bb2f258
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 26d0147e95a7e9a71aaa6a017eb8d2ad5e8ec453
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59275968"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411336"
 ---
 # <a name="site24x7"></a>Site24x7
 
@@ -99,4 +99,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

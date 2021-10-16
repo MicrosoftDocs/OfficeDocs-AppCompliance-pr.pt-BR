@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Axlleron por Axlleron
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/16/2021
+ms.date: 05/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Axlleron, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5a6d89c0647632c26f67ab388eada9f7be225149
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9d820b29d8c31c68d75df7d11fca6c4506292655
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277623"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410405"
 ---
 # <a name="axelleron"></a>Axelleron
 
@@ -117,3 +117,4 @@ Essas informações foram fornecidas por Axlleron sobre como esse aplicativo lid
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Wunder365, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 71d163c9dc86fbd21fc9032abcc732168b8210eb
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 81f30170d7aed41a9038a31512b62f4eea24b42d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276484"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410164"
 ---
 # <a name="wunder365"></a>Wunder365
 
@@ -95,7 +95,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Todos os aplicativos Web e Armazenamento recursos estão localizados em uma assinatura que não está conectada à AAD da nossa empresa com apenas administradores que têm acesso aos recursos. O 2FA é necessário para esses administradores. 
+>Todos os aplicativos Web e Armazenamento recursos estão localizados em uma assinatura que não está conectada à nossa empresa AAD somente administradores que têm acesso aos recursos. O 2FA é necessário para esses administradores. 
 
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
@@ -146,3 +146,4 @@ Essas informações foram fornecidas pela JiJi Technologies Pvt Ltd sobre como e
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

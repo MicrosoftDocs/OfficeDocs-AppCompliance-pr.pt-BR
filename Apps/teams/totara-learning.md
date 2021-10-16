@@ -2,18 +2,18 @@
 title: Informações de aplicativo para Totara por Totara Learning
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/01/2021
+ms.date: 09/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Totara, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 5537ae869e4003664d71d4f04036548c432a1b8b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 084e5edc17f88f72623d32c8654b9444fe951eff
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276146"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411406"
 ---
 # <a name="totara"></a>Totara
 
@@ -35,7 +35,7 @@ Informações fornecidas por Totara Learning para a Microsoft:
 | Nome do aplicativo | Totara |
 | ID | WA200003222 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Totara Learning |
+| Nome da empresa de parceiro | Aprendizagem do Totara |
 | URL do site do parceiro | [https://www.totaralearning.com](https://www.totaralearning.com) |
 | URL da página Teams de informações do aplicativo | [https://www.totaralearning.com/products/totara-talent-exper...](https://www.totaralearning.com/products/totara-talent-experience-platform) |
 | URL da Política de Privacidade | [https://www.totaralearning.com/en/privacy-policy](https://www.totaralearning.com/en/privacy-policy) |
@@ -95,17 +95,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -120,3 +109,4 @@ Essas informações foram fornecidas por Totara Learning sobre como esse aplicat
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

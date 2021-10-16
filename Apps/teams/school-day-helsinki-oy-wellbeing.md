@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Bem-estar do Dia da Escola, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9b953bd648ecc795e57e22dd505676d755b1ee32
-ms.sourcegitcommit: d49943662d5e28a9c1289ee23318818f1f68ff96
+ms.openlocfilehash: babc51460ddb23fd19007f2ebfc8ebab00300a69
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2021
-ms.locfileid: "60337901"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60408420"
 ---
-# <a name="school-day-wellbeing"></a>Bem-estar do Dia da Escola
+# <a name="school-day-wellbeing"></a>Bem-estar do Dia Escolar
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Informações fornecidas pelo Oy do Dia da Escola de Helsínquia para a Microsof
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Bem-estar do Dia da Escola |
+| Nome do aplicativo | Bem-estar do Dia Escolar |
 | ID | WA200001430 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Oy do Dia da Escola de Helsínquia |
+| Nome da empresa de parceiro | Dia Escolar em Helsinque Oy |
 | URL do site do parceiro | [https://www.schoolday.com](https://www.schoolday.com) |
 | URL da página Teams de informações do aplicativo | [https://www.schoolday.com/en/resources/faq](https://www.schoolday.com/en/resources/faq) |
 | URL da Política de Privacidade | [https://www.schoolday.com/privacy](https://www.schoolday.com/privacy) |
@@ -109,17 +109,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -146,3 +135,4 @@ Essas informações foram fornecidas pelo Oy do Dia da Escola de Helsínquia sob
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

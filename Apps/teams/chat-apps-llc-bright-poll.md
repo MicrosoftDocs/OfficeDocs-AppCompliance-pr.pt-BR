@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Pesquisa Brilhante por Aplicativos de Chat, LLC
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/06/2021
+ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Bright Poll, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: af6e29845108dee6504e87864c80b5ef5a11aa16
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: cafd73f853c260c9d15218abfef95f7ddfb14234
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276511"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410375"
 ---
 # <a name="bright-poll"></a>Votações Brilhante
 
@@ -119,3 +119,4 @@ Essas informações foram fornecidas por Aplicativos de Chat, LLC sobre como ess
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

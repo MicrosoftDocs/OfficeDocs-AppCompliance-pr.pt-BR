@@ -2,18 +2,18 @@
 title: Informações do aplicativo para gerenciamento de treinamento de funcionários por SharePoint| Sapiens
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/31/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Gerenciamento de Treinamento de Funcionários, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a4d2ce3475ce082060bc632d439d0c79770486c2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 37505e2f1ba531b3aa1a03a3fb8c93e6da8f121a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276169"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410915"
 ---
 # <a name="employee-training-management"></a>Gerenciamento da Treinamento de Funcionários
 
@@ -141,3 +141,4 @@ Essas informações foram fornecidas por SharePoint| Sapiens sobre como esse apl
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

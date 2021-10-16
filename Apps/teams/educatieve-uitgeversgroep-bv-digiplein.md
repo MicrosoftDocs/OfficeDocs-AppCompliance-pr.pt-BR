@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Digiplein por Educatieve Uitgeversgroep B.V.
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/02/2021
+ms.date: 09/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Digiplein, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 92f299ff3838c2a8c25c0e5a624ebfad651bc0f8
-ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
+ms.openlocfilehash: 0f74b7dbe065573e2679404475c30251ac86cd53
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60112236"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411749"
 ---
 # <a name="digiplein"></a>Digiplein
 
@@ -35,7 +35,7 @@ Informações fornecidas pelo Educatieve Uitgeversgroep B.V. para a Microsoft:
 | Nome do aplicativo | Digiplein |
 | ID | WA200003298 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Educatieve Uitgeversgroep B.V. |
+| Nome da empresa de parceiro | Grupo de Editores Educacionais B.V. |
 | URL do site do parceiro | [https://www.uitgeversgroep.nl](https://www.uitgeversgroep.nl) |
 | URL da página Teams de informações do aplicativo | [https://www.uitgeversgroep.nl/digiplein](https://www.uitgeversgroep.nl/digiplein) |
 | URL da Política de Privacidade | [https://www.uitgeversgroep.nl/privacy](https://www.uitgeversgroep.nl/privacy) |
@@ -93,17 +93,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ Essas informações foram fornecidas pelo Educatieve Uitgeversgroep B.V. sobre c
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

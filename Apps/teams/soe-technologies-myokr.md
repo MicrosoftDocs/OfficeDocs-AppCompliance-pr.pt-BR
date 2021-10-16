@@ -2,18 +2,18 @@
 title: Informações do aplicativo para myOKR por TECNOLOGIAS SOE
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/18/2021
+ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para myOKR, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 94d5b0056961f509423819a04160e87bb4b5e3e0
-ms.sourcegitcommit: e339fa9776aae99797dbc1f0a28932e71b4eb823
+ms.openlocfilehash: c4a3e8872b8042f0114925c0e89de12b98ef5440
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60131713"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411466"
 ---
 # <a name="myokr"></a>myOKR
 
@@ -101,17 +101,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -138,3 +127,4 @@ Essas informações foram fornecidas pelas Tecnologias SOE sobre como esse aplic
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

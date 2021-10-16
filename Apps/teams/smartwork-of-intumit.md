@@ -2,18 +2,18 @@
 title: Informações do aplicativo para SmartWork pelo SmartWork of Intumit
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/23/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o SmartWork, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9df1a52e4634956a1a48984faeea9e4b453c03a4
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: fab20b7cfe9fd8008f98a44e473102acd6efbadc
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59275730"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410875"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -56,7 +56,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | delegado | Usando userPrincipalName para identificar se o email do usuário é de um AAD válido ou não | Entrar e ler o perfil do usuário | [a938ae1e-a791-4751-9e6a-178c991fa0fa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
+>| User.Read | delegado | Usando userPrincipalName para identificar se o email do usuário é de AAD ou não | Entrar e ler o perfil do usuário | [a938ae1e-a791-4751-9e6a-178c991fa0fa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -71,7 +71,7 @@ Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá ac
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Usando para identificar o email do usuário se é de um AAD válido ou não | Email do usuário | Lista de emails do usuário armazenado para identificar se o usuário é de um AAD válido ou não |
+>| Usando para identificar o email do usuário se é de um AAD válido ou não | Email do usuário | Lista de emails do usuário armazenado para identificar se o usuário vem de uma AAD válida ou não |
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
@@ -84,7 +84,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Somente você tem uma conta AAD válida pode acessar o aplicativo.
+>Somente você tem uma conta AAD pode acessar o aplicativo.
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -134,3 +134,4 @@ Essas informações foram fornecidas pelo SmartWork of Intumit sobre como esse a
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

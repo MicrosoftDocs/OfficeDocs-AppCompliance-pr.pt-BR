@@ -2,18 +2,18 @@
 title: Informações do aplicativo para NewCOS pela Newtech
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/17/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para NewCOS, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: cb787aa76a30e5c7b0559eaf4ec28b7035636fbe
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: baeb52e72158bcb796e90c5daea2bfdba9c80985
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277527"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411556"
 ---
 # <a name="newcos"></a>NewCOS
 
@@ -133,3 +133,4 @@ Essas informações foram fornecidas pela Newtech sobre como esse aplicativo lid
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

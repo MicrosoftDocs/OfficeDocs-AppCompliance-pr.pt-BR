@@ -2,18 +2,18 @@
 title: Informações do aplicativo para BOT de calendário por contato aprovado
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/10/2021
+ms.date: 05/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para BOT do Calendário, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9314d7712249dbbd8ad507e8c81eb47ddaa49ca9
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2259180e558201ab86eff52250ed962822700be1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59275773"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410425"
 ---
 # <a name="calendar-bot"></a>BOT de Calendário
 
@@ -137,3 +137,4 @@ Essas informações foram fornecidas pelo Contato Aprovado sobre como esse aplic
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

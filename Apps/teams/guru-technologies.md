@@ -2,18 +2,18 @@
 title: Informações de aplicativos para o Guru por Tecnologias do Guru
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/01/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Guru, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 87316d020c6658b00fe7e12cc7326917779f2623
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 014546ad1e5e4ee5beb0b8512ed2247e1ae34ccf
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276287"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411669"
 ---
 # <a name="guru"></a>Guru
 
@@ -120,3 +120,4 @@ Essas informações foram fornecidas pela Tecnologias da Guru sobre como esse ap
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

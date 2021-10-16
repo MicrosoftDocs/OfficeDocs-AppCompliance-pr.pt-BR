@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o AtBot, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d71404e66489ba3f1e81ca5f1a1a92c17b36f9e6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b5f7db2aba878720e33c5c1df2236fd034819dfb
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277470"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411659"
 ---
 # <a name="atbot"></a>AtBot
 
@@ -57,8 +57,8 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.Read.All | aplicação | Nome do grupo AAD, GUID do grupo AAD, UPN | Enumerar grupos AAD para permitir a recortação de segurança de habilidades de bot. Enumerar usuários para poder aplicar licenças. Enumerar usuários a adicionar como Administradores/Colaboradores | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| Directory.Read.All | delegado | Nome do grupo AAD, GUID do grupo AAD, UPN | Enumerar grupos AAD para permitir a recortação de segurança de habilidades de bot. Enumerar usuários para poder aplicar licenças. Enumerar usuários a adicionar como Administradores/Colaboradores | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| Directory.Read.All | aplicação | AAD Nome do grupo, AAD GUID do grupo, UPN | Enumerar AAD grupos para permitir o corte de segurança das habilidades de bot. Enumerar usuários para poder aplicar licenças. Enumerar usuários a adicionar como Administradores/Colaboradores | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| Directory.Read.All | delegado | AAD Nome do grupo, AAD GUID do grupo, UPN | Enumerar AAD grupos para permitir o corte de segurança das habilidades de bot. Enumerar usuários para poder aplicar licenças. Enumerar usuários a adicionar como Administradores/Colaboradores | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| People.Read | delegado | Não | Enumerar pessoas em uma ação Obter Pessoa Flow.  Permite que o bot recupere pessoas do ponto de extremidade /People no Microsoft Graph. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| User.Read | delegado | ID de locatário, UPN | Nos dá acesso ao usuário&#8217;ID de Locatário e UPN para nos permitir a adoção de Fluxos/Aplicativos Lógicos criados aos usuários que os criaram. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| email | delegado | Os endereços de email são usados para contatar o suporte por meio do nosso sistema de suporte. | Nos dá acesso ao endereço de email do usuário. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
@@ -92,7 +92,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Os administradores têm a capacidade de excluir configurações de bot que podem conter nomes/GUIDs de grupo do AAD.
+>Os administradores têm a capacidade de excluir configurações de bot que podem conter AAD nomes de grupo/GUIDs.
 Após o cancelamento do serviço, todos os UPNs serão removidos do banco de dados de licenciamento.
 Consulte 'Serviços do Azure' em Data Residency.  Grande parte dos dados específicos do cliente produzidos por meio do uso do AtBot é armazenada no locatário do cliente e, portanto, os administradores desse locatário têm controle total dos dados lá.
 
@@ -142,3 +142,4 @@ Essas informações foram fornecidas pela H3 Solutions, Inc. sobre como esse apl
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

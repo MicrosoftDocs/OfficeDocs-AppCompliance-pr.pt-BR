@@ -2,18 +2,18 @@
 title: Informações do aplicativo para o Agente Virtual Agora pelo ServiceNow
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/23/2020
+ms.date: 05/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Agente Virtual Now, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1ac2988c550894341d5933afbc59de6f63c51b68
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 20ae315016fa0d5cbc960616f09bfd350ceb5c43
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276585"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60408340"
 ---
 # <a name="now-virtual-agent"></a>Now Virtual Agent
 
@@ -101,4 +101,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

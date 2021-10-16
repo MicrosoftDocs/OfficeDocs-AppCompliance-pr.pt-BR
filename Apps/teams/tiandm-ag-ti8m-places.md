@@ -2,18 +2,18 @@
 title: Informações do aplicativo para locais ti8m por ti &amp; m AG
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/16/2021
+ms.date: 10/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para locais ti8m, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 0da49dc42dfb173165ad01f55d5d10c656c0e4e0
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: 92b67a17394d796e0d743c6b3c570698e54e2fec
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60123950"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411426"
 ---
 # <a name="ti8m-places"></a>locais ti8m
 
@@ -58,7 +58,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite.Shared | delegado | Cancelar eventos em calendários de locais de trabalho e usuários  | ID do evento se uma Entrada de Calendário reservada deve ser cancelada | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
->| Directory.ReadWrite.All | delegado | Instalação e criação de Grupos Administrativos do AAD - Grupos de Segurança  | GroupNames e GroupIDs | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
+>| Directory.ReadWrite.All | delegado | Instalação e criação de grupos de AAD administrativos - Grupos de segurança  | GroupNames e GroupIDs | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
 >| Place.ReadWrite.All | delegado | Lista de locais de trabalho e nomes de mapa  | ID do Local de Trabalho, Endereço de Email do Local de Trabalho e Nome de Exibição. Usado para o Booking of a Workplace | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
 >| User.Read | delegado | Nome de usuário, Email e Nome de Exibição, Necessário para mostrar Dados de Usuário no Aplicativo | Nome de usuário, Email e Nome de Exibição, Necessário para mostrar Dados de Usuário no Aplicativo | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
 
@@ -98,17 +98,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -134,3 +123,4 @@ Essas informações foram fornecidas pelo ti m AG sobre como esse aplicativo lid
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

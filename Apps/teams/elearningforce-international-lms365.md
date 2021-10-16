@@ -2,18 +2,18 @@
 title: Informações do aplicativo para LMS365 por ELEARNINGFORCE International
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/28/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o LMS365, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5a88349d6fa62769d528c66baeb428b791a007b0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 37053d460cd8619379f7a2e5b3f581f789d00986
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277714"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410264"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -149,3 +149,4 @@ Essas informações foram fornecidas pela ELEARNINGFORCE International sobre com
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

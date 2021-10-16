@@ -66,10 +66,48 @@ groups:
     title: Segurança e Conformidade
   - id: identity
     title: Identidade
+- id: app-info-data-mcas-certification
+  title: Categorias de Informações do Aplicativo
+  prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
+  pivots:
+  - id: general
+    title: Geral
+  - id: data
+    title: Tratamento de dados
+  - id: mcas
+    title: Segurança e Conformidade
+  - id: certification
+    title: Certificação
+- id: app-info-data-identity-certification
+  title: Categorias de Informações do Aplicativo
+  prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
+  pivots:
+  - id: general
+    title: Geral
+  - id: data
+    title: Tratamento de dados
+  - id: identity
+    title: Identidade
+  - id: certification
+    title: Certificação
+- id: app-info-data-mcas-identity-certification
+  title: Categorias de Informações do Aplicativo
+  prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
+  pivots:
+  - id: general
+    title: Geral
+  - id: data
+    title: Tratamento de dados
+  - id: mcas
+    title: Segurança e Conformidade
+  - id: identity
+    title: Identidade
+  - id: certification
+    title: Certificação
 metadata:
-  ms.openlocfilehash: b07379344dd27d0fd3d2ff699dd23854a2c377c8c558430f03a5e4d245e14654
-  ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+  ms.openlocfilehash: 251f0461ab55741522c650f13a0ff3b50eecb560
+  ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "54749291"
+  ms.lasthandoff: 10/16/2021
+  ms.locfileid: "60411275"

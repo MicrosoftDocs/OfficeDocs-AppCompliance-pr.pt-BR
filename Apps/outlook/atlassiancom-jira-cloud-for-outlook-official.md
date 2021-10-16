@@ -2,18 +2,18 @@
 title: Informações do aplicativo para o Jira Cloud para Outlook (Oficial) por Atlassian.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 06/28/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Jira Cloud for Outlook (Official), suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b4c7c0bb245c602d1650f13fb231894a86b3e8b0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 122875d5bd68dc375ef5960a8583b03addbdff0f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59275812"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411245"
 ---
 # <a name="jira-cloud-for-outlook-official"></a>Nuvem Jira para Outlook (Oficial)
 
@@ -114,4 +114,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

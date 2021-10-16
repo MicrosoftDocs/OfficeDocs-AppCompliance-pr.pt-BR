@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Live Chat, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 52b8aa65ce11acbe157d61bd46a6f0fee67f9bc6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b0fff6d4f5f7fce95b06d5a54bc0e9d178e2ce63
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277437"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410865"
 ---
 # <a name="live-chat"></a>Chat ao vivo
 
@@ -120,3 +120,4 @@ Essas informações foram fornecidas pelo Social Intents sobre como esse aplicat
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

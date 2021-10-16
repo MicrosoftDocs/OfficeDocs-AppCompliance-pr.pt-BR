@@ -2,18 +2,18 @@
 title: Informações de aplicativo para StarLeaf por StarLeaf
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/24/2020
+ms.date: 06/17/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para StarLeaf, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8f9878d4de6e09c283c6d13ee7351de9fb5f0eb8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 0a339c98c0d76da7269df25a7dfd76f896e4f96f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276378"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60408260"
 ---
 # <a name="starleaf"></a>StarLeaf
 
@@ -66,7 +66,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Se surgirem problemas de suporte técnico, os dados organizacionais poderão ser transferidos para SalesForce para gerenciamento de casos. Se o usuário fizer uso do recurso de discagem PSTN, a chamada fluirá através de Twilio, Plivo ou Voxbone |  | N/A |
+>| Se surgirem problemas de suporte técnico, os dados organizacionais poderão ser transferidos para SalesForce para gerenciamento de casos. Se o usuário fizer uso do recurso de discagem PSTN, a chamada fluirá através de Twilio, Plivo ou Voxbone |  | N/D |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -110,4 +110,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

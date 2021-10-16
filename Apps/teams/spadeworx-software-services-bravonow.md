@@ -2,18 +2,18 @@
 title: Informações do aplicativo para o BravoNow pelos Serviços de Software DeScaradosWorx
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/02/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o BravoNow, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1eb20f61739f5b6969c3f3889666adcce05d64a0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 742d23bb2fdc8b91f0636fb0bb1842cac2ee05fa
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276383"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410855"
 ---
 # <a name="bravonow"></a>BravoNow
 
@@ -85,7 +85,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->N/A
+>N/D
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -134,3 +134,4 @@ Essas informações foram fornecidas pelos Serviços de Software DesdadosWorx so
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

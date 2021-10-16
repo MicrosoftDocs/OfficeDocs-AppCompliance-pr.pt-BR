@@ -2,18 +2,18 @@
 title: Informações do aplicativo para ambição por ambição
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/17/2021
+ms.date: 08/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Ambição, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: d6c4a598cd115edd52e6dbd37cabd60b7a011aad
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 41a69c23e64a1059d99c18511837cb166bcf27a0
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59275788"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410465"
 ---
 # <a name="ambition"></a>Ambição
 
@@ -62,7 +62,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| User.Read | delegado | Para identificar o Administrador que autorizou o aplicativo De ambição | Nomes de &amp; usuários de email, para sincronizar com usuários de Ambição | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
 >| User.ReadBasic.All | delegado | Os emails de nomes de &amp; usuário, para sincronizar os usuários com suas contas de Ambição. | Os emails de nomes de &amp; usuário são armazenados. | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
 >| offline_access | delegado | Para sincronizar Microsoft Teams dados enquanto os usuários estão offline. | O Token de Atualização de Token de Acesso OAuth &amp; é armazenado. | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
->| openid | delegado | Isso é necessário para usar o recurso de login da Microsoft | N/A | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
+>| openid | delegado | Isso é necessário para usar o recurso de login da Microsoft | N/D | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -104,17 +104,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -142,3 +131,4 @@ Essas informações foram fornecidas pela Ambição sobre como esse aplicativo l
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

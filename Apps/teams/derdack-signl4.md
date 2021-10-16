@@ -2,18 +2,18 @@
 title: Informações do aplicativo para SIGNL4 por Derdack SIGNL4
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2021
+ms.date: 08/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SIGNL4, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4cf1eae6ef533a1e744ca3c2968764fed0227d00
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7042695f0bfb257552e4e040a1b8d254016b612a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276491"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411075"
 ---
 # <a name="signl4"></a>SIGNL4
 
@@ -84,7 +84,7 @@ Os dados nos logs são necessários para suporte e solução de problemas que o 
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Os dados são armazenados no data center do Azure na Europa. O acesso a ele é possível para administradores. 2FA usando autenticação AAD. As chaves de acesso a contas de armazenamento também são usadas para gerenciar o acesso.
+>Os dados são armazenados no data center do Azure na Europa. O acesso a ele é possível para administradores. 2FA usando AAD autenticação. As chaves de acesso a contas de armazenamento também são usadas para gerenciar o acesso.
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -134,3 +134,4 @@ Essas informações foram fornecidas por Derdack SIGNL4 sobre como esse aplicati
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

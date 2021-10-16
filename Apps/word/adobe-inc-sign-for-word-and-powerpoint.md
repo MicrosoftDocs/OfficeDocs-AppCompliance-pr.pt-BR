@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Adobe Sign for Word e PowerPoint por Adobe Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/12/2021
+ms.date: 02/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Adobe Sign for Word e PowerPoint, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ca8f1f0aba2f18c81c76cb50d8d76cb2e86efa84
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5ed7e962014ea7cf2c63c2ff2bbcb97da3939233
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59275728"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411305"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word and PowerPoint
 
@@ -129,3 +129,4 @@ Essas informações foram fornecidas pela Adobe Inc. sobre como esse aplicativo 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

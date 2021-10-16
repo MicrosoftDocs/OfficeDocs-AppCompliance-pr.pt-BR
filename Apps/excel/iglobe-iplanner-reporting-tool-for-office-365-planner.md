@@ -2,18 +2,18 @@
 title: Informações do aplicativo para a ferramenta de relatório do iPlanner para Office 365 Planner by iGlobe
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/24/2019
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para a ferramenta de relatório do iPlanner para o Office 365 Planner, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3591c67721188d8dc70bf4f2cf0e34bdb9ffc506
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ac38f244a862b89ee17ded8ce1432fdb00fb451a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276643"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411265"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>Ferramenta de relatório do iPlanner para Office 365 Planner
 
@@ -110,4 +110,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 
