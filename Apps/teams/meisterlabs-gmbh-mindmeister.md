@@ -2,18 +2,18 @@
 title: Informações de aplicativo para MindMeister por MeisterLabs GmbH
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 10/31/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para MindMeister, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 75177ef60be80889a14c75fbb76bc1d4aaa9aa49
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 6b36f41be86496cdca75a77d9564b2c13e5536b3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276189"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413703"
 ---
 # <a name="mindmeister"></a>MindMeister
 
@@ -57,7 +57,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | delegado | ID do AAD, ID de locatário, email, displayName - para poder identificar cada usuário em nosso aplicativo e poder vincular os dados específicos do MindMeister a um usuário da Microsoft (ou seja, quais mapas pertencem a qual usuário). | Permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso. | [d312ff80-0c2b-42ad-887b-c6392bcf6353](https://docs.microsoft.com/microsoft-365-app-certification/azure/d312ff80-0c2b-42ad-887b-c6392bcf6353) |
+>| User.Read | delegado | AAD ID, ID de locatário, email, displayName - para poder identificar cada usuário em nosso aplicativo e poder vincular os dados específicos do MindMeister a um usuário da Microsoft (ou seja, quais mapas pertencem a qual usuário). | Permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso. | [d312ff80-0c2b-42ad-887b-c6392bcf6353](https://docs.microsoft.com/microsoft-365-app-certification/azure/d312ff80-0c2b-42ad-887b-c6392bcf6353) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -108,4 +108,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

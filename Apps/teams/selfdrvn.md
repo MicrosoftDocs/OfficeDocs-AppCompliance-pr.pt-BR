@@ -2,18 +2,18 @@
 title: Informações do aplicativo para SelfDrvn por SelfDrvn
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/01/2021
+ms.date: 06/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SelfDrvn, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1bec8e13c2cfbf53e2585abfa3cf01f0a534848e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 663c09f6f2ce51de7d8986953f955bd2ecb7ff95
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276170"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413403"
 ---
 # <a name="selfdrvn"></a>SelfDrvn
 
@@ -80,7 +80,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->N/A
+>N/D
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -129,3 +129,4 @@ Essas informações foram fornecidas pelo SelfDrvn sobre como esse aplicativo li
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

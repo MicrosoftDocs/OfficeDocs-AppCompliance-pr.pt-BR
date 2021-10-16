@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Humu by Humu Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/20/2021
+ms.date: 10/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Humu, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1c4f09d20ef885ae5c7e26a4c02d3d877bf7ef00
-ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: 772974445cbe3962521bd25019a1172f961590dc
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60112240"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415088"
 ---
 # <a name="humu"></a>Humu
 
@@ -96,17 +96,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/4e95a4f5-304c-4629-901c-72341d8f2a0' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/4e95a4f5-304c-4629-901c-72341d8f2a0" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -121,3 +110,4 @@ Essas informações foram fornecidas pela Humu Inc. sobre como esse aplicativo l
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

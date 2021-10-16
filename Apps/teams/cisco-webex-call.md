@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Chamada webex pela Cisco
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2021
+ms.date: 01/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Webex Call, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e4addbd6b3ad932c9c987f57cca03c1e6e77cfcd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 50ff8ddaab9be9b66da02156761931de44770340
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276235"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414727"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -125,3 +125,4 @@ Essas informações foram fornecidas pela Cisco sobre como esse aplicativo lida 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

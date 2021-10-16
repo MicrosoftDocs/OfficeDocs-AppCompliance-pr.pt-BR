@@ -2,18 +2,18 @@
 title: Informações do aplicativo para a SorteDraw por Tony Xia
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/21/2020
+ms.date: 07/02/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a SorteDraw, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9a9f6b919b9e803b2a9cb81a2caa504126e4a697
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 32568a24ba4bf4dc00a9076e3f95676c7ba86c29
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277641"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413313"
 ---
 # <a name="luckydraw"></a>LuckyDraw
 
@@ -106,4 +106,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

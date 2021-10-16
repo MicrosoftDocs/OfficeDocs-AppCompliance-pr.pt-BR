@@ -2,18 +2,18 @@
 title: Informações do aplicativo Teams Pelo Solutions2Share GmbH
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/24/2021
+ms.date: 09/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Teams Manager, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e51b08446bed1f22f1e058b92604841ce255eb8f
-ms.sourcegitcommit: 3ac3366e04e24db2d12183ef212738d5b599f553
+ms.openlocfilehash: 8587859f26feebffb31fd9b7eb23e8728e5d60fa
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59971793"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412741"
 ---
 # <a name="teams-manager"></a>Teams Manager
 
@@ -138,3 +138,4 @@ Essas informações foram fornecidas pela Solutions2Share GmbH sobre como esse a
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

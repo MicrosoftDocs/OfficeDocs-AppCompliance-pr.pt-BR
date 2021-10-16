@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Menção de Mendeley por ELSEVIER LIMITED
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/05/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Mendeley Cite, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e6fd3ba9f600549aba80beb00738c6bd529eb18b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3ea90c96be3257c18c7a56400decbf16d201a743
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276685"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414326"
 ---
 # <a name="mendeley-cite"></a>Mendeley Cite
 
@@ -119,3 +119,4 @@ Essas informações foram fornecidas pela ELSEVIER LIMITED sobre como esse aplic
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

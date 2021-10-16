@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Move Work Forward with Jira, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7120519c2ecb0643465760677b2bef895b1e2f4d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c2bd8d856eca48f9afc79a42aeff36b887faaf8d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277528"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413663"
 ---
 # <a name="move-work-forward-with-jira"></a>Avançar o trabalho com Jira
 
@@ -139,3 +139,4 @@ Essas informações foram fornecidas pelo Move Work Forward sobre como esse apli
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -1,45 +1,43 @@
 ---
-title: Informações de aplicativo para ProdBot pela Prodoscore
+title: Informações de aplicativo para ArcGIS para SharePoint por Esri, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/18/2021
+ms.date: 08/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o ProdBot, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o ArcGIS para SharePoint, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 32a35c90fbd3043a944eedd2027b199cc5d50a59
+ms.openlocfilehash: dff8fbff60364c07cb2e0c5849ae63be7410daca
 ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414115"
+ms.locfileid: "60412254"
 ---
-# <a name="prodbot"></a>ProdBot
+# <a name="arcgis-for-sharepoint"></a>ArcGIS para SharePoint
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 23 de fevereiro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 21 de julho de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/6f98aae5-4f72-4c33-80a4-ed2153da796a" target="_blank">Exibir no Teams store</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002620" target="_blank">Exibir no AppSource</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003118" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Prodoscore à Microsoft:
+Informações fornecidas pela Esri, Inc. à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | ProdBot |
-| ID | WA200002620 |
-| Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Prodoscore |
-| URL do site do parceiro | [https://www.prodoscore.com](https://www.prodoscore.com) |
-| URL da página Teams de informações do aplicativo | [https://www.prodoscore.com/how-it-works/](https://www.prodoscore.com/how-it-works/) |
-| URL da Política de Privacidade | [https://www.prodoscore.com/privacy-policy/](https://www.prodoscore.com/privacy-policy/) |
-| URL dos Termos de Uso | [https://www.prodoscore.com/terms-of-service/](https://www.prodoscore.com/terms-of-service/) |
+| Nome do aplicativo | ArcGIS para SharePoint |
+| ID | WA200003118 |
+| Office 365 clientes com suporte | SharePoint 2016 ou posterior |
+| Nome da empresa de parceiro | Esri, Inc. |
+| URL do site do parceiro | [https://www.esri.com](https://www.esri.com) |
+| URL da Política de Privacidade | [https://www.esri.com/legal/privacy-arcgis](https://www.esri.com/legal/privacy-arcgis) |
+| URL dos Termos de Uso | [https://www.esri.com/en-us/legal/terms/master-agreement-pro...](https://www.esri.com/en-us/legal/terms/master-agreement-product) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +47,7 @@ Informações fornecidas pelo Prodoscore à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela Prodoscore sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Esri, Inc. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
@@ -62,15 +60,8 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Plataforma Google Cloud | Domain Name | O registro no aplicativo usa o Nome de Domínio de uma organização para identificar a organização com exclusividade. |
+>Não serviços Microsoft não são usados.
 
-#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
-
-Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
-
->Nenhum EUII é acessado.
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
@@ -83,7 +74,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Expusemos API/Ponto de Extremidade para os sistemas parceiros
+>Os administradores de clientes podem controlar o acesso de seus usuários aos dados na organização ou no nível do projeto. As solicitações são verificadas em listas de controle de acesso antes de ler ou escrever dados. Os dados em trânsito de usuários finais e serviços externos são criptografados com HTTPS (Somente TLS 1.2).
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -99,9 +90,9 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36556' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/27233' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36556" target="_blank">Exibir em uma nova guia</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/27233" target="_blank">Exibir em uma nova guia</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,22 +102,23 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pela Prodoscore sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pela Esri, Inc. sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
 | Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
+| Listar os tipos de políticas com suporte | O ArcGIS Online baseia-se no modelo RBAC (Controle de Acesso Baseado em Função). Todos os usuários na solução precisam ter uma função para a qual eles têm acesso. |
 | Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
-| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
+| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Não |
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Sim |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/><br/> |
-| Seu aplicativo expõe alguma APIs da Web? | Não |
-| Seu aplicativo usa APIs de visualização? | Sim |
+| Seu aplicativo expõe alguma APIs da Web? | Sim |
+| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
+| Seu aplicativo usa APIs de visualização? | Não |
 | Seu aplicativo usa APIs preteridas? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

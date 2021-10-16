@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Rezolve.ai por Ciência a actionable
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/27/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Rezolve.ai, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 22c71b78374956fb69f0f3f5fd5fc860d2184363
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b5703e0113d88394c9c0c7a0d6f877a23df68282
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276012"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411980"
 ---
 # <a name="rezolveai"></a>Rezolve.ai
 
@@ -133,3 +133,4 @@ Essas informações foram fornecidas pela Actionable Science sobre como esse apl
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

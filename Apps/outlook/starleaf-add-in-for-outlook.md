@@ -2,18 +2,18 @@
 title: Informações do aplicativo para o add-in StarLeaf para Outlook por StarLeaf
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/24/2020
+ms.date: 06/17/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o add-in StarLeaf para Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 66f31eb44942e20b4db10d5e718eb67e3e50b03e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a47dfedd6354fae038e4fbcc3ed768866fd8aec2
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277584"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413513"
 ---
 # <a name="starleaf-add-in-for-outlook"></a>Add-in StarLeaf for Outlook
 
@@ -65,7 +65,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Se surgirem problemas de suporte técnico, os dados organizacionais poderão ser transferidos para SalesForce para gerenciamento de casos. Se o usuário fizer uso do recurso de discagem PSTN, a chamada fluirá através de Twilio, Plivo ou Voxbone |  | N/A |
+>| Se surgirem problemas de suporte técnico, os dados organizacionais poderão ser transferidos para SalesForce para gerenciamento de casos. Se o usuário fizer uso do recurso de discagem PSTN, a chamada fluirá através de Twilio, Plivo ou Voxbone |  | N/D |
 
 
 
@@ -102,4 +102,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

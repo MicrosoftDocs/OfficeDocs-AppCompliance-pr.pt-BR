@@ -2,18 +2,18 @@
 title: Informações do aplicativo para entrevistas de Talview pela Talview Inc
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/12/2021
+ms.date: 02/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Entrevistas do Talview, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 38ab0472b84fc2b53c357bed1ad32ed4e3a6ad11
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 55616d2c8820aee5a9b9f23b4a7231914f65f311
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276152"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414918"
 ---
 # <a name="talview-interviews"></a>Talview Entrevistas
 
@@ -135,3 +135,4 @@ Essas informações foram fornecidas pela Talview Inc sobre como esse aplicativo
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

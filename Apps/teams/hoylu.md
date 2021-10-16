@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Hoylu por Hoylu
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/20/2020
+ms.date: 06/09/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Hoylu, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b48adaf3c3816bea363b0fd8e6581f061a5eaed1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a091c480731e69a51ec002f24f6d62924a814b7b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276717"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412330"
 ---
 # <a name="hoylu"></a>Hoylu
 
@@ -103,4 +103,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

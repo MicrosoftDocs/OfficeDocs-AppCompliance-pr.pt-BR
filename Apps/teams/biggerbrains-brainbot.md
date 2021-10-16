@@ -2,18 +2,18 @@
 title: Informações do aplicativo para BrainBot por Biggerbrains
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/28/2021
+ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o BrainBot, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: aa9379b91d921edeb6c6a85a0756ba2017bd5fbb
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c6db3fdfd92513cd670fab84eecc4fa711a7449e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276626"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413073"
 ---
 # <a name="brainbot"></a>BrainBot
 
@@ -134,3 +134,4 @@ Essas informações foram fornecidas por Biggerbrains sobre como esse aplicativo
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

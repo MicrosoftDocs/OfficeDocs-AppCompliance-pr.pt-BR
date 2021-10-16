@@ -2,18 +2,18 @@
 title: Informações do aplicativo para harmon.ie para Office por harmon.ie Corporation
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/07/2021
+ms.date: 01/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o harmon.ie para Office, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c5a4cc10fdb936e6e0a9c04cc492cd301a374cd8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c9e803a02b2db799b0aeb2230955746fa905ccbe
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277725"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414817"
 ---
 # <a name="harmonie-for-office"></a>harmon.ie para Office
 
@@ -33,7 +33,7 @@ Informações fornecidas pela harmon.ie Corporation para a Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | harmon.ie para Office |
 | ID | WA104381050 |
-| Office 365 clientes com suporte | PowerPoint 2016 ou posterior em Windows, Word 2016 ou posterior em Windows, Excel na Web, Word na Web, PowerPoint na Web, Word 2016 ou posterior no Mac, PowerPoint 2016 ou posterior no Mac |
+| Office 365 clientes com suporte | PowerPoint 2016 ou posterior no Windows, Word 2016 ou posterior no Windows, Excel na Web, Word na Web, PowerPoint na Web, Word 2016 ou posterior no Mac, PowerPoint 2016 ou posterior no Mac |
 | Nome da empresa de parceiro | harmon.ie Corporation |
 | URL do site do parceiro | [https://harmon.ie](https://harmon.ie) |
 | URL da Política de Privacidade | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
@@ -129,3 +129,4 @@ Essas informações foram fornecidas pela harmon.ie Corporation sobre como esse 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

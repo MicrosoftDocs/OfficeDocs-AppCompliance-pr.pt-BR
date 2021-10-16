@@ -2,18 +2,18 @@
 title: Informações do aplicativo para herói de saúde por herói de saúde
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/01/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Health Hero, suas políticas de tratamento de dados, Microsoft Cloud App Security informações do catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 53f2892563172775e8dc6def8c4ae9cb7d2af0c8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d1b716209a69f4526b900fd1a56049ffc2d3dbc8
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277464"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414597"
 ---
 # <a name="health-hero"></a>Health Hero
 
@@ -131,3 +131,4 @@ Essas informações foram fornecidas pelo Health Hero sobre como esse aplicativo
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

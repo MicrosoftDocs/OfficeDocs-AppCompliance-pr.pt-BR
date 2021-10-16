@@ -2,18 +2,18 @@
 title: Informações do aplicativo para HeyTaco! por HeyTaco!
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/03/2020
+ms.date: 09/09/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para HeyTaco!, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7b4641b33166043dd311bdd89568c9eaea4b87a1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e52056b40599ab98a69a6a93e7b2187ddf5f3765
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277459"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412370"
 ---
 # <a name="heytaco"></a>HeyTaco!
 
@@ -115,4 +115,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

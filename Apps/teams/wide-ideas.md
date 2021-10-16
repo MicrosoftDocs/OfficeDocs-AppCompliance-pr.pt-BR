@@ -2,18 +2,18 @@
 title: Informações do aplicativo para ideias amplas por ideias amplas
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Ideias Amplas, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7c19fc9906f46fcd3e7561c38d68ed202dd0c87d
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 075136dcf0c7e03d3f70461490f1b8c181478c43
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59783331"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414367"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
@@ -57,10 +57,10 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Channel.Create | delegado | Para criar um canal em uma equipe.  | Armazenamos a ID do canal para o desafio criado.  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
->| Directory.Read.All | delegado | Usamos isso para listar usuários do diretório do cliente  | N/A | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| Directory.Read.All | delegado | Usamos isso para listar usuários do diretório do cliente  | N/D | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
 >| Group.Read.All | delegado | Usamos isso para ler e sincronizar equipes Microsoft Teams. | Armazenamos a ID de Grupo da equipe e os membros da equipe.  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
 >| TeamsAppInstallation.ReadWriteForTeam | delegado | Isso é usado para instalar o aplicativo Teams automaticamente  | Armazenamos informações sobre em qual equipe o aplicativo está instalado | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
->| TeamsTab.Create | delegado | Usamos isso para criar automaticamente guias de aplicativo (ideias de desafio/pesquisa) em canais criados por Ideias Amplas. | N/A | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| TeamsTab.Create | delegado | Usamos isso para criar automaticamente guias de aplicativo (ideias de desafio/pesquisa) em canais criados por Ideias Amplas. | N/D | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
 >| User.Read | delegado | Usado para autenticar usuários por meio de SSO, bem como sincronizar dados do usuário | Armazenamos nome, email e id de usuário.  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
 
 
@@ -144,3 +144,4 @@ Essas informações foram fornecidas por Ideias Amplas sobre como esse aplicativ
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

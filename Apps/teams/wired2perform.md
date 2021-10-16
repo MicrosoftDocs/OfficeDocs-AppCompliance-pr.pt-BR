@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Wired2Perform by Wired2Perform
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/01/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Wired2Perform, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 53e25098f069130505add53c3e7b0d39d287e1ac
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 3d3ba77eff78368f1fdc7f14125afb8618503c54
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277635"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414868"
 ---
 # <a name="wired2perform"></a>Wired2Perform
 
@@ -125,3 +125,4 @@ Essas informações foram fornecidas pelo Wired2Perform sobre como esse aplicati
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

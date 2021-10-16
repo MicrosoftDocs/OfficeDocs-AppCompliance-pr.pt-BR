@@ -2,18 +2,18 @@
 title: Informações sobre aplicativos do Google Analytics Insights por Freevolut LTD
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 11/13/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Google Analytics Insights, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3b2b1e528878540c22682ce5dc4fa30df0eba1d8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ac096261a48b8031369be672a27141ba549f07f0
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277743"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413012"
 ---
 # <a name="google-analytics-insights"></a>Insights do Google Analytics
 
@@ -103,4 +103,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

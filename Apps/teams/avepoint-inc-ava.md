@@ -2,18 +2,18 @@
 title: Informações do aplicativo para AVA pelo AvePoint, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/23/2020
+ms.date: 11/01/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para AVA, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 462181d4ba98d11e5aeae15a4827c6138bc80924
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a23ab8dfa165d43d6f2a9afafab0bc2ac12534bb
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277625"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411890"
 ---
 # <a name="ava"></a>AVA
 
@@ -116,4 +116,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

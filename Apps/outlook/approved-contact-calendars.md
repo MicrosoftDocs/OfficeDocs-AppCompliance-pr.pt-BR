@@ -2,18 +2,18 @@
 title: Informações do aplicativo para calendários de contatos aprovados por contato aprovado
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/10/2021
+ms.date: 05/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Calendários de Contatos Aprovados, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 49aac5c5b6544d9324243d704cfaad6dc7bd8732
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 19d7bdeab6ec2d8f3d9a490d74cb2d59020a8952
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276252"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414185"
 ---
 # <a name="approved-contact-calendars"></a>Calendários de contatos aprovados
 
@@ -129,3 +129,4 @@ Essas informações foram fornecidas pelo Contato Aprovado sobre como esse aplic
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Informações do aplicativo para TeamGether por EFFENCY
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/16/2021
+ms.date: 05/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para TeamGether, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6d52f732a372663b3bb089ee57d43fb5f46299ca
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 732342d7f6fe531ec57cfbd53ae425b27b0f1205
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277475"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413833"
 ---
 # <a name="teamgether"></a>TeamGether
 
@@ -120,3 +120,4 @@ Essas informações foram fornecidas pela EFFENCY sobre como esse aplicativo lid
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

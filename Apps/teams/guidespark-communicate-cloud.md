@@ -1,45 +1,45 @@
 ---
-title: Informações do aplicativo para 365-QA por Advantive
+title: Informações do aplicativo para a Nuvem de Comunicação do GuideSpark pelo GuideSpark
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/27/2021
+ms.date: 10/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o 365-QA, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e4919268e8ad2fda56415314ba1f773011cefb35
+description: Todas as informações de segurança e conformidade disponíveis para a Nuvem de Comunicações do GuideSpark, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: becc848dde742ac9f9b66d634f687219e3600353
 ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411950"
+ms.locfileid: "60412250"
 ---
-# <a name="365-qa"></a>365-QA
+# <a name="guidespark-communicate-cloud"></a>Nuvem de comunicação guideSpark
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 4 de junho de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 13 de outubro de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/03e51569-33a8-4000-abb6-9a825e33ece2" target="_blank">Exibir no Teams store</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001394" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/34b870ca-2417-4660-b835-ebb18ee7ccf9" target="_blank">Exibir no Teams store</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003348" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pela Advantive à Microsoft:
+Informações fornecidas pelo GuideSpark para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | 365-QA |
-| ID | WA200001394 |
+| Nome do aplicativo | Nuvem de comunicação guideSpark |
+| ID | WA200003348 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Advantive |
-| URL do site do parceiro | [https://www.advantive.be](https://www.advantive.be) |
-| URL da página Teams de informações do aplicativo | [https://www.advantive.be/365-qa-how-to/](https://www.advantive.be/365-qa-how-to/) |
-| URL da Política de Privacidade | [https://www.advantive.be/privacy-policy-en/](https://www.advantive.be/privacy-policy-en/) |
-| URL dos Termos de Uso | [https://www.advantive.be/terms-of-service-en/](https://www.advantive.be/terms-of-service-en/) |
+| Nome da empresa de parceiro | GuideSpark |
+| URL do site do parceiro | [https://guidespark.com](https://guidespark.com) |
+| URL da página Teams de informações do aplicativo | [https://www.guidespark.com/change-communications-software/](https://www.guidespark.com/change-communications-software/) |
+| URL da Política de Privacidade | [https://www.guidespark.com/privacy-policy/](https://www.guidespark.com/privacy-policy/) |
+| URL dos Termos de Uso | [https://www.guidespark.com/terms/](https://www.guidespark.com/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ Informações fornecidas pela Advantive à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo Advantive sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo GuideSpark sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
@@ -57,13 +57,6 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >Este aplicativo não usa o Microsoft Graph.
 
-#### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
-
-Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
-
->| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Bing API de Pesquisa Personalizada  | Não |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
@@ -88,7 +81,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Não retêmos dados, exceto os logs de insights do aplicativo que são excluídos automaticamente após 30 dias
+>GuideSpark não acessa os dados do parceiro.
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -100,23 +93,12 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/41841' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/41841" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pelo Advantive sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pelo GuideSpark sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
 | **Information** | **Response** |
 |:----------------|:-------------|

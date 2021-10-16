@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Cofre espaços pela eCare Vault Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/14/2021
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Cofre Espaços, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 16c1adeb63cf8004df70293c8e4a188dde811250
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 39ca1a0a99e62bbedb14d0248cb751bf4089a70f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277478"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414687"
 ---
 # <a name="safe-spaces"></a> Espaços Seguros
 
@@ -59,11 +59,11 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| EduRoster. Read | delegado | Nome e Data de Nascimento são usados para pré-pular campos de entrada | Nenhum - todos os dados armazenados são enviados pelo usuário (dados somente pré-populados em campos e, em seguida, enviados pelo usuário) | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 >| Group.Read.All | delegado | Usado para obter informações sobre canais disponíveis para exibição no aplicativo | Nenhum dessa permissão | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| GroupMember.Read.All | delegado | AAD ID dos membros do grupo usados para gerar uma lista de equipe do eCare Vault | A ID de usuário do AAD é armazenada para associar a uma conta de usuário do eCare Vault para cada membro | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| User.Read | delegado | endereço de email e AAD ID Usado para inscrever usuários e associá-los com contas de usuário &amp; do eCare Vault | endereço de email e ID do AAD para contas de usuário e envio de notificação para o usuário por meio da Estrutura de Bot | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| User.Read.All | delegado | Nome e, ID do AAD e endereço de email, somente para usuários que são membros de um Canal onde Cofre Espaços está instalado | Nome, ID do AAD e endereço de email armazenados em contas de usuário do eCare Vault | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| GroupMember.Read.All | delegado | AAD ID dos membros do grupo usados para gerar uma lista de equipe do eCare Vault | AAD A ID do usuário é armazenada para associar a uma conta de usuário do eCare Vault para cada membro | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| User.Read | delegado | endereço de email e AAD ID usada para inscrever usuários e associá-los com contas de usuário &amp; do eCare Vault | endereço de email e AAD ID para contas de usuário e envio de notificação para o usuário por meio da Estrutura de Bot | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| User.Read.All | delegado | Nome e, AAD ID e endereço de email, somente para usuários que são membros de um Canal onde Cofre Espaços está instalado | Nome, AAD ID e endereço de email armazenados em contas de usuário do eCare Vault | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 >| email | delegado | Somente endereço de email | None - Usuário uma decisão de enviar formulário que faria  | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| openid | delegado | endereço de email e AAD ID Usado para inscrever usuários e associá-los com contas de usuário &amp; do eCare Vault | endereço de email e ID do AAD para contas de usuário e envio de notificação para o usuário por meio da Estrutura de Bot | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| openid | delegado | endereço de email e AAD ID usada para inscrever usuários e associá-los com contas de usuário &amp; do eCare Vault | endereço de email e AAD ID para contas de usuário e envio de notificação para o usuário por meio da Estrutura de Bot | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 >| perfil | delegado | O Nome do Usuário é usado para preencher a tela de assinatura do usuário. | Nenhum diretamente - o usuário opta por enviar seu nome ao sistema ao se inscrever | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
@@ -111,17 +111,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -149,3 +138,4 @@ Essas informações foram fornecidas pelo eCare Vault Inc. sobre como esse aplic
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

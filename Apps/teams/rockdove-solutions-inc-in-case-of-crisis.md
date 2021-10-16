@@ -2,18 +2,18 @@
 title: Informações sobre o aplicativo em caso de crise pela Soluções RockDove, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Em Caso de Crise, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 4671d37d77d16004c171887f101ade7506598614
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d6cb978afddcd7b87851ac515e0594757d63fb21
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276587"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412791"
 ---
 # <a name="in-case-of-crisis"></a>Em caso de crise
 
@@ -58,14 +58,14 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calendars.ReadWrite | delegado | Isso dá acesso total ao calendário de um usuário. Nosso aplicativo exibe a descrição, o link de conferência e as datas de início e término. Nosso aplicativo também permite que um usuário crie um evento no calendário do Outlook | No futuro, as IDs de eventos podem ser armazenadas no banco de dados | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Channel.ReadBasic.All | delegado | Dá acesso a um canal de usuários.  A lista de usuários de canais é usada para selecionar um canal para carregar um arquivo | N/A | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Channel.ReadBasic.All | delegado | Dá acesso a um canal de usuários.  A lista de usuários de canais é usada para selecionar um canal para carregar um arquivo | N/D | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
 >| Files.ReadWrite | delegado | N/D | N/D | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Files.ReadWrite.All | delegado | Permitimos que os usuários carreguem arquivos do Gerenciamento de Problemas para Teams | N/A | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Sites.ReadWrite.All | delegado | Isso é necessário para carregar em um canal privado | N/A | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Team.ReadBasic.All | delegado | A lista de equipes é necessária para obter a lista de canais aos que o usuário pertence. Isso nos permite exibir a lista de canais de carregamento disponíveis. | N/A | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Files.ReadWrite.All | delegado | Permitimos que os usuários carreguem arquivos do Gerenciamento de Problemas para Teams | N/D | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Sites.ReadWrite.All | delegado | Isso é necessário para carregar em um canal privado | N/D | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Team.ReadBasic.All | delegado | A lista de equipes é necessária para obter a lista de canais aos que o usuário pertence. Isso nos permite exibir a lista de canais de carregamento disponíveis. | N/D | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
 >| email | delegado | Precisa obter o email do usuário após a autenticação para comparar com emails em nosso banco de dados. Se o usuário não tiver uma conta em nosso sistema, criaremos uma. | Armazenamos o endereço de email e criamos uma conta de aplicativo para ele. | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| offline_access | delegado | Isso nos permite atualizar o token de acesso do gráfico | N/A | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| openid | delegado | Permissão necessária para autenticação via openid | N/A | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| offline_access | delegado | Isso nos permite atualizar o token de acesso do gráfico | N/D | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| openid | delegado | Permissão necessária para autenticação via openid | N/D | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -105,17 +105,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -142,3 +131,4 @@ Essas informações foram fornecidas pela RockDove Solutions, Inc. sobre como es
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

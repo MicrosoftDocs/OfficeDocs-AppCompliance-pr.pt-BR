@@ -2,18 +2,18 @@
 title: Informações do aplicativo para CatchEm by Chimu Software
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/27/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para CatchEm, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bdac27ddbc3148644562af20f8f6d415a56903d9
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e31f99d6714482327267658bac0e61499572491e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276507"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413873"
 ---
 # <a name="catchem"></a>CatchEm
 
@@ -59,9 +59,9 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Chat.ReadBasic | delegado | Essa permissão é necessária para determinar os contatos de um usuário do aplicativo. AadObjectId: Para identificar exclusivamente um usuário. TenantId: para determinar se um contato é interno ou externo ao usuário. DisplayName, GivenName, Sobrenome: para identificar contatos para usuários de aplicativos. Email, UserPrincipalName: para ajudar a distinguir entre contatos com o mesmo nome e para permitir que clique na funcionalidade &quot; de &quot; chat. ID mais recente do Chat: Para &quot; habilitar a funcionalidade de clique para chat &quot; | Essa permissão é necessária para determinar os contatos de um usuário do aplicativo. AadObjectId: Para identificar exclusivamente um usuário. TenantId: para determinar se um contato é interno ou externo ao usuário. DisplayName, GivenName, Sobrenome: para identificar contatos para usuários de aplicativos. Email, UserPrincipalName: para ajudar a distinguir entre contatos com o mesmo nome e para permitir que clique na funcionalidade &quot; de &quot; chat. ID mais recente do Chat: Para &quot; habilitar a funcionalidade de clique para chat &quot; | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 >| People.Read | delegado | Para melhorar a precisão dos dados para contatos externos. DisplayName: para identificar contatos para usuários de aplicativos. | Para melhorar a precisão dos dados para contatos externos. DisplayName: para identificar contatos para usuários de aplicativos. | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
->| Presence.Read.All | delegado | Status de presença atual de contatos | N/A | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
->| TeamsActivity.Send | ambos | Para enviar notificações aos usuários quando o status de presença de um contato muda | N/A | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
->| TeamsAppInstallation.ReadWriteSelfForUser | delegado | Para habilitar atualizações automáticas para o aplicativo | N/A | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| Presence.Read.All | delegado | Status de presença atual de contatos | N/D | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| TeamsActivity.Send | ambos | Para enviar notificações aos usuários quando o status de presença de um contato muda | N/D | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| TeamsAppInstallation.ReadWriteSelfForUser | delegado | Para habilitar atualizações automáticas para o aplicativo | N/D | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 >| User.Read | delegado | AadObjectId: Para identificar exclusivamente um usuário. TenantId: para determinar se um contato é interno ou externo ao usuário. DisplayName, GivenName, Sobrenome: para identificar contatos para usuários de aplicativos. Email, Endereços de IM, UserPrincipalName: para ajudar a distinguir entre contatos com o mesmo nome e para permitir que clique na funcionalidade &quot; de &quot; chat. CompanyName, País: Análise. AccountEnabled, DeletedDateTime: exclusão automática de dados do usuário para usuários desabilitados | AadObjectId: Para identificar exclusivamente um usuário. TenantId: para determinar se um contato é interno ou externo ao usuário. DisplayName, GivenName, Sobrenome: para identificar contatos para usuários de aplicativos. Email, Endereços de IM, UserPrincipalName: para ajudar a distinguir entre contatos com o mesmo nome e para permitir que clique na funcionalidade &quot; de &quot; chat. CompanyName, País: Análise. AccountEnabled, DeletedDateTime: exclusão automática de dados do usuário para usuários desabilitados | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 >| User.ReadBasic.All | delegado | Para melhorar a precisão dos dados para contatos internos. AadObjectId: Para identificar exclusivamente um usuário. TenantId: para determinar se um contato é interno ou externo ao usuário. DisplayName, GivenName, Sobrenome: para identificar contatos para usuários de aplicativos. Email, UserPrincipalName: para ajudar a distinguir entre contatos com o mesmo nome e para permitir que clique na funcionalidade &quot; de &quot; chat. | Para melhorar a precisão dos dados para contatos internos. AadObjectId: Para identificar exclusivamente um usuário. TenantId: para determinar se um contato é interno ou externo ao usuário. DisplayName, GivenName, Sobrenome: para identificar contatos para usuários de aplicativos. Email, UserPrincipalName: para ajudar a distinguir entre contatos com o mesmo nome e para permitir que clique na funcionalidade &quot; de &quot; chat. | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 >| offline_access | delegado | Graph tokens de segurança, para permitir que o aplicativo notifique as alterações de presença de contato e atualize listas de contatos quando o usuário não estiver usando ativamente o aplicativo | Graph tokens de segurança | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
@@ -92,7 +92,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->N/A
+>N/D
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -141,3 +141,4 @@ Essas informações foram fornecidas pelo Software Chimu sobre como esse aplicat
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

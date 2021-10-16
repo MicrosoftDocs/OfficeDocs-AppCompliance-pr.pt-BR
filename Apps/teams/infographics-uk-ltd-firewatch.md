@@ -2,18 +2,18 @@
 title: Informações de aplicativo para FireWatch pela Infographics UK Ltd.
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/29/2021
+ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para FireWatch, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: af093437be4542d0ffb9e00e6f27623961ef9673
-ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
+ms.openlocfilehash: 4d8834b9f87199517fc355d9f7c7560d7d63ee32
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60112239"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413783"
 ---
 # <a name="firewatch"></a>FireWatch
 
@@ -35,7 +35,7 @@ Informações fornecidas pela Infographics UK Ltd. para a Microsoft:
 | Nome do aplicativo | FireWatch |
 | ID | WA200003303 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Infographics UK Ltd. |
+| Nome da empresa de parceiro | Infográficos UK Ltd. |
 | URL do site do parceiro | [https://www.infographics.co.uk](https://www.infographics.co.uk) |
 | URL da página Teams de informações do aplicativo | [https://www.firewatch.co.uk](https://www.firewatch.co.uk) |
 | URL da Política de Privacidade | [https://www.infographics.co.uk/privacy-policy/](https://www.infographics.co.uk/privacy-policy/) |
@@ -93,17 +93,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ Essas informações foram fornecidas pela Infographics UK Ltd. sobre como esse a
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

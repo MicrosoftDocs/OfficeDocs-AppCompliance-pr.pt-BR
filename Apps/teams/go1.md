@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Go1, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 265d4cf5cef2f7fb685159ebf2cb6d516d32cb0f
-ms.sourcegitcommit: 1d47df35430334cfc0c60f7ea0b62392b99b7cbf
+ms.openlocfilehash: e632c6611df3bc0ad86381a75683520f0f3a6333
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2021
-ms.locfileid: "60287353"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413793"
 ---
 # <a name="go1"></a>Go1
 
@@ -135,3 +135,4 @@ Essas informações foram fornecidas por Go1 sobre como esse aplicativo lida com
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

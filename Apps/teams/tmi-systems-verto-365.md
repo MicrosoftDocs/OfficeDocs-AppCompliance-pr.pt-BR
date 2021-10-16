@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Verto 365 by TMI Systems
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/13/2021
+ms.date: 09/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Verto 365, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: a916afa97cc18603de2faf2d1604e0e59f1b148d
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: c82879bb30fc4c24b6e4f4bdb9103a2fe2290286
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59438408"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414417"
 ---
 # <a name="verto-365"></a>Verto 365
 
@@ -59,7 +59,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| User.Read | delegado | Informações gerais do usuário, nome, sobrenome &amp; e email. Usado para criar uma conta. | Firstname, Surname, Email, OID. Usado para criar uma conta no banco de dados, o OID é usado para associar um logon a uma conta Verto. | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
 >| email | delegado | Informações gerais do usuário, nome, sobrenome &amp; e email. Usado para criar uma conta. | Firstname, Surname, Email, OID. Usado para criar uma conta no banco de dados, o OID é usado para associar um logon a uma conta Verto. | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
->| offline_access | delegado | Usado para obter tokens de atualização e persistir logon | N/A | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
+>| offline_access | delegado | Usado para obter tokens de atualização e persistir logon | N/D | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
 >| openid | delegado | Informações gerais do usuário, nome, sobrenome &amp; e email. Usado para criar uma conta. | Firstname, Surname, Email, OID. Usado para criar uma conta no banco de dados, o OID é usado para associar um logon a uma conta Verto. | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
 >| perfil | delegado | Informações gerais do usuário, nome, sobrenome &amp; e email. Usado para criar uma conta. | Firstname, Surname, Email, OID. Usado para criar uma conta no banco de dados, o OID é usado para associar um logon a uma conta Verto. | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](https://docs.microsoft.com/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6) |
 
@@ -99,17 +99,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,3 +126,4 @@ Essas informações foram fornecidas pelos Sistemas TMI sobre como esse aplicati
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

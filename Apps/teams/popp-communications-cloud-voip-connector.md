@@ -2,20 +2,20 @@
 title: Informações do aplicativo para o Conector voIP de nuvem DA PAPO pela COMUNICAÇÃO DO PAPO
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/20/2021
+ms.date: 10/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o CONECTOR VOIP da Nuvem DA PAPO, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9f64b18c26d3fd38e4272171e7a90f493e76de5f
-ms.sourcegitcommit: 11288ac2cbae57aaa7820be0d9fb87c631805b7b
+ms.openlocfilehash: 42930c1020e86aeb6f55fb81929f30285e17dae3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60112241"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414968"
 ---
-# <a name="popp-cloud-voip-connector"></a>Conector VoIP de Nuvem DA PAPO
+# <a name="popp-cloud-voip-connector"></a>Conector VoIP Nuvem POPP
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Informações fornecidas pela COMUNICAÇÃO DA PAPO para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Conector VoIP de Nuvem DA PAPO |
+| Nome do aplicativo | Conector VoIP Nuvem POPP |
 | ID | WA200003306 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | COMUNICAÇÕES DA PAPO |
+| Nome da empresa de parceiro | Comunicações POPP |
 | URL do site do parceiro | [https://popp.com](https://popp.com) |
 | URL da Política de Privacidade | [https://popp.com/terms/privacy-policy/](https://popp.com/terms/privacy-policy/) |
 | URL dos Termos de Uso | [https://popp.com/pvnterms/](https://popp.com/pvnterms/) |
@@ -109,17 +109,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -147,3 +136,4 @@ Essas informações foram fornecidas pela COMUNICAÇÃO DA PAPO SOBRE como esse 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

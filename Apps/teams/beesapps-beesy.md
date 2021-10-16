@@ -2,18 +2,18 @@
 title: Informações do aplicativo para a Beesy by BeesApps
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2020
+ms.date: 01/31/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Beesy, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ff8d420d7ea17219b2c94e9e9ac6bf4b8fa4efcb
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2d6c04408ab08da89a858987981beb3fafc30229
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277611"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411850"
 ---
 # <a name="beesy"></a>Beesy
 
@@ -56,7 +56,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | delegado | Armazenamos apenas a ID UPN para comparar a determinada solicitando por meio do token AAD para verificar se a conta existe em nosso sistema. | permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso | [d27f56ed-ddc7-4cf8-86ac-721b76c7d287](https://docs.microsoft.com/microsoft-365-app-certification/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287) |
+>| User.Read | delegado | Armazenamos apenas a ID UPN para comparar a determinada solicitando por meio AAD token para verificar se a conta existe em nosso sistema. | permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso | [d27f56ed-ddc7-4cf8-86ac-721b76c7d287](https://docs.microsoft.com/microsoft-365-app-certification/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -107,4 +107,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

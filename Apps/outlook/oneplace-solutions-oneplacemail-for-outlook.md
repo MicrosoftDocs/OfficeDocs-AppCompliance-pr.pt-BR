@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o OnePlaceMail para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 196720a00525971f29618d48436cf11b37a3aaac
-ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
+ms.openlocfilehash: 310e662c42247476df716e42159ecd5e348ed4e2
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60080642"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414165"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail para Outlook
 
@@ -70,7 +70,7 @@ Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que n�
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Microsoft Office SharePoint Online | Sim | SharePoint URLs, nomes de biblioteca/lista/pasta | As informações organizacionais acessadas por são usadas para facilitar o processo de salvar emails e anexos de Exchange para SharePoint. Esses dados adicionais não são armazenados em repouso e são criptografados em trânsito. Exemplos desses dados incluem SharePoint de coluna, como valores de coluna De escolha, valores de taxonomia, nomes de Tipo de Conteúdo, Nomes de Pasta, Nomes de Site.  | Embora esses dados não são armazenados ou coletados pelo aplicativo, eles podem aparecer em telemetria/logs em que são mantidos por 90 dias. | Os dados não são armazenados |
+>| SharePoint | Sim | SharePoint URLs, nomes de biblioteca/lista/pasta | As informações organizacionais acessadas por são usadas para facilitar o processo de salvar emails e anexos de Exchange para SharePoint. Esses dados adicionais não são armazenados em repouso e são criptografados em trânsito. Exemplos desses dados incluem SharePoint de coluna, como valores de coluna De escolha, valores de taxonomia, nomes de Tipo de Conteúdo, Nomes de Pasta, Nomes de Site.  | Embora esses dados não são armazenados ou coletados pelo aplicativo, eles podem aparecer em telemetria/logs em que são mantidos por 90 dias. | Os dados não são armazenados |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
@@ -142,3 +142,4 @@ Essas informações foram fornecidas pelas Soluções do OnePlace sobre como ess
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

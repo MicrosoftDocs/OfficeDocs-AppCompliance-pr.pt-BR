@@ -2,18 +2,18 @@
 title: Ferramenta Informações do Aplicativo para Campanhas do Zoho para automação de marketing pela Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a ferramenta Campanhas do Zoho para automação de marketing, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b6b0137447f5de7d7ef2394c32eb6996772852ad
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2eaae419f204cfdc5650ca66a3cfa4e6cc116c4a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277583"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413202"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>Ferramenta Campanhas do Zoho para automação de marketing
 
@@ -102,4 +102,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

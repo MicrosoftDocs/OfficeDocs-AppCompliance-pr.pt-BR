@@ -2,18 +2,18 @@
 title: Informações do aplicativo para codetwo assinaturas de email para Office 365 por CodeTwo
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/02/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para CodeTwo Email Signatures para Office 365, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 79db12fe65495df15e21b46e810abd8bbd017359
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 13a8b7200513d09c77416ea93be55178c9b2a762
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59275794"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413152"
 ---
 # <a name="codetwo-email-signatures-for-office-365"></a>CodeTwo Email Signatures for Office 365
 
@@ -134,3 +134,4 @@ Essas informações foram fornecidas pelo CodeTwo sobre como esse aplicativo lid
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

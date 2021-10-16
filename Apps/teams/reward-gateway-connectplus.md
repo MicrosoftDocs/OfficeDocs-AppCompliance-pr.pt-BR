@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Conexão+ pelo Gateway de Recompensa
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/25/2021
+ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Conexão+, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 573f6bbf833f08720b6ace0fe6d1f0b92bcc4a53
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ff17f1dd70ce7d6a5e6c33ee325cda0e87a1e526
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59275747"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414085"
 ---
 # <a name="connect"></a>Connect+
 
@@ -120,3 +120,4 @@ Essas informações foram fornecidas pelo Gateway de Recompensa sobre como esse 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

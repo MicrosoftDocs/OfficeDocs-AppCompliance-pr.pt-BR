@@ -2,18 +2,18 @@
 title: Informações do aplicativo para malhar oco por Redes Descaradas Oy
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/03/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Treinamento SemEsco, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3544854ed952a23af34da1cc1b0ab82465c0966e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b8a661024c7dba8bc782f97db23456bedf8a579b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277760"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412471"
 ---
 # <a name="cuckoo-workout"></a>Treinamento Cuco
 
@@ -140,3 +140,4 @@ Essas informações foram fornecidas pelo Oy redes de cucos sobre como esse apli
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

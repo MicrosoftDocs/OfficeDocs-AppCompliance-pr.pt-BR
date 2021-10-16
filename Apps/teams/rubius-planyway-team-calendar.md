@@ -2,18 +2,18 @@
 title: Informações do aplicativo para o calendário da equipe planyway por Rubius
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/19/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Planyway Team Calendar, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d712799259406f65b30a7d186763bb0addba9d1e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d118e41b6c93f2eca85b86f870240f31f9911dd1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276005"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412771"
 ---
 # <a name="planyway-team-calendar"></a>Calendário de Equipe do Planyway
 
@@ -118,3 +118,4 @@ Essas informações foram fornecidas por Rubius sobre como esse aplicativo lida 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

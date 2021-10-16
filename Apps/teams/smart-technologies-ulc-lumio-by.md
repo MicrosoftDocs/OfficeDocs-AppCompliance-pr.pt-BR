@@ -2,18 +2,18 @@
 title: Informações de aplicativos para Lumio pelo SMART by SMART Technologies ULC
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/19/2021
+ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Lumio pelo SMART, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7f97e53eb5b4c27aa8bf2be4c97760f8a536cd06
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e5749e9439f48960293fbb13d3efe8f3ef00158d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276469"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413483"
 ---
 # <a name="lumio-by-smart"></a>Lumio por SMART
 
@@ -121,3 +121,4 @@ Essas informações foram fornecidas pelo SMART Technologies ULC sobre como esse
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

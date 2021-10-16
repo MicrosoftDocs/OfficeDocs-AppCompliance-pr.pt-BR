@@ -2,18 +2,18 @@
 title: Informações de aplicativo para GoToConnect by LogMeIn Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/19/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para GoToConnect, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2e3b563c4799049e9447ba7c0dbe56aa84e24a44
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4525d41f301f1d9c0b131a7af6b605f0c93c1798
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276611"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412240"
 ---
 # <a name="gotoconnect"></a>GoToConnect
 
@@ -118,3 +118,4 @@ Essas informações foram fornecidas pela LogMeIn Inc. sobre como esse aplicativ
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

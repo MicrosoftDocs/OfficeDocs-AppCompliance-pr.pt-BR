@@ -2,18 +2,18 @@
 title: Informações do aplicativo harmon.ie para Outlook pela harmon.ie Corporation
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2021
+ms.date: 01/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o harmon.ie para Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e63a6614f0e0d6fb62cae5343982f4118a4c9168
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c98557ec48ab829f8194eb1255c5604bf5931da7
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276249"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414265"
 ---
 # <a name="harmonie-for-outlook"></a>harmon.ie para Outlook
 
@@ -129,3 +129,4 @@ Essas informações foram fornecidas pela harmon.ie Corporation sobre como esse 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Informações do aplicativo para a experiência de líder do qChange pela qChange Software Solution, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/20/2021
+ms.date: 05/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Experiência de Líder do qChange, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: efa6d9c9165a852ff45f1d6c68d8aeb3343a18e3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2123fe401ab5da425903d7821bfc598d7f0d2723
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276341"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414105"
 ---
 # <a name="qchange-leader-experience"></a>qExperiência do Líder de Mudança
 
@@ -135,3 +135,4 @@ Essas informações foram fornecidas pela qChange Software Solution, Inc. sobre 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

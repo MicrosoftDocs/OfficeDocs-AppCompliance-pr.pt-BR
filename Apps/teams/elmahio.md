@@ -2,18 +2,18 @@
 title: Informações do aplicativo para elmah.io por elmah.io
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/10/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para elmah.io, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2761f22f1b41c208d7dce1589ac3d62ab41efc54
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b3e652415a7adf625ada6ba19e4bbb6625b7c5f1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277710"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414677"
 ---
 # <a name="elmahio"></a>elmah.io
 
@@ -120,3 +120,4 @@ Essas informações foram fornecidas pela elmah.io sobre como esse aplicativo li
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

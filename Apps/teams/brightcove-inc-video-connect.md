@@ -2,20 +2,20 @@
 title: Informações do aplicativo para Conexão vídeo brightcove pela Brightcove Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/15/2021
+ms.date: 09/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Brightcove Video Conexão, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: ff2235d0ba6c3607581e03a5a48d6ccad9a415e2
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 53b0ea912c57bb18b70a42712263aba6c4e67551
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785354"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413072"
 ---
-# <a name="brightcove-video-connect"></a>Vídeo brightcove Conexão
+# <a name="brightcove-video-connect"></a>Conexão de Vídeo Brilhante
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Informações fornecidas pela Brightcove Inc. à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Vídeo brightcove Conexão |
+| Nome do aplicativo | Conexão de Vídeo Brilhante |
 | ID | WA200003247 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Brightcove Inc. |
@@ -95,17 +95,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -120,3 +109,4 @@ Essas informações foram fornecidas pela Brightcove Inc. sobre como esse aplica
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

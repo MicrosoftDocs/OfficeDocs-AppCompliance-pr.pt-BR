@@ -2,18 +2,18 @@
 title: Informações do aplicativo para dados arquivados XBRL pela XBRL US
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/02/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Dados Arquivados XBRL, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 71c06644f03598cb265554891a8dc33632be32da
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 915cf51cc4670603e7637374ca1439cd4ae00554
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277586"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413985"
 ---
 # <a name="xbrl-filed-data"></a>Dados arquivados XBRL
 
@@ -111,3 +111,4 @@ Essas informações foram fornecidas pela XBRL US sobre como esse aplicativo lid
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

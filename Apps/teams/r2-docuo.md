@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Docuo by R2 Docuo
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/01/2021
+ms.date: 08/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Docuo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 6f7bdc8aadbb4ac651d09b1ff3140870da2f4bc2
-ms.sourcegitcommit: eae0e45c87fa8f1a87257e1e38122228e6970ba9
+ms.openlocfilehash: a33e49f1c9a60f30a14a51a2b5075bdcb33ce7c0
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58390467"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414095"
 ---
 # <a name="docuo"></a>Docuo
 
@@ -30,7 +30,7 @@ ms.locfileid: "58390467"
 
 Informações fornecidas pelo Docuo R2 para a Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | Docuo |
 | ID | WA200002937 |
@@ -93,17 +93,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -111,10 +100,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pelo R2 Docuo sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

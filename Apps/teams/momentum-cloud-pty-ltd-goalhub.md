@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Goalhub by Momentum Cloud Pty Ltd
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/01/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Goalhub, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 40639ecd98fcb754eef6286910cdc5972c3ebaf0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 81dae2dab8755d85d72645843ee1094318c8b75e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277552"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414498"
 ---
 # <a name="goalhub"></a>Goalhub
 
@@ -130,3 +130,4 @@ Essas informações foram fornecidas pela Momentum Cloud Pty Ltd sobre como esse
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

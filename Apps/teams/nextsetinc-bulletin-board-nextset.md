@@ -2,18 +2,18 @@
 title: Informações do aplicativo para o Quadro de Boletins - NextSet by NextSet,Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/21/2021
+ms.date: 06/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Quadro de Boletins - NextSet, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c423181155ac9b777bb03576032f01a8a16578b4
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d08a21f9d99f37ed754239729387e34eb928ad8d
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276386"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414155"
 ---
 # <a name="bulletin-board---nextset"></a>Quadro de Avisos - NextSet
 
@@ -93,7 +93,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->N/A
+>N/D
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -143,3 +143,4 @@ Essas informações foram fornecidas pelo NextSet,Inc. sobre como esse aplicativ
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

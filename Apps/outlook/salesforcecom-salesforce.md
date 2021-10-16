@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Salesforce por salesforce.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/24/2021
+ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Salesforce, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 152885012f81c077fc0bb018fda7080867c54986
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 749e4cf95c8eefb650f6fd0f8ceb59721d7efcc8
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277585"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413523"
 ---
 # <a name="salesforce"></a>Salesforce
 
@@ -61,8 +61,8 @@ Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que n�
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| API JavaScript para Office | Sim | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade de usuário atual do Outlook, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos, CreateItem (.js), que é usada para criar uma mensagem de rascunho. | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade de usuário atual do Outlook, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos, CreateItem (.js), que é usada para criar uma mensagem de rascunho. |
->| Serviços Web do Exchange (EWS) | Sim | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade de usuário atual do Outlook, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos, CreateItem (.js), que é usada para criar uma mensagem de rascunho. | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade de usuário atual do Outlook, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos, CreateItem (.js), que é usada para criar uma mensagem de rascunho. |
+>| API JavaScript para Office | Sim | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade Outlook usuário atual, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos,  CreateItem (.js), que é usado para criar uma mensagem de rascunho. | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade Outlook usuário atual, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos,  CreateItem (.js), que é usado para criar uma mensagem de rascunho. |
+>| Serviços Web do Exchange (EWS) | Sim | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. | O complemento usa funções do Office.js e do EWS para copiar conteúdo e anexos sobre um email que um usuário Outlook decidiu fazer logoff no Salesforce. Recursos semelhantes são usados no lado do calendário, para registrar compromissos no Salesforce. | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade Outlook usuário atual, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos,  CreateItem (.js), que é usado para criar uma mensagem de rascunho. | O complemento usa funções como getUserIdentityTokenAsync para obter a identidade Outlook usuário atual, GetItem (.js e EWS) para obter e definir AdditionalProperties e o conteúdo da mensagem de email atual ao salvar em registros do Salesforce, GetAttachment (EWS) para recuperar os anexos do Exchange e adicionar ao email do Salesforce emparelhado, UpdateItem (.js), GetFolder (.js) para obter a pasta rascunhos,  CreateItem (.js), que é usado para criar uma mensagem de rascunho. |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
@@ -94,17 +94,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -119,3 +108,4 @@ Essas informações foram fornecidas por salesforce.com sobre como esse aplicati
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

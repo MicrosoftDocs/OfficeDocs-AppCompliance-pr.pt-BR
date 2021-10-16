@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Workbench Intelligence por Temporall
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/22/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Workbench Intelligence, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: bf2a249e9eb0cf8e572158d9b393b49fc81153ff
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 7adf907a083a4fcf5c7c57fe0cf048ba771d0d6e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785343"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414427"
 ---
 # <a name="workbench-intelligence"></a>Workbench Intelligence
 
@@ -63,7 +63,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| Directory.Read.All | aplicação | ClientId, Lista de usuários, lista de organizações e sub-canais. Justificativa: necessário para ler usuários &amp; de sincronização para o Trabalho Temporal | Nome do usuário, Email, Ícone, Referência De Conversa. Justification:&#160;Temporall Workbench permite que os usuários filtrem e categorizem dados de acordo com os canais. Os dados da organização são armazenados para se reconectar às equipes após a instalação | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
 >| Group.ReadWrite.All | aplicação | Nome da ID do &amp; grupo. Justificativa: para instalar o aplicativo em cada grupo/canal | Nome da id &amp; de grupo juntamente com o objeto de dados brutos para referência. Justificativa: o Trabalho Temporal permite que os usuários filtrem e categorizem dados de acordo com grupos/equipes. Esses dados brutos são salvos para ter referência ao objeto original | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
 >| TeamMember.Read.All | aplicação | Associação do usuário à equipe. Justificativa: permite a sincronização de todos os usuários no Teams com a Temporall Workbench | Endereço de email, nome e sobrenome. Justificativa: Permitir a correspondência de usuários em equipes com usuários no Trabalho Temporal para permitir a sincronização de usuários por email. | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| TeamsAppInstallation.ReadWriteForTeam.All | aplicação | Lista de leitura dos aplicativos instalados para a Equipe. Justificativa: verifique se nosso aplicativo já está instalado caso contrário o instala para poder obter atividade de mensagem por meio da api gráfica | N/A | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
+>| TeamsAppInstallation.ReadWriteForTeam.All | aplicação | Lista de leitura dos aplicativos instalados para a Equipe. Justificativa: verifique se nosso aplicativo já está instalado caso contrário o instala para poder obter atividade de mensagem por meio da api gráfica | N/D | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
 >| TeamsAppInstallation.ReadWriteForUser.All | aplicação | Ler lista de aplicativos instalados. Verifique se nosso aplicativo já está instalado caso contrário o instala para interagir com o usuário por meio de um questionário | NA | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
 >| User.Read | delegado | Informações &amp; básicas da empresa do usuário. Justificativa: usada para categorizar a atividade de mensagem pelo usuário, permite que o bot participe de mensagens proativas. | Nome do usuário, Email, Ícone, Referência De Conversa. Justificativa: permite que nosso bot envie mensagens proativamente para os usuários com informações relevantes. Usuários de grupo para exibição de dados | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
 
@@ -105,17 +105,6 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
-
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -142,3 +131,4 @@ Essas informações foram fornecidas pela Temporall sobre como esse aplicativo l
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

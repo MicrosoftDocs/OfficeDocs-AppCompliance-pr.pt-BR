@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Dia de Trabalho por Dia de Trabalho
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/26/2021
+ms.date: 02/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Workday, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 71a16c42f8676ac12ed4de34ccbdf010de009453
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 38b56caaf5bc20986cec75615725e601a6f12562
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277432"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414837"
 ---
 # <a name="workday"></a>Workday
 
@@ -57,7 +57,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| TeamsAppInstallation.ReadWriteForUser.All | aplicação | Retreive a ID do aplicativo, instale App for User, Obter Teams de licença do AAD | Não armazenamos dados relacionados a esse recurso.  Ele nos permite instalar o aplicativo para o usuário. | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
+>| TeamsAppInstallation.ReadWriteForUser.All | aplicação | Retreive a ID do aplicativo, instale App for User, obter Teams detalhes da licença AAD | Não armazenamos dados relacionados a esse recurso.  Ele nos permite instalar o aplicativo para o usuário. | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
 >| User.Read.All | aplicação | Recuperar usuários AAID para enviar mensagens de usuários. | Apenas a AAID e Teams AAID  | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
 
 
@@ -67,7 +67,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 
 >| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Os dados organizacionais são compartilhados entre o Workday Services e a Microsoft. Consulte os termos do seu contrato com o Workday para obter detalhes adicionais. | Os dados organizacionais são compartilhados entre o Workday Services e a Microsoft. Consulte os termos do seu contrato com o Workday para obter detalhes adicionais. | N/A |
+>| Os dados organizacionais são compartilhados entre o Workday Services e a Microsoft. Consulte os termos do seu contrato com o Workday para obter detalhes adicionais. | Os dados organizacionais são compartilhados entre o Workday Services e a Microsoft. Consulte os termos do seu contrato com o Workday para obter detalhes adicionais. | N/D |
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -125,3 +125,4 @@ Essas informações foram fornecidas pelo Workday sobre como esse aplicativo lid
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

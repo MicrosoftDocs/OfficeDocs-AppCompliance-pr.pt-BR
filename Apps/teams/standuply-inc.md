@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Standuply Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/04/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Standuply, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0b1613f70b1909faf9582a5a88e73273ae5bcc77
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4544d1a06a779dfc4b4e28c099353aaf09e886ea
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276270"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413363"
 ---
 # <a name="standuply"></a>Standuply
 
@@ -137,3 +137,4 @@ Essas informações foram fornecidas pela Standuply Inc. sobre como esse aplicat
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

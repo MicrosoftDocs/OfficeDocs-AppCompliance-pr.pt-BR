@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Lembrar pela 88 Ventures Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/28/2020
+ms.date: 08/18/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Lembrar, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f39e0c35b88e3212743e30c7ab5ac40c74c708c3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e44cb7a148a9cd1c6a1b1c497863eaced9259f41
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59275790"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412000"
 ---
 # <a name="remind"></a>Remind
 
@@ -107,4 +107,5 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

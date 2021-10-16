@@ -2,18 +2,18 @@
 title: Informações do aplicativo para a workboard pela Workboard Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/04/2021
+ms.date: 06/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para Workboard, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0b2e460bf569a55b6a0179e7009ea92a5319ebab
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e4eb373bba9f98978e08fee875bb14c0e057096c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277546"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414848"
 ---
 # <a name="workboard"></a>Workboard
 
@@ -134,3 +134,4 @@ Essas informações foram fornecidas pela Workboard Inc. sobre como esse aplicat
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
