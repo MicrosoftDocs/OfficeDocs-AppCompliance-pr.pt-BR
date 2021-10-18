@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para 365Projects, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d0b60f86e96d0ce35e51956a778f9379cdad9bef
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 30670ebb5d80435dfbe77b3e735aeb72a695907c
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412010"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430913"
 ---
 # <a name="365projects"></a>365Projects
 
@@ -139,4 +139,3 @@ Essas informações foram fornecidas pelo 365Apps sobre como esse aplicativo lid
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

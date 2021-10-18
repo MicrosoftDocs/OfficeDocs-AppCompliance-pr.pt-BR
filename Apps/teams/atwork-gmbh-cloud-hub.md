@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Cloud Hub, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: bcc637f20ffb7c4f1ddcac89ba7f1e930883ae95
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 855b7adb59645040063f85feb092e21f2ef30326
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411135"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430893"
 ---
 # <a name="cloud-hub"></a>hub de Nuvem
 
@@ -133,4 +133,3 @@ Essas informações foram fornecidas pelo GmbH do atwork sobre como esse aplicat
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

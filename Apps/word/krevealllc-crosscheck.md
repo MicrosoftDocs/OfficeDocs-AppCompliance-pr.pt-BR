@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para CrossCheck, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 37cb5bad4ded3d0c580e7a9857c8bab327b49fc7
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 7dc6fb17d66eca3acf1f0a05538bb39ca1a448c7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60404712"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430933"
 ---
 # <a name="crosscheck"></a>CrossCheck
 
@@ -114,4 +114,3 @@ Essas informações foram fornecidas pelo kRevealLLC sobre como esse aplicativo 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

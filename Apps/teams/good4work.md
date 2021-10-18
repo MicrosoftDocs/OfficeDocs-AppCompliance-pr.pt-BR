@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Good4work, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 88316601077073b99109491c06b949dd27a0c944
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 32cf3a3bda08813f90b215de4ec8ddc5bfe9601c
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410234"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60431043"
 ---
 # <a name="good4work"></a>Good4work
 
@@ -118,4 +118,3 @@ Essas informações foram fornecidas pela Good4work sobre como esse aplicativo l
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

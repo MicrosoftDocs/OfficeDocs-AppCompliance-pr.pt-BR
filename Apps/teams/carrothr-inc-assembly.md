@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Assembly, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3597930ccf3200a42afe3ac7335199cbe5e9e885
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: ec566b8195ee476fa1b971cd638ebc1899a3a629
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411105"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430863"
 ---
 # <a name="assembly"></a>Assembly
 
@@ -139,4 +139,3 @@ Essas informações foram fornecidas pela CarrotHR Inc. sobre como esse aplicati
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Conexão TELUS Business, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 465b92171bb82a617d2369298037c06fce1fa84a
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: d39d9d969d09d711de1d879dd869543e06d3a596
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413443"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430993"
 ---
 # <a name="telus-business-connect"></a>Conexão TELUS Business
 
@@ -112,4 +112,3 @@ Essas informações foram fornecidas pela RingCentral, Inc. sobre como esse apli
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
