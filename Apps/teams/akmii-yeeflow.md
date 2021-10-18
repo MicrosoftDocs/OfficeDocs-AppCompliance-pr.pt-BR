@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Yeeflow, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f9bbd85e5fca9b96f95a8fd5075968e4250b1fc3
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 3bd95d8326117fac1412a7144b2d170eea24b304
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412591"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444560"
 ---
 # <a name="yeeflow"></a>Yeeflow
 
@@ -133,4 +133,3 @@ Essas informações foram fornecidas por Akmii sobre como esse aplicativo lida c
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

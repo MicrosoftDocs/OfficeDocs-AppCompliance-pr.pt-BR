@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Kipa, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: ac1bcae2a1f1145620e225add7cb827160fddc4d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: cd6412cf5cfc773b0a0b0fbf2784ca48c7d822cb
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412881"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444850"
 ---
 # <a name="kippa"></a>Kippa
 
@@ -122,4 +122,3 @@ Essas informações foram fornecidas pela KLIPPAS Technologies inc. sobre como e
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

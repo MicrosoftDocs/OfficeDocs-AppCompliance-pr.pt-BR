@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Mendeley Cite, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3ea90c96be3257c18c7a56400decbf16d201a743
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 0a92f1ae2a8a30b932345f025750d27556c77ef1
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414326"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60445261"
 ---
 # <a name="mendeley-cite"></a>Mendeley Cite
 
@@ -119,4 +119,3 @@ Essas informações foram fornecidas pela ELSEVIER LIMITED sobre como esse aplic
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

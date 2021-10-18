@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Bem-estar do Dia da Escola, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: babc51460ddb23fd19007f2ebfc8ebab00300a69
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: ff37e7b9bb25090f65793d99c5ff994fc6af6d65
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60408420"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60440723"
 ---
 # <a name="school-day-wellbeing"></a>Bem-estar do Dia Escolar
 
@@ -135,4 +135,3 @@ Essas informações foram fornecidas pelo Oy do Dia da Escola de Helsínquia sob
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

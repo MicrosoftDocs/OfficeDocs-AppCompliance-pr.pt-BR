@@ -13,7 +13,7 @@ ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430953"
+ms.locfileid: "60432836"
 ---
 # <a name="now-virtual-agent"></a>Now Virtual Agent
 

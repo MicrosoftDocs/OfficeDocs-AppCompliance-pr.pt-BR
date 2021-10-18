@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o eLearning de Maiores Cérebros, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 025e8b509f13737c71d78850e38c524bda352e3b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: c21de4be4d9e3d25636e9283a391e4020807d730
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412541"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444170"
 ---
 # <a name="bigger-brains-elearning"></a>ELearning Maiores Cérebros
 
@@ -109,4 +109,3 @@ Essas informações foram fornecidas por Biggerbrains sobre como esse aplicativo
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Assinaturas de Impressão para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 66fca767e647970b1fbfa5447e687d66f724095f
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: dbc947a788beeaa91da81efcf59f8d7d5be790b5
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414255"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444727"
 ---
 # <a name="impression-signatures-for-outlook"></a>Assinaturas de impressão para Outlook
 
@@ -104,4 +104,3 @@ Essas informações foram fornecidas por Assinaturas de Impressão sobre como es
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

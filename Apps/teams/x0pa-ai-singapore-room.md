@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a SALA X0PA, suas políticas de tratamento de dados, Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 080a1ef879f271bfb6332b0ad1e10b677dfebff3
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 048732df7ec55c74fb372648fd7495ef939d4d24
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414346"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60434620"
 ---
 # <a name="x0pa-room"></a>SALA X0PA
 
@@ -107,4 +107,3 @@ Essas informações foram fornecidas pela X0PA AI Singapore sobre como esse apli
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a AI de apresentações, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 863fadd2e904db5cf120af5c4ba20626578b2ea3
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 70597f83be889c54c147ac9fa799dfdbee1936d8
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412941"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60441009"
 ---
 # <a name="presentations-ai"></a>IA de apresentações
 
@@ -118,4 +118,3 @@ Essas informações foram fornecidas pelas tecnologias do Infographfx sobre como
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

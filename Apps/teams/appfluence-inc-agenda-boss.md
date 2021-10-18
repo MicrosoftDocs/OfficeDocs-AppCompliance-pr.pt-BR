@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Agenda Boss, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9dd29e013cf748a6ed287cc4c16f6387ff4d2c1a
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: ef48b45c315ee10bf9620b9d7fc6bc5b1989bc8e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411155"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444880"
 ---
 # <a name="agenda-boss"></a>Agenda Chefe
 
@@ -131,4 +131,3 @@ Essas informações foram fornecidas pela Appfluence Inc sobre como esse aplicat
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

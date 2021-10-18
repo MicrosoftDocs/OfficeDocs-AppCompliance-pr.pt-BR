@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Infor Coleman, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: d06dec9fe442345491d60964d8ec346f72fa6645
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: ca38b48381bc0be457ecf63b497e4b771cafc345
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413773"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60435585"
 ---
 # <a name="infor-coleman"></a>Infor Coleman
 
@@ -106,4 +106,3 @@ Essas informações foram fornecidas pelo INFOR (EUA), INC. sobre como esse apli
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o envio de texto por email, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: afdd7e636fc38fe5c413d0ec175a6ab3847385da
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: dd581f2d3ad38cd31e18bf0adce01fd1a6b2744a
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414387"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60432826"
 ---
 # <a name="email-texting"></a>email-mensagem de texto
 
@@ -124,4 +124,3 @@ Essas informações foram fornecidas pela Voice Elements Corporation sobre como 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

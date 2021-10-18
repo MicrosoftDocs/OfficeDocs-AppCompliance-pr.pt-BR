@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para ARGUSnylar, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b6e8954ddd27c1383c5af8a9f1a175cca290644f
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 424ce4804eb5444ba1cc690c99fc40fb816d1993
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411920"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60434680"
 ---
 # <a name="argusnylar"></a>ARGUSnylar
 
@@ -121,4 +121,3 @@ Essas informações foram fornecidas pelo ARGUS DATA INSIGHTS Sobre como esse ap
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

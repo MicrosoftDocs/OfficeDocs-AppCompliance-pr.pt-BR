@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o CONECTOR VOIP da Nuvem DA PAPO, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 42930c1020e86aeb6f55fb81929f30285e17dae3
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: c13790c3baa08d584343e9d504251e3920204b22
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414968"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60438720"
 ---
 # <a name="popp-cloud-voip-connector"></a>Conector VoIP Nuvem POPP
 
@@ -136,4 +136,3 @@ Essas informações foram fornecidas pela COMUNICAÇÃO DA PAPO SOBRE como esse 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
