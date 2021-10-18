@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a ferramenta Campanhas do Zoho para automação de marketing, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2eaae419f204cfdc5650ca66a3cfa4e6cc116c4a
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 654a230731c93126e593f3af7b83eb7cfe434d90
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413202"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430691"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>Ferramenta Campanhas do Zoho para automação de marketing
 
@@ -102,5 +102,4 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

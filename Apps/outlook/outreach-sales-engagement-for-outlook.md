@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Envolvimento de Vendas de Divulgação para Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 483fb4fd6741e479403e4cd05ad284b50a87f9c4
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: d3b2a00ddb4023a54e78825c2382c1dbdad6f28a
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413553"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430721"
 ---
 # <a name="outreach-sales-engagement-for-outlook"></a>Envolvimento de vendas de divulgação para Outlook
 
@@ -109,4 +109,3 @@ Essas informações foram fornecidas pelo Outreach sobre como esse aplicativo li
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Nuvem de Comunicações do GuideSpark, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: becc848dde742ac9f9b66d634f687219e3600353
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 7604b2e50b029bae0b438cc5f1c90df550de40a7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412250"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429128"
 ---
-# <a name="guidespark-communicate-cloud"></a>Nuvem de comunicação guideSpark
+# <a name="guidespark-communicate-cloud"></a>GuideSpark Communicate Cloud
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Informações fornecidas pelo GuideSpark para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Nuvem de comunicação guideSpark |
+| Nome do aplicativo | GuideSpark Communicate Cloud |
 | ID | WA200003348 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | GuideSpark |
@@ -107,4 +107,3 @@ Essas informações foram fornecidas pelo GuideSpark sobre como esse aplicativo 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

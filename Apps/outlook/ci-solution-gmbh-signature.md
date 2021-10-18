@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para CI-Signature, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bad7efd16d1f3e8993892265bee3ada983b59455
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 21fab81e2f7257f11f32f48e4f31cefa98776cb7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411235"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429238"
 ---
 # <a name="ci-signature"></a>CI-Signature
 
@@ -111,4 +111,3 @@ Essas informações foram fornecidas pelo GmbH da solução ci sobre como esse a
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

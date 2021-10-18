@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SQQ, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 97be639c9e363f6cc5e5f36231a6f8aaf476a420
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: be0471187ec6ab0f0e4cf09ffcc30f4ff1d6c198
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410825"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428498"
 ---
 # <a name="sqq"></a>SQQ
 
@@ -109,4 +109,3 @@ Essas informações foram fornecidas pelo SuperQuickQuestion sobre como esse apl
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

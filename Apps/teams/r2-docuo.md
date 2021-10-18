@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Docuo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: a33e49f1c9a60f30a14a51a2b5075bdcb33ce7c0
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 5107386cbf0c95d41e0760d759e0ff8a584fb780
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414095"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429118"
 ---
 # <a name="docuo"></a>Docuo
 
@@ -107,4 +107,3 @@ Essas informações foram fornecidas pelo R2 Docuo sobre como esse aplicativo li
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o LawToolBox Deadlines Matter Management - Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do &amp; CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: f62485ceda390d09597a55c25f8f0e36948b5bd2
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 267fd3fcb746c890d45ef0e3ad64b304090bff12
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415238"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428678"
 ---
 # <a name="lawtoolbox-deadlines-amp-matter-management---outlook"></a>LawToolBox Deadlines &amp; Matter Management - Outlook
 
@@ -136,4 +136,3 @@ Essas informações foram fornecidas pela LawToolBox.com Inc. sobre como esse ap
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

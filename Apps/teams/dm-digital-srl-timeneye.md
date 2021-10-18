@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Timeneye, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 30c0543469970b94d1020a3c1c64f668ab833075
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: c98a1fbd0db2d02caf71e16000d8b57bb8df06da
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412441"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429939"
 ---
 # <a name="timeneye"></a>Timeneye
 
@@ -138,4 +138,3 @@ Essas informações foram fornecidas pelo SRL Digital do DM sobre como esse apli
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

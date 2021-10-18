@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para 50, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 75b2b55b86450821d036f4c7f0d10c21de2c42eb
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 022f2d555e973f8cd86b7afb439ac706ebcb6882
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415118"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430209"
 ---
 # <a name="fifty"></a>Cinquenta
 
@@ -109,4 +109,3 @@ Essas informações foram fornecidas por 50 sobre como esse aplicativo lida com 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

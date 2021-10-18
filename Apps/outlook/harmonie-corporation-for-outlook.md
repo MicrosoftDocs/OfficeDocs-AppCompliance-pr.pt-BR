@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o harmon.ie para Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c98557ec48ab829f8194eb1255c5604bf5931da7
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: e98209660ac5e78fec8bcaa16e377992bdc3c3af
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414265"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430249"
 ---
 # <a name="harmonie-for-outlook"></a>harmon.ie para Outlook
 
@@ -129,4 +129,3 @@ Essas informações foram fornecidas pela harmon.ie Corporation sobre como esse 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

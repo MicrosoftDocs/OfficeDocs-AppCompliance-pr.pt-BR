@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Loops - Learning criativo, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9b8361835649416ff5f62d8e1c2db35ca546f7b9
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: d29a167259c67ebddacd1a755fe36337408f66ae
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411476"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429549"
 ---
 # <a name="loops---creative-learning"></a>Loops - Aprendizado criativo
 
@@ -128,4 +128,3 @@ Essas informações foram fornecidas pelo Skooler sobre como esse aplicativo lid
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

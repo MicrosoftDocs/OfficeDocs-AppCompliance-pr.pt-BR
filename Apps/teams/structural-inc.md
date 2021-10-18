@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Estrutural, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 66e66041bbbaf9c1c9f982969ac7f23c43a315f3
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 53b4a0b78ce979bababa376e68b383e75f35ac00
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414035"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429529"
 ---
 # <a name="structural"></a>Estrutural
 
@@ -126,4 +126,3 @@ Essas informações foram fornecidas pela Structural Inc. sobre como esse aplica
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

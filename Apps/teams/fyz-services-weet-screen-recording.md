@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Registro de Tela de Weet, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: fa9dee24b0953351451c92c553ac4f6e6426d87d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: ae77181b5b3227627881de9ba805e715a8ca4886
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412992"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430199"
 ---
 # <a name="weet-screen-recording"></a>Gravação de tela de weet
 
@@ -114,4 +114,3 @@ Essas informações foram fornecidas pelo FYZ SERVICES sobre como esse aplicativ
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

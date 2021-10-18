@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Weekly10, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9bdd5e42398270719c9f0ecd9814155974dbee6f
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: e0b197ba692a1516f12c6268ccd6f8ad723146af
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411125"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428838"
 ---
 # <a name="weekly10"></a>Weekly10
 
@@ -126,4 +126,3 @@ Essas informações foram fornecidas pelo Binary Geek Limited sobre como esse ap
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

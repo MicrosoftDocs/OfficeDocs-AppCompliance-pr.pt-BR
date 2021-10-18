@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Onsight Conexão, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 383a66917c8ef3bd6e1ee0a1a224f2f14e4c663d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: b397a109474876373c47e1f53b1910bebc57830a
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410975"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429599"
 ---
 # <a name="onsight-connect"></a>Onsight Connect
 
@@ -119,4 +119,3 @@ Essas informações foram fornecidas pelo Librestream sobre como esse aplicativo
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

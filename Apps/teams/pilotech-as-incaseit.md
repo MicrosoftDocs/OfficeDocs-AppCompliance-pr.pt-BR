@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para InCaseIT, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 22e675ac91be216175d16271e1f0d2f7339fc36b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 424df0e4c31f8a35c4d2e095f9f95c618274fa23
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414978"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429889"
 ---
 # <a name="incaseit"></a>InCaseIT
 
@@ -124,4 +124,3 @@ Essas informações foram fornecidas pelo Pilotech AS sobre como esse aplicativo
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

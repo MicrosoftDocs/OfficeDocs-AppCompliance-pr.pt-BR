@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para 10xGoals, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 82730906a833ef43df8a3eafaee1111cf6889472
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: f4f0e5c4bdd6a7e41ac7480348fad7eb3882e3d1
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411356"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430300"
 ---
 # <a name="10xgoals"></a>10xGoals
 
@@ -126,4 +126,3 @@ Essas informações foram fornecidas pelas tecnologias xto10x sobre como esse ap
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o OfficeSpace, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d8e6981a66409925c8b88ecea9376ef62316a14b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 130c24679d6bcf784aef69c96e49fe29d898fd29
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414145"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429329"
 ---
 # <a name="officespace"></a>OfficeSpace
 
@@ -119,4 +119,3 @@ Essas informações foram fornecidas pelo Software do OfficeSpace sobre como ess
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Workbench Intelligence, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7adf907a083a4fcf5c7c57fe0cf048ba771d0d6e
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 4aaa94f3a1319a2eb06e332e1f23d4c5a1f07439
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414427"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429018"
 ---
 # <a name="workbench-intelligence"></a>Workbench Intelligence
 
@@ -131,4 +131,3 @@ Essas informações foram fornecidas pela Temporall sobre como esse aplicativo l
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

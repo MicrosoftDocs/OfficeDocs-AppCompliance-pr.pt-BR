@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Indicações de Funcionários, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: d83797a31c7ec68009ebf17773c3b8d2fe587fce
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 3f169a817828d56501225bd8a92752ec7f799771
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413456"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428978"
 ---
 # <a name="employee-referrals"></a>Indicações de Funcionários
 
@@ -122,4 +122,3 @@ Essas informações foram fornecidas pelo Recruitday Inc. sobre como esse aplica
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

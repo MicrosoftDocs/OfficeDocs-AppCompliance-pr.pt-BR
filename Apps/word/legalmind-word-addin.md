@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o AddIn do Word LegalMind, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 54d5c351432a156adf4afe4c0a40d956dc279bdb
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 740b5a6b3033879619e77aba796eb38d32f45c20
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414245"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429749"
 ---
 # <a name="legalmind-word-addin"></a>LegalMind Word AddIn
 
@@ -100,4 +100,3 @@ Essas informações foram fornecidas pela LegalMind sobre como esse aplicativo l
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

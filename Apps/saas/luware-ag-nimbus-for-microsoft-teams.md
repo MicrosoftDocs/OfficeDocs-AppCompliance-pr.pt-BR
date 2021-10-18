@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Luware Nimbus para Microsoft Teams, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: d7139f3ca934da20e58bb9f838217796ca5644da
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 34991a9d979fb497a02c074ade1bd8a7f8faea0d
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410485"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430531"
 ---
 # <a name="luware-nimbus-for-microsoft-teams"></a>Luware Nimbus para Microsoft Teams
 
@@ -127,4 +127,3 @@ Essas informações foram fornecidas pela Luware AG sobre como esse aplicativo l
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

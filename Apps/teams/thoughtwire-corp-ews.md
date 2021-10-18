@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o ThoughtWire EWS, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: ef425a6acb8cfe166502b4c4817229b1b33da14b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: ebff314a2e2532b6d4b1c2a8e89e600fced83512
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414908"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429509"
 ---
 # <a name="thoughtwire-ews"></a>ThoughtWire EWS
 
@@ -128,4 +128,3 @@ Essas informações foram fornecidas pela ThoughtWire Corp. sobre como esse apli
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

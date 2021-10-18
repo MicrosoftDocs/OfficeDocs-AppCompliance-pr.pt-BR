@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Assinaturas de Impressão, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: eb11d81de704323129790a113ecf1f379c9cd595
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 6c0070dadcba5334a905861e95ef3a658db4ec50
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60404649"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430731"
 ---
 # <a name="impression-signatures"></a>Assinaturas de Impressão
 
@@ -104,4 +104,3 @@ Essas informações foram fornecidas por Assinaturas de Impressão sobre como es
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

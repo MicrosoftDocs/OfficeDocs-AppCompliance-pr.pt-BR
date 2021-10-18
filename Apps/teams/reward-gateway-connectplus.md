@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Conexão+, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ff17f1dd70ce7d6a5e6c33ee325cda0e87a1e526
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 6d17d97422cd2351c5d9b901043aa6c6b0620f94
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414085"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429088"
 ---
 # <a name="connect"></a>Connect+
 
@@ -120,4 +120,3 @@ Essas informações foram fornecidas pelo Gateway de Recompensa sobre como esse 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

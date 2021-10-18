@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Sobol, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: ab14cdce5c11a06e3f5e06e4d903d876260bfb11
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 75db5a4bfa84550163d135bc76a78e49ec8ac412
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412481"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428818"
 ---
 # <a name="sobol"></a>Sobol
 
@@ -109,4 +109,3 @@ Essas informações foram fornecidas pela ConsenSys AG&#8217;Sobol sobre como es
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

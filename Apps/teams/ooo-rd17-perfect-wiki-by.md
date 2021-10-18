@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Wiki Perfeito pelo RD17, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 593911e2a4408a0a46fdd13868eb789dd50af933
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: d6f3be273da609d1c50b8ec0f0869dcb88b56dd5
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414989"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428758"
 ---
 # <a name="perfect-wiki-by-rd17"></a>Wiki perfeito por RD17
 
@@ -124,4 +124,3 @@ Essas informações foram fornecidas pelo OOO RD17 sobre como esse aplicativo li
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

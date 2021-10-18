@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Catálogo de Endereços de Grupo - NextSet, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 813966b77b9eac36696f07ba7d2647654739e8d8
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 7a9a8cc45cfaca970fa66826af0f024dcca986f6
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414988"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430793"
 ---
 # <a name="group-address-book---nextset"></a>Grupo Catálogo de Endereços - NextSet
 
@@ -131,4 +131,3 @@ Essas informações foram fornecidas pelo NextSet,Inc. sobre como esse aplicativ
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

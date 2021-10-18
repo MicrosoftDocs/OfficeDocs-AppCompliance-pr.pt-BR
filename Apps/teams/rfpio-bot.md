@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o bot RFPIO, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 588ed6abf73d86fe81e0ef630983406d6966d84b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 5ed3d01ef1a5bc58bf2cd8eb1a1d1d79ba492f13
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413473"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429078"
 ---
 # <a name="rfpio-bot"></a>RFPIO bot
 
@@ -136,4 +136,3 @@ Essas informações foram fornecidas pelo RFPIO sobre como esse aplicativo lida 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

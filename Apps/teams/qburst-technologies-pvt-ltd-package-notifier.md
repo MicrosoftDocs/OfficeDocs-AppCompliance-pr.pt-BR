@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Notifier de Pacotes, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 39219580d6d37172921349eda752a479b7a98f25
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: a65e9bdfa8d10bfb0dad48d1433bcd65a870c580
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411536"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430380"
 ---
 # <a name="package-notifier"></a>Notificador de Pacote
 
@@ -137,4 +137,3 @@ Essas informações foram fornecidas pela QBURST TECHNOLOGIES PVT LTD sobre como
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

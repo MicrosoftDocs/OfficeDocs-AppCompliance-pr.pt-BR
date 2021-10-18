@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para TagTeam, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 025d0040bdd58a01cd3993445c025b9a61f90822
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 81a65cb4b672c1f76c1334d564951a0298b9f9f0
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60408320"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428708"
 ---
 # <a name="tagteam"></a>TagTeam
 
@@ -136,4 +136,3 @@ Essas informações foram fornecidas pelo GmbH da Solução De Negócios Mais In
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
