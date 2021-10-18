@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Nuvem de Confluência, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f73952983dd6b9788bcd61d71e55e5815de5f937
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 965ac513d4d13a0995b992a5022bc4f7d9e44a9f
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411145"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60427163"
 ---
 # <a name="confluence-cloud"></a>Nuvem de Confluência
 
@@ -137,4 +137,3 @@ Essas informações foram fornecidas pela Atlassian sobre como esse aplicativo l
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Bright Remind Me, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 91f2a4ec1d7c4342f319ba8090f3d775bc80686d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: c47477fa295332cbcb898638f178ebd69bf7fa0b
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411820"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428123"
 ---
 # <a name="bright-remind-me"></a>Brilhante Me Lembre
 
@@ -109,4 +109,3 @@ Essas informações foram fornecidas por Aplicativos de Chat, LLC sobre como ess
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

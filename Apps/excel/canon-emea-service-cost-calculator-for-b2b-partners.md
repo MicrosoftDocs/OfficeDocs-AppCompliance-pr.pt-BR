@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Calculadora de Custo do Serviço CANON EMEA para Parceiros B2B, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: dad36c97f63d3bea7ac29ce832b3c09bd6f0dd86
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: c002d38253a0c6024e971c934818a6ea597a9fe5
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410735"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428193"
 ---
 # <a name="canon-emea-service-cost-calculator-for-b2b-partners"></a>Calculadora de custo do serviço emea canon para parceiros B2B
 
@@ -100,4 +100,3 @@ Essas informações foram fornecidas pela Canon EMEA sobre como esse aplicativo 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Dados Arquivados XBRL, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 915cf51cc4670603e7637374ca1439cd4ae00554
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 849e7d2e9269386a49672bbfb16cee538760cbca
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413985"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429399"
 ---
 # <a name="xbrl-filed-data"></a>Dados arquivados XBRL
 
@@ -111,4 +111,3 @@ Essas informações foram fornecidas pela XBRL US sobre como esse aplicativo lid
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

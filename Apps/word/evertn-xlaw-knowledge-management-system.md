@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para xLaw - sistema de gerenciamento de conhecimento, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b07ad480387dac712f6b9195fd74a82706d2629b
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: cce6d174386db07ebf7e062066549cc47c61c845
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413232"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429289"
 ---
 # <a name="xlaw---knowledge-management-system"></a>xLaw - sistema de gerenciamento de conhecimento
 
@@ -111,4 +111,3 @@ Essas informações foram fornecidas pelo evertn sobre como esse aplicativo lida
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

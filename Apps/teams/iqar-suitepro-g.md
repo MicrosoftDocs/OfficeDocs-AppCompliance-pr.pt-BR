@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o SuitePro-G, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c256ccf34681500a09dc403b4441378e46aed526
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 34eba532f6bc789dfb3491cc56a92357f7347c9b
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412921"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428253"
 ---
 # <a name="suitepro-g"></a>SuitePro-G
 
@@ -118,4 +118,3 @@ Essas informações foram fornecidas pelo IQar sobre como esse aplicativo lida c
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

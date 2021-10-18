@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Lucca, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 61f53fe653ebce1a833005082c8254392e61b2c1
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: c0ca2e6c6d07dd80afff02a4d9e5081e55633637
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411596"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60423163"
 ---
 # <a name="lucca"></a>Luca
 
@@ -115,4 +115,3 @@ Essas informações foram fornecidas por Lucca sobre como esse aplicativo lida c
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
