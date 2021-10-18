@@ -191,6 +191,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003118.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/esri-inc-arcgis-for-sharepoint",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002859.md",
       "redirect_url": "/microsoft-365-app-certification/teams/esri-arcgis-maps",
       "redirect_document_id": false
@@ -198,11 +203,6 @@
     {
       "source_path": "Apps/forward/ba4eda44-cd55-4e15-855c-0debafb0490b.md",
       "redirect_url": "/microsoft-365-app-certification/teams/esri-arcgis-maps",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200003118.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/esri-inc-arcgis-maps",
       "redirect_document_id": false
     },
     {
@@ -1553,6 +1553,16 @@
     {
       "source_path": "Apps/forward/5fdd80e2-4d58-4c5c-ac85-356c1b2a0bba.md",
       "redirect_url": "/microsoft-365-app-certification/teams/gtmhub",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003348.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/guidespark-communicate-cloud",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/34b870ca-2417-4660-b835-ebb18ee7ccf9.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/guidespark-communicate-cloud",
       "redirect_document_id": false
     },
     {
@@ -4613,6 +4623,1101 @@
     {
       "source_path": "Apps/forward/153059f1-912e-45d6-a13a-037675d66974.md",
       "redirect_url": "/microsoft-365-app-certification/teams/zoho-corporation-private-limited-sprints",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/066a6b3a-f7a0-450a-98c7-34db1da31594.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/0752d800-857f-49bd-87eb-e60985516c67.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/07d4a8e0-3d1d-4f70-bdc2-f46593d7fa0e.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/07d4a8e0-3d1d-4f70-bdc2-f46593d7fa0e",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/0b87cb84-073e-4cf6-a1ef-45d864ef2918.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/0b87cb84-073e-4cf6-a1ef-45d864ef2918",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/0c841985-9919-4c0a-b87d-b06b301148b3.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/1040474b-572d-4575-a423-95dd262a8b8a.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/1533d702-7604-463a-9fa3-63077c425e76.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/170d42a4-4ec0-4f51-bef0-693c589fccfc.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/170d42a4-4ec0-4f51-bef0-693c589fccfc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/1c7d277c-ff8a-4ea4-bc14-7d06314f8941.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/1c7d277c-ff8a-4ea4-bc14-7d06314f8941",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/1d8a304e-ea67-4aa2-9345-2793419cf83f.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/1d8a304e-ea67-4aa2-9345-2793419cf83f",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/1dd6ac57-e6f0-4995-a57f-b6d074c16e11.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/1dd6ac57-e6f0-4995-a57f-b6d074c16e11",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/272032ad-0c2e-4928-910e-5d52b19f70d5.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/272032ad-0c2e-4928-910e-5d52b19f70d5",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/27c89ce8-b449-4959-b801-988d8b727512.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/27c89ce8-b449-4959-b801-988d8b727512",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/286a2e24-18ad-432d-8698-694bcd77ecfc.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/2a93620e-4345-4e3b-9bae-0195f08aab69.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/2a93620e-4345-4e3b-9bae-0195f08aab69",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/32eae2b8-2111-431f-9263-e8e1120d0a97.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/32eae2b8-2111-431f-9263-e8e1120d0a97",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/33ccef75-8248-44e8-88d3-24526ca9c2d3.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/33ccef75-8248-44e8-88d3-24526ca9c2d3",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/3407e97c-3eed-4eca-add5-2549ed881269.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/3407e97c-3eed-4eca-add5-2549ed881269",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/36d23b76-c58b-4a34-a60f-dceac6962bad.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/38b3f4fa-4229-4d51-9937-6e4515650c8c.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/38b3f4fa-4229-4d51-9937-6e4515650c8c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/39073da9-c47c-4da8-b57a-3786461db8f4.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/39073da9-c47c-4da8-b57a-3786461db8f4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/3b1655d0-505a-4b03-a01f-519a91f77625.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/3b1655d0-505a-4b03-a01f-519a91f77625",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/3e500164-df82-4d1e-9db8-0901e07d374d.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/3e701664-cc46-49e4-b356-1a7ac6500998.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/3e745135-a761-48a7-ab54-5c0277b2e642.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/431a9917-9c32-480e-a584-6c149e7b7213.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/431a9917-9c32-480e-a584-6c149e7b7213",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/43bc466a-7678-476f-b904-2d933c5bbfc3.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/44a72516-136f-4a55-ae26-ef09977230be.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/481280f4-a4ed-4862-a5a1-4de59da9dca5.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/481280f4-a4ed-4862-a5a1-4de59da9dca5",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/494610b2-b490-4f54-8384-312d6f9b4869.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/494610b2-b490-4f54-8384-312d6f9b4869",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/49a15c37-4eca-48b1-a327-7a8b5a3b399c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/4aa38041-66a2-41a4-ac97-55bc828a9803",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/4c9110eb-5991-4def-acf3-3332325d708f.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/4c9110eb-5991-4def-acf3-3332325d708f",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/4d0997dc-df53-4b18-9df1-bb283f8a0377.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/4d0997dc-df53-4b18-9df1-bb283f8a0377",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/4e820d60-9e62-403c-accd-857b987cc13c.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/4e820d60-9e62-403c-accd-857b987cc13c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/4f037969-20ef-4a41-8330-422b7b115eb6.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/4f037969-20ef-4a41-8330-422b7b115eb6",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/5022e09d-d2f9-499f-8925-554c324ad23a.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/5022e09d-d2f9-499f-8925-554c324ad23a",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/50356ee3-b48b-424b-a7a7-35e53c2ce736.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/50356ee3-b48b-424b-a7a7-35e53c2ce736",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/53628f6a-ac66-4fde-8945-d639c8da4c0d.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/53628f6a-ac66-4fde-8945-d639c8da4c0d",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/53d19d16-137b-4365-a095-685d5044d28c.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/53d19d16-137b-4365-a095-685d5044d28c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/56412014-bafe-474e-95b4-ebfea106a167.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/57de46f8-193a-400c-9a34-c862333aed55.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/597cc93d-8951-4f62-b549-eca97ba5c042.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/597cc93d-8951-4f62-b549-eca97ba5c042",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/5be2b320-a5b7-4221-893c-dee506e4e365.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/5e4dadf5-9f90-449b-9e39-934fd10b7c23.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/5e4dadf5-9f90-449b-9e39-934fd10b7c23",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/5edad654-f2d5-41d8-bfc0-92c2735252e1.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/5edad654-f2d5-41d8-bfc0-92c2735252e1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/5f1f4eb7-479e-42f3-b86f-4c1f53e1c222.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/5f1f4eb7-479e-42f3-b86f-4c1f53e1c222",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/621d9ae7-c14e-4fab-9604-63e1ffc9e721",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/626ce0a3-4620-483d-953d-53b106b9ffad.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/626ce0a3-4620-483d-953d-53b106b9ffad",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/69609b5a-e416-4d72-b10b-8903e84780c3.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/69609b5a-e416-4d72-b10b-8903e84780c3",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/6996cad6-a969-487a-9182-f4dc4c6c8803.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/6996cad6-a969-487a-9182-f4dc4c6c8803",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/6e86b349-768f-4953-ac2e-fb03f92db4be.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/6e86b349-768f-4953-ac2e-fb03f92db4be",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/6f30434d-3cfa-4cf8-9810-6fcf79ae750a.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/6f30434d-3cfa-4cf8-9810-6fcf79ae750a",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/6fd1421e-89e8-4a8b-bd01-9397656a50d5.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/6fd1421e-89e8-4a8b-bd01-9397656a50d5",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/7040f194-bf08-400e-acb1-69df7939416a.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/7040f194-bf08-400e-acb1-69df7939416a",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/72d5ac5d-a427-408b-907d-72da3f33ddd1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/74ef25ab-3685-446c-aa43-4e9cc251ed62.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/74ef25ab-3685-446c-aa43-4e9cc251ed62",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/75ce4e02-e37b-479c-81c7-438348a2a251.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/75ce4e02-e37b-479c-81c7-438348a2a251",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/79ff4a2a-e22b-47d5-94dc-ef76fe46af75",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/7a483472-4f1b-4c75-bff3-7a48dae227dc.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/7a483472-4f1b-4c75-bff3-7a48dae227dc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/7afd058a-f568-4496-96b1-28d06ab3500f.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/7afd058a-f568-4496-96b1-28d06ab3500f",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/7cb50e3e-0427-409e-90d2-638eb28217c3.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/806359be-da23-4538-80bb-baa82107ec2d.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/806359be-da23-4538-80bb-baa82107ec2d",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/815a5165-fd61-44b8-be99-6301f780bd68.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/88546d4f-9973-4716-98e4-cd181c04bc2d.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/88546d4f-9973-4716-98e4-cd181c04bc2d",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/8aa22b64-9a2c-403b-83c1-feaf774c764c.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/8aa22b64-9a2c-403b-83c1-feaf774c764c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/8c5c0060-2892-4355-b0db-661f206028a9.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/8c87660f-d36f-41f6-b0ae-025253f380aa.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/8c87660f-d36f-41f6-b0ae-025253f380aa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/950aa4fb-0583-4b13-9b5f-bbc92b9cc376.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/950aa4fb-0583-4b13-9b5f-bbc92b9cc376",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/95fb5da0-6ced-4247-9d62-294f8fcb75df.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/95fb5da0-6ced-4247-9d62-294f8fcb75df",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/99a3ad8d-8682-4f2a-9c2c-b4b27e99585c.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/99a3ad8d-8682-4f2a-9c2c-b4b27e99585c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/9af6eceb-6a8b-4710-b51d-dde2ac01cc71.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/9af6eceb-6a8b-4710-b51d-dde2ac01cc71",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/9b03f15d-1219-4b2f-9699-640be54e1319.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/9bc8244d-a186-4b12-809e-c47b3eee73c6.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/9bc8244d-a186-4b12-809e-c47b3eee73c6",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/9de91aee-708c-4d9f-958b-109fdb79d993.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/9de91aee-708c-4d9f-958b-109fdb79d993",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/9e8e113c-8a08-4606-b08a-de4decc7252f.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/9e8e113c-8a08-4606-b08a-de4decc7252f",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/9ff28b02-ccc5-4cac-9d17-4cf6987c371f.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/9ff28b02-ccc5-4cac-9d17-4cf6987c371f",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a4c28379-0840-42c5-9407-f088a7f54048.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a7c1920d-3ac0-42db-9757-078a2b321fd8.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a7c1920d-3ac0-42db-9757-078a2b321fd8",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a8e903c7-3b7f-4ec5-a474-b5d32e595f50.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a8e903c7-3b7f-4ec5-a474-b5d32e595f50",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a9d28fcf-036e-4a85-9003-332303e3a29b.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a9d28fcf-036e-4a85-9003-332303e3a29b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/aa1c54a1-f482-424d-9389-dbd131233483.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/ac2b56c0-f2a5-4e90-b618-882f8d3596f0.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/ac2b56c0-f2a5-4e90-b618-882f8d3596f0",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/ac9ca94a-e666-4f61-959a-12c063e13e69.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/ac9ca94a-e666-4f61-959a-12c063e13e69",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/adef9811-448f-4dd5-88d9-68734050fe58.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/af089bb5-48be-413d-ad34-53c32799da7d.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/afd2c390-8b78-40fa-913b-7fc5911e884a.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/afd2c390-8b78-40fa-913b-7fc5911e884a",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/b0656c15-44aa-4aab-8956-bb97e3016535.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/b13c40ee-e073-459e-96b5-3f3cca046a37.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/b256b34a-b377-4fc2-b25a-a8f5f0594e86.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/b256b34a-b377-4fc2-b25a-a8f5f0594e86",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/b5d4e933-e001-4168-83f8-abdd974877bd.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/b6e2ef19-7612-4ab7-a700-9669d49b88b9.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/b6e2ef19-7612-4ab7-a700-9669d49b88b9",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/b8ea7030-ce4d-4ecd-98d7-dc16d8298d1b.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/b8ea7030-ce4d-4ecd-98d7-dc16d8298d1b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/b9604964-9c3a-483e-abf2-1b5cba495081.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/b9604964-9c3a-483e-abf2-1b5cba495081",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/bbdcd676-7448-453c-bec7-70e5384bc290.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/bbdcd676-7448-453c-bec7-70e5384bc290",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/be181d9c-9060-40a0-a692-b29f2e314d16.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/be181d9c-9060-40a0-a692-b29f2e314d16",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/be8d11cf-265a-4974-9912-4ff28c29fc21.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/be93046b-63ab-4216-9bcc-78faa55eeaa7.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/be93046b-63ab-4216-9bcc-78faa55eeaa7",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/bed170ee-dbd7-4efa-b48e-b0937ded1689.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/bed170ee-dbd7-4efa-b48e-b0937ded1689",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/c22c3a9e-5d2c-4177-8ea1-1c53c5af36b8.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/c22c3a9e-5d2c-4177-8ea1-1c53c5af36b8",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/c2e66b59-725d-4c56-8a0e-ee2587031d9f.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/c2e66b59-725d-4c56-8a0e-ee2587031d9f",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/c36d31a2-8de1-4eb5-9e7d-01da45244c04.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/c36d31a2-8de1-4eb5-9e7d-01da45244c04",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/c4e4c98c-f859-4682-89a5-48b66838c496.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/c4e4c98c-f859-4682-89a5-48b66838c496",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/c5da92a9-873e-4ea1-86c7-03ec9c1384f0.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/c5da92a9-873e-4ea1-86c7-03ec9c1384f0",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/c68947ae-a07f-44ce-9a13-7b559251731d.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/c68947ae-a07f-44ce-9a13-7b559251731d",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/c71a6f53-cf0c-426d-a826-cedae8b073f7",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/c859de61-8a6b-42e6-ba88-f639df33bc72.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/cec02d43-1b67-4430-9bc9-861da8582801.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/cec02d43-1b67-4430-9bc9-861da8582801",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/d2682b2a-2037-4545-94b6-3e7216ecca5f.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/d2682b2a-2037-4545-94b6-3e7216ecca5f",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/d312ff80-0c2b-42ad-887b-c6392bcf6353.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/d312ff80-0c2b-42ad-887b-c6392bcf6353",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/d5630318-189a-4912-abae-99b1f8f82cce.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/d76f016f-52c7-41b5-835b-900361d7040c.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/dc171e47-c074-4bc2-9e7b-3856b71e0630.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/dc171e47-c074-4bc2-9e7b-3856b71e0630",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/e5e829df-1793-40fb-806a-8f9ce70a8e14.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/e5e829df-1793-40fb-806a-8f9ce70a8e14",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/ea4de024-dd5f-4d3e-a092-3b8de6c64200.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/ea4de024-dd5f-4d3e-a092-3b8de6c64200",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/eab5463e-8168-40ee-887a-7ac78de1d266.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/eb628055-f790-4ef0-9fce-ac95b4c61466.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/eb628055-f790-4ef0-9fce-ac95b4c61466",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/ed4df345-c860-4ffe-b614-0460d9106f0f.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/ed4df345-c860-4ffe-b614-0460d9106f0f",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/ef5fa233-c0bb-424e-b9dc-0466d46bade2.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/ef5fa233-c0bb-424e-b9dc-0466d46bade2",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/f0199b83-0ca3-4b41-a23b-d9b234484438.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/f0199b83-0ca3-4b41-a23b-d9b234484438",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/f3943662-e828-40ed-9c6e-369680fe421f.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/f5c9f179-b9a5-4364-8f99-18d203b902ad",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/f6f894ce-5b44-4c9b-aff4-253d2fbe8a99",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/fb507a6d-2eaa-4f1f-b43a-140f388c4445",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/fc686a41-3bd0-45b3-a56d-f278888fd694.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/fc70bbbe-91c4-4d8f-a9c9-a022068d5752.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/fc70bbbe-91c4-4d8f-a9c9-a022068d5752",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/fc8f7563-e8ea-4b6d-9622-82775a21a35a.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/fc8f7563-e8ea-4b6d-9622-82775a21a35a",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/ff540df6-84dc-4a84-baa4-a95ce3b415cd.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/ff540df6-84dc-4a84-baa4-a95ce3b415cd",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/ff5f406c-2ded-423f-b6ba-2950a2532b69.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/ff5f406c-2ded-423f-b6ba-2950a2532b69",
       "redirect_document_id": false
     },
     {
