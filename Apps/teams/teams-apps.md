@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/15/2021
+ms.date: 10/18/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: c8e137f323174f23e530f081402b6de8368f276c
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 3bc583779b666568bb342425d5f1c13bfdacadcb
+ms.sourcegitcommit: ae9bbad444b4786735dbf63e50073d10b5da3852
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413333"
+ms.lasthandoff: 10/19/2021
+ms.locfileid: "60476700"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -88,6 +88,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [ClipTraining](./cliptraining.md) | ClipTraining | **✓** |  |
 | [Nuvem Eficaz](./cloud-effective.md) | Nuvem Eficaz | **✓** |  |
 | [hub de Nuvem](./atwork-gmbh-cloud-hub.md) | atwork GmbH | **✓** |  |
+| [CloudLabs](./spektra-systems-llc-cloudlabs.md) | Spektra Systems LLC | **✓** |  |
 | [Cloverpop](./cloverpop.md) | Cloverpop | **✓** |  |
 | [COCO](./hexaware-technologies-ltd-coco.md) | Hexaware Technologies Ltd. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [CodeStream](./codestream.md) | CodeStream | **✓** |  |

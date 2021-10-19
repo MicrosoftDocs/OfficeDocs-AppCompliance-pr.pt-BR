@@ -335,6 +335,8 @@
           href: teams/cloud-effective.md
         - name: hub de Nuvem
           href: teams/atwork-gmbh-cloud-hub.md
+        - name: CloudLabs
+          href: teams/spektra-systems-llc-cloudlabs.md
         - name: Cloverpop
           href: teams/cloverpop.md
         - name: COCO
@@ -487,7 +489,7 @@
           href: teams/controlex-gmbh-grouplotse.md
         - name: Gtmhub
           href: teams/gtmhub.md
-        - name: Nuvem de comunicação guideSpark
+        - name: GuideSpark Communicate Cloud
           href: teams/guidespark-communicate-cloud.md
         - name: Guru
           href: teams/guru-technologies.md
@@ -1026,6 +1028,8 @@
       items:
         - name: Adobe Sign for Word and PowerPoint
           href: word/adobe-inc-sign-for-word-and-powerpoint.md
+        - name: AuditBoard Add-in
+          href: word/auditboard-inc-add-in.md
         - name: CocoFax - Envio de Fax Facilitado e Seguro
           href: word/cocofax-sending-fax-made-easy-and-secure.md
         - name: CrossCheck
@@ -1166,6 +1170,8 @@
           href: azure/1dd6ac57-e6f0-4995-a57f-b6d074c16e11.md
         - name: 1ed0a549-c730-44c7-a984-a8c658fe9807
           href: azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md
+        - name: 23694b6c-5a4a-45ce-9c6a-37c5f1880d4e
+          href: azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md
         - name: 238d0bd1-fa0a-4bb6-be82-97f7f9ee590e
           href: azure/238d0bd1-fa0a-4bb6-be82-97f7f9ee590e.md
         - name: 23b236c3-685d-49f0-a7bf-012ef3dc9ec3
@@ -1276,6 +1282,8 @@
           href: azure/597cc93d-8951-4f62-b549-eca97ba5c042.md
         - name: 5be2b320-a5b7-4221-893c-dee506e4e365
           href: azure/5be2b320-a5b7-4221-893c-dee506e4e365.md
+        - name: 5c1f85d2-d744-4159-8c01-16e9a7b1207b
+          href: azure/5c1f85d2-d744-4159-8c01-16e9a7b1207b.md
         - name: 5e4dadf5-9f90-449b-9e39-934fd10b7c23
           href: azure/5e4dadf5-9f90-449b-9e39-934fd10b7c23.md
         - name: 5edad654-f2d5-41d8-bfc0-92c2735252e1
@@ -1304,6 +1312,8 @@
           href: azure/6e86b349-768f-4953-ac2e-fb03f92db4be.md
         - name: 6f30434d-3cfa-4cf8-9810-6fcf79ae750a
           href: azure/6f30434d-3cfa-4cf8-9810-6fcf79ae750a.md
+        - name: 6fcff87e-0f86-49c3-81eb-bc028d1ccfe6
+          href: azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6.md
         - name: 6fd1421e-89e8-4a8b-bd01-9397656a50d5
           href: azure/6fd1421e-89e8-4a8b-bd01-9397656a50d5.md
         - name: 7040f194-bf08-400e-acb1-69df7939416a
@@ -1330,6 +1340,8 @@
           href: azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0.md
         - name: 7cb50e3e-0427-409e-90d2-638eb28217c3
           href: azure/7cb50e3e-0427-409e-90d2-638eb28217c3.md
+        - name: 7e1fc6b3-90a7-4a98-a766-5627193e95bc
+          href: azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md
         - name: 806359be-da23-4538-80bb-baa82107ec2d
           href: azure/806359be-da23-4538-80bb-baa82107ec2d.md
         - name: 815a5165-fd61-44b8-be99-6301f780bd68
@@ -1428,6 +1440,8 @@
           href: azure/b0656c15-44aa-4aab-8956-bb97e3016535.md
         - name: b13c40ee-e073-459e-96b5-3f3cca046a37
           href: azure/b13c40ee-e073-459e-96b5-3f3cca046a37.md
+        - name: b1d1c038-a1f3-4802-be93-0f4a66589e73
+          href: azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md
         - name: b256b34a-b377-4fc2-b25a-a8f5f0594e86
           href: azure/b256b34a-b377-4fc2-b25a-a8f5f0594e86.md
         - name: b5d4e933-e001-4168-83f8-abdd974877bd
@@ -1502,6 +1516,8 @@
           href: azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b.md
         - name: e5e829df-1793-40fb-806a-8f9ce70a8e14
           href: azure/e5e829df-1793-40fb-806a-8f9ce70a8e14.md
+        - name: e74c5e65-902b-4c5f-a618-f24996f7b20c
+          href: azure/e74c5e65-902b-4c5f-a618-f24996f7b20c.md
         - name: e854ea05-68ab-4204-babe-db4a784fb4d8
           href: azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md
         - name: e8bea835-c6b0-45aa-9c39-889d3c77d5a3
