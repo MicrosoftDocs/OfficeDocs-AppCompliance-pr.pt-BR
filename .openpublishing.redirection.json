@@ -1276,11 +1276,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104379617.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/evernote",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104381639.md",
       "redirect_url": "/microsoft-365-app-certification/teams/evernote",
       "redirect_document_id": false
@@ -1288,6 +1283,11 @@
     {
       "source_path": "Apps/forward/4e1f8576-93d5-4c24-abb5-f02782e00a4e.md",
       "redirect_url": "/microsoft-365-app-certification/teams/evernote",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA104379617.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/evernote",
       "redirect_document_id": false
     },
     {
@@ -2096,11 +2096,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/elearningforce.lms365_spfx.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/elearningforce-international-aps-lms365",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104381467.md",
       "redirect_url": "/microsoft-365-app-certification/teams/elearningforce-international-lms365",
       "redirect_document_id": false
@@ -2108,6 +2103,11 @@
     {
       "source_path": "Apps/forward/d136f17e-df84-47f2-97a4-13aa24c0c647.md",
       "redirect_url": "/microsoft-365-app-certification/teams/elearningforce-international-lms365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/elearningforce.lms365_spfx.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/elearningforce-international-aps-lms365",
       "redirect_document_id": false
     },
     {
@@ -3297,12 +3297,12 @@
     },
     {
       "source_path": "Apps/forward/WA200001430.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/school-day-helsinki-oy-wellbeing",
+      "redirect_url": "/microsoft-365-app-certification/teams/school-day-helsinki-oy",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/7caaa66b-34b0-4c15-a65d-dba6edf0c8fd.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/school-day-helsinki-oy-wellbeing",
+      "redirect_url": "/microsoft-365-app-certification/teams/school-day-helsinki-oy",
       "redirect_document_id": false
     },
     {
@@ -3792,12 +3792,12 @@
     },
     {
       "source_path": "Apps/forward/WA200002257.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/admin@surveysparrowcom-surveysparrow",
+      "redirect_url": "/microsoft-365-app-certification/teams/surveysparrow-inc",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/1b923c85-b04c-43d4-b2c2-0fdc0f598658.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/admin@surveysparrowcom-surveysparrow",
+      "redirect_url": "/microsoft-365-app-certification/teams/surveysparrow-inc",
       "redirect_document_id": false
     },
     {
