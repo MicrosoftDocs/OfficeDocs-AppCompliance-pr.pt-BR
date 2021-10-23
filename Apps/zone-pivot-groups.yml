@@ -78,6 +78,16 @@ groups:
     title: Segurança e Conformidade
   - id: certification
     title: Certificação
+- id: app-info-data-certification
+  title: Categorias de Informações do Aplicativo
+  prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
+  pivots:
+  - id: general
+    title: Geral
+  - id: data
+    title: Tratamento de dados
+  - id: certification
+    title: Certificação
 - id: app-info-data-identity-certification
   title: Categorias de Informações do Aplicativo
   prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
@@ -104,10 +114,44 @@ groups:
     title: Identidade
   - id: certification
     title: Certificação
+- id: app-info-data-security-compliance-privsection-zerotrust
+  title: Categorias de Informações do Aplicativo
+  prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
+  pivots:
+  - id: general
+    title: Geral
+  - id: data
+    title: Tratamento de dados
+  - id: security
+    title: Segurança
+  - id: compliance
+    title: Conformidade
+  - id: privsection
+    title: Privacidade
+  - id: zerotrust
+    title: Identidade
+- id: app-info-data-security-compliance-privsection-zerotrust-certification
+  title: Categorias de Informações do Aplicativo
+  prompt: 'Escolha a categoria de informações que você deseja ver para este aplicativo:'
+  pivots:
+  - id: general
+    title: Geral
+  - id: data
+    title: Tratamento de dados
+  - id: security
+    title: Segurança
+  - id: compliance
+    title: Conformidade
+  - id: privsection
+    title: Privacidade
+  - id: zerotrust
+    title: Identidade
+  - id: certification
+    title: Certificação
 metadata:
-  ms.openlocfilehash: 251f0461ab55741522c650f13a0ff3b50eecb560
-  ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+  ms.openlocfilehash: f3ee86598a788c911d9a82186a2de24997477ff6
+  ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 10/16/2021
-  ms.locfileid: "60411275"
+  ms.lasthandoff: 10/22/2021
+  ms.locfileid: "60545881"

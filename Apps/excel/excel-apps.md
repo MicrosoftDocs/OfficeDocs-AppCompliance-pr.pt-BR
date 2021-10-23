@@ -2,17 +2,17 @@
 title: Microsoft Excel Segurança e Conformidade de Aplicativos - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/15/2021
+ms.date: 10/22/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: 6a87caac8909502073c6aada4ca2f28329d99f46
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: d2d704148f07ac13168fe795e8d3842c7403c983
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414275"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60544751"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel Segurança e conformidade de aplicativos
 
@@ -37,5 +37,6 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [QuickCells Solvers](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
 | [Report Builder](./adobe-inc-report-builder.md) | Adobe Inc. | **✓** |  |
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
+| [Supermetria](./supermetrics.md) | Supermetria | **✓** |  |
 | [Wunder365 para Office](./jiji-technologies-private-limited-wunder365-for-office.md) | Tecnologias JiJi Private Limited | **✓** |  |
 | [Dados arquivados XBRL](./xbrl-us-filed-data.md) | XBRL US | **✓** |  |

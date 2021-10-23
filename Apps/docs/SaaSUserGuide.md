@@ -6,12 +6,12 @@ description: Guia do usuário isv para Microsoft 365 saas do programa de conform
 keywords: Guia do usuário isv para Microsoft 365 saas do programa de conformidade de aplicativos
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 39eed9158ab9cbaa5e26efe036c98fc2ab2b1695d615d8b28930f0d8d4735430
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 5f12c95e413ab069b1f8849a09be50251660fbb1
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54801282"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60545831"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>Guia do usuário do parceiro para Microsoft 365 de conformidade de aplicativos - SaaS
 
@@ -36,26 +36,21 @@ Este documento atua como um guia de usuário passo a passo para nossos parceiros
 
 **Home Page**: essa é a página inicial quando um parceiro faz logo depois de entrar no Partner Center.
 
-![Tela Inicial do Partner Center](../media/Saas1.PNG)
   
-**Etapa 1:** No lado esquerdo da página, na barra de navegação:
+**Etapa 1** : Selecionar Ofertas do Marketplace
 
-- Selecionar Marketplace Comercial
-- Selecionar Visão Geral
+![Marketplace Comercial no Partner Center](../media/NewPChomepage.png)
 
-![Marketplace Comercial no Partner Center](../media/Saas2.PNG)
   
-Ao selecionar 'Visão geral', o parceiro pode ver a lista de aplicativos disponíveis para iniciar o programa Microsoft 365 Conformidade.
-  
-**Etapa 2:** Selecione um aplicativo na lista para iniciar o processo Publisher Atestado.
+**Etapa 2:** depois de selecionar "Ofertas do Marketplace", alterne para 'Marketplace Comercial'.
 
-![Selecionar um aplicativo no Marketplace Comercial](../media/Saas3.PNG)
+![Selecionar um aplicativo no Marketplace Comercial](../media/NewPCOffersOffice.png)
 
-Ao selecionar um aplicativo, outra barra de navegação será pop-up com a opção 'Conformidade do aplicativo'.
+Selecione um aplicativo na lista e outra barra de navegação será pop-up com a opção 'Conformidade do aplicativo'.
   
 **Etapa 3:** Selecione 'Conformidade do aplicativo'
   
-![Conformidade de aplicativos no Marketplace Comercial](../media/Saas4.PNG)
+![Conformidade de aplicativos no Marketplace Comercial](../media/PCappcompliance3.png)
   
 **Etapa 4:** preencha o questionário de autoavaliação para Publisher Atestado.
 

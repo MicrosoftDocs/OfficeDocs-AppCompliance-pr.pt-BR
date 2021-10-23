@@ -59,6 +59,8 @@
           href: excel/adobe-inc-report-builder.md
         - name: Sheetgo
           href: excel/sheetgo-europe-sl.md
+        - name: Supermetria
+          href: excel/supermetrics.md
         - name: Wunder365 para Office
           href: excel/jiji-technologies-private-limited-wunder365-for-office.md
         - name: Dados arquivados XBRL
@@ -641,6 +643,8 @@
           href: teams/soe-technologies-myokr.md
         - name: MyWorkDrive
           href: teams/myworkdrive.md
+        - name: Preterindo
+          href: teams/nailted-app-sl.md
         - name: Navo
           href: teams/regroove-solutions-navo.md
         - name: NE
@@ -775,8 +779,8 @@
           href: teams/salestim.md
         - name: ScanBuddy.ai
           href: teams/moblizeit-llc-scanbuddyai.md
-        - name: Bem-estar do Dia Escolar
-          href: teams/school-day-helsinki-oy-wellbeing.md
+        - name: Dia da Escola
+          href: teams/school-day-helsinki-oy.md
         - name: ScrumGenius
           href: teams/scrumgenius.md
         - name: SecretaryBot
@@ -868,7 +872,7 @@
         - name: SurveyMonkey
           href: teams/surveymonkey.md
         - name: SurveySparrow
-          href: teams/admin@surveysparrowcom-surveysparrow.md
+          href: teams/surveysparrow-inc.md
         - name: SwiftAssess
           href: teams/gamalearn-swiftassess.md
         - name: Sympli
@@ -955,6 +959,8 @@
           href: teams/visualsp.md
         - name: Vizito
           href: teams/vizito-bv.md
+        - name: Vocean
+          href: teams/vocean-ab.md
         - name: Vonage Business Communications
           href: teams/vonage-business-communications.md
         - name: Vtiger CRM
@@ -1270,6 +1276,8 @@
           href: azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md
         - name: 53628f6a-ac66-4fde-8945-d639c8da4c0d
           href: azure/53628f6a-ac66-4fde-8945-d639c8da4c0d.md
+        - name: 539ffd4e-15ba-4d18-b136-0d73b67d05f0
+          href: azure/539ffd4e-15ba-4d18-b136-0d73b67d05f0.md
         - name: 53d19d16-137b-4365-a095-685d5044d28c
           href: azure/53d19d16-137b-4365-a095-685d5044d28c.md
         - name: 56412014-bafe-474e-95b4-ebfea106a167
@@ -1318,8 +1326,6 @@
           href: azure/6fd1421e-89e8-4a8b-bd01-9397656a50d5.md
         - name: 7040f194-bf08-400e-acb1-69df7939416a
           href: azure/7040f194-bf08-400e-acb1-69df7939416a.md
-        - name: 72d5ac5d-a427-408b-907d-72da3f33dddd1
-          href: azure/72d5ac5d-a427-408b-907d-72da3f33ddd1.md
         - name: 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4
           href: azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4.md
         - name: 74ef25ab-3685-446c-aa43-4e9cc251ed62

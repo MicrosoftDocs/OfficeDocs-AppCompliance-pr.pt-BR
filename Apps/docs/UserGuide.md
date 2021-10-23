@@ -6,12 +6,12 @@ description: Guia do usuário isv para Microsoft 365 de conformidade de aplicati
 keywords: Guia do usuário isv para Microsoft 365 de conformidade de aplicativos
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 74bb654b6084319122e0f9388792cf44d85ca4a664ce89bf308982a29cbfdfc8
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 79a301d6825b3f9ea3d882e13e91b48f3808f60b
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54801647"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60544551"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>Guia do usuário do parceiro para Microsoft 365 De conformidade de aplicativos
 
@@ -37,26 +37,19 @@ Este documento atua como um guia de usuário passo a passo para nossos parceiros
 
 **Home Page** : essa é a página inicial quando um parceiro faz logo depois de entrar no Partner Center.
 
-![Tela Inicial do Partner Center](../media/UserGuidePhotos/01.png)
+**Etapa 1** : Selecionar Ofertas do Marketplace. 
 
-**Etapa 1:**   No lado esquerdo da página, na barra de navegação:
-- Selecione Office store
-- Selecionar Visão Geral
+![Marketplace Comercial no Partner Center](../media/NewPChomepage.png)
+  
+**Etapa 2:** depois de selecionar 'Ofertas do Marketplace', alterne para 'Office Store'. Selecione um aplicativo na lista para iniciar o Publisher atestado.
 
-
-![Office A Loja pode ser encontrada na navegação à esquerda](../media/UserGuidePhotos/02.png)
-
-Ao selecionar 'Visão geral', o parceiro pode ver a lista de aplicativos enviados por meio do Partner Center e disponíveis para o programa Microsoft 365 Conformidade.
-
-**Etapa 2:** Selecione um aplicativo na lista para iniciar o processo Publisher Atestado.
-
-![Escolha qual aplicativo você deseja atestar](../media/UserGuidePhotos/03.png)
+![Selecionar um aplicativo no Marketplace Comercial](../media/NewPCoffersComm.png)
 
 Ao selecionar um aplicativo, outra barra de navegação será pop-up com a opção 'Conformidade do aplicativo'.
-
+  
 **Etapa 3:** Selecione 'Conformidade do aplicativo'
 
-![Selecionar Conformidade do Aplicativo](../media/UserGuidePhotos/04.png)
+![Selecionar Conformidade do Aplicativo](../media/PCappcompliance3.png)
 
 **Etapa 4**: preencher o questionário de autoavaliação para Publisher Atestado
 
