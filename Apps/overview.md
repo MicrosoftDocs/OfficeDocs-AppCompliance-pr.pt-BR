@@ -7,20 +7,20 @@ keywords: microsoft 365 aplicativo m365 certificação do Atestado do Editor
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: c644414281f46696ff49f3b9eb1341f02e96f0ba
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e36bee4289de320d264a8a5e55c7bc20a4ea803b
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277489"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60545761"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Programa de Conformidade de Aplicativos do Microsoft 365
 
-O Programa de Conformidade de Aplicativos do Microsoft 365 é um método de três camadas para segurança e conformidade dos aplicativos. Cada camada se baseia na próxima, oferecendo um programa em camadas para dar aos usuários a confiança de que precisam para usar aplicativos no ecossistema do Microsoft 365. Atualmente, todas as camadas do programa são voluntárias e são concluídas a critério dos desenvolvedores do aplicativo. 
+O Programa de Conformidade do Aplicativo do Microsoft 365 é uma abordagem de duas etapas para a segurança e conformidade do aplicativo e inclui a Verificação do Publisher e a Certificação do Microsoft 365. Cada camada se baseia na próxima, oferecendo um programa em camadas para dar aos usuários a confiança de que precisam para usar aplicativos no ecossistema do Microsoft 365.  
 
-Nossa declaração de missão: os clientes da Microsoft têm total confiança nos aplicativos que administram suas organizações.
+Nossa missão: dar aos clientes da Microsoft uma maneira de confiar completamente nos aplicativos que administram suas organizações.
 
-  ![Abordagem de 3 camadas para Conformidade de Aplicativos](media/Microsoft-App-Compliance-Overview.png) 
+![Abordagem de 2 camadas para a Conformidade de Aplicativos](media/Microsoft365AppComplianceBanner.png)
 
 ## <a name="publisher-verification"></a>Verificação do Editor
 
@@ -32,11 +32,13 @@ A Verificação do Editor se aplica aos aplicativos que atendem às seguintes co
 > [!IMPORTANT]
 > A Verificação do Editor não impede que um desenvolvedor de aplicativos inicie ou conclua o Atestado do Editor ou a Certificação Microsoft 365. Se não se aplicar ao aplicativo, a verificação pode ser ignorada e o atestado pode ser iniciado.
 
-## <a name="publisher-attestation"></a>Atestado do Editor
+## <a name="microsoft-365-certification"></a>Certificação Microsoft 365
+A Certificação do Microsoft 365 tem duas fases: **Atestado** e **Certificação**.
+1.  O **atestado** envolve a conclusão de um questionário sobre os atributos de segurança, tratamento de dados e conformidade de um aplicativo que são mais importantes para os clientes. Todas as informações são publicadas em um único lugar e em um formato consistente e fácil de ler. O objetivo é facilitar e acelerar o processo de adoção de aplicativos, garantindo aos clientes que os aplicativos usados nos seus locatários atendem aos seus padrões organizacionais.
+1.  A **certificação** envolve uma auditoria completa de um aplicativo em relação a um conjunto de controles derivados de estruturas padrão líderes do setor. OS ISVs serão solicitados a fornecer evidências para demonstrar que estão atendendo a cada controle antes de receber uma certificação. O objetivo é dar aos clientes a garantia de que eles podem confiar que os aplicativos que receberam uma Certificação do Microsoft 365 têm práticas de segurança e conformidade fortes para proteger sua segurança de dados e privacidade.
 
-O [Atestado de Editor](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) é onde os desenvolvedores compartilham informações gerais, de gerenciamento de dados e de segurança e conformidade sobre os serviços do aplicativo. Isso reduz a necessidade dos administradores de TI trabalharem diretamente com os editores de aplicativos. Todas as informações necessárias para tomar uma decisão informada podem ser encontradas sobre todos os aplicativos que concluíram o teste do editor em um único lugar e em um formato consistente. O objetivo é facilitar e acelerar o processo de adoção de aplicativos, garantindo aos clientes que os aplicativos usados nos seus locatários atendem aos seus padrões organizacionais.
 
-O Atestado do Publisher aplica-se ao WebApps e a todos os aplicativos que se integram com os seguintes produtos da Microsoft:
+A Certificação do Microsoft 365 aplica-se ao WebApps e a todos os aplicativos que se integram com os seguintes produtos da Microsoft:
 -   Teams
 -   Word
 -   Excel
@@ -46,10 +48,7 @@ O Atestado do Publisher aplica-se ao WebApps e a todos os aplicativos que se int
 - Project
 - OneNote
 
-> [!IMPORTANT]
-> A Microsoft não valida as informações fornecidas. O desenvolvedor afirma exclusivamente a veracidade, a precisão e a integridade da documentação de atestado e dos dados de desempenho do aplicativo correspondentes. 
-
-## <a name="microsoft-365-certification"></a>Certificação Microsoft 365
-A [Certificação Microsoft 365](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide) oferece garantia e confiança às organizações de que os dados e a privacidade estão adequadamente protegidos ao usar aplicativos do Microsoft Teams. A certificação confirma que uma solução de aplicativo é compatível com as tecnologias da Microsoft, compatível com as práticas recomendadas de segurança de aplicativos na nuvem e com suporte da Microsoft. Durante esse processo, os desenvolvedores de aplicativos trabalham com um avaliador terceirizado para validar a segurança organizacional e os padrões de conformidade. A certificação do Microsoft 365 se aplica aos mesmos aplicativos que se qualificam para o Atestado do Publicador. 
-
+### <a name="get-started"></a>Introdução
+- [Como concluir a Verificação do Publisher](https://docs.microsoft.com/en-us/azure/active-directory/develop/mark-app-as-publisher-verified)
+- [Como concluir a certificação do Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification)
 
