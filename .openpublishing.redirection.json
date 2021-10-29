@@ -2541,6 +2541,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/netskope.netskope_teams.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/netskope-for-microsoft-teams",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200001104.md",
       "redirect_url": "/microsoft-365-app-certification/teams/newtech-newcos",
       "redirect_document_id": false
@@ -2551,11 +2556,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200002505.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/all-blue-solutions-ngdesk",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002968.md",
       "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
       "redirect_document_id": false
@@ -2563,6 +2563,11 @@
     {
       "source_path": "Apps/forward/64d24486-30aa-4fae-8bdc-2680a85dcbb5.md",
       "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002505.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/all-blue-solutions-ngdesk",
       "redirect_document_id": false
     },
     {
@@ -2916,6 +2921,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA104380739.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381384.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
       "redirect_document_id": false
@@ -2923,11 +2933,6 @@
     {
       "source_path": "Apps/forward/90381cb0-998f-4ba3-9699-130201de5ddb.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA104380739.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
       "redirect_document_id": false
     },
     {
@@ -2951,6 +2956,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/appfluenceinc.m_pm_msft.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/appfluence-inc-priority-matrix",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104382005.md",
       "redirect_url": "/microsoft-365-app-certification/teams/appfluence-inc-priority-matrix",
       "redirect_document_id": false
@@ -2958,11 +2968,6 @@
     {
       "source_path": "Apps/forward/5be2b320-a5b7-4221-893c-dee506e4e365.md",
       "redirect_url": "/microsoft-365-app-certification/teams/appfluence-inc-priority-matrix",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/appfluenceinc.m_pm_msft.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/appfluence-inc-priority-matrix",
       "redirect_document_id": false
     },
     {
@@ -3493,6 +3498,16 @@
     {
       "source_path": "Apps/forward/d677e909-5e3f-431e-9254-f76bd09a4ddf.md",
       "redirect_url": "/microsoft-365-app-certification/teams/pipe9com-skills-by-pipe9",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003256.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/skillsoft-percipio",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/858597e0-33db-4cc0-bd1e-466b6ceb977a.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/skillsoft-percipio",
       "redirect_document_id": false
     },
     {
@@ -4117,12 +4132,12 @@
     },
     {
       "source_path": "Apps/forward/WA200001532.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/kollisch-gmbh-timeghost",
+      "redirect_url": "/microsoft-365-app-certification/teams/kollisch-gmbh-timeghost-time-tracking",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/e3956558-7399-4ec1-848a-c61a2aa95bc1.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/kollisch-gmbh-timeghost",
+      "redirect_url": "/microsoft-365-app-certification/teams/kollisch-gmbh-timeghost-time-tracking",
       "redirect_document_id": false
     },
     {
@@ -4501,11 +4516,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200000391.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/jiji-technologies-private-limited-wunder365",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200000742.md",
       "redirect_url": "/microsoft-365-app-certification/teams/jiji-technologies-pvt-ltd-wunder365",
       "redirect_document_id": false
@@ -4513,6 +4523,11 @@
     {
       "source_path": "Apps/forward/7e8f9ad5-07d9-4259-8713-d316f451cbf3.md",
       "redirect_url": "/microsoft-365-app-certification/teams/jiji-technologies-pvt-ltd-wunder365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200000391.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/jiji-technologies-private-limited-wunder365",
       "redirect_document_id": false
     },
     {
