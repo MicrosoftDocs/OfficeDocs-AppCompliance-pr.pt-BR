@@ -7,8 +7,6 @@
           href: overview.md
         - name: O que é Publisher Verificação?
           href: 'https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview'
-        - name: O que Publisher atestado?
-          href: docs/enterprise-app-attestation-guide.md
         - name: O que é Microsoft 365 Certificação?
           href: docs/enterprise-app-certification-guide.md
     - name: Para desenvolvedores
@@ -16,8 +14,6 @@
       items:
         - name: Concluir Publisher Verificação
           href: 'https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified'
-        - name: Concluir Publisher Atestado
-          href: docs/attestation.md
         - name: Concluir Microsoft 365 Certificação
           href: docs/certification.md
         - name: Microsoft 365 Guia de Envio de Certificação
@@ -643,7 +639,7 @@
           href: teams/soe-technologies-myokr.md
         - name: MyWorkDrive
           href: teams/myworkdrive.md
-        - name: Preterindo
+        - name: Nailted
           href: teams/nailted-app-sl.md
         - name: Navo
           href: teams/regroove-solutions-navo.md
@@ -779,7 +775,7 @@
           href: teams/salestim.md
         - name: ScanBuddy.ai
           href: teams/moblizeit-llc-scanbuddyai.md
-        - name: Dia da Escola
+        - name: Dia Escolar
           href: teams/school-day-helsinki-oy.md
         - name: ScrumGenius
           href: teams/scrumgenius.md
@@ -815,6 +811,8 @@
           href: teams/saltflat-limited-skilledhuman.md
         - name: Skills por Pipe9
           href: teams/pipe9com-skills-by-pipe9.md
+        - name: Skillsoft Percipio
+          href: teams/skillsoft-percipio.md
         - name: SkyPoint Cloud
           href: teams/skypoint-cloud-inc.md
         - name: Slido
@@ -929,8 +927,8 @@
           href: teams/cireson-tikit.md
         - name: TimeClock 365
           href: teams/softsale-timeclock-365.md
-        - name: timeghost
-          href: teams/kollisch-gmbh-timeghost.md
+        - name: timeghost - Controle de tempo
+          href: teams/kollisch-gmbh-timeghost-time-tracking.md
         - name: Timeneye
           href: teams/dm-digital-srl-timeneye.md
         - name: TINYpulse
@@ -1107,6 +1105,8 @@
           href: saas/iglobe-mipa-my-intelligent-personal-assistant.md
         - name: MyHub para Teams
           href: saas/avepoint-inc-myhub-for-teams.md
+        - name: Netskope para Microsoft Teams
+          href: saas/netskope-for-microsoft-teams.md
         - name: Office2SharePoint
           href: saas/iglobe-office2sharepoint.md
         - name: Priority Matrix
@@ -1274,6 +1274,8 @@
           href: azure/50356ee3-b48b-424b-a7a7-35e53c2ce736.md
         - name: 51e2b67d-9854-446a-8da1-cdd89ef0b987
           href: azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md
+        - name: 52b2da9b-4cd6-4334-be22-4a3b1b99bac7
+          href: azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7.md
         - name: 53628f6a-ac66-4fde-8945-d639c8da4c0d
           href: azure/53628f6a-ac66-4fde-8945-d639c8da4c0d.md
         - name: 539ffd4e-15ba-4d18-b136-0d73b67d05f0
@@ -1356,8 +1358,6 @@
           href: azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md
         - name: 82eb2bf2-969c-46da-9e89-1db59ac4fbb3
           href: azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3.md
-        - name: 88546d4f-9973-4716-98e4-cd181c04bc2d
-          href: azure/88546d4f-9973-4716-98e4-cd181c04bc2d.md
         - name: 89d5ca9f-d63b-4885-bd30-6e7433c1540c
           href: azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md
         - name: 8aa22b64-9a2c-403b-83c1-feaf774c764c
@@ -1390,6 +1390,8 @@
           href: azure/9af6eceb-6a8b-4710-b51d-dde2ac01cc71.md
         - name: 9b03f15d-1219-4b2f-9699-640be54e1319
           href: azure/9b03f15d-1219-4b2f-9699-640be54e1319.md
+        - name: 9b5751f4-eb23-43ad-ad90-da7afb9300ae
+          href: azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md
         - name: 9bc8244d-a186-4b12-809e-c47b3eee73c6
           href: azure/9bc8244d-a186-4b12-809e-c47b3eee73c6.md
         - name: 9de91aee-708c-4d9f-958b-109fdb79d993
