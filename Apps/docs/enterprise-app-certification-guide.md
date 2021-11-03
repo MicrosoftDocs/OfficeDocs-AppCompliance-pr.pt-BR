@@ -6,12 +6,12 @@ description: Microsoft 365 Detalhes da certificação
 keywords: app attestation microsoft 365 certification 365 questionnaire appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: c4b7798840630e2d4813536db29956f732adf18c
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: e41a9c0d09fec10b0034e7da5e8a335cbc4473fc
+ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60544681"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60683574"
 ---
 # <a name="what-is-microsoft-365-certification"></a>O que é Microsoft 365 Certificação?
 
@@ -33,9 +33,10 @@ A fase de atestado se centraliza em um amplo questionário detalhando os atribut
 
 ## <a name="certification"></a>Certificação
 
-A fase de certificação é centralizada em torno de uma auditoria completa de segurança do aplicativo e sua infraestrutura de suporte. O aplicativo será vetado em uma série de controles de segurança derivados de estruturas padrão líderes do setor, como SOC 2, PCI DSS e ISO 27001. Se você já recebeu uma certificação SOC 2, PCI DSS ou ISO 27001 para seu aplicativo, recomendamos que você compartilhe esses relatórios. Eles não são necessários, mas podem ser usados para satisar um subconjunto dos controles sem evidências adicionais. Se você não os tiver, exigiremos que você nos forneça evidências claras (documentos, capturas de tela, etc.) que demonstre que você atenderá a todos os controles necessários. Os aplicativos que receberem uma certificação demonstraram que práticas fortes de segurança e conformidade estão em prática para proteger os dados do cliente. 
+A fase de certificação é centralizada em torno de uma auditoria completa de segurança do aplicativo e sua infraestrutura de suporte. O aplicativo será vetado em uma série de controles de segurança derivados de estruturas padrão líderes do setor, como SOC 2, PCI DSS e ISO 27001. Se você já recebeu uma certificação SOC 2, PCI DSS ou ISO 27001 para seu aplicativo, recomendamos que você compartilhe esses relatórios. Eles não são necessários, mas podem ser usados para satisfazer um subconjunto dos controles sem evidências adicionais. Se você não tiver certificações externas, exigiremos que você nos forneça evidências claras (documentos, capturas de tela, etc.) que demonstre que você atendem a todos os controles necessários. Os aplicativos que receberem uma certificação demonstraram que práticas fortes de segurança e conformidade estão em prática para proteger os dados do cliente. 
 
-> ! [IMPORTANTE] No momento, a Microsoft está cobrindo todo o custo da auditoria de certificação, desde que o ISV possa enviar todas as evidências necessárias.
+> [!IMPORTANT]
+> No momento, a Microsoft está cobrindo todo o custo da auditoria de certificação, desde que o ISV possa enviar todas as evidências necessárias.
 
 A certificação de aplicativo é alcançada por meio da revisão e aprovação de um analista qualificado de um centro de avaliação abrangente em estruturas, processos e procedimentos de segurança e conformidade de um aplicativo. 
 
