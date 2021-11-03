@@ -12,8 +12,8 @@ ms.openlocfilehash: a986a6f8fbbf98f408dcbf3e90b6bf219951889f
 ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60683726"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60719723"
 ---
 # <a name="netskope-for-microsoft-teams"></a>Netskope para Microsoft Teams
 
