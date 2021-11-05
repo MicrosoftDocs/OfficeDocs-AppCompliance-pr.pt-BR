@@ -6,12 +6,12 @@ description: Microsoft 365 Exibição granular do Guia de Envio de Certificaçã
 keywords: equipes de certificação de aplicativos Microsoft 365 conformidade de segurança m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: b0a207bd8fbe1834e03c08eecb82d3552c75a182
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 0d422251404275da18e08af120a15877616e4db4
+ms.sourcegitcommit: dfd937182e08ed377a5ad80f0db929ab7d7c7a7b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276664"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60789972"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 Guia de Envio de Certificação
 
@@ -108,7 +108,7 @@ As solicitações de evidências em suporte à avaliação de certificação dev
 |<5|1|
 |>5 & <10|2|
 |>9 & <25|3|
-|>24|4 |
+|>24|4|
 
 > [!NOTE]
 >Se discrepâncias são identificadas entre dispositivos incluídos no exemplo inicial, o tamanho da amostra pode ser aumentado durante a avaliação. 
@@ -303,7 +303,7 @@ Esse domínio mede o alinhamento dos processos de infraestrutura e implantação
 
 |**Família de Controle**| **Controls**|
 | ------------------------|------------------------------ |
-| **Proteção contra Malware**|Forneça documentação de política que rege práticas e procedimentos anti-vírus.|
+| **Proteção contra Malware - Antivírus**|Forneça documentação de política que rege práticas e procedimentos anti-vírus.|
 ||Forneça evidências demonstradas de que o software antivírus está sendo executado em todos os componentes do sistema amostrados.|
 ||Forneça evidências demonstrativas de que as assinaturas de antivírus estão atualizadas em todos os ambientes (dentro de 1 dia).|
 ||Forneça evidências demonstradas de que o antivírus está configurado para executar a verificação no acesso ou a verificação periódica em todos os componentes do sistema amostrados. Observação: se a verificação ao acessar não estiver habilitada, um mínimo de verificação e alerta diário deve ser habilitado.|
@@ -341,11 +341,17 @@ Esse domínio mede o alinhamento dos processos de infraestrutura e implantação
 || Forneça evidências demonstraáveis de que os desenvolvedores passam por treinamento de desenvolvimento de software seguro anualmente.|
 || Forneça evidências demonstrativas de que repositórios de código são protegidos com autenticação multifator (MFA).|
 || Forneça evidências demonstrativas de que os controles de acesso estão no local para proteger repositórios de código.
-|**Gerenciamento de contas**| Forneça a documentação de política que rege as práticas e os procedimentos de gerenciamento de contas.
+|**Gerenciamento de Contas**| Forneça a documentação de política que rege as práticas e os procedimentos de gerenciamento de contas.
 ||Forneça evidências demonstrativas de que as credenciais padrão estão desabilitadas, removidas ou alteradas nos componentes do sistema amostrados.|
 ||Forneça evidências demonstradas de que a criação, modificação e exclusão da conta passa por um processo de aprovação estabelecido.|
 ||Forneça evidências demonstrativas de que um processo está em uso para desabilitar ou excluir contas não usadas dentro de 3 meses.|
 ||Forneça evidências demonstrativas de que uma política de senha forte ou outras mitigações adequadas para proteger as credenciais do usuário estão em uso.  O seguinte deve ser usado como uma diretriz mínima: comprimento mínimo de senha de 8 caracteres, limite de bloqueio de conta de no máximo 10 tentativas, histórico de senha de no mínimo 5 senhas, imposição do uso de senha forte|
+||Forneça evidências demonstrativas de que contas de usuário exclusivas são emitidas para todos os usuários.|
+||Forneça evidências demonstrativas de que os princípios de privilégios mínimos estão sendo seguidos no ambiente.|
+||Forneça evidências demonstrativas de que um processo está em uso para proteger ou proteger contas de serviço e o processo está sendo seguido.|
+||Forneça evidências demonstrativas de que o MFA está configurado para todas as conexões de acesso remoto e todas as interfaces administrativas não console.|
+||Forneça evidências demonstrativas de que a criptografia forte está configurada para todas as conexões de acesso remoto e todas as interfaces administrativas que não são do console, incluindo o acesso a quaisquer repositórios de código e interfaces de gerenciamento de nuvem.|
+||Forneça evidências demonstraíveis de que o MFA é usado para proteger o portal de administração que você usa para gerenciar e manter todos os registros DNS (serviço de nome de domínio público).|
 |**Detecção e prevenção contra intrusões (OPCIONAL):** Crédito adicional será recompensado por satisfazer os seguintes controles|Forneça evidências demonstrativas de que os Sistemas de Detecção e Prevenção de Intrusões (IDPS) são implantados no perímetro dos ambientes no escopo.|
 ||Forneça evidências demonstrativas de que as assinaturas IDPS são mantidas atuais (dentro de 24 horas).|
 ||Forneça evidências demonstrativas de que o IDPS está configurado para dar suporte à inspeção TLS de todo o tráfego web de entrada.|
@@ -362,7 +368,8 @@ Esse domínio mede o alinhamento dos processos de infraestrutura e implantação
 ||Forneça evidências demonstrativas de que os logs são revisados diariamente por uma ferramenta humana ou automatizada para identificar possíveis eventos de segurança.|
 ||Forneça evidências demonstrativas de que possíveis eventos e anomalias de segurança são investigados e remediados.|
 |**Alerta** | Forneça documentação de política que rege práticas e procedimentos de alerta de eventos de segurança.|
-|| Forneça evidências demonstrativas de que os alertas são disparados para triagem imediata para os seguintes tipos de eventos de segurança: criação ou modificações de conta privilegiadas, eventos de vírus ou malware, adulteração de log de eventos, IDPS ou eventos WAF
+|| Forneça evidências demonstrativas de que os alertas são disparados para triagem imediata para os seguintes tipos de eventos de segurança: criação ou modificações de conta privilegiadas, eventos de vírus ou malware, adulteração de log de eventos, IDPS ou eventos WAF|
+||Forneça evidências demonstrativas mostrando que a equipe está sempre disponível, todos os dias, todos os dias, para responder a alertas de segurança.|
 |**Gerenciamento de risco**|Forneça evidências demonstradas de que um processo formal de gerenciamento de risco de segurança de informações está estabelecido.|
 ||Forneça evidências demonstrativas de que uma avaliação formal de risco ocorre anualmente, no mínimo.|
 ||Forneça evidências demonstrativas de que a avaliação de risco de segurança da informação inclui ameaças, vulnerabilidades ou o equivalente.|
@@ -607,7 +614,7 @@ Como as auditorias iso 27001 não avaliam especificamente alguns elementos dos p
 
 * Demonstre que as solicitações de alteração são assinadas após a realização do teste de funcionalidade.
 
-**Gerenciamento de contas**
+**Gerenciamento de Contas**
 
 Como as auditorias iso 27001 não avaliam especificamente alguns elementos dos processos de gerenciamento de contas, isso exigirá que você:
 
@@ -772,7 +779,7 @@ Como as auditorias do PCI DSS não acessam especificamente alguns elementos de p
 
 *   Os controles de acesso adequados devem estar no local para proteger repositórios de código contra modificações de código mal-intencionados.
 
-**Gerenciamento de contas**
+**Gerenciamento de Contas**
 
 Como as auditorias do PCI DSS não avaliam especificamente alguns elementos dos processos de gerenciamento de contas, isso exigirá que você:
 
@@ -899,7 +906,7 @@ Como as auditorias do SOC 2 não acessam especificamente alguns elementos de pro
 
 *   Os controles de acesso adequados devem estar no local para proteger repositórios de código contra modificações de código mal-intencionados.
 
-**Gerenciamento de contas**
+**Gerenciamento de Contas**
 
 Como as auditorias do SOC2 não avaliam especificamente alguns elementos dos processos de gerenciamento de contas, isso exigirá que você:
 
@@ -997,10 +1004,6 @@ A Microsoft reconhece que você implantará aplicativos e armazenará código de
 
 
 ## <a name="appendix-g"></a>Apêndice G
-
-### <a name="microsoft-365-certification-process-workflow"></a>Microsoft 365 Fluxo de trabalho do processo de certificação
-
-![Fluxo de trabalho](ProcessFlow.jpg)
 
 ## <a name="learn-more"></a>Saiba mais
 
