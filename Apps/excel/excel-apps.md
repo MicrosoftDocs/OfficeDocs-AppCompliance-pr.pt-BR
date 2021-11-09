@@ -2,17 +2,17 @@
 title: Microsoft Excel Segurança e Conformidade de Aplicativos - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/26/2021
+ms.date: 11/08/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: 8fb90fec1ed5b5bc830fa498eee3b690e10e479b
-ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
+ms.openlocfilehash: 9e7418eab523d12da1edf75ec8223670333f7813
+ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60719733"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60873457"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel Segurança e conformidade de aplicativos
 
@@ -30,7 +30,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Diagramas de lucidez para Excel](./lucid-software-inc-lucidchart-diagrams-for-excel.md) | Software Lúcido Inc | **✓** |  |
 | [MeaningCloud Text Analytics for Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office2SharePoint para Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Content Chooser for Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** |  |
+| [officeatwork | Content Chooser for Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Image Chooser for Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | Template Chooser for Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
 | [Gráficos QuickCells](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |

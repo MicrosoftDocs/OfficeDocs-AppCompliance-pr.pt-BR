@@ -2,24 +2,24 @@
 title: Informações do aplicativo para SurveyMonkey por SurveyMonkey
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/30/2011
+ms.date: 10/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SurveyMonkey, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a67e1c8db56a621253fe8ad0471d4db234dc7d70
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 559daeb20d79837b281b80b1046b3582b106761d
+ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60432850"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60874507"
 ---
 # <a name="surveymonkey"></a>SurveyMonkey
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 16 de dezembro de 2019</p>
+<p>Última atualização pelo desenvolvedor em: 25 de outubro de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/0fd925a0-357f-4d25-8456-b3022aaa41a9" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381088" target="_blank">Exibir no AppSource</a>
@@ -36,10 +36,13 @@ Informações fornecidas pelo SurveyMonkey à Microsoft:
 | ID | WA104381088 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | SurveyMonkey |
-| URL do site do parceiro | [https://www.surveymonkey.com](https://www.surveymonkey.com) |
-| URL da página Teams de informações do aplicativo | [https://help.surveymonkey.com/articles/en_US/kb/Microsoft-T...](https://help.surveymonkey.com/articles/en_US/kb/Microsoft-Teams-Integration) |
-| URL da Política de Privacidade | [https://www.surveymonkey.com/mp/legal/privacy-policy/](https://www.surveymonkey.com/mp/legal/privacy-policy/) |
-| URL dos Termos de Uso | [https://www.surveymonkey.com/mp/legal/terms-of-use/](https://www.surveymonkey.com/mp/legal/terms-of-use/) |
+| Site da empresa | [https://www.surveymonkey.com](https://www.surveymonkey.com) |
+| Termos de uso do aplicativo | [https://www.surveymonkey.com/mp/legal/terms-of-use/](https://www.surveymonkey.com/mp/legal/terms-of-use/) |
+| Funcionalidade principal do aplicativo | Colabore e capture comentários e sentimentos dos funcionários por meio de pesquisas e pesquisas rápidas. A captura resulta em um único lugar para manter a equipe atualizada com novas respostas. |
+| Localização da sede da empresa | Estados Unidos da América |
+| Página de informações do aplicativo | |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,67 +54,118 @@ Informações fornecidas pelo SurveyMonkey à Microsoft:
 
 Essas informações foram fornecidas pelo SurveyMonkey sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
-
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
-
->| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Group.ReadWrite.All | delegado | Não | Para fornecer uma lista de grupos/canais para compartilhar uma pesquisa com | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
-
-
-#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
-
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
-
->| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Somente a ID do usuário MS é armazenada no SurveyMonkey para associar respostas e pesquisas ao usuário da equipe. |  | Para as equipes, usamos Microsoft Teams SDK javascript no módulo de tarefas criar e de resultados de pesquisa. |
-
-#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
-
-Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
-
->| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Fazemos uma chamada para v3/conversations/{id}/pagedmembers para verificar se o aplicativo foi adicionado a uma equipe e obter a contagem de membros. É para o controle interno do uso, só vemos o tamanho da lista de chat, outras informações são ignoradas. | Sim, o tamanho do chat é armazenado (um único inteiro) |  |
-
-
-#### <a name="telemetry-data"></a>Dados de telemetria
-
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
-
->EUII - Um log de sucesso/falha é criado sempre que uma pesquisa obtém uma resposta e tentamos enviar essa resposta para o Teams por meio do conector, esse log inclui user_id, survey_id, integration_id (que no banco de dados pode ser usado para procurar ID de equipe MS, ID de usuário MS)
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
-
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
-
->Nosso data center principal está localizado em Las Vegas, NV e nosso data center secundário está localizado em Santa Clara, CA. SurveyMonkey possui e opera todos os seus servidores e infraestrutura nesses locais. Também temos a residência de dados canadense disponível para determinados clientes Enterprise SurveyMonkey localizados no Canadá. Todos os dados são criptografados em repouso usando o TDE com o AES256 e os dados em trânsito são criptografados usando o TLS 1.2.
-
-SurveyMonkey usa a autenticação do usuário central para manter o gerenciamento de identidade e acesso. Esse sistema gerencia toda a autenticação e autorização para toda e qualquer infraestrutura corporativa e de produção, sistemas e serviços. Políticas de acesso estritas são mantidas e revisadas trimestralmente. As avaliações incluem, mas não se limitam a: listas de acesso do usuário, grupos de políticas e avaliações de acesso de terceiros. Para acessar nosso ambiente de produção (ou seja, para obter uma conta privilegiada), é necessário obter a aprovação do gerente, concluir vários treinamentos necessários e obter aprovação de nossa equipe de segurança. Nesse momento, uma conta VPN adicional é provisionada, o que diferencia &#8216;conta&#8217; de uma conta &#8216;de&#8217; privilegiada.
-
-Somente dispositivos emitidos pela empresa têm permissão para acessar nossa rede de produção. Todos os padrões do fornecedor sem fio são alterados antes da instalação, incluindo, mas não se limitando às chaves de criptografia sem fio padrão, senhas e cadeias de caracteres de comunidade SNMP. 2FA e VPN são necessários para fazer isso remotamente. Temos uma rede wifi separada para acesso de convidados em nossos escritórios corporativos.
-
-Todos os serviços, protocolos e portas permitidas devem ter uma justificativa e aprovação de negócios documentadas, incluindo o uso de recursos de segurança implementados para esses protocolos considerados inseguros. Roteadores e firewalls são configurados para limitar a divulgação de IP a terceiros não autorizados ou não intencionados e limitar o acesso à Internet de entrada a endereços IP no Firewall DMZ e os rulesets do roteador são revisados pelo menos a cada seis meses.
-
-#### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
-
-Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
-
->Sim
+| **Information** | **Response** |
+|:----------------|:-------------|
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
+| Quais dados são armazenados em seus bancos de dados? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Você tem um processo estabelecido de locação e descarte de dados? |  |
+| Por quanto tempo os dados são mantidos após o término da conta? |  |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
+| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
+::: zone pivot="security"
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/12024' frameborder='no' style='width: 100%;'></iframe>
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você realiza testes de penetração anual no aplicativo? | Sim |
+| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | TraditionalAntiMalware |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
+| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Sim |
+| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Sim |
+| Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Sim |
+| Você tem um firewall instalado no limite de rede externo? | Sim |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
+| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Sim |
+| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Sim |
+| Autenticação multifator (MFA) habilitada para: | DNSManagement, Credential |
+| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
+| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | Não |
+| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
+| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim|
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
+| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Sim |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/12024" target="_blank">Exibir em uma nova guia</a>
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="compliance"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | Sim |
+| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Não disponível |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Não |
+| Data de certificação SOC1 mais recente |   |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
+| Qual certificação do SOC 2 você atingiu? | |
+| Data de certificação SOC2 mais recente | |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
+| Data de certificação SOC3 mais recente | |
+| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Não disponível |
+| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Sim |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
+| O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
+| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
+| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | Não disponível |
+| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | Sim |
+| O aplicativo está em conformidade com o NIST 800-171? | Não |
+| O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Não |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Não |
+| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
+| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
+| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Não |
+| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Não |
+| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Não |
+| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Não |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
+| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? |  |
+| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Não |
+| Seu aplicativo armazena alguma credencial no código? | Não |
+| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
+
+>Este aplicativo não usa o Microsoft Graph.
+
+>Este aplicativo não tem APIs adicionais.
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
