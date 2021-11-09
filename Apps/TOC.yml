@@ -257,6 +257,8 @@
           href: teams/leya-sa-aula-digital.md
         - name: AVA
           href: teams/avepoint-inc-ava.md
+        - name: Assistente de IT da Avaamo
+          href: teams/avaamo-it-assistant.md
         - name: Axelleron
           href: teams/axelleron.md
         - name: Beagle
@@ -359,6 +361,8 @@
           href: teams/reward-gateway-connectplus.md
         - name: Contact Center
           href: teams/landis-technologies-llc-contact-center.md
+        - name: Contact Center | ROGER365.io
+          href: teams/roger365io-contact-centerroger365io.md
         - name: Gerente de conteúdos
           href: teams/colligo-inc-content-manager.md
         - name: Contexto AVA
@@ -581,8 +585,8 @@
           href: teams/lucca.md
         - name: Lucidchart
           href: teams/lucid-software-lucidchart.md
-        - name: Lucidspark
-          href: teams/lucid-software-lucidspark.md
+        - name: Lucidspark Whiteboard
+          href: teams/lucid-software-lucidspark-whiteboard.md
         - name: LuckyDraw
           href: teams/tony-xia-luckydraw.md
         - name: LumApps
@@ -621,6 +625,8 @@
           href: teams/iglobe-mipa-your-personal-assistant.md
         - name: monday.com
           href: teams/mondaycom.md
+        - name: Moneypenny
+          href: teams/callitech-limited-moneypenny.md
         - name: Monitask
           href: teams/fest-technologies-llc-monitask.md
         - name: Avançar o trabalho com Jira
@@ -641,6 +647,8 @@
           href: teams/myworkdrive.md
         - name: Nailted
           href: teams/nailted-app-sl.md
+        - name: Natterhub
+          href: teams/natterhub.md
         - name: Navo
           href: teams/regroove-solutions-navo.md
         - name: NE
@@ -677,6 +685,8 @@
           href: teams/librestream-onsight-connect.md
         - name: OpenAgora
           href: teams/open-agora-openagora.md
+        - name: Optmyzr
+          href: teams/optmyzr.md
         - name: Org@Work
           href: teams/lundano-org@work.md
         - name: Notificador de Pacote
@@ -687,6 +697,10 @@
           href: teams/pandadoc.md
         - name: ParkHere Corporativo
           href: teams/parkhere-gmbh-corporate.md
+        - name: PayaFy
+          href: teams/nimblesoft-inc-payafy.md
+        - name: Ressamo
+          href: teams/perdoo-gmbh.md
         - name: Wiki perfeito por RD17
           href: teams/ooo-rd17-perfect-wiki-by.md
         - name: Perfony
@@ -965,10 +979,14 @@
           href: teams/vtiger-crm.md
         - name: Waldo
           href: teams/kickle-waldo.md
+        - name: Wazoku
+          href: teams/wazoku.md
         - name: Webdashboard
           href: teams/in-summa-webdashboard.md
         - name: Webex Call
           href: teams/cisco-webex-call.md
+        - name: Weekdone
+          href: teams/weekdone-ltd.md
         - name: Weekly10
           href: teams/binary-geek-limited-weekly10.md
         - name: Gravação de tela de weet
@@ -1054,6 +1072,8 @@
           href: word/lucid-software-inc-lucidchart-diagrams-for-word.md
         - name: Mendeley Cite
           href: word/elsevier-limited-mendeley-cite.md
+        - name: neopoliápole
+          href: word/neopolis-gmbh.md
         - name: Office2SharePoint para Office
           href: word/iglobe-office2sharepoint-for-office.md
         - name: officeatwork | O Selador de Conteúdo para Office
@@ -1074,6 +1094,8 @@
           href: word/grammarsoft-aps-retmig-and-kommaforslag.md
         - name: SmartCite for Papers
           href: word/digital-science-smartcite-for-papers.md
+        - name: Stilus para Word
+          href: word/meaningcloud-stilus-for-word.md
         - name: TaxKit Docs
           href: word/taxyio-gmbh-taxkit-docs.md
         - name: TerMef
@@ -1085,6 +1107,12 @@
     - name: Aplicativos SaaS
       href: saas/saas-apps.md
       items:
+        - name: Central de Contatos do Buzzeasy para Teams
+          href: saas/geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md
+        - name: Classroom.cloud
+          href: saas/netsupport-ltd-classroomcloud.md
+        - name: Backup na nuvem para Office 365 - Prod (transact)
+          href: saas/avepoint-inc-cloud-backup-for-office-365-prod-transact.md
         - name: CodeTwo Email Signatures for Office 365
           href: saas/codetwo-email-signatures-for-office-365.md
         - name: Selador de Conteúdo
@@ -1109,6 +1137,8 @@
           href: saas/netskope-for-microsoft-teams.md
         - name: Office2SharePoint
           href: saas/iglobe-office2sharepoint.md
+        - name: Políticas e Insights para Microsoft 365 (BYOL)
+          href: saas/avepoint-inc-policies-and-insights-for-microsoft-365-byol.md
         - name: Priority Matrix
           href: saas/appfluence-inc-priority-matrix.md
         - name: SalesTim
@@ -1358,6 +1388,8 @@
           href: azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md
         - name: 82eb2bf2-969c-46da-9e89-1db59ac4fbb3
           href: azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3.md
+        - name: 88546d4f-9973-4716-98e4-cd181c04bc2d
+          href: azure/88546d4f-9973-4716-98e4-cd181c04bc2d.md
         - name: 89d5ca9f-d63b-4885-bd30-6e7433c1540c
           href: azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md
         - name: 8aa22b64-9a2c-403b-83c1-feaf774c764c
