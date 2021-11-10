@@ -6,12 +6,12 @@ description: Microsoft 365 Exibição granular do Guia de Envio de Certificaçã
 keywords: equipes de certificação de aplicativos Microsoft 365 conformidade de segurança m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 0d422251404275da18e08af120a15877616e4db4
-ms.sourcegitcommit: dfd937182e08ed377a5ad80f0db929ab7d7c7a7b
+ms.openlocfilehash: f89cb9f82cec69a473d451cff33e3db9b406489d
+ms.sourcegitcommit: ddd67912ff4e8901300556ff85c2cf416f54dea1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60789972"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60885282"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 Guia de Envio de Certificação
 
@@ -144,7 +144,8 @@ Se sua certificação não for renovada antes da data de expiração, o status d
 
 ## <a name="initial-document-submission"></a>Envio inicial de documento
 
-O envio inicial do documento ajudará os analistas de certificação a executar o escopo e a determinar o que estará no escopo de sua avaliação. Depois disso, você será obrigado a enviar documentação de suporte e evidências usadas para realizar a avaliação. Seu envio inicial deve incluir as informações especificadas abaixo:
+
+O envio inicial do documento ajudará os analistas de certificação a executar o escopo e a determinar o que estará no escopo de sua avaliação. Depois disso, você será obrigado a enviar documentação de suporte e evidências usadas para realizar a avaliação. Seu envio inicial deve incluir as informações especificadas abaixo. Para obter orientações adicionais, consulte o Guia de Submissão de Documentos [Initital.](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/initialdocumentsubguide)
 
 | **Visão &nbsp; geral da documentação**     |   **Detalhes da documentação**  |
 | -------------------------| -----------------------------|
@@ -191,7 +192,7 @@ Vários métodos serão usados para coletar as evidências necessárias para con
 * Entrevistas 
 * Compartilhamento de tela 
 
-As técnicas de coleta de evidências usadas serão determinadas durante o processo de avaliação. 
+As técnicas de coleta de evidências usadas serão determinadas durante o processo de avaliação. Para exemplos concretos do tipo de evidência necessária em seu envio, consulte [o Guia de Evidências de Exemplo.](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-sample-evidence-guide)
 
 **Atividades de Avaliação**
 

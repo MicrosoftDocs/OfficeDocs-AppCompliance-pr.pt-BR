@@ -6,12 +6,12 @@ description: Microsoft 365 Visão geral dos detalhes da certificação
 keywords: atestado de certificação de aplicativos Microsoft 365 appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 55125deec809aef3e74ab96bedf88b43ad8ac46e
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: ec401c9e1418c0023931300efe8c0206824d3506
+ms.sourcegitcommit: ddd67912ff4e8901300556ff85c2cf416f54dea1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60544941"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60885281"
 ---
 # <a name="complete-microsoft-365-certification"></a>Concluir Microsoft 365 Certificação
 
@@ -38,6 +38,9 @@ Conclusão A certificação Microsoft 365 requer a conclusão de ambas as fases 
 1. **Iniciar Certificação** - No partner center, clique em "Iniciar Certificação". Isso o levará ao seu portal de envio de documento inicial. Envie seu [envio inicial de documento.](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission) Isso nos ajudará a determinar o que está no escopo de sua avaliação com base em como seu aplicativo é projetado e lida com dados do cliente. Verifique esta página com frequência para ver se seu envio foi aceito.
 
 1. **Enviar Evidências** - Depois que o envio inicial do documento for aceito, o conjunto de controles de segurança necessários para seu aplicativo será exibido automaticamente no portal. Em seguida, você será obrigado a enviar evidências para cada controle demonstrando que o controle está no local. Tenha em mente que você receberá **60 dias para** enviar todas as evidências. Um analista revisará suas evidências e aprovará o controle ou solicitará evidências novas ou adicionais. Verifique esta página com frequência para ver se suas evidências foram aceitas.
+
+>[!NOTE]
+> Confira o Guia de [Evidências de](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-sample-evidence-guide) Exemplo para ver exemplos concretos das evidências necessárias.
 
 1. **Obter Certificado** - Depois que seu envio tiver sido validado por um analista, você será notificado da sua decisão de certificação. Os aplicativos que receberam uma certificação receberão um selo em seu aplicativo dentro de **marketplaces (Teams, Office, AppSource)** e portais de administração **(Teams, M365)** e páginas de documentos da **Microsoft.** Você pode ler sobre os benefícios completos da [certificação aqui](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits).
 
