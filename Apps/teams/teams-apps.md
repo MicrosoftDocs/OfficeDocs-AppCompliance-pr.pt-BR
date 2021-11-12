@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/08/2021
+ms.date: 11/12/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: c7f08da49e2733b469e65ebe7692962827b2deb4
-ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
+ms.openlocfilehash: aeca6ab37c806c4b9966bc1be5f4fa229120a8c1
+ms.sourcegitcommit: bbdf2ba4c6b7682eb6645aa40671738f64105876
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60874637"
+ms.lasthandoff: 11/12/2021
+ms.locfileid: "60930954"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -29,6 +29,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Agenda Chefe](./appfluence-inc-agenda-boss.md) | Appfluence Inc | **✓** |  |
 | [Quadro de Tarefas Agile](./agile-is-task-board.md) | Agile-IS | **✓** |  |
 | [Alvao Service Desk](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  |
+| [Âmbar](./infeedo-amber.md) | inFeedo | **✓** |  |
 | [Ambição](./ambition.md) | Ambição | **✓** |  |
 | [AMEX GBT](./30secondstofly-thailand-co-ltd-amex-gbt.md) | 30SecondsToFly (Tailândia) Co Ltd | **✓** |  |
 | [Ampliação por Hootsuite](./hootsuite-inc-amplify-by.md) | Hootsuite Inc. | **✓** |  |
@@ -39,9 +40,9 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [ArcGIS Maps](./esri-arcgis-maps.md) | Esri | **✓** |  |
 | [ARGUSnylar](./argus-data-insights-schweiz-ag-argusnylar.md) | INSIGHTS DE DADOS DO ARGUS Schweiz AG | **✓** |  |
 | [Arrangr](./arrangr-inc.md) | Arrangr, Inc. | **✓** |  |
+| [Asa](./two-app-studio-pte-ltd-asa.md) | Dois App Studio Pte Ltd. | **✓** |  |
 | [Asana](./asana.md) | Asana | **✓** |  |
 | [ASC Recording Insights](./asc-technologies-ag-recording-insights.md) | ASC Technologies AG | **✓** |  |
-| [askR.ai](./askrai.md) | askR.ai | **✓** |  |
 | [Assembly](./carrothr-inc-assembly.md) | CarrotHR Inc. | **✓** |  |
 | [Aster](./aster.md) | Áster | **✓** |  |
 | [AtBot](./h3-solutions-inc-atbot.md) | H3 Solutions, Inc. | **✓** |  |
@@ -136,6 +137,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Gerenciamento da Treinamento de Funcionários](./sharepointsapiens-employee-training-management.md) | SharePoint|Sapiens | **✓** |  |
 | [Empuls](./empuls.md) | Empuls | **✓** |  |
 | [Enboarder](./enboarder.md) | Enboarder | **✓** |  |
+| [Engagedly](./engagedly-inc.md) | Engagedly Inc | **✓** |  |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  |
 | [enmacc](./enmacc.md) | enmacc | **✓** |  |
 | [eTeamer](./eteamer.md) | &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
@@ -170,6 +172,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [GuideSpark Communicate Cloud](./guidespark-communicate-cloud.md) | GuideSpark | **✓** |  |
 | [Guru](./guru-technologies.md) | Guru Technologies | **✓** |  |
 | [Health Hero](./health-hero.md) | Health Hero | **✓** |  |
+| [HelloTeam](./helloteam-inc.md) | HelloTeam Inc. | **✓** |  |
 | [HeyTaco!](./heytaco!.md) | HeyTaco! | **✓** |  |
 | [oi treinador digital](./digital-attitude-srl-hi-coach.md) | Atitude Digital Srl | **✓** |  |
 | [Hi5](./hi5technologies-hi5.md) | Hi5Technologies | **✓** |  |
@@ -193,6 +196,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [JobPts](./semos-cloud-soultions-jobpts.md) | Semos Nuvem Soultions | **✓** |  |
 | [KAKEAI](./kakeai.md) | KAKEAI | **✓** |  |
 | [Ferramenta Kanban](./shore-labs-kanban-tool.md) | Laboratórios de Costa | **✓** |  |
+| [Kaptain Carlos](./askrai-kaptain-charlie.md) | askR.ai | **✓** |  |
 | [Karma](./sliday-ltd-karma.md) | Sliday LTD | **✓** |  |
 | [Kazoo](./kazoo.md) | Kazoo | **✓** |  |
 | [Keepass Pro](./witivio-keepass-pro.md) | Witivio | **✓** |  |
@@ -201,7 +205,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Koan](./koan-inc.md) | Koan, Inc. | **✓** |  |
 | [Kudozza](./survivef5-gmbh-kudozza.md) | surviveF5 GmbH | **✓** |  |
 | [Kunjani](./faceboard-pty-ltd-kunjani.md) | FACEBOARD (PTY) LTD | **✓** |  |
-| [LawToolBox](./lawtoolboxcom-inc-lawtoolbox.md) | LawToolBox.com Inc. | **✓** |  |
+| [LawToolBox](./lawtoolboxcominc-lawtoolbox.md) | LawToolBox.com,Inc. | **✓** |  |
 | [Saiba mais](./witivio-learn.md) | Witivio | **✓** |  |
 | [Solicitação de saída por LTAPPs](./ltapps-software-coltd-leave-request-by.md) | LTAPPs SOFTWARE CO.,LTD | **✓** |  |
 | [Lexion](./lexion.md) | Lexion | **✓** |  |
@@ -374,6 +378,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Talview Entrevistas](./talview-inc-interviews.md) | Talview Inc | **✓** |  |
 | [TAMPLO](./ityss-tamplo.md) | ITYSS | **✓** |  |
 | [TaskList](./limestat-inc-tasklist.md) | LimeStat, Inc | **✓** |  |
+| [Taskworld](./taskworld.md) | Taskworld | **✓** |  |
 | [Equipe](./teamble.md) | Equipe | **✓** |  |
 | [Bot de Verificação de Integridade do TeaMe](./teame-health-check-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12461;&#12515;&#12522;&#12450;&#12487;&#12505;&#12525;&#12483;&#12503;&#12513;&#12531;&#12488;&#12539;&#12450;&#12531;&#12489;&#12539;&#12463;&#12522;&#12456;&#12452;&#12471;&#12519;&#12531; | **✓** |  |
 | [Teamflect](./grepsi-software-teamflect.md) | Grepsi Software | **✓** |  |
@@ -386,7 +391,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [TeamSticker por Communitio](./communitio-corporation-teamsticker-by.md) | Communitio Corporation | **✓** |  |
 | [Teamwork](./teamwork.md) | Trabalho em equipe | **✓** |  |
 | [Conexão TELUS Business](./ringcentral-inc-telus-business-connect.md) | RingCentral, Inc. | **✓** |  |
-| [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** |  |
 | [Texto](./approved-contact-text.md) | Contato Aprovado | **✓** |  |
 | [ThoughtWire EWS](./thoughtwire-corp-ews.md) | ThoughtWire Corp. | **✓** |  |
 | [locais ti8m](./tiandm-ag-ti8m-places.md) | ti &amp; m AG | **✓** |  |
@@ -398,6 +403,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Totara](./totara-learning.md) | Aprendizagem do Totara | **✓** |  |
 | [Tribute](./tribute-co.md) | Tribute Co. | **✓** |  |
 | [Trivia](./springworks-hr-tech-trivia.md) | Springworks HR Tech | **✓** |  |
+| [Mecanismo de Trivia](./enableuc-trivia-engine.md) | EnableUC | **✓** |  |
 | [Trivie](./trivie-inc.md) | Trivie, Inc. | **✓** |  |
 | [Tryane Analytics](./tryane-analytics.md) | Tryane | **✓** |  |
 | [UKG Pro](./ukg-inc-pro.md) | UKG, Inc. | **✓** |  |
