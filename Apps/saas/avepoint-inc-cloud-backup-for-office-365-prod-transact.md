@@ -5,20 +5,19 @@ author: elenamalova
 ms.date: 10/27/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Backup na Nuvem para Office 365 - Prod (transact), suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9c147dc754f420e0c7f1c1392cb2e75616557cfe
-ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
+ms.openlocfilehash: b9257448bd15bc23647a3567fb0f66a7325fe1fd
+ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60874817"
+ms.lasthandoff: 11/16/2021
+ms.locfileid: "61039993"
 ---
 # <a name="cloud-backup-for-office-365---prod-transact"></a>Backup na nuvem para Office 365 - Prod (transact)
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Última atualização pelo desenvolvedor em: 29 de setembro de 2021</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/avepoint.cloudbackup_o365_transact" target="_blank">Exibir no AppSource</a>
@@ -105,20 +104,20 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
 | O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Não disponível |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
 | Data de certificação SOC1 mais recente |   |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Sim |
 | Qual certificação do SOC 2 você atingiu? |  type2 |
 | Data de certificação SOC2 mais recente |  2/19/2021 |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
 | Data de certificação SOC3 mais recente | |
-| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Não disponível |
+| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
 | O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Sim |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Não disponível |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | N/D |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Sim |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
 | O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Sim |
-| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | Não disponível |
+| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
 | O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
 | O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | Sim |
 | O aplicativo está em conformidade com o NIST 800-171? | N/D |

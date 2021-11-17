@@ -2,24 +2,24 @@
 title: Informações do aplicativo para o Organizr pela Arrangr, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/19/2021
+ms.date: 11/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Arrangr, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: f4a5df023e906ad18e260debe09953351210d5bc
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 1f1798cd6741c6cafdd33defe8b8e713ac58eab5
+ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60427863"
+ms.lasthandoff: 11/16/2021
+ms.locfileid: "61040983"
 ---
 # <a name="arrangr"></a>Arrangr
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 15 de junho de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 15 de novembro de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/57de46f8-193a-400c-9a34-c862333aed55" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002975" target="_blank">Exibir no AppSource</a>
@@ -36,10 +36,13 @@ Informações fornecidas pelo Arrangr, Inc. à Microsoft:
 | ID | WA200002975 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Arrangr, Inc. |
-| URL do site do parceiro | [https://arrangr.com](https://arrangr.com) |
-| URL da página Teams de informações do aplicativo | [https://arrangr.com/welcome](https://arrangr.com/welcome) |
-| URL da Política de Privacidade | [https://arrangr.com/privacy_policy](https://arrangr.com/privacy_policy) |
-| URL dos Termos de Uso | [https://arrangr.com/terms_of_use](https://arrangr.com/terms_of_use) |
+| Site da empresa | [https://arrangr.com](https://arrangr.com) |
+| Termos de uso do aplicativo | [https://arrangr.com/terms_of_use](https://arrangr.com/terms_of_use) |
+| Funcionalidade principal do aplicativo | O Organizr é um agendador integrado inteligente para qualquer reunião. Seja em pessoa ou remota, 1:1 ou com um grupo, o Organizr é simples e rápido. O Organizr se integra aos calendários da Microsoft para bloquear facil e rapidamente seus horários de ocupado, ajudar a visualizar sua agenda e garantir que suas reuniões são colocadas em seu calendário. Além disso, nossa integração Teams permite que você compartilhe facilmente convites com colegas de equipe, inicie novas reuniões dentro do Teams e acompanhe suas reuniões do Arrangr de dentro de uma guia Teams. |
+| Localização da sede da empresa | Estados Unidos da América |
+| Página de informações do aplicativo | |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,81 +54,123 @@ Informações fornecidas pelo Arrangr, Inc. à Microsoft:
 
 Essas informações foram fornecidas pela Arrangr, Inc. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
-
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
-
->| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Coletamos nomes de calendários do usuário e detalhes sobre seus eventos de calendário para facilitar o agendamento de reuniões. | Armazenamos os nomes de todos os calendários conectados, para que eles possam ver e alterar quais calendários eles se conectaram | [57de46f8-193a-400c-9a34-c86233aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| Channel.ReadBasic.All | delegado | Colete uma lista de canais disponíveis para o usuário, para que possamos mostrar a eles uma lista de seus canais para que eles escolham um para compartilhar um convite do Arrangr. | Não armazenamos informações nos canais do usuário | [57de46f8-193a-400c-9a34-c86233aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| ChannelMessage.Send | delegado | Essa permissão é usada para enviar convites do Arrangr para canais de equipe em nome do usuário. Não é usado para coletar dados. | Nenhum dado é armazenado coletado com essa permissão. | [57de46f8-193a-400c-9a34-c86233aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| Chat.ReadWrite | delegado | Essa permissão é usada para enviar convites do Arrangr para um Teams chat em nome do usuário. Essa permissão não é usada para coletar dados. | Nenhum dado é armazenado coletado com essa permissão. | [57de46f8-193a-400c-9a34-c86233aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| ChatMessage.Send | delegado | Essa permissão é usada para enviar convites do Arrangr para 1:1 e chats de grupo em nome do usuário. Não é usado para coletar dados. | Nenhum dado é armazenado coletado com essa permissão. | [57de46f8-193a-400c-9a34-c86233aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| OnlineMeetings.ReadWrite | delegado | O Organizr coleta Microsoft Teams de reunião no processo de gerando-os com essa permissão. Geramos Teams reuniões em nome do usuário para que ele possa organizar Teams chamadas no Arranger. | Armazenamos os links de reunião para que eles possam ser compartilhados com as partes apropriadas para ingressar na reunião. | [57de46f8-193a-400c-9a34-c86233aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| People.Read | delegado | Coletamos nomes e emails de pessoas relevantes para o usuário. Isso é para que possamos tornar mais fácil para o usuário selecioná-los como destinatários de convites do Arrangr. | Se o usuário terminar selecionando um destinatário oferecido por meio dessa API, salvaremos o nome e o email desse destinatário para conduzir a reunião e facilitar a seleção do usuário como destinatário novamente no futuro. | [57de46f8-193a-400c-9a34-c86233aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| Team.ReadBasic.All | delegado | Coletamos os nomes da Teams do usuário, para que ele possa selecionar em qual Teams deseja se conectar ao Arrangr e em qual Equipe deseja compartilhar um convite do Organizr. | O Organizr armazena os nomes de Teams que o usuário optou por vincular ao Arrangr, para que possamos exibir esses Teams em suas configurações e permitir que eles selecionem entre esses Teams ao decidir onde compartilhar um convite do Arrangr. | [57de46f8-193a-400c-9a34-c86233aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| TeamsAppInstallation.ReadWriteSelfForUser | delegado | Lemos se nosso aplicativo foi instalado ou não na conta Teams do usuário, para que possamos perguntar se eles querem instalar nosso aplicativo e para que possamos instalá-lo para eles. | Não armazenamos dados coletados por meio dessa permissão. | [57de46f8-193a-400c-9a34-c86233aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
->| perfil | delegado | Nome e endereço de email | Nome e endereço de email, para mostrar ao usuário qual conta ele se conectou ao nosso serviço. | [57de46f8-193a-400c-9a34-c86233aed55](https://docs.microsoft.com/microsoft-365-app-certification/azure/57de46f8-193a-400c-9a34-c862333aed55) |
-
-#### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
-
-Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
-
->| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Outlook | Sim | Nome, email, nomes de calendário, informações de eventos de calendário | Coletamos essas informações para permitir que os usuários conectem seu calendário ao Organizr para facilitar o agendamento de reuniões | Nome, email, nomes de calendário | Armazenamos essas informações para que possamos mostrar aos usuários quais contas e calendários eles se conectaram ao nosso serviço |
-
-#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
-
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
-
->| **Todos os não serviços Microsoft OII são transferidos para** |  **Qual OII é transferido?** | **Justificativa para transferir o OII?** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Google Cloud, SendGrid, Stripe, Quaderno | O Google Cloud armazena todos os dados do usuário, os nomes de usuário e os emails são compartilhados com SendGrid para enviar emails aos usuários, listar nomes de usuário recebidos, emails e informações de pagamento para processamento de pagamentos. Quaderno recebe nomes de usuário, emails e informações geográficas para ajudar com a conformidade do imposto de vendas. | O Google Cloud é necessário para armazenar dados para lembrar os usuários e fornecer as informações escolhidas para armazenar no Arrangr. Para enviar emails para nossos usos, precisamos fornecer seus endereços de email para SendGrid. Para coletar pagamentos, devemos processar suas informações de pagamento no Stripe, mas não armazenamos suas informações de pagamento em nossos próprios servidores. Quaderno é necessário para calcular o imposto de vendas e garantir que permaneçamos em conformidade com as regulamentações de imposto de vendas. |
-
-#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
-
-Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
-
->| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Os usuários usarão nossa extensão de mensagens para agendar reuniões com outras pessoas. Precisamos mostrar ao usuário a conta em que ele está conectado e precisamos ser capazes de associar o convite que eles enviam ao usuário correto do Organizr. | Nomes de usuário, emails e informações de comunicação. | Essas informações são necessárias para coordenar reuniões entre várias partes e compartilhar com os detalhes para se conectar e com quem estão se encontrando. |
-
-
-#### <a name="telemetry-data"></a>Dados de telemetria
-
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
-
->Nenhum OII ou EUII aparece nos logs ou telemetria de aplicativos.
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
-
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
-
->Controlamos os dados armazenados no Google Cloud Datastore por meio de sua API e podemos excluir todos os dados necessários. Nossos usuários podem solicitar a remoção de suas contas e a exclusão de seus dados.
-
-#### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
-
-Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
-
->Sim
+| **Information** | **Response** |
+|:----------------|:-------------|
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
+| Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
+| Quais dados são armazenados em seus bancos de dados? | Nome de usuário e email, nomes de seus calendários, links de conferência de calendário, nomes de equipes. |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
+| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
+| Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
+| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="security"
 
-::: zone pivot="identity"
-
-### <a name="identity-information"></a>Informações de identidade
-
-Essas informações foram fornecidas pela Arrangr, Inc. sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
+| Você realiza testes de penetração anual no aplicativo? | Não |
+| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | TraditionalAntiMalware, ApplicationControls |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
+| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Não |
+| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Não |
+| Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Não |
+| Você tem um firewall instalado no limite de rede externo? | Não |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
+| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Não |
+| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Sim |
+| Autenticação multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
+| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
+| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | Não |
+| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Não |
+| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | |
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
+| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Não |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
+::: zone pivot="compliance"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
+| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
+| Data de certificação SOC1 mais recente |   |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
+| Qual certificação do SOC 2 você atingiu? | |
+| Data de certificação SOC2 mais recente | |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
+| Data de certificação SOC3 mais recente | |
+| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
+| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | N/D |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
+| O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
+| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
+| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
+| O aplicativo está em conformidade com o NIST 800-171? | N/D |
+| O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Sim |
+| URL da Política de Privacidade | https://arrangr.com/privacy_policy |
+| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
+| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
+| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
+| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Sim |
+| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
+| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Não |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
+| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? |  |
+| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Não |
+| Seu aplicativo armazena alguma credencial no código? | Não |
+| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
+
+>Este aplicativo não usa o Microsoft Graph.
+
+>Este aplicativo não tem APIs adicionais.
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
