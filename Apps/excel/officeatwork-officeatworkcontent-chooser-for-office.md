@@ -8,16 +8,17 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | Content Chooser for Office, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8c6183fd0573ab38e5bf0b68976380af56133581
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 128e62ce29c8f7a9da9eca7f78bd15c6148b4116
+ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276027"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61066399"
 ---
 # <a name="officeatwork--content-chooser-for-office"></a>officeatwork | O Selador de Conteúdo para Office
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 23 de junho de 2021</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380602" target="_blank">Exibir no AppSource</a>
@@ -32,7 +33,7 @@ Informações fornecidas pelo officeatwork à Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | officeatwork - Content Chooser for Office |
 | ID | WA104380602 |
-| Office 365 clientes com suporte | Excel no iPad, Excel 2016 ou posterior no Mac, Excel 2013 Service Pack 1 ou posterior no Windows, Excel na Web, Word no iPad, Word 2016 ou posterior no Mac, Word na Web, Word 2013 Service Pack 1 ou posterior no Windows, PowerPoint no iPad, PowerPoint 2016 ou posterior no Mac, PowerPoint na Web, PowerPoint 2013 Service Pack 1 ou posterior no Windows, OneNote na Web |
+| Office 365 clientes com suporte | Excel no iPad, Excel 2016 ou posterior no Mac, Excel 2013 Service Pack 1 ou posterior no Windows, Excel na Web, Word no iPad, Word 2016 ou posterior no Mac, Word na Web, Word 2013 Service Pack 1 ou posteriormente Windows, PowerPoint no iPad, PowerPoint 2016 ou posterior no Mac, PowerPoint na Web, PowerPoint 2013 Service Pack 1 ou posterior em Windows, OneNote na Web |
 | Nome da empresa de parceiro | officeatwork |
 | URL do site do parceiro | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | URL da Política de Privacidade | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
@@ -57,7 +58,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| Files.ReadWrite.All | delegado | Nenhum dado é armazenado. | Favoritos: para poder ler e gravar dados para os usuários OneDrive. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| Files.ReadWrite.All | delegado | Nenhum dado é armazenado. | OneDrive: para poder ler e gravar dados para os usuários OneDrive. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| Group.ReadWrite.All | delegado | Nenhum dado é armazenado. | Teams: para poder ler e gravar dados em um Grupo. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
->| GroupMember.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online - Os grupos de segurança suportam: permitir que o aplicativo liste grupos, leia as propriedades básicas do grupo e leia as associações de todos os grupos aos que o usuário associado tem acesso | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
+>| GroupMember.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online - Suporte a Grupos de Segurança: para permitir que o aplicativo liste grupos, leia as propriedades básicas do grupo e leia as associações de todos os grupos aos que o usuário inscreveu tem acesso | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| Sites.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online: para habilitar a leitura de dados SharePoint Online. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| User.Read | delegado | Nenhum dado é armazenado. | Sing-In: para habilitar o aplicativo officeatwork para ler as propriedades básicas do usuário. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
 >| User.Read.All | delegado | Nenhum dado é armazenado. | Teams: para descobrir a que grupos um usuário pertence. | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](https://docs.microsoft.com/microsoft-365-app-certification/azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3) |
