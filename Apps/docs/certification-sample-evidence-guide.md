@@ -2,31 +2,32 @@
 title: Microsoft 365 Certificação - Guia de Evidências de Exemplo
 author: OrionOmalley
 ms.author: oromalle
-description: Microsoft 365 Visão geral do guia de exemplo de envio de evidências de certificação
+description: Microsoft 365 visão geral do guia de envio de evidências de certificação
 keywords: atestado de certificação de aplicativos Microsoft 365 exemplo de diretrizes de envio de evidências do appSource
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 92584b5ca70403d01696890ba8af093a36ca9009
-ms.sourcegitcommit: dfd937182e08ed377a5ad80f0db929ab7d7c7a7b
+ms.openlocfilehash: 5e619ffe1f89f675b473f90dead3c0bc550ae41a
+ms.sourcegitcommit: 7975c249abac22ca1a8c7c9b592d4404bea10cf4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60789982"
+ms.lasthandoff: 11/23/2021
+ms.locfileid: "61151816"
 ---
 # <a name="microsoft-365-certification---sample-evidence-guide"></a>Microsoft 365 Certificação - Guia de Evidências de Exemplo
 
 ## <a name="overview"></a>Visão Geral
 
-Essa orientação foi criada para fornecer aos ISVs assistência no nível de requisitos detalhados para os controles Microsoft 365 Certificação. Além disso, ele fornece orientações sobre como estruturar o envio de evidências, juntamente com exemplos dos tipos de evidências que podem ser usados para satisfazer os controles de certificação. Quaisquer exemplos compartilhados neste documento não representam a única evidência que pode ser usada para ajudar a fornecer a garantia de que os controles estão sendo atendidos, mas atuam apenas como uma diretriz para o tipo de informação que pode ajudar a fornecer aos Analistas de Certificação as evidências necessárias para ajudá-los com essa afirmação. Observação: - As interfaces reais, capturas de tela e documentação usadas para atender aos requisitos variam dependendo do uso do produto, da instalação do sistema e dos processos internos. Além disso, observe que, quando a documentação de política ou procedimento for necessária, o ISV será necessário para enviar os documentos REAIS e não capturas de tela, como talvez mostrado em alguns dos exemplos. É recomendável que você siga essas diretrizes para evitar que sua avaliação seja adiada devido a evidências insuficientes. 
+Este guia foi criado para fornecer aos ISVs exemplos do tipo de evidência e do nível de detalhes necessários para cada um dos controles Microsoft 365 Certificação. Quaisquer exemplos compartilhados neste documento não representam a única evidência que pode ser usada para demonstrar que os controles estão sendo atendidos, mas atuam apenas como uma diretriz para o tipo de evidência necessária. 
+
+Observação: as interfaces reais, capturas de tela e documentação usadas para atender aos requisitos variam dependendo do uso do produto, da instalação do sistema e dos processos internos. Além disso, observe que, quando a documentação de política ou procedimento for necessária, o ISV será necessário para enviar os documentos REAIS e não capturas de tela, como talvez mostrado em alguns dos exemplos. 
 
 Há duas seções na certificação que exigem envios:
 1. [**O Envio Inicial do Documento:**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/initialdocumentsubguide) um pequeno conjunto de documentos de alto nível necessários para a análise de sua avaliação.
-1. **O Envio de Evidências:** o conjunto completo de evidências necessário para cada controle no escopo para sua avaliação de certificação. Exemplos de evidências para cada controle são mostrados abaixo.
-
+1. **O Envio de Evidências:** o conjunto completo de evidências necessário para cada controle no escopo para sua avaliação de certificação. 
 
 ## <a name="structure"></a>Structure 
 
-Isso se correlaciona diretamente às categorias fornecidas no Guia de Envios Microsoft 365 certificação online. Observe que é melhor usar este guia diretamente junto com Microsoft 365 planilha de Lista de Verificação de Certificação fornecida para evitar mal-entendidos aos quais o controle defina cada um dos exemplos nesta diretriz está se referindo. As diretrizes fornecidas neste documento são detalhadas da seguinte forma:
+Este documento mapeia diretamente para controles que serão apresentados durante sua certificação no partner center. As diretrizes fornecidas neste documento são detalhadas da seguinte forma:
 - Domínio de Segurança: os três domínios de segurança em que todos os controles estão agrupados: Segurança do Aplicativo, Segurança Operacional e Segurança de Dados e Privacidade.
 - Control(s): = Descrição da Atividade de Avaliação - Esses controles e número associado (Não)são tirados diretamente da lista de verificação de Microsoft 365 Certificação.  
 - Intenção: = A intenção de por que o controle de segurança está incluído no programa e o risco específico que ele se destina a atenuar.  A esperança é que essas informações forneçam aos ISVs o raciocínio por trás do controle para entender melhor os tipos de evidências que precisam ser coletados e quais ISV devem prestar atenção e ter conhecimento e compreensão na produção de suas evidências.
@@ -191,7 +192,7 @@ Esse grupo de controle de segurança está no escopo para ambientes de hospedage
 
 - Intenção: a intenção desse controle é garantir que o processo está sendo seguido e ele&#39;robusto o suficiente para identificar novas vulnerabilidades de segurança em todo o ambiente. Isso pode não ser apenas os Sistemas Operacionais; pode incluir aplicativos em execução no ambiente e quaisquer dependências de código.
 
-- Diretrizes de evidências de exemplo: as evidências podem ser fornecidas por meio de exibição de assinaturas para listas de email, revisão manual de fontes de segurança para vulnerabilidades recém-lançadas (seria necessário ser rastreada adequadamente com datas de data/hora das atividades, ou seja, com JIRA ou Azure DevOps), ferramentas que localizam softwares fora de data (por exemplo, poderia ser Snyk ao procurar bibliotecas de software desaconsustadas,  ou pode ser o Nessus usando verificações autenticadas que identificam softwares desaproveitado.).
+- Diretrizes de evidências de exemplo: as evidências podem ser fornecidas por meio de exibição de assinaturas para listas de email, revisão manual de fontes de segurança para vulnerabilidades recém-lançadas (seria necessário ser rastreado adequadamente com datas de data/hora das atividades, ou seja, com JIRA ou Azure DevOps), ferramentas que localizam softwares fora de data (por exemplo, poderia ser Snyk ao procurar bibliotecas de software descontodas ou poderia ser Nessus usando verificações autenticadas que identificam  software desa datado.).
 
 **Observação** Se estiver usando o Nessus, isso precisará ser executado regularmente para identificar vulnerabilidades rapidamente. Recomendamos pelo menos semanalmente.
 
