@@ -1,44 +1,45 @@
 ---
-title: Informações do aplicativo para prazos do LawToolBox e gerenciamento de Outlook por LawToolBox.com Inc.
+title: Informações do aplicativo para o Dia da Escola até o Dia da Escola em Helsínquia
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/24/2021
+ms.date: 10/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o LawToolBox Deadlines e o Gerenciamento de Problemas - Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Dia da Escola, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9baa7ea9b51626f8d887d568b428a83999b77940
+ms.openlocfilehash: 87ac7c69b2087c9960d9c6116e2682db1be786b2
 ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 11/23/2021
-ms.locfileid: "61148119"
+ms.locfileid: "61148130"
 ---
-# <a name="lawtoolbox-deadlines-and-matter-management---outlook"></a>Prazos do LawToolBox e Gerenciamento de Outlook
+# <a name="school-day"></a>Dia Escolar
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 24 de junho de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 12 de outubro de 2021</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200003103" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/7caaa66b-34b0-4c15-a65d-dba6edf0c8fd" target="_blank">Exibir no Teams store</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001430" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo LawToolBox.com Inc. para a Microsoft:
+Informações fornecidas pelo Oy do Dia da Escola de Helsínquia para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Prazos do LawToolBox e Gerenciamento de Outlook |
-| ID | WA200003103 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior em Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
-| Nome da empresa de parceiro | LawToolBox.com Inc. |
-| Site da empresa | [https://www.lawtoolbox.com](https://www.lawtoolbox.com) |
-| Termos de uso do aplicativo | [https://www.lawtoolbox.com/customersupport/2019/LawToolBox_...](https://www.lawtoolbox.com/customersupport/2019/LawToolBox_End_User_License_Agreement_and_SLA_LAWTOOLBOX_2019_APR.pdf) |
-| Funcionalidade principal do aplicativo | Gerenciar prazos e pesquisar arquivos com nossas Microsoft 365 Integrações para Legal |
-| Localização da sede da empresa | Estados Unidos da América |
+| Nome do aplicativo | Dia Escolar |
+| ID | WA200001430 |
+| Office 365 clientes com suporte | Microsoft Teams |
+| Nome da empresa de parceiro | Dia Escolar em Helsinque Oy |
+| Site da empresa | [https://www.schoolday.com](https://www.schoolday.com) |
+| Termos de uso do aplicativo | [https://www.schoolday.com/eula](https://www.schoolday.com/eula) |
+| Funcionalidade principal do aplicativo | Melhorar o bem-estar do aluno e Social-Emotional Learning (SEL) com o Dia da Escola no Microsoft Teams! |
+| Localização da sede da empresa | Finlândia |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
 
@@ -50,7 +51,7 @@ Informações fornecidas pelo LawToolBox.com Inc. para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela LawToolBox.com Inc. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo Oy de Dia da Escola de Helsínquia sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
@@ -59,7 +60,7 @@ Essas informações foram fornecidas pela LawToolBox.com Inc. sobre como esse ap
 | Quais dados são armazenados em seus bancos de dados? |  |
 | Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
 | Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Retido |
+| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
 | Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
@@ -74,8 +75,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você realiza testes de penetração anual no aplicativo? | Não |
-| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Não |
+| Você realiza testes de penetração anual no aplicativo? | Sim |
+| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
 | Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? |  |
 | Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? |  |
 | Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? |  |
@@ -104,7 +105,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | Sim |
+| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
 | O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
 | Data de certificação SOC1 mais recente |   |
@@ -113,15 +114,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Data de certificação SOC2 mais recente | |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
 | Data de certificação SOC3 mais recente | |
-| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
+| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
 | O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Não |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Não |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
 | O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
 | O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | Sim |
-| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
-| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | Sim |
+| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | Sim |
+| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
 | O aplicativo está em conformidade com o NIST 800-171? |  |
 | O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
 
@@ -154,13 +155,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | verdadeiro |
+| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | falso |
 | Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
-| Listar os tipos de políticas com suporte | Para um administrador de controle maior pode implementar permissões de aplicativo |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) |  |
 | Seu aplicativo armazena alguma credencial no código? |  |
-| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
+| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
 
 >Este aplicativo não usa o Microsoft Graph.
 
