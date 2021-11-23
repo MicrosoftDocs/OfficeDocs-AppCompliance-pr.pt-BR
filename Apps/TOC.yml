@@ -27,6 +27,8 @@
           href: excel/celigo-cloudextend-analytics-for-netsuite.md
         - name: Excel automação de documentos do word
           href: excel/analysisplace-excel-to-word-document-automation.md
+        - name: Forbury
+          href: excel/forbury-property.md
         - name: harmon.ie para Office
           href: excel/harmonie-corporation-for-office.md
         - name: Assinaturas de Impressão
@@ -907,7 +909,7 @@
           href: teams/surveymonkey.md
         - name: SurveySparrow
           href: teams/surveysparrow-inc.md
-        - name: Svava para reuniões
+        - name: Svava para Reuniões
           href: teams/svava-ab-for-meetings.md
         - name: SwiftAssess
           href: teams/gamalearn-swiftassess.md
@@ -1094,8 +1096,8 @@
           href: word/impression-signatures.md
         - name: LegalMind Word AddIn
           href: word/legalmind-word-addin.md
-        - name: Assistente de Contrato do Loio
-          href: word/loio-inc-contract-assistant.md
+        - name: Software de revisão de contrato do Loio
+          href: word/loio-inc-contract-review-software.md
         - name: Diagramas de Lucidchart para Word
           href: word/lucid-software-inc-lucidchart-diagrams-for-word.md
         - name: Mendeley Cite
@@ -1165,6 +1167,8 @@
           href: saas/netskope-for-microsoft-teams.md
         - name: Office2SharePoint
           href: saas/iglobe-office2sharepoint.md
+        - name: Descoberta onna para MS365
+          href: saas/onna-discovery-for-ms365.md
         - name: Políticas e Insights para Microsoft 365 (BYOL)
           href: saas/avepoint-inc-policies-and-insights-for-microsoft-365-byol.md
         - name: Priority Matrix
@@ -1362,6 +1366,8 @@
           href: azure/5be2b320-a5b7-4221-893c-dee506e4e365.md
         - name: 5c1f85d2-d744-4159-8c01-16e9a7b1207b
           href: azure/5c1f85d2-d744-4159-8c01-16e9a7b1207b.md
+        - name: 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9
+          href: azure/5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9.md
         - name: 5e4dadf5-9f90-449b-9e39-934fd10b7c23
           href: azure/5e4dadf5-9f90-449b-9e39-934fd10b7c23.md
         - name: 5edad654-f2d5-41d8-bfc0-92c2735252e1
@@ -1444,10 +1450,10 @@
           href: azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md
         - name: 8f79a561-d2f1-4a1e-8092-c2039043a40e
           href: azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md
-        - name: 917edb36-f047-45cf-ad96-0e7e9ec7d8af
-          href: azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af.md
         - name: 950aa4fb-0583-4b13-9b5f-bbc92b9cc376
           href: azure/950aa4fb-0583-4b13-9b5f-bbc92b9cc376.md
+        - name: 95a2eca4-fb4b-4488-8ba8-6bacf3812c76
+          href: azure/95a2eca4-fb4b-4488-8ba8-6bacf3812c76.md
         - name: 95fb5da0-6ced-4247-9d62-294f8fcb75df
           href: azure/95fb5da0-6ced-4247-9d62-294f8fcb75df.md
         - name: 98b70422-b0b2-41bf-8673-60d85f5d38c7
@@ -1584,6 +1590,8 @@
           href: azure/d2682b2a-2037-4545-94b6-3e7216ecca5f.md
         - name: d27f56ed-ddc7-4cf8-86ac-721b76c7d287
           href: azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287.md
+        - name: d2c7af43-2e9d-41b2-b374-e9ffbe316d61
+          href: azure/d2c7af43-2e9d-41b2-b374-e9ffbe316d61.md
         - name: d312ff80-0c2b-42ad-887b-c6392bcf6353
           href: azure/d312ff80-0c2b-42ad-887b-c6392bcf6353.md
         - name: d492530a-8cff-481c-90da-9c3c3f1be7da

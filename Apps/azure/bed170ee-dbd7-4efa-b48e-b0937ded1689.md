@@ -2,17 +2,17 @@
 title: Informações da ID do Aplicativo do Azure para bed170ee-dbd7-4efa-b48e-b0937ded1689
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/18/2021
+ms.date: 11/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para bed170ee-dbd7-4efa-b48e-b0937ded1689.
-ms.openlocfilehash: fda7dcea72cb3e04dec21b7dfd233b196e273d89
-ms.sourcegitcommit: 8695694a7da27a4114480a394616e66ae180b7e3
+ms.openlocfilehash: 80606d90fec9dd0218e6cb0572ea583b8fdaad96
+ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/18/2021
-ms.locfileid: "61073858"
+ms.lasthandoff: 11/23/2021
+ms.locfileid: "61147799"
 ---
 # <a name="azure-app-id-bed170ee-dbd7-4efa-b48e-b0937ded1689"></a>ID do aplicativo do Azure: bed170ee-dbd7-4efa-b48e-b0937ded1689
 

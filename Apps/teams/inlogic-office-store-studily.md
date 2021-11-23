@@ -2,24 +2,24 @@
 title: Informações do aplicativo para Studi.ly pelo inLogic-Office Store
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/18/2020
+ms.date: 11/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Studi.ly, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 478c078c5f74535ff8b0381aa4eac038fa29dab7
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 167b2ac3e4a808c2bcc25f1ec10641ca6cb86d3b
+ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430823"
+ms.lasthandoff: 11/23/2021
+ms.locfileid: "61142558"
 ---
 # <a name="studily"></a>Studi.ly
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 24 de agosto de 2020</p>
+<p>Última atualização pelo desenvolvedor em: 19 de novembro de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/a1eca727-7b59-4439-b269-f4b800030518" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001668" target="_blank">Exibir no AppSource</a>
@@ -36,9 +36,13 @@ Informações fornecidas pelo inLogic-Office Store para a Microsoft:
 | ID | WA200001668 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | inLogic-Office Store |
-| URL do site do parceiro | [https://www.inlogic.dk](https://www.inlogic.dk) |
-| URL da Política de Privacidade | [https://studi.ly/Studily_Privacy_Statement.pdf](https://studi.ly/Studily_Privacy_Statement.pdf) |
-| URL dos Termos de Uso | [https://studi.ly/Studily_Terms_Of_Use_v1.pdf](https://studi.ly/Studily_Terms_Of_Use_v1.pdf) |
+| Site da empresa | [https://www.studi.ly](https://www.studi.ly) |
+| Termos de uso do aplicativo | [https://www.studi.ly/Studily_Terms_Of_Use_v1.pdf](https://www.studi.ly/Studily_Terms_Of_Use_v1.pdf) |
+| Funcionalidade principal do aplicativo | Studi.ly melhora o processo de atribuição, lição de casa e plano de estudo da escola. |
+| Localização da sede da empresa | Dinamarca |
+| Página de informações do aplicativo | |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,69 +54,119 @@ Informações fornecidas pelo inLogic-Office Store para a Microsoft:
 
 Essas informações foram fornecidas pelo inLogic-Office Store sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
-
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
-
->| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Estamos armazenamento de classes, escolas e membros e informações de termos da api de educação em nossa api e precisamos dela, porque se nós o recebermos sempre da api gráfica que faz com que nosso aplicativo funcione com lentidão. Nós o sincronizamos em um evento baseado em tempo da api educacional para nosso banco de dados. |  | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
->| Directory.Read.All | delegado | Estamos armazenamento de classes, escolas e membros e informações de termos da api de educação em nossa api e precisamos dela, porque se nós o recebermos sempre da api gráfica que faz com que nosso aplicativo funcione com lentidão. Nós o sincronizamos em um evento baseado em tempo da api educacional para nosso banco de dados. | Gravar Diretório nos grupos para atribuições e materiais. | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
->| Directory.ReadWrite.All | aplicação | Estamos armazenamento de classes, escolas e membros e informações de termos da api de educação em nossa api e precisamos dela, porque se nós o recebermos sempre da api gráfica que faz com que nosso aplicativo funcione com lentidão. Nós o sincronizamos em um evento baseado em tempo da api educacional para nosso banco de dados. | Gravar Diretório nos grupos para atribuições e materiais. | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
->| EduRoster.Read.All | aplicação | Estamos armazenamento de classes, escolas e membros e informações de termos da api de educação em nossa api e precisamos dela, pois se a recebermos sempre da api gráfica que faz com que nosso aplicativo funcione com lentidão. Nós o sincronizamos em um evento baseado em tempo da api educacional para nosso banco de dados. | Leia Classes de Educação, Escola, Membros e Termos.Obter todas as classes e escolas de um locatário para sincronização no banco de dados de aplicativos. | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
->| EduRoster.ReadBasic | delegado | Estamos armazenamento de classes, escolas e membros e informações de termos da api de educação em nossa api e precisamos dela, porque se nós o recebermos sempre da api gráfica que faz com que nosso aplicativo funcione com lentidão. Nós o sincronizamos em um evento baseado em tempo da api educacional para nosso banco de dados. | Leia Classes de Educação, Escola, Membros e Termos.Obter todas as classes e escolas de um locatário para sincronização no banco de dados de aplicativos. | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
->| EduRoster.ReadWrite.All | aplicação | Estamos armazenamento de classes, escolas e membros e informações de termos da api de educação em nossa api e precisamos dela, porque se nós o recebermos sempre da api gráfica que faz com que nosso aplicativo funcione com lentidão. Nós o sincronizamos em um evento baseado em tempo da api educacional para nosso banco de dados. | Leia Classes de Educação, Escola, Membros e Termos.Obter todas as classes e escolas de um locatário para sincronização no banco de dados de aplicativos. | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
->| Files.ReadWrite.All | delegado | Estamos armazenamento de classes, escolas e membros e informações de termos da api de educação em nossa api e precisamos dela, porque se nós o recebermos sempre da api gráfica que faz com que nosso aplicativo funcione com lentidão. Nós o sincronizamos em um evento baseado em tempo da api educacional para nosso banco de dados. | ReadWrite Files from One Drive | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
->| Group.Read.All | delegado | Estamos armazenamento de classes, escolas e membros e informações de termos da api de educação em nossa api e precisamos dela, porque se nós o recebermos sempre da api gráfica que faz com que nosso aplicativo funcione com lentidão. Nós o sincronizamos em um evento baseado em tempo da api educacional para nosso banco de dados. | Essa permissão permitiu que o aplicativo recebe eventos de claender diferentes para grupos de locatário.,assunto,start,end,extensions | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
->| Group.ReadWrite.All | ambos | Estamos armazenamento de classes, escolas e membros e informações de termos da api de educação em nossa api e precisamos dela, porque se nós o recebermos sempre da api gráfica que faz com que nosso aplicativo funcione com lentidão. Nós o sincronizamos em um evento baseado em tempo da api educacional para nosso banco de dados. | Essa permissão permitiu que o aplicativo recebe eventos de claender diferentes para grupos de locatário.,assunto,start,end,extensions | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
->| Member.Read.Hidden | aplicação |  |  | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
->| Sites.ReadWrite.All | ambos | Estamos armazenamento de classes, escolas e membros e informações de termos da api de educação em nossa api e precisamos dela, porque se nós o recebermos sempre da api gráfica que faz com que nosso aplicativo funcione com lentidão. Nós o sincronizamos em um evento baseado em tempo da api educacional para nosso banco de dados. | ReadWrite Files from One Drive | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
->| User.Read | delegado | Estamos armazenamento de classes, escolas e membros e informações de termos da api de educação em nossa api e precisamos dela, porque se nós o recebermos sempre da api gráfica que faz com que nosso aplicativo funcione com lentidão. Nós o sincronizamos em um evento baseado em tempo da api educacional para nosso banco de dados. | Lendo informações do usuário | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
->| User.ReadBasic.All | delegado | Estamos armazenamento de classes, escolas e membros e informações de termos da api de educação em nossa api e precisamos dela, porque se nós o recebermos sempre da api gráfica que faz com que nosso aplicativo funcione com lentidão. Nós o sincronizamos em um evento baseado em tempo da api educacional para nosso banco de dados. | Lendo informações do usuário | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
-
-
-#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
-
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
-
->Não serviços Microsoft não são usados.
-
-#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
-
-Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
-
->Nenhum EUII é acessado.
-
-
-#### <a name="telemetry-data"></a>Dados de telemetria
-
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
-
->Esses dados não aparecem nos logs
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
-
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
-
->Ele é armazenado no banco de dados do Azure cosmos e qualquer criptografia e armazenamento que está disponível por padrão com o banco de dados do cosmos é aplicável a esse aplicativo.
-
-#### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
-
-Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
-
->Não
+| **Information** | **Response** |
+|:----------------|:-------------|
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
+| Quais dados são armazenados em seus bancos de dados? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Você tem um processo estabelecido de locação e descarte de dados? |  |
+| Por quanto tempo os dados são mantidos após o término da conta? |  |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
+| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
+::: zone pivot="security"
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35976' frameborder='no' style='width: 100%;'></iframe>
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você realiza testes de penetração anual no aplicativo? | Não |
+| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | ApplicationControls |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
+| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Sim |
+| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Sim |
+| Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Sim |
+| Você tem um firewall instalado no limite de rede externo? | Sim |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
+| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Sim |
+| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Não |
+| Autenticação multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
+| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
+| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | N/D |
+| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
+| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim|
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
+| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Sim |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35976" target="_blank">Exibir em uma nova guia</a>
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="compliance"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
+| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
+| Data de certificação SOC1 mais recente |   |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
+| Qual certificação do SOC 2 você atingiu? | |
+| Data de certificação SOC2 mais recente | |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
+| Data de certificação SOC3 mais recente | |
+| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
+| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
+| O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
+| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
+| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | Sim |
+| O aplicativo está em conformidade com o NIST 800-171? | N/D |
+| O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Sim |
+| URL da Política de Privacidade | https://studi.ly |
+| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
+| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
+| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
+| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Sim |
+| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
+| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | N/D |
+| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Sim |
+| Seu aplicativo armazena alguma credencial no código? | Não |
+| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
+
+>Este aplicativo não usa o Microsoft Graph.
+
+>Este aplicativo não tem APIs adicionais.
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
