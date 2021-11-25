@@ -2,18 +2,18 @@
 title: Informações do aplicativo para Chamada webex pela Cisco
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/21/2021
+ms.date: 11/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Webex Call, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d40e7f25f01579b228c458a6f204923868b0aa86
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: 279a78d5f756eaca6f8aba2135d8a6a168fd7d3c
+ms.sourcegitcommit: 3a357b6131b8459972e1aec73f2f795f9d674981
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61146974"
+ms.lasthandoff: 11/25/2021
+ms.locfileid: "61176831"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -108,18 +108,18 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | Sim |
 | O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Não |
 | Data de certificação SOC1 mais recente |   |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? |  |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
 | Qual certificação do SOC 2 você atingiu? | |
 | Data de certificação SOC2 mais recente | |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? |  |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
 | Data de certificação SOC3 mais recente | |
 | Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
-| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Sim |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? |  |
+| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Não |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? |  |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
 | O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
 | O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
 | O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
@@ -163,7 +163,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
+>|:------------------------|:--------------------|:------------------------------------|
+>| Chat.ReadBasic | delegado | Ler membros do canal do teams para que o usuário possa selecionar neles |
+>| Contacts.Read | delegado | Permite que o usuário crie discagem rápida a partir da lista de contatos |
 
 >Este aplicativo não tem APIs adicionais.
 

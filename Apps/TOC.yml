@@ -215,6 +215,8 @@
           href: teams/appfluence-inc-agenda-boss.md
         - name: Quadro de Tarefas Agile
           href: teams/agile-is-task-board.md
+        - name: Assistente de Self-Service liga
+          href: teams/alloy-software-self-service-assistant.md
         - name: Alvao Service Desk
           href: teams/alvao-sro-service-desk.md
         - name: Âmbar
@@ -381,6 +383,8 @@
           href: teams/cultr-connect.md
         - name: Cyberday
           href: teams/digiturvamalli-cyberday.md
+        - name: DataMiner
+          href: teams/skyline-communications-dataminer.md
         - name: Datto Workplace
           href: teams/datto-inc-workplace.md
         - name: DBit
@@ -409,8 +413,6 @@
           href: teams/dynamic-signal.md
         - name: Easy Projects
           href: teams/logic-software-inc-easy-projects.md
-        - name: Easy2Meet
-          href: teams/easy2meet-bv.md
         - name: eCademy Lernplattform
           href: teams/cornelsen-ecademy-and-inside-gmbh-lernplattform.md
         - name: ecBooking
@@ -509,6 +511,8 @@
           href: teams/guru-technologies.md
         - name: Health Hero
           href: teams/health-hero.md
+        - name: Heedify
+          href: teams/heedify.md
         - name: HelloTeam
           href: teams/helloteam-inc.md
         - name: HeyTaco!
@@ -535,10 +539,14 @@
           href: teams/hyperproof.md
         - name: iManage
           href: teams/imanage.md
+        - name: imDocShare
+          href: teams/kl-software-technologies-imdocshare.md
         - name: Em caso de crise
           href: teams/rockdove-solutions-inc-in-case-of-crisis.md
         - name: InCaseIT
           href: teams/pilotech-as-incaseit.md
+        - name: Indeqa
+          href: teams/indeqa-bv.md
         - name: IndustryIntel
           href: teams/industry-intelligence-team-industryintel.md
         - name: Infor Coleman
@@ -651,6 +659,8 @@
           href: teams/fest-technologies-llc-monitask.md
         - name: Avançar o trabalho com Jira
           href: teams/move-work-forward-with-jira.md
+        - name: MSPBots
+          href: teams/jexet-technologies-llc-mspbots.md
         - name: ' LTAPPs de Processo de Multiaprovação'
           href: teams/ltapps-software-coltd-multi-approval-process.md
         - name: MURAL
@@ -1222,8 +1232,6 @@
           href: azure/1040474b-572d-4575-a423-95dd262a8b8a.md
         - name: 14cf575a-fae2-48e2-af39-e3448d3a48bb
           href: azure/14cf575a-fae2-48e2-af39-e3448d3a48bb.md
-        - name: 1533d702-7604-463a-9fa3-63077c425e76
-          href: azure/1533d702-7604-463a-9fa3-63077c425e76.md
         - name: 15439749-b811-4e89-b777-4fe6ef247801
           href: azure/15439749-b811-4e89-b777-4fe6ef247801.md
         - name: 170cef4c-862a-443c-b02a-c5ba04ecc7f3
@@ -1464,8 +1472,6 @@
           href: azure/99a0a9b1-5d28-45df-9f99-792aa32795f4.md
         - name: 99a3ad8d-8682-4f2a-9c2c-b4b27e99585c
           href: azure/99a3ad8d-8682-4f2a-9c2c-b4b27e99585c.md
-        - name: 9a7ce614-bdc8-4640-aaea-d8c626c58966
-          href: azure/9a7ce614-bdc8-4640-aaea-d8c626c58966.md
         - name: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71
           href: azure/9af6eceb-6a8b-4710-b51d-dde2ac01cc71.md
         - name: 9b03f15d-1219-4b2f-9699-640be54e1319
