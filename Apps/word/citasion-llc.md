@@ -1,48 +1,47 @@
 ---
-title: Informações do aplicativo para Kaptain Carlos por askR.ai
+title: Informações do aplicativo para citação por Citasion LLC
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Kaptain Carlos, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Citasion, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7bc855b2097b0625b23869f034c4dee071856291
+ms.openlocfilehash: 17bd4600bec0112b1c528d0530ca540d5216ba7e
 ms.sourcegitcommit: 79e749c1746f3658789e7b080e413be97883abef
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 11/29/2021
-ms.locfileid: "61217075"
+ms.locfileid: "61217181"
 ---
-# <a name="kaptain-charlie"></a>Kaptain Carlos
+# <a name="citasion"></a>Citasion
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 25 de novembro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 7 de novembro de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/1f36eaf6-30a3-4488-a73f-4754b91e865d" target="_blank">Exibir no Teams store</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001583" target="_blank">Exibir no AppSource</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003530" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo askR.ai para a Microsoft:
+Informações fornecidas pelo Citasion LLC à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Kaptain Carlos |
-| ID | WA200001583 |
-| Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | askR.ai |
-| Site da empresa | [https://en.askr.ai](https://en.askr.ai) |
-| Termos de uso do aplicativo | [https://en.askr.ai/terms-of-use-askr-ai](https://en.askr.ai/terms-of-use-askr-ai) |
-| Funcionalidade principal do aplicativo | Converse com seus dados! askR.ai seu assistente de dados pessoais Você tem dados, mas não gosta do processo técnico para acessá-los? Use um assistente de dados para responder às suas perguntas e ajudá-lo a explorar ! O que askR.ai, o primeiro assistente de dados no Microsoft Teams? - Assistente de dados pessoais com AI - Fornece KPIs instantâneos e viz de dados - Compreende vocabulário comercial específico - Enviar alertas - Sugerir análise adicional |
-| Localização da sede da empresa | França |
+| Nome do aplicativo | Citasion |
+| ID | WA200003530 |
+| Office 365 clientes com suporte | Word 2016 ou posterior no Mac, Word na Web, Word 2013 ou posterior no Windows |
+| Nome da empresa de parceiro | Citasion LLC |
+| Site da empresa | [https://citasion.com](https://citasion.com) |
+| Termos de uso do aplicativo | [https://citasion.com/legal/terms](https://citasion.com/legal/terms) |
+| Funcionalidade principal do aplicativo | Gerenciar suas referências com facilidade onde você escreve e cita |
+| Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outros |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,17 +51,19 @@ Informações fornecidas pelo askR.ai para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo askR.ai sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo Citasion LLC sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
+| Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
+| Quais dados são armazenados em seus bancos de dados? | Endereço de email, Nome |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
+| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
+| Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
 | Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
 
@@ -78,10 +79,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você realiza testes de penetração anual no aplicativo? | Sim |
 | O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | TraditionalAntiMalware, ApplicationControls |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | ApplicationControls, TraditionalAntiMalware |
 | Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
-| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Sim |
-| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Sim |
+| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Não |
+| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Não |
 | Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
 | Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Sim |
 | Você tem um firewall instalado no limite de rede externo? | Sim |
@@ -106,25 +107,25 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | Não |
-| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Não |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Não |
+| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
+| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
 | Data de certificação SOC1 mais recente |   |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
 | Qual certificação do SOC 2 você atingiu? | |
 | Data de certificação SOC2 mais recente | |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
 | Data de certificação SOC3 mais recente | |
-| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Não |
+| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
 | O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Não |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | N/D |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
 | O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
-| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | Não |
-| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | Não |
-| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | Não |
-| O aplicativo está em conformidade com o NIST 800-171? | Não |
+| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
+| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
+| O aplicativo está em conformidade com o NIST 800-171? | N/D |
 | O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -137,11 +138,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
 | O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Sim |
-| URL da Política de Privacidade | https://en.askr.ai/terms-of-use-askr-ai |
+| URL da Política de Privacidade | https://citasion.com/legal/privacy |
 | O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
 | O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
 | Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
-| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
+| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Sim |
+| O consentimento é obtido de um pai ou responsável legal? | Sim |
 | O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
 | O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Sim |
 | O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
@@ -157,7 +159,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | Não |
+| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | N/D |
 | Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Sim |

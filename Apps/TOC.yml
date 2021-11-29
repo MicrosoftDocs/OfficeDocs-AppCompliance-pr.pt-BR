@@ -188,6 +188,8 @@
           href: sharepoint/iglobe-crm-office-365-for-microsoft.md
         - name: Konnect eMail Parser
           href: sharepoint/konnect-email-parser.md
+        - name: LifeWorks Viva Connections
+          href: sharepoint/lifeworks-inc-viva-connections.md
         - name: Lightning Tools Lightning Conductor
           href: sharepoint/lightning-tools-conductor.md
         - name: officeatwork | Template Chooser for SharePoint
@@ -871,6 +873,8 @@
           href: teams/slido.md
         - name: Smart Connect para Jira
           href: teams/yasoon-gmbh-smart-connect-for-jira.md
+        - name: SmartDraw
+          href: teams/smartdraw-software-llc.md
         - name: Smartnotation
           href: teams/smartnotation-bv.md
         - name: Smartsheet
@@ -1096,6 +1100,8 @@
           href: word/adobe-inc-sign-for-word-and-powerpoint.md
         - name: AuditBoard Add-in
           href: word/auditboard-inc-add-in.md
+        - name: Citasion
+          href: word/citasion-llc.md
         - name: CocoFax - Envio de Fax Facilitado e Seguro
           href: word/cocofax-sending-fax-made-easy-and-secure.md
         - name: CrossCheck
@@ -1208,6 +1214,8 @@
           href: azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md
         - name: 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0
           href: azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0.md
+        - name: 0492ead3-ee26-40df-9757-d95cc693d856
+          href: azure/0492ead3-ee26-40df-9757-d95cc693d856.md
         - name: 05ffe668-5b27-45ff-a64d-b2ed6c475d7a
           href: azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md
         - name: 066a6b3a-f7a0-450a-98c7-34db1da31594
