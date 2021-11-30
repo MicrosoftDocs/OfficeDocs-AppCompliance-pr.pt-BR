@@ -291,6 +291,8 @@
           href: teams/engage-squared-board-connect.md
         - name: Bonusly
           href: teams/bonusly.md
+        - name: Sala de Reserva Pro
+          href: teams/witivio-booking-room-pro.md
         - name: BrainBot
           href: teams/biggerbrains-brainbot.md
         - name: BravoNow
@@ -375,6 +377,8 @@
           href: teams/landis-technologies-llc-contact-center.md
         - name: Contact Center | ROGER365.io
           href: teams/roger365io-contact-centerroger365io.md
+        - name: Contatos Pro
+          href: teams/witivio-contacts-pro.md
         - name: Gerente de conteúdos
           href: teams/colligo-inc-content-manager.md
         - name: Contexto AVA
@@ -407,6 +411,8 @@
           href: teams/educatieve-uitgeversgroep-bv-digiplein.md
         - name: DisasterTech DICE
           href: teams/disastertech-dice.md
+        - name: Listas de distribuição Pro
+          href: teams/witivio-distribution-lists-pro.md
         - name: do!book CB
           href: teams/digital-office-inc-do!book-cb.md
         - name: Docuo
@@ -1165,6 +1171,8 @@
           href: saas/avepoint-inc-cloud-backup-for-office-365-prod-transact.md
         - name: CodeTwo Email Signatures for Office 365
           href: saas/codetwo-email-signatures-for-office-365.md
+        - name: Pacote de Comunicação competella
+          href: saas/competella-ab-communication-suite.md
         - name: Selador de Conteúdo
           href: saas/officeatwork-content-chooser.md
         - name: Designer
@@ -1348,8 +1356,6 @@
           href: azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md
         - name: 4aa38041-66a2-41a4-ac97-55bc828a9803
           href: azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md
-        - name: 4c9110eb-5991-4def-acf3-3332325d708f
-          href: azure/4c9110eb-5991-4def-acf3-3332325d708f.md
         - name: 4d0997dc-df53-4b18-9df1-bb283f8a0377
           href: azure/4d0997dc-df53-4b18-9df1-bb283f8a0377.md
         - name: 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b
@@ -1462,6 +1468,8 @@
           href: azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md
         - name: 8aa22b64-9a2c-403b-83c1-feaf774c764c
           href: azure/8aa22b64-9a2c-403b-83c1-feaf774c764c.md
+        - name: 8b893db3-8c29-4983-b905-ee0b3daa6a46
+          href: azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md
         - name: 8b976ed7-cc69-482a-a020-19bdce1041c4
           href: azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md
         - name: 8c5c0060-2892-4355-b0db-661f206028a9
