@@ -1,24 +1,24 @@
 ---
 ms.author: oromalle
-title: Microsoft 365 Guia de Envio de Certificação
+title: Microsoft 365 De envio de certificação
 author: orionomalley
-description: Microsoft 365 Exibição granular do Guia de Envio de Certificação
+description: Microsoft 365 exibição granular do Guia de Envio de Certificação
 keywords: equipes de certificação de aplicativos Microsoft 365 conformidade de segurança m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: f89cb9f82cec69a473d451cff33e3db9b406489d
-ms.sourcegitcommit: ddd67912ff4e8901300556ff85c2cf416f54dea1
+ms.openlocfilehash: 56d6de02101013d10f48c308e2f7ece706b26c51
+ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60885282"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61261663"
 ---
-# <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 Guia de Envio de Certificação
+# <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 De envio de certificação
 
 **Neste artigo:**
 - [Introdução](#introduction)
 - [Pré-requisitos](#prerequisites) 
-- [Microsoft 365 Atualizações de especificação de certificação](#microsoft-365-certification-specification-updates)
+- [Microsoft 365 atualizações de especificação de certificação](#microsoft-365-certification-specification-updates)
 - [Escopo de certificação](#certification-scope)
 - [Processo de Certificação](#certification-process)
 - [Envio inicial de documento](#initial-document-submission) 
@@ -51,7 +51,7 @@ Este documento destina-se a ISVs (Fornecedores de Software Independentes) para f
 > Atualmente, Microsoft 365 Certificação é aplicável a todos:
 >* Microsoft Teams aplicativos (Guias, Bots etc.) .
 >* Aplicativos/Complementos do Sharepoint
->* Office Complementos (Word, Excel, PowerPoint, Outlook, Project, OneNote)
+>* Office Add-ins (Word, Excel, PowerPoint, Outlook, Project, OneNote)
 >* WebApps
 
 ## <a name="prerequisites"></a>Pré-requisitos
@@ -64,7 +64,7 @@ Antes de receber o Microsoft 365 de Certificação, você deve ter concluído Pu
 
 A Microsoft recomenda que todos os ISVs (Fornecedor de Software Independente) leiam essa Especificação de Certificação Microsoft 365 em sua totalidade para garantir que todos os controles aplicáveis sejam atendidos pelo ambiente no escopo e pelo aplicativo/complemento. Isso ajudará a garantir um processo de avaliação suave.
 
-## <a name="microsoft-365-certification-specification-updates"></a>Microsoft 365 Atualizações de especificação de certificação 
+## <a name="microsoft-365-certification-specification-updates"></a>Microsoft 365 atualizações de especificação de certificação 
 
 As atualizações para a especificação Microsoft 365 certificação são previstas aproximadamente a cada seis a doze meses. Essas atualizações podem introduzir novos domínios de segurança de destino e/ou controles de segurança. As atualizações serão baseadas em comentários do desenvolvedor, alterações no cenário de ameaças e para aumentar a linha de base de segurança do programa à medida que ele amadurece. 
 
@@ -277,9 +277,11 @@ Os relatórios de teste de penetração serão revisados **** para garantir qu
 >Os relatórios devem ser capazes de fornecer garantia suficiente de que tudo o que está detalhado na seção Especificação de Teste de Segurança de Aplicativo pode ser demonstrado.
 
 
-**Requisitos e custo de testes de penetração**
+**Requisitos e regras de teste de penetração complementar**
 
-Para ISVs que atualmente não se envolvem em testes de penetração, o teste de penetração está incluído na certificação Microsoft 365. A Microsoft organizará e cobrirá o custo de um teste de penetração por até 12 dias de teste manual. Os custos dos testes de penetração são calculados com base no número de dias necessários para testar o ambiente. Quaisquer despesas superiores a 12 dias de teste serão de responsabilidade do ISV. O ISV também será responsável por demonstrar que as vulnerabilidades identificadas no teste de penetração foram remediadas antes da certificação ser concedida, mas não precisam produzir um relatório limpo.
+- Para ISVs que atualmente não se envolvem em testes de penetração, os testes de penetração podem ser conduzidos gratuitamente Microsoft 365 Certificação. A Microsoft organizará e cobrirá o custo de um teste de penetração por até 12 dias de teste manual. Os custos dos testes de penetração são calculados com base no número de dias necessários para testar o ambiente. Quaisquer despesas superiores a 12 dias de teste serão de responsabilidade do ISV. 
+- OS ISVs serão necessários para enviar evidências e receber aprovação para 50% dos controles no escopo antes do teste de penetração que está sendo conduzido. Para começar, basta preencher o envio inicial do documento e optar por ter testes de penetração incluídos como parte da avaliação. Você será contatado para escopo e agendar seu teste de penetração quando tiver concluído 50% dos controles.
+- OS ISVs também serão responsáveis por demonstrar que as vulnerabilidades identificadas no teste de penetração foram remediadas antes de uma certificação ser concedida, mas não precisam produzir um relatório limpo.
 
 Depois que um teste de penetração é organizado, o ISV é responsável pelas taxas associadas à remarcação e cancelamentos da seguinte forma:
 
@@ -1006,9 +1008,9 @@ A Microsoft reconhece que você implantará aplicativos e armazenará código de
 
 ## <a name="appendix-g"></a>Apêndice G
 
-## <a name="learn-more"></a>Saiba mais
+## <a name="learn-more"></a>Saber mais
 
-[Microsoft 365 Visão geral do programa de conformidade do aplicativo](~/overview.md)  
+[Microsoft 365 visão geral do programa de conformidade de aplicativos](~/overview.md)  
 [O que Microsoft 365 app Publisher Atestado?](~/docs/attestation.md)  
 [O que é Microsoft 365 Certificação?](~/docs/enterprise-app-certification-guide.md)
 

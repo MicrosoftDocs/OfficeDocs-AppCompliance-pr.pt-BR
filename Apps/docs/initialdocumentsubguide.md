@@ -1,21 +1,27 @@
 ---
 ms.author: oromalle
-title: Microsoft 365 Certificação - Guia inicial de envio de documentos
+title: Microsoft 365 certificação - Guia inicial de envio de documentos
 author: orionomalley
-description: Microsoft 365 Exibição granular do Guia de Envio de Certificação
+description: Microsoft 365 exibição granular do Guia de Envio de Certificação
 keywords: equipes de certificação de aplicativos Microsoft 365 conformidade de segurança m365 envio de documento inicial
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 0352b64649d87b40d185a2bc06ce23da6cf341ef
-ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
+ms.openlocfilehash: 0f879ce6b02fb469b0210500e4706d468ccb4011
+ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "60378809"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61261673"
 ---
-# <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 Ceritification - Guia inicial de envio de documento
+# <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 Ceritification - Guia inicial de envio de documentos
 
 O envio inicial do documento faz parte da fase de pré-avaliação da certificação. As informações fornecidas darão aos analistas de certificação o plano de fundo necessário para identificar quais controles e componentes do sistema estarão no escopo de sua avaliação. Este documento destina-se a servir apenas como um exemplo do que é esperado do envio inicial do documento. A documentação que você fornecer variará dependendo de como sua solução é arquiteta, implementada e gerenciada.
+
+## <a name="what-is-the-hosting-environment-or-service-model-used-to-run-your-app"></a>Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo?
+- A Infraestrutura como Serviço (IaaS) é um modelo de serviço na nuvem em que o provedor de serviços de nuvem hospeda seus componentes de infraestrutura, mas os ISVs ainda são responsáveis pela implantação e gerenciamento dos componentes individualmente, como Máquinas Virtuais/Sistemas Operacionais, Armazenamentos de Dados e Componentes de Rede. Exemplos disso são Azure Virtual Machine e Azure Disk Armazenamento.
+- Platform as a Service (PaaS) é um modelo de serviço de nuvem onde os componentes de infraestrutura são gerenciados pelo provedor de serviços de nuvem. Os ISVs são responsáveis apenas pela implantação de seus próprios aplicativos e serviços. Exemplos disso são serviços de aplicativo do Azure, funções do Azure e CDN do Azure.
+- ISV Hospedado neste contexto significa que nenhum provedor de serviços de nuvem é usado. O ISV gerencia fisicamente seus próprios Servidores, Discos, Rede independentemente no local.
+- Híbrido nesse contexto significa que um dos modelos acima é usado. Por exemplo, alguns ISVs podem optar por usar uma mistura de Serviços IaaS e serviços PaaS para dar suporte ao aplicativo, ou eles podem ter alguns componentes hospedados pelo ISV local e terceirizar outros para um provedor de serviços de nuvem. Se você usar um dos mais modelos de serviço, selecione híbrido.
 
 ## <a name="penetration-test-report"></a>Relatório de Teste de Penetração
 
@@ -34,7 +40,7 @@ Um inventarátório atualizado de todos os componentes do sistema usados pela in
 
 |Nome do ativo|    Tipo de ativo| Descrição|    Fabricante|   Modelo|
 |-|-|-|-|-|
-|D212|  Windows  Máquina|   Máquina Virtual|    N/D| N/D|
+|D212|  Windows Machine|   Máquina Virtual|    N/D| N/D|
 |LT101| Laptop| Estação de trabalho|    Microsoft|  Surface 3|
 |C2938| Parâmetro| Parâmetro|N/D|N/D|     
 |LXM2|  Máquina Linux|  Máquina de teste|N/D|N/D|       
@@ -65,7 +71,7 @@ Documentação listando todas as dependências usadas pelo aplicativo/complement
 |Dependências da Web|  Versão atual em uso|
 |-|-|
 |JQuery|    3.5.1|
-|React| 16.13.1|
+|Reagir| 16.13.1|
 |Bootstrap| 4.5.2|
 |Express|   4.17.1|
 |Angular|   10.0.14|
