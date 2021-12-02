@@ -6,12 +6,12 @@ description: Microsoft 365 exibição granular do Guia de Envio de Certificaçã
 keywords: equipes de certificação de aplicativos Microsoft 365 conformidade de segurança m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 56d6de02101013d10f48c308e2f7ece706b26c51
-ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
+ms.openlocfilehash: 212d6a708b59a71de3d88a58d61ced4af99432a7
+ms.sourcegitcommit: 86ba435037ea3277239530c33b5c5950cd61e66e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2021
-ms.locfileid: "61261663"
+ms.lasthandoff: 12/02/2021
+ms.locfileid: "61268001"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 De envio de certificação
 
@@ -241,7 +241,7 @@ Uma revisão adequada dos riscos associados ao seu aplicativo/add-in e ao ambien
 
 **Escopo de teste de penetração**
 
-As atividades  de teste de penetração DEVEM incluir o ambiente que dá suporte à implantação do aplicativo/add-in (por exemplo, em que o código do aplicativo/add-in está hospedado, que normalmente será o recurso dentro do arquivo de manifesto) juntamente com qualquer ambiente adicional que suporte a operação do aplicativo/add-in (por exemplo, se o aplicativo/complemento falar com outros aplicativos Web fora do Microsoft 365).  Ao definir o escopo, é necessário ter cuidado para garantir que todos os sistemas ou ambientes "conectados" que possam afetar a segurança do ambiente no escopo também sejam incluídos em TODAS as atividades de teste de penetração. 
+As atividades  de teste de penetração DEVEM ser conduzidas no ambiente de produção ao vivo que dá suporte à implantação do aplicativo/do complemento (por exemplo, onde o código do aplicativo/add-in está hospedado, que normalmente será o recurso dentro do arquivo de manifesto) juntamente com qualquer ambiente adicional que suporte a operação do aplicativo/add-in (por exemplo, se o aplicativo/add-in falar com outros aplicativos Web fora do Microsoft 365).  Ao definir o escopo, é necessário ter cuidado para garantir que todos os sistemas ou ambientes "conectados" que possam afetar a segurança do ambiente no escopo também sejam incluídos em TODAS as atividades de teste de penetração. 
 
 Onde as técnicas são usadas para segmentar os ambientes no escopo de outros ambientes, as atividades de teste de penetração DEVEM validar a eficácia das técnicas de segmentação. Isso deve ser detalhado no relatório de teste de penetração. 
 
@@ -281,6 +281,7 @@ Os relatórios de teste de penetração serão revisados **** para garantir qu
 
 - Para ISVs que atualmente não se envolvem em testes de penetração, os testes de penetração podem ser conduzidos gratuitamente Microsoft 365 Certificação. A Microsoft organizará e cobrirá o custo de um teste de penetração por até 12 dias de teste manual. Os custos dos testes de penetração são calculados com base no número de dias necessários para testar o ambiente. Quaisquer despesas superiores a 12 dias de teste serão de responsabilidade do ISV. 
 - OS ISVs serão necessários para enviar evidências e receber aprovação para 50% dos controles no escopo antes do teste de penetração que está sendo conduzido. Para começar, basta preencher o envio inicial do documento e optar por ter testes de penetração incluídos como parte da avaliação. Você será contatado para escopo e agendar seu teste de penetração quando tiver concluído 50% dos controles.
+- O relatório emitido depois que o pentest for concluído será fornecido ao ISV depois de concluir a certificação. Este relatório juntamente com sua certificação Microsoft 365 pode ser usado para mostrar aos clientes em potencial que seu ambiente é seguro.
 - OS ISVs também serão responsáveis por demonstrar que as vulnerabilidades identificadas no teste de penetração foram remediadas antes de uma certificação ser concedida, mas não precisam produzir um relatório limpo.
 
 Depois que um teste de penetração é organizado, o ISV é responsável pelas taxas associadas à remarcação e cancelamentos da seguinte forma:
