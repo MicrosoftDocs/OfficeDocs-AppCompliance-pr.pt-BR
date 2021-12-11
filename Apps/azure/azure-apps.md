@@ -2,17 +2,17 @@
 title: Segurança e conformidade de IDs do Aplicativo do Azure - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2021
+ms.date: 12/09/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todas as IDs de aplicativo do Azure.
 localization_priority: Normal
-ms.openlocfilehash: 1a0ea3c24314dbb2d6d86f1c56ab18864ede27a6
-ms.sourcegitcommit: e50a2b92ad5918cb72b9cffca73aeffc8f2d6d76
+ms.openlocfilehash: 8923ad30944e9db3eef1dbe97c8d85fbeefe820e
+ms.sourcegitcommit: 4abb4344a6593d61ef5a1a84cf32dc6610652f2f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "61360173"
+ms.lasthandoff: 12/10/2021
+ms.locfileid: "61406284"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Segurança e conformidade de IDs de aplicativo do Azure
 
@@ -33,6 +33,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [0b87cb84-073e-4cf6-a1ef-45d864ef2918](./0b87cb84-073e-4cf6-a1ef-45d864ef2918.md) | **✓** |  |
 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](./0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) | **✓** |  |
 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](./0c67871c-ffbc-4b37-bd61-afce12b299f9.md) | **✓** |  |
+| [0d56e89d-8356-457f-89a2-618386a39eb8](./0d56e89d-8356-457f-89a2-618386a39eb8.md) | **✓** |  |
 | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](./0dd4bfdf-dc86-4f05-9991-a14bc0144ebf.md) | **✓** |  |
 | [12397cb1-c0e5-42ae-a5be-ca4084aeadd8](./12397cb1-c0e5-42ae-a5be-ca4084aeadd8.md) | **✓** |  |
 | [14cf575a-fae2-48e2-af39-e3448d3a48bb](./14cf575a-fae2-48e2-af39-e3448d3a48bb.md) | **✓** |  |

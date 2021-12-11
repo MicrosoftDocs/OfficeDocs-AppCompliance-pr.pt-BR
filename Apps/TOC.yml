@@ -101,6 +101,8 @@
           href: outlook/lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md
         - name: Prazos do LawToolBox e Gerenciamento de Outlook
           href: outlook/lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md
+        - name: Mailbutler
+          href: outlook/mailbutler.md
         - name: MIPA - Seu próprio assistente pessoal
           href: outlook/iglobe-mipa-your-own-personal-assistant.md
         - name: ngDesk
@@ -331,8 +333,8 @@
           href: teams/conferences-io.md
         - name: Nuvem de Confluência
           href: teams/atlassian-confluence-cloud.md
-        - name: Conector de Confluência
-          href: teams/move-work-forward-confluence-connector.md
+        - name: Conector de Confluência por MWF
+          href: teams/move-work-forward-confluence-connector-by-mwf.md
         - name: Connect+
           href: teams/reward-gateway-connectplus.md
         - name: Contact Center | ROGER365.io
@@ -377,6 +379,8 @@
           href: teams/r2-docuo.md
         - name: DocuSign eSignature
           href: teams/docusign-inc-esignature.md
+        - name: Gravação de chamada unificada do Gravador
+          href: teams/dubber-unified-call-recording.md
         - name: Easy Projects
           href: teams/logic-software-inc-easy-projects.md
         - name: eCademy Lernplattform
@@ -1128,6 +1132,8 @@
           href: azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md
         - name: 0c67871c-ffbc-4b37-bd61-afce12b299f9
           href: azure/0c67871c-ffbc-4b37-bd61-afce12b299f9.md
+        - name: 0d56e89d-8356-457f-89a2-618386a39eb8
+          href: azure/0d56e89d-8356-457f-89a2-618386a39eb8.md
         - name: 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf
           href: azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf.md
         - name: 12397cb1-c0e5-42ae-a5be-ca4084aeadd8
