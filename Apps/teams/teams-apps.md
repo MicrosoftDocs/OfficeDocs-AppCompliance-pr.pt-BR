@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/07/2021
+ms.date: 12/10/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: f0f37fee8c116f384e270679c4b660b46b0fb486
-ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
+ms.openlocfilehash: c804e8f41aad8d8f4b553c0d349f0f2e0895c852
+ms.sourcegitcommit: 69fc4973c9ad349e40b9b1a13aae8acec3773b17
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "61350746"
+ms.lasthandoff: 12/10/2021
+ms.locfileid: "61410952"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -94,7 +94,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Concluir](./cauzey-pty-ltd-complish.md) | Cauzey Pty Ltd | **✓** |  |
 | [Conferences i/o](./conferences-io.md) | Conferences i/o | **✓** |  |
 | [Nuvem de Confluência](./atlassian-confluence-cloud.md) | Atlassian | **✓** |  |
-| [Conector de Confluência](./move-work-forward-confluence-connector.md) | Avançar o trabalho | **✓** |  |
+| [Conector de Confluência por MWF](./move-work-forward-confluence-connector-by-mwf.md) | Avançar o trabalho | **✓** |  |
 | [Connect+](./reward-gateway-connectplus.md) | Gateway de Recompensa | **✓** |  |
 | [Centro de Contato | ROGER365.io](./roger365io-contact-centerroger365io.md) | ROGER365.io | **✓** |  |
 | [Contatos Profissionais](./witivio-contacts-pro.md) | Witivio | **✓** |  |
@@ -117,6 +117,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [do!book CB](./digital-office-inc-do!book-cb.md) | Digital Office Inc. | **✓** |  |
 | [Docuo](./r2-docuo.md) | R2 Docuo | **✓** |  |
 | [DocuSign eSignature](./docusign-inc-esignature.md) | DocuSign, Inc. | **✓** |  |
+| [Gravação de chamada unificada do Dubber](./dubber-unified-call-recording.md) | Dubber | **✓** |  |
 | [Easy Projects](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  |
 | [eCademy Lernplattform](./cornelsen-ecademy-and-inside-gmbh-lernplattform.md) | Cornelsen eCademy &amp; dentro da GmbH | **✓** |  |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR(Asia) Co.Ltd. | **✓** |  |
@@ -148,7 +149,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [FloQast](./floqast.md) | FloQast | **✓** |  |
 | [CRM ForceManager](./tritium-software-sl-forcemanager-crm.md) | Tritium Software SL | **✓** |  |
 | [FormMachines](./enterprise-digital-machines-formmachines.md) | Enterprise Digital Machines | **✓** |  |
-| [Mão livre](./invisionapp-inc-freehand.md) | InVisionApp Inc. | **✓** |  |
+| [Freehand pela InVision](./invisionapp-inc-freehand-by-invision.md) | InVisionApp, Inc. | **✓** |  |
 | [Geekbot](./geekbot-ltd.md) | Geekbot Ltd | **✓** |  |
 | [Gensys](./gensys-solutions-bv.md) | Soluções Gensys BV | **✓** |  |
 | [Gfacility](./gfacility.md) | Gfacility | **✓** |  |
