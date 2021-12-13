@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: c804e8f41aad8d8f4b553c0d349f0f2e0895c852
-ms.sourcegitcommit: 69fc4973c9ad349e40b9b1a13aae8acec3773b17
+ms.openlocfilehash: aa307208510cd5818837168af2c6738ad13ae684
+ms.sourcegitcommit: e3daf82725ca37fec97f5ff639b6a9c2d5365c85
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2021
-ms.locfileid: "61410952"
+ms.lasthandoff: 12/13/2021
+ms.locfileid: "61420799"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -338,6 +338,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Stylebot](./stylebot-inc.md) | Stylebot Inc | **✓** |  |
 | [SuitePro-G](./iqar-suitepro-g.md) | IQar | **✓** |  |
 | [SuperBeings](./haptivity-technologies-pvt-ltd-superbeings.md) | JiJi Technologies Pvt Ltd | **✓** |  |
+| [SuperOffice](./superoffice-infobridge-software.md) | Software SuperOffice InfoBridge | **✓** |  |
 | [SurveyMonkey](./surveymonkey.md) | SurveyMonkey | **✓** |  |
 | [SurveySparrow](./surveysparrow-inc.md) | SurveySparrow inc. | **✓** |  |
 | [Svava para Reuniões](./svava-ab-for-meetings.md) | Svava AB | **✓** |  |
@@ -350,6 +351,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Talview Entrevistas](./talview-inc-interviews.md) | Talview Inc | **✓** |  |
 | [TAMPLO](./ityss-tamplo.md) | ITYSS | **✓** |  |
 | [Taskworld](./taskworld.md) | Taskworld | **✓** |  |
+| [Team Tracker](./team-tracker-ltd.md) | Team Tracker Ltd | **✓** |  |
 | [Equipe](./teamble.md) | Equipe | **✓** |  |
 | [Bot de Verificação de Integridade do TeaMe](./teame-health-check-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12461;&#12515;&#12522;&#12450;&#12487;&#12505;&#12525;&#12483;&#12503;&#12513;&#12531;&#12488;&#12539;&#12450;&#12531;&#12489;&#12539;&#12463;&#12522;&#12456;&#12452;&#12471;&#12519;&#12531; | **✓** |  |
 | [Teamflect](./grepsi-software-teamflect.md) | Grepsi Software | **✓** |  |
