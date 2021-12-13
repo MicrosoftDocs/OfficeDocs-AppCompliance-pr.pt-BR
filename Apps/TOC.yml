@@ -379,7 +379,7 @@
           href: teams/r2-docuo.md
         - name: DocuSign eSignature
           href: teams/docusign-inc-esignature.md
-        - name: Gravação de chamada unificada do Gravador
+        - name: Gravação de chamada unificada do Dubber
           href: teams/dubber-unified-call-recording.md
         - name: Easy Projects
           href: teams/logic-software-inc-easy-projects.md
@@ -821,6 +821,8 @@
           href: teams/iqar-suitepro-g.md
         - name: SuperBeings
           href: teams/haptivity-technologies-pvt-ltd-superbeings.md
+        - name: SuperOffice
+          href: teams/superoffice-infobridge-software.md
         - name: SurveyMonkey
           href: teams/surveymonkey.md
         - name: SurveySparrow
@@ -845,6 +847,8 @@
           href: teams/ityss-tamplo.md
         - name: Taskworld
           href: teams/taskworld.md
+        - name: Team Tracker
+          href: teams/team-tracker-ltd.md
         - name: Equipe
           href: teams/teamble.md
         - name: Bot de Verificação de Integridade do TeaMe
@@ -1089,6 +1093,8 @@
           href: saas/appfluence-inc-priority-matrix.md
         - name: SalesTim
           href: saas/salestim.md
+        - name: SendGuard para M365
+          href: saas/standss-south-pacific-pte-limited-sendguard-for-m365.md
         - name: Selador de slides
           href: saas/officeatwork-slide-chooser.md
         - name: Template Chooser
