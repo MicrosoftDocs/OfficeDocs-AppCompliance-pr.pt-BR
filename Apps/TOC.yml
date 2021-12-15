@@ -345,8 +345,6 @@
           href: teams/colligo-inc-content-manager.md
         - name: Contexto AVA
           href: teams/contextere-ava.md
-        - name: ContractZen
-          href: teams/contractzen.md
         - name: CSOD Aprender
           href: teams/cornerstone-ondemand-csod-learn.md
         - name: Treinamento Cuco
@@ -877,14 +875,10 @@
           href: teams/officeatwork-template-chooser.md
         - name: Texto
           href: teams/approved-contact-text.md
-        - name: ThoughtExchange
-          href: teams/thoughtexchange.md
         - name: ThoughtWire EWS
           href: teams/thoughtwire-corp-ews.md
         - name: locais ti8m
           href: teams/tiandm-ag-ti8m-places.md
-        - name: Tikit
-          href: teams/cireson-tikit.md
         - name: TimeClock 365
           href: teams/softsale-timeclock-365.md
         - name: timeghost - Controle de tempo
@@ -1116,8 +1110,6 @@
           href: azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md
         - name: 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0
           href: azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0.md
-        - name: 0492ead3-ee26-40df-9757-d95cc693d856
-          href: azure/0492ead3-ee26-40df-9757-d95cc693d856.md
         - name: 05ffe668-5b27-45ff-a64d-b2ed6c475d7a
           href: azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md
         - name: 066a6b3a-f7a0-450a-98c7-34db1da31594
@@ -1230,6 +1222,8 @@
           href: azure/431a9917-9c32-480e-a584-6c149e7b7213.md
         - name: 44a72516-136f-4a55-ae26-ef09977230be
           href: azure/44a72516-136f-4a55-ae26-ef09977230be.md
+        - name: 471294e9-96d6-475b-b503-e02acd9ed2cd
+          href: azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md
         - name: 481280f4-a4ed-4862-a5a1-4de59da9dca5
           href: azure/481280f4-a4ed-4862-a5a1-4de59da9dca5.md
         - name: 485936ec-d15d-4a17-9f7d-2eeb5ea43b94
@@ -1434,8 +1428,6 @@
           href: azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md
         - name: b0656c15-44aa-4aab-8956-bb97e3016535
           href: azure/b0656c15-44aa-4aab-8956-bb97e3016535.md
-        - name: b13c40ee-e073-459e-96b5-3f3cca046a37
-          href: azure/b13c40ee-e073-459e-96b5-3f3cca046a37.md
         - name: b1d1c038-a1f3-4802-be93-0f4a66589e73
           href: azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md
         - name: b2380441-bb33-439e-bf4a-8cd277dcebc8
@@ -1492,6 +1484,8 @@
           href: azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md
         - name: cec02d43-1b67-4430-9bc9-861da8582801
           href: azure/cec02d43-1b67-4430-9bc9-861da8582801.md
+        - name: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d
+          href: azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d.md
         - name: d2682b2a-2037-4545-94b6-3e7216ecca5f
           href: azure/d2682b2a-2037-4545-94b6-3e7216ecca5f.md
         - name: d27f56ed-ddc7-4cf8-86ac-721b76c7d287
