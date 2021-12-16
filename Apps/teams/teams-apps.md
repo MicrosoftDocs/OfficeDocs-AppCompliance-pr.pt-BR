@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/10/2021
+ms.date: 12/14/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: aa307208510cd5818837168af2c6738ad13ae684
-ms.sourcegitcommit: e3daf82725ca37fec97f5ff639b6a9c2d5365c85
+ms.openlocfilehash: bd7701d32451ba503d19f7488c0ae9a6baf61a4d
+ms.sourcegitcommit: 849d584236cda08570ca2c72b4147853ab0314a8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/13/2021
-ms.locfileid: "61420799"
+ms.lasthandoff: 12/14/2021
+ms.locfileid: "61503674"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -100,7 +100,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Contatos Profissionais](./witivio-contacts-pro.md) | Witivio | **✓** |  |
 | [Gerente de conteúdos](./colligo-inc-content-manager.md) | Colligo Inc | **✓** |  |
 | [Contexto AVA](./contextere-ava.md) | Contexto | **✓** |  |
-| [ContractZen](./contractzen.md) | ContractZen | **✓** |  |
 | [CSOD Aprender](./cornerstone-ondemand-csod-learn.md) | Cornerstone OnDemand | **✓** |  |
 | [Treinamento Cuco](./cuckoo-networks-oy-workout.md) | Redes de Cucos Oy | **✓** |  |
 | [Cultr Conexão](./cultr-connect.md) | Cultr | **✓** |  |
@@ -366,10 +365,8 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Conexão TELUS Business](./ringcentral-inc-telus-business-connect.md) | RingCentral, Inc. | **✓** |  |
 | [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** |  |
 | [Texto](./approved-contact-text.md) | Contato Aprovado | **✓** |  |
-| [ThoughtExchange](./thoughtexchange.md) | ThoughtExchange | **✓** |  |
 | [ThoughtWire EWS](./thoughtwire-corp-ews.md) | ThoughtWire Corp. | **✓** |  |
 | [locais ti8m](./tiandm-ag-ti8m-places.md) | ti &amp; m AG | **✓** |  |
-| [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost - Controle de tempo](./kollisch-gmbh-timeghost-time-tracking.md) | K&#246;llisch GmbH | **✓** |  |
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |

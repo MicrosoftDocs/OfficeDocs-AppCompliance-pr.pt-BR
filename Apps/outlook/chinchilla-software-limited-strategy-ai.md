@@ -1,48 +1,47 @@
 ---
-title: Informações do aplicativo para a Nuvem da Fabasoft por Fabasoft Austria GmbH
+title: Informações do aplicativo para Strategy-AI by Chichilla Software Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/15/2021
+ms.date: 12/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Fabasoft Cloud, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Strategy-AI, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 763553b5e9220bfa21b48312c40a9fc4afbcb4de
+ms.openlocfilehash: ccd5a4d249cf5a27d0f1b99040b0278f1b31fb4a
 ms.sourcegitcommit: fc537c6574ed98a1706c4cadf02150a2f3e1137c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 12/16/2021
-ms.locfileid: "61537103"
+ms.locfileid: "61537887"
 ---
-# <a name="fabasoft-cloud"></a>Nuvem Fabasoft
+# <a name="strategy-ai"></a>Strategy-AI
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 14 de dezembro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 1º de dezembro de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/12ba525f-5370-4cd9-b1c9-fde7edecae8a" target="_blank">Exibir no Teams store</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002184" target="_blank">Exibir no AppSource</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003576" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pela Fabasoft Austria GmbH para a Microsoft:
+Informações fornecidas pelo Software Chinês Limitado à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Nuvem Fabasoft |
-| ID | WA200002184 |
-| Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Fabasoft Austria GmbH |
-| Site da empresa | [https://www.fabasoft.com](https://www.fabasoft.com) |
-| Termos de uso do aplicativo | [https://www.fabasoft.com/terms-of-use](https://www.fabasoft.com/terms-of-use) |
-| Funcionalidade principal do aplicativo | Compartilhar seus dados de negócios da Nuvem de Processos Empresariais da Fabasoft |
-| Localização da sede da empresa | Áustria |
+| Nome do aplicativo | Strategy-AI |
+| ID | WA200003576 |
+| Office 365 clientes com suporte | Outlook 2013 ou posterior em Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
+| Nome da empresa de parceiro | Software Chinês Limitado |
+| Site da empresa | [https://www.strategy-ai.com](https://www.strategy-ai.com) |
+| Termos de uso do aplicativo | [https://www.strategy-ai.com/terms](https://www.strategy-ai.com/terms) |
+| Funcionalidade principal do aplicativo | Fornecer atribuição de dados consistentes entre empresas e entre plataformas |
+| Localização da sede da empresa | Nova Zelândia |
 | Página de informações do aplicativo | |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,7 +51,7 @@ Informações fornecidas pela Fabasoft Austria GmbH para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela Fabasoft Austria GmbH sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo Software Limited da China sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
@@ -78,7 +77,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você realiza testes de penetração anual no aplicativo? | Sim |
 | O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | ApplicationControls, TraditionalAntiMalware |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | ApplicationControls |
 | Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
 | Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Sim |
 | Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Sim |
@@ -88,7 +87,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
 | Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Sim |
 | As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Sim |
-| Autenticação multifator (MFA) habilitada para: | DNSManagement, CodeRepositories, Credential |
+| Autenticação multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
 | Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | Sim |
 | Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
@@ -110,20 +109,20 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
 | Data de certificação SOC1 mais recente |   |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Sim |
-| Qual certificação do SOC 2 você atingiu? |  type2 |
-| Data de certificação SOC2 mais recente |  2021-04-30 |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
+| Qual certificação do SOC 2 você atingiu? | |
+| Data de certificação SOC2 mais recente | |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
 | Data de certificação SOC3 mais recente | |
-| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Não |
-| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Sim |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Sim |
+| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
+| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | N/D |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
 | O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
 | O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
 | O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
-| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | Não |
+| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
 | O aplicativo está em conformidade com o NIST 800-171? | N/D |
 | O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
 
@@ -136,7 +135,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
-| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Não |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Sim |
+| URL da Política de Privacidade | https://www.strategy-ai.com/privacy |
 | O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
 | O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
 | Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
