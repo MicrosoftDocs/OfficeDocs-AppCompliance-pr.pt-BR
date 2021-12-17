@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/14/2021
+ms.date: 12/15/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: bd7701d32451ba503d19f7488c0ae9a6baf61a4d
-ms.sourcegitcommit: 849d584236cda08570ca2c72b4147853ab0314a8
+ms.openlocfilehash: f1edba1f0d3b0dfd3aadf4bafb449ac24d41010a
+ms.sourcegitcommit: fc537c6574ed98a1706c4cadf02150a2f3e1137c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/14/2021
-ms.locfileid: "61503674"
+ms.lasthandoff: 12/16/2021
+ms.locfileid: "61534181"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -100,6 +100,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Contatos Profissionais](./witivio-contacts-pro.md) | Witivio | **✓** |  |
 | [Gerente de conteúdos](./colligo-inc-content-manager.md) | Colligo Inc | **✓** |  |
 | [Contexto AVA](./contextere-ava.md) | Contexto | **✓** |  |
+| [ContractZen](./contractzen.md) | ContractZen | **✓** |  |
 | [CSOD Aprender](./cornerstone-ondemand-csod-learn.md) | Cornerstone OnDemand | **✓** |  |
 | [Treinamento Cuco](./cuckoo-networks-oy-workout.md) | Redes de Cucos Oy | **✓** |  |
 | [Cultr Conexão](./cultr-connect.md) | Cultr | **✓** |  |
@@ -365,8 +366,11 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Conexão TELUS Business](./ringcentral-inc-telus-business-connect.md) | RingCentral, Inc. | **✓** |  |
 | [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** |  |
 | [Texto](./approved-contact-text.md) | Contato Aprovado | **✓** |  |
+| [O Hub Cativante](./captivate-io-ltd-the-hub.md) | Cativar IO Ltd | **✓** |  |
+| [ThoughtExchange](./thoughtexchange.md) | ThoughtExchange | **✓** |  |
 | [ThoughtWire EWS](./thoughtwire-corp-ews.md) | ThoughtWire Corp. | **✓** |  |
 | [locais ti8m](./tiandm-ag-ti8m-places.md) | ti &amp; m AG | **✓** |  |
+| [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost - Controle de tempo](./kollisch-gmbh-timeghost-time-tracking.md) | K&#246;llisch GmbH | **✓** |  |
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |
