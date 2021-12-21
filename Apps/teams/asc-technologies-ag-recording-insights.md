@@ -2,24 +2,24 @@
 title: Informações do aplicativo para registro do ASC Insights pela ASC Technologies AG
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/18/2021
+ms.date: 12/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o registro do asc Insights, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 56fb96ac07e781380c0bc330d80a63981b60dd7a
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 74d343c964765387046099aa34ba873a24421724
+ms.sourcegitcommit: 6ca6b2ad53cf18362b78ed725d295cc2590c6b36
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60429729"
+ms.lasthandoff: 12/21/2021
+ms.locfileid: "61574543"
 ---
 # <a name="asc-recording-insights"></a>ASC Recording Insights
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 2 de junho de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 15 de dezembro de 2021</p>
 
 * <a href="https://teams.microsoft.com/l/app/8f79287d-5850-42f1-9af2-48ddf6ef89a8" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000708" target="_blank">Exibir no AppSource</a>
@@ -36,10 +36,13 @@ Informações fornecidas pela ASC Technologies AG à Microsoft:
 | ID | WA200000708 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | ASC Technologies AG |
-| URL do site do parceiro | [https://asctechnologies.com/english/index.html](https://asctechnologies.com/english/index.html) |
-| URL da página Teams de informações do aplicativo | [https://asctechnologies.com/english/ASC_Recording_Insights_...](https://asctechnologies.com/english/ASC_Recording_Insights_Compliance_Recording_for_Microsoft_Teams.html) |
-| URL da Política de Privacidade | [https://teams.asc-recording.app/privacy](https://teams.asc-recording.app/privacy) |
-| URL dos Termos de Uso | [https://asctechnologies.com/english/asc_impressum.html](https://asctechnologies.com/english/asc_impressum.html) |
+| Site da empresa | [https://asctechnologies.com/english/index.html](https://asctechnologies.com/english/index.html) |
+| Termos de uso do aplicativo | [https://asctechnologies.com/english/asc_impressum.html](https://asctechnologies.com/english/asc_impressum.html) |
+| Funcionalidade principal do aplicativo | Registro, arquivamento e análise de chamada legalmente compatíveis em um aplicativo Microsoft Teams certificado |
+| Localização da sede da empresa | Alemanha |
+| Página de informações do aplicativo | |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,86 +54,141 @@ Informações fornecidas pela ASC Technologies AG à Microsoft:
 
 Essas informações foram fornecidas pela ASC Technologies AG sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
-
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
-
->| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.Read | aplicação | Informações das reuniões do usuário | ID do objeto das reuniões | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| Chat.Read | aplicação | Chats gerados dos usuários | ID do objeto dos chats | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| Chat.Read.All | aplicação | Chats gerados dos usuários | ID do objeto dos chats | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| Group.Read.All | aplicação | Grupo de usuários do AD de associação | ID do objeto do grupo AD | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| OnlineMeetings.Read.All | aplicação | Informações das reuniões do usuário | ID do objeto das reuniões | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| User.Read | aplicação | Primeiros e últimos nomes de usuários | ID do objeto do usuário | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| User.ReadBasic.All | aplicação | Dados básicos do usuário | ID do objeto do usuário | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
-
-#### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
-
-Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
-
->| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Exportar API | Não |  |  |  |  |
-
-#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
-
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
-
->Não serviços Microsoft não são usados.
-
-#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
-
-Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?
-
->Nenhum EUII é acessado.
-
-
-#### <a name="telemetry-data"></a>Dados de telemetria
-
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
-
->Nenhum OII ou EUII aparece nos logs ou telemetria de aplicativos.
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
-
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
-
->Não temos dados nos sistemas do parceiro
-
-#### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
-
-Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
-
->Não
+| **Information** | **Response** |
+|:----------------|:-------------|
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
+| Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
+| Quais dados são armazenados em seus bancos de dados? | Armazenamos o GUID dos tenats e dos usuários no Azure CosmosDB. Vamos resolvê-los usando o Microsoft Graph se necessário. |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Irlanda |
+| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
+| Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
+| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="security"
 
-::: zone pivot="identity"
-
-### <a name="identity-information"></a>Informações de identidade
-
-Essas informações foram fornecidas pela ASC Technologies AG sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
-| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Sim |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
-| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
-| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
-| Seu aplicativo dá suporte a multi-enancy? | Sim |
-| Seu aplicativo tem um cliente confidencial? | Sim |
-| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | ,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/> |
-| Seu aplicativo expõe alguma APIs da Web? | Não |
-| Seu aplicativo usa APIs de visualização? | Não |
-| Seu aplicativo usa APIs preteridas? | Não |
+| Você realiza testes de penetração anual no aplicativo? | Sim |
+| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | TraditionalAntiMalware, ApplicationControls |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
+| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Sim |
+| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Sim |
+| Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Sim |
+| Você tem um firewall instalado no limite de rede externo? | Sim |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
+| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Sim |
+| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Sim |
+| Autenticação multifator (MFA) habilitada para: | CodeRepositories, Credential, DNSManagement |
+| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
+| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | Sim |
+| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
+| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim|
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
+| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Sim |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
+::: zone pivot="compliance"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
+| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
+| Data de certificação SOC1 mais recente |   |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
+| Qual certificação do SOC 2 você atingiu? | |
+| Data de certificação SOC2 mais recente | |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
+| Data de certificação SOC3 mais recente | |
+| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
+| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | N/D |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
+| O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
+| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
+| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
+| O aplicativo está em conformidade com o NIST 800-171? | N/D |
+| O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Sim |
+| URL da Política de Privacidade | https://asctechnologies.com/english/ASCrecordingapp/privacy.html |
+| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
+| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
+| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Não |
+| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Sim |
+| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Não |
+| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **Information** | **Response** |
+|:----------------|:-------------|
+| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | Sim |
+| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Não |
+| Seu aplicativo armazena alguma credencial no código? | Não |
+| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
+
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
+>|:------------------------|:--------------------|:------------------------------------|
+>| Chat.Read | delegado | Ler mensagens de chat do usuário |
+>| User.Read | delegado | Entrar e ler o perfil do usuário |
+>| User.ReadBasic.All | delegado | Ler todos os perfis básicos de usuários |
+>| Group.Read.All | delegado | Ler todos os grupos |
+>| openid | delegado | Conectar os usuários |
+>| perfil | delegado | exibir o perfil básico dos usuários |
+>| People.Read | delegado | Ler a lista de pessoas relevantes dos usuários |
+>| Contacts.Read | delegado | Ler contatos do usuário |
+>| OnlineMeetings.Read.All | aplicação | Ler detalhes de reuniões online |
+>| Calendars.Read | aplicação | Ler calendários em todas as caixas de correio |
+>| Group.Read.All | aplicação | Ler todos os grupos |
+>| User.Read.All | aplicação | Ler o perfil completo de todos os usuários |
+>| ChannelMember.Read.All | aplicação | Ler membros de todos os canais |
+>| Chat.Read.All | aplicação | Ler todas as mensagens de bate-papo |
+>| ChannelMessage.Read.All | aplicação | Listar mensagens do canal |
+
+>Este aplicativo não tem APIs adicionais.
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
