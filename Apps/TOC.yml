@@ -585,6 +585,8 @@
           href: teams/message-reminder.md
         - name: MGR360
           href: teams/mgr360.md
+        - name: Mia
+          href: teams/mihcm-mia.md
         - name: Micromate
           href: teams/paixon-gmbh-micromate.md
         - name: MindManager
@@ -685,6 +687,8 @@
           href: teams/powell-software-teams.md
         - name: Colaboração do Power BI
           href: teams/ataira-power-bi-collaboration.md
+        - name: Powow
+          href: teams/powow-ai.md
         - name: IA de apresentações
           href: teams/infographfx-technologies-presentations-ai.md
         - name: Priority Matrix
@@ -1059,6 +1063,8 @@
       items:
         - name: Central de Contatos do Buzzeasy para Teams
           href: saas/geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md
+        - name: CC4Teams
+          href: saas/cc4all-cc4teams.md
         - name: Classroom.cloud
           href: saas/netsupport-ltd-classroomcloud.md
         - name: Backup na nuvem para Microsoft Office 365
@@ -1071,6 +1077,8 @@
           href: saas/officeatwork-content-chooser.md
         - name: Designer
           href: saas/officeatwork-designer.md
+        - name: EmailNotes para Outlook
+          href: saas/standss-south-pacific-pte-limited-emailnotes-for-outlook.md
         - name: IGlobe CRM Office 365 para Microsoft 365
           href: saas/iglobe-crm-office-365-for-microsoft.md
         - name: Selador de imagem
@@ -1079,6 +1087,8 @@
           href: saas/iglobe-iplanner-pro-office-365.md
         - name: LMS365
           href: saas/elearningforce-international-aps-lms365.md
+        - name: Luware Compliance Recording for Microsoft Teams
+          href: saas/luware-ag-compliance-recording-for-microsoft-teams.md
         - name: Luware Nimbus para Microsoft Teams
           href: saas/luware-ag-nimbus-for-microsoft-teams.md
         - name: MIPA - Meu Assistente Pessoal Inteligente
@@ -1097,8 +1107,6 @@
           href: saas/appfluence-inc-priority-matrix.md
         - name: SalesTim
           href: saas/salestim.md
-        - name: SendGuard para M365
-          href: saas/standss-south-pacific-pte-limited-sendguard-for-m365.md
         - name: Selador de slides
           href: saas/officeatwork-slide-chooser.md
         - name: Template Chooser

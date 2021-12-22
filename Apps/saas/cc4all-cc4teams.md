@@ -1,45 +1,43 @@
 ---
-title: Informações do aplicativo para MGR360 by MGR360
+title: Informações do aplicativo para CC4Teams pelo CC4ALL
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/20/2021
+ms.date: 12/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para MGR360, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para CC4Teams, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9cd26d2fd4b9afb62bc432b4841416e564eec2f8
+ms.openlocfilehash: feb5be7483844c3e8c0709c8967b88048c4b691d
 ms.sourcegitcommit: 287c15520b2d24d1b150c144ee8001b713b0aa8a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 12/22/2021
-ms.locfileid: "61590618"
+ms.locfileid: "61590640"
 ---
-# <a name="mgr360"></a>MGR360
+# <a name="cc4teams"></a>CC4Teams
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 16 de dezembro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 20 de novembro de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/a229e17d-d19a-403b-8ddf-fc44cf8d5462" target="_blank">Exibir no Teams store</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003329" target="_blank">Exibir no AppSource</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/contactcenter4all1634641680587.cc4all_01" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo MGR360 para a Microsoft:
+Informações fornecidas pelo CC4ALL à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | MGR360 |
-| ID | WA200003329 |
-| Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | MGR360 |
-| Site da empresa | [https://mgr360.com](https://mgr360.com) |
-| Termos de uso do aplicativo | [https://mgr360.com/terms-and-conditions](https://mgr360.com/terms-and-conditions) |
-| Funcionalidade principal do aplicativo | O aplicativo para grandes líderes. Gerencie sua equipe&#8217;metas, tarefas, críticas e 1 a 1&#8230; tudo em um só lugar. |
-| Localização da sede da empresa | Estados Unidos da América |
+| Nome do aplicativo | CC4Teams |
+| ID | contactcenter4all1634641680587.cc4all_01 |
+| Nome da empresa de parceiro | CC4ALL |
+| Site da empresa | [https://contactcenter4all.com](https://contactcenter4all.com) |
+| Termos de uso do aplicativo | [https://contactcenter4all.com/contactcenter4all-saas-agreem...](https://contactcenter4all.com/contactcenter4all-saas-agreement/) |
+| Funcionalidade principal do aplicativo | CC4Teams adiciona funcionalidades como roteamento, transferência a quente, gravação de chamadas e relatórios para Teams |
+| Localização da sede da empresa | Países Baixos (o) |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
@@ -52,7 +50,7 @@ Informações fornecidas pelo MGR360 para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo MGR360 sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo CC4ALL sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
@@ -60,11 +58,11 @@ Essas informações foram fornecidas pelo MGR360 sobre como esse aplicativo cole
 | Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
+| Quais dados são armazenados em seus bancos de dados? | Nomes de agente, endereços de email, atividade de agentes no call center |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Países Baixos (o) |
+| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
+| Por quanto tempo os dados são mantidos após o término da conta? | Menos de 60 dias |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
 | Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
 
@@ -79,24 +77,24 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Você realiza testes de penetração anual no aplicativo? | Não |
-| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Não |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | ApplicationControls |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Não |
-| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Não |
-| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Não |
+| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | ApplicationControls, TraditionalAntiMalware |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
+| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Sim |
+| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Sim |
 | Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
 | Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Não |
 | Você tem um firewall instalado no limite de rede externo? | Sim |
 | Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
 | Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Sim |
 | As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Sim |
-| Autenticação multifator (MFA) habilitada para: |  |
+| Autenticação multifator (MFA) habilitada para: | Credential, DNSManagement |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
-| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | N/D |
+| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | Não |
 | Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
-| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Não|
-| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Não |
-| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Não |
+| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim|
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
+| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Sim |
 | Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
 | Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
@@ -108,7 +106,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | Sim |
+| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
 | O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
 | Data de certificação SOC1 mais recente |   |
@@ -137,15 +135,16 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Não |
-| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Não |
+| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Sim |
+| URL da Política de Privacidade | https://ss-usa.s3.amazonaws.com/c/308460351/media/12330608ab57a01be064335765158501/CC4ALL%20-%20Data%20Processing%20Agreement%20V1.0.pdf |
 | O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
 | O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
 | Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
 | O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
-| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Não |
-| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Não |
-| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Não |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
+| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Sim |
+| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
 | As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -169,7 +168,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
 >|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | ambos | Habilitar o aplicativo para criar, ler e atualizar eventos de calendário e integrar com Teams |
+>| CallRecords.Read.All | aplicação | usado para gravações |
+>| Calls.AccessMedia.All | aplicação | usado para acessar mídia |
+>| Calls.Initiate.All | aplicação | usado para iniciar chamadas no centro de contatos |
+>| Calls.InitiateGroupCall.All | aplicação | usado para iniciar chamadas no centro de contatos |
+>| Calls.JoinGroupCall.All | aplicação | usado para iniciar chamadas no centro de contatos |
+>| Calls.JoinGroupCallasGuest.All | aplicação | usado para iniciar chamadas no centro de contatos |
+>| Presence.Read | delegado | usado para verificar o status dos agentes no centro de contatos |
+>| Presence.Read.All | delegado | usado para verificar o status dos agentes no centro de contatos |
 
 >Este aplicativo não tem APIs adicionais.
 
