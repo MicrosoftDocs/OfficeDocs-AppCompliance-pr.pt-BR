@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/22/2021
+ms.date: 12/23/2021
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 302a2ff6be212559cc8d01de76bec0c6e0eb3012
-ms.sourcegitcommit: eb4f12b8c54f9095e4a165308d284e0650c95ed8
+ms.openlocfilehash: 9d7343c204d68fa7177781f45bbf655db5059b1e
+ms.sourcegitcommit: 1be3c2ca2c8a781c6acda29412224061c90790c9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 12/23/2021
-ms.locfileid: "61598323"
+ms.locfileid: "61603129"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -218,6 +218,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Mediatheque+](./cemeq-inc-mediathequeplus.md) | CEMEQ inc. | **✓** |  |
 | [Mentimeter](./mentimeter.md) | Mentimeter | **✓** |  |
 | [Lembrete de Mensagem](./message-reminder.md) | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; | **✓** |  |
+| [MetaVisitor](./wafer-systems-metavisitor.md) | Sistemas Wafer | **✓** |  |
 | [MGR360](./mgr360.md) | MGR360 | **✓** |  |
 | [Mia](./mihcm-mia.md) | MiHCM | **✓** |  |
 | [Micromate](./paixon-gmbh-micromate.md) | Paixon GmbH | **✓** |  |
