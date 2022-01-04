@@ -166,6 +166,8 @@
           href: sharepoint/adobe-inc-sign-for-sharepoint.md
         - name: ArcGIS para SharePoint
           href: sharepoint/esri-inc-arcgis-for-sharepoint.md
+        - name: Sistema de Gerenciamento de Ofertas
+          href: sharepoint/beyond-technologies-bid-management-system.md
         - name: Conector FormMachines para SharePoint
           href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
         - name: HelloSign para SharePoint
@@ -863,6 +865,8 @@
           href: teams/teamble.md
         - name: Bot de Verificação de Integridade do TeaMe
           href: teams/teame-health-check-bot.md
+        - name: Espaço de classe teameo
+          href: teams/ls2-innovation-teameo-class-space.md
         - name: Teamflect
           href: teams/grepsi-software-teamflect.md
         - name: TeamGether
@@ -879,7 +883,7 @@
           href: teams/teamschamp.md
         - name: TeamSticker por Communitio
           href: teams/communitio-corporation-teamsticker-by.md
-        - name: Teamwork
+        - name: Trabalho em equipe
           href: teams/teamwork.md
         - name: Conexão TELUS Business
           href: teams/ringcentral-inc-telus-business-connect.md
@@ -991,6 +995,8 @@
           href: teams/akmii-yeeflow.md
         - name: yuccaHR
           href: teams/yucca-technologies-gmbh-yuccahr.md
+        - name: Zesavi
+          href: teams/zesavi-gmbh.md
         - name: Zignals
           href: teams/alight-zignals.md
         - name: Zoho CRM
@@ -1528,6 +1534,8 @@
           href: azure/eab5463e-8168-40ee-887a-7ac78de1d266.md
         - name: eb628055-f790-4ef0-9fce-ac95b4c61466
           href: azure/eb628055-f790-4ef0-9fce-ac95b4c61466.md
+        - name: eb668aa5-abb2-445c-81b4-3c174db84fe2
+          href: azure/eb668aa5-abb2-445c-81b4-3c174db84fe2.md
         - name: edb24f8f-38af-4b3e-9475-0da243678d5a
           href: azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md
         - name: f0199b83-0ca3-4b41-a23b-d9b234484438

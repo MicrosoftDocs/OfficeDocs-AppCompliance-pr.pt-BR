@@ -1,48 +1,47 @@
 ---
-title: Informações do aplicativo para 365-QA por Advantive
+title: Informações do aplicativo para o Sistema de Gerenciamento de Ofertas pela Beyond Technologies
 ms.author: elmalova
 author: elenamalova
 ms.date: 01/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o 365-QA, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Sistema de Gerenciamento de Ofertas, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f12b349e62a1e04787c153951ed0235a117060f7
+ms.openlocfilehash: 7089e7f666dd8c601c5d585f0cec7ce20a613b3e
 ms.sourcegitcommit: 11ec7246fa8e1052155e98a0bff51d32e58ea2cf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 01/04/2022
-ms.locfileid: "61711363"
+ms.locfileid: "61711448"
 ---
-# <a name="365-qa"></a>365-QA
+# <a name="bid-management-system"></a>Sistema de Gerenciamento de Ofertas
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 28 de dezembro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 16 de novembro de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/03e51569-33a8-4000-abb6-9a825e33ece2" target="_blank">Exibir no Teams store</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001394" target="_blank">Exibir no AppSource</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001787" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pela Advantive à Microsoft:
+Informações fornecidas pela Beyond Technologies à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | 365-QA |
-| ID | WA200001394 |
-| Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Advantive |
-| Site da empresa | [https://www.advantive.be](https://www.advantive.be) |
-| Termos de uso do aplicativo | [https://www.advantive.be/terms-of-service-en/](https://www.advantive.be/terms-of-service-en/) |
-| Funcionalidade principal do aplicativo | Advantive é uma equipe animada de profissionais de TIC, que usam a tecnologia microsoft para desenvolver e implementar soluções inovadoras de TIC. Oferecemos consultoria, produtos e serviços de alta qualidade com base na funcionalidade padrão da Microsoft. Isso permite que os&#8217;clientes do Adventive aumentem sua eficiência e aproveitem as circunstâncias de mudança rápida. Nosso principal negócio é fornecer serviços que incluem consultoria, desenvolvimento, implementação, suporte ao projeto e manutenção. |
-| Localização da sede da empresa | Bélgica |
+| Nome do aplicativo | Sistema de Gerenciamento de Ofertas |
+| ID | WA200001787 |
+| Office 365 clientes com suporte | SharePoint 2013 ou posterior |
+| Nome da empresa de parceiro | Além das tecnologias |
+| Site da empresa | [https://www.beyondintranet.com](https://www.beyondintranet.com) |
+| Termos de uso do aplicativo | [https://www.beyondintranet.com/eula](https://www.beyondintranet.com/eula) |
+| Funcionalidade principal do aplicativo | Um SharePoint de Gerenciamento de Propostas/Software de Gerenciamento de Propostas para digitalizar as atividades de oferta. |
+| Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,17 +51,19 @@ Informações fornecidas pela Advantive à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo Advantive sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Beyond Technologies sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
+| Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
+| Quais dados são armazenados em seus bancos de dados? | Email do usuário e url SharePoint site |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
+| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
+| Por quanto tempo os dados são mantidos após o término da conta? | Menos de 90 dias |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Não |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
 | Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
 
@@ -76,10 +77,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você realiza testes de penetração anual no aplicativo? | Sim |
-| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Não |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | TraditionalAntiMalware |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
+| Você realiza testes de penetração anual no aplicativo? | Não |
+| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | ApplicationControls |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Não |
 | Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Não |
 | Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Não |
 | Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
@@ -88,12 +89,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
 | Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Sim |
 | As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Sim |
-| Autenticação multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
-| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Não |
+| Autenticação multifator (MFA) habilitada para: | CodeRepositories |
+| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
 | Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | N/D |
-| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
-| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim|
-| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
+| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Não |
+| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | |
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Não |
 | Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Não |
 | Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
 | Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
@@ -135,16 +136,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Não |
-| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Não |
+| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Sim |
+| URL da Política de Privacidade | https://www.beyondintranet.com/privacypolicy |
 | O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
 | O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
 | Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
 | O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
-| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Não |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
 | O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Não |
 | O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Não |
-| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Não |
+| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
