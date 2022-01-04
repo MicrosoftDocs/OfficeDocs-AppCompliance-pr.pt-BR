@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/31/2021
+ms.date: 01/03/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 77d2ba319abd6cc4fd71335347060a43d550dafd
-ms.sourcegitcommit: b52a796899ec9fb4a27778773c1a1d5fb0c33610
+ms.openlocfilehash: 790f21ce23639a69e7c5079286bd87e4e6cbf361
+ms.sourcegitcommit: 15d24d32e05987f1fafdbfb1bb3ab440cd76be03
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 01/03/2022
-ms.locfileid: "61663451"
+ms.locfileid: "61669031"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -345,6 +345,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [SurveySparrow](./surveysparrow-inc.md) | SurveySparrow inc. | **✓** |  |
 | [Svava para Reuniões](./svava-ab-for-meetings.md) | Svava AB | **✓** |  |
 | [SwiftAssess](./gamalearn-swiftassess.md) | GamaLearn | **✓** |  |
+| [Switchvox](./sangoma-switchvox.md) | Sangoma | **✓** |  |
 | [Sympli](./sympli-llc.md) | Sympli, LLC | **✓** |  |
 | [SysAid](./sysaid.md) | SysAid | **✓** |  |
 | [TackleBox](./insiten-tacklebox.md) | Insiten | **✓** |  |
