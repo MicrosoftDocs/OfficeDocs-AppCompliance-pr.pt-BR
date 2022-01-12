@@ -111,6 +111,8 @@
           href: outlook/iglobe-office2sharepoint-for-outlook.md
         - name: officeatwork | O Selador de Conteúdo para Outlook
           href: outlook/officeatwork-officeatworkcontent-chooser-for-outlook.md
+        - name: officeatwork | Assinatura de email para Outlook
+          href: outlook/officeatwork-officeatworkmail-signature-for-outlook.md
         - name: OnePlaceMail para Outlook
           href: outlook/oneplace-solutions-oneplacemail-for-outlook.md
         - name: Envolvimento de vendas de divulgação para Outlook
@@ -125,8 +127,8 @@
           href: outlook/salesforcecom-salesforce.md
         - name: ServiceDesk Plus para Email
           href: outlook/zoho-corporation-private-limited-servicedesk-plus-for-email.md
-        - name: Strategy-AI
-          href: outlook/chinchilla-software-limited-strategy-ai.md
+        - name: Strategy-AI para Outlook
+          href: outlook/chinchilla-software-limited-strategy-ai-for-outlook.md
         - name: Wunder365
           href: outlook/jiji-technologies-private-limited-wunder365.md
         - name: Email seguro XQ
@@ -188,6 +190,8 @@
           href: sharepoint/ataira-power-bi-collaboration.md
         - name: Reserva de Eventos Mais Inteligentes
           href: sharepoint/smarter-business-solutions-gmbh-event-booking.md
+        - name: Taxonomia
+          href: sharepoint/accuracy-software-inc-taxonomy.md
     - name: Microsoft Teams Apps
       href: teams/teams-apps.md
       items:
@@ -243,6 +247,8 @@
           href: teams/anaek-attendancebot.md
         - name: Attensa
           href: teams/attensa-corporation.md
+        - name: AuditBoard
+          href: teams/auditboard.md
         - name: Aula Digital
           href: teams/leya-sa-aula-digital.md
         - name: Avaamo IT Assistant
@@ -433,6 +439,8 @@
           href: teams/fabasoft-austria-gmbh-cloud.md
         - name: FactSet
           href: teams/factset-research-systems-inc.md
+        - name: FastOrg
+          href: teams/fastorg.md
         - name: Colega
           href: teams/fellow-insights-inc.md
         - name: Cinquenta
@@ -445,6 +453,8 @@
           href: teams/infographics-uk-ltd-firewatch.md
         - name: FloQast
           href: teams/floqast.md
+        - name: Fond
+          href: teams/fond-technologies-inc.md
         - name: CRM ForceManager
           href: teams/tritium-software-sl-forcemanager-crm.md
         - name: FormMachines
@@ -485,6 +495,8 @@
           href: teams/heedify.md
         - name: HelloTeam
           href: teams/helloteam-inc.md
+        - name: HeyTaco!
+          href: teams/heytaco!.md
         - name: oi treinador digital
           href: teams/digital-attitude-srl-hi-coach.md
         - name: Hi5
@@ -495,6 +507,10 @@
           href: teams/highspot.md
         - name: Hive
           href: teams/hive.md
+        - name: Hugo
+          href: teams/hugo.md
+        - name: huminos
+          href: teams/soe-technologies-huminos.md
         - name: Humu
           href: teams/humu-inc.md
         - name: Hyperproof
@@ -621,8 +637,6 @@
           href: teams/flexfone-myfone.md
         - name: MyHub
           href: teams/avepoint-inc-myhub.md
-        - name: myOKR
-          href: teams/soe-technologies-myokr.md
         - name: MyWorkDrive
           href: teams/myworkdrive.md
         - name: Nailted
@@ -645,6 +659,8 @@
           href: teams/room6-nickname-by-flowrish-games.md
         - name: Nulia Works
           href: teams/nulia-works.md
+        - name: O2S - Office2SharePoint
+          href: teams/iglobe-o2s-office2sharepoint.md
         - name: OfficeAmp
           href: teams/anaek-inc-officeamp.md
         - name: Trabalho Híbrido do OfficeRnD
@@ -663,6 +679,8 @@
           href: teams/optmyzr.md
         - name: Org@Work
           href: teams/lundano-org@work.md
+        - name: PA PEOPLE
+          href: teams/pa-people.md
         - name: Notificador de Pacote
           href: teams/qburst-technologies-pvt-ltd-package-notifier.md
         - name: PagerDuty
@@ -697,6 +715,8 @@
           href: teams/infographfx-technologies-presentations-ai.md
         - name: Priority Matrix
           href: teams/appfluence-inc-priority-matrix.md
+        - name: Proconnect for Sitecore
+          href: teams/subramanian-ramanathan-proconnect-for-sitecore.md
         - name: ProdBot
           href: teams/prodoscore-prodbot.md
         - name: Projeto Migrator
@@ -803,12 +823,8 @@
           href: teams/oktopost-social-advocacy.md
         - name: Standup Espacial
           href: teams/high-fidelity-inc-spatial-standup.md
-        - name: Spinify
-          href: teams/spinify.md
         - name: SQQ
           href: teams/superquickquestion-sqq.md
-        - name: Stack Overflow para o Teams
-          href: teams/stack-overflow-for-teams.md
         - name: StaffCircle
           href: teams/staffcircle.md
         - name: Standup Alice
@@ -829,6 +845,8 @@
           href: teams/stylebot-inc.md
         - name: SuitePro-G
           href: teams/iqar-suitepro-g.md
+        - name: Assistente summize
+          href: teams/summize-ltd-assistant.md
         - name: SuperBeings
           href: teams/haptivity-technologies-pvt-ltd-superbeings.md
         - name: SuperOffice
@@ -865,7 +883,7 @@
           href: teams/teamble.md
         - name: Bot de Verificação de Integridade do TeaMe
           href: teams/teame-health-check-bot.md
-        - name: Espaço de classe teameo
+        - name: Espaço de aula do Teameo
           href: teams/ls2-innovation-teameo-class-space.md
         - name: Teamflect
           href: teams/grepsi-software-teamflect.md
@@ -931,8 +949,6 @@
           href: teams/vacation-tracker.md
         - name: Verto 365
           href: teams/tmi-systems-verto-365.md
-        - name: Viima
-          href: teams/viima-solutions-oy.md
         - name: VisualSP
           href: teams/visualsp.md
         - name: Vizito
@@ -1071,6 +1087,8 @@
     - name: Aplicativos SaaS
       href: saas/saas-apps.md
       items:
+        - name: Centro de Administração
+          href: saas/officeatwork-admin-center.md
         - name: Central de Contatos do Buzzeasy para Teams
           href: saas/geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md
         - name: CC4Teams
@@ -1085,6 +1103,8 @@
           href: saas/competella-ab-communication-suite.md
         - name: Selador de Conteúdo
           href: saas/officeatwork-content-chooser.md
+        - name: Navegador do Selador de Conteúdo
+          href: saas/officeatwork-content-chooser-browser.md
         - name: Designer
           href: saas/officeatwork-designer.md
         - name: EmailNotes para Outlook
@@ -1101,6 +1121,8 @@
           href: saas/luware-ag-compliance-recording-for-microsoft-teams.md
         - name: Luware Nimbus para Microsoft Teams
           href: saas/luware-ag-nimbus-for-microsoft-teams.md
+        - name: Assinatura de Email
+          href: saas/officeatwork-mail-signature.md
         - name: MIPA - Meu Assistente Pessoal Inteligente
           href: saas/iglobe-mipa-my-intelligent-personal-assistant.md
         - name: MyHub para Teams
@@ -1109,6 +1131,8 @@
           href: saas/netskope-for-microsoft-teams.md
         - name: Office2SharePoint
           href: saas/iglobe-office2sharepoint.md
+        - name: Office2SharePoint para Teams
+          href: saas/iglobe-office2sharepoint-for-teams.md
         - name: Descoberta onna para MS365
           href: saas/onna-discovery-for-ms365.md
         - name: Políticas e Insights para Microsoft Office 365
@@ -1138,6 +1162,8 @@
           href: azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md
         - name: 0492ead3-ee26-40df-9757-d95cc693d856
           href: azure/0492ead3-ee26-40df-9757-d95cc693d856.md
+        - name: 05525b77-8ca6-462f-8902-15788cb405c6
+          href: azure/05525b77-8ca6-462f-8902-15788cb405c6.md
         - name: 05ffe668-5b27-45ff-a64d-b2ed6c475d7a
           href: azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md
         - name: 066a6b3a-f7a0-450a-98c7-34db1da31594
@@ -1214,6 +1240,8 @@
           href: azure/33ccef75-8248-44e8-88d3-24526ca9c2d3.md
         - name: 3407e97c-3eed-4eca-add5-2549ed881269
           href: azure/3407e97c-3eed-4eca-add5-2549ed881269.md
+        - name: 34ed2c1e-bccf-463d-8fbc-0403e72e89fc
+          href: azure/34ed2c1e-bccf-463d-8fbc-0403e72e89fc.md
         - name: 3557d5c0-bcab-410b-8a03-f7045aa48de0
           href: azure/3557d5c0-bcab-410b-8a03-f7045aa48de0.md
         - name: 38b3f4fa-4229-4d51-9937-6e4515650c8c
@@ -1330,6 +1358,8 @@
           href: azure/7040f194-bf08-400e-acb1-69df7939416a.md
         - name: 71138876-8738-4935-95b6-ae7c2fbe4e54
           href: azure/71138876-8738-4935-95b6-ae7c2fbe4e54.md
+        - name: 722e11e1-c87f-4f97-803f-3d012d532427
+          href: azure/722e11e1-c87f-4f97-803f-3d012d532427.md
         - name: 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4
           href: azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4.md
         - name: 74ef25ab-3685-446c-aa43-4e9cc251ed62
@@ -1516,6 +1546,8 @@
           href: azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md
         - name: dc171e47-c074-4bc2-9e7b-3856b71e0630
           href: azure/dc171e47-c074-4bc2-9e7b-3856b71e0630.md
+        - name: dea67e43-444e-4852-b57b-b57878a4022b
+          href: azure/dea67e43-444e-4852-b57b-b57878a4022b.md
         - name: e5e829df-1793-40fb-806a-8f9ce70a8e14
           href: azure/e5e829df-1793-40fb-806a-8f9ce70a8e14.md
         - name: e601bd6e-0476-4d66-bd57-a9d13c207f0b

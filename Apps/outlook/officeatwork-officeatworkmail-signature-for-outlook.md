@@ -1,27 +1,27 @@
 ---
-title: Informações do aplicativo para o officeatwork | Template Chooser for Office by officeatwork
+title: Informações do aplicativo para o officeatwork | Assinatura de email para Outlook por officeatwork
 ms.author: elmalova
 author: elenamalova
 ms.date: 01/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | Template Chooser for Office, its data handling policies, its Microsoft Cloud App Security app catalog information, and security/compliance information in the CSA STAR registry.
+description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | Assinatura de email para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6cd08a4aa7941a92ccb0b1595476c1d0712369f6
+ms.openlocfilehash: 9c2b253c143a1efa249f0e4ea14387664bb68834
 ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 01/12/2022
-ms.locfileid: "61779167"
+ms.locfileid: "61788502"
 ---
-# <a name="officeatwork--template-chooser-for-office"></a>officeatwork | Template Chooser for Office
+# <a name="officeatwork--mail-signature-for-outlook"></a>officeatwork | Assinatura de email para Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 7 de janeiro de 2022</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380050" target="_blank">Exibir no AppSource</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003062" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
@@ -31,13 +31,13 @@ Informações fornecidas pelo officeatwork à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | officeatwork - Selador de modelo para Office |
-| ID | WA104380050 |
-| Office 365 clientes com suporte | Excel no iPad, Excel 2016 ou posterior no Mac, Excel 2013 ou posterior em Windows, Excel na Web, Word no iPad, Word 2016 ou posterior no Mac, Word na Web, Word 2013 ou posterior Windows, PowerPoint no iPad, PowerPoint 2016 ou posterior no Mac, PowerPoint na Web, PowerPoint 2013 ou posterior em Windows, Project 2016 ou posterior Windows |
+| Nome do aplicativo | officeatwork - Assinatura de Email para Outlook |
+| ID | WA200003062 |
+| Office 365 clientes com suporte | Outlook 2016 ou posterior no Windows, Outlook na Web |
 | Nome da empresa de parceiro | officeatwork |
 | Site da empresa | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | Termos de uso do aplicativo | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
-| Funcionalidade principal do aplicativo | Acesse seus modelos compartilhados centralmente em Office, Teams, SharePoint Online e outros aplicativos. |
+| Funcionalidade principal do aplicativo | Assinaturas de Email, simples e seguras, gerenciadas centralmente, &amp; personalizadas em toda a organização. |
 | Localização da sede da empresa | Suíça |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
@@ -164,21 +164,16 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Listar os tipos de políticas com suporte | Padrões de segurança |
 | Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Sim |
 | Seu aplicativo armazena alguma credencial no código? | Não |
-| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
+| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
 >|:------------------------|:--------------------|:------------------------------------|
->| Sites.Read.All | delegado | Ler os arquivos de modelo de usuários armazenados SharePoint |
+>| openid | delegado | Habilitar a login |
 >| perfil | delegado | Habilitar a login |
 >| offline_access | delegado | Habilitar a assinatura automatizada para hosts Office antigos |
->| Files.ReadWrite.All | delegado | Habilitar favoritos e OneDrive recurso |
->| openid | delegado | Habilitar a login |
->| Group.ReadWrite.All | delegado | Habilitar Teams recurso |
->| User.Read.All | delegado | Habilitar a exibição de propriedades do usuário |
->| User.Read | delegado | Habilitar a exibição de usuário com assinatura |
->| GroupMember.Read.All | delegado | Habilitar Teams recurso |
+>| User.Read | delegado | Habilitar a exibição de usuário de acesso, habilitar assinaturas de email dinâmicas com propriedades de usuário |
 
 >Este aplicativo não tem APIs adicionais.
 
