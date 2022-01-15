@@ -2336,11 +2336,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/appfluenceinc.m_pm_msft.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/appfluence-inc-priority-matrix",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104382005.md",
       "redirect_url": "/microsoft-365-app-certification/teams/appfluence-inc-priority-matrix",
       "redirect_document_id": false
@@ -2348,6 +2343,11 @@
     {
       "source_path": "Apps/forward/5be2b320-a5b7-4221-893c-dee506e4e365.md",
       "redirect_url": "/microsoft-365-app-certification/teams/appfluence-inc-priority-matrix",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/appfluenceinc.m_pm_msft.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/appfluence-inc-priority-matrix",
       "redirect_document_id": false
     },
     {
@@ -2626,11 +2626,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/salestim.salestim.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/salestim",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200001393.md",
       "redirect_url": "/microsoft-365-app-certification/teams/salestim",
       "redirect_document_id": false
@@ -2638,6 +2633,11 @@
     {
       "source_path": "Apps/forward/589748de-ec98-4616-9063-e91c629bd1a4.md",
       "redirect_url": "/microsoft-365-app-certification/teams/salestim",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/salestim.salestim.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/salestim",
       "redirect_document_id": false
     },
     {
@@ -3343,16 +3343,6 @@
     {
       "source_path": "Apps/forward/cfb46a87-a75b-4045-9f22-a0ae0614fd60.md",
       "redirect_url": "/microsoft-365-app-certification/teams/tribute-co",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200001956.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/springworks-hr-tech-trivia",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/391082c3-968b-47b1-9c92-b5daf008000b.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/springworks-hr-tech-trivia",
       "redirect_document_id": false
     },
     {
