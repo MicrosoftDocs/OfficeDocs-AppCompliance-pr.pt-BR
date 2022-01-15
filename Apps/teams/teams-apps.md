@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: cdd1868e91c0f914b67e999e3bbce96ad04f0a05
-ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
+ms.openlocfilehash: 24a6dbd695b53144324251f1f9f0a505e3f16642
+ms.sourcegitcommit: 49dbdc1d9cda54d352ea8384b3ede246cecf69d8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62028957"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "62046493"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -321,7 +321,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  |
 | [Totara](./totara-learning.md) | Aprendizagem do Totara | **✓** |  |
 | [Tribute](./tribute-co.md) | Tribute Co. | **✓** |  |
-| [Trivia](./springworks-hr-tech-trivia.md) | Springworks HR Tech | **✓** |  |
 | [Mecanismo de Trivia](./enableuc-trivia-engine.md) | EnableUC | **✓** |  |
 | [Trivie](./trivie-inc.md) | Trivie, Inc. | **✓** |  |
 | [Tryane Analytics](./tryane-analytics.md) | Tryane | **✓** |  |
