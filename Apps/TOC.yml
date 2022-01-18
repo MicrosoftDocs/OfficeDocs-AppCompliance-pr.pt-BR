@@ -41,15 +41,8 @@
           href: excel/cc-1c-quickcells-solvers.md
         - name: Report Builder
           href: excel/adobe-inc-report-builder.md
-        - name: Wunder365 para Office
-          href: excel/jiji-technologies-private-limited-wunder365-for-office.md
         - name: Dados arquivados XBRL
           href: excel/xbrl-us-filed-data.md
-    - name: Microsoft OneNote Apps
-      href: onenote/onenote-apps.md
-      items:
-        - name: Wunder365 para Office
-          href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
     - name: Microsoft Outlook Apps
       href: outlook/outlook-apps.md
       items:
@@ -103,8 +96,6 @@
           href: outlook/salesforcecom-salesforce.md
         - name: ServiceDesk Plus para Email
           href: outlook/zoho-corporation-private-limited-servicedesk-plus-for-email.md
-        - name: Wunder365
-          href: outlook/jiji-technologies-private-limited-wunder365.md
         - name: Email seguro XQ
           href: outlook/xq-message-secure-email.md
         - name: Zoho CRM para email
@@ -200,6 +191,8 @@
           href: teams/breathe-india-advisors-pvt-ltd-bigfish.md
         - name: ELearning Maiores Cérebros
           href: teams/biggerbrains-bigger-brains-elearning.md
+        - name: Biz-Oin
+          href: teams/suzuyo-shinwart-corporation-biz-oin.md
         - name: Bizfone
           href: teams/mobikom-bizfone.md
         - name: BlackBerry AtHoc
@@ -804,8 +797,6 @@
           href: teams/workplacebuddy.md
         - name: Wrike
           href: teams/wrike-inc.md
-        - name: Wunder365
-          href: teams/jiji-technologies-pvt-ltd-wunder365.md
         - name: SALA X0PA
           href: teams/x0pa-ai-singapore-room.md
         - name: xMatters
@@ -859,8 +850,6 @@
           href: word/taxyio-gmbh-taxkit-docs.md
         - name: TerMef
           href: word/mondeca-termef.md
-        - name: Wunder365 para Office
-          href: word/jiji-technologies-private-limited-wunder365-for-office.md
         - name: xLaw - sistema de gerenciamento de conhecimento
           href: word/evertn-xlaw-knowledge-management-system.md
     - name: Aplicativos SaaS
