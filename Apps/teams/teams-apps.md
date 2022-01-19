@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/17/2022
+ms.date: 01/18/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: ef5f9417e3a29b886e7700929a069947e694dd18
-ms.sourcegitcommit: 23ef75d7c108123853d76b1f80492a2f479c8aeb
+ms.openlocfilehash: bec153bdbc5cc6e993c8be4ce5392d987dfadc48
+ms.sourcegitcommit: b0bc806a1e2b0d157eea62dec843e02d302b2c16
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/18/2022
-ms.locfileid: "62065107"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62078391"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -198,7 +198,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [MURAL](./mural.md) | MURAL | **✓** |  |
 | [Mybys](./facilis-mybys.md) | Facilis | **✓** |  |
 | [Myfone](./flexfone-myfone.md) | Flexfone | **✓** |  |
-| [MyHub](./avepoint-inc-myhub.md) | AvePoint, inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [MyWorkDrive](./myworkdrive.md) | MyWorkDrive | **✓** |  |
 | [NE](./ne.md) | NE | **✓** |  |
 | [Neelix. Equipe](./neelixio-neelixteam.md) | Neelix.IO | **✓** |  |
