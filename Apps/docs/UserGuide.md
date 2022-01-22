@@ -6,12 +6,12 @@ description: Guia do usuário isv para Microsoft 365 de conformidade de aplicati
 keywords: Guia do usuário isv para Microsoft 365 de conformidade de aplicativos
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 79a301d6825b3f9ea3d882e13e91b48f3808f60b
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: 2b2b84cec3be5167d67733a89ba13fa411a0e781
+ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60544551"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61787854"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>Guia do usuário do parceiro para Microsoft 365 De conformidade de aplicativos
 
@@ -45,7 +45,7 @@ Este documento atua como um guia de usuário passo a passo para nossos parceiros
 
 ![Selecionar um aplicativo no Marketplace Comercial](../media/NewPCoffersComm.png)
 
-Ao selecionar um aplicativo, outra barra de navegação será pop-up com a opção 'Conformidade do aplicativo'.
+Ao selecionar um aplicativo, outra barra de navegação será pop-up com a opção "Informações adicionais de certificação" e clique em 'Conformidade do aplicativo'.
   
 **Etapa 3:** Selecione 'Conformidade do aplicativo'
 
@@ -174,9 +174,9 @@ O novo processo de renovação está disponível no [Partner Center](https://par
 
 ![Publisher Atestado Renovado](../media/UserGuidePhotos/30.png)
 
-**Publisher Atestado Expirado:** As informações do aplicativo precisam ser renovadas antes da data de expiração para manter a página Publisher atestado do aplicativo nos documentos da Microsoft. A renovação em tempo há tempo também garantirá a continuidade de badging e ícones para o aplicativo no AppSource, Teams Store, Office Store e outras frentes de loja.
+**Publisher** Atestado Expirado: as informações do aplicativo precisam ser renovadas antes da data de expiração para manter a página de atestado de Publisher do aplicativo nos documentos da Microsoft. A renovação em tempo há tempo também garantirá a continuidade de badging e ícones para o aplicativo no AppSource, Teams Store, Office Store e outras frentes de loja.
 
-![Publisher Atestado expirado](../media/UserGuidePhotos/31.png)
+![Publisher Atestado Expirado](../media/UserGuidePhotos/31.png)
 
 Observação: uma vez expirado, Publisher processo de renovação de Atestado pode ser iniciado a qualquer momento clicando em 'Renovar'. 
 
