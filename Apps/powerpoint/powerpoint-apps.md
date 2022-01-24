@@ -2,17 +2,17 @@
 title: Microsoft PowerPoint Segurança e Conformidade de Aplicativos - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/19/2022
+ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos PowerPoint Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 467822fafb46b07be13371b608f570a4883f98fe
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: f48708dc83ed511d2174cbee67c82d6bebe1f557
+ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62143108"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "62175184"
 ---
 # <a name="microsoft-powerpoint-apps-security-and-compliance"></a>Microsoft PowerPoint Aplicativos de Segurança e Conformidade
 
@@ -28,5 +28,5 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [officeatwork | Image Chooser for Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | Slide Chooser for Office](./officeatwork-officeatworkslide-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | Template Chooser for Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
-| [Showmaster](./cherryware-showmaster.md) | cherryware | **✓** |  |
+| [Showmaster (Plug-in auxiliar)](./cherryware-showmaster-helper-plugin.md) | cherryware | **✓** |  |
 | [SlideHub](./nomorehours-slidehub.md) | nomorehours | **✓** |  |
