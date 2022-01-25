@@ -2,24 +2,23 @@
 title: Informações do aplicativo para o Selador de Imagem por officeatwork
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/07/2022
+ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Image Chooser, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 76073580881b9ddf68af05ffc592df9cf6d3edf2
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 694aa6e329087c06b0f447e058000ab935ed33ab
+ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155055"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62210370"
 ---
 # <a name="image-chooser"></a>Selador de imagem
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 7 de janeiro de 2022</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Última atualização pelo desenvolvedor em: 24 de janeiro de 2022</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/officeatwork-ag.image-chooser" target="_blank">Exibir no AppSource</a>
 
