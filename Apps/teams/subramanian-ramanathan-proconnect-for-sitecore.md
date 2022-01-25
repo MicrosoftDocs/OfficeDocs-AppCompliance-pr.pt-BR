@@ -2,24 +2,24 @@
 title: Informações de aplicativo para Proconnect para Sitecore por Ramanathan subramaniano
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2022
+ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Proconnect para Sitecore, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0bd5876a65ebe7832a330f04ac9db086bdf1ff04
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 0b2861bf05a54d4a2019c32959f0c76a6a02f383
+ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144018"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62198018"
 ---
 # <a name="proconnect-for-sitecore"></a>Proconnect para o Sitecore
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 2 de setembro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 22 de janeiro de 2022</p>
 
 * <a href="https://teams.microsoft.com/l/app/a87fd06b-7e73-4374-ba75-4545b2470706" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003274" target="_blank">Exibir no AppSource</a>
@@ -81,14 +81,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | ApplicationControls |
 | Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Não |
 | Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Sim |
-| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Sim |
+| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Não |
 | Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Sim |
 | Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Não |
 | Você tem um firewall instalado no limite de rede externo? | Não |
 | Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
 | Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Não |
 | As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Sim |
-| Autenticação multifator (MFA) habilitada para: |  |
+| Autenticação multifator (MFA) habilitada para: | NoneOfTheAbove |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Não |
 | Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | N/D |
 | Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
