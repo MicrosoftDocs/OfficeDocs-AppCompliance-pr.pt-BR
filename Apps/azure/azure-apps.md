@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todas as IDs de aplicativo do Azure.
 localization_priority: Normal
-ms.openlocfilehash: 6b92d24b2baadbb52cbea5b2e1bde475a963327a
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: 0cb7e3969e3e7e6a67fd1e853613303b003bed8b
+ms.sourcegitcommit: e756bf7bcad1b37cad74f3330b9885595fd6ab04
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62207410"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "62222612"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Segurança e conformidade de IDs de aplicativo do Azure
 
@@ -33,7 +33,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](./0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md) | **✓** |  |
 | [0b87cb84-073e-4cf6-a1ef-45d864ef2918](./0b87cb84-073e-4cf6-a1ef-45d864ef2918.md) | **✓** |  |
 | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](./0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [0c67871c-ffbc-4b37-bd61-afce12b299f9](./0c67871c-ffbc-4b37-bd61-afce12b299f9.md) | **✓** |  |
+| [0c67871c-ffbc-4b37-bd61-afce12b299f9](./0c67871c-ffbc-4b37-bd61-afce12b299f9.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [0d56e89d-8356-457f-89a2-618386a39eb8](./0d56e89d-8356-457f-89a2-618386a39eb8.md) | **✓** |  |
 | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](./0dd4bfdf-dc86-4f05-9991-a14bc0144ebf.md) | **✓** |  |
 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](./1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) | **✓** |  |
@@ -71,7 +71,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [3b1655d0-505a-4b03-a01f-519a91f77625](./3b1655d0-505a-4b03-a01f-519a91f77625.md) | **✓** |  |
 | [3e701664-cc46-49e4-b356-1a7ac6500998](./3e701664-cc46-49e4-b356-1a7ac6500998.md) | **✓** |  |
 | [3ee373a-62fa-4fc6-b11f-9627d5b4a73d](./3ee373aa-62fa-4fc6-b11f-9627d5b4a73d.md) | **✓** |  |
-| [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](./3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d.md) | **✓** |  |
+| [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](./3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](./418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md) | **✓** |  |
 | [421da895-5e99-4254-b038-209f1ddd5cbb](./421da895-5e99-4254-b038-209f1ddd5cbb.md) | **✓** |  |
 | [43067020-c59f-49f8-a532-e84ed3bb5f4e](./43067020-c59f-49f8-a532-e84ed3bb5f4e.md) | **✓** |  |
@@ -221,7 +221,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [d76f016f-52c7-41b5-835b-900361d7040c](./d76f016f-52c7-41b5-835b-900361d7040c.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [d871e46e-e346-445d-bfe8-2a66419bf278](./d871e46e-e346-445d-bfe8-2a66419bf278.md) | **✓** |  |
 | [d8843264-a57b-41e3-aea6-b83ea56f6bd6](./d8843264-a57b-41e3-aea6-b83ea56f6bd6.md) | **✓** |  |
-| [dae2eacf-3eb5-4440-baff-984fbd5cae68](./dae2eacf-3eb5-4440-baff-984fbd5cae68.md) | **✓** |  |
+| [dae2eacf-3eb5-4440-baff-984fbd5cae68](./dae2eacf-3eb5-4440-baff-984fbd5cae68.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [dc171e47-c074-4bc2-9e7b-3856b71e0630](./dc171e47-c074-4bc2-9e7b-3856b71e0630.md) | **✓** |  |
 | [dea67e43-444e-4852-b57b-b57878a4022b](./dea67e43-444e-4852-b57b-b57878a4022b.md) | **✓** |  |
 | [e5e829df-1793-40fb-806a-8f9ce70a8e14](./e5e829df-1793-40fb-806a-8f9ce70a8e14.md) | **✓** |  |
@@ -234,7 +234,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [eab5463e-8168-40ee-887a-7ac78de1d266](./eab5463e-8168-40ee-887a-7ac78de1d266.md) | **✓** |  |
 | [eb628055-f790-4ef0-9fce-ac95b4c61466](./eb628055-f790-4ef0-9fce-ac95b4c61466.md) | **✓** |  |
 | [eb668aa5-abb2-445c-81b4-3c174db84fe2](./eb668aa5-abb2-445c-81b4-3c174db84fe2.md) | **✓** |  |
-| [edb24f8f-38af-4b3e-9475-0da243678d5a](./edb24f8f-38af-4b3e-9475-0da243678d5a.md) | **✓** |  |
+| [edb24f8f-38af-4b3e-9475-0da243678d5a](./edb24f8f-38af-4b3e-9475-0da243678d5a.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [f0199b83-0ca3-4b41-a23b-d9b234484438](./f0199b83-0ca3-4b41-a23b-d9b234484438.md) | **✓** |  |
 | [f121a92d-d9a9-43fd-be70-f7a47ff83d4f](./f121a92d-d9a9-43fd-be70-f7a47ff83d4f.md) | **✓** |  |
 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](./f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) | **✓** |  |
@@ -243,7 +243,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](./f3388437-b373-4ea7-bcbd-58ec773e0ecf.md) | **✓** |  |
 | [f3943662-e828-40ed-9c6e-369680fe421f](./f3943662-e828-40ed-9c6e-369680fe421f.md) | **✓** |  |
 | [f3ad2154-7e10-4730-a055-8852ced42d47](./f3ad2154-7e10-4730-a055-8852ced42d47.md) | **✓** |  |
-| [f5c9f179-b9a5-4364-8f99-18d203b902ad](./f5c9f179-b9a5-4364-8f99-18d203b902ad.md) | **✓** |  |
+| [f5c9f179-b9a5-4364-8f99-18d203b902ad](./f5c9f179-b9a5-4364-8f99-18d203b902ad.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [f6671df0-1909-428c-91f7-1c42df04d3e4](./f6671df0-1909-428c-91f7-1c42df04d3e4.md) | **✓** |  |
 | [f6f894ce-5b44-4c9b-aff4-253d2fbe8a99](./f6f894ce-5b44-4c9b-aff4-253d2fbe8a99.md) | **✓** |  |
 | [f9eaef18-fbd1-4045-b417-c26598755298](./f9eaef18-fbd1-4045-b417-c26598755298.md) | **✓** |  |

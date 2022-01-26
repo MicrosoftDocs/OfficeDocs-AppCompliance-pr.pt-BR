@@ -2,24 +2,24 @@
 title: Informações do aplicativo para Wazoku por Wazoku
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/27/2021
+ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Wazoku, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ffb251b22bb7a92912dc2052f00f4a9c63d5df44
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: c82905cc10dbebbc914b9025cb146d05c4473716
+ms.sourcegitcommit: e756bf7bcad1b37cad74f3330b9885595fd6ab04
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155070"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "62222512"
 ---
 # <a name="wazoku"></a>Wazoku
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 22 de outubro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 24 de janeiro de 2022</p>
 
 * <a href="https://teams.microsoft.com/l/app/f060d814-1813-4135-bbef-4cda4251abec" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003384" target="_blank">Exibir no AppSource</a>
