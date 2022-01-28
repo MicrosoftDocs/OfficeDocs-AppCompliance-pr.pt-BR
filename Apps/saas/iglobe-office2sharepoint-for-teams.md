@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Office2SharePoint para Teams, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b17138289458464ef786daca4c9289fa646f62b8
-ms.sourcegitcommit: e756bf7bcad1b37cad74f3330b9885595fd6ab04
+ms.openlocfilehash: ba344dc35a29968d4967c6116d47d07c0ecd9b0f
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62222502"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62250237"
 ---
 # <a name="office2sharepoint-for-teams"></a>Office2SharePoint para Teams
 
@@ -164,17 +164,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Directory.AccessAsUser.All | delegado | Permite ao aplicativo ter o mesmo acesso que o usuário conectado a informações no diretório. |
->| Directory.Read.All | delegado | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos. |
->| Directory.ReadWrite.All | delegado | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos. |
->| Group.Read.All | delegado | Para obter os sites de grupo dos usuários. |
->| Group.ReadWrite.All | delegado | Para acessar os emails/s selecionados e obter os anexos. No email ou adicione do site SharePoint ou Grupos ao email. |
->| Sites.Manage.All | delegado | Permite que o aplicativo crie ou exclua bibliotecas de documentos e listas em todos os conjunto de sites em nome do usuário registrado. |
->| Sites.Read.All | delegado | Para obter os usuários SharePoint site. Obter arquivos e salvar anexos do email selecionado.     |
->| Sites.ReadWrite.All | delegado | Para obter SharePoint, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. |
->| User.Read | delegado | Para obter os usuários SharePoint site, OneDrive e sites de grupo. |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | delegado | Permite ao aplicativo ter o mesmo acesso que o usuário conectado a informações no diretório. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.Read.All | delegado | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.ReadWrite.All | delegado | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.Read.All | delegado | Para obter os sites de grupo dos usuários. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.ReadWrite.All | delegado | Para acessar os emails/s selecionados e obter os anexos. No email ou adicione do site SharePoint ou Grupos ao email. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Manage.All | delegado | Permite que o aplicativo crie ou exclua bibliotecas de documentos e listas em todos os conjunto de sites em nome do usuário registrado. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Read.All | delegado | Para obter os usuários SharePoint site. Obter arquivos e salvar anexos do email selecionado.     | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.ReadWrite.All | delegado | Para obter SharePoint, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| User.Read | delegado | Para obter os usuários SharePoint site, OneDrive e sites de grupo. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
 
 >Este aplicativo não tem APIs adicionais.
 

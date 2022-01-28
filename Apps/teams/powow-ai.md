@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Powow, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 529f5acf9410a5ee1ed2b68308ccabbdde0f070e
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: f7c17510645c2c7b2fc25014e328b1dcefe0f06f
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200550"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254747"
 ---
 # <a name="powow"></a>Powow
 
@@ -168,15 +168,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | aplicação | Usado para o Conector de Pesquisa (recurso para empurrar dados powow para os índices da Microsoft para pesquisa em serviços Microsoft) |
->| ExternalItem.ReadWrite.All | aplicação | Usado para o Conector de Pesquisa (recurso para empurrar dados powow para os índices da Microsoft para pesquisa em serviços Microsoft) |
->| email | delegado | Exibir o endereço de email dos usuários para registro e logon |
->| offline_access | delegado | Para acessar os dados do usuário dentro do aplicativo (controlar atualizações de calendário) |
->| openid | delegado | Conectar os usuários |
->| perfil | delegado | Para acessar as informações básicas de perfil dos usuários para registro |
->| User.Read | delegado | Entrar e ler o perfil do usuário para registro e logon |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ExternalItem.ReadWrite.All | aplicação | Usado para o Conector de Pesquisa (recurso para empurrar dados powow para os índices da Microsoft para pesquisa em serviços Microsoft) | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário para registro e logon | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| User.Read.All | aplicação | Usado para o Conector de Pesquisa (recurso para empurrar dados powow para os índices da Microsoft para pesquisa em serviços Microsoft) | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| email | delegado | Exibir o endereço de email dos usuários para registro e logon | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| offline_access | delegado | Para acessar os dados do usuário dentro do aplicativo (controlar atualizações de calendário) | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| openid | delegado | Conectar os usuários | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| perfil | delegado | Para acessar as informações básicas de perfil dos usuários para registro | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
 
 >Este aplicativo não tem APIs adicionais.
 

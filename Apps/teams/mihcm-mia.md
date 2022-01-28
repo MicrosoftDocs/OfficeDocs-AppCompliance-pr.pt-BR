@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Mia, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 47aebd8bce7bdaed64de9f634792d8375f686776
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 60f642920ebe8406b6b16bcdcf940dd986962ae6
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147114"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62253607"
 ---
 # <a name="mia"></a>Mia
 
@@ -169,12 +169,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | delegado | Para identificar exclusivamente um usuário |
->| Group.Read.All | delegado | Para ler as tarefas do Microsoft Planner do usuário |
->| MailboxSettings.Read | aplicação | Para ler o fuso horário do usuário |
->| Calendars.Read | aplicação | Para ler os eventos de calendário agendados do usuário |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | aplicação | Para ler os eventos de calendário agendados do usuário | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](https://docs.microsoft.com/microsoft-365-app-certification/azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7) |
+>| Group.Read.All | delegado | Para ler as tarefas do Microsoft Planner do usuário | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](https://docs.microsoft.com/microsoft-365-app-certification/azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7) |
+>| MailboxSettings.Read | aplicação | Para ler o fuso horário do usuário | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](https://docs.microsoft.com/microsoft-365-app-certification/azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7) |
+>| User.Read | delegado | Para identificar exclusivamente um usuário | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](https://docs.microsoft.com/microsoft-365-app-certification/azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7) |
 
 >Este aplicativo não tem APIs adicionais.
 

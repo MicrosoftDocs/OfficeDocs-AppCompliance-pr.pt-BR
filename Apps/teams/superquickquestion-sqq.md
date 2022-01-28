@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SQQ, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 49df8a96511b80d7d47a416a5a8dd40ec74f097a
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 0dfeb1cc7cf0cbc593cb2cfa2f897bd299963236
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200521"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251649"
 ---
 # <a name="sqq"></a>SQQ
 
@@ -168,11 +168,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Chat.ReadBasic | delegado | Obter o número de participantes em um chat |
->| openid | delegado | Entrar usuários do aplicativo para acessar o ponto Graph ponto de extremidade |
->| User.Read | delegado | Ler o nome do locatário do usuário |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Chat.ReadBasic | delegado | Obter o número de participantes em um chat | [25379fc8-577f-4935-b681-6f027977fbe3](https://docs.microsoft.com/microsoft-365-app-certification/azure/25379fc8-577f-4935-b681-6f027977fbe3) |
+>| User.Read | delegado | Ler o nome do locatário do usuário | [25379fc8-577f-4935-b681-6f027977fbe3](https://docs.microsoft.com/microsoft-365-app-certification/azure/25379fc8-577f-4935-b681-6f027977fbe3) |
+>| openid | delegado | Entrar usuários do aplicativo para acessar o ponto Graph ponto de extremidade | [25379fc8-577f-4935-b681-6f027977fbe3](https://docs.microsoft.com/microsoft-365-app-certification/azure/25379fc8-577f-4935-b681-6f027977fbe3) |
 
 >Este aplicativo não tem APIs adicionais.
 

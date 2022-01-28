@@ -142,6 +142,8 @@
           href: powerpoint/officeatwork-officeatworkslide-chooser-for-office.md
         - name: officeatwork | Template Chooser for Office
           href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
+        - name: Showmaster
+          href: powerpoint/cherryware-showmaster.md
         - name: Showmaster (Plug-in auxiliar)
           href: powerpoint/cherryware-showmaster-helper-plugin.md
         - name: SlideHub
@@ -409,7 +411,7 @@
           href: teams/harmonie-email-teammate.md
         - name: email-mensagem de texto
           href: teams/voice-elements-corporation-email-texting.md
-        - name: Advocacy de funcionários por DSMN8
+        - name: Consultoria de Funcionários por DSMN8
           href: teams/dsmn8-employee-advocacy-by.md
         - name: Indicações de Funcionários
           href: teams/recruitday-inc-employee-referrals.md
@@ -511,6 +513,8 @@
           href: teams/highspot.md
         - name: Hive
           href: teams/hive.md
+        - name: HubSite 365
+          href: teams/netforce-365-gmbh-hubsite.md
         - name: Hugo
           href: teams/hugo.md
         - name: huminos
@@ -561,8 +565,6 @@
           href: teams/survivef5-gmbh-kudozza.md
         - name: Kunjani
           href: teams/faceboard-pty-ltd-kunjani.md
-        - name: LawToolBox
-          href: teams/lawtoolboxcominc-lawtoolbox.md
         - name: Lexion
           href: teams/lexion.md
         - name: LifeWorks
@@ -587,8 +589,6 @@
           href: teams/lumapps.md
         - name: Lumio por SMART
           href: teams/smart-technologies-ulc-lumio-by.md
-        - name: MailClark
-          href: teams/mailclark.md
         - name: Mapeamento Pro
           href: teams/witivio-map-pro.md
         - name: Marvel
@@ -1256,8 +1256,6 @@
           href: azure/3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c.md
         - name: 3e701664-cc46-49e4-b356-1a7ac6500998
           href: azure/3e701664-cc46-49e4-b356-1a7ac6500998.md
-        - name: 3ee373a-62fa-4fc6-b11f-9627d5b4a73d
-          href: azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d.md
         - name: 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d
           href: azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d.md
         - name: 418a1ee4-ca76-4b38-b4b3-8cca25417a6c
@@ -1320,6 +1318,8 @@
           href: azure/54cd93cb-c60e-43b7-bbee-686a2b241794.md
         - name: 56412014-bafe-474e-95b4-ebfea106a167
           href: azure/56412014-bafe-474e-95b4-ebfea106a167.md
+        - name: 574ae729-b842-4cbb-a767-ab68edc0d51b
+          href: azure/574ae729-b842-4cbb-a767-ab68edc0d51b.md
         - name: 5971c986-9d39-409c-a6f8-1385b1f690ef
           href: azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md
         - name: 597cc93d-8951-4f62-b549-eca97ba5c042
@@ -1376,6 +1376,8 @@
           href: azure/74ef25ab-3685-446c-aa43-4e9cc251ed62.md
         - name: 77b31e8c-65d0-484d-a72f-9404ec9dfcfa
           href: azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md
+        - name: 797368c8-e08a-40c8-8967-687093a723c9
+          href: azure/797368c8-e08a-40c8-8967-687093a723c9.md
         - name: 79d7af39-4f57-4e95-adaf-ec8ff756d0df
           href: azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df.md
         - name: 7a483472-4f1b-4c75-bff3-7a48dae227dc

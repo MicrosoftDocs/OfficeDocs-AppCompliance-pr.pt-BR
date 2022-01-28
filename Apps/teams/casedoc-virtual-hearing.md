@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Audiência Virtual do Casedoc, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ffb0964fddc025b6fd661a87d505f8560ad84ce5
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 07119c707f97b9e1c47beaf49a0977cbdfb727fb
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62197928"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62253847"
 ---
 # <a name="casedoc-virtual-hearing"></a>Audiência virtual do Casedoc
 
@@ -165,22 +165,22 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| AppCatalog.ReadWrite.All | delegado | Para adicionar o aplicativo do catálogo de aplicativos a uma reunião |
->| Calendars.ReadWrite | delegado | Para poder assinar atualizações de reunião |
->| Calendars.ReadWrite | aplicação | Para poder criar a reunião |
->| Directory.ReadWrite.All | aplicação | Para poder criar o grupo associado à reunião |
->| Files.ReadWrite.All | delegado | Para permitir que os usuários carreguem o arquivo no grupo de reunião |
->| Files.ReadWrite.All | aplicação | Permite que o aplicativo carregue dados de reunião no grupo de reunião |
->| Group.ReadWrite.All | aplicação | Para habilitar o aplicativo a criar um grupo associado a uma reunião |
->| MailboxSettings.Read | aplicação | Para permitir que o aplicativo leia o Fuso Horário dos usuários |
->| OnlineMeetings.ReadWrite | delegado | Para habilitar a marcação do tipo de reunião |
->| TeamsAppInstallation.ReadForUser | delegado | Para adicionar o aplicativo à reunião |
->| TeamsAppInstallation.ReadWriteSelfForUser | delegado | Para adicionar o aplicativo à reunião |
->| TeamsTab.Create | delegado | Para adicionar o aplicativo à reunião |
->| TeamsTab.ReadWrite.All | delegado | Para adicionar o aplicativo à reunião |
->| User.Read.All | aplicação | Permite que o aplicativo leia perfis de usuário sem um usuário assinado |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| AppCatalog.ReadWrite.All | delegado | Para adicionar o aplicativo do catálogo de aplicativos a uma reunião | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Calendars.ReadWrite | delegado | Para poder assinar atualizações de reunião | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Calendars.ReadWrite | aplicação | Para poder criar a reunião | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Directory.ReadWrite.All | aplicação | Para poder criar o grupo associado à reunião | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Files.ReadWrite.All | delegado | Para permitir que os usuários carreguem o arquivo no grupo de reunião | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Files.ReadWrite.All | aplicação | Permite que o aplicativo carregue dados de reunião no grupo de reunião | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| Group.ReadWrite.All | aplicação | Para habilitar o aplicativo a criar um grupo associado a uma reunião | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| MailboxSettings.Read | aplicação | Para permitir que o aplicativo leia o Fuso Horário dos usuários | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| OnlineMeetings.ReadWrite | delegado | Para habilitar a marcação do tipo de reunião | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsAppInstallation.ReadForUser | delegado | Para adicionar o aplicativo à reunião | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsAppInstallation.ReadWriteSelfForUser | delegado | Para adicionar o aplicativo à reunião | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsTab.Create | delegado | Para adicionar o aplicativo à reunião | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| TeamsTab.ReadWrite.All | delegado | Para adicionar o aplicativo à reunião | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| User.Read.All | aplicação | Permite que o aplicativo leia perfis de usuário sem um usuário assinado | [3e701664-cc46-49e4-b356-1a7ac6500998](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
 
 >Este aplicativo não tem APIs adicionais.
 

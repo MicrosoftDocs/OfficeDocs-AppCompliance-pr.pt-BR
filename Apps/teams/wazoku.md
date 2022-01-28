@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Wazoku, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c82905cc10dbebbc914b9025cb146d05c4473716
-ms.sourcegitcommit: e756bf7bcad1b37cad74f3330b9885595fd6ab04
+ms.openlocfilehash: 1c9aef70ea9958b82698b54fca43ebf2853f5d73
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62222512"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251537"
 ---
 # <a name="wazoku"></a>Wazoku
 
@@ -168,13 +168,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| email | delegado | Single Sign On |
->| offline_access | delegado | Single Sign On |
->| openid | delegado | Single Sign On |
->| perfil | delegado | Single Sign On |
->| User.Read | delegado | Single Sign On |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
+>| email | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
+>| offline_access | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
+>| openid | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
+>| perfil | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
 
 >Este aplicativo não tem APIs adicionais.
 

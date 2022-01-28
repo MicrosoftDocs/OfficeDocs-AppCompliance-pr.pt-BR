@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | Assinatura de email para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9c2b253c143a1efa249f0e4ea14387664bb68834
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 32899c4a9734ef0afb996e7f609c042cba1172c0
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155076"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254177"
 ---
 # <a name="officeatwork--mail-signature-for-outlook"></a>officeatwork | Assinatura de email para Outlook
 
@@ -168,12 +168,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | delegado | Habilitar a login |
->| perfil | delegado | Habilitar a login |
->| offline_access | delegado | Habilitar a assinatura automatizada para hosts Office antigos |
->| User.Read | delegado | Habilitar a exibição de usuário de acesso, habilitar assinaturas de email dinâmicas com propriedades de usuário |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | delegado | Habilitar a exibição de usuário de acesso, habilitar assinaturas de email dinâmicas com propriedades de usuário | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
+>| offline_access | delegado | Habilitar a assinatura automatizada para hosts Office antigos | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
+>| openid | delegado | Habilitar a login | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
+>| perfil | delegado | Habilitar a login | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
 
 >Este aplicativo não tem APIs adicionais.
 

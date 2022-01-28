@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Navegador da Empresa, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c120830bc278323ad592ed71dd29a3c3dc54e6a5
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 13ab94d8c86c280c6d6b932d1db65180a7a6caa2
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147090"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254897"
 ---
 # <a name="company-navigator"></a>Navegador da Empresa
 
@@ -168,22 +168,22 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| email | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
->| Calendars.Read | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
->| Calendars.Read.Shared | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
->| Files.Read.All | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
->| Mail.Read | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
->| Mail.Read.Shared | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
->| Mail.ReadBasic.All | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
->| offline_access | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
->| openid | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
->| People.Read | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
->| perfil | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
->| User.Read | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
->| User.ReadBasic.All | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
->| Sites.Read.All | delegado | ler dados do usuário relevantes para usar o caso do aplicativo |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Calendars.Read.Shared | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Files.Read.All | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Mail.Read | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Mail.Read.Shared | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Mail.ReadBasic.All | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| People.Read | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Sites.Read.All | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| User.Read | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| User.ReadBasic.All | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| email | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| offline_access | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| openid | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| perfil | delegado | ler dados do usuário relevantes para usar o caso do aplicativo | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
 
 >Este aplicativo não tem APIs adicionais.
 

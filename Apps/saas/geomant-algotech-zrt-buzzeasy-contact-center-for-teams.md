@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Centro de Contatos do Buzzeasy para Teams, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f80ef944b502b1bacb5253f917154747761ee6ae
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: b73e059f9b820a1f3f880a4bd4237649121b9c5b
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147156"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251309"
 ---
 # <a name="buzzeasy-contact-center-for-teams"></a>Central de Contatos do Buzzeasy para Teams
 
@@ -166,16 +166,16 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Mail.ReadWrite | aplicação | Permite que o agente leia/escreva uma caixa de correio específica (compartilhada) por meio da interface do usuário do Agente. (Pode ser filtrado para caixa de correio específica.) |
->| Mail.Send | aplicação | Enviando emails em nome de uma caixa de correio compartilhada. |
->| User.Read | delegado | Entrar e ler o perfil do usuário |
->| Presence.Read.All | delegado | Exibir status de agente/usuário para outros agentes, sincronizar com o estado do agente. |
->| User.Read.All | delegado | Exibir informações AAD usuário em interfaces de administrador/usuário |
->| User.ReadBasic.All | delegado | Exibir informações AAD usuário em interfaces de administrador/usuário |
->| User.Read | delegado | Exibir a lista de usuários para administradores para registro. |
->| Mail.Send | aplicação | Enviar convite em nome de um usuário de serviço. |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Mail.Send | aplicação | Enviar convite em nome de um usuário de serviço. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| Presence.Read.All | delegado | Exibir status de agente/usuário para outros agentes, sincronizar com o estado do agente. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| User.Read | delegado | Exibir a lista de usuários para administradores para registro. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| User.Read.All | delegado | Exibir informações AAD usuário em interfaces de administrador/usuário | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| User.ReadBasic.All | delegado | Exibir informações AAD usuário em interfaces de administrador/usuário | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| Mail.ReadWrite | aplicação | Permite que o agente leia/escreva uma caixa de correio específica (compartilhada) por meio da interface do usuário do Agente. (Pode ser filtrado para caixa de correio específica.) | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
+>| Mail.Send | aplicação | Enviando emails em nome de uma caixa de correio compartilhada. | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
 
 >Este aplicativo não tem APIs adicionais.
 

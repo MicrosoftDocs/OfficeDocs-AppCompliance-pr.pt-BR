@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Ideias Amplas - Software de Inovação, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 55c7276aaf212bf8b6dbc2861f47711af0b0ea6b
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: d5bbf1d032d5537dab0775522f80d83a472db661
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155108"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251197"
 ---
 # <a name="wide-ideas---innovation-software"></a>Ideias amplas - Software de Inovação
 
@@ -166,14 +166,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| TeamsAppInstallation.ReadWriteForTeam | delegado | permite que o Centro de Administração de Ideias Amplas leia, instale, atualize e desinstale Teams aplicativos em equipes que o usuário integrado pode acessar.  |
->| Channel.Create | delegado | permite que o Centro de Administração de Ideias Amplas crie canal em qualquer equipe, em nome do usuário integrado.  |
->| TeamsTab.Create | delegado |  permite que o Centro de Administração de Ideias Amplas crie guias em qualquer equipe Microsoft Teams, em nome do usuário in-loca. |
->| Directory.Read.All | delegado | permite que o Centro de Administração de Ideias Amplas leia dados em sua organização&#8217;diretório, como usuários, grupos e aplicativos |
->| Group.Read.All | delegado | permite que o Centro de Administração de Ideias Amplas liste grupos e leia suas propriedades e todas as associações de grupo em nome do usuário associado |
->| User.Read | delegado | permite que os usuários entre no Centro de Administração de Ideias Amplas e permite que o aplicativo leia o perfil dos usuários assinados.  |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.Create | delegado | permite que o Centro de Administração de Ideias Amplas crie canal em qualquer equipe, em nome do usuário integrado.  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
+>| Directory.Read.All | delegado | permite que o Centro de Administração de Ideias Amplas leia dados em sua organização&#8217;diretório, como usuários, grupos e aplicativos | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
+>| Group.Read.All | delegado | permite que o Centro de Administração de Ideias Amplas liste grupos e leia suas propriedades e todas as associações de grupo em nome do usuário associado | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
+>| TeamsAppInstallation.ReadWriteForTeam | delegado | permite que o Centro de Administração de Ideias Amplas leia, instale, atualize e desinstale Teams aplicativos em equipes que o usuário integrado pode acessar.  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
+>| TeamsTab.Create | delegado |  permite que o Centro de Administração de Ideias Amplas crie guias em qualquer equipe Microsoft Teams, em nome do usuário in-loca. | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
+>| User.Read | delegado | permite que os usuários entre no Centro de Administração de Ideias Amplas e permite que o aplicativo leia o perfil dos usuários assinados.  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
 
 >Este aplicativo não tem APIs adicionais.
 

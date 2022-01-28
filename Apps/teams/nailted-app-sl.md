@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Empresa, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 917e4443182e1370b3b1dfdd1d73905dc28fe3b6
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 6db76106efdc61b69c911ef889242f2fca72fc90
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200504"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254844"
 ---
 # <a name="nailted"></a>Nailted
 
@@ -168,13 +168,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | aplicação | Usado para ler informações dos usuários |
->| email | aplicação | Acessar emails de funcionários para sincronize-los |
->| offline_access | aplicação | Usamos essa permissão para ter acesso à api quando o usuário não estiver online para poder sincronizar funcionários e instalar o aplicativo |
->| TeamsAppInstallation.ReadWriteForUser | aplicação | O usuário pode selecionar para quais usuários deseja instalar o aplicativo. Portanto, usamos essa permissão para instalar o aplicativo |
->| Directory.Read.All | aplicação | Usado para acessar os grupos. |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.Read.All | aplicação | Usado para acessar os grupos. | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| TeamsAppInstallation.ReadWriteForUser | aplicação | O usuário pode selecionar para quais usuários deseja instalar o aplicativo. Portanto, usamos essa permissão para instalar o aplicativo | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| User.Read.All | aplicação | Usado para ler informações dos usuários | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| email | aplicação | Acessar emails de funcionários para sincronize-los | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| offline_access | aplicação | Usamos essa permissão para ter acesso à api quando o usuário não estiver online para poder sincronizar funcionários e instalar o aplicativo | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
 
 >Este aplicativo não tem APIs adicionais.
 

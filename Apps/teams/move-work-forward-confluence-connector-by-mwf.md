@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Conector de Confluência pela MWF, suas políticas de tratamento de dados, Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f7ac53112ad08bdb90ae3601c13074d541d63428
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 21c6474d5b21537a4ff04705fd16b760d6698b73
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144739"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251027"
 ---
 # <a name="confluence-connector-by-mwf"></a>Conector de Confluência por MWF
 
@@ -166,13 +166,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Channel.ReadBasic.All | delegado | Para obter a lista de canais para páginas de configuração para enviar notificações em um canal. |
->| Teams.ReadBasic.All | delegado | Para obter a lista de equipes para páginas de configuração para enviar notificações em um canal de uma equipe. |
->| email | delegado | Para aprimorar o mapeamento de contas entre a Microsoft e a Atlassian |
->| TeamsAppInstallation.ReadForTeam | delegado | Para descobrir as equipes onde o Conector de Confluência está instalado |
->| User.Read | delegado | Para ler informações básicas do usuário |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | delegado | Para obter a lista de canais para páginas de configuração para enviar notificações em um canal. | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| Teams.ReadBasic.All | delegado | Para obter a lista de equipes para páginas de configuração para enviar notificações em um canal de uma equipe. | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| TeamsAppInstallation.ReadForTeam | delegado | Para descobrir as equipes onde o Conector de Confluência está instalado | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| User.Read | delegado | Para ler informações básicas do usuário | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| email | delegado | Para aprimorar o mapeamento de contas entre a Microsoft e a Atlassian | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
 
 >Este aplicativo não tem APIs adicionais.
 

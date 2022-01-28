@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Vibra, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6ddc6d09c23b109752073c291f220e43b1522617
-ms.sourcegitcommit: 2aa786d5bf1f93ef63b80f04bff99434d2246d92
+ms.openlocfilehash: 9dd45dc3aa49fdf3dbe518b610186231b1cde907
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62157241"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254607"
 ---
-# <a name="vibe"></a>Vibração
+# <a name="vibe"></a>Vibe
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Informações fornecidas pela Vibração Inc para a Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Vibração |
+| Nome do aplicativo | Vibe |
 | ID | WA200001721 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Vibração Inc |
+| Nome da empresa de parceiro | Vibe Inc |
 | Site da empresa | [https://vibe.us](https://vibe.us) |
 | Termos de uso do aplicativo | [https://vibe.us/term/](https://vibe.us/term/) |
 | Funcionalidade principal do aplicativo | Colaboração em tempo real em uma tela ilimitada com fácil acesso aos arquivos OneDrive de dados. |
@@ -168,9 +168,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | delegado | Obter informações básicas de identidade do usuário, como nome, email, imagem de perfil. |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | delegado | Obter informações básicas de identidade do usuário, como nome, email, imagem de perfil. | [71a7c2ef-6e5f-4d3d-8665-119a2bef0035](https://docs.microsoft.com/microsoft-365-app-certification/azure/71a7c2ef-6e5f-4d3d-8665-119a2bef0035) |
 
 >Este aplicativo não tem APIs adicionais.
 

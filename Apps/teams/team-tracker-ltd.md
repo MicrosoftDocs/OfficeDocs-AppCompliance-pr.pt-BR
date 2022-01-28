@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Team Tracker, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c37c717b65e51dc0b6d561cef9e4efe3d3c95c32
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: cdb4c7dea2bfc330ddccbe58ad1f8405a9a419ef
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144548"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62252199"
 ---
 # <a name="team-tracker"></a>Team Tracker
 
@@ -167,14 +167,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calendars.ReadWrite | delegado | Depois que um usuário define suas atividades para as próximas semanas, o Team Tracker atualiza o calendário dos usuários e sua disponibilidade com base em sua seleção.  |
->| email | delegado | Usado para verificar o email dos usuários |
->| MailboxSettings.Read | delegado | Usado para obter o timezone para criar eventos de calendário |
->| openid | delegado | Permite que os usuários entre com sua Office 365 de usuário |
->| perfil | delegado | Verifica as informações básicas dos usuários em relação ao perfil |
->| User.Read | delegado | Verifica as informações dos usuários em relação ao perfil |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | delegado | Depois que um usuário define suas atividades para as próximas semanas, o Team Tracker atualiza o calendário dos usuários e sua disponibilidade com base em sua seleção.  | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| MailboxSettings.Read | delegado | Usado para obter o timezone para criar eventos de calendário | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| User.Read | delegado | Verifica as informações dos usuários em relação ao perfil | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| email | delegado | Usado para verificar o email dos usuários | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| openid | delegado | Permite que os usuários entre com sua Office 365 de usuário | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| perfil | delegado | Verifica as informações básicas dos usuários em relação ao perfil | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
 
 >Este aplicativo não tem APIs adicionais.
 

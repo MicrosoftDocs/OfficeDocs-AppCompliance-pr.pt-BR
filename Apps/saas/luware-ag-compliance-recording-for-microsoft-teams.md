@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Registro de Conformidade da Luware para Microsoft Teams, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b253e66f445af383eaf7401e128645f1ea9373be
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: ffbb28358351271e0028f0b9deec76e3ca6c6a8c
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147283"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251307"
 ---
 # <a name="luware-compliance-recording-for-microsoft-teams"></a>Luware Compliance Recording for Microsoft Teams
 
@@ -166,19 +166,19 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calls.Initiate.All | aplicação | Teams gravação |
->| Calls.InitiateGroupCall.All | aplicação | Teams gravação |
->| Calls.JoinGroupCall.All | aplicação | Teams gravação |
->| Calls.JoinGroupCallasGuest.All | aplicação | Teams gravação |
->| Calls.AccessMedia.All | aplicação | Teams gravação |
->| OnlineMeetings.Read.All | aplicação | Teams gravação |
->| OnlineMeetings.ReadWrite.All | aplicação | Teams gravação |
->| Group.Read.All | aplicação | Teams gravação |
->| GroupMember.Read.All | aplicação | Teams gravação |
->| User.Read.All | aplicação | Teams gravação |
->| User.Read | delegado | Single Sign on |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calls.AccessMedia.All | aplicação | Teams gravação | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| Calls.Initiate.All | aplicação | Teams gravação | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| Calls.InitiateGroupCall.All | aplicação | Teams gravação | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| Calls.JoinGroupCall.All | aplicação | Teams gravação | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| Calls.JoinGroupCallasGuest.All | aplicação | Teams gravação | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| Group.Read.All | aplicação | Teams gravação | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| GroupMember.Read.All | aplicação | Teams gravação | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| OnlineMeetings.Read.All | aplicação | Teams gravação | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| OnlineMeetings.ReadWrite.All | aplicação | Teams gravação | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| User.Read | delegado | Single Sign on | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| User.Read.All | aplicação | Teams gravação | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
 
 >Este aplicativo não tem APIs adicionais.
 

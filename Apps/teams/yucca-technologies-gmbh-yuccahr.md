@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a yuccaHR, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f9a2ad6cf983a58d761c1c97563a9f564c9667d8
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: f5e1475a1db71c51ac58a6bc062ce9e4b17e8ab3
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147099"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251487"
 ---
 # <a name="yuccahr"></a>yuccaHR
 
@@ -168,14 +168,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calendars.ReadWrite | aplicação | Para agendar um evento de calendário para as partes correspondentes |
->| Channel.ReadBasic.All | aplicação | Exibir nomes de canais no aplicativo Web |
->| ChannelMember.Read.All | aplicação | Para corresponder as pessoas em um canal ou com outros canais |
->| Group.Read.All | aplicação | Exibir nomes de equipe no aplicativo Web |
->| MailboxSettings.Read | aplicação | Para obter o idioma desejado pelos usuários, ao enviar mensagens |
->| User.Read.All | aplicação | O email é necessário para gerar cartões adaptáveis para permitir que os usuários conversem diretamente |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | aplicação | Para agendar um evento de calendário para as partes correspondentes | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| Channel.ReadBasic.All | aplicação | Exibir nomes de canais no aplicativo Web | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| ChannelMember.Read.All | aplicação | Para corresponder as pessoas em um canal ou com outros canais | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| Group.Read.All | aplicação | Exibir nomes de equipe no aplicativo Web | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| MailboxSettings.Read | aplicação | Para obter o idioma desejado pelos usuários, ao enviar mensagens | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| User.Read.All | aplicação | O email é necessário para gerar cartões adaptáveis para permitir que os usuários conversem diretamente | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
 
 >Este aplicativo não tem APIs adicionais.
 
