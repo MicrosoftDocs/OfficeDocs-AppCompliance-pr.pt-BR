@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Webdashboard, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4928353bf4e7070246e21badd19314479a4ced02
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 291cd9b5852273bb1c10336ee4efb697f7dead1c
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200507"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62256597"
 ---
 # <a name="webdashboard"></a>Webdashboard
 
@@ -165,9 +165,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.ReadWrite.All | aplicação | Login único para o usuário |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.ReadWrite.All | aplicação | Login único para o usuário | [38b3f4fa-4229-4d51-9937-6e4515650c8c](https://docs.microsoft.com/microsoft-365-app-certification/azure/38b3f4fa-4229-4d51-9937-6e4515650c8c) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,18 @@
 title: Informações do aplicativo para o officeatwork | Verificador para Office por officeatwork
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2021
+ms.date: 07/08/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
+certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | Verificador para Office, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1e09b3b38504bd308e3cde8945ecc776ae5c2ea0
-ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 205d603a6971fd6ab28851d27ba6853a8a75d1c0
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/18/2021
-ms.locfileid: "61066499"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255317"
 ---
 # <a name="officeatwork--verifier-for-office"></a>officeatwork | Verificador para Office
 
@@ -29,15 +29,18 @@ ms.locfileid: "61066499"
 
 Informações fornecidas pelo officeatwork à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | officeatwork - Verificador para Office |
 | ID | WA200000133 |
 | Office 365 clientes com suporte | Word 2016 ou posterior no Mac, Word 2016 ou posterior em Windows, Word na Web, Word no iPad |
 | Nome da empresa de parceiro | officeatwork |
-| URL do site do parceiro | [https://www.officeatwork.com](https://www.officeatwork.com) |
-| URL da Política de Privacidade | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
-| URL dos Termos de Uso | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
+| Site da empresa | [https://www.officeatwork.com](https://www.officeatwork.com) |
+| Termos de uso do aplicativo | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
+| Funcionalidade principal do aplicativo | Uma maneira simples de verificar e atualizar automaticamente seu documento. Este aplicativo/add-in se conecta ao Microsoft Graph e ao Azure AD. |
+| Localização da sede da empresa | Suíça |
+| Página de informações do aplicativo | |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,93 +52,131 @@ Informações fornecidas pelo officeatwork à Microsoft:
 
 Essas informações foram fornecidas pelo officeatwork sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
-
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
-
->| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Files.Read | delegado | Nenhum dado é armazenado. | OneDrive: para poder ler os arquivos do usuário in-lo como | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| Files.Read.All | delegado | Nenhum dado é armazenado. | Teams: para ler todos os arquivos aos que o usuário inscreveu tem acesso. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| Sites.Read.All | delegado | Nenhum dado é armazenado. | SharePoint Online: para habilitar a leitura de dados do SharePoint Online, o usuário inscreveu tem acesso. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| User.Read | delegado | Nenhum dado é armazenado. | Entrar: para habilitar o aplicativo officeatwork para ler as propriedades básicas do usuário. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| offline_access | delegado | Nenhum dado é armazenado. | Entrar: para habilitar a logona automática por meio de tokens de atualização, como sem, os usuários teriam que entrar manualmente sempre que iniciarem o aplicativo officeatwork. Esse escopo só é necessário para aplicativos host não habilitados para SSO. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| openid | delegado | Nenhum dado é armazenado. | Sing-In: para permitir que os usuários entre no aplicativo do officeatwork com sua conta organizacional e/ou da Microsoft. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| perfil | delegado | Nenhum dado é armazenado. | Sing-In: para mostrar o usuário de assinatura no aplicativo officeatwork. Isso ajuda a garantir/confirmar ao usuário qual conta foi usada para entrar no aplicativo officeatwork. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
-
-#### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
-
-Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
-
->| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
->|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| APIs REST do SharePoint | Não |  |  |  |  |
-
-#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
-
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
-
->Não serviços Microsoft não são usados.
-
-
-
-#### <a name="telemetry-data"></a>Dados de telemetria
-
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
-
->Sim, os eventos incluem oid e tenantId e são enviados para o Azure AppInsights. Os eventos são excluídos automaticamente após 90 dias. Se um cliente desejar excluir esses dados, ele poderá usar o link fornecido na declaração de privacidade para iniciar a exclusão desses dados.
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
-
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
-
->Os dados de configurações de aplicativos (sinalizadores de recursos, nome de exibição da organização, tenantId, lista de administradores oids) são armazenados em uma instância do Azure Cosmos DB (um arquivo por locatário). Os arquivos DB são criptografados e o acesso é restrito aos engenheiros de trabalho do officeatwork selecionados e à equipe de suporte. O cliente pode acessar e manipular os dados de configurações do aplicativo officeatwork usando o Aplicativo Web do Centro de Administração.
-
-#### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
-
-Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
-
->Não
+| **Information** | **Resposta** |
+|:----------------|:-------------|
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
+| Quais dados são armazenados em seus bancos de dados? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Você tem um processo estabelecido de locação e descarte de dados? |  |
+| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
+| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
+::: zone pivot="security"
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35755' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35755" target="_blank">Exibir em uma nova guia</a>
+| **Information** | **Resposta** |
+|:----------------|:-------------|
+| Você realiza testes de penetração anual no aplicativo? | Sim |
+| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? |  |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? |  |
+| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? |  |
+| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? |  |
+| Seu ambiente tem algum software ou sistemas operacionais sem suporte? |  |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? |  |
+| Você tem um firewall instalado no limite de rede externo? |  |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? |  |
+| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? |  |
+| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? |  |
+| Autenticação multifator (MFA) habilitada para: |  |
+| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? |  |
+| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? |  |
+| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? |  |
+| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | |
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? |  |
+| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? |  |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="identity"
+::: zone pivot="compliance"
 
-### <a name="identity-information"></a>Informações de identidade
-
-Essas informações foram fornecidas pelo officeatwork sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
-
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
-| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
+| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | Sim |
+| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Sim |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Sim |
+| Data de certificação SOC1 mais recente |  2020-11-01 |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Sim |
+| Qual certificação do SOC 2 você atingiu? |   |
+| Data de certificação SOC2 mais recente |  2020-11-01 |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Sim |
+| Data de certificação SOC3 mais recente |  2020-11-01 |
+| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
+| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Sim |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Sim |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Sim |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Sim |
+| O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Sim |
+| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | Sim |
+| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
+| O aplicativo está em conformidade com o NIST 800-171? |  |
+| O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **Information** | **Resposta** |
+|:----------------|:-------------|
+| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? |  |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? |  |
+| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? |  |
+| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? |  |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? |  |
+| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? |  |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? |  |
+| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? |  |
+| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? |  |
+| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? |  |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **Information** | **Resposta** |
+|:----------------|:-------------|
+| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | falso |
+| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
 | Listar os tipos de políticas com suporte | Padrões de segurança |
-| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
-| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Não |
-| Seu aplicativo dá suporte a multi-enancy? | Sim |
-| Seu aplicativo tem um cliente confidencial? | Sim |
-| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
-| Seu aplicativo expõe alguma APIs da Web? | Não |
-| Seu aplicativo usa APIs de visualização? | Não |
-| Seu aplicativo usa APIs preteridas? | Não |
+| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) |  |
+| Seu aplicativo armazena alguma credencial no código? |  |
+| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
+
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.Read | delegado | Nenhum dado é armazenado. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Files.Read.All | delegado | Nenhum dado é armazenado. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Sites.Read.All | delegado | Nenhum dado é armazenado. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| User.Read | delegado | Nenhum dado é armazenado. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| offline_access | delegado | Nenhum dado é armazenado. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| openid | delegado | Nenhum dado é armazenado. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| perfil | delegado | Nenhum dado é armazenado. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+
+>Este aplicativo não tem APIs adicionais.
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para HeyTaco!, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3f1b475d0f571986427fe3c7339a70fc056419d0
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 5dcb471219ef00a758b62fd289135169dc865115
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200514"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257777"
 ---
 # <a name="heytaco"></a>HeyTaco!
 
@@ -166,11 +166,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | delegado | Permitir que as pessoas entre nas guias |
->| perfil | delegado | Para armazenar informações de perfil de usuários |
->| email | delegado | Para organizar dados do usuário |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| email | delegado | Para organizar dados do usuário | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| openid | delegado | Permitir que as pessoas entre nas guias | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| perfil | delegado | Para armazenar informações de perfil de usuários | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
 
 >Este aplicativo não tem APIs adicionais.
 

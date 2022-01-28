@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para GuinéPig, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 752d59918d5c9f08ee83525b8aa4f790213b6354
-ms.sourcegitcommit: 2aa786d5bf1f93ef63b80f04bff99434d2246d92
+ms.openlocfilehash: dbd872c0f919c8141d41771470546a5b75ae56b0
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62157240"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257817"
 ---
-# <a name="guineapig"></a>GuinéPig
+# <a name="guineapig"></a>GuineaPig
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Informações fornecidas pela GuinéPig Health Technologies AB para a Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | GuinéPig |
+| Nome do aplicativo | GuineaPig |
 | ID | WA200003486 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | GuinéPig Health Technologies AB |
+| Nome da empresa de parceiro | Tecnologias de saúde Ab da VpnPig |
 | Site da empresa | [https://guineapig.app](https://guineapig.app) |
 | Termos de uso do aplicativo | [https://www.guineapig.app/terms-and-conditions](https://www.guineapig.app/terms-and-conditions) |
 | Funcionalidade principal do aplicativo | GuinéPig ajuda sua equipe a se manter saudável, feliz e envolvida com aulas de fitness ao vivo sob demanda e &amp; pausas curtas do trabalho. |
@@ -168,9 +168,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | delegado | Estamos usando User.Read para ler informações como o nome do usuário para usá-la em nossos Chats e Guias, etc. Visite uma https://www.guineapig.app/privacy-policy descrição detalhada. |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | delegado | Estamos usando User.Read para ler informações como o nome do usuário para usá-la em nossos Chats e Guias, etc. Visite uma https://www.guineapig.app/privacy-policy descrição detalhada. | [d6a2090f-1447-456b-bd5f-121e4efd8c89](https://docs.microsoft.com/microsoft-365-app-certification/azure/d6a2090f-1447-456b-bd5f-121e4efd8c89) |
 
 >Este aplicativo não tem APIs adicionais.
 

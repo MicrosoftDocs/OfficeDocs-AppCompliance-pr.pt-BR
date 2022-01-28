@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Cloud Hub, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7e0998c86e38039879a13ee79185732287166619
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 6e982e29c1ba09097f3c2415aae5e1f644a87c5a
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147257"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259829"
 ---
 # <a name="cloud-hub"></a>hub de Nuvem
 
@@ -168,12 +168,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | aplicação | Usado para selecionar uma pessoa para a quem você deseja enviar um Email. |
->| TeamSettings.Read.All | aplicação | Usado para selecionar uma equipe em que você deseja postar uma mensagem do Centro de Mensagens. |
->| Mail.Send | aplicação | Usado para enviar emails diretamente do aplicativo para canais ou pessoas individuais.  |
->| Channel.ReadBasic.All | aplicação | Usado para selecionar um canal em que você deseja postar uma mensagem do Centro de Mensagens. |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | aplicação | Usado para selecionar um canal em que você deseja postar uma mensagem do Centro de Mensagens. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| Mail.Send | aplicação | Usado para enviar emails diretamente do aplicativo para canais ou pessoas individuais.  | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| TeamSettings.Read.All | aplicação | Usado para selecionar uma equipe em que você deseja postar uma mensagem do Centro de Mensagens. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| User.Read.All | aplicação | Usado para selecionar uma pessoa para a quem você deseja enviar um Email. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Proteção de Funcionários pela DSMN8, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0d5922201878b8c53a9bba95b67653f14d215cde
-ms.sourcegitcommit: 2e80b3cd0079ac50da5e6d878bbef6744e4659f2
+ms.openlocfilehash: 73ac07bb877ab8a387c7182bce3dbf1a4f2d93da
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62235768"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259607"
 ---
-# <a name="employee-advocacy-by-dsmn8"></a>Advocacy de funcionários por DSMN8
+# <a name="employee-advocacy-by-dsmn8"></a>Consultoria de Funcionários por DSMN8
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Informações fornecidas pelo DSMN8 à Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Advocacy de funcionários por DSMN8 |
+| Nome do aplicativo | Consultoria de Funcionários por DSMN8 |
 | ID | WA200003677 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | DSMN8 |
@@ -168,9 +168,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | ambos | Para ler o título do trabalho, o nome, o sobrenome e os dados de email durante o processo de entrada para criar um perfil em nosso aplicativo |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | ambos | Para ler o título do trabalho, o nome, o sobrenome e os dados de email durante o processo de entrada para criar um perfil em nosso aplicativo | [3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c) |
 
 >Este aplicativo não tem APIs adicionais.
 

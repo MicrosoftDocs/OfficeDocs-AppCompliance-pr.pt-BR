@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Tikit, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b198e4d613b2b25aa6dffc2f385ccba225f1801b
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 69551224968b55d4e3731f02b0578157a15bd038
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147133"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259826"
 ---
 # <a name="tikit"></a>Tikit
 
@@ -169,17 +169,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Directory.Read.All | delegado | Usado para ler atribuições de função para RBAC no aplicativo |
->| Directory.AccessAsUser.All | delegado | Usado para ler atribuições de função para RBAC no aplicativo |
->| email | delegado | Permissões de logon |
->| Group.Read.All | ambos | Usado para ler atribuições de função para RBAC no aplicativo |
->| openid | delegado | Logon |
->| perfil | delegado | Logon |
->| User.Read | delegado | Logon |
->| User.Read.All | aplicação | Logon |
->| User.ReadBasic.All | delegado | Logon |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | delegado | Usado para ler atribuições de função para RBAC no aplicativo | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| Directory.Read.All | delegado | Usado para ler atribuições de função para RBAC no aplicativo | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| Group.Read.All | ambos | Usado para ler atribuições de função para RBAC no aplicativo | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.Read | delegado | Logon | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.Read.All | aplicação | Logon | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.ReadBasic.All | delegado | Logon | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| email | delegado | Permissões de logon | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| openid | delegado | Logon | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| perfil | delegado | Logon | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 
 >Este aplicativo não tem APIs adicionais.
 

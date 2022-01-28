@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o WorkJam Time Clock, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 40b47509d1322100551009adc636c60eb654bd91
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: e831ca59c0fed743a1a485a6aa52edbfca1dab89
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147142"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259187"
 ---
-# <a name="workjam-time-clock"></a>WorkJam Time Clock
+# <a name="workjam-time-clock"></a>Horário do WorkJam
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Informações fornecidas pelo WorkJam à Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | WorkJam Time Clock |
+| Nome do aplicativo | Horário do WorkJam |
 | ID | WA200003620 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | WorkJam |
@@ -169,10 +169,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| TeamsActivity.Send | aplicação | Para enviar notificações ao usuário |
->| User.Read | delegado | Para fazer SSO para o usuário e apresentá-lo com as informações certas |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| TeamsActivity.Send | aplicação | Para enviar notificações ao usuário | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf) |
+>| User.Read | delegado | Para fazer SSO para o usuário e apresentá-lo com as informações certas | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf) |
 
 >Este aplicativo não tem APIs adicionais.
 

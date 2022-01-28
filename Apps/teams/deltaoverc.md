@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para DELTAoverC, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d83278a0e59f9abc33b495274e47abf10e1e2116
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 80273bfba0db86b443e84b46343ab6b04a264ac8
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147198"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259677"
 ---
 # <a name="deltaoverc"></a>DELTAoverC
 
@@ -166,14 +166,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Group.Read.All | ambos | Ler todos os grupos |
->| Group.ReadWrite.All | ambos | Ler e gravar todos os grupos |
->| User.Read | delegado | Entrar e ler o perfil do usuário |
->| User.Read.All | aplicação | Ler o perfil completo de todos os usuários |
->| User.ReadWrite | delegado | Acesso de leitura e gravação ao perfil de usuário |
->| User.ReadWrite.All | ambos | Ler e gravar todos os perfis completos de usuários |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Group.Read.All | ambos | Ler todos os grupos | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| Group.ReadWrite.All | ambos | Ler e gravar todos os grupos | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.Read.All | aplicação | Ler o perfil completo de todos os usuários | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.ReadWrite | delegado | Acesso de leitura e gravação ao perfil de usuário | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.ReadWrite.All | ambos | Ler e gravar todos os perfis completos de usuários | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
 
 >Este aplicativo não tem APIs adicionais.
 

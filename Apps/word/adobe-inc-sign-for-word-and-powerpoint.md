@@ -7,18 +7,18 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Adobe Sign for Word e PowerPoint, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6afec434b0a3c7e77cb4c6895d9417c0531e9377
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 36a43fe0fe7b9d00275cb8f403d8acb396cb291a
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60545871"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255387"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Adobe Sign for Word and PowerPoint
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Última atualização pelo desenvolvedor em: 20 de outubro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 15 de outubro de 2021</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381155" target="_blank">Exibir no AppSource</a>
 
@@ -28,15 +28,19 @@ ms.locfileid: "60545871"
 
 Informações fornecidas pelo Adobe Inc. à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Adobe Sign for Word and PowerPoint |
 | ID | WA104381155 |
 | Office 365 clientes com suporte | Word 2016 ou posterior no Mac, Word na Web, Word 2013 Service Pack 1 ou posterior no Windows, PowerPoint 2016 ou posterior no Mac, PowerPoint na Web, PowerPoint 2013 Service Pack 1 ou posterior no Windows |
 | Nome da empresa de parceiro | Adobe Inc. |
-| URL do site do parceiro | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
-| URL da Política de Privacidade | [https://www.adobe.com/privacy/policies-business/esign.html](https://www.adobe.com/privacy/policies-business/esign.html) |
-| URL dos Termos de Uso | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
+| Site da empresa | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
+| Termos de uso do aplicativo | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
+| Funcionalidade principal do aplicativo | Mantenha fluxos de trabalho de assinatura de documentos em movimento rápido ao adicionar o Adobe Sign para Office. Agora, mesmo Office aplicativos como o Word e PowerPoint, você pode assinar documentos, enviá-los para assinaturas e aprovações legalmente vinculadas e &#8212; tudo com a solução de sinal eletrônica preferencial da Microsoft. |
+| Localização da sede da empresa | Estados Unidos da América |
+| Página de informações do aplicativo | |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS, Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,84 +52,130 @@ Informações fornecidas pelo Adobe Inc. à Microsoft:
 
 Essas informações foram fornecidas pelo Adobe Inc. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
-
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
-
->| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Mail.ReadWrite | delegado | Para preencher o documento anexado, remetente e emails de destinatário e conteúdo de mensagens de emails para o Adobe assinar para enviar para assinatura. Isso é para economizar o tempo do usuário para retipo esses campos no Adobe Sign. Depois que um contrato é assinado, redigimos automaticamente um novo email para o usuário enviar um email para informar aos destinatários que a transação foi feita. | O Adobe Sign salvará os anexos como arquivos temporários, que têm um vencimento de 24 horas. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| People.Read | delegado | Para preenchimento automático do endereço de email na experiência Enviar para assinatura, digitando algumas letras iniciais, não exige que os usuários &quot; &quot; digitem todos os emails. | O Adobe Sign armazenará apenas emails de destinatários e displayName nos contratos. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| User.Read | delegado | Para ler o perfil do usuário e corresponder seu perfil (basicamente, seu email e userId) ao nosso banco de dados para que eles possam usar o Adobe Sign. | Para ler o perfil do usuário e corresponder seu perfil (basicamente, seu email e userId) ao nosso banco de dados para que eles possam usar o Adobe Sign. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| offline_access | delegado | Para atualizar o token de acesso, quando o atual expirar. Por exemplo, quando o usuário está em uma janela de envio para assinatura e a deixa inativa por muito tempo, precisamos atualizar um novo token quando o usuário &quot; &quot; estiver ativo. | Para atualizar o token de acesso, quando o atual expirar. Por exemplo, quando o usuário está em uma janela de envio para assinatura e a deixa inativa por muito tempo, precisamos atualizar um novo token quando o usuário &quot; &quot; estiver ativo. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| openid | delegado | Email e UserId. Para entrar no usuário para garantir seu consentimento para a permissão de usar o aplicativo Adobe Sign.  | Email é o identificador exclusivo para usuários no Adobe Sign. Armazenamos a ID de email para que possamos mapear todas as atividades desse usuário para seu registro do Adobe Sign.  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
-
-
-#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
-
-Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
-
->Não serviços Microsoft não são usados.
-
-
-
-#### <a name="telemetry-data"></a>Dados de telemetria
-
-Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
-
->Nossos logs contêm informações suficientes para identificar e corrigir problemas do cliente. Os logs são mantidos por 90 dias e o acesso é restrito. Nosso armazenamento de banco de dados tem informações de identificação com hashed para autenticação enquanto o usuário está offline. A política de retenção de banco de dados está a 30 dias do último uso
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
-
-Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
-
->Não temos nenhuma interação do administrador do cliente em nosso sistema para Microsoft Teams aplicativo.
-
-#### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
-
-Os humanos estão envolvidos na revisão ou análise de dados OII (informações de identificação organizacional) coletados ou armazenados por esse aplicativo?
-
->Sim
+| **Information** | **Resposta** |
+|:----------------|:-------------|
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
+| Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| O aplicativo dá suporte ao TLS 1.1 ou superior? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
+| Quais dados são armazenados em seus bancos de dados? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Você tem um processo estabelecido de locação e descarte de dados? |  |
+| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
+| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
+::: zone pivot="security"
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/11641' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/11641" target="_blank">Exibir em uma nova guia</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="identity"
-
-### <a name="identity-information"></a>Informações de identidade
-
-Essas informações foram fornecidas pela Adobe Inc. sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
-
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
-| Seu aplicativo usa o MSAL (Biblioteca de Autenticação da Microsoft) para autenticação? | Não |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
-| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
-| As permissões registradas estaticamente do seu aplicativo refletem com precisão as permissões que seu aplicativo solicitará dinamicamente e incrementalmente? | Sim |
-| Seu aplicativo dá suporte a multi-enancy? | Sim |
-| Seu aplicativo tem um cliente confidencial? | Não |
-| Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
-| Seu aplicativo expõe alguma APIs da Web? | Sim |
-| Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
-| Seu aplicativo usa APIs de visualização? | Não |
-| Seu aplicativo usa APIs preteridas? | Não |
+| Você realiza testes de penetração anual no aplicativo? | Sim |
+| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Não |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | TraditionalAntiMalware |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? |  |
+| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? |  |
+| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? |  |
+| Seu ambiente tem algum software ou sistemas operacionais sem suporte? |  |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? |  |
+| Você tem um firewall instalado no limite de rede externo? |  |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? |  |
+| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? |  |
+| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? |  |
+| Autenticação multifator (MFA) habilitada para: |  |
+| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? |  |
+| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? |  |
+| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? |  |
+| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | |
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? |  |
+| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? |  |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
+::: zone pivot="compliance"
+
+| **Information** | **Resposta** |
+|:----------------|:-------------|
+| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | Sim |
+| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Não |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Não |
+| Data de certificação SOC1 mais recente |   |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Sim |
+| Qual certificação do SOC 2 você atingiu? |   |
+| Data de certificação SOC2 mais recente |  2020-11-24 |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
+| Data de certificação SOC3 mais recente | |
+| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
+| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Sim |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
+| O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Sim |
+| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | Sim |
+| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | Não |
+| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
+| O aplicativo está em conformidade com o NIST 800-171? |  |
+| O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **Information** | **Resposta** |
+|:----------------|:-------------|
+| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? |  |
+| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? |  |
+| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? |  |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? |  |
+| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? |  |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? |  |
+| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? |  |
+| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? |  |
+| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? |  |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **Information** | **Resposta** |
+|:----------------|:-------------|
+| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | falso |
+| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) |  |
+| Seu aplicativo armazena alguma credencial no código? |  |
+| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
+
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Mail.ReadWrite | delegado | Para preencher o documento anexado, remetente e emails de destinatário e conteúdo de mensagens de emails para o Adobe assinar para enviar para assinatura. Isso é para economizar o tempo do usuário para retipo esses campos no Adobe Sign. Depois que um contrato é assinado, redigimos automaticamente um novo email para o usuário enviar um email para informar aos destinatários que a transação foi feita. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| People.Read | delegado | Para preenchimento automático do endereço de email na experiência Enviar para assinatura, digitando algumas letras iniciais, não exige que os usuários &quot; &quot; digitem todos os emails. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| User.Read | delegado | Para ler o perfil do usuário e corresponder seu perfil (basicamente, seu email e userId) ao nosso banco de dados para que eles possam usar o Adobe Sign. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| offline_access | delegado | Para atualizar o token de acesso, quando o atual expirar. Por exemplo, quando o usuário está em uma janela de envio para assinatura e a deixa inativa por muito tempo, precisamos atualizar um novo token quando o usuário &quot; &quot; estiver ativo. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| openid | delegado | Email e UserId. Para entrar no usuário para garantir seu consentimento para a permissão de usar o aplicativo Adobe Sign.  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+
+>Este aplicativo não tem APIs adicionais.
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+

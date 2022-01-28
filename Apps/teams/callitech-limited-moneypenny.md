@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Moneypenny, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3d181c2bf833bb9aed4b5b557bb25190249da25a
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: f40e36c1025e03a250505be381ff811dce0aa95b
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200498"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255817"
 ---
 # <a name="moneypenny"></a>Moneypenny
 
@@ -168,10 +168,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calls.Initiate.All | aplicação | Para fazer uma chamada para um usuário Teams por meio de um Bot |
->| Calls.AccessMedia.All | aplicação | Para transmitir mídia do Bot para o usuário Teams usuário |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calls.AccessMedia.All | aplicação | Para transmitir mídia do Bot para o usuário Teams usuário | [8277a51c-3ad6-446c-9b7e-e3f6e27257c1](https://docs.microsoft.com/microsoft-365-app-certification/azure/8277a51c-3ad6-446c-9b7e-e3f6e27257c1) |
+>| Calls.Initiate.All | aplicação | Para fazer uma chamada para um usuário Teams por meio de um Bot | [8277a51c-3ad6-446c-9b7e-e3f6e27257c1](https://docs.microsoft.com/microsoft-365-app-certification/azure/8277a51c-3ad6-446c-9b7e-e3f6e27257c1) |
 
 >Este aplicativo não tem APIs adicionais.
 

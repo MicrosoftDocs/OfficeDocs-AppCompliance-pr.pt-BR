@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Lembrar, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c65bd6433972a7014c6fa8853d2f5651891db5f7
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 71d37c38b4cc3bdcc92182b4063061146d34c0dd
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144898"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255027"
 ---
 # <a name="remind"></a>Remind
 
@@ -42,7 +42,7 @@ Informações fornecidas pela 88 Ventures Limited à Microsoft:
 | Localização da sede da empresa | Hong-Kong |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outro |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Other |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,9 +165,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Directory.Read.All | delegado | Usado quando um administrador procura usuários para atribuí-los a licenças. O uso desse recurso é totalmente opcional e não é necessário durante o uso normal do aplicativo. |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.Read.All | delegado | Usado quando um administrador procura usuários para atribuí-los a licenças. O uso desse recurso é totalmente opcional e não é necessário durante o uso normal do aplicativo. | [88546d4f-9973-4716-98e4-cd181c04bc2d](https://docs.microsoft.com/microsoft-365-app-certification/azure/88546d4f-9973-4716-98e4-cd181c04bc2d) |
 
 >Este aplicativo não tem APIs adicionais.
 

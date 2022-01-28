@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Webex Call, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 279a78d5f756eaca6f8aba2135d8a6a168fd7d3c
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 1f693fc58e86a361a67b6bf12c67ed76b3e89f93
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200552"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259797"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -165,10 +165,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Chat.ReadBasic | delegado | Ler membros do canal do teams para que o usuário possa selecionar neles |
->| Contacts.Read | delegado | Permite que o usuário crie discagem rápida a partir da lista de contatos |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Chat.ReadBasic | delegado | Ler membros do canal do teams para que o usuário possa selecionar neles | [9a7ce614-bdc8-4640-aaea-d8c626c58966](https://docs.microsoft.com/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966) |
+>| Contacts.Read | delegado | Permite que o usuário crie discagem rápida a partir da lista de contatos | [9a7ce614-bdc8-4640-aaea-d8c626c58966](https://docs.microsoft.com/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966) |
 
 >Este aplicativo não tem APIs adicionais.
 

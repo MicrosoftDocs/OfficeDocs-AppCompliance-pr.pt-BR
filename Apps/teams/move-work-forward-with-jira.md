@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Move Work Forward with Jira, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 218c70925805938ff5f241e9df42b667eba81353
-ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
+ms.openlocfilehash: 44ed4ba1ac4dbfd4d311083701a21a1cee846f24
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62176954"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255687"
 ---
 # <a name="move-work-forward-with-jira"></a>Avançar o trabalho com Jira
 
@@ -168,14 +168,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Channel.Create | delegado | Criar um canal de discussão para um problema Jira |
->| Channel.ReadBasic.All | delegado | Ler canais de uma equipe para enviar notificações para |
->| email | delegado | para mapear contas da Microsoft e do Atlassian |
->| Team.ReadBasic.All | delegado | Para ler as equipes a ser exibidas na página de configuração. Para notificações de Jira. |
->| TeamsAppInstallation.ReadForTeam | delegado | Verifique se o Aplicativo está instalado em uma equipe. |
->| User.Read | delegado | Para aprimorar a experiência do usuário. |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.Create | delegado | Criar um canal de discussão para um problema Jira | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Channel.ReadBasic.All | delegado | Ler canais de uma equipe para enviar notificações para | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Team.ReadBasic.All | delegado | Para ler as equipes a ser exibidas na página de configuração. Para notificações de Jira. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| TeamsAppInstallation.ReadForTeam | delegado | Verifique se o Aplicativo está instalado em uma equipe. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| User.Read | delegado | Para aprimorar a experiência do usuário. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| email | delegado | para mapear contas da Microsoft e do Atlassian | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
 
 >Este aplicativo não tem APIs adicionais.
 

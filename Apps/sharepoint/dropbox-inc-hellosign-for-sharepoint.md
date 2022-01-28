@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o HelloSign para SharePoint, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 187d36812dcae346b487d289d1924463610d5050
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 4f35be46f70d1efd5bb0cdbd030f78cc82c67e23
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200528"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62256807"
 ---
 # <a name="hellosign-for-sharepoint"></a>HelloSign para SharePoint
 
@@ -167,11 +167,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | delegado | Para obter o email do usuário |
->| Sites.ReadWrite.All | aplicação | Para carregar arquivos assinados eletronicamente de volta SharePoint |
->| Files.ReadWrite.All | aplicação | Para carregar arquivos assinados eletronicamente de volta SharePoint |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.ReadWrite.All | aplicação | Para carregar arquivos assinados eletronicamente de volta SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
+>| Sites.ReadWrite.All | aplicação | Para carregar arquivos assinados eletronicamente de volta SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
+>| User.Read | delegado | Para obter o email do usuário | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
 
 >Este aplicativo não tem APIs adicionais.
 

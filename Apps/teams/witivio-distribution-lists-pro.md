@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para listas de distribuição Pro, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b5b28c507c192b692ed66743c47851a847694039
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 7b9e7dfb19e16df4388dde7664cb71724df963de
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155067"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259227"
 ---
 # <a name="distribution-lists-pro"></a>Listas de distribuição Pro
 
@@ -168,15 +168,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| email | delegado | Microsoft Teams SSO |
->| openid | delegado | Microsoft Teams SSO |
->| offline_access | delegado | Microsoft Teams SSO |
->| User.Read | delegado | Microsoft Teams SSO |
->| perfil | delegado | Microsoft Teams SSO |
->| Presence.Read.All | delegado | Presença CHecking de pessoas em uma lista |
->| Group.Read.All | delegado | Listar lista de distribuição |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Group.Read.All | delegado | Listar lista de distribuição | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
+>| Presence.Read.All | delegado | Presença CHecking de pessoas em uma lista | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
+>| User.Read | delegado | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
+>| email | delegado | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
+>| offline_access | delegado | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
+>| openid | delegado | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
+>| perfil | delegado | Microsoft Teams SSO | [4cda80df-64fe-4961-8d73-cbe8d5ad0724](https://docs.microsoft.com/microsoft-365-app-certification/azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724) |
 
 >Este aplicativo não tem APIs adicionais.
 
