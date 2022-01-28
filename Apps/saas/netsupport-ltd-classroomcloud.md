@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Classroom.cloud, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d58df70912c5c9eedfca92e67f9f202960b7a23b
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 4e7fce8118f65a9fb01153baa2ccef8a1282df3c
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147116"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260810"
 ---
 # <a name="classroomcloud"></a>Classroom.cloud
 
@@ -168,14 +168,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Team.ReadBasic.All | aplicação | Usado para Teams integração do classroom.cloud para fornecer monitoramento de segurança online de chats de alunos. |
->| Channel.ReadBasic.All | aplicação | Usado para Teams integração do classroom.cloud para fornecer monitoramento de segurança online de chats de alunos. |
->| ChannelMessage.Read.All | aplicação | Usado para Teams integração do classroom.cloud para fornecer monitoramento de segurança online de chats de alunos. |
->| ChannelSettings.Read.All | aplicação | Usado para Teams integração do classroom.cloud para fornecer monitoramento de segurança online de chats de alunos. |
->| Chat.Read.All | aplicação | Usado para Teams integração do classroom.cloud para fornecer monitoramento de segurança online de chats de alunos. |
->| Directory.Read.All | aplicação | Usado para Teams integração do classroom.cloud para fornecer monitoramento de segurança online de chats de alunos. |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | aplicação | Usado para Teams integração do classroom.cloud para fornecer monitoramento de segurança online de chats de alunos. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| ChannelMessage.Read.All | aplicação | Usado para Teams integração do classroom.cloud para fornecer monitoramento de segurança online de chats de alunos. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| ChannelSettings.Read.All | aplicação | Usado para Teams integração do classroom.cloud para fornecer monitoramento de segurança online de chats de alunos. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| Chat.Read.All | aplicação | Usado para Teams integração do classroom.cloud para fornecer monitoramento de segurança online de chats de alunos. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| Directory.Read.All | aplicação | Usado para Teams integração do classroom.cloud para fornecer monitoramento de segurança online de chats de alunos. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| Team.ReadBasic.All | aplicação | Usado para Teams integração do classroom.cloud para fornecer monitoramento de segurança online de chats de alunos. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
 
 >Este aplicativo não tem APIs adicionais.
 

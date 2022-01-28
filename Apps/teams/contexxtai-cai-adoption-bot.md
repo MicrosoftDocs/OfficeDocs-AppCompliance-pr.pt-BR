@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para C.AI Bot de Adoção, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f37bafaac714c26c948b4f2264c4d139f5863bf5
-ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
+ms.openlocfilehash: 6c7c8d1b083cab351889117aa58316332161f466
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61785598"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62261347"
 ---
 # <a name="cai-adoption-bot"></a>Bot de Adoção C.AI
 
@@ -29,7 +29,7 @@ ms.locfileid: "61785598"
 
 Informações fornecidas pelo contexxt.ai para a Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Bot de Adoção C.AI |
 | ID | WA200002633 |
@@ -37,7 +37,7 @@ Informações fornecidas pelo contexxt.ai para a Microsoft:
 | Nome da empresa de parceiro | contexxt.ai |
 | Site da empresa | [https://contexxt.ai](https://contexxt.ai) |
 | Termos de uso do aplicativo | [https://contexxt.ai/terms-of-use](https://contexxt.ai/terms-of-use) |
-| Funcionalidade principal do aplicativo | Ao usar todo o pacote de adoção, incl. &quot; Personal Coaching Booster , a análise do mecanismo de análise (C.AI Análise de Adoção) por meio Graph dados de uso anonimizados da &quot; API Exchange &amp; Teams. Com base nos dados, o algoritmo bot (C.AI Bot de Adoção) detecta situações específicas de aprendizado que enviam dicas rápidas &amp; para o usuário. Por exemplo, se um usuário nunca adicionou um assunto a uma postagem de Teams, o bot assume, o usuário não sabe como fazer isso e envia materiais de aprendizagem personalizados. Sem o Analytics, ele será apenas um &amp; Bot de Q A. |
+| Funcionalidade principal do aplicativo | Ao usar todo o pacote de adoção, incl. &quot; Personal Coaching Booster&quot;, a análise do mecanismo de análise (C.AI Análise de Adoção) por meio Graph dados de uso anonimizados da API Exchange &amp; Teams. Com base nos dados, o algoritmo bot (C.AI Bot de Adoção) detecta situações específicas de aprendizado que enviam dicas rápidas &amp; para o usuário. Por exemplo, se um usuário nunca adicionou um assunto a uma postagem de Teams, o bot assume, o usuário não sabe como fazer isso e envia materiais de aprendizagem personalizados. Sem o Analytics, ele será apenas um Bot de QA&amp;. |
 | Localização da sede da empresa | Alemanha |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
@@ -52,7 +52,7 @@ Informações fornecidas pelo contexxt.ai para a Microsoft:
 
 Essas informações foram fornecidas pelo contexxt.ai sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
@@ -72,7 +72,7 @@ Essas informações foram fornecidas pelo contexxt.ai sobre como esse aplicativo
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você realiza testes de penetração anual no aplicativo? | Não |
 | O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Não |
@@ -102,7 +102,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="compliance"
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
 | O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
@@ -131,7 +131,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="privsection"
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? |  |
 | O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? |  |
@@ -150,7 +150,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
@@ -161,7 +161,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? |  |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | aplicação | Disponibilidade do usuário podendo enviar dicas no momento certo e não durante os horários de foco, por exemplo | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| ChannelMessage.Read.All | aplicação | Microsoft Teams metadados de canal, como Private ou not or amount of conversations per channel to analyze usage of Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Chat.Read.All | aplicação | Microsoft Teams metadados de chat, como se uma mensagem foi curtida ou quantos chats de grupo e 1:1 existem para analisar o uso de Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Directory.Read.All | aplicação | ID do objeto do usuário para poder enviar dicas para especificar o usuário posteriormente. | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Group.Read.All | aplicação | Microsoft Teams metadados, como quantidade de Teams e canais para analisar o uso de Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Mail.Read | aplicação | A Microsoft Exchange metadados, como a quantidade de emails e emails de grupo versus 1:1 para analisar o uso de Exchange (em comparação com Teams) | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| User.Read.All | aplicação | Microsoft Teams metadados de chat e conversa, como se um usuário fosse mencionado para analisar o uso de Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
 
 >Este aplicativo não tem APIs adicionais.
 

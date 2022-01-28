@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para EmailNotes para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 841b0ad019cda22d01b5990b8aabf80931ffe130
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: a09c055a42f69c7174773835e8c83b99e83f0013
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147125"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62261527"
 ---
 # <a name="emailnotes-for-outlook"></a>EmailNotes para Outlook
 
@@ -167,13 +167,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calendars.ReadWrite | delegado | Para ler conteúdo do assunto , corpo, conteúdo de anexos anexados à solicitação de reunião  |
->| Mail.ReadWrite | delegado | Para ler conteúdo do assunto, corpo, conteúdo de anexos anexados ao item de email  |
->| openid | delegado | Requisito para permissão de SSO (sign-on único) |
->| perfil | delegado | Requisito para permissão de SSO (sign-on único) |
->| User.Read | delegado | Isso é para ler dados do usuário para verificar informações de licenciamento para sua conta de domínio/usuário |
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | delegado | Para ler conteúdo do assunto , corpo, conteúdo de anexos anexados à solicitação de reunião  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| Mail.ReadWrite | delegado | Para ler conteúdo do assunto, corpo, conteúdo de anexos anexados ao item de email  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| User.Read | delegado | Isso é para ler dados do usuário para verificar informações de licenciamento para sua conta de domínio/usuário | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| openid | delegado | Requisito para permissão de SSO (sign-on único) | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| perfil | delegado | Requisito para permissão de SSO (sign-on único) | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
 
 >Este aplicativo não tem APIs adicionais.
 
