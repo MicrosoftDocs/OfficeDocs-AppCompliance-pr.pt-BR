@@ -1,48 +1,48 @@
 ---
-title: Informações de aplicativo para conferências e/ou por conferências e/ou
+title: Informações do aplicativo para Objetivo por Objetivo
 ms.author: elmalova
 author: elenamalova
 ms.date: 01/31/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para conferências e/ou, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Aimful, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1d69349a195c896b1373200395425022cb20d421
+ms.openlocfilehash: ec08bb1f91c332cd0cde36d199566a4b06cc4816
 ms.sourcegitcommit: 58f40775dd4adee3a6037a74e4ccd98823f4832c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 02/01/2022
-ms.locfileid: "62303726"
+ms.locfileid: "62306057"
 ---
-# <a name="conferences-io"></a>Conferences i/o
+# <a name="aimful"></a>Objetivo
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 27 de janeiro de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 28 de janeiro de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/8d4f0254-9b00-4a74-a351-b6d6cd7fccef" target="_blank">Exibir no Teams store</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001867" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/7da7691c-e47a-479e-9bb2-cda07cffd0e5" target="_blank">Exibir no Teams store</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003698" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas por conferências e/ou para a Microsoft:
+Informações fornecidas por Aimful para a Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Conferences i/o |
-| ID | WA200001867 |
+| Nome do aplicativo | Objetivo |
+| ID | WA200003698 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Conferences i/o |
-| Site da empresa | [https://www.conferences.io](https://www.conferences.io) |
-| Termos de uso do aplicativo | [https://teamsapp.conferences.io/eula/](https://teamsapp.conferences.io/eula/) |
-| Funcionalidade principal do aplicativo | &amp;QA de audiência, sondagem e muito mais de conferências e/ou |
+| Nome da empresa de parceiro | Objetivo |
+| Site da empresa | [https://aimful.io](https://aimful.io) |
+| Termos de uso do aplicativo | [https://aimful.io/terms-and-conditions/](https://aimful.io/terms-and-conditions/) |
+| Funcionalidade principal do aplicativo | Objetivo incentiva a transformação de cultura de reunião em sua equipe ou em sua empresa  |
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws, GCP |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,17 +52,19 @@ Informações fornecidas por conferências e/ou para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas por conferências e/ou sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas por Aimful sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
+| Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
+| Quais dados são armazenados em seus bancos de dados? | Eventos em calendário, email do usuário e zona de tempo |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Irlanda |
+| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
+| Por quanto tempo os dados são mantidos após o término da conta? | Menos de 60 dias |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
 | Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
 
@@ -78,7 +80,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você realiza testes de penetração anual no aplicativo? | Sim |
 | O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | TraditionalAntiMalware, ApplicationControls |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | TraditionalAntiMalware |
 | Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
 | Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Sim |
 | Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Sim |
@@ -93,8 +95,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | N/D |
 | Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
 | Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim|
-| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
-| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Sim |
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Não |
+| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Não |
 | Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
 | Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
@@ -106,9 +108,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
-| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
+| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | Não |
+| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Não |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Não |
 | Data de certificação SOC1 mais recente |   |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
 | Qual certificação do SOC 2 você atingiu? | |
@@ -117,14 +119,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Data de certificação SOC3 mais recente | |
 | Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Não |
 | O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Não |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | N/D |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Não |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
 | O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
-| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
-| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | Sim |
-| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
-| O aplicativo está em conformidade com o NIST 800-171? | N/D |
+| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | Não |
+| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | Não |
+| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | Não |
+| O aplicativo está em conformidade com o NIST 800-171? | Não |
 | O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -137,15 +139,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
 | O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Sim |
-| URL da Política de Privacidade | https://www.conferences.io/privacy |
+| URL da Política de Privacidade | https://aimful.io/policy/ |
 | O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
 | O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
 | Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
 | O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
 | O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
 | O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Sim |
-| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
-| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
+| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Não |
+| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -155,16 +157,21 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Não |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
-| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? |  |
+| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | Sim |
 | Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
-| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Não |
+| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Sim |
 | Seu aplicativo armazena alguma credencial no código? | Não |
-| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
+| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
 
->Este aplicativo não usa o Microsoft Graph.
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+
+>|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | delegado | Acesso a eventos de calendário | [93544582-de9c-42a0-baa5-df3d25e9bd48](https://docs.microsoft.com/microsoft-365-app-certification/azure/93544582-de9c-42a0-baa5-df3d25e9bd48) |
+>| MailboxSettings.Read | delegado | Acessar o timezone do usuário | [93544582-de9c-42a0-baa5-df3d25e9bd48](https://docs.microsoft.com/microsoft-365-app-certification/azure/93544582-de9c-42a0-baa5-df3d25e9bd48) |
 
 >Este aplicativo não tem APIs adicionais.
 

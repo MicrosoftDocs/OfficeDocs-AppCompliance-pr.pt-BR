@@ -2,17 +2,17 @@
 title: Informações da ID do Aplicativo do Azure para 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/28/2022
+ms.date: 01/31/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9.
-ms.openlocfilehash: 7057f40d22042c8924cd06567b1c2e216a87aa06
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: cac6993cc4ac1e0d87f29843c4796ab33c1a5b1f
+ms.sourcegitcommit: 58f40775dd4adee3a6037a74e4ccd98823f4832c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62258397"
+ms.lasthandoff: 02/01/2022
+ms.locfileid: "62304086"
 ---
 # <a name="azure-app-id-5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9"></a>ID do Aplicativo do Azure: 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9
 
