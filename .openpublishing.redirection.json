@@ -91,6 +91,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003698.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/aimful",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/7da7691c-e47a-479e-9bb2-cda07cffd0e5.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/aimful",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200003492.md",
       "redirect_url": "/microsoft-365-app-certification/teams/alloy-software-self-service-assistant",
       "redirect_document_id": false
@@ -1846,6 +1856,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/computertalk.ice-contact-center.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/computertalk-ice-contact-center",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002010.md",
       "redirect_url": "/microsoft-365-app-certification/sharepoint/iglobe-crm-add-ons",
       "redirect_document_id": false
@@ -3386,6 +3401,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/salestim.salestim.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/salestim",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200001393.md",
       "redirect_url": "/microsoft-365-app-certification/teams/salestim",
       "redirect_document_id": false
@@ -3393,11 +3413,6 @@
     {
       "source_path": "Apps/forward/589748de-ec98-4616-9063-e91c629bd1a4.md",
       "redirect_url": "/microsoft-365-app-certification/teams/salestim",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/salestim.salestim.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/salestim",
       "redirect_document_id": false
     },
     {
@@ -5403,6 +5418,11 @@
     {
       "source_path": "Apps/forward/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md",
       "redirect_url": "/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/93544582-de9c-42a0-baa5-df3d25e9bd48.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/93544582-de9c-42a0-baa5-df3d25e9bd48",
       "redirect_document_id": false
     },
     {
