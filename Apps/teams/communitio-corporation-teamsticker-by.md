@@ -2,18 +2,12 @@
 title: Informações de aplicativo para TeamSticker by Communitio by Communitio Corporation
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/27/2022
+ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o TeamSticker by Communitio, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: 'Todas as informações de segurança e conformidade disponíveis para o TeamSticker by Communitio, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 252d783969b65bce7ef3b1754b9b7439c1f19764
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
-ms.translationtype: MT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253831"
 ---
 # <a name="teamsticker-by-communitio"></a>TeamSticker por Communitio
 
@@ -36,8 +30,8 @@ Informações fornecidas pela Communitio Corporation à Microsoft:
 | ID | WA200000894 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Communitio Corporation |
-| Site da empresa | [https://www.teamsuite.biz](https://www.teamsuite.biz) |
-| Termos de uso do aplicativo | [https://www.teamsuite.biz/terms/](https://www.teamsuite.biz/terms/) |
+| Site da empresa | [https://communitio.jp](https://communitio.jp) |
+| Termos de uso do aplicativo | [https://teamsuite.biz/terms](https://teamsuite.biz/terms) |
 | Funcionalidade principal do aplicativo | Este é um cartão de agradecimento digital que pode ser enviado da conversa. |
 | Localização da sede da empresa | Japão |
 | Página de informações do aplicativo | |
