@@ -2,17 +2,11 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/02/2022
+ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 57bfb51c886ff0d39754e6f851f91bc92ee43dcc
-ms.sourcegitcommit: c02a78e87cd408ded50ad143138502ce1f1d883e
-ms.translationtype: HT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62337591"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -157,6 +151,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [CRM ForceManager](./tritium-software-sl-forcemanager-crm.md) | Tritium Software SL | **✓** |  |
 | [FormMachines](./enterprise-digital-machines-formmachines.md) | Enterprise Digital Machines | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Freehand pela InVision](./invisionapp-inc-freehand-by-invision.md) | InVisionApp, Inc. | **✓** |  |
+| [Futureworks](./futureworks-as.md) | Futureworks AS | **✓** |  |
 | [Gameinar](./heuristix-gameinar.md) | Heuristix | **✓** |  |
 | [Geekbot](./geekbot-ltd.md) | Geekbot Ltd | **✓** |  |
 | [Gensys](./gensys-solutions-bv.md) | Soluções Gensys BV | **✓** |  |
@@ -200,6 +195,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Kakeai](./kakeai.md) | KAKEAI | **✓** |  |
 | [Ferramenta Kanban](./shore-labs-kanban-tool.md) | Laboratórios de Costa | **✓** |  |
 | [Kaptain Carlos](./askrai-kaptain-charlie.md) | askR.ai | **✓** |  |
+| [Karma](./sliday-ltd-karma.md) | Sliday LTD | **✓** |  |
 | [Kazoo](./kazoo.md) | Kazoo | **✓** |  |
 | [Keepass Pro](./witivio-keepass-pro.md) | Witivio | **✓** |  |
 | [Kippa](./klippas-technologies-inc-kippa.md) | KLIPPAS Technologies inc. | **✓** |  |
@@ -261,6 +257,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [OfficeAmp](./anaek-inc-officeamp.md) | Anaek Inc | **✓** |  |
 | [Trabalho Híbrido do OfficeRnD](./officernd-hybrid-work.md) | OfficeRnD | **✓** |  |
 | [OfficeSpace](./officespace-software.md) | OfficeSpace Software | **✓** |  |
+| [OfficeSuite](./windstream-officesuite.md) | Windstream | **✓** |  |
 | [Officevibe](./officevibe.md) | Officevibe | **✓** |  |
 | [OLIVE VLE](./olivegroup-olive-vle.md) | OliveGroup | **✓** |  |
 | [Onluyen](./edmicro-onluyen.md) | Edmicro | **✓** |  |
@@ -313,6 +310,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [ Espaços Seguros](./ecare-vault-inc-safe-spaces.md) | eCare Vault Inc. | **✓** |  |
 | [Sailpoint](./sailpoint-technologies-inc.md) | SailPoint Technologies, Inc. | **✓** |  |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
+| [Schabi](./schule-am-bildschirm-gmbh-schabi.md) | Schule am Bildschirm GmbH | **✓** |  |
 | [Dia Escolar](./school-day-helsinki-oy.md) | Dia Escolar em Helsinque Oy | **✓** |  |
 | [SEFOS](./meaplus-ab-sefos.md) | Meaplus AB | **✓** |  |
 | [SelfDrvn](./selfdrvn.md) | SelfDrvn | **✓** |  |
