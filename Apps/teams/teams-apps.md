@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/07/2022
+ms.date: 02/08/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 5ec8da5c62190b239f21acfd32a0d04fddd488cb
-ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
+ms.openlocfilehash: 75fde0de6b646be10c771fcec0b3c1ba43e84ceb
+ms.sourcegitcommit: 27afe4d564e72c28ea073e4b31801ad983aec173
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "62449245"
+ms.lasthandoff: 02/09/2022
+ms.locfileid: "62473592"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -153,6 +153,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Cinquenta](./fifty.md) | Cinquenta | **✓** |  |
 | [Arquivo Tecido](./storage-made-easy-file-fabric.md) | Armazenamento Facilitado | **✓** |  |
 | [Fireflies AI](./firefliesai-fireflies-ai.md) | Fireflies.ai | **✓** |  |
+| [Assistente de Firewall](./dewmaker-design-inc-firewall-assistant.md) | DewMaker Design, Inc. | **✓** |  |
 | [FireWatch](./infographics-uk-ltd-firewatch.md) | Infográficos UK Ltd. | **✓** |  |
 | [FloQast](./floqast.md) | FloQast | **✓** |  |
 | [Fond](./fond-technologies-inc.md) | Tecnologias Da Technologies, Inc. | **✓** |  |
