@@ -233,6 +233,8 @@
           href: teams/arrangr-inc.md
         - name: Asa
           href: teams/two-app-studio-pte-ltd-asa.md
+        - name: Asana
+          href: teams/asana.md
         - name: ASC Recording Insights
           href: teams/asc-technologies-ag-recording-insights.md
         - name: Assembly
@@ -385,6 +387,8 @@
           href: teams/degreed.md
         - name: DELTAoverC
           href: teams/deltaoverc.md
+        - name: Reservas de mesa
+          href: teams/tns-consulting-aps-desk-reservations.md
         - name: Desk365
           href: teams/kani-technologies-inc-desk365.md
         - name: Digiplein
@@ -571,6 +575,8 @@
           href: teams/klippas-technologies-inc-kippa.md
         - name: Klaxoon
           href: teams/klaxoon.md
+        - name: Klett
+          href: teams/ernst-klett-verlag-gmbh.md
         - name: Koan
           href: teams/koan-inc.md
         - name: KUDO
@@ -1167,6 +1173,8 @@
           href: saas/salestim.md
         - name: Selador de slides
           href: saas/officeatwork-slide-chooser.md
+        - name: Conector de Microsoft Teams Talkdesk
+          href: saas/talkdesk-inc-microsoft-teams-connector.md
         - name: Template Chooser
           href: saas/officeatwork-template-chooser.md
         - name: Navegador do Selador de Modelo
@@ -1218,6 +1226,8 @@
           href: azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf.md
         - name: 1064f7e4-a9e2-467d-8d42-f45cc59f145d
           href: azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md
+        - name: 10d8604b-e6ea-4c59-8414-aca1bf1ffda8
+          href: azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md
         - name: 12397cb1-c0e5-42ae-a5be-ca4084aeadd8
           href: azure/12397cb1-c0e5-42ae-a5be-ca4084aeadd8.md
         - name: 14cf575a-fae2-48e2-af39-e3448d3a48bb
@@ -1580,6 +1590,8 @@
           href: azure/c71a6f53-cf0c-426d-a826-cedae8b073f7.md
         - name: c859de61-8a6b-42e6-ba88-f639df33bc72
           href: azure/c859de61-8a6b-42e6-ba88-f639df33bc72.md
+        - name: c9b3645e-2695-46c5-970d-e06f5c74bcfa
+          href: azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa.md
         - name: cb657bc2-9910-4b9c-82a0-6f4f3a47006b
           href: azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md
         - name: cbc8bfef-8dd2-4714-ab18-18e15566b63e
