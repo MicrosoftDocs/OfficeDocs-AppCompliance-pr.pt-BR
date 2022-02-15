@@ -1,48 +1,48 @@
 ---
-title: Informações do aplicativo para MGR360 by MGR360
+title: Informações do aplicativo para OfficeTogether por OfficeTogether, Inc.
 ms.author: elmalova
 author: elenamalova
 ms.date: 02/14/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para MGR360, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o OfficeTogether, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c07df7dcf3d2554421b2c2d3c92dbaa73501076c
+ms.openlocfilehash: 60fecadc5f9a2fc186e997a8115cf197ee05a2c3
 ms.sourcegitcommit: 9905237eb3270d099820cbf413d64b7cc066dc7c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 02/15/2022
-ms.locfileid: "62808671"
+ms.locfileid: "62811731"
 ---
-# <a name="mgr360"></a>MGR360
+# <a name="officetogether"></a>OfficeTogether
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 7 de fevereiro de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 9 de setembro de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/a229e17d-d19a-403b-8ddf-fc44cf8d5462" target="_blank">Exibir no Teams store</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003329" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/d75e21dd-41a9-498d-8585-f96a516e8989" target="_blank">Exibir no Teams store</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003767" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo MGR360 para a Microsoft:
+Informações fornecidas pelo OfficeTogether, Inc. à Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | MGR360 |
-| ID | WA200003329 |
+| Nome do aplicativo | OfficeTogether |
+| ID | WA200003767 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | MGR360 |
-| Site da empresa | [https://mgr360.com](https://mgr360.com) |
-| Termos de uso do aplicativo | [https://mgr360.com/terms-and-conditions](https://mgr360.com/terms-and-conditions) |
-| Funcionalidade principal do aplicativo | O aplicativo para grandes líderes. Gerencie sua equipe&#8217;metas, tarefas, críticas e 1 a 1&#8230; tudo em um só lugar. |
+| Nome da empresa de parceiro | OfficeTogether, Inc. |
+| Site da empresa | [https://www.officetogether.com](https://www.officetogether.com) |
+| Termos de uso do aplicativo | [https://www.officetogether.com/terms-of-use/](https://www.officetogether.com/terms-of-use/) |
+| Funcionalidade principal do aplicativo | OfficeTogether é uma plataforma de agendamento e reserva do office. |
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,7 +52,7 @@ Informações fornecidas pelo MGR360 para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo MGR360 sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo OfficeTogether, Inc. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
@@ -60,11 +60,11 @@ Essas informações foram fornecidas pelo MGR360 sobre como esse aplicativo cole
 | Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
+| Quais dados são armazenados em seus bancos de dados? | Email do usuário, Teams ID do usuário, ID de locatário |
 | Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
+| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
+| Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
 | Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
 
@@ -78,25 +78,25 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você realiza testes de penetração anual no aplicativo? | Não |
-| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Não |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | ApplicationControls |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Não |
-| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Não |
-| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Não |
+| Você realiza testes de penetração anual no aplicativo? | Sim |
+| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | ApplicationControls, TraditionalAntiMalware |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
+| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Sim |
+| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Sim |
 | Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
-| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Não |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Sim |
 | Você tem um firewall instalado no limite de rede externo? | Sim |
 | Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
 | Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Sim |
 | As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Sim |
-| Autenticação multifator (MFA) habilitada para: | NoneOfTheAbove |
+| Autenticação multifator (MFA) habilitada para: | Credential, CodeRepositories, DNSManagement |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
-| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | N/D |
+| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | Não |
 | Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
 | Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim|
-| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Não |
-| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Não |
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
+| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Sim |
 | Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
 | Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
@@ -108,7 +108,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | Sim |
+| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
 | O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
 | Data de certificação SOC1 mais recente |   |
@@ -137,16 +137,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Não |
-| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Não |
+| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Sim |
+| URL da Política de Privacidade | https://www.officetogether.com/privacy-policy |
 | O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
 | O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
 | Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
 | O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
-| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? |  |
-| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? |  |
-| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? |  |
-| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? |  |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
+| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Sim |
+| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
+| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -169,19 +170,18 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | ambos | Dá suporte à capacidade de exibir e gravar eventos no calendário dos usuários  | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](https://docs.microsoft.com/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9) |
->| Directory.Read.All | ambos | Determinar quais salas de conferência estão disponíveis  | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](https://docs.microsoft.com/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9) |
->| Files.Read | ambos | Dá suporte à imagem de perfil | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](https://docs.microsoft.com/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9) |
->| Group.ReadWrite.All | ambos | Isso é para criar e colocar tarefas no grupo | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](https://docs.microsoft.com/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9) |
->| Mail.Read | ambos | Oferece suporte à capacidade de criar convites de calendário  | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](https://docs.microsoft.com/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9) |
->| MailboxSettings.ReadWrite | ambos | Permite que o aplicativo crie categorias para eventos de calendário | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](https://docs.microsoft.com/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9) |
->| Presence.Read.All | ambos | Ler informações de presença para usuários | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](https://docs.microsoft.com/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9) |
->| Tasks.ReadWrite.Shared | ambos | Ler e registrar as tarefas do usuário e as tarefas compartilhadas | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](https://docs.microsoft.com/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9) |
->| User.Read.All | ambos | Habilitar o aplicativo para ler um perfil completo de usuários para obter nome, email, título | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](https://docs.microsoft.com/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9) |
->| email | ambos | Permite que o aplicativo leia o endereço de email dos usuários  | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](https://docs.microsoft.com/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9) |
->| offline_access | ambos | Mantém o acesso aos dados  | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](https://docs.microsoft.com/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9) |
->| openid | ambos | Entrar usuários | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](https://docs.microsoft.com/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9) |
->| perfil | ambos | Exibir perfil básico e imagem de perfil dos usuários | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](https://docs.microsoft.com/microsoft-365-app-certification/azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9) |
+>| Calendars.ReadWrite | ambos | Usamos essa permissão para gerenciar calendários para funcionários, como sincronização de dias no escritório ou gerenciamento de salas de conferência. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
+>| Group.ReadWrite.All | aplicação | Para todos os usuários que vêm ao escritório, criamos uma equipe diária para os usuários conversarem e falarem sobre o escritório. Essa permissão é necessária para gerenciar  | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
+>| Presence.Read | delegado | Para sincronizar o status OfficeTogether de um funcionário para Teams. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
+>| Team.ReadBasic.All | aplicação | Usamos essa permissão para gerenciar equipes diárias criadas, como arquivamento delas. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
+>| Teams. Criar | aplicação | Para todos os usuários que vêm ao escritório, criamos uma equipe diária para os usuários conversarem e falarem sobre o escritório. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
+>| TeamsAppInstallation.ReadWriteSelfForUser.All | aplicação | Nosso aplicativo é um aplicativo pessoal. Depois de instalado em um único usuário em uma empresa, instalaremos automaticamente todos os usuários registrados do OfficeTogether na mesma empresa. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
+>| User.Read | delegado | SSO no email das equipes. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
+>| User.ReadWrite.All | aplicação | Consulte TeamsAppInstallation.ReadWriteSelfForUser.All. Para instalar o OfficeTogether para todos os usuários relevantes, examinaremos o diretório e corresponderemos aos usuários. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
+>| email | delegado | SSO no email das equipes. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
+>| offline_access | delegado | SSO no email das equipes. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
+>| openid | delegado | SSO no email das equipes. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
+>| perfil | delegado | SSO no email das equipes. | [86f76b8b-3355-4e40-a55a-8463a407a327](https://docs.microsoft.com/microsoft-365-app-certification/azure/86f76b8b-3355-4e40-a55a-8463a407a327) |
 
 >Este aplicativo não tem APIs adicionais.
 
