@@ -1876,6 +1876,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200001411.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/finstat-sro-hithorizons",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/2b492ea3-0727-4789-90d7-8e2079d46717.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/finstat-sro-hithorizons",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200000093.md",
       "redirect_url": "/microsoft-365-app-certification/teams/hive",
       "redirect_document_id": false
@@ -2046,13 +2056,13 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/17859280.iplannerpro.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/iglobe-iplanner-pro-office-365",
+      "source_path": "Apps/forward/WA104380464.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104380464.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
+      "source_path": "Apps/forward/17859280.iplannerpro.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/iglobe-iplanner-pro-office-365",
       "redirect_document_id": false
     },
     {
