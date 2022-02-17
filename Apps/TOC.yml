@@ -395,6 +395,8 @@
           href: teams/kani-technologies-inc-desk365.md
         - name: Digiplein
           href: teams/educatieve-uitgeversgroep-bv-digiplein.md
+        - name: Boards
+          href: teams/diligent-boards.md
         - name: Listas de distribuição Pro
           href: teams/witivio-distribution-lists-pro.md
         - name: do!book CB
@@ -896,7 +898,7 @@
         - name: SurveySparrow
           href: teams/surveysparrow-inc.md
         - name: Svava para Reuniões
-          href: teams/svava-ab-for-meetings.md
+          href: teams/svava-for-meetings.md
         - name: SwiftAssess
           href: teams/gamalearn-swiftassess.md
         - name: Switchvox
@@ -949,6 +951,8 @@
           href: teams/ringcentral-inc-telus-business-connect.md
         - name: Template Chooser
           href: teams/officeatwork-template-chooser.md
+        - name: Tendfor
+          href: teams/tendfor.md
         - name: Texto
           href: teams/approved-contact-text.md
         - name: O Hub Cativante
@@ -1020,7 +1024,7 @@
         - name: Orientador de Bem-estar
           href: teams/meditationlive-inc-wellness-coach.md
         - name: Wide Ideas
-          href: teams/wide-ideas.md
+          href: teams/idea2innovation-wide-ideas.md
         - name: Wired2Perform
           href: teams/wired2perform.md
         - name: Wisembly
@@ -1121,6 +1125,8 @@
           href: saas/officeatwork-admin-center.md
         - name: Central de Contatos do Buzzeasy para Teams
           href: saas/geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md
+        - name: CallCabinet Atmos Compliance Recording and Analytics
+          href: saas/callcabinet-corporation-atmos-compliance-recording-and-analytics.md
         - name: CC4Teams
           href: saas/cc4all-cc4teams.md
         - name: Classroom.cloud
@@ -1240,6 +1246,8 @@
           href: azure/15439749-b811-4e89-b777-4fe6ef247801.md
         - name: 170d42a4-4ec0-4f51-bef0-693c589fccfc
           href: azure/170d42a4-4ec0-4f51-bef0-693c589fccfc.md
+        - name: 17bd2add-67cb-4ffe-b69b-10b130558e89
+          href: azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md
         - name: 192ba193-b68c-464c-a920-7eaa93b59a12
           href: azure/192ba193-b68c-464c-a920-7eaa93b59a12.md
         - name: 1ac9e5c6-4850-4864-96c5-b91e4512334e
