@@ -2,17 +2,17 @@
 title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/15/2022
+ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 1906cf1fde898ce0a3f82642cf15369812241b0a
-ms.sourcegitcommit: 2e7d3c3ce21db674e9964db4a0b5b8794e74142f
+ms.openlocfilehash: 72b7868eaa382a4bc4d140c62eea795a347bf75a
+ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/16/2022
-ms.locfileid: "62829681"
+ms.lasthandoff: 02/17/2022
+ms.locfileid: "62876759"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -122,6 +122,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Reservas de mesa](./tns-consulting-aps-desk-reservations.md) | TNS Consulting ApS | **✓** |  |
 | [Desk365](./kani-technologies-inc-desk365.md) | Kani Technologies Inc | **✓** |  |
 | [Digiplein](./educatieve-uitgeversgroep-bv-digiplein.md) | Grupo de Editores Educacionais B.V. | **✓** |  |
+| [Conselhos Diligentes](./diligent-boards.md) | Diligente | **✓** |  |
 | [Listas de distribuição Pro](./witivio-distribution-lists-pro.md) | Witivio | **✓** |  |
 | [do!book CB](./digital-office-inc-do!book-cb.md) | Digital Office Inc. | **✓** |  |
 | [Docuo](./r2-docuo.md) | R2 Docuo | **✓** |  |
@@ -372,7 +373,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [SuperOffice](./superoffice-infobridge-software.md) | Software SuperOffice InfoBridge | **✓** |  |
 | [SurveyMonkey](./surveymonkey.md) | SurveyMonkey | **✓** |  |
 | [SurveySparrow](./surveysparrow-inc.md) | SurveySparrow inc. | **✓** |  |
-| [Svava para Reuniões](./svava-ab-for-meetings.md) | Svava AB | **✓** |  |
+| [Svava para Reuniões](./svava-for-meetings.md) | Svava | **✓** |  |
 | [SwiftAssess](./gamalearn-swiftassess.md) | GamaLearn | **✓** |  |
 | [Switchvox](./sangoma-switchvox.md) | Sangoma | **✓** |  |
 | [Sympli](./sympli-llc.md) | Sympli, LLC | **✓** |  |
@@ -399,6 +400,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Teamwork](./teamwork.md) | Trabalho em equipe | **✓** |  |
 | [Conexão TELUS Business](./ringcentral-inc-telus-business-connect.md) | RingCentral, Inc. | **✓** |  |
 | [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Tendfor](./tendfor.md) | Tendfor | **✓** |  |
 | [Texto](./approved-contact-text.md) | Contato Aprovado | **✓** |  |
 | [O Hub Cativante](./captivate-io-ltd-the-hub.md) | Cativar IO Ltd | **✓** |  |
 | [ThoughtExchange](./thoughtexchange.md) | ThoughtExchange | **✓** |  |
@@ -434,7 +436,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Weekly10](./binary-geek-limited-weekly10.md) | Geek Binário Limitado | **✓** |  |
 | [Gravação de tela de weet](./fyz-services-weet-screen-recording.md) | SERVIÇOS FYZ | **✓** |  |
 | [Orientador de Bem-estar](./meditationlive-inc-wellness-coach.md) | Meditation.live, Inc. | **✓** |  |
-| [Wide Ideas](./wide-ideas.md) | Wide Ideas | **✓** |  |
+| [Wide Ideas](./idea2innovation-wide-ideas.md) | Idea2Innovation | **✓** |  |
 | [Wired2Perform](./wired2perform.md) | Wired2Perform | **✓** |  |
 | [Wisembly](./wisembly.md) | Wisembly | **✓** |  |
 | [Workbench Intelligence](./temporall-workbench-intelligence.md) | Temporall | **✓** |  |
