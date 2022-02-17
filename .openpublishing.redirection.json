@@ -646,6 +646,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/callcabinetcorporation1584393576335.atmos.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/callcabinet-corporation-atmos-compliance-recording-and-analytics",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200003193.md",
       "redirect_url": "/microsoft-365-app-certification/teams/yattee-inc-canary",
       "redirect_document_id": false
@@ -1153,6 +1158,16 @@
     {
       "source_path": "Apps/forward/9a58f891-dad9-4c01-bf1a-3c418fb6b282.md",
       "redirect_url": "/microsoft-365-app-certification/teams/educatieve-uitgeversgroep-bv-digiplein",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003544.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/diligent-boards",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/df797265-8679-421c-a75c-3540540daf42.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/diligent-boards",
       "redirect_document_id": false
     },
     {
@@ -2316,6 +2331,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/elearningforce.lms365_spfx.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/elearningforce-international-aps-lms365",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381467.md",
       "redirect_url": "/microsoft-365-app-certification/teams/elearningforce-international-lms365",
       "redirect_document_id": false
@@ -2323,11 +2343,6 @@
     {
       "source_path": "Apps/forward/d136f17e-df84-47f2-97a4-13aa24c0c647.md",
       "redirect_url": "/microsoft-365-app-certification/teams/elearningforce-international-lms365",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/elearningforce.lms365_spfx.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/elearningforce-international-aps-lms365",
       "redirect_document_id": false
     },
     {
@@ -4067,12 +4082,12 @@
     },
     {
       "source_path": "Apps/forward/WA200001723.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/svava-ab-for-meetings",
+      "redirect_url": "/microsoft-365-app-certification/teams/svava-for-meetings",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/6291175d-3832-4c33-baea-10eb4b9ff1c4.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/svava-ab-for-meetings",
+      "redirect_url": "/microsoft-365-app-certification/teams/svava-for-meetings",
       "redirect_document_id": false
     },
     {
@@ -4341,11 +4356,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200000110.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officeatwork-template-chooser",
       "redirect_document_id": false
@@ -4356,8 +4366,23 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/officeatwork-ag.template-chooser-browser.md",
       "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser-browser",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002996.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/tendfor",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/212fcd92-bc06-4746-85c4-f7b5d39579ba.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/tendfor",
       "redirect_document_id": false
     },
     {
@@ -4727,12 +4752,12 @@
     },
     {
       "source_path": "Apps/forward/WA200000819.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/wide-ideas",
+      "redirect_url": "/microsoft-365-app-certification/teams/idea2innovation-wide-ideas",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/2a64f929-bed9-44d9-aa65-d7b921889959.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/wide-ideas",
+      "redirect_url": "/microsoft-365-app-certification/teams/idea2innovation-wide-ideas",
       "redirect_document_id": false
     },
     {
@@ -5058,6 +5083,11 @@
     {
       "source_path": "Apps/forward/azure/170d42a4-4ec0-4f51-bef0-693c589fccfc.md",
       "redirect_url": "/microsoft-365-app-certification/azure/170d42a4-4ec0-4f51-bef0-693c589fccfc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89",
       "redirect_document_id": false
     },
     {
