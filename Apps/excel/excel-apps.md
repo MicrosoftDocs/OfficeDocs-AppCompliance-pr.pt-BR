@@ -2,17 +2,17 @@
 title: Microsoft Excel Segurança e Conformidade de Aplicativos - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/27/2022
+ms.date: 02/17/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: 21d545e7774ebca9fd718f3d1709f296de6d1989
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 9a85b4a03d4237fa3560b9fdb445d9fa157158f7
+ms.sourcegitcommit: 8af0be0295356438dbaa1dad225cfb390785b15c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256877"
+ms.lasthandoff: 02/17/2022
+ms.locfileid: "62884435"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel Segurança e Conformidade de Aplicativos
 
@@ -38,3 +38,4 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
 | [Supermetria](./supermetrics.md) | Supermetria | **✓** |  |
 | [Dados arquivados XBRL](./xbrl-us-filed-data.md) | XBRL US | **✓** |  |
+| [ZEMA para Excel](./ze-powergroup-zema-for-excel.md) | ZE PowerGroup | **✓** |  |

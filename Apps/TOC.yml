@@ -57,6 +57,8 @@
           href: excel/supermetrics.md
         - name: Dados arquivados XBRL
           href: excel/xbrl-us-filed-data.md
+        - name: ZEMA para Excel
+          href: excel/ze-powergroup-zema-for-excel.md
     - name: Microsoft OneNote Apps
       href: onenote/onenote-apps.md
       items:
@@ -395,7 +397,7 @@
           href: teams/kani-technologies-inc-desk365.md
         - name: Digiplein
           href: teams/educatieve-uitgeversgroep-bv-digiplein.md
-        - name: Boards
+        - name: Conselhos Diligentes
           href: teams/diligent-boards.md
         - name: Listas de distribuição Pro
           href: teams/witivio-distribution-lists-pro.md
@@ -829,6 +831,8 @@
           href: teams/shl.md
         - name: Shortlinks
           href: teams/chitchattr-shortlinks.md
+        - name: SightCall
+          href: teams/sightcall.md
         - name: SIGNL4
           href: teams/derdack-signl4.md
         - name: Simple In/Out
@@ -1572,6 +1576,8 @@
           href: azure/b5d4e933-e001-4168-83f8-abdd974877bd.md
         - name: b6e2ef19-7612-4ab7-a700-9669d49b88b9
           href: azure/b6e2ef19-7612-4ab7-a700-9669d49b88b9.md
+        - name: b7e8237f-d86d-4874-8f8b-7faa8f768436
+          href: azure/b7e8237f-d86d-4874-8f8b-7faa8f768436.md
         - name: b8e57f6b-31cf-468e-9e99-81f0395cb1f9
           href: azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md
         - name: b9604964-9c3a-483e-abf2-1b5cba495081
@@ -1668,6 +1674,8 @@
           href: azure/eb668aa5-abb2-445c-81b4-3c174db84fe2.md
         - name: edb24f8f-38af-4b3e-9475-0da243678d5a
           href: azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md
+        - name: ef5fa233-c0bb-424e-b9dc-0466d46bade2
+          href: azure/ef5fa233-c0bb-424e-b9dc-0466d46bade2.md
         - name: f0199b83-0ca3-4b41-a23b-d9b234484438
           href: azure/f0199b83-0ca3-4b41-a23b-d9b234484438.md
         - name: f121a92d-d9a9-43fd-be70-f7a47ff83d4f

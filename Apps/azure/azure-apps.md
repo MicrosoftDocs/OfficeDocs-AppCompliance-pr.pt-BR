@@ -2,17 +2,17 @@
 title: Segurança e conformidade de IDs do Aplicativo do Azure - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/16/2022
+ms.date: 02/17/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todas as IDs de aplicativo do Azure.
 localization_priority: Normal
-ms.openlocfilehash: ce693de6780dde56f8ce74ad6e5a87f615177098
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: 34778cca601961a6d7d7f80205099efa597c4c8d
+ms.sourcegitcommit: 8af0be0295356438dbaa1dad225cfb390785b15c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 02/17/2022
-ms.locfileid: "62876456"
+ms.locfileid: "62889345"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Segurança e conformidade de IDs de aplicativo do Azure
 
@@ -206,6 +206,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [b256b34a-b377-4fc2-b25a-a8f5f0594e86](./b256b34a-b377-4fc2-b25a-a8f5f0594e86.md) | **✓** |  |
 | [b5d4e933-e001-4168-83f8-abdd974877bd](./b5d4e933-e001-4168-83f8-abdd974877bd.md) | **✓** |  |
 | [b6e2ef19-7612-4ab7-a700-9669d49b88b9](./b6e2ef19-7612-4ab7-a700-9669d49b88b9.md) | **✓** |  |
+| [b7e8237f-d86d-4874-8f8b-7faa8f768436](./b7e8237f-d86d-4874-8f8b-7faa8f768436.md) | **✓** |  |
 | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](./b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) | **✓** |  |
 | [b9604964-9c3a-483e-abf2-1b5cba495081](./b9604964-9c3a-483e-abf2-1b5cba495081.md) | **✓** |  |
 | [b9a1aab-e8aa-4b92-b4ce-f13cae74caa7](./b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7.md) | **✓** |  |
@@ -254,6 +255,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [eb628055-f790-4ef0-9fce-ac95b4c61466](./eb628055-f790-4ef0-9fce-ac95b4c61466.md) | **✓** |  |
 | [eb668aa5-abb2-445c-81b4-3c174db84fe2](./eb668aa5-abb2-445c-81b4-3c174db84fe2.md) | **✓** |  |
 | [edb24f8f-38af-4b3e-9475-0da243678d5a](./edb24f8f-38af-4b3e-9475-0da243678d5a.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [ef5fa233-c0bb-424e-b9dc-0466d46bade2](./ef5fa233-c0bb-424e-b9dc-0466d46bade2.md) | **✓** |  |
 | [f0199b83-0ca3-4b41-a23b-d9b234484438](./f0199b83-0ca3-4b41-a23b-d9b234484438.md) | **✓** |  |
 | [f121a92d-d9a9-43fd-be70-f7a47ff83d4f](./f121a92d-d9a9-43fd-be70-f7a47ff83d4f.md) | **✓** |  |
 | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](./f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) | **✓** |  |
