@@ -2,24 +2,24 @@
 title: Informações do aplicativo para taxonomia pela Accuracy Software Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2022
+ms.date: 02/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Taxonomia, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e6ca7066e3ceaf975f3928885ea6cb5533c5e518
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 1106b9e00a94d133c167b04bb31e4bc71c060c73
+ms.sourcegitcommit: 0465c6dd3a2c42fb1fd785548654d5b7f2601adc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62146558"
+ms.lasthandoff: 02/19/2022
+ms.locfileid: "62909063"
 ---
 # <a name="taxonomy"></a>Taxonomia
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 26 de dezembro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 18 de fevereiro de 2022</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200003006" target="_blank">Exibir no AppSource</a>
 
@@ -40,7 +40,7 @@ Informações fornecidas pela Accuracy Software Inc. à Microsoft:
 | Funcionalidade principal do aplicativo | A taxonomia fornece uma maneira eficaz de gerenciar seu Plano de Classificação de Arquivos, permitindo a colaboração dos profissionais de IM com os diferentes participantes para criar, revisar e publicar o plano de arquivos para toda a organização. Além disso, Taxonomia Permite que você gere rótulos de retenção do M365 exportem que você pode importar para o Centro de Conformidade da Microsoft e exporte seu plano de arquivos em um formato de Conjunto de Termos que você pode importar para o SharePoint Term Store. |
 | Localização da sede da empresa | Canadá |
 | Página de informações do aplicativo | |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Locatário SharePoint cliente |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -58,7 +58,7 @@ Essas informações foram fornecidas pela Accuracy Software Inc. sobre como esse
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Dados de classificação do plano de arquivos |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Canadá |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
 | Você tem um processo estabelecido de locação e descarte de dados? | Não |
 | Por quanto tempo os dados são mantidos após o término da conta? | Não mantido |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Não |
@@ -87,7 +87,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Não |
 | Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Não |
 | As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Não |
-| Autenticação multifator (MFA) habilitada para: |  |
+| Autenticação multifator (MFA) habilitada para: | NoneOfTheAbove |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Não |
 | Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | N/D |
 | Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
