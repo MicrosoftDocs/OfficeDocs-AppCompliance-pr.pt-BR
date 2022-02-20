@@ -401,16 +401,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200001248.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/beesapps-beesy",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/03a513ab-60d8-4d27-8c9a-5182934a43bb.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/beesapps-beesy",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002798.md",
       "redirect_url": "/microsoft-365-app-certification/teams/technologies-openmind-inc-les-berrycast",
       "redirect_document_id": false
@@ -3221,11 +3211,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104380739.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104381384.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
       "redirect_document_id": false
@@ -3233,6 +3218,11 @@
     {
       "source_path": "Apps/forward/90381cb0-998f-4ba3-9699-130201de5ddb.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA104380739.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
       "redirect_document_id": false
     },
     {
@@ -4376,11 +4366,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200000110.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officeatwork-template-chooser",
       "redirect_document_id": false
@@ -4388,6 +4373,11 @@
     {
       "source_path": "Apps/forward/13d1defc-6301-4e62-9c53-3361db865183.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officeatwork-template-chooser",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
       "redirect_document_id": false
     },
     {
@@ -6058,11 +6048,6 @@
     {
       "source_path": "Apps/forward/azure/d2682b2a-2037-4545-94b6-3e7216ecca5f.md",
       "redirect_url": "/microsoft-365-app-certification/azure/d2682b2a-2037-4545-94b6-3e7216ecca5f",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287.md",
-      "redirect_url": "/microsoft-365-app-certification/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287",
       "redirect_document_id": false
     },
     {
