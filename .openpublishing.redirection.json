@@ -176,6 +176,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/workstreampeople.attendantconsoleformsftteams.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200003123.md",
       "redirect_url": "/microsoft-365-app-certification/teams/appraisd-ltd",
       "redirect_document_id": false
@@ -303,6 +308,16 @@
     {
       "source_path": "Apps/forward/77231724-5a80-4edf-ad93-dfd2e61207fa.md",
       "redirect_url": "/microsoft-365-app-certification/teams/anaek-attendancebot",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003780.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/workstreampeople-bv-attendant",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/workstreampeople-bv-attendant",
       "redirect_document_id": false
     },
     {
@@ -532,12 +547,12 @@
     },
     {
       "source_path": "Apps/forward/WA200002562.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/chat-apps-llc-bright-poll",
+      "redirect_url": "/microsoft-365-app-certification/teams/brightbits-bright-poll",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/3a3156c1-b214-4d42-bc25-6d36f6aabb5e.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/chat-apps-llc-bright-poll",
+      "redirect_url": "/microsoft-365-app-certification/teams/brightbits-bright-poll",
       "redirect_document_id": false
     },
     {
@@ -793,6 +808,16 @@
     {
       "source_path": "Apps/forward/ec483835-4185-4229-a976-32a20138ff9d.md",
       "redirect_url": "/microsoft-365-app-certification/teams/spektra-systems-llc-cloudlabs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003795.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/clovers-ai",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/1356036b-5fa7-42ce-8079-5741f2acfc5f.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/clovers-ai",
       "redirect_document_id": false
     },
     {
@@ -1786,16 +1811,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104381050.md",
-      "redirect_url": "/microsoft-365-app-certification/powerpoint/harmonie-corporation-for-office",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA103004101.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/harmonie-corporation-for-outlook",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200001405.md",
       "redirect_url": "/microsoft-365-app-certification/teams/health-hero",
       "redirect_document_id": false
@@ -2061,13 +2076,13 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/17859280.iplannerpro.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/iglobe-iplanner-pro-office-365",
+      "source_path": "Apps/forward/WA104380464.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104380464.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
+      "source_path": "Apps/forward/17859280.iplannerpro.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/iglobe-iplanner-pro-office-365",
       "redirect_document_id": false
     },
     {
@@ -2726,6 +2741,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003783.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/my-learning-hub-mylo-bot",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/eac616cb-4d81-4167-9f87-cab9fa54cf7d.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/my-learning-hub-mylo-bot",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002325.md",
       "redirect_url": "/microsoft-365-app-certification/teams/myworkdrive",
       "redirect_document_id": false
@@ -2806,11 +2831,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200002505.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/all-blue-solutions-ngdesk",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002968.md",
       "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
       "redirect_document_id": false
@@ -2818,6 +2838,11 @@
     {
       "source_path": "Apps/forward/64d24486-30aa-4fae-8bdc-2680a85dcbb5.md",
       "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200002505.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/all-blue-solutions-ngdesk",
       "redirect_document_id": false
     },
     {
@@ -2953,16 +2978,6 @@
     {
       "source_path": "Apps/forward/ff19eb3c-6afa-4f33-acfd-df1338289524.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officernd-hybrid-work",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200002052.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/officespace-software",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/11a186c8-d6f1-409f-a9d6-a51dad3d695a.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/officespace-software",
       "redirect_document_id": false
     },
     {
@@ -3132,12 +3147,12 @@
     },
     {
       "source_path": "Apps/forward/WA200001679.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/ooo-rd17-perfect-wiki-by",
+      "redirect_url": "/microsoft-365-app-certification/teams/ooo-rd17-perfect-wiki",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/40906836-4323-4bbe-875e-3cbb134c40a2.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/ooo-rd17-perfect-wiki-by",
+      "redirect_url": "/microsoft-365-app-certification/teams/ooo-rd17-perfect-wiki",
       "redirect_document_id": false
     },
     {
@@ -3211,6 +3226,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA104380739.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381384.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
       "redirect_document_id": false
@@ -3218,11 +3238,6 @@
     {
       "source_path": "Apps/forward/90381cb0-998f-4ba3-9699-130201de5ddb.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA104380739.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
       "redirect_document_id": false
     },
     {
@@ -3378,16 +3393,6 @@
     {
       "source_path": "Apps/forward/WA104381747.md",
       "redirect_url": "/microsoft-365-app-certification/outlook/quantum-workplace",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200001574.md",
-      "redirect_url": "/microsoft-365-app-certification/excel/cc-1c-quickcells-graphs",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200001864.md",
-      "redirect_url": "/microsoft-365-app-certification/excel/cc-1c-quickcells-solvers",
       "redirect_document_id": false
     },
     {
@@ -3628,16 +3633,6 @@
     {
       "source_path": "Apps/forward/227f2790-98ab-42dc-8d3f-1d76c83c9d04.md",
       "redirect_url": "/microsoft-365-app-certification/teams/selfdrvn",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200001951.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/sensei-labs-inc-conductor",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/c5418a24-940a-4bf1-a802-8d9e633838fa.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/sensei-labs-inc-conductor",
       "redirect_document_id": false
     },
     {
@@ -4366,6 +4361,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200000110.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officeatwork-template-chooser",
       "redirect_document_id": false
@@ -4373,11 +4373,6 @@
     {
       "source_path": "Apps/forward/13d1defc-6301-4e62-9c53-3361db865183.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officeatwork-template-chooser",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
       "redirect_document_id": false
     },
     {
@@ -5813,6 +5808,11 @@
     {
       "source_path": "Apps/forward/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md",
       "redirect_url": "/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465",
       "redirect_document_id": false
     },
     {
