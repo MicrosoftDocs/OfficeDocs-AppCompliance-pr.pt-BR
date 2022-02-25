@@ -1446,11 +1446,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104379617.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/evernote",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104381639.md",
       "redirect_url": "/microsoft-365-app-certification/teams/evernote",
       "redirect_document_id": false
@@ -1458,6 +1453,11 @@
     {
       "source_path": "Apps/forward/4e1f8576-93d5-4c24-abb5-f02782e00a4e.md",
       "redirect_url": "/microsoft-365-app-certification/teams/evernote",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA104379617.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/evernote",
       "redirect_document_id": false
     },
     {
@@ -2096,6 +2096,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200001496.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/cisco-jabber",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/ed754df9-2e28-48ef-9f0f-e0909ce4f320.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/cisco-jabber",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002140.md",
       "redirect_url": "/microsoft-365-app-certification/teams/atlassian-jira-cloud",
       "redirect_document_id": false
@@ -2268,6 +2278,16 @@
     {
       "source_path": "Apps/forward/WA200003103.md",
       "redirect_url": "/microsoft-365-app-certification/outlook/lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003796.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/lawvu-apac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/fbd624a5-8d34-495d-a68c-a1101997a8a2.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/lawvu-apac",
       "redirect_document_id": false
     },
     {
@@ -3271,11 +3291,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/appfluenceinc.m_pm_msft.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/appfluence-inc-priority-matrix",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104382005.md",
       "redirect_url": "/microsoft-365-app-certification/teams/appfluence-inc-priority-matrix",
       "redirect_document_id": false
@@ -3283,6 +3298,11 @@
     {
       "source_path": "Apps/forward/5be2b320-a5b7-4221-893c-dee506e4e365.md",
       "redirect_url": "/microsoft-365-app-certification/teams/appfluence-inc-priority-matrix",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/appfluenceinc.m_pm_msft.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/appfluence-inc-priority-matrix",
       "redirect_document_id": false
     },
     {
@@ -4361,11 +4381,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200000110.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officeatwork-template-chooser",
       "redirect_document_id": false
@@ -4373,6 +4388,11 @@
     {
       "source_path": "Apps/forward/13d1defc-6301-4e62-9c53-3361db865183.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officeatwork-template-chooser",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
       "redirect_document_id": false
     },
     {
