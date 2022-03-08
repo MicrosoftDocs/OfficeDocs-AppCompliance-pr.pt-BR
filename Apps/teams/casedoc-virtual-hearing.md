@@ -2,24 +2,24 @@
 title: Informações do aplicativo para a Audiência Virtual do Casedoc por Casedoc
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/24/2022
+ms.date: 03/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Audiência Virtual do Casedoc, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 07119c707f97b9e1c47beaf49a0977cbdfb727fb
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 7235bc36a986a6ff254525d130f5fbd77ef7e0ac
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253847"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63078055"
 ---
 # <a name="casedoc-virtual-hearing"></a>Audiência virtual do Casedoc
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 17 de novembro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 7 de março de 2022</p>
 
 * <a href="https://teams.microsoft.com/l/app/3e701664-cc46-49e4-b356-1a7ac6500998" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003164" target="_blank">Exibir no AppSource</a>

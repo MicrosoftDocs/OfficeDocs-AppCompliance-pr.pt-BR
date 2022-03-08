@@ -2,24 +2,24 @@
 title: Informações do aplicativo para contatos Pro por Witivio
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/30/2021
+ms.date: 03/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para contatos Pro, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d509f5b18d833135ca0683720c264e5dc164b9a0
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ca10bb626f33ce2c4b5bafc618c784b46fe3e1e7
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253307"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63080255"
 ---
 # <a name="contacts-pro"></a>Contatos Profissionais
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 29 de novembro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 3 de março de 2022</p>
 
 * <a href="https://teams.microsoft.com/l/app/b4f85a61-fd95-49b8-8fb3-3cb473412407" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002804" target="_blank">Exibir no AppSource</a>
@@ -38,7 +38,7 @@ Informações fornecidas pelo Witivio à Microsoft:
 | Nome da empresa de parceiro | Witivio |
 | Site da empresa | [https://www.witivio.com](https://www.witivio.com) |
 | Termos de uso do aplicativo | [https://www.teams-pro.com/en/terms-of-use/](https://www.teams-pro.com/en/terms-of-use/) |
-| Funcionalidade principal do aplicativo | Calendário Pro calendário é um calendário colaborativo para Microsoft Teams. Adicione o calendário Pro em um canal ou chat para criar um calendário compartilhado com seus membros. |
+| Funcionalidade principal do aplicativo | Contatos Pro é um aplicativo de contato colaborativo para Microsoft Teams. |
 | Localização da sede da empresa | França |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
@@ -61,7 +61,7 @@ Essas informações foram fornecidas pelo Witivio sobre como esse aplicativo col
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Contatos |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Irlanda |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 60 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |

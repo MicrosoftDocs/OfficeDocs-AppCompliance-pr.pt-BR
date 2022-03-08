@@ -1,24 +1,23 @@
 ---
-title: Informações do aplicativo para o Adobe Sign Add-In para Outlook por Adobe Inc.
+title: Informações do aplicativo para o Adobe Sign Add-In para Outlook pela Adobe Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/19/2021
+ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Adobe Sign Add-In para Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+certification_type: certified
+description: Todas as informações de segurança e conformidade disponíveis para o Adobe Sign Add-In para Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e443e296205864141c0d0c2e6923e2e971ac4d7e
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 55945315fcc8c34bd0badd80a0dfacf88bed8c54
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256831"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63079495"
 ---
 # <a name="adobe-sign-add-in-for-outlook"></a>Adobe Sign Add-In para Outlook
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Última atualização pelo desenvolvedor em: 15 de outubro de 2021</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381158" target="_blank">Exibir no AppSource</a>
@@ -37,7 +36,7 @@ Informações fornecidas pelo Adobe Inc. à Microsoft:
 | Nome da empresa de parceiro | Adobe Inc. |
 | Site da empresa | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
 | Termos de uso do aplicativo | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
-| Funcionalidade principal do aplicativo | Mantenha fluxos de trabalho de assinatura de documento em movimento rápido ao adicionar o Adobe Sign a Outlook. Agora, no Outlook, você pode assinar documentos, enviá-los para assinaturas e aprovações legalmente vinculativas e &#8212; todas com a solução de sinal eletrônica preferencial da Microsoft. |
+| Funcionalidade principal do aplicativo | Mantenha fluxos de trabalho de assinatura de documentos em movimento rápido ao adicionar o Adobe Sign ao Outlook. Agora, no Outlook, você pode assinar documentos, enviá-los para assinaturas e aprovações legalmente vinculativas e &#8212; todas com a solução de sinal eletrônica preferencial da Microsoft. |
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
@@ -166,9 +165,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Mail.ReadWrite | delegado | Para preencher o documento anexado, remetente e emails de destinatário e conteúdo de mensagens de emails para o Adobe assinar para enviar para assinatura. Isso é para economizar o tempo do usuário para retipo esses campos no Adobe Sign. Depois que um contrato é assinado, redigimos automaticamente um novo email para o usuário enviar um email para informar aos destinatários que a transação foi feita. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| People.Read | delegado | Para preenchimento automático do endereço de email na experiência Enviar para assinatura, digitando algumas letras iniciais, não exige que os usuários &quot; &quot; digitem todos os emails. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| People.Read | delegado | Para preenchimento automático do endereço de &quot;&quot; email na experiência Enviar para assinatura, digitando algumas letras iniciais, não exige que os usuários digitem todos os emails. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
 >| User.Read | delegado | Para ler o perfil do usuário e corresponder seu perfil (basicamente, seu email e userId) ao nosso banco de dados para que eles possam usar o Adobe Sign. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| offline_access | delegado | Para atualizar o token de acesso, quando o atual expirar. Por exemplo, quando o usuário está em uma janela de envio para assinatura e a deixa inativa por muito tempo, precisamos atualizar um novo token quando o usuário &quot; &quot; estiver ativo. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| offline_access | delegado | Para atualizar o token de acesso, quando o atual expirar. Por exemplo, quando &quot;&quot; o usuário está em uma janela de envio para assinatura e a deixa inativa por muito tempo, precisamos atualizar um novo token quando o usuário estiver ativo. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
 >| openid | delegado | Email e UserId. Para entrar no usuário para garantir seu consentimento para a permissão de usar o aplicativo Adobe Sign.  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
 
 >Este aplicativo não tem APIs adicionais.

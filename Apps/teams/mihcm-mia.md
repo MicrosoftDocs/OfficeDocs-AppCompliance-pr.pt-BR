@@ -2,24 +2,24 @@
 title: Informações do aplicativo para Mia por MiHCM
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/20/2021
+ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Mia, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 60f642920ebe8406b6b16bcdcf940dd986962ae6
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 1e8fa45f92c45f54d50ce94397eeb5a9adba49ca
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253607"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63079715"
 ---
 # <a name="mia"></a>Mia
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 21 de setembro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 28 de fevereiro de 2022</p>
 
 * <a href="https://teams.microsoft.com/l/app/0b48e71e-8f46-46d8-a545-608295f000ac" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002417" target="_blank">Exibir no AppSource</a>
@@ -38,7 +38,7 @@ Informações fornecidas pelo MiHCM à Microsoft:
 | Nome da empresa de parceiro | MiHCM |
 | Site da empresa | [https://mihcm.com](https://mihcm.com) |
 | Termos de uso do aplicativo | [https://mia.work/terms-of-use](https://mia.work/terms-of-use) |
-| Funcionalidade principal do aplicativo | O Mia Workplace Assistente Virtual permite que sua organização entregue um assistente virtual personalizado para todos os Microsoft Teams usuários. Esse assistente de trabalho no Microsoft Teams ajuda sua organização a aumentar a produtividade, melhorar o envolvimento dos funcionários, a execução de uma infinidade de solicitações de RH, solicitações de serviço relacionadas ao trabalho, bem-estar da forma física e &amp; muito mais. Mia apura o envolvimento dos funcionários, a experiência perfeita dos funcionários para os serviços/interações de RH mundano. |
+| Funcionalidade principal do aplicativo | O Mia Workplace Assistente Virtual permite que sua organização entregue um assistente virtual personalizado para todos os Microsoft Teams usuários. Esse assistente de trabalho no Microsoft Teams ajuda sua organização a aumentar a produtividade, melhorar o envolvimento dos funcionários, a execução de uma infinidade de solicitações de RH, solicitações de serviço relacionadas ao trabalho, &amp; bem-estar da forma física e muito mais. Mia apura o envolvimento dos funcionários, a experiência perfeita dos funcionários para os serviços/interações de RH mundano. |
 | Localização da sede da empresa | Sri Lanka |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
@@ -61,7 +61,7 @@ Essas informações foram fornecidas pelo MiHCM sobre como esse aplicativo colet
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Eventos do Calendário do Usuário, Fuso Horário do Usuário |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Cingapura |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -118,7 +118,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
 | Data de certificação SOC3 mais recente | |
 | Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
-| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Não |
+| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Sim |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Não |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
