@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Office2SharePoint, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: a855949e3904992c0c31a55184762f83cd420b09
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 3dc55f14b429d25d2f4a3c610d3ada664bfcf064
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254077"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63076225"
 ---
 # <a name="office2sharepoint"></a>Office2SharePoint
 
@@ -35,7 +35,7 @@ Informações fornecidas pelo iGlobe à Microsoft:
 | Nome da empresa de parceiro | iGlobe |
 | Site da empresa | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Termos de uso do aplicativo | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
-| Funcionalidade principal do aplicativo | Office2SharePoint - trabalhar com SharePoint e Teams de Outlook e Office maneira fácil. Quebrar barreiras na comunicação entre membros da equipe torna os documentos e anexos de email acessíveis a todos no SharePoint &amp; Teams. Salve emails e anexos de email diretamente do Outlook para SharePoint ou Teams em qualquer dispositivo e plataforma. O nível de permissão dos serviços do Aplicativo do Office2SharePoint é definido para o Outlook e o Office Desempate. |
+| Funcionalidade principal do aplicativo | Office2SharePoint - trabalhando com SharePoint e Teams de Outlook e Office maneira fácil. Quebrar barreiras na comunicação entre membros da equipe torna os documentos e anexos de email acessíveis a todos no SharePoint &amp; Teams. Salve emails e anexos de email diretamente de Outlook para SharePoint ou Teams em qualquer dispositivo e plataforma. O nível de permissão dos serviços do Aplicativo do Office2SharePoint é definido para o Outlook e o Office Desempate. |
 | Localização da sede da empresa | Dinamarca |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
@@ -175,43 +175,6 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 >| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
 
 >Este aplicativo não tem APIs adicionais.
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>Informações de certificação
-
-| **Control** | **Microsoft 365 resultado da certificação** |
-|:------------|:---------------------------------------|
-| [**SEGURANÇA DO APLICATIVO**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **N/D** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testes de penetração | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Análise de Avaliação de Vulnerabilidade (TESTE DE PENETRAÇÃO/SAST/DAST) | N/D |
-| [**SEGURANÇA OPERACIONAL**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **N/D** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra Malware - Antivírus | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra Malware - Controle de Aplicativos | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Patch - Classificação de Risco | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Patch - Patching | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Verificação de vulnerabilidade | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firewall - Firewalls (ou tecnologias equivalentes) | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firewall - WaFs (Firewalls de Aplicativo Web) (Opcional) | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alterar Controle | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvimento/implantação de software seguro | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Contas | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Detecção e prevenção contra intrusões (opcional) | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Log de Eventos de Segurança | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Revisão (Dados de Log) | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alerta de eventos de segurança | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Riscos de Segurança da Informação | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resposta a incidentes | N/D |
-| [**PRIVACIDADE DE SEGURANÇA DE TRATAMENTO DE &amp; DADOS**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **N/D** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados em Trânsito | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados em repouso | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retenção e descarte de dados | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Acesso a Dados | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RGPD | N/D |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

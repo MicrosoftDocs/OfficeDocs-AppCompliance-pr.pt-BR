@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para o Office 365 do Planner para Outlook iGlobe
+title: Informações do aplicativo para o Office 365 do Planner para Outlook por iGlobe
 ms.author: elmalova
 author: elenamalova
 ms.date: 08/28/2021
@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o iPlanner Office 365 Planner Add-in para Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 131f199cd6143b770c5b1fec9aa7a4afd348e784
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: e5a6c2743408cc498443ea01a7bf548460485b25
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257937"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63075915"
 ---
 # <a name="iplanner-office-365-planner-add-in-for-outlook"></a>IPlanner Office 365 Do Planner para Outlook
 
@@ -36,7 +36,7 @@ Informações fornecidas pelo iGlobe à Microsoft:
 | Nome da empresa de parceiro | iGlobe |
 | Site da empresa | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Termos de uso do aplicativo | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
-| Funcionalidade principal do aplicativo | Obter tarefas do Planner Office 365 do Planner Teams na ponta da sua mão Outlook &amp; em qualquer dispositivo. Gerenciar e criar tarefas nunca foi mais fácil. Obter tarefas do Planner Office 365 do Planner Teams na ponta da sua mão, em Outlook para &amp; Windows, MAC, IOS ou email da Web. |
+| Funcionalidade principal do aplicativo | Get Planner tasks from Office 365 Planner &amp; Teams at the tip of your hand in Outlook on any device. Gerenciar e criar tarefas nunca foi mais fácil. Obter tarefas do Planner Office 365 do Planner &amp; Teams na ponta da sua mão, no Outlook para Windows, MAC, IOS ou email da Web. |
 | Localização da sede da empresa | Dinamarca |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
@@ -176,43 +176,6 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 >| perfil | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 
 >Este aplicativo não tem APIs adicionais.
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>Informações de certificação
-
-| **Control** | **Microsoft 365 resultado da certificação** |
-|:------------|:---------------------------------------|
-| [**SEGURANÇA DO APLICATIVO**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **N/D** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testes de penetração | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Análise de Avaliação de Vulnerabilidade (TESTE DE PENETRAÇÃO/SAST/DAST) | N/D |
-| [**SEGURANÇA OPERACIONAL**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **N/D** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra Malware - Antivírus | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra Malware - Controle de Aplicativos | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Patch - Classificação de Risco | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Patch - Patching | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Verificação de vulnerabilidade | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firewall - Firewalls (ou tecnologias equivalentes) | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firewall - WaFs (Firewalls de Aplicativo Web) (Opcional) | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alterar Controle | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvimento/implantação de software seguro | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Contas | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Detecção e prevenção contra intrusões (opcional) | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Log de Eventos de Segurança | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Revisão (Dados de Log) | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alerta de eventos de segurança | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Riscos de Segurança da Informação | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resposta a incidentes | N/D |
-| [**PRIVACIDADE DE SEGURANÇA DE TRATAMENTO DE &amp; DADOS**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **N/D** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados em Trânsito | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados em repouso | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retenção e descarte de dados | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Acesso a Dados | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RGPD | N/D |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

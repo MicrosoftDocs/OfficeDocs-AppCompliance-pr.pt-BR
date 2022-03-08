@@ -8,17 +8,18 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para EmailNotes para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e3d34f2de39a01c69215aabc529d11e0f5b4bb06
-ms.sourcegitcommit: 0c7519d574830d48260e4d39dffab3c5f96bc57c
+ms.openlocfilehash: d1287dc50181b69c6f1d8f3f31b43c84db569641
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "62523632"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63076185"
 ---
 # <a name="emailnotes-for-outlook"></a>EmailNotes para Outlook
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Última atualização pelo desenvolvedor em: 9 de fevereiro de 2022</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>Última atualização pelo desenvolvedor em: 17 de janeiro de 2022</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/standsssouthpacificltd1581455821226.emailnotes" target="_blank">Exibir no AppSource</a>
 
