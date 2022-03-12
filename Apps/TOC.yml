@@ -267,6 +267,8 @@
           href: teams/beekast.md
         - name: Berrycast
           href: teams/technologies-openmind-inc-les-berrycast.md
+        - name: Notificação BGA
+          href: teams/honeywell-bga-notify.md
         - name: Bigfish
           href: teams/breathe-india-advisors-pvt-ltd-bigfish.md
         - name: ELearning Maiores Cérebros
@@ -437,6 +439,8 @@
           href: teams/sharepointsapiens-employee-training-management.md
         - name: Empuls
           href: teams/empuls.md
+        - name: Conector SmartUC da ENA
+          href: teams/ena-smartuc-connector.md
         - name: Enboarder
           href: teams/enboarder.md
         - name: Engagedly
@@ -833,6 +837,8 @@
           href: teams/selfdrvn.md
         - name: Senso
           href: teams/senso.md
+        - name: ServiceDesk Plus Cloud
+          href: teams/zoho-corporation-private-limited-servicedesk-plus-cloud.md
         - name: Thread Compartilhado pela WNI
           href: teams/wni-shared-thread-by.md
         - name: SHL
@@ -1195,6 +1201,8 @@
           href: saas/salestim.md
         - name: Selador de slides
           href: saas/officeatwork-slide-chooser.md
+        - name: Storm Cloud Contact Center Teams Integration
+          href: saas/content-guru-storm-cloud-contact-center-teams-integration.md
         - name: Conector de Microsoft Teams Talkdesk
           href: saas/talkdesk-inc-microsoft-teams-connector.md
         - name: Template Chooser
@@ -1254,6 +1262,8 @@
           href: azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md
         - name: 12397cb1-c0e5-42ae-a5be-ca4084aeadd8
           href: azure/12397cb1-c0e5-42ae-a5be-ca4084aeadd8.md
+        - name: 127e5be9-da2c-4335-a284-da367379428a
+          href: azure/127e5be9-da2c-4335-a284-da367379428a.md
         - name: 14cf575a-fae2-48e2-af39-e3448d3a48bb
           href: azure/14cf575a-fae2-48e2-af39-e3448d3a48bb.md
         - name: 15439749-b811-4e89-b777-4fe6ef247801
@@ -1698,6 +1708,8 @@
           href: azure/eb628055-f790-4ef0-9fce-ac95b4c61466.md
         - name: eb668aa5-abb2-445c-81b4-3c174db84fe2
           href: azure/eb668aa5-abb2-445c-81b4-3c174db84fe2.md
+        - name: ecff17cf-5629-49ba-a629-7f575496aeac
+          href: azure/ecff17cf-5629-49ba-a629-7f575496aeac.md
         - name: edb24f8f-38af-4b3e-9475-0da243678d5a
           href: azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md
         - name: ef5fa233-c0bb-424e-b9dc-0466d46bade2

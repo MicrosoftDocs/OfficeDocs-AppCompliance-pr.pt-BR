@@ -2,19 +2,19 @@
 title: Informações do aplicativo para o Adobe Acrobat pela Adobe Systems Inc.
 ms.author: elmalova
 author: elenamalova
-ms.manager: tonybal
+manager: tonybal
 ms.date: 03/09/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Adobe Acrobat, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3a2bf567352c8d039d02314f0a7909be84e28f7f
-ms.sourcegitcommit: 0bd8c5bf11934d14ea75ec30388534345dcb02a5
+ms.openlocfilehash: b94696ec95be7b58f03aaa048169e7c5b6cd89a0
+ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2022
-ms.locfileid: "63425258"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63459314"
 ---
 # <a name="adobe-acrobat"></a>Adobe Acrobat
 
