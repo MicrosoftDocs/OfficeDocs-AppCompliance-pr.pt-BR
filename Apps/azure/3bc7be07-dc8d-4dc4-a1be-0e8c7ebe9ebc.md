@@ -3,17 +3,17 @@ title: Informações da ID do Aplicativo do Azure para 3bc7be07-dc8d-4dc4-a1be-0
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/11/2022
+ms.date: 03/12/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc.
-ms.openlocfilehash: 7ed8e93e1d2da3412de45ad314bacb786f3484fd
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: b9ff18291bffb2ee145b7fbe44177ffbf7d4278b
+ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63457714"
+ms.lasthandoff: 03/14/2022
+ms.locfileid: "63465003"
 ---
 # <a name="azure-app-id-3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc"></a>ID do aplicativo do Azure: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
 

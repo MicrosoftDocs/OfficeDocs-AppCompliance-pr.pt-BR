@@ -3,17 +3,17 @@ title: Informações da ID do Aplicativo do Azure para a554bdf0-866f-4ee2-b95b-3
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/11/2022
+ms.date: 03/12/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a554bdf0-866f-4ee2-b95b-3afbfc70d5bc.
-ms.openlocfilehash: ff1978aa0945f8e4f2373aa6e1ac469cd10c19cb
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: 5c219d05cb84ca9f0a3cd5366fdb4eaa80816b5e
+ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459274"
+ms.lasthandoff: 03/14/2022
+ms.locfileid: "63468327"
 ---
 # <a name="azure-app-id-a554bdf0-866f-4ee2-b95b-3afbfc70d5bc"></a>ID do aplicativo do Azure: a554bdf0-866f-4ee2-b95b-3afbfc70d5bc
 

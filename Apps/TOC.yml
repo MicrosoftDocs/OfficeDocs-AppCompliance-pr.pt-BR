@@ -197,6 +197,8 @@
           href: teams/365apps-365projects.md
         - name: 8x8
           href: teams/8x8-inc.md
+        - name: absentify
+          href: teams/braincore-solutions-gmbh-absentify.md
         - name: ADI
           href: teams/akari-solutions-limited-adi.md
         - name: Adobe Acrobat
@@ -409,7 +411,7 @@
           href: teams/r2-docuo.md
         - name: DocuSign eSignature
           href: teams/docusign-inc-esignature.md
-        - name: Gravação de chamada unificada do Dubber
+        - name: Gravação de Chamada Unificada do Selador
           href: teams/dubber-unified-call-recording.md
         - name: Easy Projects
           href: teams/logic-software-inc-easy-projects.md
@@ -439,7 +441,7 @@
           href: teams/sharepointsapiens-employee-training-management.md
         - name: Empuls
           href: teams/empuls.md
-        - name: Conector SmartUC da ENA
+        - name: Conector ENA SmartUC
           href: teams/ena-smartuc-connector.md
         - name: Enboarder
           href: teams/enboarder.md
@@ -573,6 +575,8 @@
           href: teams/jetdocs.md
         - name: Jira Cloud
           href: teams/atlassian-jira-cloud.md
+        - name: Jira Integration Plus
+          href: teams/nextup-llc-jira-integration-plus.md
         - name: JobPts
           href: teams/semos-cloud-soultions-jobpts.md
         - name: Kakeai
@@ -877,6 +881,8 @@
           href: teams/sociabble.md
         - name: Advocacia Social
           href: teams/oktopost-social-advocacy.md
+        - name: Solo
+          href: teams/teladoc-inc-solo.md
         - name: Standup Espacial
           href: teams/high-fidelity-inc-spatial-standup.md
         - name: SQQ
@@ -891,6 +897,8 @@
           href: teams/crowd-cast-ltd-staple.md
         - name: Starbucks
           href: teams/starbucks.md
+        - name: Startgrid
+          href: teams/startgrid.md
         - name: StealthMail
           href: teams/stealthmail-software-ltd.md
         - name: Streem
@@ -1011,6 +1019,8 @@
           href: teams/tmi-systems-verto-365.md
         - name: Vibe
           href: teams/vibe-inc.md
+        - name: vimheslo
+          href: teams/european-code-factory-sro-vimheslo.md
         - name: VisualSP
           href: teams/visualsp.md
         - name: Vizito
@@ -1224,6 +1234,8 @@
           href: azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md
         - name: 00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d
           href: azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d.md
+        - name: 029cfd5a-4413-499d-bda6-a2a0a3f5e70e
+          href: azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md
         - name: 0492ead3-ee26-40df-9757-d95cc693d856
           href: azure/0492ead3-ee26-40df-9757-d95cc693d856.md
         - name: 05525b77-8ca6-462f-8902-15788cb405c6
@@ -1314,6 +1326,8 @@
           href: azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md
         - name: 2f05d0f8-3f87-4a59-952d-33c69c24a6d9
           href: azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9.md
+        - name: 2fa142be-31b5-4fda-bd37-591541b501aa
+          href: azure/2fa142be-31b5-4fda-bd37-591541b501aa.md
         - name: 32eae2b8-2111-431f-9263-e8e1120d0a97
           href: azure/32eae2b8-2111-431f-9263-e8e1120d0a97.md
         - name: 33ccef75-8248-44e8-88d3-24526ca9c2d3
@@ -1450,6 +1464,8 @@
           href: azure/69e59100-2fb7-4f6e-a311-987f52b3007b.md
         - name: 6b4a2fee-5642-41a7-b452-d555fac690b0
           href: azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md
+        - name: 6be25d92-7c0e-4b2f-829e-108766e095df
+          href: azure/6be25d92-7c0e-4b2f-829e-108766e095df.md
         - name: 6d7f01cb-cfa5-48d9-beed-363d381ae32b
           href: azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b.md
         - name: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba
