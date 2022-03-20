@@ -2,18 +2,19 @@
 title: Informações de aplicativos para pregados por S.L. DO APLICATIVO COM ADD.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Empresa, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6db76106efdc61b69c911ef889242f2fca72fc90
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 390a2efaa3aff44b1343645041c091b662c8e726
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254844"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553180"
 ---
 # <a name="nailted"></a>Nailted
 
@@ -38,7 +39,7 @@ Informações fornecidas por S.L. DO APLICATIVO PREDA. para a Microsoft:
 | Nome da empresa de parceiro | NAILTED APP S.L. |
 | Site da empresa | [https://nailted.com](https://nailted.com) |
 | Termos de uso do aplicativo | [https://nailted.com/legal/terms](https://nailted.com/legal/terms) |
-| Funcionalidade principal do aplicativo | A plataforma de envolvimento de funcionários para equipes &amp; modernas de RH de pessoas. |
+| Funcionalidade principal do aplicativo | A plataforma de envolvimento de funcionários para equipes modernas de RH de &amp; pessoas. |
 | Localização da sede da empresa | Espanha |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
@@ -170,11 +171,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | aplicação | Usado para acessar os grupos. | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
->| TeamsAppInstallation.ReadWriteForUser | aplicação | O usuário pode selecionar para quais usuários deseja instalar o aplicativo. Portanto, usamos essa permissão para instalar o aplicativo | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
->| User.Read.All | aplicação | Usado para ler informações dos usuários | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
->| email | aplicação | Acessar emails de funcionários para sincronize-los | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
->| offline_access | aplicação | Usamos essa permissão para ter acesso à api quando o usuário não estiver online para poder sincronizar funcionários e instalar o aplicativo | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| Directory.Read.All | aplicação | Usado para acessar os grupos. | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](../azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7.md) |
+>| TeamsAppInstallation.ReadWriteForUser | aplicação | O usuário pode selecionar para quais usuários deseja instalar o aplicativo. Portanto, usamos essa permissão para instalar o aplicativo | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](../azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7.md) |
+>| User.Read.All | aplicação | Usado para ler informações dos usuários | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](../azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7.md) |
+>| email | aplicação | Acessar emails de funcionários para sincronize-los | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](../azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7.md) |
+>| offline_access | aplicação | Usamos essa permissão para ter acesso à api quando o usuário não estiver online para poder sincronizar funcionários e instalar o aplicativo | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](../azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

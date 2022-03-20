@@ -2,18 +2,19 @@
 title: Informações do aplicativo para yuccaHR pela Yucca Technologies GmbH
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a yuccaHR, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f5e1475a1db71c51ac58a6bc062ce9e4b17e8ab3
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: da99569821461232ce6ed852810b85b989f2b944
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251487"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63536338"
 ---
 # <a name="yuccahr"></a>yuccaHR
 
@@ -38,9 +39,9 @@ Informações fornecidas pela Yucca Technologies GmbH para a Microsoft:
 | Nome da empresa de parceiro | GmbH da Tecnologias de Yucca |
 | Site da empresa | [https://www.yuccahr.com](https://www.yuccahr.com) |
 | Termos de uso do aplicativo | [https://www.yuccahr.com/terms-of-use](https://www.yuccahr.com/terms-of-use) |
-| Funcionalidade principal do aplicativo | Conexão sua equipe, integre novos contratados, crie envolvimento. Diretamente no Microsoft Teams. |
+| Funcionalidade principal do aplicativo | Conexão sua equipe, integrar novos contratados, criar envolvimento. Diretamente no Microsoft Teams. |
 | Localização da sede da empresa | Alemanha |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.yuccahr.com/product](https://www.yuccahr.com/product) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -60,7 +61,7 @@ Essas informações foram fornecidas pela GmbH da Yucca Technologies sobre como 
 | Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | UserID, TenantID, Microsoft Teams TeamID, Microsoft Teams ChannelID, Endereço de email do usuário de administradores |
+| Quais dados são armazenados em seus bancos de dados? | UserID, TenantID, Microsoft Teams TeamID, Microsoft Teams ChannelID, endereço de email do usuário de administradores |
 | Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Alemanha |
 | Você tem um processo estabelecido de locação e descarte de dados? | Não |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
@@ -170,12 +171,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | aplicação | Para agendar um evento de calendário para as partes correspondentes | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
->| Channel.ReadBasic.All | aplicação | Exibir nomes de canais no aplicativo Web | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
->| ChannelMember.Read.All | aplicação | Para corresponder as pessoas em um canal ou com outros canais | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
->| Group.Read.All | aplicação | Exibir nomes de equipe no aplicativo Web | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
->| MailboxSettings.Read | aplicação | Para obter o idioma desejado pelos usuários, ao enviar mensagens | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
->| User.Read.All | aplicação | O email é necessário para gerar cartões adaptáveis para permitir que os usuários conversem diretamente | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| Calendars.ReadWrite | aplicação | Para agendar um evento de calendário para as partes correspondentes | [815a5165-fd61-44b8-be99-6301f780bd68](../azure/815a5165-fd61-44b8-be99-6301f780bd68.md) |
+>| Channel.ReadBasic.All | aplicação | Exibir nomes de canais no aplicativo Web | [815a5165-fd61-44b8-be99-6301f780bd68](../azure/815a5165-fd61-44b8-be99-6301f780bd68.md) |
+>| ChannelMember.Read.All | aplicação | Para corresponder as pessoas em um canal ou com outros canais | [815a5165-fd61-44b8-be99-6301f780bd68](../azure/815a5165-fd61-44b8-be99-6301f780bd68.md) |
+>| Group.Read.All | aplicação | Exibir nomes de equipe no aplicativo Web | [815a5165-fd61-44b8-be99-6301f780bd68](../azure/815a5165-fd61-44b8-be99-6301f780bd68.md) |
+>| MailboxSettings.Read | aplicação | Para obter o idioma desejado pelos usuários, ao enviar mensagens | [815a5165-fd61-44b8-be99-6301f780bd68](../azure/815a5165-fd61-44b8-be99-6301f780bd68.md) |
+>| User.Read.All | aplicação | O email é necessário para gerar cartões adaptáveis para permitir que os usuários conversem diretamente | [815a5165-fd61-44b8-be99-6301f780bd68](../azure/815a5165-fd61-44b8-be99-6301f780bd68.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

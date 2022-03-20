@@ -1,19 +1,20 @@
 ---
-title: Informações do aplicativo para Project Migrator pela FluentPro Software Corporation
+title: Informações do aplicativo para Project migrador pela FluentPro Software Corporation
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Project Migrator, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d575f58d47edb104deba3138697d8c948e35e980
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5a46cd25678376abbb92734b3fd4a36292687fb9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250107"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540007"
 ---
 # <a name="project-migrator"></a>Projeto Migrator
 
@@ -38,10 +39,11 @@ Informações fornecidas pela FluentPro Software Corporation à Microsoft:
 | Nome da empresa de parceiro | FluentPro Software Corporação |
 | Site da empresa | [https://projectmigrator.com](https://projectmigrator.com) |
 | Termos de uso do aplicativo | [https://projectmigrator.com/terms-of-use](https://projectmigrator.com/terms-of-use) |
-| Funcionalidade principal do aplicativo | Project Migrator é um Software de Migração de Dados automatizado. Ele oferece suporte a vários cenários de migração com os sistemas de gerenciamento de projetos mais populares, como Microsoft Planner, Trello, Asana, Microsoft Project Online, Project para migração de Web, Monday.com e Smartsheets. Project Migrator é um software totalmente automatizado, fácil de usar, baseado em nuvem e rápido que ajuda as empresas a migrar projetos entre as ferramentas de gerenciamento de projetos mais populares. |
+| Funcionalidade principal do aplicativo | Project Migrator é um Software de Migração de Dados automatizado. Ele oferece suporte a vários cenários de migração com os sistemas de gerenciamento de projetos mais populares, como Microsoft Planner, Trello, Asana, Microsoft Project Online, Project para Migração de Web, Monday.com e Smartsheets. Project Migrator é um software totalmente automatizado, fácil de usar, baseado em nuvem e rápido que ajuda as empresas a migrar projetos entre as ferramentas de gerenciamento de projetos mais populares. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://help.fluentpro.com/147404-project-migrator](https://help.fluentpro.com/147404-project-migrator) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pela FluentPro Software Corporation sobre c
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de 2 semanas |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,13 +161,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | delegado | Leia grupos e suas associações para migrar para o outro locatário. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| Group.ReadWrite.All | delegado | Nome do grupo, Membros, Planos e Tarefas. Use informações de grupos, planos e tarefas para a migração de dados do Planner. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| Sites.ReadWrite.All | delegado | Migre SharePoint documentos para anexos de tarefas do MS Planner. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| User.Read | delegado | UPN para armazenar informações de resumo de migração do MS Planner vinculadas à conta. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| User.ReadBasic.All | delegado | Use as informações do usuário para migrar as atribuições de tarefas do MS Planner e a associação ao grupo. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| offline_access | delegado | Os tokens de atualização e acesso são usados para acessar dados do MS Planner. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| User.Read | delegado | Nome, Sobrenome, Nome da Empresa, Telefone, Email Corporativo. Esses dados usados para processos de registro e autenticação. | [c36d31a2-8de1-4eb5-9e7d-01da45244c04](https://docs.microsoft.com/microsoft-365-app-certification/azure/c36d31a2-8de1-4eb5-9e7d-01da45244c04) |
+>| Directory.Read.All | delegado | Leia grupos e suas associações para migrar para o outro locatário. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| Group.ReadWrite.All | delegado | Nome do grupo, Membros, Planos e Tarefas. Use informações de grupos, planos e tarefas para a migração de dados do Planner. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| Sites.ReadWrite.All | delegado | Migre SharePoint documentos para anexos de tarefas do MS Planner. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| User.Read | delegado | UPN para armazenar informações de resumo de migração do MS Planner vinculadas à conta. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| User.ReadBasic.All | delegado | Use as informações do usuário para migrar as atribuições de tarefas do MS Planner e a associação ao grupo. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| offline_access | delegado | Os tokens de atualização e acesso são usados para acessar dados do MS Planner. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| User.Read | delegado | Nome, Sobrenome, Nome da Empresa, Telefone, Email Corporativo. Esses dados usados para processos de registro e autenticação. | [c36d31a2-8de1-4eb5-9e7d-01da45244c04](../azure/c36d31a2-8de1-4eb5-9e7d-01da45244c04.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

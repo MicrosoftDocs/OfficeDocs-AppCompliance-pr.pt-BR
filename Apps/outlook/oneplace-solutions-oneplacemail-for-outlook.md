@@ -1,19 +1,20 @@
 ---
-title: Informações sobre aplicativos do OnePlaceMail para Outlook soluções do OnePlace
+title: Informações do aplicativo do OnePlaceMail para Outlook soluções do OnePlace
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o OnePlaceMail para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 97716d5548180d2e1a4f59ecd9dfeaeb36ee99bf
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 16141496ee26fd338485f09b24004e866854be82
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250288"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553040"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail para Outlook
 
@@ -37,10 +38,11 @@ Informações fornecidas pelas Soluções do OnePlace para a Microsoft:
 | Nome da empresa de parceiro | Soluções OnePlace |
 | Site da empresa | [https://www.oneplacesolutions.com](https://www.oneplacesolutions.com) |
 | Termos de uso do aplicativo | [https://www.oneplacesolutions.com/eula.html](https://www.oneplacesolutions.com/eula.html) |
-| Funcionalidade principal do aplicativo | O OnePlaceMail permite salvar emails e anexos SharePoint, OneDrive e Teams. Ele também permite que o conteúdo de SharePoint, OneDrive e Teams seja usado ao compor emails. |
+| Funcionalidade principal do aplicativo | O OnePlaceMail permite salvar emails e anexos SharePoint, OneDrive e Teams. Ele também permite que o conteúdo de SharePoint, OneDrive e Teams sejam usados ao compor emails. |
 | Localização da sede da empresa | Austrália |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.oneplacesolutions.com/oneplacemail-sharepoint-a...](https://www.oneplacesolutions.com/oneplacemail-sharepoint-app-for-outlook.html) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ Essas informações foram fornecidas pelas Soluções do OnePlace sobre como ess
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,14 +160,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.ReadWrite.All | delegado | Obrigatório para determinar Teams o usuário atual é membro. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| Mail.ReadWrite.Shared | delegado | Necessário para acessar propriedades de email para definir SharePoint colunas e adicionar a categoria Transferido para SharePoint no item de email | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| MailboxSettings.ReadWrite | delegado | Sem dados coletados ou usados, isso é usado para adicionar uma categoria à lista de categorias mestras em uma caixa de correio de usuários | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| Sites.ReadWrite.All | delegado | Necessário para definir propriedades em itens que o aplicativo carregou para SharePoint. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| User.Read | delegado | Obrigatório para autenticação no microsoft Graph. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| User.ReadBasic.All | delegado | Necessário para mostrar a imagem do perfil do usuário no campo se picker de pessoas. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| User.ReadBasic.All | delegado | Necessário para mostrar a imagem do perfil do usuário no campo se picker de pessoas. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| User.ReadWrite.All | delegado | Necessário para determinar se o serviço Teams está habilitado dentro do Office 365 de usuário. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| Group.ReadWrite.All | delegado | Obrigatório para determinar Teams o usuário atual é membro. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| Mail.ReadWrite.Shared | delegado | Necessário para acessar propriedades de email para definir SharePoint colunas e adicionar a categoria Transferido para SharePoint no item de email | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| MailboxSettings.ReadWrite | delegado | Sem dados coletados ou usados, isso é usado para adicionar uma categoria à lista de categorias mestras em uma caixa de correio de usuários | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| Sites.ReadWrite.All | delegado | Necessário para definir propriedades em itens que o aplicativo carregou para SharePoint. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| User.Read | delegado | Obrigatório para autenticação no microsoft Graph. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| User.ReadBasic.All | delegado | Necessário para mostrar a imagem do perfil do usuário no campo se picker de pessoas. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| User.ReadBasic.All | delegado | Necessário para mostrar a imagem do perfil do usuário no campo se picker de pessoas. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| User.ReadWrite.All | delegado | Necessário para determinar se o serviço Teams está habilitado no Office 365 usuários. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

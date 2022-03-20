@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Webdashboard por In Summa
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Webdashboard, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 291cd9b5852273bb1c10336ee4efb697f7dead1c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 9fff17d64e47c8dd5008ba02ec3c80f00ba15be0
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256597"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63536539"
 ---
 # <a name="webdashboard"></a>Webdashboard
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo In Summa para a Microsoft:
 | Termos de uso do aplicativo | [https://webdashboard.com/wp-content/uploads/2021/06/Nederla...](https://webdashboard.com/wp-content/uploads/2021/06/Nederland-ICT-Voorwaarden-2014-EN.pdf) |
 | Funcionalidade principal do aplicativo | Inserir qualquer relatório Power BI, como uma guia, usando o single Sign-On webdashboard |
 | Localização da sede da empresa | Países Baixos (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://webdashboard.com/feature/teams-app/](https://webdashboard.com/feature/teams-app/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -57,14 +58,7 @@ Essas informações foram fornecidas pelo In Summa sobre como esse aplicativo co
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,7 +161,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.ReadWrite.All | aplicação | Login único para o usuário | [38b3f4fa-4229-4d51-9937-6e4515650c8c](https://docs.microsoft.com/microsoft-365-app-certification/azure/38b3f4fa-4229-4d51-9937-6e4515650c8c) |
+>| User.ReadWrite.All | aplicação | Login único para o usuário | [38b3f4fa-4229-4d51-9937-6e4515650c8c](../azure/38b3f4fa-4229-4d51-9937-6e4515650c8c.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

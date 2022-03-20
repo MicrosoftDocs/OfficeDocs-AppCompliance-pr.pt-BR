@@ -2,18 +2,19 @@
 title: Informações do aplicativo para afeiçoado pela Fond Technologies, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/04/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Fond, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3c2e40a9b2c35cade0dcb3e3eb551a0de4b541a1
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: a161c87d59eb0e920d0bfd4f5b7a88f9d2ef863a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147145"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538149"
 ---
 # <a name="fond"></a>Fond
 
@@ -40,7 +41,7 @@ Informações fornecidas pela Fond Technologies, Inc. à Microsoft:
 | Termos de uso do aplicativo | [https://www.fond.co/tos/](https://www.fond.co/tos/) |
 | Funcionalidade principal do aplicativo | Celebrar as conquistas de seus colegas de trabalho com o Fond |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://fond.co/products/features/fond-teams-integration/](https://fond.co/products/features/fond-teams-integration/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -166,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

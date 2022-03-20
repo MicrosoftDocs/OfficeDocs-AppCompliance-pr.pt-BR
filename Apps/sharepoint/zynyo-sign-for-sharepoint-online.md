@@ -1,19 +1,20 @@
 ---
-title: Informações do aplicativo para Zynyo Sign for SharePoint Online by Zynyo
+title: Informações do aplicativo para Zynyo Sign for SharePoint Online por Zynyo
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Zynyo Sign for SharePoint Online, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Zynyo Sign for SharePoint Online, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b9b36b38e24a421f4bd39d935b6506c87ea67a0e
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 451bf9e9e325e4d0f9f2269598c82d5067d4ba45
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200533"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553250"
 ---
 # <a name="zynyo-sign-for-sharepoint-online"></a>Zynyo Sign for SharePoint Online
 
@@ -39,9 +40,9 @@ Informações fornecidas por Zynyo à Microsoft:
 | Termos de uso do aplicativo | [https://zynyo.com/Algemene%20Voorwaarden%20Zynyo%20BV.pdf](https://zynyo.com/Algemene%20Voorwaarden%20Zynyo%20BV.pdf) |
 | Funcionalidade principal do aplicativo | Alle documenten eenvoudig en rechtsgeldig digitaal laten ondertekenen. |
 | Localização da sede da empresa | Países Baixos (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://zynyo.com/signing-service-diensten/sharepoint/](https://zynyo.com/signing-service-diensten/sharepoint/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outro |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outros |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,7 +166,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para a sala de reserva Pro por Witivio
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o booking room Pro, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 20773ef58c582a0c2b4f36cc123573796629fc31
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: b971ec4848524feb149899a84734dda08b4ccb92
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257607"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540409"
 ---
 # <a name="booking-room-pro"></a>Reservar Room Profissional
 
@@ -38,7 +39,7 @@ Informações fornecidas pelo Witivio à Microsoft:
 | Nome da empresa de parceiro | Witivio |
 | Site da empresa | [https://www.witivio.com](https://www.witivio.com) |
 | Termos de uso do aplicativo | [https://www.teams-pro.com/en/terms-of-use/](https://www.teams-pro.com/en/terms-of-use/) |
-| Funcionalidade principal do aplicativo | O Booking Room Pro é um aplicativo Microsoft Teams que ajuda a gerenciar a ocupabilidade de sala e os locais de assento no escritório. |
+| Funcionalidade principal do aplicativo | Booking Room Pro é um aplicativo Microsoft Teams que ajuda a gerenciar a ocupabilidade de sala e os locais de assento no escritório. |
 | Localização da sede da empresa | França |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
@@ -170,11 +171,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](https://docs.microsoft.com/microsoft-365-app-certification/azure/984562b3-6a46-4a7f-a19b-681442b0cdc0) |
->| email | delegado | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](https://docs.microsoft.com/microsoft-365-app-certification/azure/984562b3-6a46-4a7f-a19b-681442b0cdc0) |
->| offline_access | delegado | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](https://docs.microsoft.com/microsoft-365-app-certification/azure/984562b3-6a46-4a7f-a19b-681442b0cdc0) |
->| openid | delegado | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](https://docs.microsoft.com/microsoft-365-app-certification/azure/984562b3-6a46-4a7f-a19b-681442b0cdc0) |
->| perfil | delegado | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](https://docs.microsoft.com/microsoft-365-app-certification/azure/984562b3-6a46-4a7f-a19b-681442b0cdc0) |
+>| User.Read | delegado | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](../azure/984562b3-6a46-4a7f-a19b-681442b0cdc0.md) |
+>| email | delegado | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](../azure/984562b3-6a46-4a7f-a19b-681442b0cdc0.md) |
+>| offline_access | delegado | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](../azure/984562b3-6a46-4a7f-a19b-681442b0cdc0.md) |
+>| openid | delegado | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](../azure/984562b3-6a46-4a7f-a19b-681442b0cdc0.md) |
+>| perfil | delegado | Microsoft Teams SSO | [984562b3-6a46-4a7f-a19b-681442b0cdc0](../azure/984562b3-6a46-4a7f-a19b-681442b0cdc0.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

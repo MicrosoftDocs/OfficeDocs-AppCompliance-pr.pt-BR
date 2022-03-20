@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Teamflect by Grepsi Software
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Teamflect, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: da114b5dd610a5c1609a2e86041a4ca5483b8d63
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ab8d79a0483dd6782c3be3506bacc60255356258
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259527"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539997"
 ---
 # <a name="teamflect"></a>Teamflect
 
@@ -38,10 +39,11 @@ Informações fornecidas pelo Software Grepsi para a Microsoft:
 | Nome da empresa de parceiro | Grepsi Software |
 | Site da empresa | [https://teamflect.com](https://teamflect.com) |
 | Termos de uso do aplicativo | [https://teamflect.com/terms](https://teamflect.com/terms) |
-| Funcionalidade principal do aplicativo | Teamflect é uma solução de gerenciamento de desempenho e envolvimento de funcionários completa criada para Microsoft Teams. Ele torna as pessoas mais produtivas e mais envolvidas com seus módulos de Reunião 1 a 1, Goal/OKR, Feedback, Reconhecimento e Tarefas |
+| Funcionalidade principal do aplicativo | Teamflect é uma solução de gerenciamento de desempenho e envolvimento de funcionários criada para Microsoft Teams. Ele torna as pessoas mais produtivas e mais envolvidas com seus módulos de Reunião 1 a 1, Goal/OKR, Feedback, Reconhecimento e Tarefas |
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo Software Grepsi sobre como esse aplica
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,8 +162,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | aplicação | Usamos essa permissão para acessar calendários de usuários para identificar as reuniões 1 a 1 | [c5da92a9-873e-4ea1-86c7-03ec9c1384f0](https://docs.microsoft.com/microsoft-365-app-certification/azure/c5da92a9-873e-4ea1-86c7-03ec9c1384f0) |
->| Directory.Read.All | delegado | Diretório da empresa - usamos essa permissão para mostrar aos usuários finais uma lista de seus colegas ao executar uma pesquisa | [c5da92a9-873e-4ea1-86c7-03ec9c1384f0](https://docs.microsoft.com/microsoft-365-app-certification/azure/c5da92a9-873e-4ea1-86c7-03ec9c1384f0) |
+>| Calendars.Read | aplicação | Usamos essa permissão para acessar calendários de usuários para identificar as reuniões 1 a 1 | [c5da92a9-873e-4ea1-86c7-03ec9c1384f0](../azure/c5da92a9-873e-4ea1-86c7-03ec9c1384f0.md) |
+>| Directory.Read.All | delegado | Diretório da empresa - usamos essa permissão para mostrar aos usuários finais uma lista de seus colegas ao executar uma pesquisa | [c5da92a9-873e-4ea1-86c7-03ec9c1384f0](../azure/c5da92a9-873e-4ea1-86c7-03ec9c1384f0.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

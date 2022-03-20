@@ -2,18 +2,19 @@
 title: Informações sobre aplicativos qualificados por qualificados
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Qualificado, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 50617e8d23c4c427129f01a6a5a0a566ccc232a0
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 624758886c85e56f6c6eefc8ec0b22259c09125f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250977"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539867"
 ---
 # <a name="qualified"></a>Qualificado
 
@@ -40,8 +41,9 @@ Informações fornecidas por Qualified para a Microsoft:
 | Termos de uso do aplicativo | [https://www.qualified.com/legal/terms-of-service](https://www.qualified.com/legal/terms-of-service) |
 | Funcionalidade principal do aplicativo | Os representantes de vendas qualificados alertam instantaneamente quando as perspectivas quentes chegam ao seu site |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.qualified.com/university-guide/microsoft-teams-...](https://www.qualified.com/university-guide/microsoft-teams-integration) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Heroku |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas por Qualified sobre como esse aplicativo co
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Retido |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,8 +161,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | aplicação | Permite selecionar canal para notificar | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c) |
->| Team.ReadBasic.All | aplicação | Permite que encontremos todos os canais de todas as equipes, para nos permitir selecionar canais para notificar | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c) |
+>| Channel.ReadBasic.All | aplicação | Permite selecionar canal para notificar | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](../azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c.md) |
+>| Team.ReadBasic.All | aplicação | Permite que encontremos todos os canais de todas as equipes, para nos permitir selecionar canais para notificar | [2c951ed5-c5c6-493f-9b02-4b42e3ba536c](../azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

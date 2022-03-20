@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Tendfor por Tendfor
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para Tendfor, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: baf74e60015e41621c070103154d92432d7abdb9
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: ac7e3d8cd1e9a9cf851107f49d7ec305b8292759
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080605"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63536379"
 ---
 # <a name="tendfor"></a>Tendfor
 
@@ -39,7 +40,7 @@ Informações fornecidas pelo Tendfor à Microsoft:
 | Termos de uso do aplicativo | [https://tendfor.com/tendfor_docs/en/StandardContractMarch20...](https://tendfor.com/tendfor_docs/en/StandardContractMarch2019.pdf) |
 | Funcionalidade principal do aplicativo | Um centro de contatos totalmente em destaque e console de atendimento para Microsoft Teams. |
 | Localização da sede da empresa | Suécia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.tendfor.com](https://www.tendfor.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -60,7 +61,7 @@ Essas informações foram fornecidas pelo Tendfor sobre como esse aplicativo col
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Dados de perfil de usuário, dados de calendário do usuário |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Países Baixos (o) |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -170,9 +171,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Para poder entrar nos usuários | [b7e8237f-d86d-4874-8f8b-7faa8f768436](https://docs.microsoft.com/microsoft-365-app-certification/azure/b7e8237f-d86d-4874-8f8b-7faa8f768436) |
->| User.Read.All | aplicação | Para poder importar informações do usuário | [b7e8237f-d86d-4874-8f8b-7faa8f768436](https://docs.microsoft.com/microsoft-365-app-certification/azure/b7e8237f-d86d-4874-8f8b-7faa8f768436) |
->| User.Read.All | delegado | Para poder importar informações do usuário | [b7e8237f-d86d-4874-8f8b-7faa8f768436](https://docs.microsoft.com/microsoft-365-app-certification/azure/b7e8237f-d86d-4874-8f8b-7faa8f768436) |
+>| User.Read | delegado | Para poder entrar nos usuários | [b7e8237f-d86d-4874-8f8b-7faa8f768436](../azure/b7e8237f-d86d-4874-8f8b-7faa8f768436.md) |
+>| User.Read.All | aplicação | Para poder importar informações do usuário | [b7e8237f-d86d-4874-8f8b-7faa8f768436](../azure/b7e8237f-d86d-4874-8f8b-7faa8f768436.md) |
+>| User.Read.All | delegado | Para poder importar informações do usuário | [b7e8237f-d86d-4874-8f8b-7faa8f768436](../azure/b7e8237f-d86d-4874-8f8b-7faa8f768436.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

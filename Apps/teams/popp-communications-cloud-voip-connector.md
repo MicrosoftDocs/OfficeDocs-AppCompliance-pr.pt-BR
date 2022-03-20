@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Conector voIP de nuvem DA PAPO pela COMUNICAÇÃO DO PAPO
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o CONECTOR VOIP da Nuvem DA PAPO, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o CONECTOR VOIP da NUVEM DA PAPO, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 500cfe209fd6b11281f786d23d351c1c06493452
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: e340bbfadf05d9c204ae5766a631265804e11c33
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263578"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553070"
 ---
 # <a name="popp-cloud-voip-connector"></a>Conector VoIP Nuvem POPP
 
@@ -42,6 +43,7 @@ Informações fornecidas pela COMUNICAÇÃO DA PAPO para a Microsoft:
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pela COMUNICAÇÃO DA PAPO SOBRE como esse 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,11 +162,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMember.Read.All | delegado | IDs de usuário e nomes de exibição de membros do canal atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros do canal para chamar. | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
->| Chat.Read | delegado |  Quais dados são coletados ou usados? Adicione justificativa para coletar ou usar os dados. IDs de usuário e nomes de exibição de membros do chat atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros do chat para chamar. | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
->| TeamMember.Read.All | delegado | IDs de usuário e nomes de exibição de membros da equipe atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros da equipe para chamar. | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
->| User.Read.All | delegado |  Quais dados são coletados ou usados? Adicione justificativa para coletar ou usar os dados. Os números de telefone celular e comercial dos usuários. Isso é necessário para que as chamadas telefônicas para esses números possam ser iniciadas. | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
->| openid | delegado | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros pontos de extremidade Graph API listados em seu nome. | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9) |
+>| ChannelMember.Read.All | delegado | IDs de usuário e nomes de exibição de membros do canal atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros do canal para chamar. | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| Chat.Read | delegado |  Quais dados são coletados ou usados? Adicione justificativa para coletar ou usar os dados. IDs de usuário e nomes de exibição de membros do chat atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros do chat para chamar. | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| TeamMember.Read.All | delegado | IDs de usuário e nomes de exibição de membros da equipe atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros da equipe para chamar. | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| User.Read.All | delegado |  Quais dados são coletados ou usados? Adicione justificativa para coletar ou usar os dados. Os números de telefone celular e comercial dos usuários. Isso é necessário para que as chamadas telefônicas para esses números possam ser iniciadas. | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
+>| openid | delegado | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros pontos de extremidade Graph API listados em seu nome. | [b8e57f6b-31cf-468e-9e99-81f0395cb1f9](../azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

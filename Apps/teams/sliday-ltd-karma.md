@@ -2,12 +2,19 @@
 title: Informações do aplicativo para o Karma pela Sliday LTD
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 'Todas as informações de segurança e conformidade disponíveis para o Karma, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.'
+description: Todas as informações de segurança e conformidade disponíveis para o Karma, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 00b0587dfed116356e932bef9208655275c81e96
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553280"
 ---
 # <a name="karma"></a>Karma
 
@@ -34,9 +41,9 @@ Informações fornecidas pela Sliday LTD à Microsoft:
 | Termos de uso do aplicativo | [https://karmabot.readme.io/docs/karma-end-user-license-agre...](https://karmabot.readme.io/docs/karma-end-user-license-agreement-eula) |
 | Funcionalidade principal do aplicativo | Vínculo verdadeiro para equipes remotas. |
 | Localização da sede da empresa | Nova Zelândia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://karmabot.chat/ms](https://karmabot.chat/ms) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outro |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outros |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -160,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

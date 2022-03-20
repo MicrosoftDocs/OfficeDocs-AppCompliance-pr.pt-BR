@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Estrutura pela Structural Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Estrutural, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: dc7e32b020dae92b88f2324701c704d5d8303743
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: bcd2ab91502f7057f2a5fd7ec002b80120ac760f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263480"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553060"
 ---
 # <a name="structural"></a>Estrutural
 
@@ -38,9 +39,9 @@ Informações fornecidas pela Structural Inc. à Microsoft:
 | Nome da empresa de parceiro | Estrutural Inc. |
 | Site da empresa | [https://www.structural.com](https://www.structural.com) |
 | Termos de uso do aplicativo | [https://www.structural.com/terms-of-service](https://www.structural.com/terms-of-service) |
-| Funcionalidade principal do aplicativo | Conexão pessoas entre si e para oportunidade |
+| Funcionalidade principal do aplicativo | Conexão pessoas uns para os outros e para a oportunidade |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.structural.com](https://www.structural.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS, GCP |
 
@@ -169,11 +170,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | delegado | Sim: para autenticar usuários durante o login único. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| email | delegado | Sim: para autenticar usuários durante o login único. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| offline_access | delegado | Sim: para autenticar usuários durante o login único. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| openid | delegado | Sim: para autenticar usuários durante o login único. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| perfil | delegado | Sim: para autenticar usuários durante o login único. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
+>| Directory.AccessAsUser.All | delegado | Sim: para autenticar usuários durante o login único. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
+>| email | delegado | Sim: para autenticar usuários durante o login único. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
+>| offline_access | delegado | Sim: para autenticar usuários durante o login único. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
+>| openid | delegado | Sim: para autenticar usuários durante o login único. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
+>| perfil | delegado | Sim: para autenticar usuários durante o login único. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para DELTAoverC pelo DELTAoverC
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para DELTAoverC, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 80273bfba0db86b443e84b46343ab6b04a264ac8
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 315d62622741a685849ee679d584624ccce19d75
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259677"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538169"
 ---
 # <a name="deltaoverc"></a>DELTAoverC
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo DELTAoverC à Microsoft:
 | Termos de uso do aplicativo | [https://go.microsoft.com](https://go.microsoft.com) |
 | Funcionalidade principal do aplicativo | O DELTAoverC foi projetado para dar suporte a mudanças organizacionais e transformação fornecendo aos líderes internos dados ativos em nível de equipe durante a iniciativa de alteração que permite que eles abordem efetivamente áreas de resistência a alterações ou de baixo envolvimento. Maximizar o Envolvimento - Controlar as pontuações de envolvimento em tempo real para garantir que as equipes prosperem durante a interrupção. Reduzir o risco e o esforço - Analisar dados de nível de equipe para prever problemas ANTES dessas espirais em grandes desafios. |
 | Localização da sede da empresa | Canadá |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://DELTAoverC.info/change-application](https://DELTAoverC.info/change-application) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -57,14 +58,7 @@ Essas informações foram fornecidas pelo DELTAoverC sobre como esse aplicativo 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -168,12 +162,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.Read.All | ambos | Ler todos os grupos | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
->| Group.ReadWrite.All | ambos | Ler e gravar todos os grupos | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
->| User.Read | delegado | Entrar e ler o perfil do usuário | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
->| User.Read.All | aplicação | Ler o perfil completo de todos os usuários | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
->| User.ReadWrite | delegado | Acesso de leitura e gravação ao perfil de usuário | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
->| User.ReadWrite.All | ambos | Ler e gravar todos os perfis completos de usuários | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| Group.Read.All | ambos | Ler todos os grupos | [8b893db3-8c29-4983-b905-ee0b3daa6a46](../azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md) |
+>| Group.ReadWrite.All | ambos | Ler e gravar todos os grupos | [8b893db3-8c29-4983-b905-ee0b3daa6a46](../azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário | [8b893db3-8c29-4983-b905-ee0b3daa6a46](../azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md) |
+>| User.Read.All | aplicação | Ler o perfil completo de todos os usuários | [8b893db3-8c29-4983-b905-ee0b3daa6a46](../azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md) |
+>| User.ReadWrite | delegado | Acesso de leitura e gravação ao perfil de usuário | [8b893db3-8c29-4983-b905-ee0b3daa6a46](../azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md) |
+>| User.ReadWrite.All | ambos | Ler e gravar todos os perfis completos de usuários | [8b893db3-8c29-4983-b905-ee0b3daa6a46](../azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

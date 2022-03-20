@@ -2,18 +2,19 @@
 title: Informações do aplicativo para LumApps por LumApps
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para LumApps, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 586e610baef739e4db1beb962856f9e0b1282627
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 6ef05b71826884efb6414037542cedb5a04aa81e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255667"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538099"
 ---
 # <a name="lumapps"></a>LumApps
 
@@ -38,10 +39,11 @@ Informações fornecidas pelo LumApps para a Microsoft:
 | Nome da empresa de parceiro | LumApps |
 | Site da empresa | [https://www.lumapps.com](https://www.lumapps.com) |
 | Termos de uso do aplicativo | [https://www.lumapps.com/end-user-licence-agreement-english/](https://www.lumapps.com/end-user-licence-agreement-english/) |
-| Funcionalidade principal do aplicativo | Vincule seus LumApps ao Microsoft Teams com várias integrações de duas maneiras |
+| Funcionalidade principal do aplicativo | Vincule seus LumApps Microsoft Teams com várias integrações de duas maneiras |
 | Localização da sede da empresa | França |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo LumApps sobre como esse aplicativo col
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,9 +162,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read.All | delegado | Informações de perfil | [170d42a4-4ec0-4f51-bef0-693c589fccfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/170d42a4-4ec0-4f51-bef0-693c589fccfc) |
->| openid | delegado | Autorizar o logon | [170d42a4-4ec0-4f51-bef0-693c589fccfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/170d42a4-4ec0-4f51-bef0-693c589fccfc) |
->| perfil | delegado | Informações sobre o logon | [170d42a4-4ec0-4f51-bef0-693c589fccfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/170d42a4-4ec0-4f51-bef0-693c589fccfc) |
+>| User.Read.All | delegado | Informações de perfil | [170d42a4-4ec0-4f51-bef0-693c589fccfc](../azure/170d42a4-4ec0-4f51-bef0-693c589fccfc.md) |
+>| openid | delegado | Autorizar o logon | [170d42a4-4ec0-4f51-bef0-693c589fccfc](../azure/170d42a4-4ec0-4f51-bef0-693c589fccfc.md) |
+>| perfil | delegado | Informações sobre o logon | [170d42a4-4ec0-4f51-bef0-693c589fccfc](../azure/170d42a4-4ec0-4f51-bef0-693c589fccfc.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

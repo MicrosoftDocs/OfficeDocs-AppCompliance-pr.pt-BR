@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Grampeador por Crowd Cast, Ltd.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Staple, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7bd998858872f838e12e10b4b1e6aef2a0cc61b2
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: fa799418e4943907303d516fe75de9ccf0ab3a1e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260633"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538179"
 ---
 # <a name="staple"></a>Staple
 
@@ -40,8 +41,9 @@ Informações fornecidas pela Crowd Cast, Ltd. para a Microsoft:
 | Termos de uso do aplicativo | [https://go.microsoft.com](https://go.microsoft.com) |
 | Funcionalidade principal do aplicativo | Altere seu estilo de trabalho com o gerenciamento de despesas em tempo real. O Staple permite fácil envio, aprovação e acompanhamento de despesas para sua empresa. Vincule serviços Microsoft para interagir facilmente com nosso produto. |
 | Localização da sede da empresa | Japão |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://intercom.help/staple/ja](https://intercom.help/staple/ja) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS, Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo Crowd Cast, Ltd. sobre como esse aplic
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,11 +161,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Organization.Read.All | aplicação | Usado para coletar id de locatário. Usado para garantir que os usuários que se autenticam com nossa plataforma sejam membros de um locatário específico. | [ac9ca94a-e666-4f61-959a-12c063e13e69](https://docs.microsoft.com/microsoft-365-app-certification/azure/ac9ca94a-e666-4f61-959a-12c063e13e69) |
->| TeamsAppInstallation.ReadWriteSelfForUser.All | aplicação | Teams aplicativo instala a si mesmo para a equipe do usuário | [ac9ca94a-e666-4f61-959a-12c063e13e69](https://docs.microsoft.com/microsoft-365-app-certification/azure/ac9ca94a-e666-4f61-959a-12c063e13e69) |
->| AppCatalog.Read.All | delegado | Lê o catálogo de aplicativos de um usuário para ver se o aplicativo teams está instalado. | [bbdcd676-7448-453c-bec7-70e5384bc290](https://docs.microsoft.com/microsoft-365-app-certification/azure/bbdcd676-7448-453c-bec7-70e5384bc290) |
->| User.Read | delegado | Usado para ler a ID de um usuário para garantir que as mensagens sejam enviadas para o usuário correto. | [bbdcd676-7448-453c-bec7-70e5384bc290](https://docs.microsoft.com/microsoft-365-app-certification/azure/bbdcd676-7448-453c-bec7-70e5384bc290) |
->| openid | delegado | Entre em um usuário para ler suas informações básicas de perfil | [bbdcd676-7448-453c-bec7-70e5384bc290](https://docs.microsoft.com/microsoft-365-app-certification/azure/bbdcd676-7448-453c-bec7-70e5384bc290) |
+>| Organization.Read.All | aplicação | Usado para coletar id de locatário. Usado para garantir que os usuários que se autenticam com nossa plataforma sejam membros de um locatário específico. | [ac9ca94a-e666-4f61-959a-12c063e13e69](../azure/ac9ca94a-e666-4f61-959a-12c063e13e69.md) |
+>| TeamsAppInstallation.ReadWriteSelfForUser.All | aplicação | Teams aplicativo instala a si mesmo para a equipe do usuário | [ac9ca94a-e666-4f61-959a-12c063e13e69](../azure/ac9ca94a-e666-4f61-959a-12c063e13e69.md) |
+>| AppCatalog.Read.All | delegado | Lê o catálogo de aplicativos de um usuário para ver se o aplicativo teams está instalado. | [bbdcd676-7448-453c-bec7-70e5384bc290](../azure/bbdcd676-7448-453c-bec7-70e5384bc290.md) |
+>| User.Read | delegado | Usado para ler a ID de um usuário para garantir que as mensagens sejam enviadas para o usuário correto. | [bbdcd676-7448-453c-bec7-70e5384bc290](../azure/bbdcd676-7448-453c-bec7-70e5384bc290.md) |
+>| openid | delegado | Entre em um usuário para ler suas informações básicas de perfil | [bbdcd676-7448-453c-bec7-70e5384bc290](../azure/bbdcd676-7448-453c-bec7-70e5384bc290.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

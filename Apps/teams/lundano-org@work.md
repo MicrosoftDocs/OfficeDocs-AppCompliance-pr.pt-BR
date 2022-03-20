@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Org@Work por Lundano
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Org@Work, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7fd4e389d0bd62ffea91f68b87bd02984b87ef34
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 580488239179057eb70629354c87311484ff4ef4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259457"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539947"
 ---
 # <a name="orgwork"></a>Org@Work
 
@@ -40,8 +41,9 @@ Informações fornecidas por Lundano à Microsoft:
 | Termos de uso do aplicativo | [https://cp.lundano.com/Terms_en.html](https://cp.lundano.com/Terms_en.html) |
 | Funcionalidade principal do aplicativo | Gerenciar sua organização de trabalho e a ocupação do office com planejamentos colaborativos |
 | Localização da sede da empresa | França |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.lundano.com/orgatwork/index.html#](https://www.lundano.com/orgatwork/index.html#) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas por Lundano sobre como esse aplicativo cole
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,11 +162,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
->| email | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
->| offline_access | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
->| openid | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
->| perfil | delegado | Estamos armazenar dados. Usamos os dados para fazer logon do usuário Org@work | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| User.Read | delegado | Estamos armazenar dados. Usamos apenas os dados para fazer logon do usuário Org@work | [aa1c54a1-f482-424d-9389-dbd131233483](../azure/aa1c54a1-f482-424d-9389-dbd131233483.md) |
+>| email | delegado | Estamos armazenar dados. Usamos apenas os dados para fazer logon do usuário Org@work | [aa1c54a1-f482-424d-9389-dbd131233483](../azure/aa1c54a1-f482-424d-9389-dbd131233483.md) |
+>| offline_access | delegado | Estamos armazenar dados. Usamos apenas os dados para fazer logon do usuário Org@work | [aa1c54a1-f482-424d-9389-dbd131233483](../azure/aa1c54a1-f482-424d-9389-dbd131233483.md) |
+>| openid | delegado | Estamos armazenar dados. Usamos apenas os dados para fazer logon do usuário Org@work | [aa1c54a1-f482-424d-9389-dbd131233483](../azure/aa1c54a1-f482-424d-9389-dbd131233483.md) |
+>| perfil | delegado | Estamos armazenar dados. Usamos apenas os dados para fazer logon do usuário Org@work | [aa1c54a1-f482-424d-9389-dbd131233483](../azure/aa1c54a1-f482-424d-9389-dbd131233483.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

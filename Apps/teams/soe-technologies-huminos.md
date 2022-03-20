@@ -2,18 +2,19 @@
 title: Informações do aplicativo para huminos por tecnologias SOE
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para huminos, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8586f417df16a0ae41c246dea922a72a2ed7db2e
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 30dbce16045e879e99bd888812aed7eab4116572
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263541"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539797"
 ---
 # <a name="huminos"></a>huminos
 
@@ -40,8 +41,9 @@ Informações fornecidas pelas Tecnologias SOE para a Microsoft:
 | Termos de uso do aplicativo | [https://www.myokr.co/terms](https://www.myokr.co/terms) |
 | Funcionalidade principal do aplicativo | Acelerar o desempenho |
 | Localização da sede da empresa | Índia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.myokr.co](https://www.myokr.co) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelas Tecnologias SOE sobre como esse aplic
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,11 +161,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Obter detalhes do calendário do usuário para criar uma reunião 1:1 no calendário do usuário, atualizar ou excluir criado pela plataforma myOKR e mostrar intervalos de tempo livre | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
->| User.Read | delegado | Usamos a ID do objeto do azure do usuário para fazer logon do usuário no aplicativo myOKR usando a autenticação da Microsoft no email | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
->| User.Read.All | aplicação | Sincronizar informações do usuário com a plataforma myOKR e exibe a análise do aplicativo myOKR para o administrador com base em vários cortes de usuário, como local, gerente de &amp; departamento | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
->| offline_access | delegado | ID do active directory do Azure do usuário | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
->| openid | delegado | Usamos a ID do objeto do azure do usuário para fazer logon do usuário no aplicativo myOKR usando a autenticação da Microsoft | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e) |
+>| Calendars.ReadWrite | delegado | Obter detalhes do calendário do usuário para criar uma reunião 1:1 no calendário do usuário, atualizar ou excluir criado pela plataforma myOKR e mostrar intervalos de tempo livre | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](../azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md) |
+>| User.Read | delegado | Usamos a ID do objeto do azure do usuário para fazer logon do usuário no aplicativo myOKR usando a autenticação da Microsoft no email | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](../azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md) |
+>| User.Read.All | aplicação | Sincronizar informações do usuário com a plataforma myOKR e exibe a análise do aplicativo myOKR para o administrador com base em vários cortes de usuário, como local, gerente de &amp; departamento | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](../azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md) |
+>| offline_access | delegado | ID do active directory do Azure do usuário | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](../azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md) |
+>| openid | delegado | Usamos a ID do objeto do azure do usuário para fazer logon do usuário no aplicativo myOKR usando a autenticação da Microsoft | [5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e](../azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

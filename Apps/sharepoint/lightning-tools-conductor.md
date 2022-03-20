@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Lightning Tools Lightning Condutor por Ferramentas De Raio
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Lightning Tools Lightning Condutor, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Lightning Tools Lightning Conductor, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f82a773cf9d4be03468d3df2796976fec2ea5234
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 6c1edd234adf8415c232d475a8bc632f5416c847
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256787"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540087"
 ---
 # <a name="lightning-tools-lightning-conductor"></a>Lightning Tools Lightning Conductor
 
@@ -37,10 +38,11 @@ Informações fornecidas pelo Lightning Tools à Microsoft:
 | Nome da empresa de parceiro | Ferramentas Do Relâmpago |
 | Site da empresa | [https://lightningtools.com](https://lightningtools.com) |
 | Termos de uso do aplicativo | [https://lightningtools.com/lightning-tools-lightning-conduc...](https://lightningtools.com/lightning-tools-lightning-conductor-client-side-web-part-software-license-agreement) |
-| Funcionalidade principal do aplicativo | SharePoint List e Microsoft Graph agregação de conteúdo e a Ferramenta de Relatório para SharePoint e Teams |
+| Funcionalidade principal do aplicativo | SharePoint List e Microsoft Graph agregação de conteúdo e a Ferramenta de Relatórios para SharePoint e Teams |
 | Localização da sede da empresa | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://lightningtools.com/product/lightning-conductor-clie...](https://lightningtools.com/product/lightning-conductor-client-side-web-part/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ Essas informações foram fornecidas pelo Lightning Tools sobre como esse aplica
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de 2 semanas |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,14 +160,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | aplicação | Para consultar e relatar informações de calendário | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
->| Contacts.Read | aplicação | Nenhum dado é coletado ou armazenado. Os dados são usados para exibir o DisplayName dos contatos atuais dos usuários | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
->| Directory.Read.All | aplicação | Exibir usuários no Lightning Conductor | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
->| Files.Read.All | aplicação | Exibir OneDrive arquivos no Condutor de Raios | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
->| Mail.Read | aplicação | Se a consulta no Condutor de Raio exibir mensagens da caixa de correio de usuários atuais | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
->| People.Read.All | aplicação | Para exibir a exibição de pessoas no Condutor de Raios se consultar usuários como membros de um site. | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
->| Presence.Read.All | aplicação | Para exibir a presença dos usuários no cartão de pessoas | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
->| Sites.Read.All | aplicação | Para enumerar sites na visualização de árvore do Condutor de Raios | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
+>| Calendars.Read | aplicação | Para consultar e relatar informações de calendário | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
+>| Contacts.Read | aplicação | Nenhum dado é coletado ou armazenado. Os dados são usados para exibir o DisplayName dos contatos atuais dos usuários | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
+>| Directory.Read.All | aplicação | Exibir usuários no Lightning Conductor | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
+>| Files.Read.All | aplicação | Exibir OneDrive arquivos no Condutor de Raios | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
+>| Mail.Read | aplicação | Se a consulta no Condutor de Raio exibir mensagens da caixa de correio de usuários atuais | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
+>| People.Read.All | aplicação | Para exibir a exibição de pessoas no Condutor de Raios se consultar usuários como membros de um site. | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
+>| Presence.Read.All | aplicação | Para exibir a presença dos usuários no cartão de pessoas | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
+>| Sites.Read.All | aplicação | Para enumerar sites na visualização de árvore do Condutor de Raios | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

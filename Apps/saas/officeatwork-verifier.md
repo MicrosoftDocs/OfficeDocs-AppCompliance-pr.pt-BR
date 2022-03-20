@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Verificador por officeatwork
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para a Verifier, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 378e03c8de9028fb0ef109cce50d86ac149b715a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 0ce7f4d0fccfd8b6a274b31df02febe412ea75f8
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259867"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540127"
 ---
 # <a name="verifier"></a>Verificador
 
@@ -37,7 +38,7 @@ Informações fornecidas pelo officeatwork à Microsoft:
 | Termos de uso do aplicativo | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 | Funcionalidade principal do aplicativo | Verifique e atualize automaticamente seus documentos com o conteúdo gerenciado centralmente atualizado mais recente. |
 | Localização da sede da empresa | Suíça |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://links.officeatwork.com/officeatwork-apps](https://links.officeatwork.com/officeatwork-apps) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -56,14 +57,7 @@ Essas informações foram fornecidas pelo officeatwork sobre como esse aplicativ
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
 | Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -168,13 +162,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.Read | delegado | Habilitar a leitura e a comparação de conteúdo | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| Files.Read.All | delegado | Habilitar a leitura e a comparação de conteúdo | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| Sites.Read.All | delegado | Habilitar a leitura e a comparação de conteúdo | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| User.Read | delegado | Habilitar a exibição de usuário com assinatura | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| offline_access | delegado | Habilitar a assinatura automatizada para hosts Office antigos | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| openid | delegado | Habilitar a login | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| perfil | delegado | Habilitar a login | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Files.Read | delegado | Habilitar a leitura e a comparação de conteúdo | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| Files.Read.All | delegado | Habilitar a leitura e a comparação de conteúdo | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| Sites.Read.All | delegado | Habilitar a leitura e a comparação de conteúdo | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| User.Read | delegado | Habilitar a exibição de usuário com assinatura | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| offline_access | delegado | Habilitar a assinatura automatizada para hosts Office antigos | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| openid | delegado | Habilitar a login | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
+>| perfil | delegado | Habilitar a login | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](../azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

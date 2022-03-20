@@ -2,18 +2,19 @@
 title: Informações do aplicativo para citação por Citasion LLC
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Citasion, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 17bd4600bec0112b1c528d0530ca540d5216ba7e
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: a8214179d3ae5929f2ee4aa4456b2172a8486289
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147073"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63537929"
 ---
 # <a name="citasion"></a>Citasion
 
@@ -39,7 +40,7 @@ Informações fornecidas pelo Citasion LLC à Microsoft:
 | Termos de uso do aplicativo | [https://citasion.com/legal/terms](https://citasion.com/legal/terms) |
 | Funcionalidade principal do aplicativo | Gerenciar suas referências com facilidade onde você escreve e cita |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://citasion.com/docs/write-with-citasion](https://citasion.com/docs/write-with-citasion) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP |
 
@@ -166,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

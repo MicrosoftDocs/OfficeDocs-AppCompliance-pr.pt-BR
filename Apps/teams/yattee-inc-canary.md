@@ -2,18 +2,19 @@
 title: Informações de aplicativo para Canary pela YATTEE Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Canary, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b9702c280c874437826c4fd760f22b27359e1006
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: a53e32f6826c21c73432e2c0bac40671ca14714d
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62261197"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540399"
 ---
 # <a name="canary"></a>Canário
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo YATTEE Inc. à Microsoft:
 | Termos de uso do aplicativo | [https://www.yattee.co.jp/company/term-of-use/](https://www.yattee.co.jp/company/term-of-use/) |
 | Funcionalidade principal do aplicativo | &#12459;&#12524;&#12531;&#12480;&#12540;&#22411;&#12473;&#12465;&#12472;&#12517;&#12540;&#12523;&#31649;&#29702;&#12450;&#12503;&#12522;&#12391;&#12377;&#12290;&#20104;&#23450;&#12398;&#26178;&#38291;&#12364;&#36817;&#12367;&#12394;&#12427;&#12392;&#12289;&#12473;&#12510;&#12540;&#12488;&#12501;&#12457;&#12531;&#12408;&#12398;&#38899;&#22768;&#36890;&#30693;&#12394;&#12393;&#12289;&#12354;&#12425;&#12422;&#12427;&#12450;&#12521;&#12540;&#12488;&#12364;&#35373;&#23450;&#12391;&#12365;&#12427;&#12398;&#12391;&#12289;&#12358;&#12387;&#12363;&#12426;&#24536;&#12428;&#12434;&#38450;&#12366;&#12414;&#12377;&#12290; |
 | Localização da sede da empresa | Japão |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.yattee.co.jp/canary-signin/](https://www.yattee.co.jp/canary-signin/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure, Aws |
 
@@ -169,7 +170,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calls.JoinGroupCallasGuest.All | aplicação | &#12518;&#12540;&#12470;&#12540;&#12408;&#12398;&#36890;&#35441;&#12434;&#34892;&#12358;&#12383;&#12417; | [626ce0a3-4620-483d-953d-53b106b9ffad](https://docs.microsoft.com/microsoft-365-app-certification/azure/626ce0a3-4620-483d-953d-53b106b9ffad) |
+>| Calls.JoinGroupCallasGuest.All | aplicação | &#12518;&#12540;&#12470;&#12540;&#12408;&#12398;&#36890;&#35441;&#12434;&#34892;&#12358;&#12383;&#12417; | [626ce0a3-4620-483d-953d-53b106b9ffad](../azure/626ce0a3-4620-483d-953d-53b106b9ffad.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

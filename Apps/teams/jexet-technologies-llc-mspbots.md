@@ -2,18 +2,19 @@
 title: Informações do aplicativo para MSPBots pela LLC da Jexet Technologies
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para MSPBots, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8d4d4c0b27f2f2052a46b8d77107dbc4a320216e
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5c80d3ac6bfa4537095c0941adb62fa81c367360
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257747"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539966"
 ---
 # <a name="mspbots"></a>MSPBots
 
@@ -42,7 +43,6 @@ Informações fornecidas pelo LLC da Jexet Technologies para a Microsoft:
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -170,9 +170,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMessage.Send | aplicação | Enviar mensagem para o canal | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](https://docs.microsoft.com/microsoft-365-app-certification/azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9) |
->| ChatMessage.Send | aplicação | Enviar mensagem para chat | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](https://docs.microsoft.com/microsoft-365-app-certification/azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9) |
->| perfil | aplicação | obter informações do usuário do aplicativo de uso | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](https://docs.microsoft.com/microsoft-365-app-certification/azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9) |
+>| ChannelMessage.Send | aplicação | Enviar mensagem para o canal | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](../azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9.md) |
+>| ChatMessage.Send | aplicação | Enviar mensagem para chat | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](../azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9.md) |
+>| perfil | aplicação | obter informações do usuário do aplicativo de uso | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](../azure/a2af9d71-95f1-4236-be2c-c105ab9b7ee9.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

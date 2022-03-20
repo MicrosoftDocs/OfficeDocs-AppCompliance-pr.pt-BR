@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Plumm pela Plumm Health LTD
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Plumm, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6ba4a1853102f77129d740418b81f9de67146da0
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: f46060403be7542e485ca78cbbd3022bef51506e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255587"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538029"
 ---
 # <a name="plumm"></a>Plumm
 
@@ -38,10 +39,11 @@ Informações fornecidas pela Plumm Health LTD à Microsoft:
 | Nome da empresa de parceiro | Plumm Health LTD |
 | Site da empresa | [https://www.plummhealth.com](https://www.plummhealth.com) |
 | Termos de uso do aplicativo | [https://www.plummhealth.com/terms-of-use](https://www.plummhealth.com/terms-of-use) |
-| Funcionalidade principal do aplicativo | O Plumm fornece aos funcionários o suporte necessário para seu bem-estar mental. Cada membro da Plumm tem acesso ao suporte à saúde mental de alta qualidade com uma rede global de mais de 150 fisioterapeutas credenciadas, uma biblioteca digital de cursos de bem-estar orientados por analistas, a &#8211; de chat e &#8211; tudo em um só lugar. Os usuários podem se conectar com os fisioterapeutas para a videodoca online 1:1 ou conversar com eles em particular sobre seus requisitos. Cursos online conduzidos por um analista e as meditações oferecem suporte de auto-ajuda. |
+| Funcionalidade principal do aplicativo | O Plumm fornece aos funcionários o suporte necessário para seu bem-estar mental. Cada membro da Plumm tem acesso ao suporte à saúde mental de alta qualidade com uma rede global de mais de 150 fisioterapeutas credenciadas, uma biblioteca digital de cursos de bem-estar orientados por analistas, a tratamento de chat e mediações &#8211; tudo em um só lugar. Os usuários podem se conectar com os fisioterapeutas para a videodoca online 1:1 ou conversar com eles em particular sobre seus requisitos. Cursos online conduzidos por um analista e as meditações oferecem suporte de auto-ajuda. |
 | Localização da sede da empresa | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.plummhealth.com/about-us](https://www.plummhealth.com/about-us) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pela Plumm Health LTD sobre como esse aplic
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Retido |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,13 +161,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamsActivity.Send | aplicação | Usamos o userID nesta permissão. Isso é usado para enviar notificações de requisitos para o usuário com base no uso do nosso serviço. Isso é importante para que o usuário receba notificações apropriadas para sua conta em nosso aplicativo. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
->| TeamsAppInstallation.ReadWriteForUser.All | aplicação | Recebemos a ID de Instalação usando essa permissão. Isso é importante para nós para poder enviar a notificação apropriada e correta para cada usuário individual. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
->| User.Read | delegado | Estamos coletando nome, imagem e email para nossos usuários por meio dessa permissão. Isso é necessário para que nós sejamos capazes de identificar usuários individuais e esses pontos de dados devem ser exibidos sempre que necessário, como a página de perfil individual e a comunicação de email/notificação. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
->| User.Read.All | aplicação | Essa permissão permite que nosso aplicativo leia perfis de usuário sem um usuário assinado. Neste momento, estamos coletando nome, imagem de perfil e email somente. Isso é necessário para que nós sejamos capazes de identificar usuários individuais e esses pontos de dados devem ser exibidos sempre que necessário, como a página de perfil individual e a comunicação de email/notificação. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
->| email | delegado | A ID de email do usuário é coletada. Exigimos esses dados para conceder acesso ao usuário para nossos serviços e entrar em nosso aplicativo e receber notificações sobre suas contas e nossos serviços nesta ID de email.  | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
->| openid | delegado | Para essa permissão, não estamos coletando dados.  | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
->| perfil | delegado | Estamos coletando nome, imagem e email para nossos usuários por meio dessa permissão. Isso é necessário para que nós sejamos capazes de identificar usuários individuais e esses pontos de dados devem ser exibidos sempre que necessário, como a página de perfil individual e a comunicação de email/notificação. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
+>| TeamsActivity.Send | aplicação | Usamos o userID nesta permissão. Isso é usado para enviar notificações de requisitos para o usuário com base no uso do nosso serviço. Isso é importante para que o usuário receba notificações apropriadas para sua conta em nosso aplicativo. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
+>| TeamsAppInstallation.ReadWriteForUser.All | aplicação | Recebemos a ID de Instalação usando essa permissão. Isso é importante para nós para poder enviar a notificação apropriada e correta para cada usuário individual. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
+>| User.Read | delegado | Estamos coletando nome, imagem e email para nossos usuários por meio dessa permissão. Isso é necessário para que nós sejamos capazes de identificar usuários individuais e esses pontos de dados devem ser exibidos sempre que necessário, como a página de perfil individual e a comunicação de email/notificação. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
+>| User.Read.All | aplicação | Essa permissão permite que nosso aplicativo leia perfis de usuário sem um usuário assinado. Neste momento, estamos coletando nome, imagem de perfil e email somente. Isso é necessário para que nós sejamos capazes de identificar usuários individuais e esses pontos de dados devem ser exibidos sempre que necessário, como a página de perfil individual e a comunicação de email/notificação. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
+>| email | delegado | A ID de email do usuário é coletada. Exigimos esses dados para conceder acesso ao usuário para nossos serviços e entrar em nosso aplicativo e receber notificações sobre suas contas e nossos serviços nesta ID de email.  | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
+>| openid | delegado | Para essa permissão, não estamos coletando dados.  | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
+>| perfil | delegado | Estamos coletando nome, imagem e email para nossos usuários por meio dessa permissão. Isso é necessário para que nós sejamos capazes de identificar usuários individuais e esses pontos de dados devem ser exibidos sempre que necessário, como a página de perfil individual e a comunicação de email/notificação. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

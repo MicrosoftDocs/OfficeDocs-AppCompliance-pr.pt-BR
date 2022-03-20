@@ -2,18 +2,19 @@
 title: Informações do aplicativo Excel automação de documentos para Word pela AnalysisPlace
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a automação de documentos Excel-para-Word, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6ede1a98c44b8d6e71a12069c15065f7499bb5e2
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: ceb3175ecfbe45b33fe7c1fe62ae59e62f00d7ad
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63079525"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63536579"
 ---
 # <a name="excel-to-word-document-automation"></a>Excel automação de documentos para Word
 
@@ -39,7 +40,7 @@ Informações fornecidas pelo AnalysisPlace à Microsoft:
 | Termos de uso do aplicativo | [https://analysisplace.com/Terms](https://analysisplace.com/Terms) |
 | Funcionalidade principal do aplicativo | AnalysisPlace fornece serviços para automatizar a atualização de Microsoft Office documentos |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://analysisplace.com/Document-Automation](https://analysisplace.com/Document-Automation) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -60,7 +61,7 @@ Essas informações foram fornecidas pelo AnalysisPlace sobre como esse aplicati
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Nome de usuário, endereço de email do usuário, ID do locatário da organização |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |

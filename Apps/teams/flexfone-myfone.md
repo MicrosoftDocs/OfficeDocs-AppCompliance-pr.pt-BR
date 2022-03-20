@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Myfone pelo Flexfone
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Myfone, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: cd520df02151efa8412410dc740efbf8f1b42979
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 36cd70bc4f8e2040fa2e0f5398b8c9ff1eb79013
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250127"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538159"
 ---
 # <a name="myfone"></a>Myfone
 
@@ -40,8 +41,9 @@ Informações fornecidas pelo Flexfone à Microsoft:
 | Termos de uso do aplicativo | [https://flexfone.dk/Content/pdf/Slutkundebetingelser.pdf](https://flexfone.dk/Content/pdf/Slutkundebetingelser.pdf) |
 | Funcionalidade principal do aplicativo | H&#229;ndter dine telefonopkald i Teams, og f&#229; overblik over dine kolleger. |
 | Localização da sede da empresa | Dinamarca |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://faq.flexfone.dk/da](https://faq.flexfone.dk/da) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | SelfHosted, Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo Flexfone sobre como esse aplicativo co
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,10 +162,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | delegado | Os calendários são usados para que os usuários mostrem seus calandares aos colegas de trabalho e usem reuniões para configurar sua telefonia | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](https://docs.microsoft.com/microsoft-365-app-certification/azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50) |
->| Contacts.Read | delegado | Os contatos dos usuários podem ser armazenados se quiserem exibi-los no aplicativo para facilitar a discagem de contatos | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](https://docs.microsoft.com/microsoft-365-app-certification/azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50) |
->| User.Read | delegado | A leitura do usuário neste aplicativo é usada para fins de identificação. | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](https://docs.microsoft.com/microsoft-365-app-certification/azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50) |
->| User.Read | delegado | Não armazenamos os dados. O aplicativo é simplesmente usado para fins de authentification | [f0199b83-0ca3-4b41-a23b-d9b234484438](https://docs.microsoft.com/microsoft-365-app-certification/azure/f0199b83-0ca3-4b41-a23b-d9b234484438) |
+>| Calendars.Read | delegado | Os calendários são usados para que os usuários mostrem seus calandares aos colegas de trabalho e usem reuniões para configurar sua telefonia | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](../azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50.md) |
+>| Contacts.Read | delegado | Os contatos dos usuários podem ser armazenados se quiserem exibi-los no aplicativo para facilitar a discagem de contatos | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](../azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50.md) |
+>| User.Read | delegado | A leitura do usuário neste aplicativo é usada para fins de identificação. | [cdd5ed6f-ceda-4d46-a522-b7526d6d9e50](../azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50.md) |
+>| User.Read | delegado | Não armazenamos os dados. O aplicativo é simplesmente usado para fins de authentification | [f0199b83-0ca3-4b41-a23b-d9b234484438](../azure/f0199b83-0ca3-4b41-a23b-d9b234484438.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

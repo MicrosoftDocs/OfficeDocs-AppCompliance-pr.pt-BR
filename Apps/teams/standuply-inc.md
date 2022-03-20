@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Standuply Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Standuply, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3b7292e010ad6e244f4d5e6cdddb9b357520ca94
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 84d9c34f023fd8e4a9247de46443b711b33472c8
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252237"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63537959"
 ---
 # <a name="standuply"></a>Standuply
 
@@ -38,9 +39,9 @@ Informações fornecidas pela Standuply Inc. à Microsoft:
 | Nome da empresa de parceiro | Standuply Inc. |
 | Site da empresa | [https://standuply.com](https://standuply.com) |
 | Termos de uso do aplicativo | [https://standuply.com/terms](https://standuply.com/terms) |
-| Funcionalidade principal do aplicativo | Automatiza de forma autônomo os processos de gerenciamento e fornece um sistema Q A interno para aumentar a produtividade &amp; da sua equipe. |
+| Funcionalidade principal do aplicativo | Automatiza de forma autônomo os processos de gerenciamento e fornece o sistema QA&amp; interno para aumentar a produtividade da sua equipe. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://standuply.com](https://standuply.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -171,8 +172,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| MailboxSettings.Read | aplicação | Para enviar relatórios sobre usuários de zona de tempo individual | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](https://docs.microsoft.com/microsoft-365-app-certification/azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176) |
->| User.Read | delegado | Para autorizar usuários no produto | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](https://docs.microsoft.com/microsoft-365-app-certification/azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176) |
+>| MailboxSettings.Read | aplicação | Para enviar relatórios sobre usuários de zona de tempo individual | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](../azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176.md) |
+>| User.Read | delegado | Para autorizar usuários no produto | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](../azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

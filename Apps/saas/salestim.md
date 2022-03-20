@@ -2,18 +2,19 @@
 title: Informações de aplicativo para SalesTim por SalesTim
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SalesTim, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c23cdb8aff108635113aa11871570eef773042c7
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 70f7c4cd5c374b9c68e11554f71faa4314531e85
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256833"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538319"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -38,8 +39,9 @@ Informações fornecidas pelo SalesTim à Microsoft:
 | Termos de uso do aplicativo | [https://www.salestim.com/legal/tos/](https://www.salestim.com/legal/tos/) |
 | Funcionalidade principal do aplicativo | SalesTim ajuda todas as organizações a melhorar seus processos colaborativos por meio Microsoft Teams criação de modelos e automação de governança em escala. |
 | Localização da sede da empresa | França |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.salestim.com/microsoft-teams-governance-salesti...](https://www.salestim.com/microsoft-teams-governance-salestim-automation/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ Essas informações foram fornecidas pelo SalesTim sobre como esse aplicativo co
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,13 +160,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AppCatalog.ReadWrite.All | delegado | NÃO | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| Directory.AccessAsUser.All | delegado | Não&#8217;armazenar apenas algumas IDs de usuários, não dados de perfil. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| Group.ReadWrite.All | delegado | Não&#8217;apenas grupos/IDs de equipe,&#8217;não estamos armazenar conteúdo de grupos/equipes. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| Mail.Send | delegado | Não&#8217;os metadados dessa ação, como a data da notificação, o destinatário (somente ID), a ID da solicitação. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| Sites.ReadWrite.All | delegado | Estamos usando alguns serviços do Azure para armazenar dados, especialmente o Redis no Azure e Cosmos DB | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| User.Read.All | delegado | Não&#8217;armazenar apenas algumas IDs de usuários, não dados de perfil. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| offline_access | delegado | Não | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| AppCatalog.ReadWrite.All | delegado | NÃO | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| Directory.AccessAsUser.All | delegado | Podemos&#8217;armazenar apenas algumas IDs de usuários, não dados de perfil. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| Group.ReadWrite.All | delegado | &#8217;estamos apenas armazenar IDs de grupos/equipes,&#8217;não estamos armazenar conteúdo de grupos/equipes. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| Mail.Send | delegado | Não&#8217;os metadados dessa ação, como a data da notificação, o destinatário (somente ID), a ID da solicitação. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| Sites.ReadWrite.All | delegado | Estamos usando alguns serviços do Azure para armazenar dados, especialmente o Redis no Azure e Cosmos DB | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| User.Read.All | delegado | Podemos&#8217;armazenar apenas algumas IDs de usuários, não dados de perfil. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| offline_access | delegado | Não | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

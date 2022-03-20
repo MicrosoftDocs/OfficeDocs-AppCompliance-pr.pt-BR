@@ -1,21 +1,22 @@
 ---
-title: Informações do aplicativo para CocoFax - Envio de fax &amp; facilitado por &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496;
+title: Informações do aplicativo para CocoFax - Envio de fax facilitado &amp; por &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para CocoFax - Envio de Fax Facilitado, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro &amp; STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para CocoFax - Envio de Fax &amp; Facilitado Seguro, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: eea87d6f9291dc2c868e52a54e95539cac9e0d8c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d725ac3662ee63dbb59e2596d1ac85edddc810c8
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252047"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540349"
 ---
-# <a name="cocofax---sending-fax-made-easy-amp-secure"></a>CocoFax - Envio de fax &amp; facilitado
+# <a name="cocofax---sending-fax-made-easy-amp-secure"></a>CocoFax - Envio de fax facilitado &amp;
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -31,7 +32,7 @@ Informações fornecidas pelo &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | CocoFax - Envio de fax &amp; facilitado |
+| Nome do aplicativo | CocoFax - Envio de fax facilitado &amp; |
 | ID | WA200002263 |
 | Office 365 clientes com suporte | Word 2016 ou posterior no Mac, Word na Web, Word 2013 ou posterior no Windows |
 | Nome da empresa de parceiro | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; |
@@ -39,8 +40,9 @@ Informações fornecidas pelo &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#
 | Termos de uso do aplicativo | [https://cocofax.com/terms.html](https://cocofax.com/terms.html) |
 | Funcionalidade principal do aplicativo | Envie fax do Microsoft Word ou do Word Online com CocoFax, sem modem de fax, linhas fixas necessárias. |
 | Localização da sede da empresa | China |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://cocofax.com/terms.html](https://cocofax.com/terms.html) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,19 +52,12 @@ Informações fornecidas pelo &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas por &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -161,7 +156,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? |  |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -1,19 +1,20 @@
 ---
-title: Informações do aplicativo para locais ti8m por ti &amp; m AG
+title: Informações do aplicativo para locais de ti8m por tim&amp; AG
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para locais ti8m, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2ff48ba9152bf5a01772cf4879b86241635286a7
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 51367b8624e5a79d139d20a740cea8ae69f8f788
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252060"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539731"
 ---
 # <a name="ti8m-places"></a>locais ti8m
 
@@ -28,7 +29,7 @@ ms.locfileid: "62252060"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas por ti &amp; m AG à Microsoft:
+Informações fornecidas pelo tim&amp; AG à Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
@@ -40,8 +41,9 @@ Informações fornecidas por ti &amp; m AG à Microsoft:
 | Termos de uso do aplicativo | [https://ti8m.com/products/places/places-nutzungsbedingungen](https://ti8m.com/products/places/places-nutzungsbedingungen) |
 | Funcionalidade principal do aplicativo | Places é um aplicativo para reservar locais de trabalho em uma instalação híbrida no local de trabalho. Oferecemos reservas em mapas ou em uma exibição baseada em calendário. O aplicativo é totalmente integrado ao Microsoft Teams e usa toda a Autenticação com base nos Serviços Microsoft. |
 | Localização da sede da empresa | Suíça |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.ti8m.ch/places](https://www.ti8m.ch/places) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,19 +53,12 @@ Informações fornecidas por ti &amp; m AG à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo ti m AG sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados &amp; coletados pelo aplicativo.
+Essas informações foram fornecidas pela TIM&amp; AG sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,10 +161,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite.Shared | delegado | Cancelar eventos em calendários de locais de trabalho e usuários  | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
->| Directory.ReadWrite.All | delegado | Instalação e criação de grupos de AAD administrativos - Grupos de segurança  | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
->| Place.ReadWrite.All | delegado | Lista de locais de trabalho e nomes de mapa  | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
->| User.Read | delegado | Nome de usuário, Email e Nome de Exibição, Necessário para mostrar Dados de Usuário no Aplicativo | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](https://docs.microsoft.com/microsoft-365-app-certification/azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38) |
+>| Calendars.ReadWrite.Shared | delegado | Cancelar eventos em calendários de locais de trabalho e usuários  | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](../azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38.md) |
+>| Directory.ReadWrite.All | delegado | Instalação e criação de grupos de AAD administrativos - Grupos de Segurança  | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](../azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38.md) |
+>| Place.ReadWrite.All | delegado | Lista de locais de trabalho e nomes de mapa  | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](../azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38.md) |
+>| User.Read | delegado | Nome de usuário, Email e Nome de Exibição, Necessário para mostrar Dados de Usuário no Aplicativo | [43134ae0-301f-4762-b7a9-aa9f2ff77b38](../azure/43134ae0-301f-4762-b7a9-aa9f2ff77b38.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

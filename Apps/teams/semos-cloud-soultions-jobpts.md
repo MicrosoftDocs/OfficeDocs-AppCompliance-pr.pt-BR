@@ -2,18 +2,19 @@
 title: Informações do aplicativo para JobPts por Semos Cloud Soultions
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para JobPts, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8ec2e00f3a7f7896ffce3e73b5ba3c3308992070
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: a6a604e6fba711b2b5b6ae415a7ec89d0aa0df1f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250960"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63537979"
 ---
 # <a name="jobpts"></a>JobPts
 
@@ -40,8 +41,9 @@ Informações fornecidas por Semos Cloud Soultions para a Microsoft:
 | Termos de uso do aplicativo | [https://semoscloud.com/terms-of-use/](https://semoscloud.com/terms-of-use/) |
 | Funcionalidade principal do aplicativo | Reconhecer facilmente seus colegas por um trabalho bem feito sem sair de MsTeams |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://semoscloud.com/product/jobpts](https://semoscloud.com/product/jobpts) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas por Semos Cloud Soultions sobre como esse a
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,11 +162,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Ler informações básicas da empresa | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
->| email | delegado | Isso é usado para mapear usuários do AzureAD com usuários na ferramenta JobPts | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
->| offline_access | delegado | Manter o acesso aos dados | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
->| openid | delegado | Para poder que os usuários entre com sua conta de trabalho | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
->| perfil | delegado | Para ser capaz de JobPts ver informações básicas do usuário (nome de usuário) | [1ac9e5c6-4850-4864-96c5-b91e4512334e](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ac9e5c6-4850-4864-96c5-b91e4512334e) |
+>| User.Read | delegado | Ler informações básicas da empresa | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
+>| email | delegado | Isso é usado para mapear usuários do AzureAD com usuários na ferramenta JobPts | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
+>| offline_access | delegado | Manter o acesso aos dados | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
+>| openid | delegado | Para poder que os usuários entre com sua conta de trabalho | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
+>| perfil | delegado | Para ser capaz de JobPts ver informações básicas do usuário (nome de usuário) | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

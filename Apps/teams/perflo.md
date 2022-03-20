@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Perflo por Perflo
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Perflo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 851efa60442588759acde6ac3e4aad300283583e
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 91e4adc3b416836af149a59fa1e205d7c2e7ffd2
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081016"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553300"
 ---
 # <a name="perflo"></a>Perflo
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo Perflo para a Microsoft:
 | Termos de uso do aplicativo | [https://www.perflo.co/terms](https://www.perflo.co/terms) |
 | Funcionalidade principal do aplicativo | Enviando micro-pesquisas para equipes e produzindo relatórios para gerentes. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.perflo.co](https://www.perflo.co) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws, Azure |
 
@@ -61,7 +62,7 @@ Essas informações foram fornecidas pelo Perflo sobre como esse aplicativo cole
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Canais, Teams, nome do perfil de usuário, imagens de perfil, MS Teams ID |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Irlanda |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Nulia Works by Nulia
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/17/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Nulia Works, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 16680baab741e382de054ace6b84ed5f33edd6b0
-ms.sourcegitcommit: 7c77f94b0b1d3033f66d473bb77554f05fa3d5b6
+ms.openlocfilehash: d2b71a6d104afe0cb0d7739341e1be26ff9414d7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62892122"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538079"
 ---
 # <a name="nulia-works"></a>Nulia Works
 
@@ -38,9 +39,9 @@ Informações fornecidas por Nulia à Microsoft:
 | Nome da empresa de parceiro | Nulia |
 | Site da empresa | [https://nulia.com](https://nulia.com) |
 | Termos de uso do aplicativo | [https://nulia.com/terms](https://nulia.com/terms) |
-| Funcionalidade principal do aplicativo | Desenvolver Microsoft Teams &amp; Office 365 habilidades no fluxo natural do trabalho |
+| Funcionalidade principal do aplicativo | Desenvolver Microsoft Teams &amp; Office 365 no fluxo natural do trabalho |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://nulia.com/product](https://nulia.com/product) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -59,14 +60,7 @@ Essas informações foram fornecidas por Nulia sobre como esse aplicativo coleta
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
 | Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,7 +160,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

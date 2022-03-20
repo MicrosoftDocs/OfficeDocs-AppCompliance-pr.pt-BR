@@ -2,18 +2,19 @@
 title: Informações do aplicativo para PagerDuty por PagerDuty, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para PagerDuty, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ce084b52bb1159f417649bc8283cab4a1edc8f34
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 8b41c097db43cbce711f7a06dc44147e3aa367cd
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263579"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539927"
 ---
 # <a name="pagerduty"></a>PagerDuty
 
@@ -40,8 +41,9 @@ Informações fornecidas por PagerDuty, Inc. para a Microsoft:
 | Termos de uso do aplicativo | [https://www.pagerduty.com/service-terms-use/](https://www.pagerduty.com/service-terms-use/) |
 | Funcionalidade principal do aplicativo | Conduzir operações em tempo real: disparar, exibir, reconhecer e resolver incidentes diretamente de Teams. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.pagerduty.com/integrations/microsoft-teams](https://www.pagerduty.com/integrations/microsoft-teams) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas por PagerDuty, Inc. sobre como esse aplicat
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Retido |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,26 +161,26 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| OnlineMeetings.ReadWrite | delegado | A partir da criação/resposta de obter reuniões, estamos usando esses campos: join_web_url, audioConferencing. Esses campos são necessários para mostrar ao usuário um link para reuniões ou maneiras alternativas de se conectar na reunião. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| TeamsAppInstallation.ReadForTeam | delegado | Usando para adicionar aplicativo pagerduty ao chat. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| TeamsAppInstallation.ReadWriteForTeam.All | delegado | Usando para adicionar aplicativo pagerduty ao chat. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| TeamsTab.ReadWrite.All | delegado | Usando para adicionar aplicativo pagerduty como uma guia na reunião | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| User.Read | delegado | Os dados são usados: id, userPrincipalName . Ele é usado para fazer com que os usuários do Microsoft Teams os adicionem à reunião como participantes | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| User.ReadBasic.All | delegado | Os dados são usados: id, userPrincipalName . Ele é usado para fazer com que os usuários do Microsoft Teams os adicionem à reunião como participantes | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| email | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| offline_access | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| openid | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| perfil | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| OnlineMeetings.ReadWrite | delegado | A partir da criação/resposta de obter reuniões, estamos usando esses campos: join_web_url, audioConferencing. Esses campos são necessários para mostrar ao usuário um link para reuniões ou maneiras alternativas de se conectar na reunião. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| TeamsAppInstallation.ReadForTeam | delegado | Usando para adicionar aplicativo pagerduty ao chat. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| TeamsAppInstallation.ReadForTeam.All | delegado | Usando para adicionar aplicativo pagerduty ao chat. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| TeamsTab.ReadWrite.All | delegado | Usando para adicionar aplicativo pagerduty como uma guia na reunião | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| User.Read | delegado | Os dados são usados: id, userPrincipalName . Ele é usado para fazer com que os usuários do Microsoft Teams os adicionem à reunião como participantes | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| User.ReadBasic.All | delegado | Os dados são usados: id, userPrincipalName . Ele é usado para fazer com que os usuários do Microsoft Teams os adicionem à reunião como participantes | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| email | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| offline_access | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| openid | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| perfil | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
+>| OnlineMeetings.ReadWrite | delegado | A partir da criação/resposta de obter reuniões, estamos usando tais campos: join_web_url, audioConferencing. Esses campos são necessários para mostrar ao usuário um link para reuniões ou maneiras alternativas de se conectar na reunião. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| TeamsAppInstallation.ReadForTeam | delegado | Usando para adicionar aplicativo pagerduty ao chat. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| TeamsAppInstallation.ReadWriteForTeam.All | delegado | Usando para adicionar aplicativo pagerduty ao chat. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| TeamsTab.ReadWrite.All | delegado | Usando para adicionar aplicativo pagerduty como uma guia na reunião | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| User.Read | delegado | Os dados são usados: id, userPrincipalName . Ele é usado para fazer com que os usuários do Microsoft Teams os adicionem à reunião como participantes | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| User.ReadBasic.All | delegado | Os dados são usados: id, userPrincipalName . Ele é usado para fazer com que os usuários do Microsoft Teams os adicionem à reunião como participantes | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| email | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| offline_access | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| openid | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| perfil | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| OnlineMeetings.ReadWrite | delegado | A partir da criação/resposta de obter reuniões, estamos usando tais campos: join_web_url, audioConferencing. Esses campos são necessários para mostrar ao usuário um link para reuniões ou maneiras alternativas de se conectar na reunião. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| TeamsAppInstallation.ReadForTeam | delegado | Usando para adicionar aplicativo pagerduty ao chat. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| TeamsAppInstallation.ReadForTeam.All | delegado | Usando para adicionar aplicativo pagerduty ao chat. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| TeamsTab.ReadWrite.All | delegado | Usando para adicionar aplicativo pagerduty como uma guia na reunião | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| User.Read | delegado | Os dados são usados: id, userPrincipalName . Ele é usado para fazer com que os usuários do Microsoft Teams os adicionem à reunião como participantes | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| User.ReadBasic.All | delegado | Os dados são usados: id, userPrincipalName . Ele é usado para fazer com que os usuários do Microsoft Teams os adicionem à reunião como participantes | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| email | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| offline_access | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| openid | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| perfil | delegado | Usando para solicitações de autorização e token. Os dados são usados: access_token, refresh_token, expires_in escopo | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

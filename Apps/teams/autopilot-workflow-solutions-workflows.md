@@ -2,18 +2,19 @@
 title: Informações do aplicativo para fluxos de trabalho do Autopilot por Soluções de Fluxo de Trabalho do Autopilot
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/14/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Fluxos de Trabalho do Autopilot, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7eac665b024ff1f1474ea302af196dda40ec5252
-ms.sourcegitcommit: 9905237eb3270d099820cbf413d64b7cc066dc7c
+ms.openlocfilehash: bcfcb7cc0675aa859bc7302076e3c2382247d90a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62811735"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540017"
 ---
 # <a name="autopilot-workflows"></a>Fluxos de trabalho do Autopilot
 
@@ -40,7 +41,7 @@ Informações fornecidas pelas Soluções de Fluxo de Trabalho do Autopilot para
 | Termos de uso do aplicativo | [https://cdn.autopilot.co.za/legal/Autopilot%20Client%20Term...](https://cdn.autopilot.co.za/legal/Autopilot%20Client%20Terms%20%20Conditions%2020160224.pdf) |
 | Funcionalidade principal do aplicativo | Formulários eletrônicos validados e processos pré-configurados garantem que os processos sejam sempre executados de forma consistente, independentemente da pessoa que executa a tarefa. Uma trilha de auditoria abrangente de ações executadas garantirá que todos permaneçam responsáveis pelo que fizeram. O Piloto Automático permite a continuidade quando a equipe sai e pode atuar como uma ótima ferramenta de treinamento para familiarizar a nova equipe com seus processos. As diretrizes embutida os guiarão em todas as etapas do caminho. |
 | Localização da sede da empresa | África do Sul |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.autopilot.co.za](https://www.autopilot.co.za) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -61,7 +62,7 @@ Essas informações foram fornecidas pelas Soluções de Fluxo de Trabalho do Au
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | ID do locatário do azure de clientes |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Não |
@@ -169,13 +170,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Teams.ReadBasic.All | aplicação | Enviando Teams Notifcations | [3970caf2-7c33-4668-8c74-91f3e094b789](https://docs.microsoft.com/microsoft-365-app-certification/azure/3970caf2-7c33-4668-8c74-91f3e094b789) |
->| TeamsActivity.Read | aplicação | Enviando Teams Notifcations | [3970caf2-7c33-4668-8c74-91f3e094b789](https://docs.microsoft.com/microsoft-365-app-certification/azure/3970caf2-7c33-4668-8c74-91f3e094b789) |
->| TeamsActivity.Send | aplicação | Enviando Teams Notifcations | [3970caf2-7c33-4668-8c74-91f3e094b789](https://docs.microsoft.com/microsoft-365-app-certification/azure/3970caf2-7c33-4668-8c74-91f3e094b789) |
->| User.Read.All | aplicação | Enviando Teams Notifcations | [3970caf2-7c33-4668-8c74-91f3e094b789](https://docs.microsoft.com/microsoft-365-app-certification/azure/3970caf2-7c33-4668-8c74-91f3e094b789) |
->| Group.Read.All | delegado | Signin único | [3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc](https://docs.microsoft.com/microsoft-365-app-certification/azure/3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc) |
->| User.Read | delegado | Signin único | [3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc](https://docs.microsoft.com/microsoft-365-app-certification/azure/3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc) |
->| User.Read.All | delegado | Signin único | [3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc](https://docs.microsoft.com/microsoft-365-app-certification/azure/3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc) |
+>| Teams.ReadBasic.All | aplicação | Enviando Teams Notifcations | [3970caf2-7c33-4668-8c74-91f3e094b789](../azure/3970caf2-7c33-4668-8c74-91f3e094b789.md) |
+>| TeamsActivity.Read | aplicação | Enviando Teams Notifcations | [3970caf2-7c33-4668-8c74-91f3e094b789](../azure/3970caf2-7c33-4668-8c74-91f3e094b789.md) |
+>| TeamsActivity.Send | aplicação | Enviando Teams Notifcations | [3970caf2-7c33-4668-8c74-91f3e094b789](../azure/3970caf2-7c33-4668-8c74-91f3e094b789.md) |
+>| User.Read.All | aplicação | Enviando Teams Notifcations | [3970caf2-7c33-4668-8c74-91f3e094b789](../azure/3970caf2-7c33-4668-8c74-91f3e094b789.md) |
+>| Group.Read.All | delegado | Signin único | [3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc](../azure/3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc.md) |
+>| User.Read | delegado | Signin único | [3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc](../azure/3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc.md) |
+>| User.Read.All | delegado | Signin único | [3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc](../azure/3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc.md) |
 
 >Este aplicativo não tem APIs adicionais.
 
