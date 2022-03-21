@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Solo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e10502dc12daa3bf5c64fbc9bf59f06168d56105
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: ee5b3a7dda8caaefd5584af648d1a177058695b1
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470117"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544159"
 ---
 # <a name="solo"></a>Solo
 
@@ -62,7 +62,7 @@ Essas informações foram fornecidas pela Teladoc, Inc. sobre como esse aplicati
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | ID do objeto do usuário e ID de locatário do locatário |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -171,15 +171,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AppCatalog.Read.All | delegado | Para obter a ID do aplicativo de catálogo para nosso aplicativo sidepanel e instalá-lo em compromissos de teleafeção agendados | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| CallRecords.Read.All | aplicação | Para garantir a qualidade da chamada para chamadas relacionadas a compromissos de teleafeção | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| OnlineMeetings.ReadWrite | delegado | Instalar o host sidePanel e ingressar o paciente no aplicativo personalizado para compromisso | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| TeamsActivity.Send | aplicação | Fim da sinalização de sessão para compromisso de teleaqueamento. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| User.Read | delegado | SSO do aplicativo Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| email | delegado | SSO do aplicativo Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| offline_access | delegado | SSO do aplicativo Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| openid | delegado | SSO do aplicativo Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| perfil | delegado | oid e tid é usado para mapear entre uma conta Solo e uma conta Teams, para que um médico em Teams possa exibir seus compromissos de teleaqueleto | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
+>| AppCatalog.Read.All | delegado | Para obter a ID do aplicativo de catálogo para nosso aplicativo sidepanel e instalá-lo em compromissos de teleafeção agendados | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| CallRecords.Read.All | aplicação | Para garantir a qualidade da chamada para chamadas relacionadas a compromissos de teleafeção | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| OnlineMeetings.ReadWrite | delegado | Instalar o host sidePanel e ingressar o paciente no aplicativo personalizado para compromisso | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| TeamsActivity.Send | aplicação | Fim da sinalização de sessão para compromisso de teleaqueamento. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| User.Read | delegado | SSO do aplicativo Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| email | delegado | SSO do aplicativo Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| offline_access | delegado | SSO do aplicativo Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| openid | delegado | SSO do aplicativo Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| perfil | delegado | oid e tid é usado para mapear entre uma conta Solo e uma conta Teams, para que um médico em Teams possa exibir seus compromissos de teleaqueleto | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

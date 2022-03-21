@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Jetdocs por Jetdocs
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Jetdocs, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fadc71dc93834478199183da85b01df210776328
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 8143b96ac361b21e74d4408e8daf324b2f29acf4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63076825"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543949"
 ---
 # <a name="jetdocs"></a>Jetdocs
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo Jetdocs para a Microsoft:
 | Termos de uso do aplicativo | [https://jetdocs.io/terms](https://jetdocs.io/terms) |
 | Funcionalidade principal do aplicativo | Jetdocs é a sua experiência de funcionário unificado que permite lidar com solicitações internas, tíquetes, problemas e aprovações e encaminhá-los para o especialista apropriado em sua organização para facilitar a resolução. A maioria das organizações se esforça para reunir fluxos de trabalho internos e dependem de threads de mensagens longas e caixas de entrada de grupo. Bizops teams, IT, operations, legal, HR, finance and office management são algumas das equipes de serviço que se beneficiam dos Jetdocs e permitem que sua organização seja dimensionado. |
 | Localização da sede da empresa | Canadá |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://jetdocs.io/jetdocs-teams-requests-and-ticketing/](https://jetdocs.io/jetdocs-teams-requests-and-ticketing/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws, Azure |
 
@@ -61,7 +62,7 @@ Essas informações foram fornecidas pelo Jetdocs sobre como esse aplicativo col
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Email, nome, sobrenome |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |

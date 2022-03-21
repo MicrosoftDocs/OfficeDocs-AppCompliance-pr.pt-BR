@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Quitch por Quitch
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Quitch, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6de959937655902f2b569e42a4cbdce30561079d
-ms.sourcegitcommit: 2e80b3cd0079ac50da5e6d878bbef6744e4659f2
+ms.openlocfilehash: 5b7aa8cfefd8b7a41443ad7bb82c3aeab50269e1
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62235772"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541229"
 ---
 # <a name="quitch"></a>Quitch
 
@@ -40,7 +41,7 @@ Informações fornecidas por Quitch para a Microsoft:
 | Termos de uso do aplicativo | [https://quitch.com/user-terms-of-service/](https://quitch.com/user-terms-of-service/) |
 | Funcionalidade principal do aplicativo | Quizzes interativos para suas reuniões Microsoft Teams reuniões |
 | Localização da sede da empresa | Austrália |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://quitch.com/microsoft-teams/](https://quitch.com/microsoft-teams/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -167,7 +168,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

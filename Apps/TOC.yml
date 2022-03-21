@@ -223,8 +223,6 @@
           href: teams/hootsuite-inc-amplify-by.md
         - name: AmTrav Business Travel
           href: teams/amtrav-business-travel.md
-        - name: AnnounceBot
-          href: teams/avista-technology-solutions-announcebot.md
         - name: Avaliado
           href: teams/appraisd-ltd.md
         - name: Appspace
@@ -251,7 +249,7 @@
           href: teams/anaek-attendancebot.md
         - name: Attendant
           href: teams/workstreampeople-bv-attendant.md
-        - name: Ouvinte
+        - name: Participante
           href: teams/aros-cloud-aps-attender.md
         - name: Attensa
           href: teams/attensa-corporation.md
@@ -429,7 +427,7 @@
           href: teams/expert-systems-ivrasia-coltd-ecbooking.md
         - name: EdMill
           href: teams/my-serious-game-edmill.md
-        - name: Gerenciamento de Serviços Efetivo
+        - name: Gerenciamento de Serviço de Infecção
           href: teams/efecte-oyj-service-management.md
         - name: Egnyte
           href: teams/egnyte.md
@@ -565,8 +563,6 @@
           href: teams/humu-inc.md
         - name: Hyperproof
           href: teams/hyperproof.md
-        - name: Ideias por Sideways 6
-          href: teams/sideways-6-ideas-by.md
         - name: iGlobe CRM para o Teams
           href: teams/iglobe-crm-for-teams.md
         - name: iManage
@@ -987,7 +983,7 @@
           href: teams/teamschamp.md
         - name: TeamSticker por Communitio
           href: teams/communitio-corporation-teamsticker-by.md
-        - name: Trabalho em equipe
+        - name: Teamwork
           href: teams/teamwork.md
         - name: Conexão TELUS Business
           href: teams/ringcentral-inc-telus-business-connect.md
@@ -1105,8 +1101,6 @@
           href: teams/yucca-technologies-gmbh-yuccahr.md
         - name: Zignals
           href: teams/alight-zignals.md
-        - name: Zoho Sign
-          href: teams/zoho-corporation-private-limited-sign.md
     - name: Microsoft Word Apps
       href: word/word-apps.md
       items:
@@ -1252,8 +1246,6 @@
     - name: IDs do aplicativo do Azure
       href: azure/azure-apps.md
       items:
-        - name: 00485db5-81b3-4299-833a-8d6c366d0ac0
-          href: azure/00485db5-81b3-4299-833a-8d6c366d0ac0.md
         - name: 00738e07-f9a4-4bf5-b6f9-851ec7ea31d5
           href: azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md
         - name: 00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d
@@ -1320,10 +1312,6 @@
           href: azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md
         - name: 1c7d277c-ff8a-4ea4-bc14-7d06314f8941
           href: azure/1c7d277c-ff8a-4ea4-bc14-7d06314f8941.md
-        - name: 1cc8eecf-56f3-4137-a0fe-4b0466ca0677
-          href: azure/1cc8eecf-56f3-4137-a0fe-4b0466ca0677.md
-        - name: 1d154166-6bd3-423b-b13e-d93ca6327a3e
-          href: azure/1d154166-6bd3-423b-b13e-d93ca6327a3e.md
         - name: 1d8a304e-ea67-4aa2-9345-2793419cf83f
           href: azure/1d8a304e-ea67-4aa2-9345-2793419cf83f.md
         - name: 1dd6ac57-e6f0-4995-a57f-b6d074c16e11
@@ -1354,8 +1342,6 @@
           href: azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3.md
         - name: 2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb
           href: azure/2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb.md
-        - name: 2e57054c-4326-46ed-8482-40d9a6d20e79
-          href: azure/2e57054c-4326-46ed-8482-40d9a6d20e79.md
         - name: 2e8b6192-7ea3-44a7-921e-86e0afd8cd0a
           href: azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md
         - name: 2f05d0f8-3f87-4a59-952d-33c69c24a6d9
@@ -1372,8 +1358,6 @@
           href: azure/34ed2c1e-bccf-463d-8fbc-0403e72e89fc.md
         - name: 3557d5c0-bcab-410b-8a03-f7045aa48de0
           href: azure/3557d5c0-bcab-410b-8a03-f7045aa48de0.md
-        - name: 3741153e-2490-463c-aff7-5283fb1bd1b4
-          href: azure/3741153e-2490-463c-aff7-5283fb1bd1b4.md
         - name: 38b3f4fa-4229-4d51-9937-6e4515650c8c
           href: azure/38b3f4fa-4229-4d51-9937-6e4515650c8c.md
         - name: 39073da9-c47c-4da8-b57a-3786461db8f4
@@ -1400,8 +1384,6 @@
           href: azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md
         - name: 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d
           href: azure/3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d.md
-        - name: 40aab3eb-744c-42e1-868d-d0227e026690
-          href: azure/40aab3eb-744c-42e1-868d-d0227e026690.md
         - name: 418a1ee4-ca76-4b38-b4b3-8cca25417a6c
           href: azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md
         - name: 421da895-5e99-4254-b038-209f1ddd5cbb
@@ -1750,8 +1732,6 @@
           href: azure/dea67e43-444e-4852-b57b-b57878a4022b.md
         - name: e208746a-2666-4d95-b925-e2ff64b3181d
           href: azure/e208746a-2666-4d95-b925-e2ff64b3181d.md
-        - name: e5d4c7df-50aa-4c15-aa06-c108d0225832
-          href: azure/e5d4c7df-50aa-4c15-aa06-c108d0225832.md
         - name: e5e829df-1793-40fb-806a-8f9ce70a8e14
           href: azure/e5e829df-1793-40fb-806a-8f9ce70a8e14.md
         - name: e601bd6e-0476-4d66-bd57-a9d13c207f0b

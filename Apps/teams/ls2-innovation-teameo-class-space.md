@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o espaço de classe teameo pela inovação LS2
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Espaço de Classe teameo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 66e9f66c89bcf14cd7dcd3eff22ff300f3ea7050
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 59d5357eff96fe0760730ded4d2c7bff177e1346
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253627"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544729"
 ---
 # <a name="teameo-class-space"></a>Espaço de aula do Teameo
 
@@ -171,7 +172,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AppCatalog.ReadWrite.All | aplicação | Gestion de Teams App pour Espace Num&#233;rique | [05525b77-8ca6-462f-8902-15788cb405c6](https://docs.microsoft.com/microsoft-365-app-certification/azure/05525b77-8ca6-462f-8902-15788cb405c6) |
+>| AppCatalog.ReadWrite.All | aplicação | Gestion de Teams App pour Espace Num&#233;rique | [05525b77-8ca6-462f-8902-15788cb405c6](../azure/05525b77-8ca6-462f-8902-15788cb405c6.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

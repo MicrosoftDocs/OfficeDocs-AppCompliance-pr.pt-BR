@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Natterhub por Natterhub
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Natterhub, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fd0c03b20732f7f83d9d6738779f011a4272d6db
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 8cce96e9f542f1b9ed160f9cfb83b01c073f8239
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256478"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544299"
 ---
 # <a name="natterhub"></a>Natterhub
 
@@ -40,7 +41,7 @@ Informações fornecidas por Natterhub à Microsoft:
 | Termos de uso do aplicativo | [https://natterhub.com/legal](https://natterhub.com/legal) |
 | Funcionalidade principal do aplicativo | Natterhub é um hub de alfabetização de mídia e segurança online. Projetado para ensinar os alunos de 5 a 11 anos a serem seguros e experientes online, o Natterhub usa uma plataforma de estilo de mídia social segura e imersiva, cheia de lições e atividades interativas impactadas. |
 | Localização da sede da empresa | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://natterhub.com](https://natterhub.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -171,12 +172,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| EduAssignments.ReadWrite | delegado | Obrigatório para criar envios de atribuição | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
->| User.Read | delegado | Obrigatório para ler o nome e o sobrenome do usuário | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
->| email | delegado | Exigimos essa permissão para que o usuário possa receber emails transacionais | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
->| offline_access | delegado | Obrigatório para enviar envios de atribuição | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
->| openid | delegado | Necessário para identificar o usuário | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
->| perfil | delegado | Obrigatório para ler o nome e o sobrenome do usuário | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| EduAssignments.ReadWrite | delegado | Obrigatório para criar envios de atribuição | [54cd93cb-c60e-43b7-bbee-686a2b241794](../azure/54cd93cb-c60e-43b7-bbee-686a2b241794.md) |
+>| User.Read | delegado | Obrigatório para ler o nome e o sobrenome do usuário | [54cd93cb-c60e-43b7-bbee-686a2b241794](../azure/54cd93cb-c60e-43b7-bbee-686a2b241794.md) |
+>| email | delegado | Exigimos essa permissão para que o usuário possa receber emails transacionais | [54cd93cb-c60e-43b7-bbee-686a2b241794](../azure/54cd93cb-c60e-43b7-bbee-686a2b241794.md) |
+>| offline_access | delegado | Obrigatório para enviar envios de atribuição | [54cd93cb-c60e-43b7-bbee-686a2b241794](../azure/54cd93cb-c60e-43b7-bbee-686a2b241794.md) |
+>| openid | delegado | Necessário para identificar o usuário | [54cd93cb-c60e-43b7-bbee-686a2b241794](../azure/54cd93cb-c60e-43b7-bbee-686a2b241794.md) |
+>| perfil | delegado | Obrigatório para ler o nome e o sobrenome do usuário | [54cd93cb-c60e-43b7-bbee-686a2b241794](../azure/54cd93cb-c60e-43b7-bbee-686a2b241794.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

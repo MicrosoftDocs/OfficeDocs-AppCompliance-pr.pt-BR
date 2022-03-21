@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Meetgeek pela SRL DE PRODUTOS AIVISION
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Meetgeek, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 334a0658f1ce5403153bd1c94849148dce45ce8c
-ms.sourcegitcommit: c02a78e87cd408ded50ad143138502ce1f1d883e
+ms.openlocfilehash: b020c5d318f563a9431ab68db48cb0af206c21f3
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62335850"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543719"
 ---
 # <a name="meetgeek"></a>Meetgeek
 
@@ -35,12 +36,12 @@ Informações fornecidas pelo SRL dos PRODUTOS AIVISION para a Microsoft:
 | Nome do aplicativo | Meetgeek |
 | ID | WA200003720 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | SRL DE PRODUTOS AIVISION |
+| Nome da empresa de parceiro | SRL DE PRODUTOS DO AIVISION |
 | Site da empresa | [https://meetgeek.ai](https://meetgeek.ai) |
 | Termos de uso do aplicativo | [https://meetgeek.ai/terms](https://meetgeek.ai/terms) |
 | Funcionalidade principal do aplicativo | Maximize a produtividade de suas reuniões online! Gravar, transcrever, compartilhar resumos e acessar informações de reunião automaticamente. |
 | Localização da sede da empresa | Romênia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://meetgeek.ai](https://meetgeek.ai) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -170,17 +171,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Sincronizando dados de calendário para o usuário | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| OnlineMeetings.ReadWrite | delegado | Sincronizando reuniões online para o usuário | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| User.Read | delegado | Identificar o usuário conectado | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| email | delegado | Identificar o usuário conectado | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| offline_access | delegado | Sincronizando dados de calendário para o usuário | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| openid | delegado | Identificar o usuário conectado | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| perfil | delegado | Identificar o usuário conectado | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| Calls.AccessMedia.All | delegado | Acionando o bot Meetgeek para ingressar no MS Teams chamadas do usuário | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba) |
->| Calls.Initiate.All | delegado | Acionando o bot Meetgeek para ingressar no MS Teams chamadas do usuário | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba) |
->| Calls.InitiateGroupCall.All | delegado | Acionando o bot Meetgeek para ingressar no MS Teams chamadas do usuário | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba) |
->| Calls.JoinGroupCall.All | delegado | Acionando o bot Meetgeek para ingressar no MS Teams chamadas do usuário | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba) |
+>| Calendars.ReadWrite | delegado | Sincronizando dados de calendário para o usuário | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| OnlineMeetings.ReadWrite | delegado | Sincronizando reuniões online para o usuário | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| User.Read | delegado | Identificar o usuário conectado | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| email | delegado | Identificar o usuário conectado | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| offline_access | delegado | Sincronizando dados de calendário para o usuário | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| openid | delegado | Identificar o usuário conectado | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| perfil | delegado | Identificar o usuário conectado | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| Calls.AccessMedia.All | delegado | Acionando o bot Meetgeek para ingressar no MS Teams chamadas do usuário | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](../azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.md) |
+>| Calls.Initiate.All | delegado | Acionando o bot Meetgeek para ingressar no MS Teams chamadas do usuário | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](../azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.md) |
+>| Calls.InitiateGroupCall.All | delegado | Acionando o bot Meetgeek para ingressar no MS Teams chamadas do usuário | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](../azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.md) |
+>| Calls.JoinGroupCall.All | delegado | Acionando o bot Meetgeek para ingressar no MS Teams chamadas do usuário | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](../azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

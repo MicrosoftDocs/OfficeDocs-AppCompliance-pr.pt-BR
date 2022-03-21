@@ -2,18 +2,19 @@
 title: Informações do aplicativo para contatos Pro por Witivio
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para contatos Pro, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ca10bb626f33ce2c4b5bafc618c784b46fe3e1e7
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 9c5744d35076dbe6453a54dae466f99856e23030
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080255"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544129"
 ---
 # <a name="contacts-pro"></a>Contatos Profissionais
 
@@ -61,7 +62,7 @@ Essas informações foram fornecidas pelo Witivio sobre como esse aplicativo col
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Contatos |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Irlanda |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 60 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -170,11 +171,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
->| email | delegado | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
->| offline_access | delegado | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
->| openid | delegado | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
->| perfil | delegado | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
+>| User.Read | delegado | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
+>| email | delegado | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
+>| offline_access | delegado | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
+>| openid | delegado | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
+>| perfil | delegado | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

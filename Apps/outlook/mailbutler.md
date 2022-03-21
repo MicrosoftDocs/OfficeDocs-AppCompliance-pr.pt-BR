@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Mailbutler por Mailbutler
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Mailbutler, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a2ddc871a1be8a15f2f1de222349b8a80f224ddd
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 9b3ff23c3e8a8f27c53101116930f73f456f1d34
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200496"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540919"
 ---
 # <a name="mailbutler"></a>Mailbutler
 
@@ -39,7 +40,7 @@ Informações fornecidas pelo Mailbutler à Microsoft:
 | Termos de uso do aplicativo | [https://www.mailbutler.io/terms-and-conditions](https://www.mailbutler.io/terms-and-conditions) |
 | Funcionalidade principal do aplicativo | Mailbutler é o plug-in de email que fornece tudo o que você precisa para maximizar sua produtividade e manter seu email no ponto. Mailbutler oferece uma infinidade de recursos úteis e de aumento de produtividade que você pode acessar na caixa de entrada. Seus recursos ajudam a melhorar a comunicação do cliente, a manter a marca, a otimizar o jogo de email e muito mais. |
 | Localização da sede da empresa | Alemanha |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.mailbutler.io](https://www.mailbutler.io) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -165,7 +166,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

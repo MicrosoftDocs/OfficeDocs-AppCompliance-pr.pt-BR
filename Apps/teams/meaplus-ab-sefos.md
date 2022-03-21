@@ -2,18 +2,19 @@
 title: Informações do aplicativo para SEFOS por Meaplus AB
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SEFOS, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: cc937876c3c714ba07587691d4a0e88f458d994c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: f54e6aefaf7a820e0c6bdad991fe9643d6bfba8b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256497"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541239"
 ---
 # <a name="sefos"></a>SEFOS
 
@@ -40,8 +41,9 @@ Informações fornecidas pelo Meaplus AB à Microsoft:
 | Termos de uso do aplicativo | [https://www.meaplus.com/wp-content/uploads/2020/02/Meaplus-...](https://www.meaplus.com/wp-content/uploads/2020/02/Meaplus-end_user_agreement.pdf) |
 | Funcionalidade principal do aplicativo | Envie informações criptografadas para qualquer pessoa! Você decide como o destinatário deve se identificar. |
 | Localização da sede da empresa | Suécia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://sefos.se/en/sefos-i-teams/](https://sefos.se/en/sefos-i-teams/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | SelfHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo Meaplus AB sobre como esse aplicativo 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído após 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,14 +161,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Criar reunião em nome do usuário | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| Mail.Send | delegado | Enviando convites de reunião | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| MailboxSettings.Read | delegado | Coletando o timezone para o usuário autenticado | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| People.Read | delegado | Pesquisar no adressbook de usuário autenticado | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| User.Read | delegado | Entrar e ler o perfil do usuário | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| email | delegado | Endereço de email para identificar o usuário no SEFOS. | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| openid | delegado | Entrar usuário | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
->| perfil | delegado | Lendo o perfil do usuário | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](https://docs.microsoft.com/microsoft-365-app-certification/azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3) |
+>| Calendars.ReadWrite | delegado | Criar reunião em nome do usuário | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| Mail.Send | delegado | Enviando convites de reunião | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| MailboxSettings.Read | delegado | Coletando o timezone para o usuário autenticado | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| People.Read | delegado | Pesquisar no adressbook de usuário autenticado | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| email | delegado | Endereço de email para identificar o usuário no SEFOS. | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| openid | delegado | Entrar usuário | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
+>| perfil | delegado | Lendo o perfil do usuário | [23b236c3-685d-49f0-a7bf-012ef3dc9ec3](../azure/23b236c3-685d-49f0-a7bf-012ef3dc9ec3.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

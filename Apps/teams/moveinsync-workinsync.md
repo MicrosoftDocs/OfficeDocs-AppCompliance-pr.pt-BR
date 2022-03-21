@@ -2,18 +2,19 @@
 title: Informações do aplicativo para WorkInSync pelo MoveInSync
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o WorkInSync, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: aa528136089b1ff6e54f24a82a0184bef58ee233
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: e8620c57d74d71649ed418f08fd8e634c7de47d6
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255647"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543589"
 ---
 # <a name="workinsync"></a>WorkInSync
 
@@ -38,10 +39,11 @@ Informações fornecidas pelo MoveInSync para a Microsoft:
 | Nome da empresa de parceiro | MoveInSync |
 | Site da empresa | [https://www.workinsync.io](https://www.workinsync.io) |
 | Termos de uso do aplicativo | [https://www.workinsync.io/terms-and-condition/](https://www.workinsync.io/terms-and-condition/) |
-| Funcionalidade principal do aplicativo | WorkInSync permite que as organizações planejem facilmente executar um modelo de reserva &amp; de mesa flexível para seu escritório.  Como funcionário, você pode: - Criar e gerenciar reservas de mesa - Clock-in ao trabalhar de 1 hora no fim do dia Como Gerente - Você é notificado dos planos de clockin/clockouts dos membros da sua equipe Na guia Atividade da Equipe que você pode instalar em um contexto de canal, você pode - Ver onde toda a equipe está trabalhando de sua presença - Pesquise por um colega específico em toda a organização &amp; &amp; &amp; |
+| Funcionalidade principal do aplicativo | WorkInSync permite que as &amp; organizações planejem facilmente executar um modelo de reserva de mesa flexível para seu escritório.  Como funcionário, você pode: - Criar e gerenciar reservas de mesa - Clock-in &amp; ao trabalhar de 1 hora no fim do dia Como Gerente - Você é notificado dos planos de clockin/clockouts &amp; dos membros da sua equipe Na guia Atividade da Equipe que você pode instalar em um contexto de canal, você pode - &amp; Ver onde toda a equipe está trabalhando de sua presença - Pesquise por um colega específico em toda a organização |
 | Localização da sede da empresa | Índia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.workinsync.io/teams-app-for-workinsync/](https://www.workinsync.io/teams-app-for-workinsync/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo MoveInSync sobre como esse aplicativo 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,16 +162,16 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | delegado | 1. Para obter detalhes de membros do grupo transitivos. Eles são usados na 'guia Atividade da Equipe' quando instalados no contexto do canal. 2. Para entrar na lista de detalhes do perfil de usuário &amp;  dos usuários na organização. Elas são usadas quando a guia Atividade da Equipe é instalada no contexto pessoal, como um retorno para mostrar a visualização dos colegas de equipe caso a API de pessoas falhe (usuários que não são do outlook) | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| People.Read | delegado | Para fazer com que as pessoas mais relacionadas ao usuário conectado mostrem na guia Atividade de Equipe é instalada no contexto pessoal. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| Presence.Read | delegado | Para obter informações de presença de uma lista de usuários na guia Atividade da Equipe no contexto pessoal e de canal | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| Presence.Read.All | delegado | Para obter informações de presença de uma lista de usuários na guia Atividade da Equipe no contexto pessoal e de canal | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| User.Read.All | aplicação | Usado para obter informações do gerente de relatórios de qualquer usuário para enviar notificações de reserva e check-in/check-out ao gerente | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| User.ReadBasic.All | delegado | Usado para ler a foto de perfil do funcionário | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| email | delegado | Necessário para obter o token SSO usando Teams cliente | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| offline_access | delegado | Necessário para obter o token SSO usando Teams cliente | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| openid | delegado | Necessário para obter o token SSO usando Teams cliente | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| perfil | delegado | Necessário para obter o token SSO usando Teams cliente | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
+>| Directory.Read.All | delegado | 1. Para obter detalhes de membros do grupo transitivos. Eles são usados na 'guia Atividade da Equipe' quando instalados no contexto do canal. 2. Para entrar na lista de detalhes do perfil de &amp;  usuário dos usuários na organização. Elas são usadas quando a guia Atividade da Equipe é instalada no contexto pessoal, como um retorno para mostrar a visualização dos colegas de equipe caso a API de pessoas falhe (usuários que não são do outlook) | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| People.Read | delegado | Para fazer com que as pessoas mais relacionadas ao usuário conectado mostrem na guia Atividade de Equipe é instalada no contexto pessoal. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| Presence.Read | delegado | Para obter informações de presença de uma lista de usuários na guia Atividade da Equipe no contexto pessoal e de canal | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| Presence.Read.All | delegado | Para obter informações de presença de uma lista de usuários na guia Atividade da Equipe no contexto pessoal e de canal | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| User.Read.All | aplicação | Usado para obter informações do gerente de relatórios de qualquer usuário para enviar notificações de reserva e check-in/check-out ao gerente | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| User.ReadBasic.All | delegado | Usado para ler a foto de perfil do funcionário | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| email | delegado | Necessário para obter o token SSO usando Teams cliente | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| offline_access | delegado | Necessário para obter o token SSO usando Teams cliente | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| openid | delegado | Necessário para obter o token SSO usando Teams cliente | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| perfil | delegado | Necessário para obter o token SSO usando Teams cliente | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para GuinéPig pela GuinéPig Health Technologies AB
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/20/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para GuinéPig, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: dbd872c0f919c8141d41771470546a5b75ae56b0
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: bfbb46e2fa94292848778af8fa76a6596fd8276a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257817"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543939"
 ---
 # <a name="guineapig"></a>GuineaPig
 
@@ -38,9 +39,9 @@ Informações fornecidas pela GuinéPig Health Technologies AB para a Microsoft:
 | Nome da empresa de parceiro | Tecnologias de saúde Ab da VpnPig |
 | Site da empresa | [https://guineapig.app](https://guineapig.app) |
 | Termos de uso do aplicativo | [https://www.guineapig.app/terms-and-conditions](https://www.guineapig.app/terms-and-conditions) |
-| Funcionalidade principal do aplicativo | GuinéPig ajuda sua equipe a se manter saudável, feliz e envolvida com aulas de fitness ao vivo sob demanda e &amp; pausas curtas do trabalho. |
+| Funcionalidade principal do aplicativo | GuinéPig ajuda sua equipe a se manter saudável, &amp; feliz e envolvida com aulas de fitness ao vivo sob demanda e pausas curtas do trabalho. |
 | Localização da sede da empresa | Suécia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://guineapig.app](https://guineapig.app) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP |
 
@@ -170,7 +171,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Estamos usando User.Read para ler informações como o nome do usuário para usá-la em nossos Chats e Guias, etc. Visite uma https://www.guineapig.app/privacy-policy descrição detalhada. | [d6a2090f-1447-456b-bd5f-121e4efd8c89](https://docs.microsoft.com/microsoft-365-app-certification/azure/d6a2090f-1447-456b-bd5f-121e4efd8c89) |
+>| User.Read | delegado | Estamos usando User.Read para ler informações como o nome do usuário para usá-la em nossos Chats e Guias, etc. Visite uma https://www.guineapig.app/privacy-policy descrição detalhada. | [d6a2090f-1447-456b-bd5f-121e4efd8c89](../azure/d6a2090f-1447-456b-bd5f-121e4efd8c89.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

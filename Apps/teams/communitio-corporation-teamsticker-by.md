@@ -2,12 +2,19 @@
 title: Informações de aplicativo para TeamSticker by Communitio by Communitio Corporation
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 'Todas as informações de segurança e conformidade disponíveis para o TeamSticker by Communitio, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.'
+description: Todas as informações de segurança e conformidade disponíveis para o TeamSticker by Communitio, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 5b9b32b4cb3b7967fb747eb3a813b3680bdb57da
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540569"
 ---
 # <a name="teamsticker-by-communitio"></a>TeamSticker por Communitio
 
@@ -34,7 +41,7 @@ Informações fornecidas pela Communitio Corporation à Microsoft:
 | Termos de uso do aplicativo | [https://teamsuite.biz/terms](https://teamsuite.biz/terms) |
 | Funcionalidade principal do aplicativo | Este é um cartão de agradecimento digital que pode ser enviado da conversa. |
 | Localização da sede da empresa | Japão |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://teamsuite.biz/teamsticker](https://teamsuite.biz/teamsticker) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -164,13 +171,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamMember.Read.All | aplicação |  Para selecionar a pessoa para a qual você deseja enviar o cartão. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| TeamMember.Read.All | delegado |  Para selecionar a pessoa para a qual você deseja enviar o cartão. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| User.Read | delegado | Para obter as informações de perfil do usuário conectado. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| User.Read.All | aplicação |  Para selecionar a pessoa para a qual você deseja enviar o cartão. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| User.Read.All | delegado |  Para selecionar a pessoa para a qual você deseja enviar o cartão. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| openid | delegado |  Para entrar. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| perfil | delegado | Para obter as informações de perfil do usuário conectado. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| TeamMember.Read.All | aplicação |  Para selecionar a pessoa para a qual você deseja enviar o cartão. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| TeamMember.Read.All | delegado |  Para selecionar a pessoa para a qual você deseja enviar o cartão. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| User.Read | delegado | Para obter as informações de perfil do usuário conectado. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| User.Read.All | aplicação |  Para selecionar a pessoa para a qual você deseja enviar o cartão. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| User.Read.All | delegado |  Para selecionar a pessoa para a qual você deseja enviar o cartão. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| openid | delegado |  Para entrar. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
+>| perfil | delegado | Para obter as informações de perfil do usuário conectado. | [bceca1f0-723f-44d0-b732-b3506c0a641d](../azure/bceca1f0-723f-44d0-b732-b3506c0a641d.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

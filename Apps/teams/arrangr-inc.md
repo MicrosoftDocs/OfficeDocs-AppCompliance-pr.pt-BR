@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Organizr pela Arrangr, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Arrangr, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1f1798cd6741c6cafdd33defe8b8e713ac58eab5
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 01efc28d2ed0fc6c4510124d7a040beff7fe4c4e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155060"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540609"
 ---
 # <a name="arrangr"></a>Arrangr
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo Arrangr, Inc. à Microsoft:
 | Termos de uso do aplicativo | [https://arrangr.com/terms_of_use](https://arrangr.com/terms_of_use) |
 | Funcionalidade principal do aplicativo | O Organizr é um agendador integrado inteligente para qualquer reunião. Seja em pessoa ou remota, 1:1 ou com um grupo, o Organizr é simples e rápido. O Organizr se integra aos calendários da Microsoft para bloquear facil e rapidamente seus horários de ocupado, ajudar a visualizar sua agenda e garantir que suas reuniões são colocadas em seu calendário. Além disso, nossa integração Teams permite que você compartilhe facilmente convites com colegas de equipe, inicie novas reuniões dentro do Teams e acompanhe suas reuniões do Arrangr de dentro de uma guia Teams. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://arrangr.com/welcome](https://arrangr.com/welcome) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP |
 
@@ -166,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

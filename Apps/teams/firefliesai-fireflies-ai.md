@@ -1,19 +1,20 @@
 ---
-title: Informações do aplicativo para AI fireflies por Fireflies.ai
+title: Informações do aplicativo para AI de fireflies por Fireflies.ai
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a AI fireflies, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: adee5bd0237d8ff81f22cee03a7e505943df83be
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: adb01db25dd012daa05e231121cc98cd2d97bc2e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155086"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541739"
 ---
 # <a name="fireflies-ai"></a>Fireflies AI
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo Fireflies.ai para a Microsoft:
 | Termos de uso do aplicativo | [https://fireflies.ai/terms-of-service.pdf](https://fireflies.ai/terms-of-service.pdf) |
 | Funcionalidade principal do aplicativo | Fireflies é um assistente de reunião que registra, transcreve e faz anotações de suas reuniões.
 
- | | Local da sede da empresa | Estados Unidos da América | | Página de informações do aplicativo | | | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas | | Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP |
+ | | Local da sede da empresa | Estados Unidos da América | | Página de informações do aplicativo | [https://app.fireflies.ai/integrations/collaboration/microso...](https://app.fireflies.ai/integrations/collaboration/microsoft-teams) | | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas | | Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,7 +165,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

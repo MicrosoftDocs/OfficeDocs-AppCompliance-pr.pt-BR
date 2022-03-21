@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Appspace by Appspace, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Appspace, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: deb06307b65cfe2c32efce58a29cfa9e49c24e2b
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 9c2afedb745c108944be0e9b1442414c1c775315
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263535"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542329"
 ---
 # <a name="appspace"></a>Appspace
 
@@ -40,8 +41,9 @@ Informações fornecidas pelo Appspace, Inc. à Microsoft:
 | Termos de uso do aplicativo | [https://www.appspace.com/legal/user-agreement/](https://www.appspace.com/legal/user-agreement/) |
 | Funcionalidade principal do aplicativo | O Appspace é uma plataforma de gerenciamento de espaço e comunicação para ajudar sua empresa com a organização e a eficiência, trabalhando de qualquer lugar. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.appspace.com](https://www.appspace.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pela Appspace, Inc. sobre como esse aplicat
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído após 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,8 +161,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Team.ReadBasic.All | delegado | Obter as equipes às que o usuário pertence. | [a9a866c4-e5cf-47f2-932c-db14cb89008f](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f) |
->| User.ReadBasic.All | delegado | Leia as propriedades básicas de perfil de outros usuários em sua organização em nome do usuário que está dentro. Inclui o nome para exibição, nome e sobrenome, endereço de email, extensões abertas e foto. Também permite que o aplicativo leia o perfil completo do usuário conectado. | [a9a866c4-e5cf-47f2-932c-db14cb89008f](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f) |
+>| Team.ReadBasic.All | delegado | Obter as equipes às que o usuário pertence. | [a9a866c4-e5cf-47f2-932c-db14cb89008f](../azure/a9a866c4-e5cf-47f2-932c-db14cb89008f.md) |
+>| User.ReadBasic.All | delegado | Leia as propriedades básicas de perfil de outros usuários em sua organização em nome do usuário que está dentro. Inclui o nome para exibição, nome e sobrenome, endereço de email, extensões abertas e foto. Também permite que o aplicativo leia o perfil completo do usuário conectado. | [a9a866c4-e5cf-47f2-932c-db14cb89008f](../azure/a9a866c4-e5cf-47f2-932c-db14cb89008f.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

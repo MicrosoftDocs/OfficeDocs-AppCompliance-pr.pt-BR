@@ -2,18 +2,19 @@
 title: Informações do aplicativo para FastOrg por &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#27941;&#65289;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o FastOrg, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 59fef5c8e9a5013bf7fea045fdc0e759b66950fc
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 2c31f6db2caf41880f93cc702fa4b9ee713fbb4c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200522"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542979"
 ---
 # <a name="fastorg"></a>FastOrg
 
@@ -40,9 +41,8 @@ Informações fornecidas pelo &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#
 | Termos de uso do aplicativo | [https://www.dynamics365.cn/termofuse](https://www.dynamics365.cn/termofuse) |
 | Funcionalidade principal do aplicativo | &#33258;&#23450;&#20041;&#21019;&#24314;&#20225;&#19994;&#32452;&#32455;&#26550;&#26500;&#32479;&#19968;&#31649;&#29702;&#65292;&#24555;&#36895;&#22312;Microsoft Teams&#25214;&#21040;&#21516;&#20107;&#65292;&#20449;&#24687;&#20934;&#30830;&#12289;&#26041;&#20415;&#26597;&#38405;&#12290;&#23454;&#29616;&#32452;&#32455;&#26550;&#26500;&#25153;&#24179;&#21270;&#12289;&#21487;&#35270;&#21270;&#12290; |
 | Localização da sede da empresa | China |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.dynamics365.cn/fastorgs](https://www.dynamics365.cn/fastorgs) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,7 +52,7 @@ Informações fornecidas pelo &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#27941;&#65289;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas por &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#27941;&#65289;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
@@ -165,7 +165,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

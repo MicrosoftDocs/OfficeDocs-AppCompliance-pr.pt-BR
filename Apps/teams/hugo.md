@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Hugo por Hugo
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Hugo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 408d46c4352292e2c5ad4320675f0283fc65dc16
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: d05c1839ed59c6308ab621f6e3114e262e6f4e4a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147270"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542969"
 ---
 # <a name="hugo"></a>Hugo
 
@@ -38,11 +39,10 @@ Informações fornecidas por Hugo à Microsoft:
 | Nome da empresa de parceiro | Hugo |
 | Site da empresa | [https://www.hugo.team](https://www.hugo.team) |
 | Termos de uso do aplicativo | [https://www.hugo.team/terms](https://www.hugo.team/terms) |
-| Funcionalidade principal do aplicativo | O Hugo é um local para reuniões, anotações e tarefas &#8211; projetado para equipes que usam Microsoft Teams. A plataforma de anotações centrada no calendário de Hugo fornece a você e à sua equipe um local central para agendas de reunião e anotações, tarefas e ações &#8211; todas organizadas automaticamente pelos contatos e empresas que você encontra e conectadas aos mais de 20 aplicativos que você usa todos os dias. |
+| Funcionalidade principal do aplicativo | O Hugo é um local para reuniões, anotações e tarefas &#8211; projetadas para equipes que usam Microsoft Teams. A plataforma de anotações centrada no calendário de Hugo oferece a você e à sua equipe um local central para agendas de reunião e anotações, tarefas e ações &#8211; todas organizadas automaticamente pelos contatos e empresas que você encontra e conectadas aos mais de 20 aplicativos que você usa todos os dias. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.hugo.team/teams](https://www.hugo.team/teams) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,7 +166,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

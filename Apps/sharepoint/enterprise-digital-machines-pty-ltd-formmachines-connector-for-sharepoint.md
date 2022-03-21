@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Conector FormMachines para SharePoint por ENTERPRISE DIGITAL MACHINES PTY LTD
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o FormMachines Connector para SharePoint, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 783077ad6e5fdef936068d0b8224fd9516b8c1f2
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: 96e0b86891d8e94ecbd007e1e58510fd6314fcdb
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62209583"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544509"
 ---
 # <a name="formmachines-connector-for-sharepoint"></a>Conector FormMachines para SharePoint
 
@@ -38,7 +39,7 @@ Informações fornecidas pela ENTERPRISE DIGITAL MACHINES PTY LTD para a Microso
 | Termos de uso do aplicativo | [https://www.formmachines.com/dist/docs#/statements_and_agre...](https://www.formmachines.com/dist/docs#/statements_and_agreements/terms_of_service) |
 | Funcionalidade principal do aplicativo | Fornece FormMachines para Teams a capacidade de ler e gravar em SharePoint listas |
 | Localização da sede da empresa | Austrália |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.formmachines.com](https://www.formmachines.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -164,7 +165,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

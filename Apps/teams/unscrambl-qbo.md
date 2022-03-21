@@ -2,18 +2,19 @@
 title: Informações do aplicativo para qbo por Unscrambl
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o qbo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f48255e8f29512bfc18a9d9c1a3d079829d31769
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: a02dec60c2eb9ab25fce28ac45271629b4700011
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147123"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542679"
 ---
 # <a name="qbo"></a>qbo
 
@@ -38,9 +39,9 @@ Informações fornecidas pelo Unscrambl à Microsoft:
 | Nome da empresa de parceiro | Unscrambl |
 | Site da empresa | [https://unscrambl.com](https://unscrambl.com) |
 | Termos de uso do aplicativo | [https://qbo.ai/legal/#service](https://qbo.ai/legal/#service) |
-| Funcionalidade principal do aplicativo | qbo, alimentado por percepções de qbo unscrambl, torna a análise conversacional usando a melhor NLP da classe. Os usuários digitam uma pergunta e o qbo revela as informações e visualizações mais relevantes em um snap. Os usuários podem colaborar ativamente com colegas, tomar decisões e capturar descobertas em placas prontas para apresentação. O qbo capacita todos na organização a tomar decisões orientadas por dados. O qbo conecta-se diretamente a um intervalo de fontes de nuvem ou local e pode ser acessado por meio de Microsoft Teams ou navegador. |
+| Funcionalidade principal do aplicativo | qbo, alimentado por percepções de qbo unscrambl, torna a análise conversacional usando a melhor NLP da classe. Os usuários digitam uma pergunta e o qbo revela as informações e visualizações mais relevantes em um snap. Os usuários podem colaborar ativamente com colegas, tomar decisões e capturar descobertas em placas prontas para apresentação. O qbo capacita todos na organização a tomar decisões orientadas por dados. O qbo conecta-se diretamente a um intervalo de fontes de nuvem ou local e pode ser acessado por meio Microsoft Teams ou um navegador. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://qbo.ai](https://qbo.ai) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -166,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

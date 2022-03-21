@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Adobe Acrobat, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b94696ec95be7b58f03aaa048169e7c5b6cd89a0
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: 015ddceffb9bf0a0a7a45bdff8ac0f4ddbb9faad
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459314"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544029"
 ---
 # <a name="adobe-acrobat"></a>Adobe Acrobat
 
@@ -62,7 +62,7 @@ Essas informações foram fornecidas pela Adobe Systems Inc. sobre como esse apl
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | tenant_id, upn_hash, profile_and_token_info, oauth_state, ims_login_changed_at, preference_data, updated_at, created_at, expires_at |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -171,13 +171,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite.All | delegado | Para poder listar e navegar pelos arquivos e pastas recentes, OneDrive e Teams canais do usuário. Permitimos que os usuários acessem esses arquivos, usem-os para executar operações neles e salvem arquivos de volta ao armazenamento. | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
->| Team.ReadBasic.All | delegado | Ler os nomes e as descrições das equipes | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
->| User.Read | delegado | Entrar e ler o perfil do usuário | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
->| email | delegado | Exibir o endereço de email dos usuários | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
->| offline_access | delegado | manter o acesso aos dados aos que você deu acesso a ele | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
->| openid | delegado | Conectar os usuários | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
->| perfil | delegado | exibir o perfil básico dos usuários | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
+>| Files.ReadWrite.All | delegado | Para poder listar e navegar pelos arquivos e pastas recentes, OneDrive e Teams canais do usuário. Permitimos que os usuários acessem esses arquivos, usem-os para executar operações neles e salvem arquivos de volta ao armazenamento. | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| Team.ReadBasic.All | delegado | Ler os nomes e as descrições das equipes | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| email | delegado | Exibir o endereço de email dos usuários | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| offline_access | delegado | manter o acesso aos dados aos que você deu acesso a ele | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| openid | delegado | Conectar os usuários | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| perfil | delegado | exibir o perfil básico dos usuários | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

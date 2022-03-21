@@ -2,18 +2,19 @@
 title: Informações do aplicativo para taxonomia pela Accuracy Software Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Taxonomia, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1106b9e00a94d133c167b04bb31e4bc71c060c73
-ms.sourcegitcommit: 0465c6dd3a2c42fb1fd785548654d5b7f2601adc
+ms.openlocfilehash: 3adb6387e276e8f6a9827262227bb759514eebde
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/19/2022
-ms.locfileid: "62909063"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543739"
 ---
 # <a name="taxonomy"></a>Taxonomia
 
@@ -37,9 +38,9 @@ Informações fornecidas pela Accuracy Software Inc. à Microsoft:
 | Nome da empresa de parceiro | Accuracy Software Inc. |
 | Site da empresa | [https://accuracysoftware.ca](https://accuracysoftware.ca) |
 | Termos de uso do aplicativo | [https://accuracysoftware.ca/taxonomy-terms-of-service](https://accuracysoftware.ca/taxonomy-terms-of-service) |
-| Funcionalidade principal do aplicativo | A taxonomia fornece uma maneira eficaz de gerenciar seu Plano de Classificação de Arquivos, permitindo a colaboração dos profissionais de IM com os diferentes participantes para criar, revisar e publicar o plano de arquivos para toda a organização. Além disso, Taxonomia Permite que você gere rótulos de retenção do M365 exportem que você pode importar para o Centro de Conformidade da Microsoft e exporte seu plano de arquivos em um formato de Conjunto de Termos que você pode importar para o SharePoint Term Store. |
+| Funcionalidade principal do aplicativo | A taxonomia fornece uma maneira eficaz de gerenciar seu Plano de Classificação de Arquivos, permitindo a colaboração dos profissionais de IM com os diferentes participantes para criar, revisar e publicar o plano de arquivos para toda a organização. Além disso, Taxonomia Permite que você gere rótulos de retenção do M365 exportem que você pode importar para o Centro de Conformidade da Microsoft e para exportar seu plano de arquivos em um formato de Conjunto de Termos que você pode importar para o SharePoint Term Store. |
 | Localização da sede da empresa | Canadá |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.accuracysoftware.ca/taxonomy-sharepoint-webpart/](https://www.accuracysoftware.ca/taxonomy-sharepoint-webpart/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Locatário SharePoint cliente |
 
@@ -58,7 +59,7 @@ Essas informações foram fornecidas pela Accuracy Software Inc. sobre como esse
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Dados de classificação do plano de arquivos |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Canadá |
 | Você tem um processo estabelecido de locação e descarte de dados? | Não |
 | Por quanto tempo os dados são mantidos após o término da conta? | Não mantido |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Não |
@@ -162,7 +163,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Sim |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para ContractZen by ContractZen
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para ContractZen, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3ba2af3606c470bb4a5f15e636ca069f9ff722d7
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ace467613e349d8ea2d4c900b41c3097f238b303
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257949"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542259"
 ---
 # <a name="contractzen"></a>ContractZen
 
@@ -40,7 +41,7 @@ Informações fornecidas por ContractZen à Microsoft:
 | Termos de uso do aplicativo | [https://my.contractzen.com/Terms](https://my.contractzen.com/Terms) |
 | Funcionalidade principal do aplicativo | Software de governança seguro para gerenciamento de contratos avançados, gerenciamento de reuniões do conselho, gerenciamento de entidades, assinatura eletrônica e salas de dados virtuais (VDR) |
 | Localização da sede da empresa | Finlândia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://appsource.microsoft.com/en-US/product/office/wa2000...](https://appsource.microsoft.com/en-US/product/office/wa200001389) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -170,7 +171,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Para poder usar as informações de perfil de usuário | [0492ead3-ee26-40df-9757-d95cc693d856](https://docs.microsoft.com/microsoft-365-app-certification/azure/0492ead3-ee26-40df-9757-d95cc693d856) |
+>| User.Read | delegado | Para poder usar as informações de perfil de usuário | [0492ead3-ee26-40df-9757-d95cc693d856](../azure/0492ead3-ee26-40df-9757-d95cc693d856.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações de aplicativo para Netskope para Microsoft Teams por Netskope
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Netskope para Microsoft Teams, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Netskope para Microsoft Teams, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c4c65c048423c0f0e7bc1c1b396dd832cbebf341
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: b99ebb361f002a5ebb3a161d0b12d0eab8457689
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253996"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542439"
 ---
 # <a name="netskope-for-microsoft-teams"></a>Netskope para Microsoft Teams
 
@@ -36,11 +37,10 @@ Informações fornecidas pelo Netskope para a Microsoft:
 | Nome da empresa de parceiro | Netskope |
 | Site da empresa | [https://www.netskope.com](https://www.netskope.com) |
 | Termos de uso do aplicativo | [https://www.netskope.com/subscription-terms/](https://www.netskope.com/subscription-terms/) |
-| Funcionalidade principal do aplicativo | A Netskope tem a única solução do setor&#8217;que tem CASB líder de mercado unificado, SWG de Próxima Geração, Isolamento de Navegador Remoto, Firewall de Nuvem, Segurança de nuvem pública e Acesso Privado de confiança zero em uma plataforma - a Nuvem de Segurança do Netskope.  Além desses recursos modulares, o Netskope também oferece microsserviços de segurança adicionais que podem ser adicionados para ajustar ainda mais a postura de segurança dos clientes, como nossos recursos avançados de DLP, criptografia e proteção contra ameaças. |
+| Funcionalidade principal do aplicativo | A Netskope tem a única solução&#8217;do setor que tem CASB, SWG de última geração, Isolamento de Navegador Remoto, Firewall de Nuvem, Segurança de nuvem pública e Acesso Privado de confiança zero em uma plataforma - a Nuvem de Segurança do Netskope.  Além desses recursos modulares, o Netskope também oferece microsserviços de segurança adicionais que podem ser adicionados para ajustar ainda mais a postura de segurança dos clientes, como nossos recursos avançados de DLP, criptografia e proteção contra ameaças. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://docs.netskope.com](https://docs.netskope.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -169,21 +169,21 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMessage.Read.All | aplicação | DLP em mensagens e postagens de canal | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| ChannelMessage.UpdatePolicyViolation.All | aplicação | DLP em mensagens e postagens de canal | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Chat.Read.All | aplicação | DLP em chats de canal/DM | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Chat.ReadBasic.All | aplicação | DLP em chats de canal/DM | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Chat.ReadWrite | aplicação | DLP em chats de canal/DM | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Chat.UpdatePolicyViolation.All | aplicação | DLP em mensagens e postagens de canal | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Directory.Read.All | aplicação | Identificação e visibilidade da associação do usuário | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Files.Read.All | aplicação | DLP em arquivos postados no MSTeams | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Files.ReadWrite.All | aplicação | DLP em arquivos postados no MSTeams | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Group.Read.All | aplicação | Identificação e visibilidade de grupo | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| GroupMember.Read.All | aplicação | Identificação e visibilidade de grupo | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Reports.Read.All | aplicação | Relatórios e Visibilidade | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Sites.Read.All | aplicação | DLP do site SharePoint equipe | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| TeamsActivity.Read | aplicação | Políticas baseadas em Atividades do Usuário | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| User.Read.All | aplicação | Identificação e visibilidade do usuário | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| ChannelMessage.Read.All | aplicação | DLP em mensagens e postagens de canal | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| ChannelMessage.UpdatePolicyViolation.All | aplicação | DLP em mensagens e postagens de canal | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Chat.Read.All | aplicação | DLP em chats de canal/DM | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Chat.ReadBasic.All | aplicação | DLP em chats de canal/DM | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Chat.ReadWrite | aplicação | DLP em chats de canal/DM | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Chat.UpdatePolicyViolation.All | aplicação | DLP em mensagens e postagens de canal | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Directory.Read.All | aplicação | Identificação e visibilidade da associação do usuário | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Files.Read.All | aplicação | DLP em arquivos postados no MSTeams | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Files.ReadWrite.All | aplicação | DLP em arquivos postados no MSTeams | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Group.Read.All | aplicação | Identificação e visibilidade de grupo | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| GroupMember.Read.All | aplicação | Identificação e visibilidade de grupo | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Reports.Read.All | aplicação | Relatórios e Visibilidade | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Sites.Read.All | aplicação | DLP de site SharePoint equipe | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| TeamsActivity.Read | aplicação | Políticas baseadas em Atividades do Usuário | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| User.Read.All | aplicação | Identificação e visibilidade do usuário | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

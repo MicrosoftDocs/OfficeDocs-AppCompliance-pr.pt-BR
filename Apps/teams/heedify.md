@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Heedify por Heedify
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Heedify, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 692b53d85d3d4e9e2984147575fdff0a702d193a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d45ae00313e1b138b72fff8647931a6062955d61
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257797"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543689"
 ---
 # <a name="heedify"></a>Heedify
 
@@ -170,11 +171,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | delegado | A recepcionista precisa verificar o calendário dos usuários antes de transferir uma chamada ou compartilhar as informações com o cliente no telefone | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
->| Contacts.ReadWrite | delegado | O aplicativo precisa ser capaz de adicionar contatos ao usuário(agente) e ler seus contatos também  | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
->| Contacts.ReadWrite.Shared | delegado | o aplicativo precisa ser capaz de adicionar contato de compartilhamento com outro usuário(agente) e ler seus contatos compartilhados também  | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
->| Presence.Read.All | delegado | As informações de presença são necessárias para que o agente da central de contatos gerencie melhor as chamadas e o contato, especialmente no caso de transferência de chamada  | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
->| User.Read.All | delegado | para gerenciar o contato, o usuário conectado precisa ser capaz de procurar usuários e ler suas informações, incluindo seu departement e manager (no caso de uma recepcionista)  | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
+>| Calendars.Read | delegado | A recepcionista precisa verificar o calendário dos usuários antes de transferir uma chamada ou compartilhar as informações com o cliente no telefone | [f3ad2154-7e10-4730-a055-8852ced42d47](../azure/f3ad2154-7e10-4730-a055-8852ced42d47.md) |
+>| Contacts.ReadWrite | delegado | O aplicativo precisa ser capaz de adicionar contatos ao usuário(agente) e ler seus contatos também  | [f3ad2154-7e10-4730-a055-8852ced42d47](../azure/f3ad2154-7e10-4730-a055-8852ced42d47.md) |
+>| Contacts.ReadWrite.Shared | delegado | o aplicativo precisa ser capaz de adicionar contato de compartilhamento com outro usuário(agente) e ler seus contatos compartilhados também  | [f3ad2154-7e10-4730-a055-8852ced42d47](../azure/f3ad2154-7e10-4730-a055-8852ced42d47.md) |
+>| Presence.Read.All | delegado | As informações de presença são necessárias para que o agente da central de contatos gerencie melhor as chamadas e o contato, especialmente no caso de transferência de chamada  | [f3ad2154-7e10-4730-a055-8852ced42d47](../azure/f3ad2154-7e10-4730-a055-8852ced42d47.md) |
+>| User.Read.All | delegado | para gerenciar o contato, o usuário conectado precisa ser capaz de procurar usuários e ler suas informações, incluindo seu departement e manager (no caso de uma recepcionista)  | [f3ad2154-7e10-4730-a055-8852ced42d47](../azure/f3ad2154-7e10-4730-a055-8852ced42d47.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para políticas &amp; Insights para Microsoft Office 365 por AvePoint Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Todas as informações de segurança e conformidade disponíveis para políticas Insights para Microsoft Office 365, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do &amp; CSA.
+description: '&amp; Todas as informações de segurança e conformidade disponíveis para Políticas Insights para Microsoft Office 365, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 272be559137882c7f9f41ed46f2321d41aff9474
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 162bf8c7e05c1caf07bd40a6fa32d2ad216b1cb0
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252467"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541409"
 ---
 # <a name="policies-amp-insights-for-microsoft-office-365"></a>Políticas &amp; Insights para Microsoft Office 365
 
@@ -37,7 +38,7 @@ Informações fornecidas pelo AvePoint Inc. à Microsoft:
 | Termos de uso do aplicativo | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
 | Funcionalidade principal do aplicativo | Obtenha informações de segurança e aplique políticas automatizadas Teams, grupos, SharePoint e OneDrive |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.avepoint.com/products/cloud/policies-insights-m...](https://www.avepoint.com/products/cloud/policies-insights-microsoft-365) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -168,12 +169,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.ReadWrite.All | aplicação |   Ler e gravar dados de usuários e grupos no diretório da organização. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Group.Read.All | aplicação | Ler membros e configurações de grupos | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Group.ReadWrite.All | aplicação | Atualizar membros e configurações de grupos | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.FullControl.All | aplicação | Recupere e atualize as informações de conjunto de sites e grupos/equipes&#8217; sites. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| User.Read.All | aplicação | Ler as configurações de todos os usuários | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| User.ReadWrite.All | aplicação | Ler e gravar as configurações dos usuários | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Directory.ReadWrite.All | aplicação |   Ler e gravar dados de usuários e grupos no diretório da organização. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Group.Read.All | aplicação | Ler membros e configurações de grupos | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Group.ReadWrite.All | aplicação | Atualizar membros e configurações de grupos | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Sites.FullControl.All | aplicação | Recupere e atualize as informações de conjunto de sites e grupos/equipes&#8217; sites. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| User.Read.All | aplicação | Ler as configurações de todos os usuários | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| User.ReadWrite.All | aplicação | Ler e gravar as configurações dos usuários | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

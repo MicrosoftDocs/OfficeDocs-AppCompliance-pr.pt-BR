@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Cofre espaços pela eCare Vault Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Cofre Espaços, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para espaços Cofre, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8fd68fffceb193aef909da0fe9d63f5333a46975
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 554e432b4b4e84a6395ea58367d62990c7e1637d
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259547"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544909"
 ---
 # <a name="safe-spaces"></a> Espaços Seguros
 
@@ -38,10 +39,11 @@ Informações fornecidas pelo eCare Vault Inc. à Microsoft:
 | Nome da empresa de parceiro | eCare Vault Inc. |
 | Site da empresa | [https://ecarevault.com](https://ecarevault.com) |
 | Termos de uso do aplicativo | [https://downloads.ecarevault.com/downloads/eCare+Vault+-+Te...](https://downloads.ecarevault.com/downloads/eCare+Vault+-+Terms+of+Service.pdf) |
-| Funcionalidade principal do aplicativo | Cofre Espaços permite a comunicação e a colaboração em conformidade entre os limites da empresa. Protegidos pela plataforma eCare Vault, os usuários do Cofre Spaces podem compartilhar documentos e participar de discussões com a garantia de conformidade com HIPAA e FERPAA.  O Cofre Spaces Bot mantém os usuários atualizados sobre atualizações importantes e ações pendentes. |
+| Funcionalidade principal do aplicativo | Cofre Espaços permite a comunicação e a colaboração em conformidade entre os limites da empresa. Protegidos pela plataforma eCare Vault, os usuários do Cofre Spaces podem compartilhar documentos e participar de discussões com a garantia de conformidade HIPAA e FERPAA.  O Cofre Spaces Bot mantém os usuários atualizados sobre atualizações importantes e ações pendentes. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://ecarevault.com/ecare-vault-for-teams](https://ecarevault.com/ecare-vault-for-teams) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure, AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo eCare Vault Inc. sobre como esse aplic
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,14 +161,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| EduRoster. Read | delegado | Nome e Data de Nascimento são usados para pré-pular campos de entrada | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| Group.Read.All | delegado | Usado para obter informações sobre canais disponíveis para exibição no aplicativo | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| GroupMember.Read.All | delegado | AAD ID dos membros do grupo usados para gerar uma lista de equipe do eCare Vault | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| User.Read | delegado | endereço de email e AAD ID usada para inscrever usuários e associá-los com contas de usuário &amp; do eCare Vault | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| User.Read.All | delegado | Nome e, AAD ID e endereço de email, somente para usuários que são membros de um Canal onde Cofre Espaços está instalado | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| email | delegado | Somente endereço de email | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| openid | delegado | endereço de email e AAD ID usada para inscrever usuários e associá-los com contas de usuário &amp; do eCare Vault | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| perfil | delegado | O Nome do Usuário é usado para preencher a tela de assinatura do usuário. | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| EduRoster. Read | delegado | Nome e Data de Nascimento são usados para pré-pular campos de entrada | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| Group.Read.All | delegado | Usado para obter informações sobre canais disponíveis para exibição no aplicativo | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| GroupMember.Read.All | delegado | AAD ID dos membros do grupo usados para gerar uma lista de equipe do eCare Vault | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| User.Read | delegado | endereço de email e AAD ID usado para inscrever &amp; usuários e associá-los com contas de usuário do eCare Vault | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| User.Read.All | delegado | Nome e, AAD ID e endereço de email, somente para usuários que são membros de um Canal onde Cofre Espaços está instalado | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| email | delegado | Somente endereço de email | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| openid | delegado | endereço de email e AAD ID usado para inscrever &amp; usuários e associá-los com contas de usuário do eCare Vault | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
+>| perfil | delegado | O Nome do Usuário é usado para preencher a tela de assinatura do usuário. | [6919164d-b678-4c3d-a268-e6fbecc1e68d](../azure/6919164d-b678-4c3d-a268-e6fbecc1e68d.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

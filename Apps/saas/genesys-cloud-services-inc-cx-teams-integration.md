@@ -2,18 +2,19 @@
 title: Informações sobre o aplicativo para o CX da Nuvem Teams da Geneys Cloud Services, Inc
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Integração do CX do Cloud CX Teams, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 673c8bbc637288ae5c92c3367445893586523af9
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 81ddd4b2bcaaf688b5a95d6351673d3cad19a352
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081011"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541819"
 ---
 # <a name="genesys-cloud-cx-teams-integration"></a>Genys Cloud CX Teams Integration
 
@@ -38,7 +39,7 @@ Informações fornecidas pelos Serviços de Nuvem da Geneys, Inc para a Microsof
 | Termos de uso do aplicativo | [https://help.mypurecloud.com/articles/global-genesys-cloud-...](https://help.mypurecloud.com/articles/global-genesys-cloud-service-terms-and-conditions/) |
 | Funcionalidade principal do aplicativo | O CX do Cloud CX&#8482; para Microsoft Teams |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://appsource.microsoft.com/en-us/product/web-apps/gene...](https://appsource.microsoft.com/en-us/product/web-apps/genesyslabs.genesys-cloud_teams_integration) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -59,7 +60,7 @@ Essas informações foram fornecidas pelos Serviços de Nuvem da Geneys, Inc sob
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Dados de Perfil de Usuário |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -169,7 +170,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Presence.Read.All | ambos | O Agente da Central de Contatos deve ser capaz de ver a presença do colega antes de transferir uma chamada telefônica | [728ece5a-0f26-4c43-9705-cea9debe3fb5](https://docs.microsoft.com/microsoft-365-app-certification/azure/728ece5a-0f26-4c43-9705-cea9debe3fb5) |
+>| Presence.Read.All | ambos | O Agente da Central de Contatos deve ser capaz de ver a presença do colega antes de transferir uma chamada telefônica | [728ece5a-0f26-4c43-9705-cea9debe3fb5](../azure/728ece5a-0f26-4c43-9705-cea9debe3fb5.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

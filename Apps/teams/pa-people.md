@@ -2,18 +2,19 @@
 title: Informações do aplicativo para PESSOAS PA por &#26666;&#24335;&#20250;&#31038;PHONE APPLI
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para PA PEOPLE, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0c12acb97dcb14aca0b64531eb044f13b71425ee
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: bb4f6667e18c5213194457c816e48a27262a9929
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253537"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543559"
 ---
 # <a name="pa-people"></a>PA PEOPLE
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo &#26666;&#24335;&#20250;&#31038;PHONE APPLI para a
 | Termos de uso do aplicativo | [https://phoneappli.net/product/agreement/renraku/](https://phoneappli.net/product/agreement/renraku/) |
 | Funcionalidade principal do aplicativo | Simplifica a pesquisa de pessoas e facilita as conexões entre funcionários e parceiros de negócios. (&#20154;&#12398;&#26908;&#32034;&#12434;&#21177;&#29575;&#21270;&#12375;&#12289;&#24467;&#26989;&#21729;&#21516;&#22763;&#21450;&#12403;&#21462;&#24341;&#20808;&#12392;&#12398;&#12388;&#12394;&#12364;&#12426;&#12434;&#20870;&#28369;&#12395;&#12375;&#12414;&#12377;&#12290;) |
 | Localização da sede da empresa | Japão |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://phoneappli.net/product/service/papeople/](https://phoneappli.net/product/service/papeople/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -57,14 +58,7 @@ Essas informações foram fornecidas pelo &#26666;&#24335;&#20250;&#31038;PHONE 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,7 +161,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Leia o perfil do usuário e faça a combinação desse perfil (basicamente userId) com o banco de dados para que você possa fazer logon em PEOPLE.&#65288;&#12518;&#12540;&#12470;&#12540;&#12398;&#12503;&#12525;&#12501;&#12449;&#12452;&#12523;&#12434;&#35501;&#12415;&#21462;&#12426;&#12289;&#12381;&#12398;&#12503;&#12525;&#12501;&#12449;&#12452;&#12523;&#65288;&#22522;&#26412;&#30340;&#12395;&#12399;userId&#65289;&#12434;&#12487;&#12540;&#12479;&#12505;&#12540;&#12473;&#12392;&#29031;&#21512;&#12375;&#12390;&#12289;PEOPLE&#12395;&#12525;&#12464;&#12452;&#12531;&#12391;&#12365;&#12427;&#12424;&#12358;&#12395;&#12375;&#12414;&#12377;&#12290;&#65289; | [894d2c27-987c-4426-ab25-b0d6ea4bd0d6](https://docs.microsoft.com/microsoft-365-app-certification/azure/894d2c27-987c-4426-ab25-b0d6ea4bd0d6) |
+>| User.Read | delegado | Leia o perfil do usuário e ajuste esse perfil (basicamente userId) com o banco de dados para que você possa fazer logon em PEOPLE.&#65288;&#12518;&#12540;&#12470;&#12540;&#12398;&#12503;&#12525;&#12501;&#12449;&#12452;&#12523;&#12434;&#35501;&#12415;&#21462;&#12426;&#12289;&#12381;&#12398;&#12503;&#12525;&#12501;&#12449;&#12452;&#12523;&#65288;&#22522;&#26412;&#30340;&#12395;&#12399;userId&#65289;&#12434;&#12487;&#12540;&#12479;&#12505;&#12540;&#12473;&#12392;&#29031;&#21512;&#12375;&#12390;&#12289;PEOPLE&#12395;&#12525;&#12464;&#12452;&#12531;&#12391;&#12365;&#12427;&#12424;&#12358;&#12395;&#12375;&#12414;&#12377;&#12290;&#65289; | [894d2c27-987c-4426-ab25-b0d6ea4bd0d6](../azure/894d2c27-987c-4426-ab25-b0d6ea4bd0d6.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para MetaVisitor por Wafer Systems
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para MetaVisitor, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b918e81d2cdc8217bb82a776335a5eef9b1d1b07
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 88c34dc0fb55fa05dc4587f4c345bb0eea13920d
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253327"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543359"
 ---
 # <a name="metavisitor"></a>MetaVisitor
 
@@ -169,7 +170,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | aplicação | &#23637;&#31034;&#29992;&#25143;&#20449;&#24687; | [43067020-c59f-49f8-a532-e84ed3bb5f4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/43067020-c59f-49f8-a532-e84ed3bb5f4e) |
+>| User.Read | aplicação | &#23637;&#31034;&#29992;&#25143;&#20449;&#24687; | [43067020-c59f-49f8-a532-e84ed3bb5f4e](../azure/43067020-c59f-49f8-a532-e84ed3bb5f4e.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o File Fabric por Armazenamento Facilitado
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o File Fabric, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7000bee22c385c2c4909d60c7c7db13e81e83181
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: c39801f2fdaa87790782b310a0121492d8cd07ef
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260401"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542779"
 ---
 # <a name="file-fabric"></a>Arquivo Tecido
 
@@ -40,8 +41,9 @@ Informações fornecidas pelo Armazenamento Facilitado para a Microsoft:
 | Termos de uso do aplicativo | [https://www.storagemadeeasy.com/terms](https://www.storagemadeeasy.com/terms) |
 | Funcionalidade principal do aplicativo | Pesquisar, procurar, editar e compartilhar arquivos armazenados em Arquivos do Azure, no Azure Blob Armazenamento e em outro armazenamento. |
 | Localização da sede da empresa | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://docs.storagemadeeasy.com/microsoft-teams](https://docs.storagemadeeasy.com/microsoft-teams) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | SelfHosted, Azure, AWS, GCP, IBMCloud, Usuários podem se conectar aos serviços Wasabi, Backblaze, Cloudian, Dropbox, Box.com, Salesforce, S3-Compatible, FTP e WebDAV |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo Armazenamento Facilitado sobre como es
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de 2 semanas |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,8 +161,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite | aplicação | Dados de arquivo lidos ou gravados quando o usuário baixa, carrega ou edita arquivos especificados por meio do aplicativo. | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |
->| Sites.ReadWrite.All | aplicação | Metadados coletados para todos os arquivos&#8217;e pastas do usuário fornecendo exibição federada em todos os serviços de arquivo. | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |
+>| Files.ReadWrite | aplicação | Dados de arquivo lidos ou gravados quando o usuário baixa, carrega ou edita arquivos especificados por meio do aplicativo. | [0752d800-857f-49bd-87eb-e60985516c67](../azure/0752d800-857f-49bd-87eb-e60985516c67.md) |
+>| Sites.ReadWrite.All | aplicação | Metadados coletados para todos os arquivos e pastas do usuário&#8217;fornecendo exibição federada em todos os serviços de arquivo. | [0752d800-857f-49bd-87eb-e60985516c67](../azure/0752d800-857f-49bd-87eb-e60985516c67.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para reservas de mesa por ApS de Consultoria TNS
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para reservas do Desk, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 035dae1da20fbef01d60b29b88f3eae5032e9939
-ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
+ms.openlocfilehash: 05e91d98155dd60b6ebe6027f310cc17fc7a1d0b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62795756"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541219"
 ---
 # <a name="desk-reservations"></a>Reservas de mesa
 
@@ -35,7 +36,7 @@ Informações fornecidas pela TNS Consulting ApS para a Microsoft:
 | Nome do aplicativo | Reservas de mesa |
 | ID | WA200003532 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | ApS de Consultoria TNS |
+| Nome da empresa de parceiro | TNS Consulting ApS |
 | Site da empresa | [https://www.meetingroommap.net](https://www.meetingroommap.net) |
 | Termos de uso do aplicativo | [https://www.meetingroommap.net/home/TermsAndConditions](https://www.meetingroommap.net/home/TermsAndConditions) |
 | Funcionalidade principal do aplicativo | Faça reservas para mesas ou outros itens mapeados. |
@@ -61,7 +62,7 @@ Essas informações foram fornecidas pela TNS Consulting ApS sobre como esse apl
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Email para reservas de registro. |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Países Baixos (o) |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -170,9 +171,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite | delegado | Arquivo de configuração de aplicativo de leitura e gravação (salvar piso padrão + locattion) | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa) |
->| TeamMember.Read.All | delegado | Exibir reservas de outros membros da mesma equipe. | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa) |
->| User.Read | delegado | Entrar e ler emails para registrar uma reserva | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa) |
+>| Files.ReadWrite | delegado | Arquivo de configuração de aplicativo de leitura e gravação (salvar piso padrão + locattion) | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](../azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa.md) |
+>| TeamMember.Read.All | delegado | Exibir reservas de outros membros da mesma equipe. | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](../azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa.md) |
+>| User.Read | delegado | Entrar e ler emails para registrar uma reserva | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](../azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

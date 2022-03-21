@@ -2,18 +2,19 @@
 title: Informações do aplicativo helloSign para SharePoint por Dropbox Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o HelloSign para SharePoint, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o HelloSign para SharePoint, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4f35be46f70d1efd5bb0cdbd030f78cc82c67e23
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: df22a223c5f19a022abff6559d7b0a9fc69dae5a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256807"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541799"
 ---
 # <a name="hellosign-for-sharepoint"></a>HelloSign para SharePoint
 
@@ -39,7 +40,7 @@ Informações fornecidas pelo Dropbox Inc. para a Microsoft:
 | Termos de uso do aplicativo | [https://hellosign.com/terms](https://hellosign.com/terms) |
 | Funcionalidade principal do aplicativo | O HelloSign&#8217;plataforma de fluxo de trabalho digital &#8211; que inclui eSignature, fluxo de trabalho digital e soluções de fax eletrônico &#8212; ajuda mais de 80.000 clientes e milhões de pessoas a fazer negócios mais rapidamente. Ajudamos nossos clientes a fechar negócios mais rapidamente, integramos novos contratados com facilidade, completamos documentos sem erros e muito mais. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.hellosign.com/integrations](https://www.hellosign.com/integrations) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -51,7 +52,7 @@ Informações fornecidas pelo Dropbox Inc. para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela Dropbox Inc. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo Dropbox Inc. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
@@ -169,9 +170,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite.All | aplicação | Para carregar arquivos assinados eletronicamente de volta SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
->| Sites.ReadWrite.All | aplicação | Para carregar arquivos assinados eletronicamente de volta SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
->| User.Read | delegado | Para obter o email do usuário | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
+>| Files.ReadWrite.All | aplicação | Para carregar arquivos assinados eletronicamente de volta SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](../azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6.md) |
+>| Sites.ReadWrite.All | aplicação | Para carregar arquivos assinados eletronicamente de volta SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](../azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6.md) |
+>| User.Read | delegado | Para obter o email do usuário | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](../azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

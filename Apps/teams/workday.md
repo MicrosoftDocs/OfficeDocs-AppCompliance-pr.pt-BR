@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Dia de Trabalho por Dia de Trabalho
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Workday, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6f8f8c4a1abeb514268797956b110f2a53fcd1e7
-ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
+ms.openlocfilehash: 5d9ac08e26f620dd2dcdb0e7ceb5d5cc51c066a5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62795742"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542059"
 ---
 # <a name="workday"></a>Workday
 
@@ -40,9 +41,9 @@ Informações fornecidas pelo Workday à Microsoft:
 | Termos de uso do aplicativo | [https://nw.myworkday.com/microsoftteams/post-license/](https://nw.myworkday.com/microsoftteams/post-license/) |
 | Funcionalidade principal do aplicativo | Adicione Workday ao seu Teams para tarefas fáceis e livres de atrito de RH e Finanças!  Para obter informações mais completas sobre segurança de aplicativos e privacidade de dados, os clientes do Workday devem se referir à Descrição do Serviço de Inovação de Espaços de Trabalho Naturais e ao Grupo de Usuários de Espaços de Trabalho Naturais no Community. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://nw.myworkday.com/microsoftteams/](https://nw.myworkday.com/microsoftteams/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Other |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outros |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -61,7 +62,7 @@ Essas informações foram fornecidas pelo Workday sobre como esse aplicativo col
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | ID de locatário da Microsoft, ID do objeto AAD usuário, ID da conversa |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -166,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

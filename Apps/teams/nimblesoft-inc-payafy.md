@@ -2,18 +2,19 @@
 title: Informações do aplicativo para PayaFy pela NimbleSoft Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para PayaFy, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2b3607c120cf2dfda0ad34ee522bf55572c98a20
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: a5afd0dc6c6cb0acba3b8f763a2e6fc34d8a85c5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254797"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543569"
 ---
 # <a name="payafy"></a>PayaFy
 
@@ -40,7 +41,7 @@ Informações fornecidas pela NimbleSoft Inc. para a Microsoft:
 | Termos de uso do aplicativo | [https://payafy.com/termsofservice](https://payafy.com/termsofservice) |
 | Funcionalidade principal do aplicativo | PayaFy permite que as empresas aceitem pagamentos. Você pode vincular uma conta stripe existente ou registrar uma nova. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://payafy.com](https://payafy.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -169,7 +170,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.ReadWrite.All | ambos | Ele lerá informações básicas usadas para o registro do usuário. | [1e96a64b-9c1c-4cbc-b015-70243ea06c9b](https://docs.microsoft.com/microsoft-365-app-certification/azure/1e96a64b-9c1c-4cbc-b015-70243ea06c9b) |
+>| User.ReadWrite.All | ambos | Ele lerá informações básicas usadas para o registro do usuário. | [1e96a64b-9c1c-4cbc-b015-70243ea06c9b](../azure/1e96a64b-9c1c-4cbc-b015-70243ea06c9b.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

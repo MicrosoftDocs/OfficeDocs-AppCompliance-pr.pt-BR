@@ -2,24 +2,25 @@
 title: Informações do aplicativo para EmailNotes para Outlook por Standss (Pacífico Sul) PTE Limited
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/10/2022
+manager: tonybal
+ms.date: 12/10/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
+certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para EmailNotes para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d1287dc50181b69c6f1d8f3f31b43c84db569641
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 4bd54849249220757f9c657380716ea27e7ac499
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63076185"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541379"
 ---
 # <a name="emailnotes-for-outlook"></a>EmailNotes para Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 17 de janeiro de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 28 de novembro de 2021</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/standsssouthpacificltd1581455821226.emailnotes" target="_blank">Exibir no AppSource</a>
 
@@ -38,7 +39,7 @@ Informações fornecidas por Standss (Pacífico Sul) PTE Limitado à Microsoft:
 | Termos de uso do aplicativo | [https://www.standss.com/sendguard_m365/terms_conditions.htm](https://www.standss.com/sendguard_m365/terms_conditions.htm) |
 | Funcionalidade principal do aplicativo | SendGuard para Outlook M365 é uma ferramenta de Conformidade e Risco para detectar, avisar, avisar e proteger os usuários contra o envio de informações confidenciais, confidenciais ou inadequadas para destinatários não intencionados |
 | Localização da sede da empresa | Fiji |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.standss.com/sendguard_m365/default.htm](https://www.standss.com/sendguard_m365/default.htm) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -57,14 +58,7 @@ Essas informações foram fornecidas por Standss (Pacífico Sul) PTE Limited sob
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
 | Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -169,11 +163,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Para ler conteúdo do assunto , corpo, conteúdo de anexos anexados à solicitação de reunião  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
->| Mail.ReadWrite | delegado | Para ler conteúdo do assunto, corpo, conteúdo de anexos anexados ao item de email  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
->| User.Read | delegado | Isso é para ler dados do usuário para verificar informações de licenciamento para sua conta de domínio/usuário | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
->| openid | delegado | Requisito para permissão de SSO (sign-on único) | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
->| perfil | delegado | Requisito para permissão de SSO (sign-on único) | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| Calendars.ReadWrite | delegado | Para ler conteúdo do assunto , corpo, conteúdo de anexos anexados à solicitação de reunião  | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
+>| Mail.ReadWrite | delegado | Para ler conteúdo do assunto, corpo, conteúdo de anexos anexados ao item de email  | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
+>| User.Read | delegado | Isso é para ler dados do usuário para verificar informações de licenciamento para sua conta de domínio/usuário | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
+>| openid | delegado | Requisito para permissão de SSO (sign-on único) | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
+>| perfil | delegado | Requisito para permissão de SSO (sign-on único) | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Aula Digital por Leya, S.A.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Aula Digital, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6e5818a824ee7c0f7da7594c606c5a8004a1c1fa
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 039f65d0437eebd650530673fa8b113dc4751121
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263595"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542219"
 ---
 # <a name="aula-digital"></a>Aula Digital
 
@@ -40,8 +41,9 @@ Informações fornecidas por Leya, S.A. à Microsoft:
 | Termos de uso do aplicativo | [https://www.leyaeducacao.com/termos_e_condicoes](https://www.leyaeducacao.com/termos_e_condicoes) |
 | Funcionalidade principal do aplicativo | Acesso aos manuais da LeYa Educa&#231;&#227;o e a milhares de recursos. Aprender &#233; Incr&#237;vel! |
 | Localização da sede da empresa | Portugal |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://auladigital.leya.com](https://auladigital.leya.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas por Leya, S.A. sobre como esse aplicativo c
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,7 +161,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | O usuário envia um nome por email. Criação de conta. | [e74c5e65-902b-4c5f-a618-f24996f7b20c](https://docs.microsoft.com/microsoft-365-app-certification/azure/e74c5e65-902b-4c5f-a618-f24996f7b20c) |
+>| User.Read | delegado | O usuário envia um nome por email. Criação de conta. | [e74c5e65-902b-4c5f-a618-f24996f7b20c](../azure/e74c5e65-902b-4c5f-a618-f24996f7b20c.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

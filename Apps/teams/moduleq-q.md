@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Q por ModuleQ
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/31/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Q, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para P, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3cdacc2f1ad638dd13bad6af4434a816eb419bb7
-ms.sourcegitcommit: edd55f34c004f0b5c7e4418b92b8ba325b8ab336
+ms.openlocfilehash: 88e9d369057d62e1c5588380b79731637964ae5c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "62317007"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544339"
 ---
 # <a name="q"></a>I
 
@@ -38,11 +39,10 @@ Informações fornecidas pelo ModuleQ à Microsoft:
 | Nome da empresa de parceiro | ModuleQ |
 | Site da empresa | [https://moduleq.com](https://moduleq.com) |
 | Termos de uso do aplicativo | [https://moduleq.com/terms-of-service](https://moduleq.com/terms-of-service) |
-| Funcionalidade principal do aplicativo | P funciona como um colega confiável, acompanhando o foco do cliente e enviando as notícias de negócios que você precisa ver antes de perguntar. Desenvolvido por ModuleQ AI e Conhecimento Graph da Thomson Reuters. |
+| Funcionalidade principal do aplicativo | P funciona como um colega confiável, acompanhando o foco do cliente e enviando as notícias de negócios que você precisa ver antes de perguntar. Desenvolvido por ModuleQ AI e Conhecimento Graph thomson Reuters. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://moduleq.com/product](https://moduleq.com/product) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -169,11 +169,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | aplicação | Obrigatório para a funcionalidade do produto. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
->| Group.Read.All | delegado | Obrigatório para a funcionalidade do produto. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
->| Mail.Read | aplicação | Obrigatório para a funcionalidade do produto. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
->| User.Read | delegado | Obrigatório para a funcionalidade do produto. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
->| User.Read.All | delegado | Obrigatório para a funcionalidade do produto. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| Calendars.Read | aplicação | Obrigatório para a funcionalidade do produto. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](../azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md) |
+>| Group.Read.All | delegado | Obrigatório para a funcionalidade do produto. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](../azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md) |
+>| Mail.Read | aplicação | Obrigatório para a funcionalidade do produto. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](../azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md) |
+>| User.Read | delegado | Obrigatório para a funcionalidade do produto. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](../azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md) |
+>| User.Read.All | delegado | Obrigatório para a funcionalidade do produto. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](../azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

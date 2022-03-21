@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Kaptain Carlos por askR.ai
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Kaptain Carlos, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7bc855b2097b0625b23869f034c4dee071856291
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 9fc7a6c02514373ff614dff325926311efe53c07
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200529"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544519"
 ---
 # <a name="kaptain-charlie"></a>Kaptain Carlos
 
@@ -40,9 +41,9 @@ Informações fornecidas pelo askR.ai para a Microsoft:
 | Termos de uso do aplicativo | [https://en.askr.ai/terms-of-use-askr-ai](https://en.askr.ai/terms-of-use-askr-ai) |
 | Funcionalidade principal do aplicativo | Converse com seus dados! askR.ai seu assistente de dados pessoais Você tem dados, mas não gosta do processo técnico para acessá-los? Use um assistente de dados para responder às suas perguntas e ajudá-lo a explorar ! O que askR.ai, o primeiro assistente de dados no Microsoft Teams? - Assistente de dados pessoais com AI - Fornece KPIs instantâneos e viz de dados - Compreende vocabulário comercial específico - Enviar alertas - Sugerir análise adicional |
 | Localização da sede da empresa | França |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://en.askr.ai](https://en.askr.ai) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outro |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outros |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,14 +58,7 @@ Essas informações foram fornecidas pelo askR.ai sobre como esse aplicativo col
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,7 +158,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

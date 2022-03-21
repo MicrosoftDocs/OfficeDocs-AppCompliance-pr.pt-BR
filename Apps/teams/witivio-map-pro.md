@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Pro mapa por Witivio
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Map Pro, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f2c2f42e39532b69cfbe3638b9ff6f3064658de4
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 45c418313420adbda7d9105383157a64025465bb
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255407"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541549"
 ---
 # <a name="map-pro"></a>Mapeamento Pro
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo Witivio à Microsoft:
 | Termos de uso do aplicativo | [https://www.teams-pro.com/en/terms-of-use/](https://www.teams-pro.com/en/terms-of-use/) |
 | Funcionalidade principal do aplicativo | Map Pro é um aplicativo para Microsoft Teams que exibe um mapa em qualquer um de seus canais. |
 | Localização da sede da empresa | França |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.teams-pro.com/en/browse-apps/map-pro/](https://www.teams-pro.com/en/browse-apps/map-pro/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -170,11 +171,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
->| email | delegado | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
->| offline_access | delegado | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
->| openid | delegado | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
->| perfil | delegado | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](https://docs.microsoft.com/microsoft-365-app-certification/azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175) |
+>| User.Read | delegado | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](../azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175.md) |
+>| email | delegado | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](../azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175.md) |
+>| offline_access | delegado | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](../azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175.md) |
+>| openid | delegado | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](../azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175.md) |
+>| perfil | delegado | Microsoft Teams SSO | [d44d071f-a9e5-4f99-b72e-5ab38cd7b175](../azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

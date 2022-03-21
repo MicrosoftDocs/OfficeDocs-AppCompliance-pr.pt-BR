@@ -2,12 +2,19 @@
 title: Informações do aplicativo para elmah.io por elmah.io
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 'Todas as informações de segurança e conformidade disponíveis para elmah.io, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.'
+description: Todas as informações de segurança e conformidade disponíveis para elmah.io, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: e3250fd5c8cbbc90aeaf33766f70bbb5b5573343
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544779"
 ---
 # <a name="elmahio"></a>elmah.io
 
@@ -34,7 +41,7 @@ Informações fornecidas pelo elmah.io para a Microsoft:
 | Termos de uso do aplicativo | [https://elmah.io/legal/terms-of-use/](https://elmah.io/legal/terms-of-use/) |
 | Funcionalidade principal do aplicativo | elmah.io é um serviço de monitoramento de tempo de atividade e log de erros para desenvolvedores da Web do .NET. elmah.io integra-se a todas as principais estruturas da Web e log e fornece uma experiência de monitoramento extensiva na Web, Windows e aplicativos móveis. |
 | Localização da sede da empresa | Dinamarca |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://docs.elmah.io/elmah-io-apps-teams/](https://docs.elmah.io/elmah-io-apps-teams/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure, Aws |
 
@@ -160,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

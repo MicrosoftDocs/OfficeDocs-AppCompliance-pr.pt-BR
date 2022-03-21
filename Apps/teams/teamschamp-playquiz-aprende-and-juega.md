@@ -2,18 +2,19 @@
 title: Informações do aplicativo para PlayQuiz - Aprende &amp; Juega pelo TeamsChamp
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para PlayQuiz - Aprende Juega, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do &amp; CSA.
+description: Todas as informações de segurança e conformidade disponíveis para PlayQuiz - Aprende &amp; Juega, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fea130e082035ef73446a9b6d6c895de06d6925a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d0cb64bd87dc5dca816ece1520a0991a14ebf630
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252157"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542739"
 ---
 # <a name="playquiz---aprende-amp-juega"></a>PlayQuiz - Aprende &amp; Juega
 
@@ -40,8 +41,9 @@ Informações fornecidas pelo TeamsChamp à Microsoft:
 | Termos de uso do aplicativo | [https://www.teamsquiz.com/en/terms/](https://www.teamsquiz.com/en/terms/) |
 | Funcionalidade principal do aplicativo | O PlayQuiz é um aplicativo de Gamification onde o usuário pode responder 3 perguntas por dia do ecossistema Microsoft 365 para &#8220;ganhar&#8221; pontos de conhecimento digitais. O usuário poderá assistir ao quadro de líderes da empresa para descobrir quem é o melhor campeão do M365 da empresa. Ao incluir a gamificação na empresa, os usuários obterão informações sobre as práticas recomendadas para o uso Microsoft 365 ferramentas. Além disso, o administrador poderá adicionar suas perguntas personalizadas ao sistema para a criação de campanhas voltadas para um tópico específico. |
 | Localização da sede da empresa | Espanha |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.teamsquiz.com](https://www.teamsquiz.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo TeamsChamp sobre como esse aplicativo 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Retido |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,10 +161,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Nome, email e imagem de perfil do usuário | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
->| User.ReadBasic.All | delegado | Nome, email e imagem de perfil | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
->| openid | delegado | exibir o perfil básico do usuário | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
->| perfil | delegado | Ler o perfil básico do usuário | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| User.Read | delegado | Nome, email e imagem de perfil do usuário | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](../azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8.md) |
+>| User.ReadBasic.All | delegado | Nome, email e imagem de perfil | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](../azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8.md) |
+>| openid | delegado | exibir o perfil básico do usuário | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](../azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8.md) |
+>| perfil | delegado | Ler o perfil básico do usuário | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](../azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

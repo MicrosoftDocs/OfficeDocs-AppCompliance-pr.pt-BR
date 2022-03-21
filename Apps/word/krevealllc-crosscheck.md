@@ -2,18 +2,19 @@
 title: Informações do aplicativo para CrossCheck por kRevealLLC
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para CrossCheck, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fbbc49d1aa1c0dd2f5acad1caf9c729f69540047
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: eec621105155589819b55ec3d8b94274b4e50e56
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255327"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542019"
 ---
 # <a name="crosscheck"></a>CrossCheck
 
@@ -39,8 +40,9 @@ Informações fornecidas por kRevealLLC à Microsoft:
 | Termos de uso do aplicativo | [https://crosscheck.krevealaddins.com/docs/license.htm](https://crosscheck.krevealaddins.com/docs/license.htm) |
 | Funcionalidade principal do aplicativo | CrossCheck simplifica a revisão de documentos e aponta erros comuns de elaboração. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://admin.krevealaddins.com/help](https://admin.krevealaddins.com/help) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ Essas informações foram fornecidas pelo kRevealLLC sobre como esse aplicativo 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,7 +160,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| openid | aplicação | Nenhum dado é coletado ou usado. | [5edad654-f2d5-41d8-bfc0-92c2735252e1](https://docs.microsoft.com/microsoft-365-app-certification/azure/5edad654-f2d5-41d8-bfc0-92c2735252e1) |
+>| openid | aplicação | Nenhum dado é coletado ou usado. | [5edad654-f2d5-41d8-bfc0-92c2735252e1](../azure/5edad654-f2d5-41d8-bfc0-92c2735252e1.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

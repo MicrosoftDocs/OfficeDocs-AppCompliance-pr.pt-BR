@@ -2,18 +2,19 @@
 title: Informações do aplicativo para CC4Teams pelo CC4ALL
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para CC4Teams, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 85d5b411929f2bd0c1c0610a6e4950cf2d5e6809
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 7e4cbddad8f0e26efd3657fc36d86575c7a521dd
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255907"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544079"
 ---
 # <a name="cc4teams"></a>CC4Teams
 
@@ -38,7 +39,7 @@ Informações fornecidas pelo CC4ALL à Microsoft:
 | Termos de uso do aplicativo | [https://contactcenter4all.com/contactcenter4all-saas-agreem...](https://contactcenter4all.com/contactcenter4all-saas-agreement/) |
 | Funcionalidade principal do aplicativo | CC4Teams adiciona funcionalidades como roteamento, transferência a quente, gravação de chamadas e relatórios para Teams |
 | Localização da sede da empresa | Países Baixos (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://contactcenter4all.com/cc4teams/](https://contactcenter4all.com/cc4teams/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -168,14 +169,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| CallRecords.Read.All | aplicação | usado para gravações | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
->| Calls.AccessMedia.All | aplicação | usado para acessar mídia | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
->| Calls.Initiate.All | aplicação | usado para iniciar chamadas no centro de contatos | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
->| Calls.InitiateGroupCall.All | aplicação | usado para iniciar chamadas no centro de contatos | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
->| Calls.JoinGroupCall.All | aplicação | usado para iniciar chamadas no centro de contatos | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
->| Calls.JoinGroupCallasGuest.All | aplicação | usado para iniciar chamadas no centro de contatos | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
->| Presence.Read | delegado | usado para verificar o status dos agentes no centro de contatos | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
->| Presence.Read.All | delegado | usado para verificar o status dos agentes no centro de contatos | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| CallRecords.Read.All | aplicação | usado para gravações | [9430520a-241f-4a00-b041-56aa8bbc9cc9](../azure/9430520a-241f-4a00-b041-56aa8bbc9cc9.md) |
+>| Calls.AccessMedia.All | aplicação | usado para acessar mídia | [9430520a-241f-4a00-b041-56aa8bbc9cc9](../azure/9430520a-241f-4a00-b041-56aa8bbc9cc9.md) |
+>| Calls.Initiate.All | aplicação | usado para iniciar chamadas no centro de contatos | [9430520a-241f-4a00-b041-56aa8bbc9cc9](../azure/9430520a-241f-4a00-b041-56aa8bbc9cc9.md) |
+>| Calls.InitiateGroupCall.All | aplicação | usado para iniciar chamadas no centro de contatos | [9430520a-241f-4a00-b041-56aa8bbc9cc9](../azure/9430520a-241f-4a00-b041-56aa8bbc9cc9.md) |
+>| Calls.JoinGroupCall.All | aplicação | usado para iniciar chamadas no centro de contatos | [9430520a-241f-4a00-b041-56aa8bbc9cc9](../azure/9430520a-241f-4a00-b041-56aa8bbc9cc9.md) |
+>| Calls.JoinGroupCallasGuest.All | aplicação | usado para iniciar chamadas no centro de contatos | [9430520a-241f-4a00-b041-56aa8bbc9cc9](../azure/9430520a-241f-4a00-b041-56aa8bbc9cc9.md) |
+>| Presence.Read | delegado | usado para verificar o status dos agentes no centro de contatos | [9430520a-241f-4a00-b041-56aa8bbc9cc9](../azure/9430520a-241f-4a00-b041-56aa8bbc9cc9.md) |
+>| Presence.Read.All | delegado | usado para verificar o status dos agentes no centro de contatos | [9430520a-241f-4a00-b041-56aa8bbc9cc9](../azure/9430520a-241f-4a00-b041-56aa8bbc9cc9.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

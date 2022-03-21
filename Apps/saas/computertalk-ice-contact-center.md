@@ -2,18 +2,19 @@
 title: Informações do aplicativo para a Central de Contatos de Gelo pelo ComputerTalk
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/01/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Centro de Contato de gelo, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e7644512a85323d061045b78e9af976676c36fc7
-ms.sourcegitcommit: edd55f34c004f0b5c7e4418b92b8ba325b8ab336
+ms.openlocfilehash: c5616500028e8dc1e4975c3eafac08513e08b5fa
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "62316157"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542459"
 ---
 # <a name="ice-contact-center"></a>Ice Contact Center
 
@@ -38,9 +39,8 @@ Informações fornecidas pelo ComputerTalk para a Microsoft:
 | Termos de uso do aplicativo | [https://www.computer-talk.com/product/enterprise-contact-ce...](https://www.computer-talk.com/product/enterprise-contact-center/ice-contact-center-for-teams) |
 | Funcionalidade principal do aplicativo | O ice fornece o contact center como uma funcionalidade de serviço, incluindo roteamento de chamadas, gravação, monitoramento e relatórios. |
 | Localização da sede da empresa | Canadá |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.computer-talk.com/product/enterprise-contact-ce...](https://www.computer-talk.com/product/enterprise-contact-center/ice-contact-center-for-teams) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -163,7 +163,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

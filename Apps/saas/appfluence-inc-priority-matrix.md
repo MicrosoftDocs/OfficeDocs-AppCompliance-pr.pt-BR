@@ -2,18 +2,19 @@
 title: Informações do aplicativo para a matriz de prioridade pela Appfluence Inc
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para a Matriz de Prioridade, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d61d0f5f988aa8756ae884ce06676456eca49719
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: b20417603c916fa6756952e728d2783fb29b8b17
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251827"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543759"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
@@ -37,8 +38,9 @@ Informações fornecidas pela Appfluence Inc à Microsoft:
 | Termos de uso do aplicativo | [https://appfluence.com/eula](https://appfluence.com/eula) |
 | Funcionalidade principal do aplicativo | Priority Matrix é uma solução de gerenciamento de projeto, tarefa e prioridade que cria uma fonte central de verdade para coordenar todo o trabalho que sua equipe precisa fazer. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://appfluence.com/project-management-integration-for-m...](https://appfluence.com/project-management-integration-for-microsoft-teams/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS, Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,14 +55,7 @@ Essas informações foram fornecidas pela Appfluence Inc sobre como esse aplicat
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -163,15 +158,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | delegado | Somente quando um novo usuário é adicionado à conta, armazenamos seus emails. | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
->| User.ReadBasic.All | delegado | Somente quando um novo usuário é adicionado à conta, armazenamos seus emails. | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
->| offline_access | delegado | Armazenamos o token de logon para realizar solicitações em nome do usuário | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
->| Files.Read.All | delegado | Não armazenamos nenhuma informação de arquivo, a menos que o usuário crie explicitamente e conscientemente um item priority Matrix que se vincula ao arquivo original. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
->| User.Read | delegado | Informações básicas de perfil de usuário (nome de exibição, nome, sobrenome, email, avatar) são armazenadas por nós. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
->| openid | delegado | Armazenamos a conexão SSO para indicar o modo de logon do usuário. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
->| Calendars.Read | delegado | Um pequeno número de eventos de calendário são transformados em tarefas armazenadas em nosso sistema. | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
->| Mail.Read | delegado | Armazenamos tarefas criadas em nosso sistema, com um link para a mensagem original. | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
->| Tasks.Read | delegado | Algumas Outlook/Planner são replicadas em nosso sistema para ajudar novos usuários. | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
+>| Calendars.Read | delegado | Somente quando um novo usuário é adicionado à conta, armazenamos seus emails. | [5be2b320-a5b7-4221-893c-dee506e4e365](../azure/5be2b320-a5b7-4221-893c-dee506e4e365.md) |
+>| User.ReadBasic.All | delegado | Somente quando um novo usuário é adicionado à conta, armazenamos seus emails. | [5be2b320-a5b7-4221-893c-dee506e4e365](../azure/5be2b320-a5b7-4221-893c-dee506e4e365.md) |
+>| offline_access | delegado | Armazenamos o token de logon para realizar solicitações em nome do usuário | [5be2b320-a5b7-4221-893c-dee506e4e365](../azure/5be2b320-a5b7-4221-893c-dee506e4e365.md) |
+>| Files.Read.All | delegado | Não armazenamos nenhuma informação de arquivo, a menos que o usuário crie explicitamente e conscientemente um item priority Matrix que se vincula ao arquivo original. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](../azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md) |
+>| User.Read | delegado | Informações básicas de perfil de usuário (nome de exibição, nome, sobrenome, email, avatar) são armazenadas por nós. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](../azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md) |
+>| openid | delegado | Armazenamos a conexão SSO para indicar o modo de logon do usuário. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](../azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md) |
+>| Calendars.Read | delegado | Um pequeno número de eventos de calendário são transformados em tarefas armazenadas em nosso sistema. | [d76f016f-52c7-41b5-835b-900361d7040c](../azure/d76f016f-52c7-41b5-835b-900361d7040c.md) |
+>| Mail.Read | delegado | Armazenamos tarefas criadas em nosso sistema, com um link para a mensagem original. | [d76f016f-52c7-41b5-835b-900361d7040c](../azure/d76f016f-52c7-41b5-835b-900361d7040c.md) |
+>| Tasks.Read | delegado | Algumas Outlook/Planner são replicadas em nosso sistema para ajudar novos usuários. | [d76f016f-52c7-41b5-835b-900361d7040c](../azure/d76f016f-52c7-41b5-835b-900361d7040c.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

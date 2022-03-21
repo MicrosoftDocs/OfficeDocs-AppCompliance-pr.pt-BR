@@ -2,18 +2,19 @@
 title: Informações do aplicativo do Office2SharePoint para Office por iGlobe
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Office2SharePoint para Office, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 579bbcf80a19cc224ff0ff4421fa98c72bfc18ab
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5be1996ec65237ea192c1f24db659dea4e8bf8e6
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255357"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542619"
 ---
 # <a name="office2sharepoint-for-office"></a>Office2SharePoint para Office
 
@@ -32,14 +33,15 @@ Informações fornecidas pelo iGlobe à Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | Office2SharePoint para Office |
 | ID | WA104381787 |
-| Office 365 clientes com suporte | Excel 2016 ou posterior no Mac, Excel 2016 ou posterior no Windows, Excel na Web, Word 2016 ou posterior no Mac, Word na Web, Word 2016 ou posterior em Windows, PowerPoint 2016 ou posterior no Mac, PowerPoint na Web, PowerPoint 2016 ou posterior no Windows |
+| Office 365 clientes com suporte | Excel 2016 ou posterior no Mac, Excel 2016 ou posterior em Windows, Excel na Web, Word 2016 ou posterior no Mac, Word na Web, Word 2016 ou posterior em Windows, PowerPoint 2016 ou posterior no Mac, PowerPoint na Web, PowerPoint 2016 ou posterior no Windows |
 | Nome da empresa de parceiro | iGlobe |
 | Site da empresa | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Termos de uso do aplicativo | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
-| Funcionalidade principal do aplicativo | Office2SharePoint - trabalhar com SharePoint e Teams de Outlook e Office maneira fácil. Quebrar barreiras na comunicação entre membros da equipe torna os documentos e anexos de email acessíveis a todos no SharePoint &amp; Teams. Salve emails e anexos de email diretamente do Outlook para SharePoint ou Teams em qualquer dispositivo e plataforma. O nível de permissão dos serviços do Aplicativo do Office2SharePoint é definido para o Outlook e o Office Desempate. |
+| Funcionalidade principal do aplicativo | Office2SharePoint - trabalhando com SharePoint e Teams de Outlook e Office maneira fácil. Quebrar barreiras na comunicação entre membros da equipe torna os documentos e anexos de email acessíveis a todos no SharePoint &amp; Teams. Salve emails e anexos de email diretamente de Outlook para SharePoint ou Teams em qualquer dispositivo e plataforma. O nível de permissão dos serviços do Aplicativo do Office2SharePoint é definido para o Outlook e o Office Desempate. |
 | Localização da sede da empresa | Dinamarca |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://o2s.iglobe.dk](https://o2s.iglobe.dk) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ Essas informações foram fornecidas pelo iGlobe sobre como esse aplicativo cole
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,16 +160,16 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Directory.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Directory.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Group.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Mail.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.Manage.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.AccessAsUser.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Directory.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Directory.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Group.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Mail.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Sites.Manage.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Sites.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Sites.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
 
 >Este aplicativo não tem APIs adicionais.
 
@@ -188,10 +183,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Control** | **Microsoft 365 resultado da certificação** |
 |:------------|:---------------------------------------|
-| [**SEGURANÇA DO APLICATIVO**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **N/D** |
+| [**SEGURANÇA DO APLICATIVO**](../docs/certification-submission-guide.md#application-security) | **N/D** |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testes de penetração | N/D |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Análise de Avaliação de Vulnerabilidade (TESTE DE PENETRAÇÃO/SAST/DAST) | N/D |
-| [**SEGURANÇA OPERACIONAL**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **N/D** |
+| [**SEGURANÇA OPERACIONAL**](../docs/certification-submission-guide.md#operational-security) | **N/D** |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra Malware - Antivírus | N/D |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra Malware - Controle de Aplicativos | N/D |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Patch - Classificação de Risco | N/D |
@@ -208,7 +203,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alerta de eventos de segurança | N/D |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Riscos de Segurança da Informação | N/D |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resposta a incidentes | N/D |
-| [**PRIVACIDADE DE SEGURANÇA DE TRATAMENTO DE &amp; DADOS**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **N/D** |
+| [**PRIVACIDADE DE SEGURANÇA DE TRATAMENTO DE &amp; DADOS**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **N/D** |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados em Trânsito | N/D |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados em repouso | N/D |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retenção e descarte de dados | N/D |

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Powow por Powow AI
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Powow, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f7c17510645c2c7b2fc25014e328b1dcefe0f06f
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: cd622100438c6006083e38e65e83e1c986ebf358
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254747"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541609"
 ---
 # <a name="powow"></a>Powow
 
@@ -40,7 +41,7 @@ Informações fornecidas pela AI do Powow para a Microsoft:
 | Termos de uso do aplicativo | [https://www.powow.ai/legal/tos.pdf](https://www.powow.ai/legal/tos.pdf) |
 | Funcionalidade principal do aplicativo | Powow é uma plataforma SaaS que libera o poder da IA em reuniões de negócios. Ele usa algoritmos de IA proprietários para transcrever e analisar reuniões, transformando-as em percepções ativas. O Powow permite que a equipe da organização participe de menos reuniões e, ao mesmo tempo, obtenha produtividade por meio da descoberta, análise e colaboração da reunião. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://powow-ai.zendesk.com/hc/en-us](https://powow-ai.zendesk.com/hc/en-us) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure, GCP |
 
@@ -170,13 +171,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ExternalItem.ReadWrite.All | aplicação | Usado para o Conector de Pesquisa (recurso para empurrar dados powow para os índices da Microsoft para pesquisa em serviços Microsoft) | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
->| User.Read | delegado | Entrar e ler o perfil do usuário para registro e logon | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
->| User.Read.All | aplicação | Usado para o Conector de Pesquisa (recurso para empurrar dados powow para os índices da Microsoft para pesquisa em serviços Microsoft) | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
->| email | delegado | Exibir o endereço de email dos usuários para registro e logon | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
->| offline_access | delegado | Para acessar os dados do usuário dentro do aplicativo (controlar atualizações de calendário) | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
->| openid | delegado | Conectar os usuários | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
->| perfil | delegado | Para acessar as informações básicas de perfil dos usuários para registro | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| ExternalItem.ReadWrite.All | aplicação | Usado para o Conector de Pesquisa (recurso para empurrar dados powow para os índices da Microsoft para pesquisar em serviços Microsoft) | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário para registro e logon | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
+>| User.Read.All | aplicação | Usado para o Conector de Pesquisa (recurso para empurrar dados powow para os índices da Microsoft para pesquisar em serviços Microsoft) | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
+>| email | delegado | Exibir o endereço de email dos usuários para registro e logon | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
+>| offline_access | delegado | Para acessar os dados do usuário dentro do aplicativo (controlar atualizações de calendário) | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
+>| openid | delegado | Conectar os usuários | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
+>| perfil | delegado | Para acessar as informações básicas de perfil dos usuários para registro | [d871e46e-e346-445d-bfe8-2a66419bf278](../azure/d871e46e-e346-445d-bfe8-2a66419bf278.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

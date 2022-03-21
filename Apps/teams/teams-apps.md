@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 0a8b6acd0a89f93483a64fb65389cc13f824ae6e
-ms.sourcegitcommit: 6f2370c0eb79cc4acc9b53b2215b7a61c2ab30d6
+ms.openlocfilehash: eaec2588c9f615078b0e564e8092fc56f56f847e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 03/17/2022
-ms.locfileid: "63563668"
+ms.locfileid: "63540419"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -38,7 +38,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [AMEX GBT](./30secondstofly-thailand-co-ltd-amex-gbt.md) | 30SecondsToFly (Tailândia) Co Ltd | **✓** |  |
 | [Ampliação por Hootsuite](./hootsuite-inc-amplify-by.md) | Hootsuite Inc. | **✓** |  |
 | [AmTrav Business Travel](./amtrav-business-travel.md) | AmTrav | **✓** |  |
-| [AnnounceBot](./avista-technology-solutions-announcebot.md) | Soluções Tecnológicas Avista | **✓** |  |
 | [Avaliado](./appraisd-ltd.md) | Avaliado ltd. | **✓** |  |
 | [Appspace](./appspace-inc.md) | Appspace, Inc. | **✓** |  |
 | [ArcGIS Maps](./esri-arcgis-maps.md) | Esri | **✓** |  |
@@ -209,7 +208,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [huminos](./soe-technologies-huminos.md) | TECNOLOGIAS SOE | **✓** |  |
 | [Humu](./humu-inc.md) | Humu Inc. | **✓** |  |
 | [Hyperproof](./hyperproof.md) | Hyperproof | **✓** |  |
-| [Ideias por Sideways 6](./sideways-6-ideas-by.md) | Lateral 6 | **✓** |  |
 | [iGlobe CRM para o Teams](./iglobe-crm-for-teams.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iManage](./imanage.md) | iManage | **✓** |  |
 | [imDocShare](./kl-software-technologies-imdocshare.md) | KL Software Technologies | **✓** |  |
@@ -479,4 +477,3 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Yeeflow](./akmii-yeeflow.md) | Akmii | **✓** |  |
 | [yuccaHR](./yucca-technologies-gmbh-yuccahr.md) | GmbH da Tecnologias de Yucca | **✓** |  |
 | [Zignals](./alight-zignals.md) | Alight | **✓** |  |
-| [Zoho Sign](./zoho-corporation-private-limited-sign.md) | Zoho Corporation Private Limited | **✓** |  |

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o quadro de whiteboard do Lucidspark pelo Software Lúcido
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Quadro de Whiteboard do Lucidspark, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c8ce523115fff2910606ea519118d6b2e14131e9
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 58fdab0102f3a7498e3631472f6ad9a22ea11c2e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253637"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544379"
 ---
 # <a name="lucidspark-whiteboard"></a>Lucidspark Whiteboard
 
@@ -40,8 +41,9 @@ Informações fornecidas pelo Software Lúcido para a Microsoft:
 | Termos de uso do aplicativo | [https://lucid.co/tos](https://lucid.co/tos) |
 | Funcionalidade principal do aplicativo | O Lucidspark é um quadro de trabalho virtual baseado em nuvem onde as equipes podem trazer suas melhores ideias à tona. Brainstorm and collaborate as a team in real time, whether you&#8217;re working remotely or in-person. O Lucidspark ajuda as pessoas a organizar anotações e rabiscos e transformá-las em conceitos prontos para apresentação. Quando chegar&#8217;tempo para as próximas etapas, as equipes podem desenvolver fluxos de trabalho e processar documentos para transformar ideias em realidade. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://lucidchart.zendesk.com](https://lucidchart.zendesk.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo Software Lúcido sobre como esse aplic
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído após 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,9 +161,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| email | delegado | Nome e endereço de email. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
->| openid | delegado | Nome e endereço de email. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
->| perfil | delegado | Nome e endereço de email. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
+>| email | delegado | Nome e endereço de email. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](../azure/3557d5c0-bcab-410b-8a03-f7045aa48de0.md) |
+>| openid | delegado | Nome e endereço de email. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](../azure/3557d5c0-bcab-410b-8a03-f7045aa48de0.md) |
+>| perfil | delegado | Nome e endereço de email. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](../azure/3557d5c0-bcab-410b-8a03-f7045aa48de0.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

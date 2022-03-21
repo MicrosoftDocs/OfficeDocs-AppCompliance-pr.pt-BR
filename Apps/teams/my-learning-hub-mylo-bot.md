@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Mylo Bot pelo Meu hub Learning
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/17/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Mylo Bot, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9b3ea6be4b276b80916313c6614982074e8ea99c
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: f921397b188f7e23ebe5322acb729e73c6397e6e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081009"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542879"
 ---
 # <a name="mylo-bot"></a>Mylo Bot
 
@@ -35,7 +36,7 @@ Informações fornecidas pelo My Learning Hub para a Microsoft:
 | Nome do aplicativo | Mylo Bot |
 | ID | WA200003783 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Meu Learning Hub |
+| Nome da empresa de parceiro | My Learning Hub |
 | Site da empresa | [https://mylearninghub.com](https://mylearninghub.com) |
 | Termos de uso do aplicativo | [https://mylearninghub.com/files/terms_and_conditions.pdf](https://mylearninghub.com/files/terms_and_conditions.pdf) |
 | Funcionalidade principal do aplicativo | Ajude os funcionários a encontrar conteúdo de aprendizado relevante no ponto de necessidade. |
@@ -57,14 +58,7 @@ Essas informações foram fornecidas pelo My Learning Hub sobre como esse aplica
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -78,7 +72,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você realiza testes de penetração anual no aplicativo? | Sim |
 | O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? |  |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | ApplicationControls |
 | Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
 | Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Sim |
 | Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Sim |

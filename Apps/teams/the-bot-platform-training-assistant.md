@@ -2,18 +2,19 @@
 title: Informações do aplicativo para assistente de treinamento pela plataforma bot
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Assistente de Treinamento, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e644d66f69da228ff7de892d309d09de0e6a4a41
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: bf18fbe8cbd5d492378f873901293088c11c7b2c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147266"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541559"
 ---
 # <a name="training-assistant"></a>Assistente de Treinamento
 
@@ -38,7 +39,7 @@ Informações fornecidas pela Plataforma bot para a Microsoft:
 | Nome da empresa de parceiro | A Plataforma do Bot |
 | Site da empresa | [https://thebotplatform.com](https://thebotplatform.com) |
 | Termos de uso do aplicativo | [https://thebotplatform.com/wp-content/uploads/2021/11/TBP-T...](https://thebotplatform.com/wp-content/uploads/2021/11/TBP-Training-Assistant-Customer-Terms-of-Use.pdf) |
-| Funcionalidade principal do aplicativo | Esse assistente digital leva você em uma série de módulos de treinamento que abrangem tudo o que você precisa saber para se configurar e trabalhar em Teams. Cada módulo contém vídeos de tutorial específicos e conteúdo de treinamento para garantir que sua equipe esteja totalmente ciente da amplitude dos recursos disponíveis no Microsoft Teams e como usá-los. |
+| Funcionalidade principal do aplicativo | Esse assistente digital leva você em uma série de módulos de treinamento que abrangem tudo o que você precisa saber para se configurar e trabalhar em Teams. Cada módulo contém vídeos de tutoriais específicos e conteúdo de treinamento para garantir que sua equipe esteja totalmente ciente da amplitude dos recursos disponíveis no Microsoft Teams e como usá-los. |
 | Localização da sede da empresa | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
@@ -166,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,12 +2,19 @@
 title: Informações do aplicativo para 365Projects por 365Apps
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 'Todas as informações de segurança e conformidade disponíveis para 365Projects, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.'
+description: Todas as informações de segurança e conformidade disponíveis para 365Projects, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 6a55ea670ee4fa1a1aed5c0968d477245e2a5712
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541339"
 ---
 # <a name="365projects"></a>365Projects
 
@@ -35,7 +42,7 @@ Informações fornecidas pelo 365Apps para a Microsoft:
 | Funcionalidade principal do aplicativo | Reunir seus projetos Microsoft Teams &amp; juntos
 Criar Project,conectá-lo ao canal existente/novo |
 | Localização da sede da empresa | Austrália |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://365projects.app](https://365projects.app) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -162,8 +169,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Tasks.ReadWrite | delegado | ler e atualizar tarefas do planejador | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
->| User.Read | delegado | ler email do usuário | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| Tasks.ReadWrite | delegado | ler e atualizar tarefas do planejador | [99a0a9b1-5d28-45df-9f99-792aa32795f4](../azure/99a0a9b1-5d28-45df-9f99-792aa32795f4.md) |
+>| User.Read | delegado | ler email do usuário | [99a0a9b1-5d28-45df-9f99-792aa32795f4](../azure/99a0a9b1-5d28-45df-9f99-792aa32795f4.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

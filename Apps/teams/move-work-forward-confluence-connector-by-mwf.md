@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Conector de Confluência por MWF por Mover o Trabalho para Frente
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/19/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Conector de Confluência pela MWF, suas políticas de tratamento de dados, Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Conector de Confluência pela MWF, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 21c6474d5b21537a4ff04705fd16b760d6698b73
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: aed26fd2aa3bc10316447f31e01e3fd53e0525b8
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251027"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544319"
 ---
 # <a name="confluence-connector-by-mwf"></a>Conector de Confluência por MWF
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo Move Work Forward para a Microsoft:
 | Termos de uso do aplicativo | [https://www.moveworkforward.com/license-agreement/eula](https://www.moveworkforward.com/license-agreement/eula) |
 | Funcionalidade principal do aplicativo | A integração final da Confluência Atlassian com Microsoft Teams |
 | Localização da sede da empresa | Cingapura |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.moveworkforward.com/product/microsoft-teams-con...](https://www.moveworkforward.com/product/microsoft-teams-confluence-connector) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -57,14 +58,7 @@ Essas informações foram fornecidas pelo Move Work Forward sobre como esse apli
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -168,11 +162,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | delegado | Para obter a lista de canais para páginas de configuração para enviar notificações em um canal. | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
->| Teams.ReadBasic.All | delegado | Para obter a lista de equipes para páginas de configuração para enviar notificações em um canal de uma equipe. | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
->| TeamsAppInstallation.ReadForTeam | delegado | Para descobrir as equipes onde o Conector de Confluência está instalado | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
->| User.Read | delegado | Para ler informações básicas do usuário | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
->| email | delegado | Para aprimorar o mapeamento de contas entre a Microsoft e a Atlassian | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| Channel.ReadBasic.All | delegado | Para obter a lista de canais para páginas de configuração para enviar notificações em um canal. | [f3943662-e828-40ed-9c6e-369680fe421f](../azure/f3943662-e828-40ed-9c6e-369680fe421f.md) |
+>| Teams.ReadBasic.All | delegado | Para obter a lista de equipes para páginas de configuração para enviar notificações em um canal de uma equipe. | [f3943662-e828-40ed-9c6e-369680fe421f](../azure/f3943662-e828-40ed-9c6e-369680fe421f.md) |
+>| TeamsAppInstallation.ReadForTeam | delegado | Para descobrir as equipes onde o Conector de Confluência está instalado | [f3943662-e828-40ed-9c6e-369680fe421f](../azure/f3943662-e828-40ed-9c6e-369680fe421f.md) |
+>| User.Read | delegado | Para ler informações básicas do usuário | [f3943662-e828-40ed-9c6e-369680fe421f](../azure/f3943662-e828-40ed-9c6e-369680fe421f.md) |
+>| email | delegado | Para aprimorar o mapeamento de contas entre a Microsoft e a Atlassian | [f3943662-e828-40ed-9c6e-369680fe421f](../azure/f3943662-e828-40ed-9c6e-369680fe421f.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

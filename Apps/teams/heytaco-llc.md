@@ -2,18 +2,19 @@
 title: Informações do aplicativo para HeyTaco by HeyTaco, LLC
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a HeyTaco, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 43fa80b9334baaeb92d699ae6993e29fe44944e4
-ms.sourcegitcommit: c02a78e87cd408ded50ad143138502ce1f1d883e
+ms.openlocfilehash: 1d409065a274e91d20b61fcd4e913bbaddd70f27
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62337964"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543669"
 ---
 # <a name="heytaco"></a>HeyTaco
 
@@ -168,9 +169,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| email | delegado | Para organizar dados do usuário | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
->| openid | delegado | Permitir que as pessoas entre nas guias | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
->| perfil | delegado | Para armazenar informações de perfil de usuários | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| email | delegado | Para organizar dados do usuário | [be8d11cf-265a-4974-9912-4ff28c29fc21](../azure/be8d11cf-265a-4974-9912-4ff28c29fc21.md) |
+>| openid | delegado | Permitir que as pessoas entre nas guias | [be8d11cf-265a-4974-9912-4ff28c29fc21](../azure/be8d11cf-265a-4974-9912-4ff28c29fc21.md) |
+>| perfil | delegado | Para armazenar informações de perfil de usuários | [be8d11cf-265a-4974-9912-4ff28c29fc21](../azure/be8d11cf-265a-4974-9912-4ff28c29fc21.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

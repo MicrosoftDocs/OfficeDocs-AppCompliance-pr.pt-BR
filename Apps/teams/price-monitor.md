@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Monitor de Preços por &#19978;&#28023;&#20134;&#24698;&#20114;&#32852;&#32593;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/04/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Monitor de Preços, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 586bea883b8b07f23b291825209bf995de0f7df7
-ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
+ms.openlocfilehash: 4b0cceef60fd51b0c69f030911d3c4e53c5b84d9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "62449857"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541589"
 ---
 # <a name="price-monitor"></a>Monitor de Preços
 
@@ -38,11 +39,10 @@ Informações fornecidas pelo &#19978;&#28023;&#20134;&#24698;&#20114;&#32852;&#
 | Nome da empresa de parceiro | &#19978;&#28023;&#20134;&#24698;&#20114;&#32852;&#32593;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; |
 | Site da empresa | [https://www.earlydata.com](https://www.earlydata.com) |
 | Termos de uso do aplicativo | [https://www.earlydata.com/statement/terms.html](https://www.earlydata.com/statement/terms.html) |
-| Funcionalidade principal do aplicativo | Price Monitor &#36890;&#36807;&#22823;&#25968;&#25454;&#25216;&#26415;&#65292;&#24110;&#21161;&#21697;&#29260;&#23454;&#26102;&#33719;&#21462;&#20840;&#32593;&#30005;&#21830;&#20135;&#21697;&#20449;&#24687;&#65292;&#35745;&#31639;&#25240;&#25187;&#20215;&#26684;&#65292;&#36741;&#21161;&#21830;&#19994;&#20915;&#31574;&#12290;&#25105;&#20204;&#30446;&#21069;&#35206;&#30422;&#21860;&#37202;&#12289;&#27915;&#37202;&#12289;&#21307;&#33647;&#12289;&#23478;&#30005;&#12289;3C&#30005;&#23376;&#12289;&#20445;&#20581;&#21697;&#12289;&#39278;&#26009;&#31561;&#31867;&#21035;&#25968;&#25454;&#12290; &#24744;&#21487;&#20197;&#36890;&#36807;&#36755;&#20837;&#8221;&#22825;&#29483;+&#21860;&#37202;&#8220;&#25110;&#8221;&#21860;&#37202;&#8220;&#26469;&#26597;&#38405;&#20320;&#24863;&#20852;&#36259;&#30340;&#20135;&#21697;&#65292;&#25105;&#20204;&#20026;&#24744;&#31579;&#36873;TOP 10&#30340;&#39640;&#38144;&#20135;&#21697;&#12290;&#27880;: &#25105;&#20204;&#25552;&#20379;&#30340;&#25968;&#25454;&#26159;&#22522;&#20110;&#20013;&#22269;&#22823;&#38470;&#38144;&#21806;&#30340;&#20135;&#21697;&#65292;&#25968;&#25454;&#19982;&#20854;&#23427;&#22320;&#21306;&#26080;&#20851;&#12290;&#38656;&#35201;&#24110;&#21161;&#25110;&#25903;&#25345;&#35831;&#28857;&#20987; [Price Monitor Support](https://www.earlydata.com/statement/support.html) |
+| Funcionalidade principal do aplicativo | Monitor de &#36890;&#36807;&#22823;&#25968;&#25454;&#25216;&#26415;&#65292;&#24110;&#21161;&#21697;&#29260;&#23454;&#26102;&#33719;&#21462;&#20840;&#32593;&#30005;&#21830;&#20135;&#21697;&#20449;&#24687;&#65292;&#35745;&#31639;&#25240;&#25187;&#20215;&#26684;&#65292;&#36741;&#21161;&#21830;&#19994;&#20915;&#31574;&#12290;&#25105;&#20204;&#30446;&#21069;&#35206;&#30422;&#21860;&#37202;&#12289;&#27915;&#37202;&#12289;&#21307;&#33647;&#12289;&#23478;&#30005;&#12289;3C&#30005;&#23376;&#12289;&#20445;&#20581;&#21697;&#12289;&#39278;&#26009;&#31561;&#31867;&#21035;&#25968;&#25454;&#12290; &#24744;&#21487;&#20197;&#36890;&#36807;&#36755;&#20837;&#8221;&#22825;&#29483;+&#21860;&#37202;&#8220;&#25110;&#8221;&#21860;&#37202;&#8220;&#26469;&#26597;&#38405;&#20320;&#24863;&#20852;&#36259;&#30340;&#20135;&#21697;&#65292;&#25105;&#20204;&#20026;&#24744;&#31579;&#36873;TOP 10&#30340;&#39640;&#38144;&#20135;&#21697;&#12290;&#27880;: &#25105;&#20204;&#25552;&#20379;&#30340;&#25968;&#25454;&#26159;&#22522;&#20110;&#20013;&#22269;&#22823;&#38470;&#38144;&#21806;&#30340;&#20135;&#21697;&#65292;&#25968;&#25454;&#19982;&#20854;&#23427;&#22320;&#21306;&#26080;&#20851;&#12290;&#38656;&#35201;&#24110;&#21161;&#25110;&#25903;&#25345;&#35831;&#28857;&#20987; [Suporte ao Monitor de Preços](https://www.earlydata.com/statement/support.html) |
 | Localização da sede da empresa | China |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,7 +52,7 @@ Informações fornecidas pelo &#19978;&#28023;&#20134;&#24698;&#20114;&#32852;&#
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo &#19978;&#28023;&#20134;&#24698;&#20114;&#32852;&#32593;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas por &#19978;&#28023;&#20134;&#24698;&#20114;&#32852;&#32593;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
@@ -165,7 +165,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 
