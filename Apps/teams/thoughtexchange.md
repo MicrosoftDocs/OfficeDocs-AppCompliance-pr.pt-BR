@@ -2,18 +2,19 @@
 title: Informações do aplicativo para ThoughtExchange por ThoughtExchange
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o ThoughtExchange, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a749ad83fe14ccff790deaf88721ff1b29b04ea4
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: c0839129e2fbfee94d154a1a3d893126092e196e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147074"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551290"
 ---
 # <a name="thoughtexchange"></a>ThoughtExchange
 
@@ -38,9 +39,9 @@ Informações fornecidas pelo ThoughtExchange à Microsoft:
 | Nome da empresa de parceiro | ThoughtExchange |
 | Site da empresa | [https://thoughtexchange.com](https://thoughtexchange.com) |
 | Termos de uso do aplicativo | [https://www.thoughtexchange.com/participant-leader-terms-of...](https://www.thoughtexchange.com/participant-leader-terms-of-use/) |
-| Funcionalidade principal do aplicativo | &#8220;o ThoughtExchange ajuda os líderes a obter uma entrada flexível e imparcial de todos em sua força de trabalho ou comunidade, independentemente de sua localização. Se ele&#8217;grupos de dez ou 10.000, o ThoughtExchange facilita a movimentação de discussões importantes e a tomada de decisões, em scale.&#8221; |
+| Funcionalidade principal do aplicativo | &#8220;ThoughtExchange ajuda os líderes a obter uma entrada flexível e imparcial de todos em sua força de trabalho ou comunidade, independentemente de sua localização. Se ele&#8217;grupos de dez ou 10.000, o ThoughtExchange facilita a movimentação de discussões importantes e a tomada de decisões, em scale.&#8221; |
 | Localização da sede da empresa | Canadá |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://get.thoughtexchange.help/hc/en-us/articles/15000107...](https://get.thoughtexchange.help/hc/en-us/articles/1500010779682) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure, Aws |
 
@@ -57,14 +58,7 @@ Essas informações foram fornecidas pelo ThoughtExchange sobre como esse aplica
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Sim |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? | Sim |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,7 +158,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

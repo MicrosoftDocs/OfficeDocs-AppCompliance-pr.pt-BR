@@ -2,18 +2,19 @@
 title: Informações do aplicativo para TagTeam por GmbH de Solução De Negócios Mais Inteligentes
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para TagTeam, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: cc76bc92be159c19efd6642e1f8486fde92c6195
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d5494438873cdcd7878b4b90afad8a8c70778648
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263591"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551390"
 ---
 # <a name="tagteam"></a>TagTeam
 
@@ -40,8 +41,9 @@ Informações fornecidas pelo GmbH da Solução De Negócios Mais Inteligentes p
 | Termos de uso do aplicativo | [https://www.smarterbusiness.at/en/terms-of-use-for-tagteam](https://www.smarterbusiness.at/en/terms-of-use-for-tagteam) |
 | Funcionalidade principal do aplicativo | Ajude sua equipe a classificar suas conversas em canais com marcas coloridas , para que elas gaste menos tempo procurando as informações certas. Eles vão gostar especialmente de ter todas as informações relacionadas em suas pontas dos dedos apenas um clique de distância. |
 | Localização da sede da empresa | Áustria |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.smarterbusiness.at/en/tagteam-help](https://www.smarterbusiness.at/en/tagteam-help) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo GmbH da Solução De Negócios Mais In
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Retido |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,10 +161,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMessage.Read.All | delegado | Não coletamos esses dados - apenas para exibir conversas marcadas. Gostariamos de alterá-lo para a API de Pesquisa, mas Graph API não está suportando isso no momento.  | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
->| User.Read | delegado | Exibir User-Information (por exemplo, Nome) em nossa Guia | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
->| User.ReadBasic.All | delegado | Exibir User-Avatars em nossa guia | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
->| openid | delegado | Somente para SignIn - nenhum dado é armazenado | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](https://docs.microsoft.com/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b) |
+>| ChannelMessage.Read.All | delegado | Não coletamos esses dados - apenas para exibir conversas marcadas. Gostariamos de alterá-la para a API de Pesquisa, mas Graph API não está suportando isso no momento.  | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](../azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b.md) |
+>| User.Read | delegado | Exibir User-Information (por exemplo, Nome) em nossa Guia | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](../azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b.md) |
+>| User.ReadBasic.All | delegado | Exibir User-Avatars em nossa guia | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](../azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b.md) |
+>| openid | delegado | Somente para SignIn - nenhum dado é armazenado | [6d7f01cb-cfa5-48d9-beed-363d381ae32b](../azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

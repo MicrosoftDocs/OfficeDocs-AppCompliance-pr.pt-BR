@@ -2,18 +2,19 @@
 title: Informações do aplicativo para YAROOMS pelo YAROOMS
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o YAROOMS, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para YAROOMS, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f3a48e01d15109b5a61a0955cfaaa5022232199a
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 97902be5f3293aa66ddc2625209fde6c7b51f59b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200548"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552790"
 ---
 # <a name="yarooms"></a>YAROOMS
 
@@ -38,9 +39,9 @@ Informações fornecidas pelo YAROOMS para a Microsoft:
 | Nome da empresa de parceiro | YAROOMS |
 | Site da empresa | [https://yarooms.com](https://yarooms.com) |
 | Termos de uso do aplicativo | [https://www.yarooms.com/legal/terms-conditions/](https://www.yarooms.com/legal/terms-conditions/) |
-| Funcionalidade principal do aplicativo | Software &amp; de Reserva de Room Desk |
+| Funcionalidade principal do aplicativo | Software de &amp; Reserva de Room Desk |
 | Localização da sede da empresa | Romênia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://yarooms.com/help](https://yarooms.com/help) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws, Azure, GCP |
 
@@ -57,14 +58,7 @@ Essas informações foram fornecidas pelo YAROOMS sobre como esse aplicativo col
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Sim |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? | Sim |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,7 +159,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

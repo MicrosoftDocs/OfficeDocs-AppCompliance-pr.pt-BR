@@ -2,20 +2,21 @@
 title: Boletim informativo de março
 author: LGerrard
 ms.author: legerrar
+manager: tonybal
 description: Boletim informativo de março de 2021
 keywords: Boletim informativo de conformidade
-ms.topic: Conceptual
-ms.service: Attestation
-ms.openlocfilehash: e0d0dc1ca55b4644b807a31a70cbb04cf180c517255eeb4f565c18dd6b91582a
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.topic: conceptual
+ms.service: attestation
+ms.openlocfilehash: 271f9d55c4fe04c0151a0a738249e9a508505aec
+ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54751811"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "63697711"
 ---
-# <a name="march-2021-microsoft-365-app-compliance-newsletter"></a>Boletim informativo de conformidade do aplicativo Microsoft 365 março de 2021
+# <a name="march-2021-microsoft-365-app-compliance-newsletter"></a>Março de 2021 Microsoft 365 De conformidade do aplicativo
 
-![1º ](../media/March1.PNG)
- ![ de março de 2 ](../media/March2.PNG)
- ![ de março de ](../media/March3.PNG)
- ![ 3 de março de 4](../media/March4.PNG)
+![Março 1March 2March](../media/March2.PNG)
+![ 3March](../media/March3.PNG)
+![ 4](../media/March1.PNG)
+![](../media/March4.PNG)

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para ideias amplas - Software de Inovação por Ideias Amplas/Idea2Innovation
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Ideias Amplas - Software de Inovação, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d5bbf1d032d5537dab0775522f80d83a472db661
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 60d577d402e68c31f10ed0e5f73ea92f047dfc73
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251197"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550820"
 ---
 # <a name="wide-ideas---innovation-software"></a>Ideias amplas - Software de Inovação
 
@@ -36,11 +37,10 @@ Informações fornecidas por Ideias Amplas/Idea2Innovation para a Microsoft:
 | Nome da empresa de parceiro | Ideias amplas/Idea2Innovation |
 | Site da empresa | [https://getwideideas.com](https://getwideideas.com) |
 | Termos de uso do aplicativo | [https://getwideideas.com/eula](https://getwideideas.com/eula) |
-| Funcionalidade principal do aplicativo | Com o software de gerenciamento de inovação de Ideias Amplas inseridas no Microsoft 365 e Teams, compartilhar desafios, experiências do cliente e ideias de novas soluções se torna parte da cultura de trabalho dos funcionários. |
+| Funcionalidade principal do aplicativo | Com o software de gerenciamento de inovação das Ideias Amplas inseridas no Microsoft 365 e Teams, compartilhar desafios, experiências do cliente e ideias de novas soluções se torna parte da cultura de trabalho dos funcionários. |
 | Localização da sede da empresa | Suécia |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -168,12 +168,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.Create | delegado | permite que o Centro de Administração de Ideias Amplas crie canal em qualquer equipe, em nome do usuário integrado.  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| Directory.Read.All | delegado | permite que o Centro de Administração de Ideias Amplas leia dados em sua organização&#8217;diretório, como usuários, grupos e aplicativos | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| Group.Read.All | delegado | permite que o Centro de Administração de Ideias Amplas liste grupos e leia suas propriedades e todas as associações de grupo em nome do usuário associado | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| TeamsAppInstallation.ReadWriteForTeam | delegado | permite que o Centro de Administração de Ideias Amplas leia, instale, atualize e desinstale Teams aplicativos em equipes que o usuário integrado pode acessar.  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| TeamsTab.Create | delegado |  permite que o Centro de Administração de Ideias Amplas crie guias em qualquer equipe Microsoft Teams, em nome do usuário in-loca. | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| User.Read | delegado | permite que os usuários entre no Centro de Administração de Ideias Amplas e permite que o aplicativo leia o perfil dos usuários assinados.  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
+>| Channel.Create | delegado | permite que o Centro de Administração de Ideias Amplas crie canal em qualquer equipe, em nome do usuário integrado.  | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| Directory.Read.All | delegado | permite que o Centro de Administração de Ideias Amplas leia dados em sua organização&#8217;diretório, como usuários, grupos e aplicativos | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| Group.Read.All | delegado | permite que o Centro de Administração de Ideias Amplas liste grupos e leia suas propriedades e todas as associações de grupo em nome do usuário associado | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| TeamsAppInstallation.ReadWriteForTeam | delegado | permite que o Centro de Administração de Ideias Amplas leia, instale, atualize e desinstale Teams aplicativos em equipes que o usuário integrado possa acessar.  | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| TeamsTab.Create | delegado |  permite que o Centro de Administração de Ideias Amplas crie guias em qualquer equipe Microsoft Teams, em nome do usuário in-loca. | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| User.Read | delegado | permite que os usuários entre no Centro de Administração de Ideias Amplas e permite que o aplicativo leia o perfil dos usuários assinados.  | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

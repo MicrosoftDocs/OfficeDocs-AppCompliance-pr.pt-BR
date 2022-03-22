@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Descoberta onna para MS365 por Onna
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Onna Discovery para MS365, suas políticas de tratamento de dados, suas informações Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Onna Discovery para MS365, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 042ce6df25c6b4cda31ef0c4931f1d6fd00e3f25
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 2e0981baa9445bfc2c5b75b9863bfee2e2f692d4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147115"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552220"
 ---
 # <a name="onna-discovery-for-ms365"></a>Descoberta onna para MS365
 
@@ -38,7 +39,7 @@ Informações fornecidas pelo Onna à Microsoft:
 | Termos de uso do aplicativo | [https://onna.com/master-subscription-agreement](https://onna.com/master-subscription-agreement) |
 | Funcionalidade principal do aplicativo | O Onna fornece coleta de dados defensible, pesquisa e avaliação inicial de caso para Microsoft 365 |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://onna.com/features](https://onna.com/features) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP, Aws |
 
@@ -164,7 +165,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,20 +2,21 @@
 title: Informações do aplicativo para Wiki Perfeito pelo OOO RD17
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Wiki Perfeito, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2eab3751f755b6ed2826a7f9b0aa964608811a26
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: c635cc3f035977baba211e7d6faa77ce461923d7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080958"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551980"
 ---
-# <a name="perfect-wiki"></a>Wiki perfeito
+# <a name="perfect-wiki"></a>Perfect Wiki
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +33,7 @@ Informações fornecidas pelo OOO RD17 para a Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Wiki perfeito |
+| Nome do aplicativo | Perfect Wiki |
 | ID | WA200001679 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | OOO RD17 |
@@ -40,8 +41,9 @@ Informações fornecidas pelo OOO RD17 para a Microsoft:
 | Termos de uso do aplicativo | [https://docs.google.com/document/d/e/2PACX-1vTMQNAdgN7xy6n9...](https://docs.google.com/document/d/e/2PACX-1vTMQNAdgN7xy6n9tNvhDe8Sb2AF8A9v8jfG3gJ503cXzIq1nr_Zbq5aShN0mU49fvADgKZ8a58Oha-C/pub) |
 | Funcionalidade principal do aplicativo | Recurso Wiki rich para Microsoft Teams |
 | Localização da sede da empresa | Federação Da Rússia (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://perfectwikiforteams.com](https://perfectwikiforteams.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure, GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo OOO RD17 sobre como esse aplicativo co
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,9 +161,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | delegado | ChannelId e channelName, obteremos informações para mostrar o usuário no aplicativo | [b9604964-9c3a-483e-abf2-1b5cba495081](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9604964-9c3a-483e-abf2-1b5cba495081) |
->| Team.ReadBasic.All | delegado | Obteremos teamId do usuário e obteremos o nome da equipe | [b9604964-9c3a-483e-abf2-1b5cba495081](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9604964-9c3a-483e-abf2-1b5cba495081) |
->| User.Read | delegado | userId, usado para entender em que usuário está conectado | [b9604964-9c3a-483e-abf2-1b5cba495081](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9604964-9c3a-483e-abf2-1b5cba495081) |
+>| Channel.ReadBasic.All | delegado | ChannelId e channelName, obteremos informações para mostrar o usuário no aplicativo | [b9604964-9c3a-483e-abf2-1b5cba495081](../azure/b9604964-9c3a-483e-abf2-1b5cba495081.md) |
+>| Team.ReadBasic.All | delegado | Obteremos teamId do usuário e obteremos o nome da equipe | [b9604964-9c3a-483e-abf2-1b5cba495081](../azure/b9604964-9c3a-483e-abf2-1b5cba495081.md) |
+>| User.Read | delegado | userId, usado para entender em que usuário está conectado | [b9604964-9c3a-483e-abf2-1b5cba495081](../azure/b9604964-9c3a-483e-abf2-1b5cba495081.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

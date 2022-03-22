@@ -2,18 +2,19 @@
 title: Informações do aplicativo para MIPA - Seu próprio assistente pessoal pelo iGlobe
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para MIPA - Seu Próprio Assistente Pessoal, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d51eba652373176667c02c6c6e7d50249a877eb8
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: cc6661dee951770309315f3ff28f56b4c7bc8028
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080295"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550810"
 ---
 # <a name="mipa---your-own-personal-assistant"></a>MIPA - Seu próprio assistente pessoal
 
@@ -38,8 +39,9 @@ Informações fornecidas pelo iGlobe à Microsoft:
 | Termos de uso do aplicativo | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
 | Funcionalidade principal do aplicativo | MIPA - Meu assistente pessoal inteligente - A MIPA oferece uma maneira simples e altamente visual de organizar e gerenciar atividades diárias e trabalho. MIPA é usado em Outlook e Teams. Para a organização usando o MIPA do iGlobe CRM também será integrado ao iGlobe CRM. O nível de permissão dos serviços de aplicativo MIPA é definido para MIPA para Teams e MIPA para Outlook e para integração com o iGlobe CRM.  |
 | Localização da sede da empresa | Dinamarca |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://mipa.iglobe.dk/Support](https://mipa.iglobe.dk/Support) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ Essas informações foram fornecidas pelo iGlobe sobre como esse aplicativo cole
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,24 +160,24 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Contacts.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Directory.AccessAsUser.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Directory.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Files.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Group.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Mail.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| MailboxSettings.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Tasks.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.ReadBasic.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| email | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| offline_access | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| openid | delegado | Nenhum dado é armazenado no banco de dados de aplicativos | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| perfil | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Calendars.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Contacts.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Directory.AccessAsUser.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Directory.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Files.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Group.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Mail.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| MailboxSettings.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Tasks.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.ReadBasic.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| email | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| offline_access | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| openid | delegado | Nenhum dado é armazenado no banco de dados de aplicativos | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| perfil | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

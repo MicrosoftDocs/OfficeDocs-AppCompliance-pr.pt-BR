@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Hub Cativado pela IO Ltd cativada
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Hub CSA, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b6e6f108456dff5759d7b7b0505fd9d33fd97a56
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: b809799dd2d5f20b347005d164218055462318dc
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155096"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551620"
 ---
 # <a name="the-captivate-hub"></a>O Hub Cativante
 
@@ -40,7 +41,7 @@ Informações fornecidas pela IO Ltd do Captivate para a Microsoft:
 | Termos de uso do aplicativo | [https://captivat.io/tos](https://captivat.io/tos) |
 | Funcionalidade principal do aplicativo | O Hub cativante é um sistema extensível sem código que foi projetado para dar suporte a conversas humanas/automáticas em vários canais. Ele oferece suporte a Assistentes Digitais de vários fornecedores, bem como várias soluções de chat ao vivo. |
 | Localização da sede da empresa | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://manual.captivat.io/docs/teams](https://manual.captivat.io/docs/teams) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | IBMCloud |
 
@@ -166,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Sim |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

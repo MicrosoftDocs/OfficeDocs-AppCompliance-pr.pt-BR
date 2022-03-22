@@ -2,18 +2,19 @@
 title: Informações do aplicativo para colegas por colegas Insights Inc
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Fellow, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c05c00736ba08bdcb663342ca6a692ead21ac83c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d1860bcfddfdc3de17b409014ff6a1a68cdf6286
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257827"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552880"
 ---
 # <a name="fellow"></a>Colega
 
@@ -28,7 +29,7 @@ ms.locfileid: "62257827"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas por Fellow Insights Inc para a Microsoft:
+Informações fornecidas pelo Fellow Insights Inc à Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
@@ -42,6 +43,7 @@ Informações fornecidas por Fellow Insights Inc para a Microsoft:
 | Localização da sede da empresa | Canadá |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas por Fellow Insights Inc sobre como esse apl
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,16 +161,16 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | ambos | O colega se conecta aos calendários do usuário para fornecer a eles a capacidade de fazer anotações nos dados. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Channel.ReadBasic.All | delegado | Coletamos os nomes dos canais dos que um usuário é membro para mostrar a eles uma lista de canais para os que podem enviar anotações. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Directory.Read.All | aplicação | Esses dados só serão coletados se uma instalação do administrador for feita para toda a organização. Usamos os dados de diretório para sincronizar uma lista de usuários e provisionar contas automaticamente. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Group.Read.All | aplicação | Esses dados só serão coletados se uma instalação do administrador for feita para toda a organização. Usamos os dados de diretório para sincronizar uma lista de usuários e provisionar contas automaticamente. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| People.Read | delegado | Os contatos do usuário são coletados, em displayNames de contato específicos e endereços de email. Isso é usado em Fellow para fornecer uma lista de usuários para convidar para convidar para uma nota/compartilhar uma nota com. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| People.Read.All | aplicação | Esses dados só serão coletados se uma instalação do administrador for feita para toda a organização. Os contatos do usuário são coletados, em displayNames de contato específicos e endereços de email. Isso é usado em Fellow para fornecer uma lista de usuários para convidar para convidar para uma nota/compartilhar uma nota com. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Team.ReadBasic.All | delegado | Uma lista de equipes das que o usuário faz parte é coletada. Isso é usado em colegas com o objetivo de permitir que o usuário envia anotações de Fellow para uma equipe. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| User.Read | delegado | Informações básicas do usuário são coletadas. Nome de usuário, email, cargo. Essas informações são usadas em Fellow para criar contas de usuário e contas da empresa. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| User.Read.All | aplicação | Esses dados só serão coletados se uma instalação do administrador for feita para toda a organização. Usamos os dados de diretório para sincronizar uma lista de usuários e provisionar contas automaticamente. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| offline_access | delegado | O token de atualização do usuário para manter o acesso aos dados coletados por meio de outros escopos. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
+>| Calendars.ReadWrite | ambos | O colega se conecta aos calendários do usuário para fornecer a eles a capacidade de fazer anotações nos dados. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Channel.ReadBasic.All | delegado | Coletamos os nomes dos canais dos que um usuário é membro para mostrar a eles uma lista de canais para os que podem enviar anotações. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Directory.Read.All | aplicação | Esses dados só serão coletados se uma instalação do administrador for feita para toda a organização. Usamos os dados de diretório para sincronizar uma lista de usuários e provisionar contas automaticamente. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Group.Read.All | aplicação | Esses dados só serão coletados se uma instalação do administrador for feita para toda a organização. Usamos os dados de diretório para sincronizar uma lista de usuários e provisionar contas automaticamente. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| People.Read | delegado | Os contatos do usuário são coletados, em displayNames de contato específicos e endereços de email. Isso é usado em Fellow para fornecer uma lista de usuários para convidar para convidar para uma nota/compartilhar uma nota com. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| People.Read.All | aplicação | Esses dados só serão coletados se uma instalação do administrador for feita para toda a organização. Os contatos do usuário são coletados, em displayNames de contato específicos e endereços de email. Isso é usado em Fellow para fornecer uma lista de usuários para convidar para convidar para uma nota/compartilhar uma nota com. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Team.ReadBasic.All | delegado | Uma lista de equipes das que o usuário faz parte é coletada. Isso é usado em colegas com o objetivo de permitir que o usuário envia anotações de Fellow para uma equipe. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| User.Read | delegado | Informações básicas do usuário são coletadas. Nome de usuário, email, cargo. Essas informações são usadas em Fellow para criar contas de usuário e contas da empresa. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| User.Read.All | aplicação | Esses dados só serão coletados se uma instalação do administrador for feita para toda a organização. Usamos os dados de diretório para sincronizar uma lista de usuários e provisionar contas automaticamente. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| offline_access | delegado | O token de atualização do usuário para manter o acesso aos dados coletados por meio de outros escopos. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

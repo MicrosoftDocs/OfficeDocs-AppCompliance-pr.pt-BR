@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Geekbot by Geekbot Ltd
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Geekbot, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 97f44a41e15c0462df6d7a7f4c8e1d5044045ca2
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: fccb298433526e7f7e1e873754ae0ad4f3db3b23
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147191"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552840"
 ---
 # <a name="geekbot"></a>Geekbot
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo Geekbot Ltd para a Microsoft:
 | Termos de uso do aplicativo | [https://geekbot.com/tos/](https://geekbot.com/tos/) |
 | Funcionalidade principal do aplicativo | Execute standups, retrospectivas e pesquisas assíncronas, compartilhando o conhecimento da equipe em fusos horário. |
 | Localização da sede da empresa | Chipre |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://help.geekbot.com/en/](https://help.geekbot.com/en/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure, GCP |
 
@@ -166,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

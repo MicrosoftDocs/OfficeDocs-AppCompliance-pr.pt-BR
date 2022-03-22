@@ -2,16 +2,17 @@
 title: Microsoft 365 Certificação - Guia de Evidências de Exemplo
 author: OrionOmalley
 ms.author: oromalle
+manager: tonybal
 description: Microsoft 365 visão geral do guia de envio de evidências de certificação
 keywords: atestado de certificação de aplicativos Microsoft 365 exemplo de diretrizes de envio de evidências do appSource
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 5e619ffe1f89f675b473f90dead3c0bc550ae41a
-ms.sourcegitcommit: 7975c249abac22ca1a8c7c9b592d4404bea10cf4
+ms.openlocfilehash: c5d300bf840a3357664a4365d0073bb211cad5ff
+ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61151816"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "63697861"
 ---
 # <a name="microsoft-365-certification---sample-evidence-guide"></a>Microsoft 365 Certificação - Guia de Evidências de Exemplo
 
@@ -22,17 +23,17 @@ Este guia foi criado para fornecer aos ISVs exemplos do tipo de evidência e do 
 Observação: as interfaces reais, capturas de tela e documentação usadas para atender aos requisitos variam dependendo do uso do produto, da instalação do sistema e dos processos internos. Além disso, observe que, quando a documentação de política ou procedimento for necessária, o ISV será necessário para enviar os documentos REAIS e não capturas de tela, como talvez mostrado em alguns dos exemplos. 
 
 Há duas seções na certificação que exigem envios:
-1. [**O Envio Inicial do Documento:**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/initialdocumentsubguide) um pequeno conjunto de documentos de alto nível necessários para a análise de sua avaliação.
+1. [**O Envio Inicial do Documento:**](../docs/initialdocumentsubguide.md) um pequeno conjunto de documentos de alto nível necessários para a análise de sua avaliação.
 1. **O Envio de Evidências:** o conjunto completo de evidências necessário para cada controle no escopo para sua avaliação de certificação. 
 
 ## <a name="structure"></a>Structure 
 
 Este documento mapeia diretamente para controles que serão apresentados durante sua certificação no partner center. As diretrizes fornecidas neste documento são detalhadas da seguinte forma:
 - Domínio de Segurança: os três domínios de segurança em que todos os controles estão agrupados: Segurança do Aplicativo, Segurança Operacional e Segurança de Dados e Privacidade.
-- Control(s): = Descrição da Atividade de Avaliação - Esses controles e número associado (Não)são tirados diretamente da lista de verificação de Microsoft 365 Certificação.  
+- Control(s): = Descrição da Atividade de Avaliação - Esses controles e números associados (No.) são retirados diretamente da lista de verificação de Microsoft 365 Certificação.  
 - Intenção: = A intenção de por que o controle de segurança está incluído no programa e o risco específico que ele se destina a atenuar.  A esperança é que essas informações forneçam aos ISVs o raciocínio por trás do controle para entender melhor os tipos de evidências que precisam ser coletados e quais ISV devem prestar atenção e ter conhecimento e compreensão na produção de suas evidências.
 - Diretrizes de evidência de exemplo: = Dado para ajudar a orientar as Tarefas de Coleta de Evidências na planilha de Verificação de Certificação do Microsoft 365, isso permite que os ISV vejam claramente exemplos do tipo de evidência que pode ser usado pelo Analista de Certificação que o usará para fazer uma determinação segura de que um controle está no local e mantido – ele não é de forma exaustiva de natureza.
-- Exemplo de evidência: = Esta seção fornece exemplos de capturas de tela e imagens de evidências potenciais capturadas em cada um dos controles dentro da planilha de Verificação de Certificação do Microsoft 365, especificamente para os Domínios de Segurança Operacional e Segurança de Dados e Segurança de Privacidade (Guias na planilha). Observe que qualquer informação com setas vermelhas e caixas dentro dos exemplos é para ajudar a entender melhor os requisitos necessários para atender a qualquer controle.
+- Exemplo de evidência: = Esta seção fornece exemplos de capturas de tela e imagens de evidências potenciais capturadas em cada um dos controles dentro da planilha de Verificação de Certificação do Microsoft 365, especificamente para os Domínios de Segurança Operacional e Segurança de Dados e Segurança de Privacidade (Guias dentro da planilha). Observe que qualquer informação com setas vermelhas e caixas dentro dos exemplos é para ajudar a entender melhor os requisitos necessários para atender a qualquer controle.
 
 
 ## <a name="security-domain-application-security"></a>Domínio de Segurança: Segurança do Aplicativo
@@ -64,15 +65,15 @@ Exemplo de evidência
 
 - Intenção: é importante ter as defesas anti-vírus (AV) (ou anti-malware) em execução em seu ambiente para proteger contra riscos de segurança cibernética que você pode ou não estar ciente de como possíveis ataques prejudiciais estão aumentando, tanto na sofisticação quanto nos números. Ter a AV implantada em todos os componentes do sistema que suportam seu uso ajudará a reduzir alguns dos riscos de anti-malware que estão sendo introduzidos no ambiente. É necessário apenas um único ponto de extremidade para ser desprotegido para fornecer potencialmente um vetor de ataque para que um ator de ameaças obtenha uma posição de apoio no ambiente. Portanto, a AV deve ser usada como uma das várias camadas de defesa para proteger contra esse tipo de ameaça.
 
-- Diretrizes de evidência de exemplo: para provar que uma instância ativa da AV está em execução no ambiente avaliado. Forneça uma captura  de tela para todos os dispositivos no exemplo que dão suporte ao uso de antivírus que mostra o processo antivírus em execução, o software antivírus está ativo ou se você tiver um console de gerenciamento centralizado para antivírus, talvez seja capaz de demonstrar a partir desse console de gerenciamento. Se estiver usando o console de gerenciamento, certifique-se de provar em uma captura de tela que os dispositivos amostrados estão conectados e funcionando.
+- Diretrizes de evidência de exemplo: para provar que uma instância ativa da AV está em execução no ambiente avaliado. Forneça uma captura de tela  para todos os dispositivos no exemplo que dão suporte ao uso de antivírus que mostra o processo antivírus em execução, o software antivírus está ativo ou se você tiver um console de gerenciamento centralizado para antivírus, talvez seja capaz de demonstrar a partir desse console de gerenciamento. Se estiver usando o console de gerenciamento, certifique-se de provar em uma captura de tela que os dispositivos amostrados estão conectados e funcionando.
 
-- Exemplo de evidência 1: a captura de tela abaixo foi tirada do Centro de Segurança do Azure; ele mostra que uma extensão antimalware foi implantada na VM chamada &quot; MSPGPRODAZUR01 &quot; .
+- Exemplo de evidência 1: a captura de tela abaixo foi tirada do Centro de Segurança do Azure; mostra que uma extensão antimalware foi implantada na VM chamada &quot;MSPGPRODAZUR01&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-2.png)
 
 - Exemplo de evidência 2
 
-A captura de tela abaixo foi retirada de um Windows 10, mostrando que a proteção em tempo real está ligada para o nome de &quot; &quot; host &quot; CLARANET-SBU-WM &quot; .
+A captura de tela abaixo foi retirada de um Windows 10, &quot;mostrando que a proteção em tempo real&quot; está ligada para o nome de host &quot;CLARANET-SBU-WM&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-2-1.png)
 
@@ -84,7 +85,7 @@ A captura de tela abaixo foi retirada de um Windows 10, mostrando que a proteç�
 
 - Diretrizes de evidência de exemplo: forneça arquivos de log antivírus de cada dispositivo amostrado, mostrando que as atualizações são aplicadas diariamente.
 
-- Exemplo de evidência: a captura de tela a seguir mostra o Microsoft Defender atualizando pelo menos diariamente mostrando &#39;Evento 2000, Windows Defender&#39; qual é a atualização. O nome do host é mostrado, mostrando que isso foi tirado do sistema de escopo &quot; CLARANET-SBU-WM &quot; .
+- Exemplo de evidência: a captura de tela a seguir mostra o Microsoft Defender atualizando pelo menos diariamente mostrando &#39;Evento 2000, Windows Defender&#39; qual é a atualização. O nome do host é mostrado, mostrando que isso foi tirado do sistema no escopo &quot;CLARANET-SBU-WM&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-3.png)
 
@@ -94,11 +95,11 @@ A captura de tela abaixo foi retirada de um Windows 10, mostrando que a proteç�
 
 **Observação:** Se a verificação ao acessar não estiver habilitada, um mínimo de verificação diária e alerting_ **DEVE** _be habilitado.
 
-- Intenção: a intenção desse controle é garantir que o malware seja identificado rapidamente para minimizar o efeito que isso pode ter para o ambiente. Onde a verificação ao acessar é realizada e juntamente com o bloqueio automático de malware, isso ajudará a parar infecções de malware conhecidas pelo software antivírus. Onde a verificação no acesso&#39;não é desejável devido aos riscos de falsos positivos causarem paralisações de serviço, os mecanismos de verificação e alerta diários adequados (ou mais) precisam ser implementados para garantir uma resposta em tempo há tempo a infecções de malware para minimizar os danos.
+- Intenção: a intenção desse controle é garantir que o malware seja identificado rapidamente para minimizar o efeito que isso pode ter para o ambiente. Onde a verificação ao acessar é realizada e juntamente com o bloqueio automático de malware, isso ajudará a parar infecções de malware conhecidas pelo software antivírus. Onde a verificação no acesso não&#39;desejável devido aos riscos de falsos positivos causarem paralisações de serviço, mecanismos de verificação e alerta diários adequados (ou mais) precisam ser implementados para garantir uma resposta em tempo há tempo a infecções de malware para minimizar os danos.
 
-- Diretrizes de evidências de exemplo: forneça uma captura de tela para cada dispositivo no exemplo que oferece suporte a antivírus, mostrando que o antivírus está em execução no dispositivo e está configurado para verificação ao acessar (verificação em tempo real), **OU** fornecer uma captura de tela mostrando que a verificação periódica está habilitada para verificação diária, o alerta é configurado e a última data de verificação para cada dispositivo no exemplo.  
+- Diretrizes de evidências de exemplo: forneça uma captura  de tela para cada dispositivo no exemplo que oferece suporte a antivírus, mostrando que o antivírus está em execução no dispositivo e está configurado para verificação ao acessar (verificação em tempo real), **OU** fornecer uma captura de tela mostrando que a verificação periódica está habilitada para verificação diária, o alerta é configurado e a última data de verificação para cada  dispositivo no exemplo.
 
-- Exemplo de evidência: a captura de tela a seguir mostra que a proteção em tempo real está habilitada para o host, &quot; CLARANET-SBU-WM &quot; .
+- Exemplo de evidência: a captura de tela a seguir mostra que a proteção em tempo real está habilitada para o host, &quot;CLARANET-SBU-WM&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-4.png)
 
@@ -106,9 +107,9 @@ A captura de tela abaixo foi retirada de um Windows 10, mostrando que a proteç�
 
 - Intenção: a sofisticação do malware está evoluindo o tempo todo, juntamente com os graus variáveis de destruição que eles podem trazer. A intenção desse controle é impedir que o malware seja executado e, portanto, impedi-lo de executar sua carga potencialmente insustante, ou se o bloqueio automático não for uma opção, limitar a quantidade de tempo em que o malware pode causar danos ao alertar e responder imediatamente à possível infecção por malware.
 
-- Diretrizes de evidência de exemplo: forneça uma captura de tela para cada dispositivo no exemplo que oferece suporte a antivírus, mostrando que o antivírus está em execução no computador e é configurado para bloquear automaticamente malware, alerta ou quarentena e alerta. 
+- Diretrizes de evidência de exemplo: forneça uma captura  de tela para cada dispositivo no exemplo que oferece suporte a antivírus, mostrando que o antivírus está em execução no computador e é configurado para bloquear automaticamente malware, alerta ou quarentena e alerta.
 
-- Exemplo de Evidência 1: A captura de tela a seguir mostra que o host &quot; CLARANET-SBU-WM é configurado com proteção em tempo real para &quot; Microsoft Defender Antivírus. Como diz a configuração, isso localiza e impede que o malware seja instalado ou executado no dispositivo.
+- Exemplo de Evidência 1: A captura de tela a seguir mostra que o host &quot;CLARANET-SBU-WM&quot; está configurado com proteção em tempo real para Microsoft Defender Antivírus. Como diz a configuração, isso localiza e impede que o malware seja instalado ou executado no dispositivo.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-5.png)
 
@@ -150,7 +151,7 @@ A captura de tela abaixo foi retirada de um Windows 10, mostrando que a proteç�
 
 - Intenção: a intenção disso é validar que o controle do aplicativo está configurado no exemplo de acordo com a documentação.
 
-- Diretrizes de evidência de exemplo: forneça uma captura de _tela_ para cada dispositivo no exemplo para mostrar que ele tem controles de aplicativo configurados e ativados. Isso deve mostrar nomes de máquina, os grupos aos que pertencem e as políticas de controle de aplicativos aplicadas a esses grupos e máquinas.
+- Diretrizes de evidência de exemplo: forneça uma captura _de tela para_ cada dispositivo no exemplo para mostrar que ele tem controles de aplicativo configurados e ativados. Isso deve mostrar nomes de máquina, os grupos aos que pertencem e as políticas de controle de aplicativos aplicadas a esses grupos e máquinas.
 
 - Exemplo de evidência: a captura de tela a seguir mostra um objeto de Política de Grupo com Políticas de Restrição de Software habilitadas.
 
@@ -160,11 +161,11 @@ Esta próxima captura de tela mostra a configuração em linha com o controle ac
 
 ![Imagem](../media/UserGuidePhotos/Control-No-9-1.png)
 
-Esta próxima captura de tela mostra o Ambiente M365 e os Computadores incluídos no escopo que está sendo aplicado a este objeto GPO &#39;computador de domínio Configurações&#39;.
+Esta próxima captura de tela mostra o Ambiente do M365 e os Computadores incluídos no escopo que está sendo aplicado a este objeto GPO &#39;computador de domínio Configurações&#39;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-9-2.png)
 
-Esta captura de tela final mostra o servidor de escopo DBServer1 dentro da &quot; &quot; UO na captura de tela acima.
+Esta captura de tela final mostra o servidor de escopo &quot;DBServer1&quot; dentro da UO na captura de tela acima.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-9-3.png)
 
@@ -190,9 +191,9 @@ Esse grupo de controle de segurança está no escopo para ambientes de hospedage
 
 **Controle nº 11:** Forneça evidências de como novas vulnerabilidades de segurança são identificadas.
 
-- Intenção: a intenção desse controle é garantir que o processo está sendo seguido e ele&#39;robusto o suficiente para identificar novas vulnerabilidades de segurança em todo o ambiente. Isso pode não ser apenas os Sistemas Operacionais; pode incluir aplicativos em execução no ambiente e quaisquer dependências de código.
+- Intenção: o objetivo desse controle é garantir que o processo está sendo seguido e ele&#39;robusto o suficiente para identificar novas vulnerabilidades de segurança em todo o ambiente. Isso pode não ser apenas os Sistemas Operacionais; pode incluir aplicativos em execução no ambiente e quaisquer dependências de código.
 
-- Diretrizes de evidências de exemplo: as evidências podem ser fornecidas por meio de exibição de assinaturas para listas de email, revisão manual de fontes de segurança para vulnerabilidades recém-lançadas (seria necessário ser rastreado adequadamente com datas de data/hora das atividades, ou seja, com JIRA ou Azure DevOps), ferramentas que localizam softwares fora de data (por exemplo, poderia ser Snyk ao procurar bibliotecas de software descontodas ou poderia ser Nessus usando verificações autenticadas que identificam  software desa datado.).
+- Diretrizes de evidências de exemplo: as evidências podem ser fornecidas por meio de exibição de assinaturas para listas de email, revisão manual de fontes de segurança para vulnerabilidades recém-lançadas (seria necessário ser rastreada adequadamente com datas de data/hora das atividades, ou seja, com JIRA ou Azure DevOps), ferramentas que localizam softwares desaconsustados (por exemplo, poderia ser Snyk ao procurar bibliotecas de software desatada ou poderia ser Nessus usando verificações autenticadas que identificam  software desa datado.).
 
 **Observação** Se estiver usando o Nessus, isso precisará ser executado regularmente para identificar vulnerabilidades rapidamente. Recomendamos pelo menos semanalmente.
 
@@ -236,21 +237,21 @@ Esse grupo de controle de segurança está no escopo para ambientes de hospedage
 
 - Intenção: corrigir vulnerabilidades garante que os módulos diferentes que fazem parte da infraestrutura de tecnologia da informação (hardware, software e serviços) sejam mantidos atualizados e livres de vulnerabilidades conhecidas. A correção precisa ser executada assim que possível para minimizar o potencial de um incidente de segurança entre a liberação de detalhes de vulnerabilidade e o patch. Isso é ainda mais crítico em que a exploração de vulnerabilidades conhecidas como em natureza.
 
-- Diretrizes de evidência de exemplo: forneça uma captura de tela para todos os dispositivos no exemplo e componentes de software de suporte mostrando que os patches são instalados em linha com o processo de correção documentado. 
+- Diretrizes de evidência de exemplo: forneça uma captura  de tela para todos os dispositivos no exemplo e componentes de software de suporte mostrando que os patches são instalados em linha com o processo de correção documentado.
 
-- Exemplo de evidência: a captura de tela a seguir mostra que o componente do sistema de escopo CLARANET-SBU-WM está realizando Windows atualizações em linha com a política &quot; &quot; de correção.
+- Exemplo de evidência: &quot;a captura de tela a seguir mostra que o componente do sistema de escopo CLARANET-SBU-WM&quot; está realizando Windows atualizações em linha com a política de correção.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-14.png)
 
-**Observação:** A correção de todos os componentes do sistema no escopo precisa ser evidência. Isso inclui coisas como; Atualizações do sistema operacional, atualizações de aplicativos/componentes (i.e__.,_ _Apache Tomcat, OpenSSL, etc.), Dependências de Software (por exemplo, JQuery, AngularJS, etc.), etc._
+**Observação:** A correção de todos os componentes do sistema no escopo precisa ser evidência. Isso inclui coisas como; Atualizações do sistema operacional, Atualizações de Aplicativo/Componente (i.e__.,_ _Apache Tomcat, OpenSSL, etc.), Dependências de Software (por exemplo, JQuery, AngularJS, etc.), etc._
 
 **Controle nº 15:** Forneça evidências demonstradas de que quaisquer sistemas operacionais e componentes de software sem suporte não são usados no ambiente.
 
 - Intenção: o software que não está sendo mantido pelos fornecedores sofrerá, horas extras, de vulnerabilidades conhecidas que não são corrigidas. Portanto, o uso de sistemas operacionais e componentes de software sem suporte não deve ser usado em ambientes de produção.
 
-- Diretrizes de evidência de exemplo: forneça uma captura de tela para cada dispositivo no exemplo mostrando a versão do sistema operacional em execução (incluindo o nome do servidor&#39;na captura de tela).  Além disso, forneça evidências de que os componentes de software em execução no ambiente estão executando versões com suporte. Isso pode ser feito fornecendo a saída de relatórios de verificação de vulnerabilidade interna (fornecendo verificação autenticada incluída) e/ou a saída de ferramentas que verificam bibliotecas de terceiros, como [Snyk,](https://snyk.io/) [Trivy](https://github.com/aquasecurity/trivy) ou [NPM Audit](https://docs.npmjs.com/cli/v7/commands/npm-audit). Se estiver sendo executado somente no PaaS, somente a correção de biblioteca de terceiros precisará ser coberta pelos grupos de controle de correção.
+- Diretrizes de evidência de exemplo: forneça uma captura  de tela para cada dispositivo no exemplo mostrando a versão do sistema operacional em execução (incluindo o nome do servidor&#39;na captura de tela). Além disso, forneça evidências de que os componentes de software em execução no ambiente estão executando versões com suporte. Isso pode ser feito fornecendo a saída de relatórios de verificação de vulnerabilidade interna (fornecendo verificação autenticada incluída) e/ou a saída de ferramentas que verificam bibliotecas de terceiros, como [Snyk](https://snyk.io/), [Trivy](https://github.com/aquasecurity/trivy) ou [NPM Audit](https://docs.npmjs.com/cli/v7/commands/npm-audit). Se estiver sendo executado somente no PaaS, somente a correção de biblioteca de terceiros precisará ser coberta pelos grupos de controle de correção.
 
-- Exemplo de evidência: as evidências a seguir mostram que o componente do sistema no escopo, o THOR, está executando um software com suporte do fornecedor, já que o Nessus não&#39;sinalização de problemas.
+- Evidência de exemplo: as evidências a seguir mostram que o componente do sistema no escopo, o THOR, está executando um software com suporte do fornecedor, já que o Nessus não&#39;sinalização de problemas.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-15.png)
 
@@ -258,13 +259,13 @@ Esse grupo de controle de segurança está no escopo para ambientes de hospedage
 
 - Exemplo de evidência 2
 
-Esta captura de tela mostra que o componente do sistema no escopo &quot; CLARANET-SBU-WM está sendo executado em uma &quot; versão Windows suporte.
+Esta captura de tela mostra que &quot;o componente do sistema no escopo CLARANET-SBU-WM&quot; está sendo executado em uma versão Windows suporte.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-15-1.png)
 
 - Exemplo de evidência 3
 
-A captura de tela a seguir é da saída [Trivy,](https://github.com/aquasecurity/trivy) que o relatório completo não&#39;listar nenhum aplicativo sem suporte.
+A captura de tela a seguir é da saída [Trivy](https://github.com/aquasecurity/trivy) , que o relatório completo não&#39;listar nenhum aplicativo sem suporte.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-15-2.png)
 
@@ -280,9 +281,9 @@ Ao introduzir avaliações regulares de vulnerabilidade, as organizações podem
 
 - Intenção: a verificação de vulnerabilidade procura possíveis pontos fracos em um sistema de computador, redes e aplicativos Web de organizações para identificar falhas que podem levar a violações de segurança e à exposição de dados confidenciais. A verificação de vulnerabilidade geralmente é necessária por padrões do setor e regulamentos governamentais, por exemplo, o PCI DSS (Payment Card Industry Data Security Standard).
 
-- Um relatório da Métrica de Segurança intitulado Guia de Métricas de Segurança &quot; [2020](https://info.securitymetrics.com/pci-guide-2020) para Conformidade com PCI DSS afirma que o &#39;em média levou 166 dias a partir do momento em que uma organização foi vista com vulnerabilidades para um invasor comprometer o &quot; sistema. Depois de comprometidos, os invasores tiveram acesso a dados confidenciais por uma média de 127 dias&#39;, portanto, esse controle tem como objetivo identificar possíveis deficiências de segurança no ambiente no escopo.
+- &quot; Um relatório da Métrica de Segurança intitulado [Guia de Métricas de Segurança 2020 para Conformidade com PCI DSS](https://info.securitymetrics.com/pci-guide-2020)&quot; afirma que o &#39;, em média, levou 166 dias a partir do momento em que uma organização foi vista com vulnerabilidades para um invasor comprometer o sistema. Depois de comprometidos, os invasores tiveram acesso a dados confidenciais por uma média de 127 dias&#39;, portanto, esse controle tem como objetivo identificar a possível deficiência de segurança no ambiente no escopo.
 
-- Diretrizes de evidência de exemplo: forneça o(s) relatório(s) de verificação completo para cada trimestre&#39;verificações de vulnerabilidade que foram realizadas nos últimos 12 meses. Os relatórios devem dizer claramente os destinos para validar se o espaço público completo está incluído e, quando aplicável, cada sub-rede interna. Forneça **relatórios de** verificação ALL para **cada** trimestre.
+- Diretrizes de evidência de exemplo: forneça o(s) relatório(s) de verificação completo para cada trimestre&#39;verificações de vulnerabilidade que foram realizadas nos últimos 12 meses. Os relatórios devem dizer claramente os destinos para validar se o espaço público completo está incluído e, quando aplicável, cada sub-rede interna. Forneça **relatórios de verificação ALL** para **cada** trimestre.
 
 - Exemplo de evidência: Exemplo de evidência seria fornecer os relatórios de verificação da ferramenta de verificação que está sendo usada. Cada trimestre&#39;relatórios de verificação devem ser fornecidos para revisão. A verificação precisa incluir todos os componentes do sistema de ambientes; cada sub-rede interna e cada ENDEREÇO IP público/URL que está disponível para o ambiente.
 
@@ -292,7 +293,7 @@ Ao introduzir avaliações regulares de vulnerabilidade, as organizações podem
 
 - Diretrizes de evidência de exemplo: forneça artefatos adequados (ou seja, capturas de tela) mostrando que uma amostra de vulnerabilidades descobertas da verificação de vulnerabilidades são corrigidas em linha com as janelas de correção já fornecidas no Controle 13 acima.
 
-- Exemplo de evidência: a captura de tela a seguir mostra uma verificação do Nessus do ambiente no escopo (um único computador neste exemplo chamado THOR ) mostrando vulnerabilidades no 2º de agosto de &quot; &quot; 2021.
+- Exemplo de evidência: a captura de tela a seguir mostra uma verificação do Nessus do ambiente no escopo (um único computador neste exemplo chamado THOR&quot;) mostrando vulnerabilidades no 2º de agosto &quot;de 2021.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-17.png)
 
@@ -308,7 +309,7 @@ Firewalls geralmente fornecem um limite de segurança entre ambientes confiávei
 
 **Controle nº 18:** Forneça documentação de política que rege práticas e procedimentos de gerenciamento de firewall.
 
-- Intenção: firewalls são uma primeira linha de defesa importante em uma estratégia de segurança em camadas (defesa em profundidade), protegendo ambientes contra zonas de rede menos confiáveis. Os firewalls normalmente controlarão fluxos de tráfego com base em Endereços IP e protocolos/portas, mais firewalls ricos em recursos também podem fornecer defesas adicionais de camada de aplicativo inspecionando o tráfego de aplicativos para proteger contra uso indevido, vulnerabilidades e ameaças com base nos aplicativos que estão sendo &quot; &quot; acessados. Essas proteções são tão boas quanto a configuração do firewall, portanto, políticas de firewall fortes e procedimentos de suporte precisam estar em uso para garantir que eles sejam configurados para fornecer proteção adequada de ativos internos. Por exemplo, um firewall com uma regra para permitir todo o tráfego de QUALQUER origem para QUALQUER destino está apenas atuando como um roteador.
+- Intenção: firewalls são uma primeira linha de defesa importante em uma estratégia de segurança em camadas (defesa em profundidade), protegendo ambientes contra zonas de rede menos confiáveis. Os firewalls normalmente controlarão fluxos de tráfego com base em Endereços IP e protocolos/portas, mais firewalls ricos em recursos também podem fornecer defesas adicionais de camada de aplicativo inspecionando o tráfego de aplicativos para proteger contra uso indevido, vulnerabilidades e ameaças com base nos aplicativos &quot;&quot; que estão sendo acessados. Essas proteções são tão boas quanto a configuração do firewall, portanto, políticas de firewall fortes e procedimentos de suporte precisam estar em uso para garantir que eles sejam configurados para fornecer proteção adequada de ativos internos. Por exemplo, um firewall com uma regra para permitir todo o tráfego de QUALQUER origem para QUALQUER destino está apenas atuando como um roteador.
 
 - Diretrizes de evidência de exemplo: fornecer sua documentação de suporte de política/procedimento de firewall completo. Este documento deve abranger todos os pontos abaixo e quaisquer práticas recomendadas adicionais aplicáveis ao seu ambiente.
 
@@ -360,7 +361,7 @@ Na captura de tela abaixo, há três regras de entrada, cada uma mostrando o NAT
 
 **Controle No. 22:** Forneça evidências demonstraveis de que todo o tráfego permitido pelo firewall passa por um processo de aprovação.
 
-- Intenção: como os firewalls são uma barreira defensiva entre o tráfego não confiável e os recursos internos e entre redes de diferentes níveis de confiança, os firewalls precisam ser configurados com segurança e garantir que apenas o tráfego necessário para operações comerciais seja habilitado. Ao permitir um fluxo de tráfego desnecessário ou um fluxo de tráfego muito permissivo, isso pode introduzir pontos fracos dentro da defesa no limite dessas várias zonas de rede. Ao estabelecer um processo de aprovação robusto para todas as alterações de firewall, o risco de introduzir uma regra que introduz um risco significativo ao ambiente é reduzido. O Relatório de Investigação de Violação de Dados do Verizon&#39;[2020](https://enterprise.verizon.com/en-gb/resources/reports/dbir/) destaca que o Erro&#39;s , que inclui configurações incorretamente, é o único tipo de ação que está aumentando consistentemente ano &quot; a &quot; ano.
+- Intenção: como os firewalls são uma barreira defensiva entre o tráfego não confiável e os recursos internos e entre redes de diferentes níveis de confiança, os firewalls precisam ser configurados com segurança e garantir que apenas o tráfego necessário para operações comerciais seja habilitado. Ao permitir um fluxo de tráfego desnecessário ou um fluxo de tráfego muito permissivo, isso pode introduzir pontos fracos dentro da defesa no limite dessas várias zonas de rede. Ao estabelecer um processo de aprovação robusto para todas as alterações de firewall, o risco de introduzir uma regra que introduz um risco significativo ao ambiente é reduzido. O Relatório de Investigação de Violação de Dados do Verizon&#39;[2020](https://enterprise.verizon.com/en-gb/resources/reports/dbir/) &quot;destaca que o Erro&#39;s&quot;, que inclui configurações incorretamente, é o único tipo de ação que está aumentando consistentemente ano a ano.
 
 - Diretrizes de evidência de exemplo: as evidências podem estar na forma de documentação mostrando uma solicitação de alteração de firewall sendo autorizada, que pode estar a minutos de uma reunião cab (Change Advisor Board) ou por um sistema de controle de alteração que controla todas as alterações.
 
@@ -370,11 +371,11 @@ Na captura de tela abaixo, há três regras de entrada, cada uma mostrando o NAT
 
 **Controle No. 23:** Forneça evidências demonstraveis de que a base de regras de firewall está configurada para soltar o tráfego não definido explicitamente.
 
-- Intenção: a maioria dos firewalls processará as regras em uma abordagem de cima para baixo para tentar encontrar uma regra correspondente. Se uma regra for igual, a ação dessa regra será aplicada e todo o processamento das regras será parado. Se nenhuma regra correspondente for encontrada, por padrão, o tráfego será negado. A intenção desse controle é que, se o firewall não&#39;padrão para soltar o tráfego se nenhuma regra de correspondência for encontrada, a base de regras deverá incluir uma regra Negar Tudo no final de todas as listas de &quot; &quot; firewall.  Isso é para garantir que o firewall&#39;padrão em um estado de permissão padrão ao processar as regras, permitindo assim que o tráfego que&#39;tenha sido definido explicitamente.
+- Intenção: a maioria dos firewalls processará as regras em uma abordagem de cima para baixo para tentar encontrar uma regra correspondente. Se uma regra for igual, a ação dessa regra será aplicada e todo o processamento das regras será parado. Se nenhuma regra correspondente for encontrada, por padrão, o tráfego será negado. A intenção desse controle é que, se o firewall não&#39;padrão para soltar o tráfego se nenhuma regra de correspondência for encontrada, a &quot;base de regras deverá incluir uma regra Negar&quot; Tudo no final de **todas** as listas de firewall. Isso é para garantir que o firewall não&#39;padrão em um estado de permissão padrão ao processar as regras, permitindo assim que o tráfego que&#39;tenha sido definido explicitamente.
 
-- Diretrizes de evidência de exemplo: as evidências podem ser fornecidas por meio da configuração do firewall, ou por capturas de tela mostrando todas as regras de firewall mostrando uma regra Negar Tudo no final, ou se o firewall descartar o tráfego que&#39;não corresponder a uma regra por padrão, então fornecerá uma captura de tela de todas as regras de firewall e um link para guias administrativos do fornecedor destacando que, por padrão, o firewall soltará todo o tráfego não &quot; &quot; corresponder.
+- Diretrizes de evidência de exemplo: as evidências podem ser fornecidas por meio da configuração do firewall, ou por capturas de tela mostrando todas as regras de firewall mostrando uma regra Negar&quot; Tudo no final, ou se o firewall descartar o tráfego que&#39;não corresponder a uma regra por padrão, então fornecerá uma captura de tela de todas as regras de firewall &quot;e um link para guias administrativos do fornecedor destacando que, por padrão, o firewall soltará todo o tráfego não corresponder.
 
-- Exemplo de evidência: abaixo está uma captura de tela da base de regras de firewall watchGuard que demonstra que nenhuma regra está configurada para permitir todo o tráfego. Não há regra de negação no final porque o WatchGuard soltará o tráfego que não&#39;corresponder por padrão.
+- Exemplo de evidência: abaixo está uma captura de tela da base de regras de firewall watchGuard que demonstra que nenhuma regra está configurada para permitir todo o tráfego. Não há regra de negação no final porque o WatchGuard soltará o tráfego que&#39;corresponder por padrão.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-23.png)
 
@@ -391,11 +392,11 @@ O seguinte link da Central de Ajuda do WatchGuard; [https://www.watchguard.com/h
 - Exemplo de evidência: a captura de tela abaixo mostra a saída [do SSLScan](https://github.com/rbsec/sslscan) na interface do Administrador da Web do firewall WatchGuard na porta TCP 8080. Isso mostra o TLS 1.2 ou superior com uma codificação de criptografia mínima do AES-128bit.
 ![Imagem](../media/UserGuidePhotos/Control-No-24.png)
 
-**Observação**: os firewalls watchGuard também suportam funções administrativas usando SSH (Porta TCP 4118) e Gerenciador de Sistema WatchGuard (Portas TCP 4105 &amp; 4117). As evidências dessas interfaces administrativas que não são do console também precisam ser fornecidas.
+**Observação**: os firewalls watchGuard também suportam funções administrativas usando SSH (Porta TCP 4118) e Gerenciador do Sistema WatchGuard (Portas TCP 4105 &amp; 4117). As evidências dessas interfaces administrativas que não são do console também precisam ser fornecidas.
 
 **Controle nº 25:** Forneça evidências demonstrativas de que você está executando avaliações de regras de firewall pelo menos a cada 6 meses.
 
-- Intenção: com o passar do tempo, há um risco de ressução de configuração nos componentes do sistema com o ambiente no escopo. Isso geralmente pode introduzir inconfigurações ou inconfigurações que podem aumentar o risco de comprometimento com o ambiente. O sistema de configuração pode ser introduzido por vários motivos, como alterações temporárias para ajudar na solução de problemas, alterações temporárias para alterações funcionais ad hoc, para introduzir correções rápidas a problemas que às vezes podem ser muito permissivos devido às pressões de introduzir uma correção rápida. Como exemplo, você pode introduzir uma regra de firewall temporária Permitir que &quot; Todos &quot; superem um problema urgente. A intenção desse controle é dupla, primeiro para identificar onde há equívocos que podem introduzir inconfigurações e, em segundo lugar, ajudar a identificar regras de firewall que não são mais necessárias e, portanto, podem ser removidas, ou seja, se um serviço tiver sido removido, mas a regra de firewall tiver sido deixada para trás.
+- Intenção: com o passar do tempo, há um risco de ressução de configuração nos componentes do sistema com o ambiente no escopo. Isso geralmente pode introduzir inconfigurações ou inconfigurações que podem aumentar o risco de comprometimento com o ambiente. O sistema de configuração pode ser introduzido por vários motivos, como alterações temporárias para ajudar na solução de problemas, alterações temporárias para alterações funcionais ad hoc, para introduzir correções rápidas a problemas que às vezes podem ser muito permissivos devido às pressões de introduzir uma correção rápida. Como exemplo, você pode introduzir uma regra de firewall temporária &quot;Permitir que Todos&quot; superem um problema urgente. A intenção desse controle é dupla, primeiro para identificar onde há equívocos que podem introduzir inconfigurações e, em segundo lugar, ajudar a identificar regras de firewall que não são mais necessárias e, portanto, podem ser removidas, ou seja, se um serviço tiver sido removido, mas a regra de firewall tiver sido deixada para trás.
 
 - Diretrizes de evidências de exemplo: as evidências precisam ser capazes de demonstrar que as reuniões de revisão estão ocorrendo. Isso pode ser feito compartilhando minutos de reunião da revisão do firewall e qualquer evidência de controle de alteração adicional que mostre todas as ações tomadas na revisão. Verifique se as datas estão presentes&#39;precisamos ver no mínimo duas dessas reuniões (ou seja, a cada seis meses)
 
@@ -413,11 +414,11 @@ A captura de tela a seguir mostra evidências de uma revisão do Firewall que oc
 
 **Controle nº 26:** Forneça evidências demonstradas de que o WaF (Web Application Firewall) está configurado para monitorar, alertar e bloquear ativamente o tráfego mal-intencionado.
 
-- Intenção: esse controle está no local para confirmar se o WAF está no local para todas as conexões web de entrada e que ele está configurado para bloquear ou alertar para o tráfego mal-intencionado. Para fornecer uma camada adicional de defesa para o tráfego web, os WAFs precisam ser configurados para todas as conexões web de entrada, caso contrário, os atores de ameaças externos poderiam ignorar os WAFs projetados para fornecer essa camada adicional de proteção. Se o WAF não&#39;configurado para bloquear ativamente o tráfego mal-intencionado, o WAF precisará ser capaz de fornecer um alerta imediato para a equipe que possa reagir rapidamente ao tráfego potencial mal-intencionado para ajudar a manter a segurança do ambiente e parar os ataques.
+- Intenção: esse controle está no local para confirmar se o WAF está no local para todas as conexões web de entrada e que ele está configurado para bloquear ou alertar para o tráfego mal-intencionado. Para fornecer uma camada adicional de defesa para o tráfego web, os WAFs precisam ser configurados para todas as conexões web de entrada, caso contrário, os atores de ameaças externos poderiam ignorar os WAFs projetados para fornecer essa camada adicional de proteção. Se o WAF não&#39;configurado para bloquear ativamente o tráfego mal-intencionado, o WAF precisa ser capaz de fornecer um alerta imediato para a equipe que pode reagir rapidamente ao tráfego potencial mal-intencionado para ajudar a manter a segurança do ambiente e parar os ataques.
 
 - Diretrizes de evidência de exemplo: forneça a saída de configuração do WAF que realça as conexões da Web de entrada que estão sendo atendidas e que a configuração bloqueia ativamente o tráfego mal-intencionado ou está monitorando e alertando. Como alternativa, capturas de tela das configurações específicas podem ser compartilhadas para demonstrar que uma organização está a atender a esse controle.
 
-- Exemplo de evidência: as capturas de tela a seguir mostram que a política WAF do Gateway de Aplicativos da Contoso Production Azure está habilitada e configurada para o modo&#39; de Prevenção &#39;, que soltará ativamente o tráfego mal-intencionado.
+- Exemplo de evidência: as capturas de tela a seguir mostram que a política WA &#39;F do Gateway de Aplicativos da Produção contoso Azure está habilitada e configurada para o modo&#39; de Prevenção&#39;, que soltará ativamente o tráfego mal-intencionado.
 
 
 ![Imagem](../media/UserGuidePhotos/Control-No-26.png)
@@ -432,7 +433,7 @@ A captura de tela abaixo mostra as conexões da Web de entrada usando este WAF.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-26-2.png)
 
-A captura de tela a seguir mostra o CoreRules da Contoso AppGW mostrando que isso é \_ \_ para o serviço api.contoso.com.
+A captura de tela a seguir mostra o ContosoAppGWCoreRules\_\_ mostrando que isso é para o serviço api.contoso.com.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-26-3.png)
 
@@ -442,7 +443,7 @@ A captura de tela a seguir mostra o CoreRules da Contoso AppGW mostrando que iss
 
 - Diretrizes de evidência de exemplo: forneça evidências de configuração por meio de uma exportação de configuração ou capturas de tela que mostram que o Descarregamento SSL é suportado e configurado.
 
-- Exemplo de evidência: no Gateway de Aplicativo do Azure, a configuração de um Descarregamento de SSL habilitado para SSL, consulte a página Visão geral do término [do TLS e TLS](https://docs.microsoft.com/en-us/azure/application-gateway/ssl-overview) de ponta a ponta com documentos do Gateway de Aplicativo da Microsoft. A captura de tela a seguir mostra isso configurado para o Gateway de Aplicativo do Azure de Produção contoso.
+- Exemplo de evidência: no Gateway de Aplicativo do Azure, a configuração de um Descarregamento de SSL habilitado para SSL, consulte a página Visão geral do término [do TLS e TLS](https://docs.microsoft.com/azure/application-gateway/ssl-overview) de ponta a ponta com documentos do Gateway de Aplicativo da Microsoft. A captura de tela a seguir mostra isso configurado para o Gateway de Aplicativo do Azure de Produção contoso.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-27.png)
 
@@ -499,9 +500,9 @@ Esta próxima captura de tela mostra uma assinatura separada do Azure para o amb
 
 - Intenção: conforme já discutido acima, as organizações não implementarão medidas de segurança de um ambiente de desenvolvimento/teste com o mesmo vigor do ambiente de produção. Portanto, ao utilizar dados de produção confidenciais nesses ambientes de desenvolvimento/teste, você está aumentando o risco de um comprometimento e deve evitar o uso de dados vivos/confidenciais nesses ambientes de desenvolvimento/teste.
 
-**Observação:** Você pode usar dados ao vivo em ambientes de desenvolvimento/teste, desde que o desenvolvimento/teste seja incluído no escopo da avaliação para que a segurança possa ser avaliada em relação aos controles de certificação Microsoft 365.
+**Observação:** Você pode usar dados ao vivo em ambientes de desenvolvimento/teste, desde que o desenvolvimento/teste seja incluído no escopo da avaliação para que a segurança possa ser avaliada em relação aos controles Microsoft 365 Certificação.
 
-- Diretrizes de evidência de exemplo: as evidências podem ser fornecidas compartilhando capturas de tela da saída da mesma consulta SQL em um banco de dados de produção (rediscar qualquer informação confidenciais) e o banco de dados de desenvolvimento/teste. A saída dos mesmos comandos deve produzir conjuntos de dados diferentes. Onde os arquivos estão sendo armazenados, a exibição do conteúdo das pastas em ambos os ambientes também deve demonstrar conjuntos de dados diferentes.
+- Diretrizes de evidência de exemplo: as evidências podem ser fornecidas compartilhando capturas de tela da saída da mesma consulta SQL em um banco de dados de produção (rediscar qualquer informação sensível) e o banco de dados de desenvolvimento/teste. A saída dos mesmos comandos deve produzir conjuntos de dados diferentes. Onde os arquivos estão sendo armazenados, a exibição do conteúdo das pastas em ambos os ambientes também deve demonstrar conjuntos de dados diferentes.
 
 - Exemplo de evidência: a captura de tela a seguir mostra os três principais registros (para envio de evidências, forneça os 20 principais) do Banco de Dados de Produção.
 
@@ -533,8 +534,8 @@ Os dois tíquetes abaixo mostram o impacto da alteração no sistema e os proced
 
 Durante todo o processo, observe que a pessoa que está fazendo o trabalho, a pessoa que está relatando sobre ele e a pessoa que aprova o trabalho a ser feito são pessoas diferentes.
 
-![Imagem ](../media/UserGuidePhotos/Control-No-32-3.png)
- ![ da imagem](../media/UserGuidePhotos/Control-No-32-4.png)
+![PicturePicture](../media/UserGuidePhotos/Control-No-32-3.png)
+![](../media/UserGuidePhotos/Control-No-32-4.png)
 
 O tíquete acima mostra que as alterações foram aprovadas para implementação no ambiente de produção. A caixa à direita mostra que o teste funcionou e foi bem-sucedido e que as alterações agora foram implementadas no Ambiente Prod.
 
@@ -562,9 +563,9 @@ As organizações envolvidas em atividades de desenvolvimento de software geralm
 
 - Intenção: as organizações precisam fazer tudo ao seu alcance para garantir que o software seja desenvolvido com segurança e livre de vulnerabilidades. Para conseguir isso, um ciclo de vida de desenvolvimento de software seguro robusto (SDLC) e práticas recomendadas de codificação seguras devem ser estabelecidas para promover técnicas de codificação seguras e garantir o desenvolvimento em todo o processo de desenvolvimento de software. A intenção é reduzir o número e a gravidade das vulnerabilidades no software.
 
-- Diretrizes de evidência de exemplo: fornecer a documentação de suporte e/ou SDLC documentada que demonstra que um ciclo de vida de desenvolvimento seguro está em uso e que as diretrizes são fornecidas para todos os desenvolvedores promoverem a prática de melhor codificação segura. Confira o [OWASP no SDLC](https://owasp.org/www-project-integration-standards/writeups/owasp_in_sdlc/) e o Modelo de Maturidade de Garantia de [Software OWASP](https://owaspsamm.org/model/) (SAMM).
+- Diretrizes de evidência de exemplo: fornecer a documentação de suporte e/ou SDLC documentada que demonstra que um ciclo de vida de desenvolvimento seguro está em uso e que as diretrizes são fornecidas para todos os desenvolvedores promoverem a prática de melhor codificação segura. Confira o [OWASP no SDLC](https://owasp.org/www-project-integration-standards/writeups/owasp_in_sdlc/) e o Modelo de Maturidade de [Garantia de Software OWASP](https://owaspsamm.org/model/) (SAMM).
 
-- Exemplo de evidência: a seguir está um extrato do Procedimento de Desenvolvimento de Software Seguro da Contoso&#39;, que demonstra práticas seguras de desenvolvimento e codificação.
+- Exemplo de evidência: este é um extrato da Contoso&#39;Procedimento de Desenvolvimento de Software Seguro, que demonstra práticas seguras de desenvolvimento e codificação.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-34.png)
 
@@ -580,13 +581,13 @@ As organizações envolvidas em atividades de desenvolvimento de software geralm
 
 - Intenção: a intenção com esse controle é executar uma revisão de código por outro desenvolvedor para ajudar a identificar quaisquer erros de codificação que poderiam introduzir uma vulnerabilidade no software. A autorização deve ser estabelecida para garantir que as revisões de código sejam realizadas, o teste seja feito, etc. antes da implantação. A etapa de autorização pode validar se os processos corretos foram seguidos, o que sublhia o SDLC definido acima.
 
-- Diretrizes de evidência de exemplo: forneça evidências de que o código passa por uma revisão por pares e deve ser autorizado antes que ele possa ser aplicado ao ambiente de produção. Essas evidências podem ser por meio de uma exportação de tíquetes de alteração, demonstrando que as análises de código foram realizadas e as alterações autorizadas, ou pode ser por meio de software de revisão de código, como Crucible ( [https://www.atlassian.com/software/crucible](https://www.atlassian.com/software/crucible) ).
+- Diretrizes de evidência de exemplo: forneça evidências de que o código passa por uma revisão por pares e deve ser autorizado antes que ele possa ser aplicado ao ambiente de produção. Essas evidências podem ser por meio de uma exportação de tíquetes de alteração, demonstrando que as revisões de código foram realizadas e as alterações autorizadas, ou pode ser por meio de software de revisão de código, como Crucible ([https://www.atlassian.com/software/crucible](https://www.atlassian.com/software/crucible)).
 
 - Exemplo de evidência
 
 ![Imagem](../media/UserGuidePhotos/Control-No-35.png)Abaixo está um tíquete que mostra que as alterações de código passam por um processo de revisão e autorização por alguém que não seja o desenvolvedor original. Ele mostra que uma revisão de código foi solicitada pelo destinatário e será atribuída a outra pessoa para a revisão de código.
 
-A imagem abaixo mostra que a revisão de código foi atribuída a alguém diferente do desenvolvedor original, conforme mostrado pela seção realçada no lado direito da imagem abaixo. No lado esquerdo, você pode ver que o código foi revisado e recebeu um status &#39;REVISÃO DE CÓDIGO PASSADO&#39; status pelo revistor de código.
+A imagem abaixo mostra que a revisão de código foi atribuída a alguém diferente do desenvolvedor original, conforme mostrado pela seção realçada no lado direito da imagem abaixo. No lado esquerdo, você pode ver que o código foi revisado e recebeu um status &#39;REVISÃO DE CÓDIGO PASSADO&#39; pelo revistor de código.
 
 O tíquete agora deve obter aprovação de um gerente antes que as alterações possam ser colocadas em sistemas de produção em tempo há tempo.
 
@@ -604,7 +605,7 @@ Observe que em todo o processo há três pessoas envolvidas, o desenvolvedor ori
 
 - Diretrizes de evidência de exemplo: forneça evidências por meio de certificados, se realizadas por uma empresa de treinamento externo, ou fornecendo capturas de tela dos diários de treinamento ou outros artefatos que demonstram que os desenvolvedores participaram do treinamento. Se esse treinamento for realizado por meio de recursos internos, forneça evidências do material de treinamento também.
 
-- Exemplo de evidência: a seguir está o email solicitando que a equipe da DevOps seja inscrita no Treinamento Anual dos Dez Primeiros Treinamentos da OWASP
+- Exemplo de evidência: abaixo está o email solicitando que a equipe DevOps equipe seja inscrita no Treinamento Anual dos Dez Primeiros Treinamentos da OWASP
 
 ![Imagem](../media/UserGuidePhotos/Control-No-36.png)
 
@@ -630,7 +631,7 @@ A seguir, mostra que o treinamento foi solicitado com justificativa e aprovaçã
 
 - Diretrizes de evidência de exemplo: forneça evidências por meio de capturas de tela do repositório de código que o acesso é restrito a indivíduos necessários, incluindo privilégios diferentes.
 
-- Exemplo de evidência: a captura de tela a seguir mostra membros do projeto Clientes no &quot; &quot; GitLab, que é o &quot; Portal do Cliente &quot; contoso. Como pode ser visto na captura de tela, os usuários têm funções diferentes &quot; para limitar o acesso ao &quot; projeto.
+- Exemplo de evidência: a captura de tela a seguir mostra membros do &quot;projeto Clientes&quot; no GitLab, que é o Portal&quot; do Cliente contoso&quot;. Como pode ser visto na captura de tela, os usuários têm funções &quot;&quot; diferentes para limitar o acesso ao projeto.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-38.png)
 
@@ -642,7 +643,7 @@ As práticas de gerenciamento de contas seguras são importantes, pois as contas
 
 - Intenção: as contas de usuário continuam a ser direcionadas por agentes de ameaças e, muitas vezes, serão a fonte de um comprometimento de dados. Ao configurar contas excessivamente permissivas, as organizações não só aumentarão o pool de contas&#39; privilegiadas do &#39;que podem ser aproveitadas por um ator de ameaças para executar uma violação de dados, mas também podem aumentar o risco de exploração bem-sucedida de uma vulnerabilidade que exigiria privilégios específicos para ter êxito.
 
--  A BeyondTrust produz um Relatório de Vulnerabilidades da Microsoft a cada ano que analisa as vulnerabilidades de segurança da Microsoft para o ano anterior e detalha porcentagens dessas vulnerabilidades que dependem da conta de usuário que tem direitos &quot; &quot; de administrador. Em uma postagem recente do blog Novo Relatório de Vulnerabilidades da Microsoft revela um aumento de 48% em vulnerabilidades como eles poderiam ser atenuados com o mínimo privilégio , 90% das vulnerabilidades críticas no &quot; Internet Explorer, 85% das [vulnerabilidades críticas &amp; ](https://www.beyondtrust.com/blog/entry/microsoft-vulnerabilities-report)no Microsoft Edge e 100% das vulnerabilidades críticas no Microsoft Outlook teriam sido atenuadas removendo direitos de &quot; administrador. Para oferecer suporte ao gerenciamento seguro de contas, as organizações precisam garantir políticas e procedimentos de suporte que promovam as práticas recomendadas de segurança e sejam seguidos para atenuar essas ameaças.
+-  A BeyondTrust &quot;produz um Relatório de Vulnerabilidades da Microsoft&quot; a cada ano que analisa as vulnerabilidades de segurança da Microsoft para o ano anterior e detalha porcentagens dessas vulnerabilidades que dependem da conta de usuário que tem direitos de administrador. Em uma postagem recente do blog &quot; Novo Relatório de Vulnerabilidades da Microsoft revela um aumento de [48% &amp;](https://www.beyondtrust.com/blog/entry/microsoft-vulnerabilities-report)&quot;em vulnerabilidades como eles poderiam ser atenuados com privilégio mínimo, 90% das vulnerabilidades críticas no Internet Explorer, 85% das vulnerabilidades críticas no Microsoft Edge e 100% das vulnerabilidades críticas no Microsoft Outlook teriam sido atenuadas removendo direitos de administrador. Para oferecer suporte ao gerenciamento seguro de contas, as organizações precisam garantir políticas e procedimentos de suporte que promovam as práticas recomendadas de segurança e sejam seguidos para atenuar essas ameaças.
 
 - Diretrizes de evidência de exemplo: fornecer as políticas e documentos de procedimento documentados que abrangem as práticas de gerenciamento de sua conta. No mínimo, os tópicos abordados devem se alinhar aos controles dentro do Microsoft 365 Certificação.
 
@@ -660,19 +661,19 @@ As práticas de gerenciamento de contas seguras são importantes, pois as contas
 
 - Diretrizes de evidências de exemplo: há várias maneiras nas quais as evidências podem ser coletadas para dar suporte a esse controle. Capturas de tela de usuários configurados em todos os componentes do sistema podem ajudar, ou seja, capturas de tela dos arquivos Linux /etc/shadow e /etc/passwd ajudarão a demonstrar se as contas foram desabilitadas. Observe que o arquivo /etc/shadow seria necessário para demonstrar que as contas estão realmente desabilitadas, observando que o hash de senha começa com um caractere inválido, como &#39;!&#39; indicando que a senha não é usada. O conselho seria desabilitar apenas alguns caracteres da senha e redactar o restante. Outras opções seriam para sessões de compartilhamento de tela em que o avaliador era capaz de experimentar manualmente as credenciais padrão, por exemplo, na discussão acima sobre o Dell iDRAC, o assessor precisa tentar se autenticar em todas as interfaces iDRAC da Dell usando as credenciais padrão.
 
-- Exemplo de evidência: a captura de tela a seguir mostra as contas de usuário configuradas para o componente do sistema no escopo &quot; CLARANET-SBU-WM &quot; . O mostra várias contas padrão; Administrador, DefaultAccount e Convidado, no entanto, as capturas de tela a seguir mostram que essas contas estão desabilitadas.
+- Exemplo de evidência: a captura de tela a seguir mostra contas de usuário configuradas para o componente &quot;do sistema no escopo CLARANET-SBU-WM&quot;. O mostra várias contas padrão; Administrador, DefaultAccount e Convidado, no entanto, as capturas de tela a seguir mostram que essas contas estão desabilitadas.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-40.png)
 
-Esta próxima captura de tela mostra que a conta de administrador está desabilitada no componente do sistema no escopo &quot; CLARANET-SBU-WM &quot; .
+Esta próxima captura de tela mostra que a conta de administrador está desabilitada no componente &quot;do sistema no escopo CLARANET-SBU-WM&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-40-1.png)
 
-Esta próxima captura de tela mostra que a conta de convidado está desabilitada no componente do sistema no escopo &quot; CLARANET-SBU-WM &quot; .
+Esta próxima captura de tela mostra que a conta de convidado está desabilitada no componente do sistema no escopo &quot;CLARANET-SBU-WM&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-40-2.png)
 
-Esta próxima captura de tela mostra que DefaultAccount está desabilitado no componente do sistema no escopo &quot; CLARANET-SBU-WM &quot; .
+Esta próxima captura de tela mostra que DefaultAccount está desabilitada &quot;no componente do sistema no escopo CLARANET-SBU-WM&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-40-3.png)
 
@@ -682,7 +683,7 @@ Esta próxima captura de tela mostra que DefaultAccount está desabilitado no co
 
 - Diretrizes de evidência de exemplo: as evidências normalmente estariam na forma de tíquetes de solicitação de alteração, solicitações ITSM (Gerenciamento de Serviços de TI) ou documentação mostrando solicitações de contas a serem criadas, modificadas ou excluídas passaram por um processo de aprovação.
 
-- Exemplo de evidência: as imagens abaixo mostram a criação de conta para um novo início para a equipe DevOps que é necessária para ter a configuração do RBAC com base nas permissões do ambiente de produção sem acesso ao ambiente de dev e acesso padrão não privilegiado a todo o resto.
+- Exemplo de evidência: as imagens abaixo mostram a criação de conta para um novo início para a equipe DevOps que é necessário ter a configuração do RBAC com base nas permissões do ambiente de produção sem acesso ao ambiente de dev e acesso padrão não privilegiado a todo o resto.
 
 A criação da conta passou pelo processo de aprovação e pelo processo de aprovação depois que a conta foi criada e o tíquete foi fechado.
 
@@ -694,9 +695,9 @@ A criação da conta passou pelo processo de aprovação e pelo processo de apro
 
 **Controle nº 42:** Forneça evidências demonstrativas de que um processo está em uso para desabilitar ou excluir contas não usadas dentro de 3 meses.
 
-- Intenção: as contas inativas às vezes podem ficar comprometidas porque são direcionadas a ataques de força bruta que podem não ser sinalizados, pois o usuário não está tentando fazer logon nas contas ou por meio de uma violação de banco de dados de senha em que a senha do usuário&#39;foi reutilizável e está disponível em um despejo de nome de usuário/senha na Internet. Contas não usadas devem ser desabilitadas/removidas para reduzir a superfície de ataque que um ator de ameaças precisa realizar atividades de comprometimento da conta. Essas contas podem ser devido a um processo de licenças que não está sendo executado corretamente, um membro da equipe que está com problemas de longo prazo ou um membro da equipe que está em licença de licença/licença de paternidade. Implementando um processo trimestral para identificar essas contas, as organizações podem minimizar a superfície de ataque.
+- Intenção: as contas inativas podem, às vezes, ficar comprometidas porque são direcionadas a ataques de força bruta que podem não ser sinalizados, pois o usuário não está tentando fazer logon nas contas ou por meio de uma violação de banco de dados de senha em que a senha do usuário&#39;foi reutilizável e está disponível em um despejo de nome de usuário/senha na Internet. Contas não usadas devem ser desabilitadas/removidas para reduzir a superfície de ataque que um ator de ameaças precisa realizar atividades de comprometimento da conta. Essas contas podem ser devido a um processo de licenças que não está sendo executado corretamente, um membro da equipe que está com problemas de longo prazo ou um membro da equipe que está em licença de licença/licença de paternidade. Implementando um processo trimestral para identificar essas contas, as organizações podem minimizar a superfície de ataque.
 
-- Diretrizes de evidência de exemplo: as evidências devem ser duas vezes. Em primeiro lugar, uma captura de tela ou exportação de arquivo mostrando o último logon de todas as contas de usuário &quot; &quot; no ambiente no escopo. Isso pode ser contas locais, bem como contas em um serviço de diretório centralizado, como AAD (Azure Active Directory). Isso demonstrará que nenhuma conta com mais de 3 meses está habilitada. Em segundo lugar, evidência do processo de revisão trimestral que pode ser uma evidência documental da tarefa que está sendo concluída em Tíquetes do ADO (Azure DevOps) ou JIRA ou por meio de registros em papel que devem ser assinados.
+- Diretrizes de evidência de exemplo: as evidências devem ser duas vezes. Em primeiro lugar, uma captura de tela ou exportação de arquivo mostrando o &quot;último logon&quot; de todas as contas de usuário no ambiente no escopo. Isso pode ser contas locais, bem como contas em um serviço de diretório centralizado, como AAD (Azure Active Directory). Isso demonstrará que nenhuma conta com mais de 3 meses está habilitada. Em segundo lugar, evidência do processo de revisão trimestral que pode ser uma evidência documental da tarefa que está sendo concluída em Tíquetes do ADO (Azure DevOps) ou JIRA ou por meio de registros em papel que devem ser assinados.
 
 - Exemplo de evidência: esta primeira captura de tela mostra a saída do script que é executado trimestralmente para exibir o último atributo de logon para usuários dentro AAD.
 
@@ -714,11 +715,11 @@ Como pode ser visto na captura de tela acima, dois usuários estão mostrando co
 - Histórico de senhas de no mínimo 5 senhas
 - Imposição do uso de senha forte
 
-- Intenção: como já discutido, as credenciais do usuário geralmente são alvo de ataques por atores de ameaças que tentam obter acesso a uma organização&#39;ambiente. A intenção de uma política de senha forte é tentar forçar os usuários a escolher senhas fortes para reduzir as chances de os atores de ameaças serem capazes de forçá-los brutamente. A intenção de adicionar as ou outras mitigações adequadas é reconhecer que as organizações podem implementar outras medidas de segurança para ajudar a proteger as credenciais do usuário com base em desenvolvimentos do setor, como a &quot; &quot; Publicação Especial do &quot; [NIST 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) &quot; .
+- Intenção: como já discutido, as credenciais do usuário geralmente são alvo de ataques por atores de ameaças que tentam obter acesso a um ambiente&#39;organização. A intenção de uma política de senha forte é tentar forçar os usuários a escolher senhas fortes para reduzir as chances de os atores de ameaças serem capazes de forçá-los brutamente. A intenção &quot;de adicionar as ou outras mitigações&quot; adequadas é reconhecer que as organizações podem implementar outras medidas de segurança para ajudar a proteger as credenciais do usuário com base em desenvolvimentos &quot; do setor, como a [Publicação Especial do NIST 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html)&quot;.
 
-- Diretrizes de evidência de exemplo: evidências para demonstrar uma política de senha forte podem estar na forma de uma captura de tela de um objeto de política de grupo de organizações ou políticas de conta de política de segurança local à política de senha e políticas de conta à política de bloqueio de &quot; &quot; &quot; &quot; conta. As evidências dependem das tecnologias que estão sendo usadas; Ou seja, para Linux, pode ser o arquivo de config /etc/pam.d/common-password, para BitBucket, a seção Políticas de Autenticação no Portal de &quot; &quot; Administração ( ), [https://support.atlassian.com/security-and-access-policies/docs/manage-your-password-policy/](https://support.atlassian.com/security-and-access-policies/docs/manage-your-password-policy/) etc.
+- Diretrizes de evidência de exemplo: evidências para demonstrar uma política de senha forte podem estar na forma de uma captura de tela de um objeto de política de grupo de organizações ou políticas de conta de política de segurança local &quot;à política&quot; &quot;de senha e políticas de conta à&quot; política de bloqueio de conta. As evidências dependem das tecnologias que estão sendo usadas; Ou seja, para Linux, pode ser o arquivo de config /etc/pam.d/common-password, para BitBucket&quot;&quot;, a seção Políticas de Autenticação no Portal de Administração ([https://support.atlassian.com/security-and-access-policies/docs/manage-your-password-policy/](https://support.atlassian.com/security-and-access-policies/docs/manage-your-password-policy/)), etc.
 
-- Exemplo de evidência: as evidências a seguir mostram a política de senha configurada dentro da Política de Segurança Local do componente do sistema no escopo &quot; &quot; &quot; CLARANET-SBU-WM &quot; .
+- Exemplo de evidência: as evidências a &quot;seguir mostram a política de senha configurada dentro da Política de Segurança Local&quot; &quot;do componente do sistema no escopo CLARANET-SBU-WM&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-43.png)
 
@@ -738,19 +739,19 @@ Veja a seguir um exemplo de um comprimento mínimo de frases de passagem para o 
 
 - Diretrizes de evidência de exemplo: a evidência seria por meio de capturas de tela mostrando contas de usuário configuradas nos componentes do sistema no escopo, que podem incluir servidores, repositórios de código, plataformas de gerenciamento de nuvem, Active Directory, Firewalls, etc.
 
-- Exemplo de evidência: a captura de tela a seguir mostra as contas de usuário configuradas para o componente do sistema no escopo &quot; CLARANET-SBU-WM &quot; .
+- Exemplo de evidência: a captura de tela a seguir mostra contas de usuário configuradas para o componente &quot;do sistema no escopo CLARANET-SBU-WM&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-44.png)
 
-Esta próxima captura de tela mostra que a conta de administrador está desabilitada no componente do sistema no escopo &quot; CLARANET-SBU-WM &quot; .
+Esta próxima captura de tela mostra que a conta de administrador está desabilitada no componente &quot;do sistema no escopo CLARANET-SBU-WM&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-44-1.png)
 
-Esta próxima captura de tela mostra que a conta de convidado está desabilitada no componente do sistema no escopo &quot; CLARANET-SBU-WM &quot; .
+Esta próxima captura de tela mostra que a conta de convidado está desabilitada no componente do sistema no escopo &quot;CLARANET-SBU-WM&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-44-2.png)
 
-Esta próxima captura de tela mostra que DefaultAccount está desabilitado no componente do sistema no escopo &quot; CLARANET-SBU-WM &quot; .
+Esta próxima captura de tela mostra que DefaultAccount está desabilitada &quot;no componente do sistema no escopo CLARANET-SBU-WM&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-44-3.png)
 
@@ -775,21 +776,21 @@ A captura de tela a seguir mostra que os usuários são alocados a grupos com ba
 
 - Diretrizes de evidências de exemplo: há muitos guias na Internet para ajudar a proteger as contas de serviço. As evidências podem estar na forma de capturas de tela que demonstram como a organização implementou o fortalecimento seguro da conta. Alguns exemplos (a expectativa é que várias técnicas sejam usadas) incluem:
 - Restringir as contas a um conjunto de computadores no Active Directory,
-- Definir a conta para que o logon interativo&#39;permitido,
+- Definir a conta para que o logon interativo&#39;seja permitido,
 - Definindo uma senha extremamente complexa,
-- Para o Active Directory, habilita &quot; a Conta é sensível e não pode ser &quot; delegada. Essas técnicas são discutidas no artigo a seguir Segmentação e Active Directory Compartilhado &quot; [para um Ambiente de Dados de Titular de Cartão.](https://pciramblings.com/2019/12/13/segmentation-and-shared-active-directory-of-a-cardholder-data-environment/) &quot;
+- Para o Active Directory, habilita a &quot;Conta é sensível e não pode ser delegada&quot; . Essas técnicas são discutidas no artigo &quot; a seguir [Segmentação e Active Directory Compartilhado para um Ambiente de Dados de Titular de Cartão](https://pciramblings.com/2019/12/13/segmentation-and-shared-active-directory-of-a-cardholder-data-environment/)&quot;.
 
 - Exemplo de evidência: há várias maneiras de proteger uma conta de serviço, que dependerá de cada ambiente individual. Os mecanismos adequados ao seu ambiente, que são usados, seriam documentados no documento de política/procedimento de Gerenciamento de Conta anteriormente, o que ajudará a revisar essas evidências. Abaixo estão alguns dos mecanismos que podem ser empregados:
 
-A captura de tela a seguir mostra &#39;Conta é sensível e a opção conectar-se&#39; está selecionada na conta de serviço &quot; \_ Prod SQL Conta de Serviço &quot; .
+A captura de tela a seguir mostra &#39;Conta &quot;\_é sensível e a opção conectar-se&#39; está selecionada na conta de serviço Prod SQL Service Account&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-46.png)
 
-Esta próxima captura de tela mostra que a conta de serviço Prod SQL Conta de Serviço está bloqueada no SQL Server e só pode &quot; \_ &quot; fazer logoff nesse servidor.
+Esta próxima captura de tela &quot;\_mostra que a conta de serviço Prod SQL Service Account&quot; está bloqueada no SQL Server e só pode fazer logoff nesse servidor.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-46-1.png)
 
-Esta próxima captura de tela mostra que a conta de serviço Prod SQL Conta de Serviço só tem permissão para &quot; \_ &quot; fazer logon como um serviço.
+Esta próxima captura de tela mostra que &quot;\_a conta de serviço Prod SQL Conta&quot; de Serviço só tem permissão para fazer logon como um serviço.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-46-2.png)
 
@@ -808,7 +809,7 @@ Termos definidos como:
 
 ![Imagem](../media/UserGuidePhotos/Control-No-47.png)
 
-Esta captura de tela demonstra que um servidor de autenticação adicional está habilitado apontando para Duo-LDAP para o &#39;Duo - Domínio de autenticação &quot; &quot; padrão&#39; rota.
+Esta captura de tela &quot;demonstra que um servidor de autenticação adicional está habilitado apontando para Duo-LDAP&quot; para o &#39;Duo - Domínio de autenticação padrão&#39; rota.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-47-1.png)
 
@@ -832,11 +833,11 @@ Termos definidos como:
 
 - Diretrizes de evidência de exemplo: as evidências podem ser fornecidas por capturas de tela mostrando configurações de criptografia para tecnologias de acesso remoto, RDP, SSH e interfaces de Administrador da Web. Para interfaces de Administrador da Web, o scanner do Qualys SSL Labs (se acessível publicamente, ou seja, interfaces de gerenciamento de nuvem, repositórios de código SaaS ou conexões VPN SSL) podem ser usados.
 
-- Exemplo de evidência: a evidência abaixo mostra o nível de criptografia RDP no Webserver01 sendo configurado com uma configuração de &#39;&quot; &quot; Alto Nível &quot; . Como mostra o texto da ajuda, isso está usando criptografia forte de 128 bits (que é o nível mais alto para o Microsoft Windows RDP.
+- Exemplo de evidência: as evidências a seguir mostram o nível de criptografia RDP &quot;no Webserver01&quot; sendo configurado com uma configuração de &#39;Alto Nível&quot;. Como mostra o texto da ajuda, isso está usando criptografia forte de 128 bits (que é o nível mais alto para o Microsoft Windows RDP.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-48.png)
 
-As evidências a seguir também mostram que a segurança de transporte RDP está configurada para usar o TLS 1.0 no &quot; Webserver01 (que é o mais alto para &quot; o Windows Server).
+As evidências a seguir também mostram que a segurança de transporte RDP está configurada para usar o TLS 1.0 &quot;no Webserver01&quot; (que é o mais alto para o Windows Server).
 
 ![Imagem](../media/UserGuidePhotos/Control-No-48-1.png)
 
@@ -846,7 +847,7 @@ As evidências a seguir também mostram que a segurança de transporte RDP está
 
 - Diretrizes de evidências de exemplo: forneça evidências que demonstram que os portais administrativos dns públicos são protegidos pelo MFA. Mesmo que o DNS Público esteja hospedado em servidores dentro do ambiente no escopo (ou seja, controle e operado pela organização), ainda pode haver um Portal de Administração em algum lugar onde o Nome de Domínio foi registrado e os Registros DNS foram &#39;Managed&#39; para apontar os Servidores DNS para sua própria infraestrutura. Nesse caso, o MFA deverá ser habilitado na interface administrativa do registrador de domínios se os registros DNS de domínios puderem ser modificados. Uma captura de tela deve ser fornecida mostrando que a interface administrativa está habilitada para MFA no nível do sistema (ou seja, todas as contas privilegiadas).
 
-- Exemplo de evidência: a captura de tela a seguir mostra contoso.com DNS é gerenciado no Microsoft Azure da Contoso Corporation.
+- Exemplo de evidência: a captura de tela a seguir mostra contoso.com DNS é gerenciado dentro Microsoft Azure da Contoso Corporation.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-49.png)
 
@@ -872,7 +873,7 @@ Os Sistemas de Detecção e Prevenção de Intrusão (IDPS) no gateway podem for
 
 ![Imagem](../media/UserGuidePhotos/Control-No-50.png)
 
-A captura de tela adicional abaixo demonstra que o IDPS está habilitado em todas as regras do Firewall watchGuard&#39;configuração.
+A captura de tela adicional abaixo demonstra que o IDPS está habilitado em todas as regras do Firewall watchGuard&#39;config.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-50-1.png)
 
@@ -882,7 +883,7 @@ A captura de tela adicional abaixo demonstra que o IDPS está habilitado em toda
 
 - Diretrizes de evidência de exemplo: a evidência provavelmente será por meio de uma captura de tela mostrando que o IDPS está configurado para atualizar assinaturas pelo menos diariamente e mostrando a última atualização.
 
-- Exemplo de evidência&#39;: embora essa captura de tela não mostre que as assinaturas IDPS foram atualizadas nas últimas 24 horas, ela demonstra que a versão mais recente está instalada, que foi de uma semana _atrás_ ( Evidências coletadas no 18__th _maio_). Isso, combinado com a captura de tela a seguir, mostra que as assinaturas estarão atualizadas dentro de um período de 24 horas.
+- Exemplo de evidência: embora essa captura de tela&#39;não mostre que as assinaturas IDPS foram atualizadas nas últimas 24 horas, ela demonstra que a versão mais recente está instalada, que foi de uma semana _atrás (Evidências_ coletadas no 18__th _maio_). Isso, combinado com a captura de tela a seguir, mostra que as assinaturas estarão atualizadas dentro de um período de 24 horas.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-51.png)
 
@@ -902,7 +903,7 @@ Esta próxima captura de tela mostra que o IDPS está habilitado nessas regras.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-52-1.png)
 
-A captura de tela a seguir mostra que uma Ação de Proxy é aplicada à regra &#39;De Tráfego de Bot de Entrada&#39;, que é usada para ativar a inspeção &quot; &quot; de \_ \_ conteúdo.
+A captura de tela a &quot;seguir mostra que uma Ação de Proxy&quot; é aplicada à regra &#39;InboundBotTraffic\_\_&#39;, que é usada para ativar a inspeção de conteúdo.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-52-2.png)
 
@@ -922,7 +923,7 @@ A captura de tela a seguir mostra que a inspeção de conteúdo está habilitada
 
 **Controle nº 54:** Forneça evidências demonstrativas de que o IDPS está configurado para monitorar todos os fluxos de tráfego de saída.
 
-- Intenção: como já discutido, é importante que todos os fluxos de tráfego de saída sejam monitorados pelo IDPS para identificar qualquer forma de tráfego de ataque. Alguns sistemas IDPS também podem identificar possíveis violações internas monitorando todo o tráfego de saída. Isso pode ser feito identificando o tráfego destinado a &#39;de comando e controle&#39; pontos de extremidade.
+- Intenção: como já discutido, é importante que todos os fluxos de tráfego de saída sejam monitorados pelo IDPS para identificar qualquer forma de tráfego de ataque. Alguns sistemas IDPS também podem identificar possíveis violações internas monitorando todo o tráfego de saída. Isso pode ser feito identificando o tráfego destinado a &#39;comando e controle&#39; pontos de extremidade.
 
 - Diretrizes de evidência de exemplo: as evidências por meio de capturas de tela devem ser fornecidas para demonstrar que todos os fluxos de tráfego de saída são monitorados. Isso pode estar usando o firewall NextGen, mostrando que todas as regras de saída estão habilitadas para IDPS, ou pode ser por meio do uso de Sensores IDPS e demonstrando que todo o tráfego está configurado para alcançar o sensor IDPS.
 
@@ -956,7 +957,7 @@ A imagem abaixo mostra como listar toda a configuração de detecção de intrus
 
 ![Imagem](../media/UserGuidePhotos/Control-No-54-7.png)
 
-- Exemplo de evidência 4: o Azure começou recentemente a oferecer IDPS denominado Firewall do Azure Premium que permitirão a configuração de TLS, Inteligência de Ameaças, IDPS por meio de políticas, no entanto, observe que você ainda precisará usar o gateway de porta frontal ou aplicativo para descarregamento SSL do tráfego de entrada, pois o Firewall do Azure Premium não dá suporte a IDPS em conexões SSL de entrada.
+- Exemplo de evidência 4: o Azure começou recentemente a oferecer IDPS denominado Firewall do Azure Premium que permitirá a configuração de TLS, Inteligência de Ameaças, IDPS por meio de políticas, no entanto, observe que você ainda precisará usar o gateway de porta da frente ou aplicativo para descarregamento SSL do tráfego de entrada, pois o Firewall do Azure Premium não dá suporte a IDPS em conexões SSL de entrada.
 
 No exemplo abaixo, as configurações premium padrão foram usadas para configuração de regras de política e inspeção TLS, modo IDPS, Threat Intelligence foram todos habilitados juntamente com a proteção da Vnet.
 
@@ -974,11 +975,11 @@ No exemplo abaixo, as configurações premium padrão foram usadas para configur
 
 ### <a name="security-event-logging"></a>Log de eventos de segurança
 
-O registro em log de eventos de segurança é uma parte integrante de uma organização&#39;programa de segurança. O registro adequado de eventos de segurança, juntamente com processos de alerta e revisão ajustados, ajudam as organizações a identificar violações ou tentativas de violações que podem ser usadas pela organização para aprimorar estratégias de segurança e segurança defensiva. Além disso, o registro em log adequado será fundamental para um recurso de resposta a incidentes de organizações que pode se alimentar de outras atividades, como identificar com precisão o que e quem os dados do&#39;foram comprometidos, o período de comprometimento, fornecer relatórios de análise detalhados para agências governamentais, etc.
+O registro em log de eventos de segurança é parte integrante de uma organização&#39;programa de segurança. O registro adequado de eventos de segurança, juntamente com processos de alerta e revisão ajustados, ajudam as organizações a identificar violações ou tentativas de violações que podem ser usadas pela organização para aprimorar estratégias de segurança e segurança defensiva. Além disso, o registro em log adequado será fundamental para um recurso de resposta a incidentes de organizações que pode se alimentar de outras atividades, como identificar com precisão o que e quem os dados do&#39;foram comprometidos, o período de comprometimento, fornecer relatórios de análise detalhados para agências governamentais, etc.
 
 **Controle nº 55:** Forneça documentação de política para práticas recomendadas e procedimentos que governam o registro em log de eventos de segurança.
 
-- Intenção: O log de eventos de segurança é uma função importante de qualquer organização&#39;programa de segurança. Políticas e procedimentos devem estar em prática para fornecer clareza e consistência para ajudar a garantir que as organizações implementem controles de log em linha com as práticas recomendadas do fornecedor e do setor. Isso ajudará a garantir que logs relevantes e detalhados sejam consumidos, que não são apenas úteis na identificação de eventos de segurança potenciais ou reais, mas também podem ajudar uma atividade de resposta a incidentes a identificar a extensão de uma violação de segurança.
+- Intenção: o registro em log de eventos de segurança é uma função importante de qualquer organização&#39;programa de segurança. Políticas e procedimentos devem estar em prática para fornecer clareza e consistência para ajudar a garantir que as organizações implementem controles de log em linha com as práticas recomendadas do fornecedor e do setor. Isso ajudará a garantir que logs relevantes e detalhados sejam consumidos, que não são apenas úteis na identificação de eventos de segurança potenciais ou reais, mas também podem ajudar uma atividade de resposta a incidentes a identificar a extensão de uma violação de segurança.
 
 - Diretrizes de evidência de exemplo: fornecer às organizações documentos documentados de política e procedimento que abrangem a prática de registro em log de eventos de segurança.
 
@@ -1002,11 +1003,11 @@ O registro em log de eventos de segurança é uma parte integrante de uma organi
 
 - Diretrizes de evidência de exemplo: as evidências por meio de capturas de tela ou configurações devem ser fornecidas em todos os dispositivos amostrados e em todos os componentes do sistema de relevância para demonstrar como o registro em log é configurado para fornecer garantia de que esses tipos de eventos de segurança são capturados.
 
-- Exemplo evidência 1: A captura de tela a seguir mostra as configurações de um dos dispositivos amostrados chamados &quot; VICTIM1-WINDOWS &quot; . As configurações mostram várias configurações de auditoria habilitadas no &#39;Política de Segurança Local  Políticas Locais  de Política de Auditoria&#39; configurações.
+- Exemplo Evidência 1: A captura de tela a seguir mostra as configurações de um dos dispositivos amostrados chamados &quot;VICTIM1-WINDOWS&quot;. As configurações mostram várias configurações de auditoria habilitadas no &#39;política de segurança local  políticas locais  de política de auditoria&#39; configurações.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-56.png)
 
-Esta próxima captura de tela mostra um evento em que um usuário desarmou um log de eventos de um dos dispositivos amostrados chamado &quot; VICTIM1-WINDOWS &quot; .
+Esta próxima captura de tela mostra um evento em que um usuário desarmou um log de eventos de um dos dispositivos amostrados chamado &quot;VICTIM1-WINDOWS&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-56-1.png)
 
@@ -1014,10 +1015,10 @@ Esta captura de tela final mostra que a mensagem de log aparece dentro da soluç
 
 ![Imagem](../media/UserGuidePhotos/Control-No-56-2.png)
 
-**Observação**: Capturas de tela são necessárias  em todos os componentes do sistema amostrados e **devem** evidências de todos os eventos de segurança detalhados acima.
+**Observação**: Capturas de tela são necessárias em todos os componentes do sistema  amostrados e **devem** ser prova de todos os eventos de segurança detalhados acima.
 
 **Controle No. 57:** Forneça evidências demonstradas de que os eventos de segurança registrados contêm as seguintes informações mínimas:
-- User
+- Usuário
 - Tipo de evento
 - Data e hora
 - Indicadores de sucesso ou falha
@@ -1027,7 +1028,7 @@ Esta captura de tela final mostra que a mensagem de log aparece dentro da soluç
 
 - Diretrizes de evidências de exemplo: as evidências devem mostrar amostras de logs de todos os componentes do sistema mostrando esses tipos de eventos de segurança. Os logs devem incluir todas as informações listadas acima.
 
-- Exemplo de evidência: a captura de tela a seguir mostra as informações dos eventos de segurança dentro Windows Visualizador de Eventos do componente do sistema no escopo &quot; SEGSVR02 &quot; .
+- Exemplo de evidência: a captura de tela a seguir mostra as informações dos eventos de segurança dentro Windows Visualizador &quot;de Eventos do componente do sistema no escopo SEGSVR02&quot;.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-57.png)
 
@@ -1047,7 +1048,7 @@ A próxima captura de tela mostra o WatchGuard configurado como um Servidor NTP 
 
 ![Imagem](../media/UserGuidePhotos/Control-No-58-1.png)
 
-Esta captura de tela final mostra o componente do sistema no escopo, CLARANET-SBU-WM é configurado para NTP para apontar para o servidor principal que é o &quot; &quot; Firewall watchGuard (10.0.1.1).
+Esta captura de tela final mostra o componente do sistema no escopo, &quot;CLARANET-SBU-WM&quot; é configurado para NTP para apontar para o servidor principal que é o Firewall watchGuard (10.0.1.1).
 
 ![Imagem](../media/UserGuidePhotos/Control-No-58-2.png)
 
@@ -1057,7 +1058,7 @@ Esta captura de tela final mostra o componente do sistema no escopo, CLARANET-SB
 
 - Diretrizes de evidência de exemplo: as evidências devem ser fornecidas por meio de capturas de tela ou configurações, demonstrando que os logs estão configurados para serem imediatamente (ou próximos de imediato) enviados para uma solução de registro em log centralizado que está fora do DMZ. Estamos procurando o envio quase imediato de logs porque quanto mais tempo demorar para que os logs sejam enviados para a solução de registro em log centralizado, mais tempo um ator de tratamento teria que adulterar os logs locais antes que o envio ocorra.
 
-- Exemplo de evidência: os sistemas DMZ da Contoso utilizam nXLog para envio de arquivos de log. A captura de tela a seguir mostra o serviço&#39; &#39;nxlog em execução no &quot; jumpbox DMZ desktop-7S65PN que é usado para gerenciar todos os servidores &quot; DMZ.
+- Exemplo de evidência: os sistemas DMZ da Contoso utilizam nXLog para envio de arquivos de log. A captura de tela a seguir mostra o serviço &#39;&#39; nxlog &quot;em execução na caixa de entrada DMZ desktop-7S65PN&quot; que é usada para gerenciar todos os servidores DMZ.
 
 ![Imagem](../media/UserGuidePhotos/Control-No-59.png)
 
@@ -1065,7 +1066,7 @@ A captura de tela a seguir mostra um extrato do arquivo nxlog.conf, mostrando qu
 
 ![Imagem](../media/UserGuidePhotos/Control-No-59-1.png)
 
-A URL a seguir para NXLog ( ) mostra que o envio de log está em tempo real por meio [https://nxlog.co/documentation/nxlog-user-guide/modes.html](https://nxlog.co/documentation/nxlog-user-guide/modes.html) do seguinte extrato:
+A URL a seguir para NXLog ([https://nxlog.co/documentation/nxlog-user-guide/modes.html](https://nxlog.co/documentation/nxlog-user-guide/modes.html)) mostra que o envio de log está em tempo real por meio do seguinte extrato:
 
 ![Imagem](../media/UserGuidePhotos/Control-No-59-2.png)
 
@@ -1075,7 +1076,7 @@ A URL a seguir para NXLog ( ) mostra que o envio de log está em tempo real por 
 
 - Diretrizes de evidência de exemplo: as evidências geralmente seriam por meio de capturas de tela mostrando a configuração de autorização e autenticação da solução de registro em log centralizado, demonstrando que os usuários estão limitados àqueles que são necessários para sua função/função de trabalho.
 
-- Exemplo de evidência: o SOC terceirizado da Contoso utiliza AlienVault como ferramenta siem centralizada. AlienVault foi comprado pela AT &amp; T em 2018 e agora passa pela USM em Qualquer Lugar. A página da Web a seguir ( [https://cybersecurity.att.com/documentation/usm-anywhere/deployment-guide/admin/usm-anywhere-data-security.htm](https://cybersecurity.att.com/documentation/usm-anywhere/deployment-guide/admin/usm-anywhere-data-security.htm) ) discute como a USM Em Qualquer Lugar protege os dados contra violações não autorizadas. O link a seguir ( [https://cybersecurity.att.com/documentation/usm-appliance/raw-logs/raw-log-management.htm](https://cybersecurity.att.com/documentation/usm-appliance/raw-logs/raw-log-management.htm) ) destaca como o produto USM Em Qualquer Lugar também garante a integridade dos logs arquivados.
+- Exemplo de evidência: o SOC terceirizado da Contoso utiliza AlienVault como ferramenta siem centralizada. AlienVault foi comprado pela ATT&amp; em 2018 e agora passa pela USM em Qualquer Lugar. A página da Web a seguir ([https://cybersecurity.att.com/documentation/usm-anywhere/deployment-guide/admin/usm-anywhere-data-security.htm](https://cybersecurity.att.com/documentation/usm-anywhere/deployment-guide/admin/usm-anywhere-data-security.htm)) discute como a USM Em Qualquer Lugar protege os dados contra violações não autorizadas. O link a seguir ([https://cybersecurity.att.com/documentation/usm-appliance/raw-logs/raw-log-management.htm](https://cybersecurity.att.com/documentation/usm-appliance/raw-logs/raw-log-management.htm)) destaca como o produto USM Anywhere também garante a integridade dos logs arquivados.
 
 **Observação:** Se o SIEM for interno, as evidências precisarão ser fornecidas para demonstrar que o acesso aos dados de registro em log está restrito a um número selecionado de usuários com base na necessidade de trabalho e que a plataforma em si está protegida contra adulteração (a maioria das soluções criará isso na funcionalidade da solução de registro em log).
 
@@ -1089,7 +1090,7 @@ A URL a seguir para NXLog ( ) mostra que o envio de log está em tempo real por 
 
 ![Imagem](../media/UserGuidePhotos/Control-No-61.png)
 
-**Observação**: como este é um documento público voltado para o público, o número de série do firewall foi editado, no entanto, não seria&#39;de isvs para dar suporte a quaisquer capturas de tela redacted, a menos que contenha Informações de Identificação Pessoal.
+**Observação**: como este é um documento público voltado para o público, o número de série do firewall foi editado, no entanto, não seria&#39;isvs para dar suporte a quaisquer capturas de tela redacted, a menos que contenha Informações de Identificação Pessoal.
 
 Esta próxima captura de tela mostra que os logs estão disponíveis mostrando um extrato de log voltando 5 meses.
 
@@ -1107,7 +1108,7 @@ A revisão de logs de segurança é uma função importante para ajudar as organ
 
 **Controle No. 62:** Forneça documentação de política que rege práticas e procedimentos de revisão de log.
 
-- Intenção: um relatório da IBM intitulado Custo de uma violação de dados Relatório 2020 destaca que o tempo médio para identificar e conter uma violação de dados pode levar 280 dias, isso é maior quando a violação é feita por um ator de ameaça mal-intencionado que é relatado como &quot; [](https://www.ibm.com/security/digital-assets/cost-data-breach-report/#/) &quot; 315days. Com o custo médio de uma violação de dados sendo relatada em milhões de dólares, é fundamental que esse ciclo de vida de violação de dados seja reduzido não apenas para minimizar a janela de exposição aos dados, mas também para reduzir o período de tempo que um ator de ameaças precisa para exfiltrar dados do ambiente. Ao reduzir essa janela, as organizações podem reduzir o custo geral de uma violação de dados.
+- Intenção: um relatório da IBM &quot; intitulado Custo de uma violação de dados Relatório [2020](https://www.ibm.com/security/digital-assets/cost-data-breach-report/#/)&quot; destaca que o tempo médio para identificar e conter uma violação de dados pode levar 280 dias, isso é maior quando a violação é feita por um ator de ameaça mal-intencionado que é relatado como 315days. Com o custo médio de uma violação de dados sendo relatada em milhões de dólares, é fundamental que esse ciclo de vida de violação de dados seja reduzido não apenas para minimizar a janela de exposição aos dados, mas também para reduzir o período de tempo que um ator de ameaças precisa para exfiltrar dados do ambiente. Ao reduzir essa janela, as organizações podem reduzir o custo geral de uma violação de dados.
 
 - Implementando um processo robusto de revisão e alerta, as organizações estão muito melhor equipadas para identificar violações muito mais cedo no ciclo de vida de violação de dados para minimizar seu impacto para a organização. Além disso, um processo forte pode ajudar a identificar tentativas de violação, permitindo que as organizações fortinciem mecanismos de defesa de segurança para atenuar essa ameaça maior para reduzir ainda mais as chances de um comprometimento pela campanha de ataque.
 
@@ -1123,7 +1124,7 @@ A revisão de logs de segurança é uma função importante para ajudar as organ
 
 - Intenção: a intenção desse controle é garantir que as análises diárias de log sejam realizadas. Isso é importante para identificar quaisquer anomalias que podem não ser escolhidas pelos scripts/consultas de alerta configurados para fornecer alertas de eventos de segurança.
 
-- Diretrizes de evidências de exemplo: as evidências geralmente seriam fornecidas por captura de tela ou um screenshare, demonstrando que as análises de log estão sendo conduzidas. Isso pode ser feito por meio de formulários que são concluídos todos os dias ou por meio de um Tíquete JIRA ou DevOps com comentários relevantes sendo postados para mostrar que isso é realizado diariamente. Por exemplo, um tíquete JIRA semanal pode ser criado Daily &quot; Log Review W/C 26th June 2021 , cada dia alguém posta os resultados da revisão de &quot; log diário. Se qualquer anomalia for sinalizada, isso poderá ser documentado nesse mesmo tíquete para demonstrar o próximo controle em um único JIRA.
+- Diretrizes de evidências de exemplo: as evidências geralmente seriam fornecidas por captura de tela ou um screenshare, demonstrando que as análises de log estão sendo conduzidas. Isso pode ser feito por meio de formulários que são concluídos todos os dias ou por meio de um Tíquete JIRA ou DevOps com comentários relevantes sendo postados para mostrar que isso é realizado diariamente. Por exemplo, um tíquete JIRA &quot;semanal pode ser criado Daily Log Review W/C 26th June 2021&quot;, cada dia em que alguém posta os resultados da revisão de log diário. Se qualquer anomalia for sinalizada, isso poderá ser documentado nesse mesmo tíquete para demonstrar o próximo controle em um único JIRA.
 
 - Se a ferramenta automatizada estiver sendo usada, as evidências de captura de tela poderão ser fornecidas para demonstrar a automação configurada e fornecer evidências adicionais para mostrar que a automação está em execução e alguém está revendo a saída automatizada.
 
@@ -1165,13 +1166,13 @@ Os eventos críticos de segurança precisam ser imediatamente investigados para 
 
 **Controle No. 65:** Forneça documentação de política que rege práticas e procedimentos de alerta de eventos de segurança.
 
-- Intenção: o alerta deve ser usado para eventos de segurança importantes que exigem uma resposta imediata de uma organização, pois há o potencial do evento ser indicativo de uma violação de ambiente e/ou uma violação de dados. Um processo forte em torno do processo de alerta deve ser documentado para garantir que isso seja realizado de forma consistente e repetivel. Isso ajudará a reduzir a linha do tempo do ciclo de vida &quot; de violação de &quot; dados.
+- Intenção: o alerta deve ser usado para eventos de segurança importantes que exigem uma resposta imediata de uma organização, pois há o potencial do evento ser indicativo de uma violação de ambiente e/ou uma violação de dados. Um processo forte em torno do processo de alerta deve ser documentado para garantir que isso seja realizado de forma consistente e repetivel. Isso ajudará a reduzir a linha do tempo do ciclo &quot;de vida de violação de&quot; dados.
 
 - Diretrizes de evidência de exemplo: fornecer às organizações documentos documentados de política e procedimento que abrangem eventos de segurança alertando as práticas práticas.
 
 - Exemplo de evidência: abaixo está um extrato do evento de segurança que alerta política/procedimento. Fornece os documentos completos de política e procedimento para dar suporte à sua avaliação.
-![Imagem ](../media/UserGuidePhotos/Control-No-65.png)
- ![ da imagem](../media/UserGuidePhotos/Control-No-65-1.png)
+![PicturePicture](../media/UserGuidePhotos/Control-No-65.png)
+![](../media/UserGuidePhotos/Control-No-65-1.png)
 
 **Observação:** Esta captura de tela mostra um documento de política/processo, a expectativa é que os ISVs compartilhem a documentação real de política/procedimento de suporte e não simplesmente forneçam uma captura de tela.
 
@@ -1183,7 +1184,7 @@ Os eventos críticos de segurança precisam ser imediatamente investigados para 
 
 - Intenção: Acima estão uma lista de alguns tipos de eventos de segurança que podem realçar um evento de segurança que pode apontar para uma violação de ambiente e/ou violação de dados.
 
-- Diretrizes de evidência de exemplo: as evidências devem ser  fornecidas por meio de capturas de tela da configuração de alerta e evidências dos alertas que estão sendo recebidos. As capturas de tela de configuração devem mostrar a lógica que está disparando os alertas e como os alertas são enviados. Os alertas podem ser enviados por SMS, email, Teams canais, canais do Slack, etc....
+- Diretrizes de evidência de exemplo: as evidências devem ser fornecidas por meio de capturas de tela da  configuração de alerta e evidências dos alertas que estão sendo recebidos. As capturas de tela de configuração devem mostrar a lógica que está disparando os alertas e como os alertas são enviados. Os alertas podem ser enviados por SMS, Email, Teams canais, canais do Slack, etc....
 
 - Exemplo de evidência: a Contoso utiliza um SOC de terceiros fornecido pela [Claranet Cyber Security](https://www.claranet.co.uk/services/cybersecurity/managed-detection-and-response). O exemplo a seguir mostra que o alerta dentro de AlienVault, utilizado pelo SOC, está configurado para enviar um alerta para um membro da Equipe SOC, Dan Turner na Claranet Cyber Security.
 ![Imagem](../media/UserGuidePhotos/Control-No-66.png)
@@ -1209,7 +1210,7 @@ O Gerenciamento de Riscos de Segurança da Informação é uma atividade importa
 
 - Intenção: como discutimos acima, um processo robusto de gerenciamento de risco de segurança da informação é importante para ajudar as organizações a gerenciar riscos de forma eficaz. Isso ajudará as organizações a planejar mitigações eficazes contra ameaças ao ambiente.
 
-**É importante que a avaliação de risco inclua o Risco de Segurança da Informação e não apenas os &quot; riscos &quot; gerais dos negócios.**
+**É importante que a avaliação de risco inclua o Risco de Segurança da Informação e não apenas os riscos &quot;gerais&quot; dos negócios.**
 
 - Diretrizes de evidência de exemplo: o processo de gerenciamento de avaliação de riscos formalmente documentado deve ser fornecido.
 
@@ -1264,9 +1265,9 @@ Essas duas capturas de tela mostram os minutos de reunião de duas reuniões de 
 - Intenção: as organizações precisam gerenciar riscos efetivamente. Isso precisa ser rastreado corretamente para fornecer um registro de um dos quatro tratamentos de risco que estão sendo aplicados. Os tratamentos de risco são:
 
 - **Evitar/encerrar** : a empresa pode determinar que o custo de lidar com o risco é maior do que a receita gerada pelo serviço. A empresa pode, portanto, optar por parar de executar o serviço.
-- **Transferência/Compartilhamento** : a empresa pode optar por transferir o risco para terceiros movendo o processamento para terceiros.
+- **Transferência/** Compartilhamento : a empresa pode optar por transferir o risco para terceiros movendo o processamento para terceiros.
 - **Accept/Tolerate/Retain** : A empresa pode decidir que o risco é aceitável. Isso depende muito do risco das empresas e pode variar de acordo com a organização.
-- **Tratamento/mitigação/modificação:** a empresa decide implementar controles de mitigação para reduzir o risco a um nível aceitável.
+- **Tratamento/mitigação/modificação** : a empresa decide implementar controles de mitigação para reduzir o risco a um nível aceitável.
 
 - A intenção desse controle é obter a garantia de que a organização está executando a avaliação de risco e agindo de acordo com isso.
 
@@ -1286,7 +1287,7 @@ A captura de tela a seguir demonstra um plano de tratamento de risco.
 
 Uma Resposta a Incidentes de Segurança é importante para todas as organizações, pois isso pode reduzir o tempo gasto por uma organização para conter um incidente de segurança e limitar o nível de exposição das organizações à exfiltração de dados. Ao desenvolver um plano abrangente e detalhado de resposta a incidentes de segurança, essa exposição pode ser significativamente reduzida do tempo de identificação para o tempo de contenção.
 
-Um relatório da IBM intitulado Custo de uma violação de dados &quot; [Report 2020](https://www.ibm.com/security/digital-assets/cost-data-breach-report/#/) destaca que, em média, o tempo gasto para conter uma violação foi &quot; de 73 dias. Além disso, o mesmo relatório identifica a maior economia de custo para organizações que sofreram uma violação, foi a preparação da resposta a incidentes, fornecendo uma economia média de US$ 2.000.000.000.
+Um relatório da IBM &quot; intitulado Custo de uma violação de dados [Report 2020](https://www.ibm.com/security/digital-assets/cost-data-breach-report/#/)&quot; destaca que, em média, o tempo gasto para conter uma violação foi de 73 dias. Além disso, o mesmo relatório identifica a maior economia de custo para organizações que sofreram uma violação, foi a preparação da resposta a incidentes, fornecendo uma economia média de US$ 2.000.000.000.
 
 As organizações devem seguir as práticas recomendadas de conformidade com a segurança usando estruturas padrão do setor, como ISO 27001, NIST, SOC 2, PCI DSS etc.
 
@@ -1316,7 +1317,7 @@ As organizações devem seguir as práticas recomendadas de conformidade com a s
 
 - Intenção: conforme já discutido anteriormente, quanto mais demorar para uma organização conter um comprometimento, maior será o risco de exfiltração de dados, resultando potencialmente em um volume maior de dados exfiltrados e quanto maior o custo geral do comprometimento. É importante que a organização&#39;equipes de resposta a incidentes sejam equipadas para responder a incidentes de segurança em tempo hábil. Ao realizar treinamentos regulares e realizar exercícios de tabela, isso equipa a equipe para lidar com incidentes de segurança de forma rápida e eficiente.
 
-- A recomendação é realizar o treinamento de resposta  a incidentes internos para a equipe de resposta a incidentes e realizar exercícios de tabela regulares, que devem se vincular à avaliação de risco de segurança da informação para identificar os incidentes de segurança que provavelmente ocorrerão. Dessa forma, a equipe conhecerá as etapas a serem tomadas para conter e investigar os incidentes de segurança mais prováveis, rapidamente.
+- A recomendação é realizar o treinamento de resposta a incidentes internos para a equipe de  resposta a incidentes e realizar exercícios de tabela regulares, que devem se vincular à avaliação de risco de segurança da informação para identificar os incidentes de segurança que provavelmente ocorrerão. Dessa forma, a equipe conhecerá as etapas a serem tomadas para conter e investigar os incidentes de segurança mais prováveis, rapidamente.
 
 - Diretrizes de evidências de exemplo: devem ser fornecidas evidências que demonstram que o treinamento foi realizado por meio do compartilhamento do conteúdo de treinamento e registros mostrando quem participou (que deve incluir toda a equipe de resposta a incidentes). Como alternativa, ou bem como, registros mostrando que um exercício de tabela foi realizado. Tudo isso deve ter sido concluído dentro de um período de 12 meses a partir de quando as evidências são enviadas.
 
@@ -1354,23 +1355,23 @@ Esse domínio de segurança é incluído para garantir que todos os dados consum
 
 Devido aos requisitos de conectividade de aplicativos/complementos desenvolvidos do M365, a comunicação ocorrerá em redes públicas, ou seja, a Internet. Por esse motivo, os dados em trânsito precisam ser protegidos com adequação. Esta seção aborda a proteção de comunicações de dados pela Internet.
 
-**Controle nº 1:** Forneça evidências demonstrativas de que a configuração TLS atende ou excede os requisitos de criptografia dentro dos Requisitos de Configuração de Perfil [TLS.](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#appendix-a)
+**Controle nº 1:** Forneça evidências demonstrativas de que a configuração TLS atende ou excede os requisitos de criptografia dentro dos Requisitos de Configuração de Perfil [TLS](../docs/certification-submission-guide.md#appendix-a).
 
 - Intenção: a intenção desse controle é garantir que os dados do M365 que estão sendo consumidos pela sua organização são transmitidos com segurança. A Configuração de Perfil TLS define requisitos específicos do TLS para ajudar a garantir que o tráfego seja seguro contra ataques de homem no meio.
 
-- Diretrizes de evidência de exemplo: a maneira mais fácil de evidência disso é executar a ferramenta Teste do Servidor [SSL qualys](https://www.ssllabs.com/ssltest/) em todos os ouvintes da **Web,** incluindo qualquer um que seja executado em portas não padrão.
+- Diretrizes de evidência de exemplo: a maneira mais fácil de evidência disso é executar a ferramenta Teste do Servidor [SSL qualys](https://www.ssllabs.com/ssltest/) em todos os ouvintes **da Web,** incluindo qualquer um que seja executado em portas não padrão.
 
-- Lembre-se de marcar a opção Não mostrar os resultados nas placas, o que impede que a &quot; URL seja adicionada ao &quot; site.
+- Lembre-se de marcar a &quot;opção Não mostrar&quot; os resultados nas placas, o que impede que a URL seja adicionada ao site.
 
 - Você também pode fornecer evidências para demonstrar as verificações individuais dentro dos Requisitos de Configuração de Perfil TLS. As configurações podem ser usadas, juntamente com scripts e ferramentas de software para ajudar a fornecer evidências de algumas das configurações específicas, ou seja, Compactação TLS está desabilitada.
 
-- Exemplo de evidência: a captura de tela abaixo mostra os resultados do [www.clara.net:443](http://www.clara.net:443/) ouvinte da Web.
+- Exemplo de evidência: a captura de tela abaixo mostra os resultados para o [www.clara.net:443](http://www.clara.net:443/) da Web.
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-1.png)
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-1-1.png)
 
-**Observação**: os Analistas de Certificação revisarão a saída completa para confirmar que todos os requisitos dos Requisitos de Configuração de Perfil TLS foram atendidos (Forneça capturas de tela da saída de verificação completa). Depending_ em __what_ evidências foram fornecidas, os analistas podem executar sua própria verificação qualys.
+**Observação**: os Analistas de Certificação revisarão a saída completa para confirmar que todos os requisitos dos Requisitos de Configuração de Perfil TLS são atendidos (Forneça capturas de tela da saída de verificação completa). Depending_ _em _what_ evidências foram fornecidas, os analistas podem executar sua própria verificação qualys.
 
 - Exemplo evidência 2: A captura de tela a seguir mostra que o TLS 1.2 está configurado no armazenamento.
 
@@ -1388,13 +1389,13 @@ Binário: 0 - off 1 - on
 
 Hexadecimal: 0x00000000 - off 0xffffffff - on
 
-**Observação:** - Não use essa metodologia se você não a entender, pois nós (Microsoft) não somos responsáveis por você usar ou seguir este exemplo ou quaisquer efeitos que seu uso possa ter em seus sistemas. Ele está aqui apenas para ilustrar outra maneira de mostrar se o TLS está habilitado ou desabilitado.
+**Observação** : - Não use essa metodologia se você não a entender, pois nós (Microsoft) não somos responsáveis por você usar ou seguir este exemplo ou quaisquer efeitos que seu uso possa ter em seus sistemas. Ele está aqui apenas para ilustrar outra maneira de mostrar se o TLS está habilitado ou desabilitado.
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-1-4.png)
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-1-5.png)
 
-**Observação:** essas capturas de tela sozinhas não seriam capazes de atender a esse requisito.
+**Observação**: essas capturas de tela por si só não seriam capazes de atender a esse requisito.
 
 **Controle nº 2:** Forneça evidências demonstrativas de que a compactação TLS está desabilitada em todos os serviços voltados para o público que lidam com solicitações da Web.
 
@@ -1408,31 +1409,31 @@ Hexadecimal: 0x00000000 - off 0xffffffff - on
 
 **Controle nº 3:** Forneça evidências demonstrativas de que a segurança estrita de transporte TLS HTTP está habilitada e configurada para >= 15552000 em todos os sites.
 
-- Intenção: HTTP Strict Transport Security (HSTS) é um mecanismo de segurança projetado para proteger sites contra ataques intermediários forçando conexões TLS por meio de um campo de cabeçalho de resposta HTTPS chamado &quot; Strict-Transport-Security &quot; .
+- Intenção: HTTP Strict Transport Security (HSTS) é um mecanismo de segurança projetado para proteger sites contra ataques de homem no meio forçando conexões TLS por meio de um campo de cabeçalho de resposta HTTPS &quot;chamado Strict-Transport-Security&quot;.
 
 - Diretrizes de evidência de exemplo: isso pode ser evidência por meio da ferramenta Quaisys SSL Labs ou outras ferramentas e complementos do navegador da Web.
 
-- Exemplo de evidência: a captura de tela a seguir mostra isso por meio de um complemento do navegador da Web chamado &#39;Http Header Spy&#39; para o site [www.microsoft.com](http://www.microsoft.com/) web.
+- Exemplo de evidência: a captura de tela a seguir mostra isso por meio de um complemento do navegador da Web chamado &#39;Http Header Spy&#39; para o [site www.microsoft.com](https://www.microsoft.com/) web.
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-3.png)
 
 ### <a name="data-at-rest"></a>Dados em Repouso
 
-Quando os dados consumidos da plataforma Microsoft 365 são armazenados por ISVs, os dados precisam ser protegidos com adequação. Esta seção aborda os requisitos de proteção de dados armazenados em bancos de dados e armazenamentos de arquivos.
+Quando os dados consumidos da plataforma Microsoft 365 são armazenados por ISVs, os dados precisam ser protegidos de forma uniforme. Esta seção aborda os requisitos de proteção de dados armazenados em bancos de dados e armazenamentos de arquivos.
 
 **Controle nº 4:** Forneça evidências demonstrativas de que os dados em repouso são criptografados em linha com os requisitos de perfil de criptografia, usando algoritmos de criptografia como AES, Maivosa, TDES e tamanhos de chave de criptografia de 128 bits e 256 bits.
 
 - Intenção: Alguns algoritmos de criptografia mais antigos são conhecidos por conter algumas fraquezas criptográficas, o que aumenta as chances de um ator de ameaças ser capaz de descriptografar os dados sem conhecimento da chave. Por esse motivo, a intenção desse controle é garantir que apenas algoritmos de criptografia aceitos pelo setor sejam usados para proteger dados M365 armazenados.
 
-- Diretrizes de evidência de exemplo: as evidências podem ser fornecidas por meio de capturas de tela, mostrando a criptografia sendo empregada para proteger dados do M365 em bancos de dados e outros locais de armazenamento. As evidências devem demonstrar que a configuração de criptografia está em conformidade com os Requisitos de Configuração de [Perfil](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#appendix-b) de Criptografia da certificação Microsoft 365 criptografia.
+- Diretrizes de evidência de exemplo: as evidências podem ser fornecidas por meio de capturas de tela, mostrando a criptografia sendo empregada para proteger dados do M365 em bancos de dados e outros locais de armazenamento. As evidências devem demonstrar que a configuração de criptografia está em conformidade com os Requisitos de Configuração de [Perfil](../docs/certification-submission-guide.md#appendix-b) de Criptografia da certificação Microsoft 365 Criptografia.
 
-- Exemplo de evidência: a captura de tela a seguir mostra que o TDE (Transparent Data Encryption) está habilitado no Banco de Dados contoso. A segunda captura de tela mostra a página de documentos da Microsoft &#39;criptografia de dados transparente para Banco de Dados SQL, instância gerenciada SQL e análise do [Azure Synapse&#39;](https://docs.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-tde-overview?view=sql-server-ver15&amp;tabs=azure-portal) mostrando que a criptografia do AES 256 é usada para o Azure TDE.
+- Exemplo de evidência: a captura de tela a seguir mostra que o TDE (Transparent Data Encryption) está habilitado no Banco de Dados contoso. A segunda captura de tela mostra a página de documentos da Microsoft &#39;criptografia de dados transparente para Banco de Dados SQL, instância gerenciada SQL e análise do [Azure Synapse&#39;](https://docs.microsoft.com/azure/azure-sql/database/transparent-data-encryption-tde-overview?view=sql-server-ver15&amp;tabs=azure-portal) mostrando que a criptografia do AES 256 é usada para o Azure TDE.
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-4.png)
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-4-1.png)
 
-- Exemplo evidência 2: A captura de tela a seguir mostra o Azure Armazenamento configurado com criptografia para blobs e arquivos. A captura de tela a seguir mostra a página de documentos da Microsoft Azure Armazenamento criptografia para dados em repouso mostrando que o &quot; [](https://docs.microsoft.com/en-gb/azure/storage/common/storage-service-encryption) &quot; Azure Armazenamento usa o AES-256 para criptografia.
+- Exemplo evidência 2: A captura de tela a seguir mostra o Azure Armazenamento configurado com criptografia para blobs e arquivos. A captura de tela a seguir mostra a página de documentos da Microsoft &quot;[Azure Armazenamento criptografia](https://docs.microsoft.com/azure/storage/common/storage-service-encryption)&quot; para dados em repouso mostrando que o Azure Armazenamento usa o AES-256 para criptografia.
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-4-2.png)
 
@@ -1460,13 +1461,13 @@ Quando os dados consumidos da plataforma Microsoft 365 são armazenados por ISVs
 
 ### <a name="data-retention-and-disposal"></a>Retenção e descarte de dados
 
-Onde os ISVs consomem e armazenam dados M365, isso correrá o risco de um comprometimento de dados caso um ator de ameaças adoeça o ambiente isv. Para minimizar esse risco, as organizações devem manter apenas os dados necessários para os serviços de entrega e não os dados que podem ser &quot; &quot; de uso no futuro. Além disso, os dados devem ser mantidos apenas pelo tempo necessário para fornecer os serviços para os quais os dados foram capturados. A retenção de dados deve ser definida e comunicada com os usuários. Depois que os dados excederem o período de retenção definido, isso deverá ser excluído com segurança para que os dados não sejam reconstruídos ou recuperados.
+Onde os ISVs consomem e armazenam dados M365, isso correrá o risco de um comprometimento de dados caso um ator de ameaças adoeça o ambiente isv. Para minimizar esse risco, as organizações devem manter apenas os &quot;&quot; dados necessários para os serviços de entrega e não os dados que podem ser de uso no futuro. Além disso, os dados devem ser mantidos apenas pelo tempo necessário para fornecer os serviços para os quais os dados foram capturados. A retenção de dados deve ser definida e comunicada com os usuários. Depois que os dados excederem o período de retenção definido, isso deverá ser excluído com segurança para que os dados não sejam reconstruídos ou recuperados.
 
 **Controle No. 7:** Forneça evidências demonstradas de que um período de retenção de dados aprovado e documentado está formalmente estabelecido.
 
 - Intenção: uma política de retenção documentada e seguida é importante não apenas para cumprir algumas obrigações legais, como, por exemplo, a legislação de privacidade de dados, como, mas não se limitando a, o Regulamento Geral de Proteção de Dados (RGPD da UE) e a Lei de Proteção de Dados (DPA 2018 do Reino Unido), mas também para limitar um risco de organizações. Ao compreender os requisitos de dados das organizações e por quanto tempo os dados são necessários para a empresa executar suas funções, as organizações podem garantir que os dados são descartados corretamente depois que sua utilidade expirar. Ao reduzir os volumes de dados armazenados, as organizações estão reduzindo a quantidade de dados que seriam expostos caso ocorra um comprometimento de dados. Isso limitará o impacto geral.
 
-- Muitas vezes, as organizações armazenam dados simplesmente porque é&#39;bom ter apenas no caso de , no entanto&#39;, se a organização não precisar dos dados para executar seu serviço ou função comercial, os dados não devem ser armazenados, pois isso está aumentando os riscos desnecessariamente &quot; das organizações. &quot;
+- &quot;&quot;Muitas vezes, as organizações armazenam dados simplesmente porque é&#39;bom ter, caso, no entanto&#39;, se a organização não precisar dos dados para executar seu serviço ou função comercial, os dados não devem ser armazenados, pois isso está aumentando os riscos das organizações desnecessariamente.
 
 - Diretrizes de evidência de exemplo: fornecer a política de retenção de dados completa que detalha claramente por quanto tempo os dados (devem abranger todos os tipos de dados) devem ser mantidos para que a empresa possa executar suas funções comerciais.
 
@@ -1482,11 +1483,11 @@ Onde os ISVs consomem e armazenam dados M365, isso correrá o risco de um compro
 
 - Intenção: a intenção desse controle é simplesmente validar que os períodos de retenção de dados definidos estão sendo atendidos. Como já discutido, as organizações podem ter a obrigação legal de atender a isso, mas também mantendo os dados necessários e durante o tempo necessário ajudam a reduzir o risco para a organização caso ocorra uma violação de dados.
 
-- Diretrizes de evidência de exemplo: forneça evidências de captura de tela (ou por meio de um screenshare) mostrando que os dados armazenados (em todos os vários locais de dados, ou seja, bancos de dados, compartilhamentos de arquivos, arquivos etc.) não&#39;exceder a política de retenção de dados definida. Exemplos podem ser capturas de tela de registros de banco de dados com um campo de data, pesquisados em ordem de registro mais antiga e/ou locais de armazenamento de arquivos mostrando os datas-hora que estão dentro do período de retenção.
+- Diretrizes de evidência de exemplo: forneça evidências de captura de&#39;tela (ou por meio de um screenshare) mostrando que os dados armazenados (em todos os vários locais de dados, ou seja, bancos de dados, compartilhamentos de arquivos, arquivos etc.) não excedem a política de retenção de dados definida. Exemplos podem ser capturas de tela de registros de banco de dados com um campo de data, pesquisados em ordem de registro mais antiga e/ou locais de armazenamento de arquivos mostrando os datas-hora que estão dentro do período de retenção.
 
 **Observação:** Quaisquer dados pessoais/confidenciais do cliente devem ser redacionados na captura de tela.
 
-- Exemplo de evidência: as evidências a seguir mostram uma consulta SQL mostrando o conteúdo da tabela de banco de dados ordenada em ordem crescente no campo&#39; DE DATA de &#39;para mostrar os registros mais antigos dentro do banco de \_ dados. Esses dados devem ter dois meses, o que&#39;o período de retenção definido.
+- Exemplo de evidência: as evidências a seguir mostram uma consulta SQL mostrando o conteúdo da tabela de banco de dados ordenada em ordem crescente no campo &#39;&#39; DATETRANSACTION\_ para mostrar os registros mais antigos dentro do banco de dados. Esses dados devem ter dois meses, o que&#39;o período de retenção definido.
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-8.png)
 
@@ -1512,7 +1513,7 @@ Onde os ISVs consomem e armazenam dados M365, isso correrá o risco de um compro
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-9-2.png)
 
-A janela abaixo mostra que o Runbook foi editado para encontrar registros e tem comandos de exclusão que não estão em exibição como o script. Observe que a URL completa e o nome de usuário devem estar em exibição para essas capturas de tela e os isv&#39;serão necessários para mostrar uma captura de tela de antes da contagem de registros de exclusão e uma captura de tela de após a contagem de registros de exclusão. Essas capturas de tela são puramente exemplos das diferentes maneiras pelas quais isso pode ser abordado.
+A janela abaixo mostra que o Runbook foi editado para encontrar registros e tem comandos de exclusão que não estão em exibição como o script. Observe que a URL e o nome de usuário completos devem estar em exibição para essas capturas de tela e os isv&#39;serão necessários para mostrar uma captura de tela de antes da contagem de registros de exclusão e uma captura de tela de após a contagem de registros de exclusão. Essas capturas de tela são puramente exemplos das diferentes maneiras pelas quais isso pode ser abordado.
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-9-3.png)
 
@@ -1535,7 +1536,7 @@ O acesso a dados precisa limitar para o mínimo de pessoas necessários para red
 
 - Intenção: o processo para conceder acesso a dados e/ou chaves de criptografia precisa incluir aprovação, garantindo que um acesso individual&#39;seja necessário para sua função de trabalho. Isso garante que os funcionários sem um motivo de acesso verdadeiro não&#39;acesso desnecessário.
 
-- Diretrizes de evidências de exemplo: normalmente, as evidências fornecidas para o controle anterior podem ajudar a dar suporte a esse controle. Se não houver&#39;aprovação formal na documentação fornecida, as evidências poderão consistir em uma solicitação de alteração que está sendo levantada e aprovada para o acesso em uma ferramenta como, Azure DevOps ou Jira.
+- Diretrizes de evidências de exemplo: normalmente, as evidências fornecidas para o controle anterior podem ajudar a dar suporte a esse controle. Se não houver&#39;aprovação formal na documentação fornecida, as evidências poderão consistir em uma solicitação de alteração que está sendo aedida e aprovada para o acesso em uma ferramenta como, Azure DevOps ou Jira.
 
 - Exemplo de evidência: este conjunto de imagens mostra Tíquetes Jira criados e aprovados para a lista acima no Controle 10 para conceder ou negar acesso a dados confidenciais e/ou chaves de criptografia.
 
@@ -1552,7 +1553,7 @@ O acima mostra um fluxo de trabalho em Jira para esse processo observar que nada
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-11-3.png)
 
-A Project acima agora mostra que a aprovação foi dada para o acesso do Sam Daily&#39;chaves de criptografia. Abaixo do backlog mostra Sam Daily&#39;aprovação de solicitação e a pessoa Atribuída para fazer o trabalho.
+A Project acima agora mostra que a aprovação foi dada para o acesso do Sam Daily&#39;teclas de criptografia. Abaixo do backlog mostra Sam Daily&#39;aprovação de solicitação e a pessoa Atribuída para fazer o trabalho.
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-11-4.png)
 
@@ -1574,7 +1575,7 @@ Acima, você pode ver que o acesso foi aprovado e assinado conforme feito.
 
 - Diretrizes de evidência de exemplo: as evidências podem ser fornecidas por meio de captura de tela que mostra os privilégios de acesso de chave de criptografia e/ou dados concedidos aos indivíduos amostrados. As evidências devem abranger todos os locais de dados.
 
-- Exemplo de evidência: esta captura de tela mostra as permissões concedidas ao usuário John Smith que seriam referenciadas cruzadamente em relação à solicitação de aprovação para esse mesmo usuário como por evidência para o &quot; &quot; controle anterior.
+- Exemplo de evidência: esta captura de tela mostra as permissões concedidas &quot;ao usuário John Smith&quot; que seriam referenciadas cruzadamente em relação à solicitação de aprovação para esse mesmo usuário como por evidência para o controle anterior.
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-12.png)
 
@@ -1621,7 +1622,7 @@ Acima, você pode ver que o acesso foi aprovado e assinado conforme feito.
 
 ### <a name="gdpr"></a>RGPD
 
-A maioria das organizações processará dados que são potencialmente um&#39;(titulares de dados). Quando os dados **de QUALQUER** entidade de dados são processados, as organizações precisarão atender ao RGPD (Regulamento Geral de Proteção de Dados). Isso se aplica a controladores de dados (você está capturando diretamente esses dados) ou processadores de dados (você está processando esses dados em nome de um Controlador de Dados). Embora esta seção não&#39;toda a regulamentação, ela aborda alguns dos principais elementos do RGPD para ajudar a obter alguma garantia de que a organização está levando o RGPD a sério.
+A maioria das organizações processará dados que são potencialmente um&#39;(titulares de dados). Quando os dados **de QUALQUER** entidade de dados são processados, as organizações precisarão atender ao RGPD (Regulamento Geral de Proteção de Dados). Isso se aplica a controladores de dados (você está capturando diretamente esses dados) ou processadores de dados (você está  processando esses dados em nome de um Controlador de Dados). Embora esta seção não&#39;toda a regulamentação, ela aborda alguns dos principais elementos do RGPD para ajudar a obter alguma garantia de que a organização está levando o RGPD a sério.
 
 **Controle nº 15:** Forneça um processo de solicitação de acesso de assunto documentado (SAR) e forneça evidências demonstrando que os titulares de dados são capazes de criar SARs.
 
@@ -1637,7 +1638,7 @@ A maioria das organizações processará dados que são potencialmente um&#39;(t
 
 **Controle nº 16:** Forneça evidências demonstradas de que você é capaz de identificar todos os locais dos dados dos titulares de dados ao responder a um SAR.
 
-- Intenção: a intenção desse controle é garantir que a organização tenha um mecanismo robusto para identificar todos os titulares de dados&#39; dados. Isso pode ser um processo manual porque todo o armazenamento de dados está bem documentado, ou outras ferramentas podem ser usadas para garantir que todos os dados estão localizados como parte do processo de SARs.
+- Intenção: o objetivo desse controle é garantir que a organização tenha um mecanismo robusto para identificar todos os titulares de dados&#39; dados. Isso pode ser um processo manual porque todo o armazenamento de dados está bem documentado, ou outras ferramentas podem ser usadas para garantir que todos os dados estão localizados como parte do processo de SARs.
 
 - Diretrizes de evidência de exemplo: as evidências podem ser fornecidas por meio de uma lista de todos os locais de dados e de um processo documentado para pesquisar todos os locais de dados para dados. Isso incluiria quaisquer comandos necessários para pesquisar dados, ou seja, se SQL locais do SQL estão incluídos, então instruções SQL específicas seriam detalhadas para garantir que os dados sejam encontrados corretamente.
 
@@ -1697,9 +1698,9 @@ Abaixo está uma Política de Proteção de Dados que pode ser usada em conjunto
 
 ![Imagem](../media/UserGuidePhotos/Security-Domain-Control-No-18-5.png)
 
-A imagem acima do Azure mostra como o Azure foi configurado para atender aos requisitos de conformidade do RGPD para dados armazenados em um ambiente back-end. A política ( que pode ser personalizada ou criada a partir do _Azure Blueprints_) permite que o ISV garanta que os dados do cliente&#39;sejam armazenados corretamente e que eles possam ser acessados apenas pelas métricas e alertas definidos para garantir a conformidade e mostrarão dados não compatíveis ou acesso do usuário no painel do Gerenciador de Conformidade.
+A imagem acima do Azure mostra como o Azure foi configurado para atender aos requisitos de conformidade do RGPD para dados armazenados em um ambiente back-end. A política (que pode ser personalizada ou criada a partir do _Azure Blueprints_) permite que o ISV garanta que os dados do cliente&#39;sejam armazenados corretamente e que eles sejam acessíveis apenas pelas métricas e alertas definidos para garantir a conformidade e mostrarão dados não compatíveis ou acesso de usuário no painel do Gerenciador de Conformidade.
 
-Livros
+Manuais
 
 Murdoch D. (2018) Manual de Equipe Azul: Edição de Resposta a Incidentes: um guia de campo condensado para o Respondedor de Incidentes de Segurança Cibernética. 2nd Edition, Publisher: Plataforma de Publicação Independente do CreateSpace.
 
@@ -1708,23 +1709,23 @@ Referências
 - Relatório de Crimes Cibernéticos de Fraude de Ação Disponível em: [https://www.actionfraud.police.uk/](https://www.actionfraud.police.uk/) (Acessado em 21/08/2016).
 - UE. (2021) Lista de verificação do RGPD para controladores de dados Disponível em: [https://gdpr.eu/checklist/](https://gdpr.eu/checklist/) (Acessado em 21/01/2016).
 - Microsoft. (2018) Log de Eventos (Windows Instalador) Disponível em: docs.microsoft.com/en-us/windows/win32/msi/event-logging (Acessado: 23/12/20).
-- Tecnologias Positivas. (2020) Como abordar o desenvolvimento de software seguro Disponível em: [https://www.ptsecurity.com/ww-en/analytics/knowledge-base/how-to-approach-secure-software-development/](https://www.ptsecurity.com/ww-en/analytics/knowledge-base/how-to-approach-secure-software-development/) (Acessado em: 21/12/20).
-- Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho de 27 de abril de 2016 sobre a proteção de pessoas naturais no que diz respeito ao processamento de dados pessoais e à livre movimentação desses dados, e revogando a Diretiva 95/46/EC (Regulamento Geral de Proteção de Dados) (Texto com relevância do EEE) (2016) Disponível em: [https://www.legislation.gov.uk/eur/2016/679/contents](https://www.legislation.gov.uk/eur/2016/679/contents) (Acessado em: 11/01/2021).
-- Métricas de Segurança. (2020) Guia de Métricas de Segurança para Conformidade com PCI DSS. Disponível em : [https://info.securitymetrics.com/pci-guide-2020](https://info.securitymetrics.com/pci-guide-2020) (Acessado em: 21/01/06).
-- Classificação de risco do OWASP disponível em: [https://owasp.org/www-community/OWASP\_Risk\_Rating\_Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology) (Acessado em: 12/08/20).
-- Qualys. (2014) Laboratórios SSL: Novas notas para problemas de confiança (T) e incompatibilidade (M) disponíveis em: [https://blog.qualys.com/product-tech/2014/06/17/ssl-labs-new-grades-for-trust-t-and-mismatch-m-issues](https://blog.qualys.com/product-tech/2014/06/17/ssl-labs-new-grades-for-trust-t-and-mismatch-m-issues) (Acessado em: 29/01/21).
-- NIST SP800-61r2: Guia de Tratamento de Incidentes de Segurança do Computador Disponível em: (Acessado em [https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) 24/01/21).
+- Tecnologias Positivas. (2020) Como abordar o desenvolvimento de software seguro Disponível em: (Acessado em [https://www.ptsecurity.com/ww-en/analytics/knowledge-base/how-to-approach-secure-software-development/](https://www.ptsecurity.com/ww-en/analytics/knowledge-base/how-to-approach-secure-software-development/): 21/12/20).
+- Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho de 27 de abril de 2016 sobre a proteção de pessoas naturais no que diz respeito ao processamento de dados pessoais e à livre movimentação desses dados, e revogando a Diretiva 95/46/EC (Regulamento Geral de Proteção de Dados) (Texto com relevância do EEE) (2016) Disponível em: (Acessado em: [https://www.legislation.gov.uk/eur/2016/679/contents](https://www.legislation.gov.uk/eur/2016/679/contents) 11/01/2021).
+- Métricas de Segurança. (2020) Guia de Métricas de Segurança para Conformidade com PCI DSS. Disponível em : [https://info.securitymetrics.com/pci-guide-2020](https://info.securitymetrics.com/pci-guide-2020)(Acessado em: 21/01/06).
+- Classificação de risco do OWASP disponível em: (Acessado em: [https://owasp.org/www-community/OWASP\_Risk\_Rating\_Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology) 12/08/20).
+- Qualys. (2014) Laboratórios SSL: Novas notas para problemas de confiança (T) e incompatibilidade (M) disponíveis em: (Acessado em: [https://blog.qualys.com/product-tech/2014/06/17/ssl-labs-new-grades-for-trust-t-and-mismatch-m-issues](https://blog.qualys.com/product-tech/2014/06/17/ssl-labs-new-grades-for-trust-t-and-mismatch-m-issues) 29/01/21).
+- NIST SP800-61r2: Guia de Tratamento de Incidentes de Segurança do Computador Disponível em:[https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) (Acessado em 24/01/21).
 
 **Imagens tiradas de documentos da Microsoft**
 
 - [https://www.sans.org/information-security-policy/](https://www.sans.org/information-security-policy/)(Acessado em 21/02/18).
-- [https://docs.microsoft.com/en-us/cloud-app-security/anomaly-detection-policy](https://docs.microsoft.com/en-us/cloud-app-security/anomaly-detection-policy)(Acessado em 21/02/16).
-- [https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview) (Acessado em 21/02/17).
-- [https://docs.microsoft.com/en-us/cloud-app-security/anomaly-detection-policy](https://docs.microsoft.com/en-us/cloud-app-security/anomaly-detection-policy) (Acessado em 22/02/21).
-- [https://docs.microsoft.com/en-us/azure/security-center/security-center-managing-and-responding-alerts](https://docs.microsoft.com/en-us/azure/security-center/security-center-managing-and-responding-alerts) (Acessado em 24/02/21).
-- [https://docs.microsoft.com/en-us/azure/security-center/security-center-managing-and-responding-alerts](https://docs.microsoft.com/en-us/azure/security-center/security-center-managing-and-responding-alerts) (Acessado em 24/02/21).
+- [https://docs.microsoft.com/cloud-app-security/anomaly-detection-policy](https://docs.microsoft.com/cloud-app-security/anomaly-detection-policy)(Acessado em 21/02/16).
+- [https://docs.microsoft.com/azure/azure-monitor/alerts/alerts-overview](https://docs.microsoft.com/azure/azure-monitor/alerts/alerts-overview) (Acessado em 21/02/17).
+- [https://docs.microsoft.com/cloud-app-security/anomaly-detection-policy](https://docs.microsoft.com/cloud-app-security/anomaly-detection-policy) (Acessado em 22/02/21).
+- [https://docs.microsoft.com/azure/security-center/security-center-managing-and-responding-alerts](https://docs.microsoft.com/azure/security-center/security-center-managing-and-responding-alerts) (Acessado em 24/02/21).
+- [https://docs.microsoft.com/azure/security-center/security-center-managing-and-responding-alerts](https://docs.microsoft.com/azure/security-center/security-center-managing-and-responding-alerts) (Acessado em 24/02/21).
 - [https://microsoft.github.io/AzureTipsAndTricks/blog/tip272.html](https://microsoft.github.io/AzureTipsAndTricks/blog/tip272.html)
-- [https://docs.microsoft.com/en-gb/azure/information-protection/what-is-information-protection](https://docs.microsoft.com/en-gb/azure/information-protection/what-is-information-protection)
-- [https://docs.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-tde-overview?tabs=azure-portal](https://docs.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-tde-overview?tabs=azure-portal)
-- [https://docs.microsoft.com/en-us/azure/governance/policy/assign-policy-portal](https://docs.microsoft.com/en-us/azure/governance/policy/assign-policy-portal)
-- [https://docs.microsoft.com/en-us/azure/azure-sql/database/threat-detection-configure](https://docs.microsoft.com/en-us/azure/azure-sql/database/threat-detection-configure)
+- [https://docs.microsoft.com/azure/information-protection/what-is-information-protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [https://docs.microsoft.com/azure/azure-sql/database/transparent-data-encryption-tde-overview?tabs=azure-portal](https://docs.microsoft.com/azure/azure-sql/database/transparent-data-encryption-tde-overview?tabs=azure-portal)
+- [https://docs.microsoft.com/azure/governance/policy/assign-policy-portal](https://docs.microsoft.com/azure/governance/policy/assign-policy-portal)
+- [https://docs.microsoft.com/azure/azure-sql/database/threat-detection-configure](https://docs.microsoft.com/azure/azure-sql/database/threat-detection-configure)

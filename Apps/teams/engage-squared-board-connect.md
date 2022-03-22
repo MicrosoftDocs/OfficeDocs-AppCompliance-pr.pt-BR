@@ -1,19 +1,20 @@
 ---
-title: Informações do aplicativo para o Conexão por Engage Squared
+title: Informações do aplicativo para Conexão por Engage Squared
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o board Conexão, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Board Conexão, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 91d88db95de0991f7ccb65f9e19e276fce27158c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5327ac45a97b2a0cade740eecbcbc38971ec3243
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263512"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550600"
 ---
 # <a name="board-connect"></a>Board Connect
 
@@ -40,8 +41,9 @@ Informações fornecidas pelo Engage Squared para a Microsoft:
 | Termos de uso do aplicativo | [https://boardconnect.app/terms](https://boardconnect.app/terms) |
 | Funcionalidade principal do aplicativo | O Conexão ajuda as organizações a executar reuniões de forma mais eficiente. Um Microsoft Teams, associado a uma equipe da Microsoft, permite que as organizações criem reuniões, gerenciem agendas, votações, documentos e muito mais. O aplicativo também se integra Outlook calendários e grupos do Office 365 para criar novos eventos de calendário e ajudar com as secretárias de administração organizando e gerenciando o evento. |
 | Localização da sede da empresa | Austrália |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://boardconnect.app](https://boardconnect.app) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo Engage Squared sobre como esse aplicat
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,12 +161,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Para permitir que o aplicativo atualize calendários do usuário para refletir as respostas de participação da reunião do conselho enviadas por meio do aplicativo. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| Group.ReadWrite.All | delegado | Para permitir que o aplicativo crie, atualize e exclua eventos de calendário de grupo. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| Sites.Manage.All | delegado | Para permitir que o aplicativo crie listas e bibliotecas, gerencie itens de lista e gerencie documentos em um conjunto de sites de equipe. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| User.Read | delegado | Para permitir que os usuários entre no aplicativo e permitir que o aplicativo leia o perfil do usuário atualmente assinado. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| User.ReadBasic.All | delegado | Para permitir que o aplicativo leia um conjunto básico de propriedades de perfil de outros usuários em nome do usuário assinado, para exibi-lo no aplicativo. Isso inclui nome de exibição, nome e sobrenome, endereço de email e foto. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| offline_access | delegado | Para permitir que o aplicativo receba um token de atualização, que pode ser usado para obter um novo token de acesso quando o atual expirar. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| Calendars.ReadWrite | delegado | Para permitir que o aplicativo atualize calendários do usuário para refletir as respostas de participação da reunião do conselho enviadas por meio do aplicativo. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| Group.ReadWrite.All | delegado | Para permitir que o aplicativo crie, atualize e exclua eventos de calendário de grupo. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| Sites.Manage.All | delegado | Para permitir que o aplicativo crie listas e bibliotecas, gerencie itens de lista e gerencie documentos em um conjunto de sites de equipe. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| User.Read | delegado | Para permitir que os usuários entre no aplicativo e permitir que o aplicativo leia o perfil do usuário atualmente assinado. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| User.ReadBasic.All | delegado | Para permitir que o aplicativo leia um conjunto básico de propriedades de perfil de outros usuários em nome do usuário assinado, para exibi-lo no aplicativo. Isso inclui nome de exibição, nome e sobrenome, endereço de email e foto. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| offline_access | delegado | Para permitir que o aplicativo receba um token de atualização, que pode ser usado para obter um novo token de acesso quando o atual expirar. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

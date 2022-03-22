@@ -2,18 +2,19 @@
 title: Informações do aplicativo para do!book CB pela Digital Office Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o do!book CB, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 951530059646ee3d73524dbc13ff534ae2b9eb56
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: bb08ed4b7213205d437607d2f129a1a69f520355
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259658"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550229"
 ---
 # <a name="dobook-cb"></a>do!book CB
 
@@ -38,10 +39,11 @@ Informações fornecidas pela Digital Office Inc. para a Microsoft:
 | Nome da empresa de parceiro | Digital Office Inc. |
 | Site da empresa | [https://www.do-tools.net](https://www.do-tools.net) |
 | Termos de uso do aplicativo | [https://www.do-tools.net/agreements/legal/dobookCB_Terms.pdf](https://www.do-tools.net/agreements/legal/dobookCB_Terms.pdf) |
-| Funcionalidade principal do aplicativo | Tornar as reuniões ainda mais convenientes com o &quot; Quadro de Compartilhamento de Material &quot; ! |
+| Funcionalidade principal do aplicativo | Tornar as reuniões ainda mais convenientes com o Quadro de &quot;Compartilhamento de Material&quot;! |
 | Localização da sede da empresa | Japão |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.do-tools.net](https://www.do-tools.net) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pela Digital Office Inc. sobre como esse ap
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -162,7 +157,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? |  |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

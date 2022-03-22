@@ -2,18 +2,19 @@
 title: Informações do aplicativo para SuitePro-G pelo IQar
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o SuitePro-G, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a436df31649d7f73d34650e3c0e3bac4119ce9cc
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 3d98560d9a350e118543b17c54293ba215e7bb1b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263717"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551450"
 ---
 # <a name="suitepro-g"></a>SuitePro-G
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo IQar à Microsoft:
 | Termos de uso do aplicativo | [https://iqar-france.fr/cgu](https://iqar-france.fr/cgu) |
 | Funcionalidade principal do aplicativo | SuitePro-G est un outil collaboratif et intuitif pour la gestion de votre portefeuille de projets. Connectez votre outil de pilotage de projets en 3 cliques et gardez une &#233;quipe projet impliqu&#233;e, organize&#233;e et connect&#233;e.  O SuitePro-G é uma solução colaborativa e intuitiva que permite gerenciar seu portfólio de projetos. Conexão ferramenta de gerenciamento de projeto em 3 cliques e mantenha uma equipe de projeto envolvida, organizada e conectada.  |
 | Localização da sede da empresa | França |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://admin.suiteprog.com/Terms](https://admin.suiteprog.com/Terms) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | SelfHosted |
 
@@ -57,14 +58,7 @@ Essas informações foram fornecidas pelo IQar sobre como esse aplicativo coleta
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -163,7 +157,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? |  |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Weekdone by Weekdone Ltd
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Weekdone, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 985903d0dc0fec410280778ff78febee9139aa6b
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: a6d5ef2562dae0f88aa3e9683aaf20296603bee4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200540"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550470"
 ---
 # <a name="weekdone"></a>Weekdone
 
@@ -40,9 +41,9 @@ Informações fornecidas pela Weekdone Ltd à Microsoft:
 | Termos de uso do aplicativo | [https://weekdone.com/terms-of-service](https://weekdone.com/terms-of-service) |
 | Funcionalidade principal do aplicativo | Exibir e atualizar seus Check-ins semanais e OKRs e ser notificado sobre atualizações |
 | Localização da sede da empresa | Estônia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://weekdone.com/integrations/microsoft-teams](https://weekdone.com/integrations/microsoft-teams) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outro |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outros |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

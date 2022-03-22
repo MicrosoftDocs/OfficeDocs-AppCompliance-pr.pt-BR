@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Sistema de Gerenciamento de Ofertas pela Beyond Technologies
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Sistema de Gerenciamento de Ofertas, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7089e7f666dd8c601c5d585f0cec7ce20a613b3e
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: e8209c8ebf341b736bad0e7d8c4143139db6a151
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155052"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550690"
 ---
 # <a name="bid-management-system"></a>Sistema de Gerenciamento de Ofertas
 
@@ -37,11 +38,10 @@ Informações fornecidas pela Beyond Technologies à Microsoft:
 | Nome da empresa de parceiro | Além das tecnologias |
 | Site da empresa | [https://www.beyondintranet.com](https://www.beyondintranet.com) |
 | Termos de uso do aplicativo | [https://www.beyondintranet.com/eula](https://www.beyondintranet.com/eula) |
-| Funcionalidade principal do aplicativo | Um SharePoint de Gerenciamento de Propostas/Software de Gerenciamento de Propostas para digitalizar as atividades de oferta. |
+| Funcionalidade principal do aplicativo | Um SharePoint de Gerenciamento de Propostas/Software de Gerenciamento de Propostas para digitalizar atividades de oferta. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.beyondintranet.com/bid-management-software](https://www.beyondintranet.com/bid-management-software) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,7 +165,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

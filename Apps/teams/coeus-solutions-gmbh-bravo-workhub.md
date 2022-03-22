@@ -2,20 +2,21 @@
 title: Informações sobre o aplicativo para o TRABALHO DE ACORDO PELA GmbH da Coeus Solutions
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o TRABALHO DORAA, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o TRABALHO DARAA, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c42e3e6cd8cefbcd58be7b43a68600fd312a4922
-ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
+ms.openlocfilehash: b920f758182f748d97b7002f05bf680102a874b0
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "62449861"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551590"
 ---
-# <a name="bravo-workhub"></a>TRABALHO DO BRAVO
+# <a name="bravo-workhub"></a>BRAVO Workhub
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +33,10 @@ Informações fornecidas pelo GmbH da Coeus Solutions para a Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | TRABALHO DO BRAVO |
+| Nome do aplicativo | BRAVO Workhub |
 | ID | WA200003694 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Coeus Solutions GmbH |
+| Nome da empresa de parceiro | Soluções do Coeus GmbH |
 | Site da empresa | [https://getbravo.io](https://getbravo.io) |
 | Termos de uso do aplicativo | [https://getbravo.io/terms-and-conditions](https://getbravo.io/terms-and-conditions) |
 | Funcionalidade principal do aplicativo | Dê recompensas ponto a ponto facilmente com Microsoft Teams integração com o BRAVO. |
@@ -166,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

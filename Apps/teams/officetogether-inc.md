@@ -2,18 +2,19 @@
 title: Informações do aplicativo para OfficeTogether por OfficeTogether, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o OfficeTogether, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f291b6d1586c5b119fb01eafc9a18ce867f63646
-ms.sourcegitcommit: e43a258f089034069a6101a3290dc315725762fc
+ms.openlocfilehash: f2a68a5e4438a078f5ceab8fe9389b3b834a7608
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/16/2022
-ms.locfileid: "62832532"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552030"
 ---
 # <a name="officetogether"></a>OfficeTogether
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo OfficeTogether, Inc. à Microsoft:
 | Termos de uso do aplicativo | [https://www.officetogether.com/terms-of-use/](https://www.officetogether.com/terms-of-use/) |
 | Funcionalidade principal do aplicativo | OfficeTogether é uma plataforma de agendamento e reserva do office. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://help.officetogether.com](https://help.officetogether.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -60,8 +61,8 @@ Essas informações foram fornecidas pelo OfficeTogether, Inc. sobre como esse a
 | Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | Email do usuário, Teams ID do usuário, ID de locatário |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Quais dados são armazenados em seus bancos de dados? | Email do usuário, Teams ID de locatário, ID de locatário |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -170,18 +171,18 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | ambos | Usamos essa permissão para gerenciar calendários para funcionários, como sincronização de dias no escritório ou gerenciamento de salas de conferência. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| Group.ReadWrite.All | aplicação | Para todos os usuários que vêm ao escritório, criamos uma equipe diária para os usuários conversarem e falarem sobre o escritório. Essa permissão é necessária para gerenciar  | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| Presence.Read | delegado | Para sincronizar o status OfficeTogether de um funcionário para Teams. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| Team.ReadBasic.All | aplicação | Usamos essa permissão para gerenciar equipes diárias criadas, como arquivamento delas. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| Teams. Criar | aplicação | Para todos os usuários que vêm ao escritório, criamos uma equipe diária para os usuários conversarem e falarem sobre o escritório. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| TeamsAppInstallation.ReadWriteSelfForUser.All | aplicação | Nosso aplicativo é um aplicativo pessoal. Depois de instalado em um único usuário em uma empresa, instalaremos automaticamente todos os usuários registrados do OfficeTogether na mesma empresa. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| User.Read | delegado | SSO no email das equipes. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| User.ReadWrite.All | aplicação | Consulte TeamsAppInstallation.ReadWriteSelfForUser.All. Para instalar o OfficeTogether para todos os usuários relevantes, examinaremos o diretório e corresponderemos aos usuários. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| email | delegado | SSO no email das equipes. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| offline_access | delegado | SSO no email das equipes. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| openid | delegado | SSO no email das equipes. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| perfil | delegado | SSO no email das equipes. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| Calendars.ReadWrite | ambos | Usamos essa permissão para gerenciar calendários para funcionários, como sincronização de dias no escritório ou gerenciamento de salas de conferência. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| Group.ReadWrite.All | aplicação | Para todos os usuários que vêm ao escritório, criamos uma equipe diária para os usuários conversarem e falarem sobre o escritório. Essa permissão é necessária para gerenciar  | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| Presence.Read | delegado | Para sincronizar o status OfficeTogether de um funcionário para Teams. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| Team.ReadBasic.All | aplicação | Usamos essa permissão para gerenciar equipes diárias criadas, como arquivamento delas. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| Teams. Criar | aplicação | Para todos os usuários que vêm ao escritório, criamos uma equipe diária para os usuários conversarem e falarem sobre o escritório. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| TeamsAppInstallation.ReadWriteSelfForUser.All | aplicação | Nosso aplicativo é um aplicativo pessoal. Depois de instalado em um único usuário em uma empresa, instalaremos automaticamente todos os usuários registrados do OfficeTogether na mesma empresa. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| User.Read | delegado | SSO no email das equipes. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| User.ReadWrite.All | aplicação | Consulte TeamsAppInstallation.ReadWriteSelfForUser.All. Para instalar o OfficeTogether para todos os usuários relevantes, examinaremos o diretório e corresponderemos aos usuários. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| email | delegado | SSO no email das equipes. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| offline_access | delegado | SSO no email das equipes. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| openid | delegado | SSO no email das equipes. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| perfil | delegado | SSO no email das equipes. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

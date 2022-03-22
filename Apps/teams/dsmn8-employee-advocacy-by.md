@@ -2,18 +2,19 @@
 title: Informações do aplicativo para a defesa de funcionários pelo DSMN8 por DSMN8
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/19/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para a Proteção de Funcionários pela DSMN8, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para a Proteção de Funcionários pelo DSMN8, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 73ac07bb877ab8a387c7182bce3dbf1a4f2d93da
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 3fc257689239fdef6ef0abc32b7b572b737c0043
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259607"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552659"
 ---
 # <a name="employee-advocacy-by-dsmn8"></a>Consultoria de Funcionários por DSMN8
 
@@ -170,7 +171,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | ambos | Para ler o título do trabalho, o nome, o sobrenome e os dados de email durante o processo de entrada para criar um perfil em nosso aplicativo | [3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c) |
+>| User.Read | ambos | Para ler o título do trabalho, o nome, o sobrenome e os dados de email durante o processo de entrada para criar um perfil em nosso aplicativo | [3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c](../azure/3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

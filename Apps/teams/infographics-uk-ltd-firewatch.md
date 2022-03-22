@@ -2,18 +2,19 @@
 title: Informações de aplicativo para FireWatch pela Infographics UK Ltd.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para FireWatch, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ffcb03e131fa8ae65128af140d80b66eac39caf7
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5394447e6bee779fa8f3d7f40fa29259ba4b59e3
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263559"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550099"
 ---
 # <a name="firewatch"></a>FireWatch
 
@@ -38,10 +39,11 @@ Informações fornecidas pela Infographics UK Ltd. para a Microsoft:
 | Nome da empresa de parceiro | Infográficos UK Ltd. |
 | Site da empresa | [https://www.infographics.co.uk](https://www.infographics.co.uk) |
 | Termos de uso do aplicativo | [https://www.infographics.co.uk/terms-and-conditions/](https://www.infographics.co.uk/terms-and-conditions/) |
-| Funcionalidade principal do aplicativo | O Conexão FireWatch permite que os serviços de salvamento e incêndio integrem o aplicativo FireWatch ao Microsoft Teams para que os usuários possam concluir tarefas diretamente no Microsoft Teams. Atualmente, ele fornece suporte ao usuário e assistência por meio de um bot Microsoft Teams para reservar o serviço de 1/4 diretamente no ambiente Microsoft Teams usuário. As versões futuras incluirão suporte para outras ações por meio de Bots e Cartões, incluindo solicitações de feriado do FireWatch, lembretes de tarefas, etc. |
+| Funcionalidade principal do aplicativo | O fireWatch Conexão permite que os serviços de salvamento e incêndio integrem o aplicativo FireWatch ao Microsoft Teams para que os usuários possam concluir tarefas diretamente no Microsoft Teams. Atualmente, ele fornece suporte ao usuário e assistência por meio de um bot Microsoft Teams para reservar o serviço de 1/4 diretamente no ambiente Microsoft Teams usuário. As versões futuras incluirão suporte para outras ações por meio de Bots e Cartões, incluindo solicitações de feriado do FireWatch, lembretes de tarefas, etc. |
 | Localização da sede da empresa | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.firewatch.co.uk](https://www.firewatch.co.uk) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pela Infographics UK Ltd. sobre como esse a
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -162,7 +157,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? |  |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

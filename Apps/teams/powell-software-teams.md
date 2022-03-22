@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Teams de Teams de Software Descaro.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Teams, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Teams de Teams, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4ba6c53634c49e2609769315ea94efefedc4e43a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 7245730e77597a9d22c387f3001990786ea1f827
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259339"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550069"
 ---
 # <a name="powell-teams"></a>Powell Teams
 
@@ -38,10 +39,11 @@ Informações fornecidas pelo Software Desarmados para a Microsoft:
 | Nome da empresa de parceiro | Software DoLS |
 | Site da empresa | [https://www.powell-software.com](https://www.powell-software.com) |
 | Termos de uso do aplicativo | [https://powell-software.com/en/powell-teams-terms-of-use/](https://powell-software.com/en/powell-teams-terms-of-use/) |
-| Funcionalidade principal do aplicativo | O Teams do Teams oferece um painel inteligente para todos os funcionários da empresa, ajuda-os a organizar facilmente as marcas de todas as equipes, a descobrir as equipes da empresa promovidas mais importantes e, finalmente, a usar modelos de equipe predefinidos baseados em função para economizar &amp; tempo. Uma API também está disponível para recuperar e trabalhar com o conjunto de dados no banco de dados Teams de Dados do Teams Desarmado ( Finalmente, um conector para Aplicativos Lógicos e Power Automate https://docapiteams.powell-software.com) também está disponível (https://docs.microsoft.com/en-us/connectors/powellteams) |
+| Funcionalidade principal do aplicativo | O Teams do Teams oferece um painel inteligente para todos os funcionários da empresa, &amp; ajuda-os a organizar facilmente as marcas de todas as equipes, a descobrir as equipes da empresa promovidas mais importantes e, finalmente, a usar modelos de equipe predefinidos baseados em função para economizar tempo. Uma API também está disponível para recuperar e trabalhar com o conjunto de dados no banco de dados Teams de Dados do Teams DoLs (https://docapiteams.powell-software.com) Finalmente, um conector para Aplicativos Lógicos e Power Automate também está disponível (https://docs.microsoft.com/en-us/connectors/powellteams) |
 | Localização da sede da empresa | França |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://helpteams.powell-software.com](https://helpteams.powell-software.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo Software Dolsa sobre como esse aplicat
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído após 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,12 +161,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | delegado | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| Group.ReadWrite.All | delegado | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| Notes.Read.All | delegado | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| Notes.ReadWrite.All | delegado | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| Sites.Read.All | delegado | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
->| User.Read.All | delegado | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](https://docs.microsoft.com/microsoft-365-app-certification/azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4) |
+>| Directory.AccessAsUser.All | delegado | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| Group.ReadWrite.All | delegado | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| Notes.Read.All | delegado | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| Notes.ReadWrite.All | delegado | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| Sites.Read.All | delegado | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
+>| User.Read.All | delegado | NA | [086ae3fb-fdf0-4c49-8c38-57d082b00dc4](../azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

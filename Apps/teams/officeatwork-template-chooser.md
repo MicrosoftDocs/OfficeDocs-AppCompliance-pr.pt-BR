@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Selador de Modelo por officeatwork
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Selador de Modelos, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 81d5857e988e419b5771fbbde444562e640ff622
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ed7bf1d1128a71b0655e2505a4a51a38c4744ba0
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259357"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552050"
 ---
 # <a name="template-chooser"></a>Template Chooser
 
@@ -39,7 +40,7 @@ Informações fornecidas pelo officeatwork à Microsoft:
 | Termos de uso do aplicativo | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 | Funcionalidade principal do aplicativo | Acesse seus modelos compartilhados centralmente em Office, Teams, SharePoint Online e outros aplicativos. |
 | Localização da sede da empresa | Suíça |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://links.officeatwork.com/templatechooser](https://links.officeatwork.com/templatechooser) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -58,14 +59,7 @@ Essas informações foram fornecidas pelo officeatwork sobre como esse aplicativ
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
 | Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -170,15 +164,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite.All | delegado | Habilitar favoritos e OneDrive recurso | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
->| Group.ReadWrite.All | delegado | Habilitar Teams recurso | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
->| GroupMember.Read.All | delegado | Habilitar Teams recurso | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
->| Sites.Read.All | delegado | Ler os arquivos de modelo de usuários armazenados SharePoint | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
->| User.Read | delegado | Habilitar a exibição de usuário com assinatura | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
->| User.Read.All | delegado | Habilitar a exibição de propriedades do usuário | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
->| offline_access | delegado | Habilitar a assinatura automatizada para hosts Office antigos | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
->| openid | delegado | Habilitar a login | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
->| perfil | delegado | Habilitar a login | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| Files.ReadWrite.All | delegado | Habilitar favoritos e OneDrive recurso | [dae2eacf-3eb5-4440-baff-984fbd5cae68](../azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md) |
+>| Group.ReadWrite.All | delegado | Habilitar Teams recurso | [dae2eacf-3eb5-4440-baff-984fbd5cae68](../azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md) |
+>| GroupMember.Read.All | delegado | Habilitar Teams recurso | [dae2eacf-3eb5-4440-baff-984fbd5cae68](../azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md) |
+>| Sites.Read.All | delegado | Ler os arquivos de modelo de usuários armazenados SharePoint | [dae2eacf-3eb5-4440-baff-984fbd5cae68](../azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md) |
+>| User.Read | delegado | Habilitar a exibição de usuário com assinatura | [dae2eacf-3eb5-4440-baff-984fbd5cae68](../azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md) |
+>| User.Read.All | delegado | Habilitar a exibição de propriedades do usuário | [dae2eacf-3eb5-4440-baff-984fbd5cae68](../azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md) |
+>| offline_access | delegado | Habilitar a assinatura automatizada para hosts Office antigos | [dae2eacf-3eb5-4440-baff-984fbd5cae68](../azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md) |
+>| openid | delegado | Habilitar a login | [dae2eacf-3eb5-4440-baff-984fbd5cae68](../azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md) |
+>| perfil | delegado | Habilitar a login | [dae2eacf-3eb5-4440-baff-984fbd5cae68](../azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

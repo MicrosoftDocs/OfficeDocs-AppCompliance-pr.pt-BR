@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Console de Atendimento em Qualquer Lugar365 para Microsoft Teams por WORKSTREAMPEOPLE BV
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/22/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Console de Atendimento em Qualquer Lugar365 para Microsoft Teams, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: adbb46b7c7b8cb5320a61cd41c58c8318315af82
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 27d7116b0f3adea4c4174bd25a64cd58f195a2ff
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080978"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550800"
 ---
 # <a name="anywhere365-attendant-console-for-microsoft-teams"></a>Console do Atendente em Qualquer Lugar365 para Microsoft Teams
 
@@ -38,7 +39,7 @@ Informações fornecidas pelo WORKSTREAMPEOPLE BV para a Microsoft:
 | Termos de uso do aplicativo | [https://anywhere365.io/terms-conditions/](https://anywhere365.io/terms-conditions/) |
 | Funcionalidade principal do aplicativo | O Console de Atendimento mais poderoso e amigável do mercado, nativo Microsoft Teams |
 | Localização da sede da empresa | Países Baixos (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://anywhere365.io/attendant-console-for-microsoft-team...](https://anywhere365.io/attendant-console-for-microsoft-teams/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -59,7 +60,7 @@ Essas informações foram fornecidas pelo WORKSTREAMPEOPLE BV sobre como esse ap
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | TenantId |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Países Baixos (o) |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -168,14 +169,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read.Shared | delegado | Queremos exibir os calendários de colegas aos que o usuário tem acesso | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| People.Read | delegado | Queremos mostrar os detalhes dos colegas do usuário para poder alcançá-los | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| Presence.Read.All | delegado | Queremos mostrar a presença de todos os usuários na lista de contatos | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| User.Read.All | delegado | Queremos poder exibir todas as informações dos colegas | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| email | delegado | Queremos poder enviar emails para o usuário e usá-lo em mensagens de retorno de chamada | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| offline_access | delegado | Queremos poder manter nossos dados atualizados | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| openid | delegado | Para identificar o usuário na plataforma | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| perfil | delegado | Precisamos dos dados de perfil para identificar o usuário e personalizar a experiência | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
+>| Calendars.Read.Shared | delegado | Queremos exibir os calendários de colegas aos que o usuário tem acesso | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| People.Read | delegado | Queremos mostrar os detalhes dos colegas do usuário para poder alcançá-los | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| Presence.Read.All | delegado | Queremos mostrar a presença de todos os usuários na lista de contatos | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| User.Read.All | delegado | Queremos poder exibir todas as informações dos colegas | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| email | delegado | Queremos poder enviar emails para o usuário e usá-lo em mensagens de retorno de chamada | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| offline_access | delegado | Queremos poder manter nossos dados atualizados | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| openid | delegado | Para identificar o usuário na plataforma | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| perfil | delegado | Precisamos dos dados de perfil para identificar o usuário e personalizar a experiência | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

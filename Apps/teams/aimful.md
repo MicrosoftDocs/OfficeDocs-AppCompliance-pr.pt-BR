@@ -2,20 +2,21 @@
 title: Informações do aplicativo para Objetivo por Objetivo
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/31/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Aimful, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ec08bb1f91c332cd0cde36d199566a4b06cc4816
-ms.sourcegitcommit: 58f40775dd4adee3a6037a74e4ccd98823f4832c
+ms.openlocfilehash: ec3fbf394e219d7d7b3b108e70186510bd6d6a31
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2022
-ms.locfileid: "62306057"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551630"
 ---
-# <a name="aimful"></a>Objetivo
+# <a name="aimful"></a>Aimful
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,15 +33,15 @@ Informações fornecidas por Aimful para a Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Objetivo |
+| Nome do aplicativo | Aimful |
 | ID | WA200003698 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Objetivo |
+| Nome da empresa de parceiro | Aimful |
 | Site da empresa | [https://aimful.io](https://aimful.io) |
 | Termos de uso do aplicativo | [https://aimful.io/terms-and-conditions/](https://aimful.io/terms-and-conditions/) |
 | Funcionalidade principal do aplicativo | Objetivo incentiva a transformação de cultura de reunião em sua equipe ou em sua empresa  |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://aimful.io/how-it-works/](https://aimful.io/how-it-works/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -170,8 +171,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Acesso a eventos de calendário | [93544582-de9c-42a0-baa5-df3d25e9bd48](https://docs.microsoft.com/microsoft-365-app-certification/azure/93544582-de9c-42a0-baa5-df3d25e9bd48) |
->| MailboxSettings.Read | delegado | Acessar o timezone do usuário | [93544582-de9c-42a0-baa5-df3d25e9bd48](https://docs.microsoft.com/microsoft-365-app-certification/azure/93544582-de9c-42a0-baa5-df3d25e9bd48) |
+>| Calendars.ReadWrite | delegado | Acesso a eventos de calendário | [93544582-de9c-42a0-baa5-df3d25e9bd48](../azure/93544582-de9c-42a0-baa5-df3d25e9bd48.md) |
+>| MailboxSettings.Read | delegado | Acessar o timezone do usuário | [93544582-de9c-42a0-baa5-df3d25e9bd48](../azure/93544582-de9c-42a0-baa5-df3d25e9bd48.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

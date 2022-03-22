@@ -2,18 +2,19 @@
 title: Informações do aplicativo para SQQ por SuperQuickQuestion
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SQQ, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0dfeb1cc7cf0cbc593cb2cfa2f897bd299963236
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d9a92e995202636c4a5439385b89a217b570747d
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251649"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550049"
 ---
 # <a name="sqq"></a>SQQ
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo SuperQuickQuestion à Microsoft:
 | Termos de uso do aplicativo | [https://superquickquestion.com/termsofuse](https://superquickquestion.com/termsofuse) |
 | Funcionalidade principal do aplicativo | SuperQuickQuestion é uma plataforma de videoconferência um-a-um ao vivo com um limite de tempo de 60 segundos. Queremos incentivar conversas mais produtivas, eliminar reuniões desnecessárias e ajudá-lo a aumentar a velocidade de solução de problemas e recuperar seu calendário, um minuto por vez. Como qualquer um de nós que passou tempo em reuniões com uma dezena de pessoas tentando conversar entre si pode atestar, reuniões mais longas não necessariamente se igualam a mais colaboração, e&#8217;é onde o SQQ pode ajudar. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://superquickquestion.com/UserGuide/msteams](https://superquickquestion.com/UserGuide/msteams) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -170,9 +171,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Chat.ReadBasic | delegado | Obter o número de participantes em um chat | [25379fc8-577f-4935-b681-6f027977fbe3](https://docs.microsoft.com/microsoft-365-app-certification/azure/25379fc8-577f-4935-b681-6f027977fbe3) |
->| User.Read | delegado | Ler o nome do locatário do usuário | [25379fc8-577f-4935-b681-6f027977fbe3](https://docs.microsoft.com/microsoft-365-app-certification/azure/25379fc8-577f-4935-b681-6f027977fbe3) |
->| openid | delegado | Entrar usuários do aplicativo para acessar o ponto Graph ponto de extremidade | [25379fc8-577f-4935-b681-6f027977fbe3](https://docs.microsoft.com/microsoft-365-app-certification/azure/25379fc8-577f-4935-b681-6f027977fbe3) |
+>| Chat.ReadBasic | delegado | Obter o número de participantes em um chat | [25379fc8-577f-4935-b681-6f027977fbe3](../azure/25379fc8-577f-4935-b681-6f027977fbe3.md) |
+>| User.Read | delegado | Ler o nome do locatário do usuário | [25379fc8-577f-4935-b681-6f027977fbe3](../azure/25379fc8-577f-4935-b681-6f027977fbe3.md) |
+>| openid | delegado | Entrar usuários do aplicativo para acessar o ponto Graph ponto de extremidade | [25379fc8-577f-4935-b681-6f027977fbe3](../azure/25379fc8-577f-4935-b681-6f027977fbe3.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para mover o trabalho para frente com Jira pelo Move Work Forward
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Move Work Forward with Jira, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 44ed4ba1ac4dbfd4d311083701a21a1cee846f24
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: b1d64e9bc54fbd67d3eeb60d2fc72898a1982c37
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255687"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551420"
 ---
 # <a name="move-work-forward-with-jira"></a>Avançar o trabalho com Jira
 
@@ -38,9 +39,9 @@ Informações fornecidas pelo Move Work Forward para a Microsoft:
 | Nome da empresa de parceiro | Avançar o trabalho |
 | Site da empresa | [https://www.moveworkforward.com](https://www.moveworkforward.com) |
 | Termos de uso do aplicativo | [https://www.moveworkforward.com/license-agreement/eula](https://www.moveworkforward.com/license-agreement/eula) |
-| Funcionalidade principal do aplicativo | O Move Work Forward ajuda as empresas a aumentar a produtividade, a transparência da equipe e economizar tempo fornecendo um conjunto de produtos que integram as ferramentas atlassianas com Microsoft Teams, GitHub, Azure DevOps e outras ferramentas de produtividade de equipe. |
+| Funcionalidade principal do aplicativo | O Move Work Forward ajuda as empresas a aumentar a produtividade, a transparência da equipe e economizar tempo fornecendo um conjunto de produtos que integram as ferramentas atlassianas com Microsoft Teams, GitHub, Azure DevOps e outras ferramentas de produtividade da equipe. |
 | Localização da sede da empresa | Cingapura |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.moveworkforward.com/product/microsoft-teams-jir...](https://www.moveworkforward.com/product/microsoft-teams-jira-connector) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -170,12 +171,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.Create | delegado | Criar um canal de discussão para um problema Jira | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| Channel.ReadBasic.All | delegado | Ler canais de uma equipe para enviar notificações para | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| Team.ReadBasic.All | delegado | Para ler as equipes a ser exibidas na página de configuração. Para notificações de Jira. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| TeamsAppInstallation.ReadForTeam | delegado | Verifique se o Aplicativo está instalado em uma equipe. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| User.Read | delegado | Para aprimorar a experiência do usuário. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
->| email | delegado | para mapear contas da Microsoft e do Atlassian | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Channel.Create | delegado | Criar um canal de discussão para um problema Jira | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| Channel.ReadBasic.All | delegado | Ler canais de uma equipe para enviar notificações para | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| Team.ReadBasic.All | delegado | Para ler as equipes a ser exibidas na página de configuração. Para notificações de Jira. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| TeamsAppInstallation.ReadForTeam | delegado | Verifique se o Aplicativo está instalado em uma equipe. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| User.Read | delegado | Para aprimorar a experiência do usuário. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
+>| email | delegado | para mapear contas da Microsoft e do Atlassian | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](../azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

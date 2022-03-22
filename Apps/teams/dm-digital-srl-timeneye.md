@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Timeneye pelo SRL Digital de DM
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Timeneye, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 788c1d1118c68e5e60cb6bf20ec2817d2d85bf84
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 91630e4d80cabfb43a0d474c3ec3bef523b73b7b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259627"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550219"
 ---
 # <a name="timeneye"></a>Timeneye
 
@@ -42,6 +43,7 @@ Informações fornecidas pelo SRL Digital do DM para a Microsoft:
 | Localização da sede da empresa | Itália |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo SRL Digital do DM sobre como esse apli
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de 2 semanas |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,17 +161,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | delegado | Data de início/término do evento, assunto do evento, ID do evento, URI da Web do evento. Gere sugestões com base em eventos de calendário. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| Calendars.Read.Shared | delegado | Data de início/término do evento, assunto do evento, ID do evento, URI da Web do evento. Usamos essas informações para gerar sugestões com base em eventos de calendário. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| Directory.Read.All | delegado | IDs dos grupos de usuários. Usamos essas informações para verificar os grupos dos quais o usuário é membro para que possa sincronizar os planejadores de seus grupos. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| Group.Read.All | delegado | Nome do grupo, ID do grupo. Usamos essas informações durante a sincronização dos projetos do planejador. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| Tasks.Read | delegado | nome da lista de tarefas, ID da lista de tarefas. Usamos essas informações durante a sincronização dos projetos do planejador. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| User.Read | delegado | email, nome. Usamos essas informações para fazer logoff no usuário/criar a conta de usuário | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| User.ReadBasic.All | delegado | nome do usuário, email. Usamos essas informações para que o usuário possa importar outros usuários do Planner/Microsoft para nosso serviço. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| email | delegado | Email. Usamos essas informações para fazer logoff no usuário/criar a conta de usuário | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| offline_access | delegado | Permissão necessária para sincronizar o planejador/calendário enquanto o usuário não estiver online. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| openid | delegado | id_token. Fazer logor no usuário por meio do Microsoft SSO | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| perfil | delegado | email, nome. Usamos essas informações para fazer logoff no usuário/criar a conta de usuário | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
+>| Calendars.Read | delegado | Data de início/término do evento, assunto do evento, ID do evento, URI da Web do evento. Gere sugestões com base em eventos de calendário. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| Calendars.Read.Shared | delegado | Data de início/término do evento, assunto do evento, ID do evento, URI da Web do evento. Usamos essas informações para gerar sugestões com base em eventos de calendário. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| Directory.Read.All | delegado | IDs dos grupos de usuários. Usamos essas informações para verificar os grupos dos quais o usuário é membro para que possa sincronizar os planejadores de seus grupos. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| Group.Read.All | delegado | Nome do grupo, ID do grupo. Usamos essas informações durante a sincronização dos projetos do planejador. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| Tasks.Read | delegado | nome da lista de tarefas, ID da lista de tarefas. Usamos essas informações durante a sincronização dos projetos do planejador. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| User.Read | delegado | email, nome. Usamos essas informações para fazer logoff no usuário/criar a conta de usuário | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| User.ReadBasic.All | delegado | nome do usuário, email. Usamos essas informações para que o usuário possa importar outros usuários do Planner/Microsoft para nosso serviço. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| email | delegado | Email. Usamos essas informações para fazer logoff no usuário/criar a conta de usuário | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| offline_access | delegado | Permissão necessária para sincronizar o planejador/calendário enquanto o usuário não estiver online. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| openid | delegado | id_token. Fazer logor no usuário por meio do Microsoft SSO | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| perfil | delegado | email, nome. Usamos essas informações para fazer logoff no usuário/criar a conta de usuário | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

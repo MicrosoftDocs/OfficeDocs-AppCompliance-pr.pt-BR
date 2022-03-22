@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Adobe Acrobat Sign for SharePoint by Adobe Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Adobe Acrobat Sign for SharePoint, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4839a19d8a616ae4d5e71850c28e6eefaca3028a
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: d7c8f5754741fc8443bfc25443918267333cd0f7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080977"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550790"
 ---
 # <a name="adobe-acrobat-sign-for-sharepoint"></a>Adobe Acrobat Sign for SharePoint
 
@@ -38,8 +39,9 @@ Informações fornecidas pelo Adobe Inc. à Microsoft:
 | Termos de uso do aplicativo | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
 | Funcionalidade principal do aplicativo | Mantenha fluxos de trabalho de assinatura de documentos em movimento rápido quando você adicionar o Adobe Sign a Teams. Agora, no Teams, você pode assinar documentos, enviá-los para assinaturas e aprovações legalmente vinculativas e &#8212; todas com a solução de sinal eletrônica preferencial da Microsoft. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://helpx.adobe.com/sign/using/microsoft-sharepoint-use...](https://helpx.adobe.com/sign/using/microsoft-sharepoint-user-guide.html) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ Essas informações foram fornecidas pelo Adobe Inc. sobre como esse aplicativo 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,7 +159,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | delegado | Para obter a função de usuário e validar se o usuário receber determinada permissão para o recurso de aplicativo. | [99a3ad8d-8682-4f2a-9c2c-b4b27e99585c](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a3ad8d-8682-4f2a-9c2c-b4b27e99585c) |
+>| Directory.Read.All | delegado | Para obter a função de usuário e validar se o usuário receber determinada permissão para o recurso de aplicativo. | [99a3ad8d-8682-4f2a-9c2c-b4b27e99585c](../azure/99a3ad8d-8682-4f2a-9c2c-b4b27e99585c.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

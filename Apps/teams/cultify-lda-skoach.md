@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Skoach por Seita, Lda
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Skoach, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Skoach, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: da5dd2805900893dd514849838996b1ab5777f68
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 8e471faa729bbb0ab38ce08a1a6fe162ef20360a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147256"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552180"
 ---
 # <a name="skoach"></a>Skoach
 
@@ -38,11 +39,10 @@ Informações fornecidas por Cultify, Lda para a Microsoft:
 | Nome da empresa de parceiro | Cultify, Lda |
 | Site da empresa | [https://skoach.com](https://skoach.com) |
 | Termos de uso do aplicativo | [https://www.skoach.com/terms-of-service](https://www.skoach.com/terms-of-service) |
-| Funcionalidade principal do aplicativo | Skoach é um técnico virtual no trabalho para manter as equipes juntas, alinhadas e produtivas que alinhe as pessoas para adotar novos comportamentos, com base nos resultados recorrentes da pesquisa. O Skoach não só aumenta o fluxo de comunicação das equipes, levando ao pertencimento e ao alinhamento, mas também ajuda as pessoas a se cuidarem para enfrentar os novos desafios que vêm com o trabalho híbrido, aumentando a produtividade de &amp; retenção. |
+| Funcionalidade principal do aplicativo | Skoach é um técnico virtual no trabalho para manter as equipes juntas, alinhadas e produtivas que alinhe as pessoas para adotar novos comportamentos, com base nos resultados recorrentes da pesquisa. O Skoach não só aumenta o fluxo de comunicação das equipes, levando ao pertencimento e ao alinhamento, mas também ajuda as pessoas a se cuidarem para enfrentar os novos desafios que vêm com o trabalho híbrido, &amp; aumentando a produtividade de retenção. |
 | Localização da sede da empresa | Portugal |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,7 +166,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Sim |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

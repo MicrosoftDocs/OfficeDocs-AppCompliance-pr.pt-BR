@@ -1,19 +1,20 @@
 ---
-title: Informações do aplicativo para o Microsoft Teams do Talkdesk, Inc.
+title: Informações do aplicativo para o Microsoft Teams Do talkdesk, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Microsoft Teams Connector do Talkdesk, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8f64011c4e6d1e5a7cfa385a89925bcac27ca6b8
-ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
+ms.openlocfilehash: dd59c9e9902f0c3dbd975efc711cc4c63dfa2f5f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62795754"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550389"
 ---
 # <a name="talkdesk-microsoft-teams-connector"></a>Conector de Microsoft Teams Talkdesk
 
@@ -59,7 +60,7 @@ Essas informações foram fornecidas pelo Talkdesk, Inc. sobre como esse aplicat
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Dados de Perfil de Usuário - Nome, Sobrenome, Nome Completo, endereço de email, número de telefone |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Não mantido |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -167,8 +168,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read.All | delegado | Necessário para coletar dados de perfil de Teams MS | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](https://docs.microsoft.com/microsoft-365-app-certification/azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8) |
->| offline_access | delegado | Permite que o aplicativo veja os dados mesmo quando o usuário que concedeu acesso não está conectado. | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](https://docs.microsoft.com/microsoft-365-app-certification/azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8) |
+>| User.Read.All | delegado | Necessário para coletar dados de perfil de Teams MS dos usuários | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](../azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) |
+>| offline_access | delegado | Permite que o aplicativo veja os dados mesmo quando o usuário que concedeu acesso não está conectado. | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](../azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

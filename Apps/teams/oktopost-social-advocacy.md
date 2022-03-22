@@ -2,18 +2,19 @@
 title: Informações do aplicativo para a Defesa Social pela Oktopost
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Social Advocacy, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d2512c15493639790c1853f00dfe005ae32cfbb7
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: c4715e95265d4edd96b51fa8b59e5535eef892d4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155085"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552010"
 ---
 # <a name="social-advocacy"></a>Advocacia Social
 
@@ -40,7 +41,7 @@ Informações fornecidas pela Oktopost à Microsoft:
 | Termos de uso do aplicativo | [https://www.oktopost.com/terms](https://www.oktopost.com/terms) |
 | Funcionalidade principal do aplicativo | Oktopost é uma plataforma de gerenciamento de mídia social e defesa de funcionários para B2B. Com o Oktopost, você pode gerenciar, monitorar e medir todas as suas atividades de mídia social em um só lugar. O Oktopost tem duas soluções principais: 1) gerenciamento de mídia social, incluindo publicação, monitoramento, análise, envolvimento e 2) advocacia de funcionários, permitindo que os profissionais de mercado gerenciem programas de compartilhamento social para os funcionários. A proposta de valor exclusivo do Oktopost também permite que os profissionais de marketing integrem dados sociais à pilha de marketing. |
 | Localização da sede da empresa | Israel |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.oktopost.com](https://www.oktopost.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -57,14 +58,7 @@ Essas informações foram fornecidas pela Oktopost sobre como esse aplicativo co
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,7 +158,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

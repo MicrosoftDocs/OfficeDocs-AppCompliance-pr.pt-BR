@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Lembrar pela 88 Ventures Limited
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Lembrar, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Lembrar, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 71d37c38b4cc3bdcc92182b4063061146d34c0dd
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 17592dc196ffc2e17e62af60708c718dc68ee523
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255027"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550680"
 ---
 # <a name="remind"></a>Remind
 
@@ -40,9 +41,9 @@ Informações fornecidas pela 88 Ventures Limited à Microsoft:
 | Termos de uso do aplicativo | [https://teamsreminder.app/#terms](https://teamsreminder.app/#terms) |
 | Funcionalidade principal do aplicativo | Lembre a si mesmo ou aos membros da sua equipe de reuniões importantes, itens a fazer ou até mesmo aniversários. Definir lembretes pessoais, lembretes de chat em grupo ou lembretes de canal. Você pode até definir lembretes recorrentes (por exemplo, uma reunião de equipe todas as segundas-feiras às 9h)! |
 | Localização da sede da empresa | Hong-Kong |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://teamsreminder.app](https://teamsreminder.app) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Other |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outros |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,7 +168,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | delegado | Usado quando um administrador procura usuários para atribuí-los a licenças. O uso desse recurso é totalmente opcional e não é necessário durante o uso normal do aplicativo. | [88546d4f-9973-4716-98e4-cd181c04bc2d](https://docs.microsoft.com/microsoft-365-app-certification/azure/88546d4f-9973-4716-98e4-cd181c04bc2d) |
+>| Directory.Read.All | delegado | Usado quando um administrador procura usuários para atribuí-los a licenças. O uso desse recurso é totalmente opcional e não é necessário durante o uso normal do aplicativo. | [88546d4f-9973-4716-98e4-cd181c04bc2d](../azure/88546d4f-9973-4716-98e4-cd181c04bc2d.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

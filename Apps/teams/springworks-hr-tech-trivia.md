@@ -2,18 +2,19 @@
 title: Informações do aplicativo para a Trivia by Springworks HR Tech
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/13/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Trivia, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d6cb39b076b113828b5018eb557a1c2ee54c4004
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: b16a3197e930934e927b55e67d4a5ee98e33182a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147291"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551409"
 ---
 # <a name="trivia"></a>Trivia
 
@@ -40,9 +41,8 @@ Informações fornecidas pela Springworks HR Tech para a Microsoft:
 | Termos de uso do aplicativo | [https://trivia.springworks.in/tnc](https://trivia.springworks.in/tnc) |
 | Funcionalidade principal do aplicativo | Uma equipe que joga junto, se liga melhor. Com a Trivia, jogue quizzes e quebra-cabeças em tempo real com seus colegas de equipe, envolva-se com eles e se envolva com as pausas sociais no trabalho. Trivia&#8217;pacote de recursos: Quizzes - Competir com seus colegas de equipe em quizzes de formato MCQ, Quebra-cabeças do Word - Resolver quebra-cabeça simplesmente reorganizando letras para formar palavras significativas e (Un)Popular Opinions - Causar alguma controvérsia em sua equipe com votações divertidas |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.springworks.in/trivia](https://www.springworks.in/trivia) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,7 +164,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

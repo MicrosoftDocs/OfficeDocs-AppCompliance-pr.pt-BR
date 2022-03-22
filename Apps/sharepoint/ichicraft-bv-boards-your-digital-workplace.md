@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Boards Ichicraft - Seu Local de Trabalho Digital por ichicraft b.v.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Ichicraft Boards - Seu Local de Trabalho Digital, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a4ca245baa59050f7d3c925fd9cd3a89d71d5cdf
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: b006f9afc956d41843ab40f8620a8688c4954fed
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080967"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550289"
 ---
 # <a name="ichicraft-boards---your-digital-workplace"></a>Ichicraft Boards - Seu Local de Trabalho Digital
 
@@ -39,7 +40,7 @@ Informações fornecidas pelo ichicraft b.v. para a Microsoft:
 | Termos de uso do aplicativo | [https://ichicraft.com/terms/](https://ichicraft.com/terms/) |
 | Funcionalidade principal do aplicativo | O local de trabalho digital pessoal mais abrangente e fácil de usar.  |
 | Localização da sede da empresa | Países Baixos (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://ichicraft.com](https://ichicraft.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -56,14 +57,7 @@ Essas informações foram fornecidas pelo ichicraft b.v. sobre como esse aplicat
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

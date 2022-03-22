@@ -2,18 +2,19 @@
 title: Informações do aplicativo para fóruns de discussão em quadrados sociais por ferramentas do Lightning
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/02/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Fóruns de Discussão do Social Squared, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 692c53d52f0a31717b2f263d8d3b452c1bf7e540
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: ddb338b61c19918ab32409b55256349e40c265fa
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080976"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551680"
 ---
 # <a name="social-squared-discussion-forums"></a>Fóruns de Discussão No Quadrado Social
 
@@ -39,7 +40,7 @@ Informações fornecidas pelo Lightning Tools à Microsoft:
 | Termos de uso do aplicativo | [https://lightningtools.com/lightning-tools-social-squared-c...](https://lightningtools.com/lightning-tools-social-squared-client-side-web-part-software-license-agreement) |
 | Funcionalidade principal do aplicativo | Aplicativo de Quadro de Discussão para Microsoft Teams e Microsoft SharePoint |
 | Localização da sede da empresa | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://lightningtools.com/product/social-squared-sharepoin...](https://lightningtools.com/product/social-squared-sharepoint-discussion-board) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -56,14 +57,7 @@ Essas informações foram fornecidas pelo Lightning Tools sobre como esse aplica
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,9 +161,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.ReadWrite.All | aplicação | Para inscrever membros do grupo em uma postagem do fórum | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
->| Presence.Read.All | aplicação | Para mostrar a presença do usuário nos perfis de usuário do quadro de discussão | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
->| User.ReadBasic.All | aplicação | Para determinar o título e o email dos usuários para notificações | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4) |
+>| Group.ReadWrite.All | aplicação | Para inscrever membros do grupo em uma postagem do fórum | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
+>| Presence.Read.All | aplicação | Para mostrar a presença do usuário nos perfis de usuário do quadro de discussão | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
+>| User.ReadBasic.All | aplicação | Para determinar o título e o email dos usuários para notificações | [a96cbd10-e960-47b8-855b-3af4b5dbd6f4](../azure/a96cbd10-e960-47b8-855b-3af4b5dbd6f4.md) |
 
 >Este aplicativo não tem APIs adicionais.
 
