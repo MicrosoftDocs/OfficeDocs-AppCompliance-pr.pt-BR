@@ -2,18 +2,19 @@
 title: Informações do aplicativo para SlideHub por nomorehours
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SlideHub, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0a8f6380a952305141bc13bfe03df52f3c209a21
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 074bf49ca573e6d8ce5797bce9f14daa42f88a39
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62261617"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545199"
 ---
 # <a name="slidehub"></a>SlideHub
 
@@ -39,8 +40,9 @@ Informações fornecidas por nomorehours para a Microsoft:
 | Termos de uso do aplicativo | [https://nomorehours.com/eula](https://nomorehours.com/eula) |
 | Funcionalidade principal do aplicativo | NoMore fornece aos usuários de negócios PowerPoint serviços de design e um PowerPoint de PowerPoint que visam tornar eles mais eficientes no PowerPoint. Como parte do serviço de design, NoMore converte rascunhos brutos em slides prontos para cliente em até 8 horas. O Add-in ajuda a acessar o serviço mais rapidamente, mas também permite que os usuários acessem designs de slides pré-feitos e uma biblioteca de slides específica da empresa, bem como um &#8220;de ferramentas de consultoria&#8221; que contém diferentes ferramentas de produtividade. |
 | Localização da sede da empresa | Dinamarca |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://nomorehours.com](https://nomorehours.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ Essas informações foram fornecidas por nomorehours sobre como esse aplicativo 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,7 +160,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | aplicação | email e nome. O email é usado como o nome de usuário no aplicativo. Coletar o email pode ajudar a registrar e fazer logon no aplicativo mais rapidamente. O nome é usado no caso de um evento de registro. | [33ccef75-8248-44e8-88d3-24526ca9c2d3](https://docs.microsoft.com/microsoft-365-app-certification/azure/33ccef75-8248-44e8-88d3-24526ca9c2d3) |
+>| User.Read | aplicação | email e nome. O email é usado como o nome de usuário no aplicativo. Coletar o email pode ajudar a registrar e fazer logon no aplicativo mais rapidamente. O nome é usado no caso de um evento de registro. | [33ccef75-8248-44e8-88d3-24526ca9c2d3](../azure/33ccef75-8248-44e8-88d3-24526ca9c2d3.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

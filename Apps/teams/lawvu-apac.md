@@ -2,18 +2,19 @@
 title: Informações do aplicativo para LawVu APAC por LawVu
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para LawVu APAC, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 13067a989948468c3cfef21c486e93d52ae38e4a
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 84bc836f026ce2b45f58adb58567e5950cff20ac
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080982"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545969"
 ---
 # <a name="lawvu-apac"></a>LawVu APAC
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo LawVu à Microsoft:
 | Termos de uso do aplicativo | [https://lawvu.com/wp-content/uploads/Std-Saas-Agreement-202...](https://lawvu.com/wp-content/uploads/Std-Saas-Agreement-2021.pdf) |
 | Funcionalidade principal do aplicativo | Os usuários de negócios podem levantar solicitações legais Teams.  A integração captura todos os campos relevantes, incluindo o conteúdo e todos os anexos da mensagem original, e cria o assunto em LawVu para que ele&#8217;parte da equipe jurídica&#8217;sistema de registro. |
 | Localização da sede da empresa | Nova Zelândia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://help.lawvu.com/en/articles/5953276-microsoft-teams-...](https://help.lawvu.com/en/articles/5953276-microsoft-teams-integration-coming-soon) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -61,7 +62,7 @@ Essas informações foram fornecidas pelo LawVu sobre como esse aplicativo colet
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | O arquivo de anexo nas equipes MS é retirado para o nosso armazenamento de dados. |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Austrália |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |

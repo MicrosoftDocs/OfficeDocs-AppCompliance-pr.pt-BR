@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Office 365 do Planner para Outlook por iGlobe
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o iPlanner Office 365 Planner Add-in para Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e5a6c2743408cc498443ea01a7bf548460485b25
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 70a94f0eca46172a9aaba55cc1ed022fe7e02f4e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63075915"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545259"
 ---
 # <a name="iplanner-office-365-planner-add-in-for-outlook"></a>IPlanner Office 365 Do Planner para Outlook
 
@@ -38,8 +39,9 @@ Informações fornecidas pelo iGlobe à Microsoft:
 | Termos de uso do aplicativo | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
 | Funcionalidade principal do aplicativo | Get Planner tasks from Office 365 Planner &amp; Teams at the tip of your hand in Outlook on any device. Gerenciar e criar tarefas nunca foi mais fácil. Obter tarefas do Planner Office 365 do Planner &amp; Teams na ponta da sua mão, no Outlook para Windows, MAC, IOS ou email da Web. |
 | Localização da sede da empresa | Dinamarca |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://planner.iglobe.dk](https://planner.iglobe.dk) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ Essas informações foram fornecidas pelo iGlobe sobre como esse aplicativo cole
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,15 +160,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Contacts.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Directory.AccessAsUser.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Files.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Files.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| User.ReadBasic.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| perfil | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Calendars.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Contacts.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Directory.AccessAsUser.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Files.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Files.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| User.ReadBasic.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| perfil | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

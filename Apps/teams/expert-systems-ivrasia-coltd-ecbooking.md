@@ -2,18 +2,19 @@
 title: Informações do aplicativo para ecBooking por sistemas especialistas IVR(Ásia) Co.Ltd.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/19/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o ecBooking, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d95f0198add6647c68d1be68008a4356a565a045
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 7efabdf5319e2ec7928dfff1b9e70c9f90b1202b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257917"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546729"
 ---
 # <a name="ecbooking"></a>ecBooking
 
@@ -40,9 +41,8 @@ Informações fornecidas pelo Expert Systems IVR(Asia) Co.Ltd. para a Microsoft:
 | Termos de uso do aplicativo | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/#1598241760681-29d114e0-5c2b) |
 | Funcionalidade principal do aplicativo | Experiência efetiva de reserva com um sistema inteligente para otimizar espaços de reunião. |
 | Localização da sede da empresa | Hong-Kong |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -169,12 +169,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | aplicação | Calendários de leitura de gravação | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](https://docs.microsoft.com/microsoft-365-app-certification/azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d) |
->| Calendars.ReadWrite | delegado | Calendários de leitura de gravação | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](https://docs.microsoft.com/microsoft-365-app-certification/azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d) |
->| Mail.Send | delegado | enviar email | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](https://docs.microsoft.com/microsoft-365-app-certification/azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d) |
->| Mail.Send | aplicação | enviar email | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](https://docs.microsoft.com/microsoft-365-app-certification/azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d) |
->| User.Read | delegado | usuário de leitura | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](https://docs.microsoft.com/microsoft-365-app-certification/azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d) |
->| User.Read.All | aplicação | usuário de leitura | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](https://docs.microsoft.com/microsoft-365-app-certification/azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d) |
+>| Calendars.ReadWrite | aplicação | Calendários de leitura de gravação | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](../azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d.md) |
+>| Calendars.ReadWrite | delegado | Calendários de leitura de gravação | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](../azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d.md) |
+>| Mail.Send | delegado | enviar email | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](../azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d.md) |
+>| Mail.Send | aplicação | enviar email | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](../azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d.md) |
+>| User.Read | delegado | usuário de leitura | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](../azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d.md) |
+>| User.Read.All | aplicação | usuário de leitura | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](../azure/00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

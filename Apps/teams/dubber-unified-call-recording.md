@@ -1,21 +1,22 @@
 ---
-title: Informações do aplicativo para gravação unificada de chamada do Gravador por Meio do Gravador
+title: Informações do aplicativo para a gravação de chamada unificada do Gravador por Meio do Gravador
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o registro unificado de chamada do Gravador, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Registro de Chamada Unificada do Gravador, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: eec69f5594f642432bbb79830b69428f5c6d16f3
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 4c80e50a43abe71a1ca67d93ec9039a3c3357d22
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147255"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544949"
 ---
-# <a name="dubber-unified-call-recording"></a>Gravação de chamada unificada do Dubber
+# <a name="dubber-unified-call-recording"></a>Gravação Unificada de Chamadas do Dubber
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +33,7 @@ Informações fornecidas pelo Apontador para a Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Gravação de chamada unificada do Dubber |
+| Nome do aplicativo | Gravação Unificada de Chamadas do Dubber |
 | ID | WA200003570 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Dubber |
@@ -42,7 +43,6 @@ Informações fornecidas pelo Apontador para a Microsoft:
 | Localização da sede da empresa | Austrália |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,7 +166,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

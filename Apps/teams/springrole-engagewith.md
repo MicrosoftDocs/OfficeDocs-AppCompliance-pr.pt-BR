@@ -2,18 +2,19 @@
 title: Informações do aplicativo engagewith by SpringRole
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para EngageWith, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 25de0a8d054e8f806d398a96d9780837fee93da8
-ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
+ms.openlocfilehash: 2a493f3b6349dd0e46d88aa039e9935d8f84e6c9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62175604"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547249"
 ---
 # <a name="engagewith"></a>EngageWith
 
@@ -40,9 +41,8 @@ Informações fornecidas pela SpringRole à Microsoft:
 | Termos de uso do aplicativo | [https://engagewith.springworks.in/terms-and-conditions](https://engagewith.springworks.in/terms-and-conditions) |
 | Funcionalidade principal do aplicativo | EngageWith é uma plataforma de reconhecimento e recompensas de funcionários ponto a ponto que ajuda a promover uma cultura de reconhecimento, aprimora o envolvimento dos funcionários e ajuda a organização a comemorar conquistas - grandes e pequenas. Os funcionários podem reconhecer colegas, participantes ou gerentes dando a eles Kudos ou Shoutouts para um trabalho bem-feito. Os Kudos e o Shoutouts têm um conjunto de pontos associados a eles que se somam ao longo do tempo a recompensas significativas.  |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.springworks.in/engagewith/](https://www.springworks.in/engagewith/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,7 +164,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

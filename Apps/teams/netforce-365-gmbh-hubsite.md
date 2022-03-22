@@ -2,18 +2,19 @@
 title: Informações do aplicativo para HubSite 365 pelo NetForce 365 GmbH
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/27/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o HubSite 365, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6128ed8aebc9046b4ba83b5a8beb0c57a2903379
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 4957046477314f8ff922e89810f8fcc60dbbd3a2
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263526"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546699"
 ---
 # <a name="hubsite-365"></a>HubSite 365
 
@@ -166,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

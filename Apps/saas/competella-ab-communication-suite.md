@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Pacote de Comunicação competella por Competella AB
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Pacote de Comunicação do Competella, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8e45f390c1fc34999d5810880ad45d69386598db
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 5e6f806bd57ccb503f7d8052b56e632aea2ff321
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147288"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546129"
 ---
 # <a name="competella-communication-suite"></a>Pacote de Comunicação competella
 
@@ -38,7 +39,7 @@ Informações fornecidas por Competella AB à Microsoft:
 | Termos de uso do aplicativo | [https://www.competella.com](https://www.competella.com) |
 | Funcionalidade principal do aplicativo | Uma solução de Central de Contatos e Console de Atendimento para excelente atendimento ao cliente com Microsoft Teams. |
 | Localização da sede da empresa | Suécia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://competella.com/Solutions%20for%20Teams/overview](https://competella.com/Solutions%20for%20Teams/overview) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -164,7 +165,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

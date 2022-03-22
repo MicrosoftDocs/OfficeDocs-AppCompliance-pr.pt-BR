@@ -2,18 +2,19 @@
 title: Informações de aplicativo para Proconnect para Sitecore por Ramanathan subramaniano
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Proconnect para Sitecore, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Proconnect for Sitecore, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0b2861bf05a54d4a2019c32959f0c76a6a02f383
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 891f256a2cf6a340b48dc5a876152af277de1c5b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62198018"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545939"
 ---
 # <a name="proconnect-for-sitecore"></a>Proconnect para o Sitecore
 
@@ -38,7 +39,7 @@ Informações fornecidas pelo Ramanathan subramaniano para a Microsoft:
 | Nome da empresa de parceiro | Subramanian Ramanathan |
 | Site da empresa | [https://subbu.ca](https://subbu.ca) |
 | Termos de uso do aplicativo | [https://github.com/SubbuRamanathan/sitecore-microsoft-teams...](https://github.com/SubbuRamanathan/sitecore-microsoft-teams-integration/blob/main/terms-of-use.md) |
-| Funcionalidade principal do aplicativo | Aprimora a experiência de autoria de conteúdo com alertas instantâneos sobre atualizações &amp; de Publicação de Fluxo de Trabalho. Esse conector também inclui ações apropriadas para os alertas, capacitando os autores de conteúdo a fazer seu trabalho mais rapidamente. Esse conector estabelece transparência na comunicação e também inclui informações sobre o desempenho do site/página. |
+| Funcionalidade principal do aplicativo | Aprimora a experiência de autoria de conteúdo com alertas instantâneos sobre atualizações de &amp; Publicação de Fluxo de Trabalho. Esse conector também inclui ações apropriadas para os alertas, capacitando os autores de conteúdo a fazer seu trabalho mais rapidamente. Esse conector estabelece transparência na comunicação e também inclui informações sobre o desempenho do site/página. |
 | Localização da sede da empresa | Canadá |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
@@ -57,14 +58,7 @@ Essas informações foram fornecidas por Ramanathan subramaniano sobre como esse
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -163,7 +157,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

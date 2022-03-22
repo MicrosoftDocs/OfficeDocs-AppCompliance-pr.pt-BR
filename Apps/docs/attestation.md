@@ -1,19 +1,20 @@
 ---
-title: Concluir Publisher Atestado
+title: Obter um Atestado do Publisher
 author: LGerrard
 ms.author: legerrar
+manager: tonybal
 description: Mais informações sobre o programa Publisher Atestado
 keywords: app attestation certification 365 questionnaire appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 286d14e580bdb9f24ccf1754685ebeeaef6d0c11
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d702fbf27a326f916ee5bd5f89a0b0b7f2ae6c17
+ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276531"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "63692643"
 ---
-# <a name="complete-publisher-attestation"></a>Concluir Publisher Atestado
+# <a name="complete-publisher-attestation"></a>Obter um Atestado do Publisher
 
 Publisher Atestado é um programa voluntário em que você conclui uma autoavaliação das práticas de segurança, tratamento de dados e conformidade do aplicativo. As informações fornecidas serão apresentadas aos seus clientes para que eles possam avaliar melhor seu aplicativo antes de habilita-lo para sua organização. 
 
@@ -40,9 +41,9 @@ Publisher Atestado se aplica a Aplicativos Web (aplicativos SaaS publicados por 
 - Qualificação para iniciar a Microsoft 365 Certificação.
  
 
-## <a name="publisher-attestation-process"></a>Publisher Processo de atestado
+## <a name="publisher-attestation-process"></a>Publisher de Atestado
 
-1. **Participar —** o Publisher atestado agora está integrado no [Partner Center](https://partner.microsoft.com). Você pode concluir o atestado em um questionário amigável, tudo no Partner Center. Consulte nossos guias de usuário [da Office Store](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) e do [Marketplace](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide) Comercial para o processo passo a passo.
+1. **Participar —** o Publisher atestado agora está integrado no [Partner Center](https://partner.microsoft.com). Você pode concluir o atestado em um questionário amigável, tudo no Partner Center. Consulte nossos guias de usuário [da Office Store](../docs/userguide.md) e do [Marketplace](../docs/saasuserguide.md) Comercial para o processo passo a passo.
 
 2. **Aguarde comentários e** resultados da análise — Durante a revisão de verificação de consistência, se os analistas encontrarem problemas de bloqueio, como dados de resposta inadequados, você será contatado para obter mais informações. Os analistas manterão um log de atividades do aplicativo detalhando os resultados da revisão e seus envios de acompanhamento em todo o processo. Depois que tiver sido determinado que seu relatório de atestado está concluído e suas respostas são aceitáveis, seu envio será aprovado. Seu status de aprovação será válido por um ano a partir do momento do envio.
 
@@ -55,18 +56,18 @@ Publisher Atestado se aplica a Aplicativos Web (aplicativos SaaS publicados por 
    - Links para uma cópia detalhada das informações enviadas.
    - Uma declaração de que as informações fornecidas se baseiam no relatório de atestado enviado.
 
-Por exemplo, *Consulte Microsoft Teams* [Segurança e Conformidade do Aplicativo](../teams/teams-apps.md)
+Por exemplo, *consulte Microsoft Teams* [Segurança e Conformidade do Aplicativo](../teams/teams-apps.md)
 
 4. **Revisão e retransmissão** — seu Publisher Atestado precisará ser resubmitido anualmente. Quando o atestado se aproximar da marca de um ano, você receberá uma notificação por meio do Partner Center incentivando uma remissão do atestado. 
 
    Se o atestado Publisher não for renovado antes da data de expiração, o status de atestado de seus aplicativos será revogado e seu atestado de Publisher será removido das páginas de documentos da Microsoft. 
 
 >[!IMPORTANT]
->Ao participar do programa Publisher Atestado, você está concordando com esses termos complementares e em conformidade com qualquer documentação que acompanha a sua participação no programa de Atestado do Publisher com a Microsoft Corporation ("Microsoft", "nós", "nós" ou "nosso"). Você representa e nos garante que tem autoridade para aceitar esses termos complementares Publisher Atestado em nome de si mesmo, de uma empresa e/ou de outra entidade, conforme aplicável. Podemos alterar, alterar ou encerrar esses termos suplementares a qualquer momento. Sua participação contínua no programa Publisher Atestado após qualquer alteração ou alteração significa que você concorda com os novos termos complementares. Se você não concordar com os novos termos suplementares ou se encerrarmos esses termos, você deve parar de participar do programa Publisher atestado.
+>Ao participar do programa Publisher Atestado, você está concordando com esses termos complementares e em conformidade com qualquer documentação que acompanha a sua participação no programa de Atestado do Publisher com a Microsoft Corporation ("Microsoft", "nós", "nós" ou "nosso"). Você representa e garante a nós que tem autoridade para aceitar esses termos complementares Publisher Atestado em nome de si mesmo, de uma empresa e/ou de outra entidade, conforme aplicável. Podemos alterar, alterar ou encerrar esses termos suplementares a qualquer momento. Sua participação contínua no programa Publisher Atestado após qualquer alteração ou alteração significa que você concorda com os novos termos complementares. Se você não concordar com os novos termos suplementares ou se encerrarmos esses termos, você deve parar de participar do programa Publisher atestado.
 
 ## <a name="learn-more"></a>Saiba mais
 
-* [Microsoft 365 Visão geral do programa de conformidade do aplicativo](~/overview.md)  
-* [Concluir Publisher Verificação](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
+* [Microsoft 365 visão geral do programa de conformidade de aplicativos](~/overview.md)  
+* [Executar a Verificação do Publisher](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
 * [O que Publisher atestado?](~/docs/enterprise-app-attestation-guide.md)  
-* [Concluir Microsoft 365 Certificação](~/docs/certification.md)
+* [Certificação Microsoft 365 Completa](~/docs/certification.md)

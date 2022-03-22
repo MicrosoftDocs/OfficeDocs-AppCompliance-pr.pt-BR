@@ -2,18 +2,19 @@
 title: Informações do aplicativo para FormMachines por Enterprise Digital Machines
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para FormMachines, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9ec325100eafc5d6b84150a00a2c5a13880236b7
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: 3c526bb2d83bf12bacb9f34c0fad203a37449daf
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62209550"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546459"
 ---
 # <a name="formmachines"></a>FormMachines
 
@@ -39,7 +40,7 @@ Informações fornecidas por Enterprise Digital Machines para a Microsoft:
 | Termos de uso do aplicativo | [https://www.formmachines.com/dist/docs#/statements_and_agre...](https://www.formmachines.com/dist/docs#/statements_and_agreements/terms_of_service) |
 | Funcionalidade principal do aplicativo | Fornece Teams aos usuários a capacidade de criar facilmente formulários corporativos |
 | Localização da sede da empresa | Austrália |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.formmachines.com](https://www.formmachines.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -157,13 +158,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração da plataforma de identidade da Microsoft? | Sim |
 | Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | Sim |
 | Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Sim |
 | Seu aplicativo armazena alguma credencial no código? | Não |
-| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
+| Aplicativos e complementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
 >Este aplicativo não usa o Microsoft Graph.
 

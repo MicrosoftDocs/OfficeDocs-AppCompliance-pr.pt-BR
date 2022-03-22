@@ -2,12 +2,19 @@
 title: Informações do aplicativo para Kudozza por surviveF5 GmbH
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 'Todas as informações de segurança e conformidade disponíveis para Kudozza, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.'
+description: Todas as informações de segurança e conformidade disponíveis para Kudozza, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: ae20cb817283550e9dd6c75ef2abe6215d616ff1
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545920"
 ---
 # <a name="kudozza"></a>Kudozza
 
@@ -15,7 +22,7 @@ zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 2 de fevereiro de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/61a58a9f-3474-4d14-bda6-6547194a7381" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/61a58a9f-3474-4d14-bda6-6547194a7381" target="_blank">Exibir no Armazenamento do Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002599" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -28,13 +35,13 @@ Informações fornecidas pela GmbH surviveF5 para a Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | Kudozza |
 | ID | WA200002599 |
-| Office 365 clientes com suporte | Microsoft Teams |
+| Clientes do Office 365 com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | surviveF5 GmbH |
 | Site da empresa | [https://surviveF5.com](https://surviveF5.com) |
 | Termos de uso do aplicativo | [https://kudozza.com/terms](https://kudozza.com/terms) |
 | Funcionalidade principal do aplicativo | Kudozza permite dar Kudos a outros membros da equipe para mostrar a eles sua apreço. Ele oferece várias ferramentas, como participação emoji, categorias ou classificações para motivar a oferta de Kudos. |
 | Localização da sede da empresa | Alemanha |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://kudozza.com](https://kudozza.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws, Azure |
 
@@ -68,7 +75,7 @@ Essas informações foram fornecidas pelo GmbH surviveF5 sobre como esse aplicat
 
 ::: zone pivot="security"
 
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do [catálogo de Segurança do Aplicativo na Nuvem da Microsoft](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) aparecem abaixo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
@@ -164,10 +171,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | delegado | Lendo os canais de uma equipe para dar ao usuário a possibilidade de selecionar um canal onde ele deseja publicar os kudos | [69e59100-2fb7-4f6e-a311-987f52b3007b](https://docs.microsoft.com/microsoft-365-app-certification/azure/69e59100-2fb7-4f6e-a311-987f52b3007b) |
->| Teams.ReadBasic.All | delegado | O usuário pode selecionar uma equipe e um canal onde deseja que os parabéns sejam publicados. As permissões de leitura de equipe são necessárias para a leitura de equipes. | [69e59100-2fb7-4f6e-a311-987f52b3007b](https://docs.microsoft.com/microsoft-365-app-certification/azure/69e59100-2fb7-4f6e-a311-987f52b3007b) |
->| User.Read | delegado | Obter as equipes das que um usuário faz parte | [69e59100-2fb7-4f6e-a311-987f52b3007b](https://docs.microsoft.com/microsoft-365-app-certification/azure/69e59100-2fb7-4f6e-a311-987f52b3007b) |
->| User.ReadBasic.All | delegado | Ler o nome do usuário | [69e59100-2fb7-4f6e-a311-987f52b3007b](https://docs.microsoft.com/microsoft-365-app-certification/azure/69e59100-2fb7-4f6e-a311-987f52b3007b) |
+>| Channel.ReadBasic.All | delegado | Lendo os canais de uma equipe para dar ao usuário a possibilidade de selecionar um canal onde ele deseja publicar os kudos | [69e59100-2fb7-4f6e-a311-987f52b3007b](../azure/69e59100-2fb7-4f6e-a311-987f52b3007b.md) |
+>| Teams.ReadBasic.All | delegado | O usuário pode selecionar uma equipe e um canal onde deseja que os parabéns sejam publicados. As permissões de leitura de equipe são necessárias para a leitura de equipes. | [69e59100-2fb7-4f6e-a311-987f52b3007b](../azure/69e59100-2fb7-4f6e-a311-987f52b3007b.md) |
+>| User.Read | delegado | Obter as equipes das que um usuário faz parte | [69e59100-2fb7-4f6e-a311-987f52b3007b](../azure/69e59100-2fb7-4f6e-a311-987f52b3007b.md) |
+>| User.ReadBasic.All | delegado | Ler o nome do usuário | [69e59100-2fb7-4f6e-a311-987f52b3007b](../azure/69e59100-2fb7-4f6e-a311-987f52b3007b.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para BlackBerry AtHoc por BlackBerry
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para BlackBerry AtHoc, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b464dadfb27569abc0760555464fe646c3e51730
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 1da987ba517d6e4f6dc3b4d487c441e2ccd50d79
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251717"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545489"
 ---
 # <a name="blackberry-athoc"></a>BlackBerry AtHoc
 
@@ -38,10 +39,11 @@ Informações fornecidas pelo BlackBerry para a Microsoft:
 | Nome da empresa de parceiro | BlackBerry |
 | Site da empresa | [https://www.blackberry.com](https://www.blackberry.com) |
 | Termos de uso do aplicativo | [https://www.athoc.com/pss/terms.html#](https://www.athoc.com/pss/terms.html#) |
-| Funcionalidade principal do aplicativo | A integração do BlackBerry AtHoc com o Teams fornece um gerenciamento de eventos críticos contínuo em toda a sua organização &#8211; tudo a partir de uma interface do usuário familiar em que você&#8217;já está autenticado. Sem sair do Teams, a integração BlackBerry AtHoc permite que os Gerentes de Emergência e Incidentes: &#8226; Publicar alertas, com um clique, em qualquer dispositivo &#8226; Target grupos de distribuição pré-estabelecidos no Teams &#8226; Colabore dentro do Teams para gerenciar incidentes em tempo real |
+| Funcionalidade principal do aplicativo | A integração do BlackBerry AtHoc com o Teams fornece um gerenciamento de eventos críticos contínuo em toda a sua organização &#8211; tudo a partir de uma interface do usuário familiar em que você&#8217;já está autenticado. Sem sair do Teams, a integração blackberry atHoc permite que os Gerentes de Emergência e Incidentes: &#8226; Publicar alertas, com um clique, para qualquer dispositivo &#8226; Destino grupos de distribuição pré-estabelecidos no Teams &#8226; Colaborar no Teams para gerenciar incidentes em tempo real |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.blackberry.com/us/en/products/blackberry-athoc](https://www.blackberry.com/us/en/products/blackberry-athoc) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure, AWS, SelfHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo BlackBerry sobre como esse aplicativo 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,12 +161,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMessage.Send | delegado | Acessamos os&#8217;básicos do usuário, como nome principal e link para o canal geral do teams (para o qual o usuário está autorizado) para enviar o cartão de alerta para as equipes. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| Group.Read.All | delegado | Acessamos os&#8217;básicos do usuário, como nome principal e link para o canal geral do teams (para o qual o usuário está autorizado) para enviar o cartão de alerta para as equipes. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| User.Read | delegado | Acessamos os&#8217;básicos do usuário, como nome principal e link para o canal geral do teams (para o qual o usuário está autorizado) para enviar o cartão de alerta para as equipes. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| email | delegado | Acessamos os&#8217;básicos do usuário, como nome principal e link para o canal geral do teams (para o qual o usuário está autorizado) para enviar o cartão de alerta para as equipes. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| openid | delegado | Acessamos os&#8217;básicos do usuário, como nome principal e link para o canal geral do teams (para o qual o usuário está autorizado) para enviar o cartão de alerta para as equipes. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| perfil | delegado | Acessamos os&#8217;básicos do usuário, como nome principal e link para o canal geral do teams (para o qual o usuário está autorizado) para enviar o cartão de alerta para as equipes. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| ChannelMessage.Send | delegado | Acessamos o usuário&#8217;detalhes básicos, como Nome principal e link para o canal geral das equipes (para o qual o usuário está autorizado) para enviar o cartão de alerta para as equipes. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](../azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) |
+>| Group.Read.All | delegado | Acessamos o usuário&#8217;detalhes básicos, como Nome principal e link para o canal geral das equipes (para o qual o usuário está autorizado) para enviar o cartão de alerta para as equipes. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](../azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) |
+>| User.Read | delegado | Acessamos o usuário&#8217;detalhes básicos, como Nome principal e link para o canal geral das equipes (para o qual o usuário está autorizado) para enviar o cartão de alerta para as equipes. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](../azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) |
+>| email | delegado | Acessamos o usuário&#8217;detalhes básicos, como Nome principal e link para o canal geral das equipes (para o qual o usuário está autorizado) para enviar o cartão de alerta para as equipes. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](../azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) |
+>| openid | delegado | Acessamos o usuário&#8217;detalhes básicos, como Nome principal e link para o canal geral das equipes (para o qual o usuário está autorizado) para enviar o cartão de alerta para as equipes. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](../azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) |
+>| perfil | delegado | Acessamos o usuário&#8217;detalhes básicos, como Nome principal e link para o canal geral das equipes (para o qual o usuário está autorizado) para enviar o cartão de alerta para as equipes. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](../azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

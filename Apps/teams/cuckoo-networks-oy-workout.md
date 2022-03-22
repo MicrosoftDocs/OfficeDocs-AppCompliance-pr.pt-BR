@@ -2,18 +2,19 @@
 title: Informações do aplicativo para malhar oco por Redes Descaradas Oy
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Treinamento SemEsco, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f0f7c645b26737b397737d0d8c09477cab37b2fd
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: e97d071b9159dc898f16839233459a39b735bf6b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62261317"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544979"
 ---
 # <a name="cuckoo-workout"></a>Treinamento Cuco
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo Oy de Redes Descaradas para a Microsoft:
 | Termos de uso do aplicativo | [https://cuckooworkout.com/terms-of-service/](https://cuckooworkout.com/terms-of-service/) |
 | Funcionalidade principal do aplicativo | Exercícios de micro-pausas divertidos e fáceis e gamificados para aumentar sua energia e seu cérebro. |
 | Localização da sede da empresa | Finlândia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://cuckooworkout.com](https://cuckooworkout.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
@@ -169,11 +170,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Nome de usuário, ID de locatário para comunicações e mapeamento de assinatura | [71138876-8738-4935-95b6-ae7c2fbe4e54](https://docs.microsoft.com/microsoft-365-app-certification/azure/71138876-8738-4935-95b6-ae7c2fbe4e54) |
->| email | delegado | Email, necessário para autenticação e suporte | [71138876-8738-4935-95b6-ae7c2fbe4e54](https://docs.microsoft.com/microsoft-365-app-certification/azure/71138876-8738-4935-95b6-ae7c2fbe4e54) |
->| offline_access | delegado | N/D | [71138876-8738-4935-95b6-ae7c2fbe4e54](https://docs.microsoft.com/microsoft-365-app-certification/azure/71138876-8738-4935-95b6-ae7c2fbe4e54) |
->| openid | delegado | ID do usuário para autenticação | [71138876-8738-4935-95b6-ae7c2fbe4e54](https://docs.microsoft.com/microsoft-365-app-certification/azure/71138876-8738-4935-95b6-ae7c2fbe4e54) |
->| perfil | delegado | ID de perfil para autenticação | [71138876-8738-4935-95b6-ae7c2fbe4e54](https://docs.microsoft.com/microsoft-365-app-certification/azure/71138876-8738-4935-95b6-ae7c2fbe4e54) |
+>| User.Read | delegado | Nome de usuário, ID de locatário para comunicações e mapeamento de assinatura | [71138876-8738-4935-95b6-ae7c2fbe4e54](../azure/71138876-8738-4935-95b6-ae7c2fbe4e54.md) |
+>| email | delegado | Email, necessário para autenticação e suporte | [71138876-8738-4935-95b6-ae7c2fbe4e54](../azure/71138876-8738-4935-95b6-ae7c2fbe4e54.md) |
+>| offline_access | delegado | N/D | [71138876-8738-4935-95b6-ae7c2fbe4e54](../azure/71138876-8738-4935-95b6-ae7c2fbe4e54.md) |
+>| openid | delegado | ID do usuário para autenticação | [71138876-8738-4935-95b6-ae7c2fbe4e54](../azure/71138876-8738-4935-95b6-ae7c2fbe4e54.md) |
+>| perfil | delegado | ID de perfil para autenticação | [71138876-8738-4935-95b6-ae7c2fbe4e54](../azure/71138876-8738-4935-95b6-ae7c2fbe4e54.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para gerenciamento de eventos por SharePoint| Sapiens
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Gerenciamento de Eventos, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Gerenciamento de Eventos, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3e9599ffb6f158bfc620520276182e8feb8e197a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 3533a1482ed490b05d0ccf0a5e0308c9cae59225
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263592"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546369"
 ---
 # <a name="event-management"></a>Gerenciamento de Eventos
 
@@ -40,8 +41,9 @@ Informações fornecidas por SharePoint| Sapiens para a Microsoft:
 | Termos de uso do aplicativo | [https://addins.sharepointsapiens.com/licensing/services-agr...](https://addins.sharepointsapiens.com/licensing/services-agreement.html) |
 | Funcionalidade principal do aplicativo | O complemento Gerenciamento de Eventos ajuda você a organizar vários tipos de eventos. Os eventos podem ser agendados em pouco tempo em algumas etapas simples. Os participantes podem se registrar online com apenas um clique. Como organizador, você também pode registrar usuários internos ou externos em nome ou enviar convites por email. Os participantes recebem solicitações de reunião e atualizações por email para garantir que sempre tenham as informações mais recentes em seu calendário Outlook. O complemento mantém o controle de todos os participantes em um só lugar. |
 | Localização da sede da empresa | Áustria |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.sharepointsapiens.com/event-management-office36...](https://www.sharepointsapiens.com/event-management-office365/documentation/teams/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas por SharePoint| O Sapiens sobre como esse a
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,7 +161,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.ReadBasic.All | delegado | Endereço de email e nome de Exchange e recursos para habilitar a reserva de espaço e recursos | [9e8e113c-8a08-4606-b08a-de4decc7252f](https://docs.microsoft.com/microsoft-365-app-certification/azure/9e8e113c-8a08-4606-b08a-de4decc7252f) |
+>| User.ReadBasic.All | delegado | Endereço de email e nome de Exchange e recursos para habilitar a reserva de espaço e recursos | [9e8e113c-8a08-4606-b08a-de4decc7252f](../azure/9e8e113c-8a08-4606-b08a-de4decc7252f.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

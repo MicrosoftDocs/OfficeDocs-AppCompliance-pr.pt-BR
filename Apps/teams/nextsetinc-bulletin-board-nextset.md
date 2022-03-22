@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Quadro de Boletins - NextSet by NextSet,Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Quadro de Boletins - NextSet, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a241c2d18e5503662ce812de1ada21992ee16312
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: a5770e321da5d5c19cc3861f4411c9ce639898a7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257717"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547288"
 ---
 # <a name="bulletin-board---nextset"></a>Quadro de Avisos - NextSet
 
@@ -40,8 +41,9 @@ Informações fornecidas pelo NextSet,Inc. à Microsoft:
 | Termos de uso do aplicativo | [https://www.nextset.co.jp/terms/bbs.pdf](https://www.nextset.co.jp/terms/bbs.pdf) |
 | Funcionalidade principal do aplicativo | Os privilégios de acesso podem ser definidos para cada postagem. A forma de entrada da postagem pode ser personalizada dinamicamente. A exibição da lista de postagem pode ser personalizada dinamicamente. A data de início/término da publicação da postagem pode ser especificada, entrar em contato com os usuários por email quando a postagem for publicada, gerenciar postagens não lidas/lidas, enviar emails para usuários não lidos e gravar comentários em postagens. |
 | Localização da sede da empresa | Japão |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.nextset.co.jp/bbs.html](https://www.nextset.co.jp/bbs.html) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP, Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo NextSet,Inc. sobre como esse aplicativ
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído após 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,10 +161,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite.All | ambos | &#25237;&#31295;&#12487;&#12540;&#12479;&#12434;Excel&#12458;&#12531;&#12521;&#12452;&#12531;&#12395;&#20986;&#21147;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [cec02d43-1b67-4430-9bc9-861da8582801](https://docs.microsoft.com/microsoft-365-app-certification/azure/cec02d43-1b67-4430-9bc9-861da8582801) |
->| email | delegado | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [cec02d43-1b67-4430-9bc9-861da8582801](https://docs.microsoft.com/microsoft-365-app-certification/azure/cec02d43-1b67-4430-9bc9-861da8582801) |
->| openid | delegado | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [cec02d43-1b67-4430-9bc9-861da8582801](https://docs.microsoft.com/microsoft-365-app-certification/azure/cec02d43-1b67-4430-9bc9-861da8582801) |
->| perfil | ambos | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [ff5f406c-2ded-423f-b6ba-2950a2532b69](https://docs.microsoft.com/microsoft-365-app-certification/azure/ff5f406c-2ded-423f-b6ba-2950a2532b69) |
+>| Files.ReadWrite.All | ambos | &#25237;&#31295;&#12487;&#12540;&#12479;&#12434;Excel&#12458;&#12531;&#12521;&#12452;&#12531;&#12395;&#20986;&#21147;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [cec02d43-1b67-4430-9bc9-861da8582801](../azure/cec02d43-1b67-4430-9bc9-861da8582801.md) |
+>| email | delegado | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [cec02d43-1b67-4430-9bc9-861da8582801](../azure/cec02d43-1b67-4430-9bc9-861da8582801.md) |
+>| openid | delegado | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [cec02d43-1b67-4430-9bc9-861da8582801](../azure/cec02d43-1b67-4430-9bc9-861da8582801.md) |
+>| perfil | ambos | &#12525;&#12464;&#12452;&#12531;&#12450;&#12459;&#12454;&#12531;&#12488;ID&#12434;&#21462;&#24471;&#12377;&#12427;&#12383;&#12417;&#12395;&#20351;&#29992; | [ff5f406c-2ded-423f-b6ba-2950a2532b69](../azure/ff5f406c-2ded-423f-b6ba-2950a2532b69.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

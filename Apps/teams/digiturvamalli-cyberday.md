@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Cyberday por Digiturvamalli
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Cyberday, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b696dacb0c2e36ba06cfc5e9718101410a2bd0ff
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 6892f233de502eee26754e933d4a922d579cc28e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263587"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546079"
 ---
 # <a name="cyberday"></a>Cyberday
 
@@ -40,8 +41,9 @@ Informações fornecidas por Digiturvamalli à Microsoft:
 | Termos de uso do aplicativo | [https://cyberday.ai/terms-of-use](https://cyberday.ai/terms-of-use) |
 | Funcionalidade principal do aplicativo | O Cyberday é um sistema de gerenciamento de segurança da informação que orienta o cliente para a conformidade com as estruturas de segurança selecionadas. |
 | Localização da sede da empresa | Finlândia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://cyberday.ai](https://cyberday.ai) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas por Digiturvamalli sobre como esse aplicati
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,8 +162,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Usar email para identificar o usuário + exibição para administradores de aplicativos quem é esse usuário | [1c7d277c-ff8a-4ea4-bc14-7d06314f8941](https://docs.microsoft.com/microsoft-365-app-certification/azure/1c7d277c-ff8a-4ea4-bc14-7d06314f8941) |
->| openid | delegado | Usar a ID do usuário para identificar o usuário | [1c7d277c-ff8a-4ea4-bc14-7d06314f8941](https://docs.microsoft.com/microsoft-365-app-certification/azure/1c7d277c-ff8a-4ea4-bc14-7d06314f8941) |
+>| User.Read | delegado | Usar email para identificar o usuário + exibição para administradores de aplicativos quem é esse usuário | [1c7d277c-ff8a-4ea4-bc14-7d06314f8941](../azure/1c7d277c-ff8a-4ea4-bc14-7d06314f8941.md) |
+>| openid | delegado | Usar a ID do usuário para identificar o usuário | [1c7d277c-ff8a-4ea4-bc14-7d06314f8941](../azure/1c7d277c-ff8a-4ea4-bc14-7d06314f8941.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

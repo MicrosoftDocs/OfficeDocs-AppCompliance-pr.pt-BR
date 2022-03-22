@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Nuvem de Confluência pela Atlassian
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Nuvem de Confluência, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a7ce34b2c2750d7fb9c2dc46ad8cf12c67a825d4
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 0ce3c1464a4933de72d1a69a49432c986f1679cd
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254929"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547459"
 ---
 # <a name="confluence-cloud"></a>Nuvem de Confluência
 
@@ -43,6 +44,7 @@ Informações fornecidas pela Atlassian para a Microsoft:
 | Localização da sede da empresa | Austrália |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,14 +59,7 @@ Essas informações foram fornecidas pela Atlassian sobre como esse aplicativo c
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,13 +162,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | delegado | - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião, como o título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](https://docs.microsoft.com/microsoft-365-app-certification/azure/4aa38041-66a2-41a4-ac97-55bc828a9803) |
->| Chat.ReadBasic | delegado |  - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião, como o título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](https://docs.microsoft.com/microsoft-365-app-certification/azure/4aa38041-66a2-41a4-ac97-55bc828a9803) |
->| User.ReadBasic.All | delegado | - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião, como o título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](https://docs.microsoft.com/microsoft-365-app-certification/azure/4aa38041-66a2-41a4-ac97-55bc828a9803) |
->| email | delegado | - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião, como o título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](https://docs.microsoft.com/microsoft-365-app-certification/azure/4aa38041-66a2-41a4-ac97-55bc828a9803) |
->| offline_access | delegado | - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião, como o título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](https://docs.microsoft.com/microsoft-365-app-certification/azure/4aa38041-66a2-41a4-ac97-55bc828a9803) |
->| openid | delegado |  - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião, como o título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](https://docs.microsoft.com/microsoft-365-app-certification/azure/4aa38041-66a2-41a4-ac97-55bc828a9803) |
->| perfil | delegado |  - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião, como o título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](https://docs.microsoft.com/microsoft-365-app-certification/azure/4aa38041-66a2-41a4-ac97-55bc828a9803) |
+>| Calendars.Read | delegado | - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião como título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
+>| Chat.ReadBasic | delegado |  - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião como título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
+>| User.ReadBasic.All | delegado | - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião como título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
+>| email | delegado | - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião como título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
+>| offline_access | delegado | - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião como título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
+>| openid | delegado |  - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião como título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
+>| perfil | delegado |  - Lemos a lista de membros do Chat em uma reunião, portanto, sabemos a lista de convidados para a reunião.   - Lemos os usuários&#8217; nomes e endereços de email que exibimos condicionalmente em nosso aplicativo de reunião. Por exemplo, exibe o nome do usuário atual que está fazendo anotações de reunião.   - Nosso aplicativo lê o evento de calendário do usuário&#8217;em que nosso aplicativo foi adicionado a uma reunião, portanto, temos informações básicas sobre a reunião como título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

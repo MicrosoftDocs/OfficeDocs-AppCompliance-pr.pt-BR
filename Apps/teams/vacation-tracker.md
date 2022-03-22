@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Rastreador de Férias pelo Rastreador de Férias
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Vacation Tracker, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: bd7fc61e757600d1d1d87d09e3f67e9ade0546ba
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 3b8b92ed24e229982eac3edbda8b59b19e281a7b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251627"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546309"
 ---
 # <a name="vacation-tracker"></a>Vacation Tracker
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo Rastreador de Férias para a Microsoft:
 | Termos de uso do aplicativo | [https://vacationtracker.io/terms-of-service/](https://vacationtracker.io/terms-of-service/) |
 | Funcionalidade principal do aplicativo | O Vacation Tracker é uma ferramenta que permite que as empresas rastreiem folhas em suas organizações. Há um painel da Web para os administradores configurarem as configurações organizacionais. Os funcionários também podem fazer solicitações e revisar suas cotas no painel. Além disso, os funcionários podem fazer solicitações e aprovadores podem aprovar ou negar solicitações por meio do bot Microsoft Teams ou guia. |
 | Localização da sede da empresa | Canadá |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://vacationtracker.io/vacation-calendar-tracker-featur...](https://vacationtracker.io/vacation-calendar-tracker-features/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
@@ -169,15 +170,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.Read.All | delegado | Lemos IDs e nomes de canal público quando os usuários configuram suas notificações semanais ou diárias. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| Team.ReadBasic.All | delegado | Listamos o Microsoft Teams equipes ingressado durante a assinatura para permitir que os usuários selecionem uma equipe que eles querem inscrever-se no Rastreador de Férias. Como alternativa, eles podem se inscrever em toda a organização. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| User.Read | delegado | Coletamos as informações básicas do usuário, incluindo o nome, a ID e a ID do locatário. Usamos esses dados para conectar usuários conectados à sua organização no Vacation Tracker. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| User.Read.All | delegado | Nossos usuários podem importar todos os usuários de sua organização Microsoft 365 ou Microsoft Teams equipe. Usamos essa permissão para importar somente usuários licenciados para uma equipe Microsoft Teams ou organização selecionada. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| User.ReadBasic.All | delegado | Permitimos que os usuários importem os outros usuários de sua organização ou Microsoft Teams equipe. Usamos essa permissão para listar os usuários disponíveis e seus endereços de email no pop-up de importação. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| email | delegado | Quando o usuário faz login usando o Microsoft AAD, armazenamos seu endereço de email como um identificador exclusivo. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| offline_access | delegado | Não coletamos dados com essa permissão. Ele é usado para manter o acesso aos dados que podemos acessar. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| openid | delegado | Usamos essa permissão para entrar ou inscrever usuários no Rastreador de Férias. Não coletamos dados específicos com essa permissão. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| perfil | delegado | Coletamos as informações básicas do usuário, incluindo o nome, a ID e a ID do locatário. Usamos esses dados para conectar usuários conectados à sua organização no Vacation Tracker. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| Group.Read.All | delegado | Lemos IDs e nomes de canal público quando os usuários configuram suas notificações semanais ou diárias. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| Team.ReadBasic.All | delegado | Listamos o Microsoft Teams equipes ingressado durante a assinatura para permitir que os usuários selecionem uma equipe que deseja inscrever-se no Rastreador de Férias. Como alternativa, eles podem se inscrever em toda a organização. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| User.Read | delegado | Coletamos as informações básicas do usuário, incluindo o nome, a ID e a ID do locatário. Usamos esses dados para conectar usuários conectados à sua organização no Vacation Tracker. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| User.Read.All | delegado | Nossos usuários podem importar todos os usuários de sua organização Microsoft 365 ou Microsoft Teams equipe. Usamos essa permissão para importar somente usuários licenciados para uma equipe Microsoft Teams ou organização selecionada. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| User.ReadBasic.All | delegado | Permitimos que os usuários importem os outros usuários de sua organização ou Microsoft Teams equipe. Usamos essa permissão para listar os usuários disponíveis e seus endereços de email no pop-up de importação. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| email | delegado | Quando o usuário faz login usando o Microsoft AAD, armazenamos seu endereço de email como um identificador exclusivo. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| offline_access | delegado | Não coletamos dados com essa permissão. Ele é usado para manter o acesso aos dados que podemos acessar. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| openid | delegado | Usamos essa permissão para entrar ou inscrever usuários no Rastreador de Férias. Não coletamos dados específicos com essa permissão. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| perfil | delegado | Coletamos as informações básicas do usuário, incluindo o nome, a ID e a ID do locatário. Usamos esses dados para conectar usuários conectados à sua organização no Vacation Tracker. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

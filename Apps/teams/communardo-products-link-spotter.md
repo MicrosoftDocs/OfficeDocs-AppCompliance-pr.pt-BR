@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Identificador de Link por Produtos Communardo
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Identificador de Link, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 986b1fc6855f15a27472453215509a8c1ea9fc39
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d0d6485454d61a3a6ae6e10d21385a228a1e581c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260712"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546479"
 ---
 # <a name="link-spotter"></a>Link Spotter
 
@@ -40,8 +41,9 @@ Informações fornecidas pelos Produtos Communardo para a Microsoft:
 | Termos de uso do aplicativo | [https://www.communardo.com/customer-agreement/](https://www.communardo.com/customer-agreement/) |
 | Funcionalidade principal do aplicativo | O Identificador de Link ajuda você a encontrar todos os links compartilhados Microsoft Teams canais mais rápido. |
 | Localização da sede da empresa | Alemanha |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://communardo.atlassian.net/wiki/spaces/LINK/overview](https://communardo.atlassian.net/wiki/spaces/LINK/overview) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelos Produtos Communardo sobre como esse a
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,15 +161,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | delegado | Verificando a associação de canal do usuário atual | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| ChannelMessage.Read.All | aplicação | Urls dentro de mensagens, messageid, id de resposta para mensagem, id de canal, id de autor... Essas informações são necessárias porque Graph não fornece uma maneira performant de obter de volta todos os links postados em mensagens em um canal. Portanto, as mensagens devem ser analisadas ativamente para fornecer a funcionalidade do link em nossa Teams guia. | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| User.Read | delegado | Entrar e ler o perfil do usuário | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| User.Read.All | aplicação | Determine quantos usuários estão tendo uma Teams de usuário. Usado para atualizar o tamanho da sede da assinatura de origem do aplicativo pago para o locatário do cliente. | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| User.ReadBasic.All | delegado | mostrando a imagem de perfil e o nome do autor da mensagem dentro do aplicativo | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| email | delegado | Conexão OpenID | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| offline_access | delegado | Conexão OpenID | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| openid | delegado | Conexão OpenID | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
->| perfil | delegado | Conexão OpenID | [a4c28379-0840-42c5-9407-f088a7f54048](https://docs.microsoft.com/microsoft-365-app-certification/azure/a4c28379-0840-42c5-9407-f088a7f54048) |
+>| Channel.ReadBasic.All | delegado | Verificando a associação de canal do usuário atual | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| ChannelMessage.Read.All | aplicação | Urls dentro de mensagens, messageid, id de resposta para mensagem, id de canal, id de autor... Essas informações são necessárias porque Graph não fornece uma maneira performant de obter de volta todos os links postados em mensagens em um canal. Portanto, as mensagens devem ser analisadas ativamente para fornecer a funcionalidade do link em nossa Teams guia. | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| User.Read.All | aplicação | Determine quantos usuários estão tendo uma Teams de usuário. Usado para atualizar o tamanho da sede da assinatura de origem do aplicativo pago para o locatário do cliente. | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| User.ReadBasic.All | delegado | mostrando a imagem de perfil e o nome do autor da mensagem dentro do aplicativo | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| email | delegado | Conexão OpenID | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| offline_access | delegado | Conexão OpenID | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| openid | delegado | Conexão OpenID | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
+>| perfil | delegado | Conexão OpenID | [a4c28379-0840-42c5-9407-f088a7f54048](../azure/a4c28379-0840-42c5-9407-f088a7f54048.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

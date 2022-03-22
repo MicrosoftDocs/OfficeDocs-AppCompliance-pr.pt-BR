@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o collaboard por soluções IBV
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Collaboard, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c41329a693f6a89c0e127cd40ff6e69e885d6bf0
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 9d98a44e3f8782a52c8cb8565828ecce07aa04de
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200508"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547308"
 ---
 # <a name="collaboard"></a>Collaboard
 
@@ -35,12 +36,12 @@ Informações fornecidas pelas Soluções IBV para a Microsoft:
 | Nome do aplicativo | Collaboard |
 | ID | WA200002549 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Soluções IBV |
+| Nome da empresa de parceiro | Soluções de IBV |
 | Site da empresa | [https://www.collaboard.app](https://www.collaboard.app) |
 | Termos de uso do aplicativo | [https://www.collaboard.app/terms](https://www.collaboard.app/terms) |
 | Funcionalidade principal do aplicativo | O collaboard é um belo quadro de trabalho online colaborativo para trabalho remoto. |
 | Localização da sede da empresa | Suíça |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.collaboard.app/product](https://www.collaboard.app/product) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure, IBMCloud, Aws, Other |
 
@@ -57,14 +58,7 @@ Essas informações foram fornecidas pelas Soluções IBV sobre como esse aplica
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,7 +158,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

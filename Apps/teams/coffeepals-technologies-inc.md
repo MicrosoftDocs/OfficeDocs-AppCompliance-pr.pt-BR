@@ -2,18 +2,19 @@
 title: Informações de aplicativo para CoffeePals pela CoffeePals Technologies Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para CoffeePals, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0e3a60a4cf08eccad2811f1f2737432a667f9ba9
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 2863be05be41765c8100f8742f955eca2e8ff122
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080992"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546489"
 ---
 # <a name="coffeepals"></a>CoffeePals
 
@@ -40,8 +41,9 @@ Informações fornecidas pela CoffeePals Technologies Inc. à Microsoft:
 | Termos de uso do aplicativo | [https://coffeepals.co/terms-of-service](https://coffeepals.co/terms-of-service) |
 | Funcionalidade principal do aplicativo | CoffeePals emparelha pessoas aleatoriamente para se reunir e conversar para formar conexões pessoais. Ele incluirá outros recursos que permitem que os funcionários se conectem melhor. |
 | Localização da sede da empresa | Canadá |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://coffeepals.co/product](https://coffeepals.co/product) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pela CoffeePals Technologies Inc. sobre com
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Retido |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

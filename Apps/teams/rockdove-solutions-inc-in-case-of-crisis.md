@@ -2,18 +2,19 @@
 title: Informações sobre o aplicativo em caso de crise pela Soluções RockDove, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Em Caso de Crise, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f8dde14386683816f9a1dcd7f4f9d1365aa3a4d4
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5add607e4c0c1d78c2ed214fd15ec549d2bf70dd
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254728"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547269"
 ---
 # <a name="in-case-of-crisis"></a>Em caso de crise
 
@@ -40,8 +41,9 @@ Informações fornecidas pela RockDove Solutions, Inc. para a Microsoft:
 | Termos de uso do aplicativo | [https://www.rockdovesolutions.com/terms-of-use](https://www.rockdovesolutions.com/terms-of-use) |
 | Funcionalidade principal do aplicativo | Em Caso de Crise é a plataforma projetada para o ciclo de vida dinâmico de gerenciamento de crise e problemas. Nosso aplicativo permite que as organizações compartilhem e ativem facilmente os playbooks acionáveis que incluem seus protocolos de resposta e práticas recomendadas à medida que uma situação está se desenvolvendo.  Você também pode gerenciar e capturar o ciclo de vida completo dos problemas que impactam sua empresa, desde o relatório inicial até a resolução.   |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.rockdovesolutions.com/in-case-of-crisis/in-case...](https://www.rockdovesolutions.com/in-case-of-crisis/in-case-of-crisis-platform) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure, AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pela RockDove Solutions, Inc. sobre como es
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,15 +161,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Isso dá acesso total ao calendário de um usuário. Nosso aplicativo exibe a descrição, o link de conferência e as datas de início e término. Nosso aplicativo também permite que um usuário crie um evento no calendário do Outlook | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Channel.ReadBasic.All | delegado | Dá acesso a um canal de usuários.  A lista de usuários de canais é usada para selecionar um canal para carregar um arquivo | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Files.ReadWrite | delegado | N/D | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Files.ReadWrite.All | delegado | Permitimos que os usuários carreguem arquivos do Gerenciamento de Problemas para Teams | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Sites.ReadWrite.All | delegado | Isso é necessário para carregar em um canal privado | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| Team.ReadBasic.All | delegado | A lista de equipes é necessária para obter a lista de canais aos que o usuário pertence. Isso nos permite exibir a lista de canais de carregamento disponíveis. | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| email | delegado | Precisa obter o email do usuário após a autenticação para comparar com emails em nosso banco de dados. Se o usuário não tiver uma conta em nosso sistema, criaremos uma. | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| offline_access | delegado | Isso nos permite atualizar o token de acesso do gráfico | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
->| openid | delegado | Permissão necessária para autenticação via openid | [6b4a2fee-5642-41a7-b452-d555fac690b0](https://docs.microsoft.com/microsoft-365-app-certification/azure/6b4a2fee-5642-41a7-b452-d555fac690b0) |
+>| Calendars.ReadWrite | delegado | Isso dá acesso total ao calendário de um usuário. Nosso aplicativo exibe a descrição, o link de conferência e as datas de início e término. Nosso aplicativo também permite que um usuário crie um evento no calendário do Outlook | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| Channel.ReadBasic.All | delegado | Dá acesso a um canal de usuários.  A lista de usuários de canais é usada para selecionar um canal para carregar um arquivo | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| Files.ReadWrite | delegado | N/D | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| Files.ReadWrite.All | delegado | Permitimos que os usuários carreguem arquivos do Gerenciamento de Problemas para Teams | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| Sites.ReadWrite.All | delegado | Isso é necessário para carregar em um canal privado | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| Team.ReadBasic.All | delegado | A lista de equipes é necessária para obter a lista de canais aos que o usuário pertence. Isso nos permite exibir a lista de canais de carregamento disponíveis. | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| email | delegado | Precisa obter o email do usuário após a autenticação para comparar com emails em nosso banco de dados. Se o usuário não tiver uma conta em nosso sistema, criaremos uma. | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| offline_access | delegado | Isso nos permite atualizar o token de acesso do gráfico | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
+>| openid | delegado | Permissão necessária para autenticação via openid | [6b4a2fee-5642-41a7-b452-d555fac690b0](../azure/6b4a2fee-5642-41a7-b452-d555fac690b0.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

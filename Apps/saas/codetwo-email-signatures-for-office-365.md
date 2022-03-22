@@ -2,18 +2,19 @@
 title: Informações do aplicativo para codetwo assinaturas de email para Office 365 por CodeTwo
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para CodeTwo Email Signatures para Office 365, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 84b557eb3ae79dcc747bb4d3d1492e2963a13da1
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 4662ec055aa9c74c091d8a2dffc648215bd5e676
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080065"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546139"
 ---
 # <a name="codetwo-email-signatures-for-office-365"></a>CodeTwo Email Signatures for Office 365
 
@@ -38,7 +39,7 @@ Informações fornecidas por CodeTwo para a Microsoft:
 | Termos de uso do aplicativo | [https://www.codetwo.com/license-agreement](https://www.codetwo.com/license-agreement) |
 | Funcionalidade principal do aplicativo | CodeTwo Email Signatures for Office 365 é um serviço de nuvem baseado no Azure que adiciona assinaturas automáticas de email, avisos de isenção de responsabilidade legal e identidade visual a mensagens enviadas de qualquer dispositivo cliente de email&amp;. Ele permite que uma pessoa (um administrador ou um usuário delegado) ou uma equipe gerencie centralmente assinaturas de email em uma organização Microsoft 365 (Office 365). Assinaturas podem ser adicionadas na nuvem (depois que emails são enviados) ou diretamente Outlook como os usuários digitam. |
 | Localização da sede da empresa | Polônia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.codetwo.com/email-signatures/](https://www.codetwo.com/email-signatures/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -59,7 +60,7 @@ Essas informações foram fornecidas pelo CodeTwo sobre como esse aplicativo col
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Dados de Perfil de Usuário |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -168,16 +169,16 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Permite aos usuários entrar no aplicativo e permite ao aplicativo ler o perfil de usuários conectados. Também permite que o aplicativo leia as informações básicas da empresa sobre os usuários conectados. | [2a93620e-4345-4e3b-9bae-0195f08aab69](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a93620e-4345-4e3b-9bae-0195f08aab69) |
->| User.Read | delegado | Permite aos usuários entrar no aplicativo e permite ao aplicativo ler o perfil de usuários conectados. Também permite que o aplicativo leia as informações básicas da empresa sobre os usuários conectados. | [7afd058a-f568-4496-96b1-28d06ab3500f](https://docs.microsoft.com/microsoft-365-app-certification/azure/7afd058a-f568-4496-96b1-28d06ab3500f) |
->| Directory.AccessAsUser.All | delegado | Permite ao aplicativo ter o mesmo acesso que o usuário conectado a informações no diretório. | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](https://docs.microsoft.com/microsoft-365-app-certification/azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b) |
->| Directory.Read.All | ambos | Permite que o aplicativo leia dados em sua organização&#8217;diretório, como usuários, grupos e aplicativos. | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](https://docs.microsoft.com/microsoft-365-app-certification/azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b) |
->| User.ReadBasic.All | delegado | Permite ao aplicativo ler um conjunto básico de propriedades de perfil de outros usuários em sua organização em nome do usuário conectado. Isso inclui nome de exibição, nome e sobrenome, endereço de email e foto. As informações são usadas para personalizar automaticamente assinaturas de email para usuários. | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](https://docs.microsoft.com/microsoft-365-app-certification/azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b) |
->| User.Read | delegado | Permite aos usuários entrar no aplicativo e permite ao aplicativo ler o perfil de usuários conectados. Ele também permite que o aplicativo leia informações básicas da empresa de usuários assinados. Usado para registrar o usuário no serviço CodeTwo. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
->| email | delegado | Permite ao aplicativo ler o endereço de email principal do usuário. Usado para registrar o usuário no serviço CodeTwo. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
->| offline_access | delegado | Permite que o aplicativo veja e atualize os dados aos que você deu acesso a ele, mesmo quando os usuários não estão usando o aplicativo no momento. Isso não dá ao aplicativo permissões adicionais. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
->| openid | delegado | Permite aos usuários entrar no aplicativo com contas corporativas ou de estudante e permite ao aplicativo ver informações básicas do perfil do usuário. Usado para registrar o usuário no serviço CodeTwo. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
->| perfil | delegado | Permite que o aplicativo veja o perfil básico do usuário (nome, foto, nome de usuário). Usado para registrar o usuário no serviço CodeTwo. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
+>| User.Read | delegado | Permite aos usuários entrar no aplicativo e permite ao aplicativo ler o perfil de usuários conectados. Também permite que o aplicativo leia as informações básicas da empresa sobre os usuários conectados. | [2a93620e-4345-4e3b-9bae-0195f08aab69](../azure/2a93620e-4345-4e3b-9bae-0195f08aab69.md) |
+>| User.Read | delegado | Permite aos usuários entrar no aplicativo e permite ao aplicativo ler o perfil de usuários conectados. Também permite que o aplicativo leia as informações básicas da empresa sobre os usuários conectados. | [7afd058a-f568-4496-96b1-28d06ab3500f](../azure/7afd058a-f568-4496-96b1-28d06ab3500f.md) |
+>| Directory.AccessAsUser.All | delegado | Permite ao aplicativo ter o mesmo acesso que o usuário conectado a informações no diretório. | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](../azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md) |
+>| Directory.Read.All | ambos | Permite que o aplicativo leia dados em sua organização&#8217;diretório, como usuários, grupos e aplicativos. | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](../azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md) |
+>| User.ReadBasic.All | delegado | Permite ao aplicativo ler um conjunto básico de propriedades de perfil de outros usuários em sua organização em nome do usuário conectado. Isso inclui nome de exibição, nome e sobrenome, endereço de email e foto. As informações são usadas para personalizar automaticamente assinaturas de email para usuários. | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](../azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md) |
+>| User.Read | delegado | Permite aos usuários entrar no aplicativo e permite ao aplicativo ler o perfil de usuários conectados. Ele também permite que o aplicativo leia informações básicas da empresa de usuários assinados. Usado para registrar o usuário no serviço CodeTwo. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
+>| email | delegado | Permite ao aplicativo ler o endereço de email principal do usuário. Usado para registrar o usuário no serviço CodeTwo. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
+>| offline_access | delegado | Permite que o aplicativo veja e atualize os dados aos que você deu acesso a ele, mesmo quando os usuários não estão usando o aplicativo no momento. Isso não dá ao aplicativo permissões adicionais. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
+>| openid | delegado | Permite aos usuários entrar no aplicativo com contas corporativas ou de estudante e permite ao aplicativo ver informações básicas do perfil do usuário. Usado para registrar o usuário no serviço CodeTwo. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
+>| perfil | delegado | Permite que o aplicativo veja o perfil básico do usuário (nome, foto, nome de usuário). Usado para registrar o usuário no serviço CodeTwo. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

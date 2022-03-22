@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o officeatwork | Assinatura de email para Outlook por officeatwork
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | Assinatura de email para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 32899c4a9734ef0afb996e7f609c042cba1172c0
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d39ea06d2a264b334f75d1532d582ec67f9e3aca
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254177"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545549"
 ---
 # <a name="officeatwork--mail-signature-for-outlook"></a>officeatwork | Assinatura de email para Outlook
 
@@ -39,7 +40,7 @@ Informações fornecidas pelo officeatwork à Microsoft:
 | Termos de uso do aplicativo | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 | Funcionalidade principal do aplicativo | Assinaturas de Email, simples e seguras, gerenciadas centralmente, &amp; personalizadas em toda a organização. |
 | Localização da sede da empresa | Suíça |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://links.officeatwork.com/officeatwork-apps](https://links.officeatwork.com/officeatwork-apps) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -58,14 +59,7 @@ Essas informações foram fornecidas pelo officeatwork sobre como esse aplicativ
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
 | Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -170,10 +164,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Habilitar a exibição de usuário de acesso, habilitar assinaturas de email dinâmicas com propriedades de usuário | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
->| offline_access | delegado | Habilitar a assinatura automatizada para hosts Office antigos | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
->| openid | delegado | Habilitar a login | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
->| perfil | delegado | Habilitar a login | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
+>| User.Read | delegado | Habilitar a exibição de usuário de acesso, habilitar assinaturas de email dinâmicas com propriedades de usuário | [722e11e1-c87f-4f97-803f-3d012d532427](../azure/722e11e1-c87f-4f97-803f-3d012d532427.md) |
+>| offline_access | delegado | Habilitar a assinatura automatizada para hosts Office antigos | [722e11e1-c87f-4f97-803f-3d012d532427](../azure/722e11e1-c87f-4f97-803f-3d012d532427.md) |
+>| openid | delegado | Habilitar a login | [722e11e1-c87f-4f97-803f-3d012d532427](../azure/722e11e1-c87f-4f97-803f-3d012d532427.md) |
+>| perfil | delegado | Habilitar a login | [722e11e1-c87f-4f97-803f-3d012d532427](../azure/722e11e1-c87f-4f97-803f-3d012d532427.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

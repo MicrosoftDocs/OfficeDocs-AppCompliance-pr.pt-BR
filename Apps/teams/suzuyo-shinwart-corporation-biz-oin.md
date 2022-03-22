@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Biz-Oin por SUZUYO Shinwart Corporation
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/12/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Biz-Oin, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Biz-Oin, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2c551dc467d6c4e5934daa14c50f840d3b6c697e
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: b9210678cad1309290d70101499a92b2f9ae7ac2
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144088"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545919"
 ---
 # <a name="biz-oin"></a>Biz-Oin
 
@@ -60,7 +61,7 @@ Essas informações foram fornecidas pela SUZUYO Shinwart Corporation sobre como
 | Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | &quot;&quot;id, &quot; &quot; mail, &quot; displayName &quot; , &quot; userPrincipalName&quot; |
+| Quais dados são armazenados em seus bancos de dados? | &quot;id&quot;, &quot;mail&quot;, &quot;displayName&quot;, &quot;userPrincipalName&quot; |
 | Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Japão |
 | Você tem um processo estabelecido de locação e descarte de dados? | Não |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 90 dias |
@@ -165,7 +166,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

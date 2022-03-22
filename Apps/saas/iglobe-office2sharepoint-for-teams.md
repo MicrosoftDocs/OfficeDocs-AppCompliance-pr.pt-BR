@@ -1,19 +1,20 @@
 ---
-title: Informações do aplicativo do Office2SharePoint para Teams pelo iGlobe
+title: Informações do aplicativo do Office2SharePoint para Teams por iGlobe
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/19/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Office2SharePoint para Teams, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ba344dc35a29968d4967c6116d47d07c0ecd9b0f
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: f47a462d237cb887fe13c4491c1778677fd6d1e7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250237"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546529"
 ---
 # <a name="office2sharepoint-for-teams"></a>Office2SharePoint para Teams
 
@@ -35,9 +36,9 @@ Informações fornecidas pelo iGlobe à Microsoft:
 | Nome da empresa de parceiro | iGlobe |
 | Site da empresa | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Termos de uso do aplicativo | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
-| Funcionalidade principal do aplicativo | Office2SharePoint - trabalhar com SharePoint e Teams de Outlook e Office maneira fácil. Quebrar barreiras na comunicação entre membros da equipe torna os documentos e anexos de email acessíveis a todos no SharePoint &amp; Teams. Salve emails e anexos de email diretamente do Outlook para SharePoint ou Teams em qualquer dispositivo e plataforma. O nível de permissão dos serviços do Aplicativo do Office2SharePoint é definido para o Outlook e o Office Desempate. |
+| Funcionalidade principal do aplicativo | Office2SharePoint - trabalhando com SharePoint e Teams de Outlook e Office maneira fácil. Quebrar barreiras na comunicação entre membros da equipe torna os documentos e anexos de email acessíveis a todos no SharePoint &amp; Teams. Salve emails e anexos de email diretamente de Outlook para SharePoint ou Teams em qualquer dispositivo e plataforma. O nível de permissão dos serviços do Aplicativo do Office2SharePoint é definido para o Outlook e o Office Desempate. |
 | Localização da sede da empresa | Dinamarca |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://o2s.iglobe.dk](https://o2s.iglobe.dk) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -54,14 +55,7 @@ Essas informações foram fornecidas pelo iGlobe sobre como esse aplicativo cole
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,15 +160,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | delegado | Permite ao aplicativo ter o mesmo acesso que o usuário conectado a informações no diretório. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Directory.Read.All | delegado | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Directory.ReadWrite.All | delegado | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Group.Read.All | delegado | Para obter os sites de grupo dos usuários. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Group.ReadWrite.All | delegado | Para acessar os emails/s selecionados e obter os anexos. No email ou adicione do site SharePoint ou Grupos ao email. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.Manage.All | delegado | Permite que o aplicativo crie ou exclua bibliotecas de documentos e listas em todos os conjunto de sites em nome do usuário registrado. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.Read.All | delegado | Para obter os usuários SharePoint site. Obter arquivos e salvar anexos do email selecionado.     | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.ReadWrite.All | delegado | Para obter SharePoint, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| User.Read | delegado | Para obter os usuários SharePoint site, OneDrive e sites de grupo. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.AccessAsUser.All | delegado | Permite ao aplicativo ter o mesmo acesso que o usuário conectado a informações no diretório. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Directory.Read.All | delegado | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Directory.ReadWrite.All | delegado | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Group.Read.All | delegado | Para obter os sites de grupo dos usuários. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Group.ReadWrite.All | delegado | Para acessar os emails/s selecionados e obter os anexos. No email ou adicione do site SharePoint ou Grupos ao email. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Sites.Manage.All | delegado | Permite que o aplicativo crie ou exclua bibliotecas de documentos e listas em todos os conjunto de sites em nome do usuário registrado. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Sites.Read.All | delegado | Para obter os usuários SharePoint site. Obter arquivos e salvar anexos do email selecionado.     | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| Sites.ReadWrite.All | delegado | Para obter SharePoint, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
+>| User.Read | delegado | Para obter os usuários SharePoint site, OneDrive e sites de grupo. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

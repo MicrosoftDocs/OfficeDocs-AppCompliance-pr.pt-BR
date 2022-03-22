@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Showmaster (Plug-in auxiliar) por cerejeira
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/19/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Showmaster (Plug-in auxiliar), suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Showmaster (Plug-in do Auxiliar), suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: da8aec255ecc6f8b779850fe862233b376a5f6df
-ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
+ms.openlocfilehash: 709af640b1be36d8f36d3a2ec5cf06982100b53e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62177609"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545239"
 ---
 # <a name="showmaster-helper-plugin"></a>Showmaster (Plug-in auxiliar)
 
@@ -37,9 +38,9 @@ Informações fornecidas pelo cerejeira para a Microsoft:
 | Nome da empresa de parceiro | cherryware |
 | Site da empresa | [https://www.cherryware.com](https://www.cherryware.com) |
 | Termos de uso do aplicativo | [https://showmaster.app/terms/](https://showmaster.app/terms/) |
-| Funcionalidade principal do aplicativo | Showmaster é um PowerPoint que cria um quadro interessante ao redor da sua conversa durante o tempo de espera e quebra com títulos, contagem regressiva, música e muito mais. |
+| Funcionalidade principal do aplicativo | Showmaster é um PowerPoint que cria um quadro interessante ao redor de sua conversa durante o tempo de espera e quebra com títulos, contagem regressiva, música e muito mais. |
 | Localização da sede da empresa | Alemanha |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://showmaster.app](https://showmaster.app) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -56,14 +57,7 @@ Essas informações foram fornecidas pelo cherryware sobre como esse aplicativo 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -162,7 +156,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

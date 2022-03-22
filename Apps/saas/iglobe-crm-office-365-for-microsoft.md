@@ -2,18 +2,19 @@
 title: Informações do aplicativo para iGlobe CRM Office 365 para Microsoft 365 iGlobe
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o iGlobe CRM Office 365 para Microsoft 365, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b1063e282ad40ae30ed752fc605812c24d165941
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 4d09b4bb03d0806d95b6ec8e5f799815f7c9f425
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255087"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546539"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-365"></a>IGlobe CRM Office 365 para Microsoft 365
 
@@ -35,10 +36,11 @@ Informações fornecidas pelo iGlobe à Microsoft:
 | Nome da empresa de parceiro | iGlobe |
 | Site da empresa | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Termos de uso do aplicativo | [https://iglobecrm.com/content/iglobe-crm-office-365-end-use...](https://iglobecrm.com/content/iglobe-crm-office-365-end-user-license-agreement) |
-| Funcionalidade principal do aplicativo | O iGlobe CRM Office 365 um SharePoint fornecido hospedado. O iGlobe CRM Office 365 é um complemento simples e fácil de usar para empresas usando Office 365. Com o Outlook-, Excel, os complementos do Word e o aplicativo Teams combinados com uma integração perfeita com o Planner do Office 365, SharePoint e Teams o add-in do SharePoint iGlobe é uma extensão Office 365 verdadeira. O nível de permissão do iGlobe CRM é definido com base na integração em todos os serviços Microsoft 365 usados. |
+| Funcionalidade principal do aplicativo | O iGlobe CRM Office 365 um SharePoint fornecido hospedado. O iGlobe CRM Office 365 é um add-in do CRM simples e fácil de usar para empresas usando Office 365. Com o Outlook-, Excel, os complementos do Word e o aplicativo Teams combinados com uma integração perfeita com o Office 365 Planner, SharePoint e Teams o add-in do SharePoint iGlobe é uma extensão Office 365 verdadeira. O nível de permissão do iGlobe CRM é definido com base na integração em todos os serviços Microsoft 365 usados. |
 | Localização da sede da empresa | Dinamarca |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,14 +55,7 @@ Essas informações foram fornecidas pelo iGlobe sobre como esse aplicativo cole
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído imediatamente |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,19 +159,19 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Contacts.ReadWrite | delegado | Directory.AccessAsUser.All | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Directory.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Directory.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Files.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Group.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Mail.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Sites.Manage.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Sites.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Sites.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| Tasks.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
->| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Calendars.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Contacts.ReadWrite | delegado | Directory.AccessAsUser.All | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Directory.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Directory.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Files.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Group.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Mail.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Sites.Manage.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Sites.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Sites.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Tasks.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

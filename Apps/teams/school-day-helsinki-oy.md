@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Dia da Escola até o Dia da Escola em Helsínquia
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Dia da Escola, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 07027fd6d02c61c6301851cdb58fbab6f1928bb1
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ade87441027d2b9693f0b6340a6a54b60a66507f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263486"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546679"
 ---
 # <a name="school-day"></a>Dia Escolar
 
@@ -40,8 +41,9 @@ Informações fornecidas pelo Oy do Dia da Escola de Helsínquia para a Microsof
 | Termos de uso do aplicativo | [https://www.schoolday.com/eula](https://www.schoolday.com/eula) |
 | Funcionalidade principal do aplicativo | Melhorar o bem-estar do aluno e Social-Emotional Learning (SEL) com o Dia da Escola no Microsoft Teams! |
 | Localização da sede da empresa | Finlândia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.schoolday.com/en/resources/faq](https://www.schoolday.com/en/resources/faq) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo Oy de Dia da Escola de Helsínquia sob
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,14 +161,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| GroupMember.Read.All | delegado | Nome do grupo e associações de grupo. O usuário que é professor pode adicionar alunos ao Dia da Escola a partir de seus grupos. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](https://docs.microsoft.com/microsoft-365-app-certification/azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f) |
->| Team.ReadBasic.All | delegado | O nome da equipe é usado quando o usuário do professor deseja adicionar alunos de suas equipes e grupos. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](https://docs.microsoft.com/microsoft-365-app-certification/azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f) |
->| User.Read | delegado | Email, nome e token de ID do usuário são usados para gerenciamento e autenticação do usuário. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](https://docs.microsoft.com/microsoft-365-app-certification/azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f) |
->| User.ReadBasic.All | delegado | Imagens de perfil de usuário a serem usadas em avatares do usuário. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](https://docs.microsoft.com/microsoft-365-app-certification/azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f) |
->| email | delegado | O email do usuário é coletado para autenticação de conta. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](https://docs.microsoft.com/microsoft-365-app-certification/azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f) |
->| offline_access | delegado | Autenticação - Atualização de token de acesso. Experiência do usuário mais suave. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](https://docs.microsoft.com/microsoft-365-app-certification/azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f) |
->| openid | delegado | Identificador exclusivo do usuário para entrar no OpenID.  | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](https://docs.microsoft.com/microsoft-365-app-certification/azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f) |
->| perfil | delegado | Nome de usuário preferencial e id de objeto para fins de gerenciamento e autenticação do usuário. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](https://docs.microsoft.com/microsoft-365-app-certification/azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f) |
+>| GroupMember.Read.All | delegado | Nome do grupo e associações de grupo. O usuário que é professor pode adicionar alunos ao Dia da Escola a partir de seus grupos. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](../azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f.md) |
+>| Team.ReadBasic.All | delegado | O nome da equipe é usado quando o usuário do professor deseja adicionar alunos de suas equipes e grupos. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](../azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f.md) |
+>| User.Read | delegado | Email, nome e token de ID do usuário são usados para gerenciamento e autenticação do usuário. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](../azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f.md) |
+>| User.ReadBasic.All | delegado | Imagens de perfil de usuário a serem usadas em avatares do usuário. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](../azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f.md) |
+>| email | delegado | O email do usuário é coletado para autenticação de conta. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](../azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f.md) |
+>| offline_access | delegado | Autenticação - Atualização de token de acesso. Experiência do usuário mais suave. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](../azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f.md) |
+>| openid | delegado | Identificador exclusivo do usuário para entrar no OpenID.  | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](../azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f.md) |
+>| perfil | delegado | Nome de usuário preferencial e id de objeto para fins de gerenciamento e autenticação do usuário. | [61dc5e28-775a-4dd0-8990-aaabe3be9e2f](../azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

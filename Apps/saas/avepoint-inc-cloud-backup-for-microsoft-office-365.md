@@ -2,18 +2,19 @@
 title: Informações do aplicativo para backup na nuvem para Microsoft Office 365 por AvePoint Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Backup na Nuvem para Microsoft Office 365, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6fc3b2c5bc0fb54b4075f71e21ef1c2d14ace0f7
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: a053ad5e60924f5d45fb8b99f91fe87b6dfe844e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260937"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546559"
 ---
 # <a name="cloud-backup-for-microsoft-office-365"></a>Backup na nuvem para Microsoft Office 365
 
@@ -35,8 +36,8 @@ Informações fornecidas pelo AvePoint Inc. à Microsoft:
 | Nome da empresa de parceiro | AvePoint Inc. |
 | Site da empresa | [https://www.avepoint.com](https://www.avepoint.com) |
 | Termos de uso do aplicativo | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| Funcionalidade principal do aplicativo | O Backup na Nuvem do AvePoint é o&#8217;a solução de backup de nuvem para nuvem mais completa para Microsoft 365. Com
-unlimited, automated backups e secure storage in AvePoint&#8217;armazenamento do Azure ou sua própria nuvem, você apenas decide quanto deve ser recuperado e quando. A restauração em nível de item sob demanda e granular fornece acesso a qualquer momento para seus emails, arquivos, conversas, gravações, projetos, tarefas, grupos, Teams, Planner e sites. | | Local da sede da empresa | Estados Unidos da América | | Página de informações do aplicativo | | | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas | | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
+| Funcionalidade principal do aplicativo | O Backup de Nuvem do AvePoint é a&#8217;solução de backup de nuvem para nuvem mais completa para Microsoft 365. Com
+unlimited, automated backups, and secure storage in AvePoint&#8217;s Azure storage or your own cloud, you just decide quanto recuperar e quando. A restauração em nível de item sob demanda e granular fornece acesso a qualquer momento para seus emails, arquivos, conversas, gravações, projetos, tarefas, grupos, Teams, Planner e sites. | | Local da sede da empresa | Estados Unidos da América | | Página de informações do aplicativo | [https://www.avepoint.com/products/cloud/backup/microsoft-of...](https://www.avepoint.com/products/cloud/backup/microsoft-office-365-backup) | | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas | | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -167,15 +168,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMember.ReadWrite.All | aplicação | Adicionar e remover membros de todos os canais | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| ChannelMessage.Read.All | aplicação | Listar mensagens do canal | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| ChannelSettings.ReadWrite.All | aplicação | Ler e gravar os nomes, descrições e configurações de todos os canais | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Directory.Read.All | aplicação | Ler dados do diretório | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Files.Read.All | aplicação | Ler arquivos em todos os conjuntos de sites | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Group.ReadWrite.All | aplicação | Ler e gravar todos os grupos | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Reports.Read.All | aplicação | Ler todos os relatórios de uso | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.ReadWrite.All | aplicação | Ler e gravar itens em todos os conjuntos de sites | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| User.Read | delegado | Entrar e ler o perfil do usuário | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| ChannelMember.ReadWrite.All | aplicação | Adicionar e remover membros de todos os canais | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| ChannelMessage.Read.All | aplicação | Listar mensagens do canal | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| ChannelSettings.ReadWrite.All | aplicação | Ler e gravar os nomes, descrições e configurações de todos os canais | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Directory.Read.All | aplicação | Ler dados do diretório | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Files.Read.All | aplicação | Ler arquivos em todos os conjuntos de sites | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Group.ReadWrite.All | aplicação | Ler e gravar todos os grupos | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Reports.Read.All | aplicação | Ler todos os relatórios de uso | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Sites.ReadWrite.All | aplicação | Ler e gravar itens em todos os conjuntos de sites | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

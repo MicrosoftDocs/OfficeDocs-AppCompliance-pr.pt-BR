@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Conexão para Jira pelo yasoon GmbH
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Smart Conexão para Jira, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2f8db5fc4087ece98bf19f20ff3b91ab96875ed0
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: af133a525bc0809ecea134167b6a24b95b8c45d4
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252057"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545839"
 ---
 # <a name="smart-connect-for-jira"></a>Smart Connect para Jira
 
@@ -38,10 +39,11 @@ Informações fornecidas pelo yasoon GmbH para a Microsoft:
 | Nome da empresa de parceiro | yasoon GmbH |
 | Site da empresa | [https://www.yasoon.com](https://www.yasoon.com) |
 | Termos de uso do aplicativo | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474846970/Product_42949680957/Asset_3f25ec80-eacb-454f-8cc2-eeee583b65c6/170825EULAOfficeaddinEN.doc) |
-| Funcionalidade principal do aplicativo | o yasoon se concentra em fornecer integrações inteligentes e seguras entre &amp; a Atlassian e serviços Microsoft. Oferecemos ferramentas que se conectam Outlook e Teams com a Jira Atlassian. Nosso aplicativo Jira para Microsoft Teams ajuda as equipes de software e de negócios a trabalhar melhor em conjunto, conectando Teams chats e conversas a problemas Jira. |
+| Funcionalidade principal do aplicativo | o yasoon se concentra em fornecer integrações inteligentes e &amp; seguras entre a Atlassian e serviços Microsoft. Oferecemos ferramentas que se conectam Outlook e Teams com a Jira atlassiana. Nosso aplicativo Jira para Microsoft Teams ajuda as equipes de software e de negócios a trabalharem melhor em conjunto, conectando Teams conversas e chats a problemas Jira. |
 | Localização da sede da empresa | Alemanha |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://yasoon.com/microsoft-teams-for-jira/](https://yasoon.com/microsoft-teams-for-jira/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo yasoon GmbH sobre como esse aplicativo
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,15 +161,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | delegado | A permissão é usada para permitir que o usuário selecione um desses canais ingressado no Jira. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelMessage.Read.Group | aplicação | Permite que o aplicativo mostre mensagens de canal vinculadas em Jira. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelMessage.Send | delegado | Nenhum dado é usado, essa API é usada para permitir que o usuário responda às mensagens de canal de Jira. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelSettings.Read.Group | aplicação | Usado para procurar informações detalhadas sobre um canal. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Chat.ReadWrite | delegado | Usado para permitir que o usuário adicione novas respostas a chats e exibir mensagens de chat de Jira. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Member.Read.Group | aplicação | Usado para verificações de permissão, permite que o aplicativo valide a associação de equipe dos usuários. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Team.ReadBasic.All | delegado | A permissão é usada para permitir que o usuário selecione uma dessas equipes ingressáveis no Jira. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| TeamSettings.Read.Group | aplicação | Permite que o aplicativo leia as configurações de equipe para respeitar determinados padrões. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| User.ReadBasic.All | delegado | Permite que o usuário selecione colegas de trabalho para @-mention em uma mensagem de canal | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Channel.ReadBasic.All | delegado | A permissão é usada para permitir que o usuário selecione um desses canais ingressado no Jira. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| ChannelMessage.Read.Group | aplicação | Permite que o aplicativo mostre mensagens de canal vinculadas em Jira. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| ChannelMessage.Send | delegado | Nenhum dado é usado, essa API é usada para permitir que o usuário responda às mensagens de canal de Jira. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| ChannelSettings.Read.Group | aplicação | Usado para procurar informações detalhadas sobre um canal. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| Chat.ReadWrite | delegado | Usado para permitir que o usuário adicione novas respostas a chats e exibir mensagens de chat de Jira. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| Member.Read.Group | aplicação | Usado para verificações de permissão, permite que o aplicativo valide a associação de equipe dos usuários. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| Team.ReadBasic.All | delegado | A permissão é usada para permitir que o usuário selecione uma dessas equipes ingressáveis no Jira. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| TeamSettings.Read.Group | aplicação | Permite que o aplicativo leia as configurações de equipe para respeitar determinados padrões. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
+>| User.ReadBasic.All | delegado | Permite que o usuário selecione colegas de trabalho para @-mention em uma mensagem de canal | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](../azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

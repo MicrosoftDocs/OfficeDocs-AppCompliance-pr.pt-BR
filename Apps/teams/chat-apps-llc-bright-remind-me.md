@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Bright Remind Me by Chat Apps, LLC
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Bright Remind Me, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5c5495382e68a3bbb0823c76e38511adeb54506e
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: d0ac061a03a958c397b2044d583ba0365165e393
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62146231"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545439"
 ---
 # <a name="bright-remind-me"></a>Brilhante Me Lembre
 
@@ -40,7 +41,7 @@ Informações fornecidas por Aplicativos de Chat, LLC para a Microsoft:
 | Termos de uso do aplicativo | [https://brightbits.app/terms/](https://brightbits.app/terms/) |
 | Funcionalidade principal do aplicativo | Receba lembretes de mensagens importantes quando for conveniente para você responder. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://brightbits.app/bright-remind-me/](https://brightbits.app/bright-remind-me/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws, Heroku |
 
@@ -165,7 +166,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

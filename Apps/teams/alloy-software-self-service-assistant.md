@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o assistente de Self-Service liga por software de liga
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Assistente de Self-Service de ligamento, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Assistente de Self-Service, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 601a3252b342cd64d01d0bc95c1105d06d6cd415
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 43f94e5fc6e97a7a8691089d8fa2b5a1ef498a3c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147292"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545519"
 ---
 # <a name="alloy-self-service-assistant"></a> Assistente de Autoatendimento de liga 
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo Software de Liga de Liga para a Microsoft:
 | Termos de uso do aplicativo | [https://www.alloysoftware.com/resources/eula/](https://www.alloysoftware.com/resources/eula/) |
 | Funcionalidade principal do aplicativo | Crie tíquetes de service desk, pesquise a base de dados de conhecimento e aprove solicitações. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://docs.alloysoftware.com/alloynavigator/2021/docs/int...](https://docs.alloysoftware.com/alloynavigator/2021/docs/integrations/topics/microsoft-teams-bot.htm) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -166,7 +167,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

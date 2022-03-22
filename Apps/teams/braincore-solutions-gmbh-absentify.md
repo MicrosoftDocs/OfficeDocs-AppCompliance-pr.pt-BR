@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para absentify, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 73642d7ff02b79175b19cb4141098917e500ad29
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: 0bf3b44455bd598b532f0708654252f6620c60c6
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470122"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546109"
 ---
 # <a name="absentify"></a>absentify
 
@@ -62,7 +62,7 @@ Essas informações foram fornecidas pelo GmbH da BrainCore Solutions sobre como
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | ID do Usuário da Microsoft, Email,DisplayName |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Alemanha |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -171,10 +171,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamsActivity.Send | aplicação | Opcional. Para enviar notificações para Microsoft Teams. | [0f5eabc0-89bf-4cc6-80d1-10094b5919d2](../azure/0f5eabc0-89bf-4cc6-80d1-10094b5919d2) |
->| Calendars.ReadWrite | delegado | Opcional: para criar automaticamente uma entrada de Outlook calendário para ausências. | [3dbcb38b-8d2f-4e97-9bd1-975fb770b31c](../azure/3dbcb38b-8d2f-4e97-9bd1-975fb770b31c) |
->| User.Read | delegado | Para Logon | [4dce2abf-3f8e-4281-9f7a-d602fc391886](../azure/4dce2abf-3f8e-4281-9f7a-d602fc391886) |
->| User.ReadBasic.All | delegado | Opcional: para exibir as imagens de perfil da Microsoft dos usuários. | [4dce2abf-3f8e-4281-9f7a-d602fc391886](../azure/4dce2abf-3f8e-4281-9f7a-d602fc391886) |
+>| TeamsActivity.Send | aplicação | Opcional. Para enviar notificações para Microsoft Teams. | [0f5eabc0-89bf-4cc6-80d1-10094b5919d2](../azure/0f5eabc0-89bf-4cc6-80d1-10094b5919d2.md) |
+>| Calendars.ReadWrite | delegado | Opcional: para criar automaticamente uma entrada de Outlook calendário para ausências. | [3dbcb38b-8d2f-4e97-9bd1-975fb770b31c](../azure/3dbcb38b-8d2f-4e97-9bd1-975fb770b31c.md) |
+>| User.Read | delegado | Para Logon | [4dce2abf-3f8e-4281-9f7a-d602fc391886](../azure/4dce2abf-3f8e-4281-9f7a-d602fc391886.md) |
+>| User.ReadBasic.All | delegado | Opcional: para exibir as imagens de perfil da Microsoft dos usuários. | [4dce2abf-3f8e-4281-9f7a-d602fc391886](../azure/4dce2abf-3f8e-4281-9f7a-d602fc391886.md) |
 
 >Este aplicativo não tem APIs adicionais.
 
