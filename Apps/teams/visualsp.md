@@ -2,18 +2,19 @@
 title: Informações do aplicativo para VisualSP pelo VisualSP
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para VisualSP, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3e6ded0edb5ad681584e53c984041b43d7cccb80
-ms.sourcegitcommit: 27afe4d564e72c28ea073e4b31801ad983aec173
+ms.openlocfilehash: 303f3f842894e425ed531c3a8ca3126911c9d48e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62473532"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547699"
 ---
 # <a name="visualsp"></a>VisualSP
 
@@ -38,9 +39,9 @@ Informações fornecidas pelo VisualSP à Microsoft:
 | Nome da empresa de parceiro | VisualSP |
 | Site da empresa | [https://visualsp.com](https://visualsp.com) |
 | Termos de uso do aplicativo | [https://www.visualsp.com/terms-of-service](https://www.visualsp.com/terms-of-service) |
-| Funcionalidade principal do aplicativo | Forneça acesso instantâneo ao Microsoft 365 de treinamento do usuário final e seu próprio treinamento personalizado |
+| Funcionalidade principal do aplicativo | Fornecer acesso instantâneo ao Microsoft 365 de treinamento do usuário final e seu próprio treinamento personalizado |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.visualsp.com/products/microsoft-teams-training/](https://www.visualsp.com/products/microsoft-teams-training/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -165,7 +166,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

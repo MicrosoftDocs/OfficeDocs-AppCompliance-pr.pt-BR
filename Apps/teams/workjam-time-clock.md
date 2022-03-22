@@ -2,18 +2,19 @@
 title: Informações do aplicativo para WorkJam Time Clock by WorkJam
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/13/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o WorkJam Time Clock, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e831ca59c0fed743a1a485a6aa52edbfca1dab89
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 88c58e30f12fc05575f1621e2e39ed245e89e285
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259187"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548209"
 ---
 # <a name="workjam-time-clock"></a>Horário do WorkJam
 
@@ -38,11 +39,10 @@ Informações fornecidas pelo WorkJam à Microsoft:
 | Nome da empresa de parceiro | WorkJam |
 | Site da empresa | [https://www.workjam.com](https://www.workjam.com) |
 | Termos de uso do aplicativo | [https://appcontent.workjam.com/en/terms-of-use/](https://appcontent.workjam.com/en/terms-of-use/) |
-| Funcionalidade principal do aplicativo | WorkJam é o setor de soluções de Local de Trabalho Digital que os líderes optam por orquestrar suas forças de trabalho de linha de frente &#8212; como sua plataforma de produtividade de linha de frente ou dentro da solução de funcionários de linha de frente. Disponível em mais de 37 idiomas e implantado em mais de 38 países, o WorkJam fornece o total de Orquestração de Força de Trabalho por meio de gerenciamento de tarefas líderes do mercado, gerenciamento de turnos, pesquisas e ferramentas de microapresa.  |
+| Funcionalidade principal do aplicativo | WorkJam é o setor de soluções de Local de Trabalho Digital que os líderes optam por orquestrar suas forças de trabalho de linha de frente &#8212; como sua plataforma de produtividade de linha de frente ou dentro de sua solução de funcionários de linha de frente. Disponível em mais de 37 idiomas e implantado em mais de 38 países, o WorkJam fornece o total de Orquestração de Força de Trabalho por meio de gerenciamento de tarefas líderes do mercado, gerenciamento de turnos, pesquisas e ferramentas de microapresa.  |
 | Localização da sede da empresa | Canadá |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.workjam.com/portfolio-items/workjam-microsoft-t...](https://www.workjam.com/portfolio-items/workjam-microsoft-teams/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -171,8 +171,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamsActivity.Send | aplicação | Para enviar notificações ao usuário | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf) |
->| User.Read | delegado | Para fazer SSO para o usuário e apresentá-lo com as informações certas | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf) |
+>| TeamsActivity.Send | aplicação | Para enviar notificações ao usuário | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](../azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf.md) |
+>| User.Read | delegado | Para fazer SSO para o usuário e apresentá-lo com as informações certas | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](../azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Prowd by Prowd
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Prowd, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0597b5b8d4d1ff74a1b7c6be848d7a09650247f6
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: d5cc94b2c7da155298849223a83260fee761a842
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080991"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549629"
 ---
 # <a name="prowd"></a>Prowd
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo Prowd para a Microsoft:
 | Termos de uso do aplicativo | [https://www.beprowd.com/cgu-chatbot-corporate](https://www.beprowd.com/cgu-chatbot-corporate) |
 | Funcionalidade principal do aplicativo | Le chatbot Prowd propose &#224; chaque utilisateur des d&#233;fis, quiz et actualit&#233;s sur les th&#233;matiques du D&#233;veloppement Durable pour apprendre et passer &#224; l'action. Dans tout type d'entreprise, Prowd permet aux responsables RSE (Responsabilit&#233; Soci&#233;tale des Entreprises) d'engager facilement les collaborateurs sur ces sujets. |
 | Localização da sede da empresa | França |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.beprowd.com/chatbot-teams/](https://www.beprowd.com/chatbot-teams/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
@@ -61,7 +62,7 @@ Essas informações foram fornecidas pelo Prowd sobre como esse aplicativo colet
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Teams ID do locatário, Teams ID da conversa do usuário, email do usuário, nome de usuário.  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Irlanda |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Não mantido |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |

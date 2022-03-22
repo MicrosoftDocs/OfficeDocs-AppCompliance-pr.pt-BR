@@ -2,18 +2,19 @@
 title: Informações do aplicativo para ambição por ambição
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Ambição, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0d647d63ad0999b5f635f2bef659af1ad8bb9563
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: bb4fa96c1ab1220f78f3eafa1e946dea7a071136
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263536"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549729"
 ---
 # <a name="ambition"></a>Ambição
 
@@ -40,8 +41,9 @@ Informações fornecidas pela Empresa para a Microsoft:
 | Termos de uso do aplicativo | [https://ambition.com/pages/terms/](https://ambition.com/pages/terms/) |
 | Funcionalidade principal do aplicativo | Software de gamificação e coaching para equipes de vendas. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://ambition.com](https://ambition.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pela Ambição sobre como esse aplicativo c
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,12 +161,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | delegado | Enviar notificações de ambição para o canal | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
->| Group.Read.All | delegado | Configurar uma notificação de Fluxo de Trabalho de Ambição para um canal específico dentro de uma equipe. | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
->| User.Read | delegado | Para identificar o Administrador que autorizou o aplicativo De ambição | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
->| User.ReadBasic.All | delegado | Os emails de nomes de &amp; usuário, para sincronizar os usuários com suas contas de Ambição. | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
->| offline_access | delegado | Para sincronizar Microsoft Teams dados enquanto os usuários estão offline. | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
->| openid | delegado | Isso é necessário para usar o recurso de login da Microsoft | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](https://docs.microsoft.com/microsoft-365-app-certification/azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af) |
+>| Channel.ReadBasic.All | delegado | Enviar notificações de ambição para o canal | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](../azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af.md) |
+>| Group.Read.All | delegado | Configurar uma notificação de Fluxo de Trabalho de Ambição para um canal específico dentro de uma equipe. | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](../azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af.md) |
+>| User.Read | delegado | Para identificar o Administrador que autorizou o aplicativo De ambição | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](../azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af.md) |
+>| User.ReadBasic.All | delegado | Os emails de nomes de &amp; usuário, para sincronizar os usuários com suas contas de Ambição. | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](../azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af.md) |
+>| offline_access | delegado | Para sincronizar Microsoft Teams dados enquanto os usuários estão offline. | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](../azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af.md) |
+>| openid | delegado | Isso é necessário para usar o recurso de login da Microsoft | [24a9cf21-407c-41f9-8cc6-e7015f4e02af](../azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

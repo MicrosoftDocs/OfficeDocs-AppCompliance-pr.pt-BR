@@ -2,18 +2,19 @@
 title: Informações do aplicativo para isLucid por Contratos UAB Lúcidos
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para isLucid, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 83c9786dcb0cd7f8ff6c5d744c5eaf3fb63b9ab3
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ac2d52a234c50cd0a59ecb4bbbc62bd346a929d7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255457"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547749"
 ---
 # <a name="islucid"></a>isLucid
 
@@ -40,7 +41,7 @@ Informações fornecidas pelos Contratos UAB Lúcidos para a Microsoft:
 | Termos de uso do aplicativo | [https://islucid.com/eula/](https://islucid.com/eula/) |
 | Funcionalidade principal do aplicativo | Habilitar a equipe Microsoft Teams chamada para capturar e criar tarefas a partir da transcrição em tempo real. Integre essas tarefas ao software de gerenciamento Project existente. |
 | Localização da sede da empresa | Lituânia |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://islucid.com](https://islucid.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -169,13 +170,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calls.AccessMedia.All | ambos | Com um consentimento específico do usuário para cada chamada separadamente (transcrição iniciada), ele acessa o fluxo de áudio. O fluxo de áudio é encaminhado para um serviço de transcrição para que os usuários recebam mais funcionalidades. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| Calls.JoinGroupCall.All | ambos | Com um consentimento específico do usuário para cada chamada separadamente (transcrição iniciada), ele acessa o fluxo de áudio. O fluxo de áudio é encaminhado para um serviço de transcrição para que os usuários recebam mais funcionalidades. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| Group.ReadWrite.All | ambos | Quando o usuário usa a integração com o Microsoft Planner para criar tarefas de chamada e armazenar automaticamente no MS Planner, isLucid coleta para esse usuário grupos, planos, atribuídos. Sem essa permissão, o usuário não seria capaz de criar tarefas a partir da transcrição usando isLucid | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| OnlineMeetings.Read.All | ambos | O aplicativo coleta títulos de reunião para que os usuários posteriormente (quando a reunião seja concluída) encontrem transcrições e tarefas anteriores mais fáceis. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| Tasks.ReadWrite | ambos | Quando o usuário usa a integração com o Microsoft Planner para criar tarefas de chamada e armazenar automaticamente no MS Planner, isLucid coleta para esse usuário grupos, planos, atribuídos. Sem essa permissão, o usuário não seria capaz de criar tarefas a partir da transcrição usando isLucid | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| User.ReadWrite.All | ambos | Quando o usuário usa a integração com o Microsoft Planner para criar tarefas de chamada e armazenar automaticamente no MS Planner, isLucid coleta para esse usuário grupos, planos, atribuídos. Sem essa permissão, o usuário não seria capaz de criar tarefas a partir da transcrição usando isLucid | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| openid | ambos | ID do usuário, ID de locatário coletada para fornecer Azure Active Directory de logon para nossos usuários | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
+>| Calls.AccessMedia.All | ambos | Com um consentimento específico do usuário para cada chamada separadamente (transcrição iniciada), ele acessa o fluxo de áudio. O fluxo de áudio é encaminhado para um serviço de transcrição para que os usuários recebam mais funcionalidades. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| Calls.JoinGroupCall.All | ambos | Com um consentimento específico do usuário para cada chamada separadamente (transcrição iniciada), ele acessa o fluxo de áudio. O fluxo de áudio é encaminhado para um serviço de transcrição para que os usuários recebam mais funcionalidades. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| Group.ReadWrite.All | ambos | Quando o usuário usa a integração com o Microsoft Planner para criar tarefas de chamada e armazenar automaticamente no MS Planner, isLucid coleta para esse usuário grupos, planos, atribuídos. Sem essa permissão, o usuário não seria capaz de criar tarefas a partir da transcrição usando isLucid | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| OnlineMeetings.Read.All | ambos | O aplicativo coleta títulos de reunião para que os usuários posteriormente (quando a reunião seja concluída) encontrem transcrições e tarefas anteriores mais fáceis. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| Tasks.ReadWrite | ambos | Quando o usuário usa a integração com o Microsoft Planner para criar tarefas de chamada e armazenar automaticamente no MS Planner, isLucid coleta para esse usuário grupos, planos, atribuídos. Sem essa permissão, o usuário não seria capaz de criar tarefas a partir da transcrição usando isLucid | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| User.ReadWrite.All | ambos | Quando o usuário usa a integração com o Microsoft Planner para criar tarefas de chamada e armazenar automaticamente no MS Planner, isLucid coleta para esse usuário grupos, planos, atribuídos. Sem essa permissão, o usuário não seria capaz de criar tarefas a partir da transcrição usando isLucid | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| openid | ambos | ID do usuário, ID de locatário coletada para fornecer Azure Active Directory de logon para nossos usuários | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

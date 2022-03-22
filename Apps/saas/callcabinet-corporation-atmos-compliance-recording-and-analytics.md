@@ -2,18 +2,19 @@
 title: Informações do aplicativo para CallCabinet Atmos Compliance Recording and Analytics by CallCabinet Corporation
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o CallCabinet Atmos Compliance Recording and Analytics, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Registro e Análise de Conformidade do CallCabinet Atmos, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 276e898351611643a648dac9350e750b13fd8a1a
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: 463cccc6f77ec628c3024a6c29b292947ed8d6cf
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62877551"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548539"
 ---
 # <a name="callcabinet-atmos-compliance-recording-and-analytics"></a>CallCabinet Atmos Compliance Recording and Analytics
 
@@ -38,7 +39,7 @@ Informações fornecidas pela CallCabinet Corporation à Microsoft:
 | Termos de uso do aplicativo | [https://www.callcabinet.com/terms-and-conditions/](https://www.callcabinet.com/terms-and-conditions/) |
 | Funcionalidade principal do aplicativo | Atmos by CallCabinet é uma gravação de chamada de conformidade nativa do Azure, solução AI-analytics e QA SaaS para Microsoft Teams e outros sistemas de colaboração ou central de contatos. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.callcabinet.com/compliance-microsoft-teams-call...](https://www.callcabinet.com/compliance-microsoft-teams-call-recording/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -58,8 +59,8 @@ Essas informações foram fornecidas pela CallCabinet Corporation sobre como ess
 | Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | Conversas Teams gravadas, vídeo e compartilhamento de tela |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Quais dados são armazenados em seus bancos de dados? | Conversas Teams, vídeo e compartilhamento de tela gravados |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -163,7 +164,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

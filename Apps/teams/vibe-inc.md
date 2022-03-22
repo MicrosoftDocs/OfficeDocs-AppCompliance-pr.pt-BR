@@ -2,18 +2,19 @@
 title: Informações do aplicativo para a Vibração pela Vibração Inc
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/20/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Vibra, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9dd45dc3aa49fdf3dbe518b610186231b1cde907
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: cdfd34a8284e0565fb9daa47376732709ad9cee0
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254607"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549219"
 ---
 # <a name="vibe"></a>Vibe
 
@@ -170,7 +171,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Obter informações básicas de identidade do usuário, como nome, email, imagem de perfil. | [71a7c2ef-6e5f-4d3d-8665-119a2bef0035](https://docs.microsoft.com/microsoft-365-app-certification/azure/71a7c2ef-6e5f-4d3d-8665-119a2bef0035) |
+>| User.Read | delegado | Obter informações básicas de identidade do usuário, como nome, email, imagem de perfil. | [71a7c2ef-6e5f-4d3d-8665-119a2bef0035](../azure/71a7c2ef-6e5f-4d3d-8665-119a2bef0035.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

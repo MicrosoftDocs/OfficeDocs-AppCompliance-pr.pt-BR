@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Wazoku por Wazoku
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Wazoku, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1c9aef70ea9958b82698b54fca43ebf2853f5d73
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 9dd9552c6b636d16f6c419979fada3fda866e793
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251537"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549609"
 ---
 # <a name="wazoku"></a>Wazoku
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo Wazoku à Microsoft:
 | Termos de uso do aplicativo | [https://www.wazoku.com/terms-of-use/](https://www.wazoku.com/terms-of-use/) |
 | Funcionalidade principal do aplicativo | Plataforma de Gerenciamento de Ideias wazoku |
 | Localização da sede da empresa | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://support.wazoku.com/microsoft-teams-integration](https://support.wazoku.com/microsoft-teams-integration) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure, Aws |
 
@@ -170,11 +171,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
->| email | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
->| offline_access | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
->| openid | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
->| perfil | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
+>| User.Read | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](../azure/15439749-b811-4e89-b777-4fe6ef247801.md) |
+>| email | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](../azure/15439749-b811-4e89-b777-4fe6ef247801.md) |
+>| offline_access | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](../azure/15439749-b811-4e89-b777-4fe6ef247801.md) |
+>| openid | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](../azure/15439749-b811-4e89-b777-4fe6ef247801.md) |
+>| perfil | delegado | Single Sign On | [15439749-b811-4e89-b777-4fe6ef247801](../azure/15439749-b811-4e89-b777-4fe6ef247801.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

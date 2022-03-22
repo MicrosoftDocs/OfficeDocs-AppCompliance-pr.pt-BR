@@ -2,18 +2,19 @@
 title: Informações do aplicativo para MyHub para Teams por AvePoint Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o MyHub para Teams, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: abf2df95a61552899c392b884fc306481aa72a08
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 85284efb009be8af3e7232782ddb85f5e7d6569a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255089"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549819"
 ---
 # <a name="myhub-for-teams"></a>MyHub para Teams
 
@@ -36,10 +37,11 @@ Informações fornecidas pelo AvePoint Inc. à Microsoft:
 | Nome da empresa de parceiro | AvePoint Inc. |
 | Site da empresa | [https://www.avepoint.com](https://www.avepoint.com) |
 | Termos de uso do aplicativo | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| Funcionalidade principal do aplicativo | Conheça o MyHub, um ponto de parada único para solicitar novos Office 365 de trabalho &amp; gerenciando os existentes. O MyHub fornece provisionamento, recertificação e serviços de ciclo de vida fáceis de usar sem sobrecarregar &amp; sua equipe de TI. Os usuários são capazes de dimensionar, automatizar espaços de trabalho seguros são notificados quando tomar medidas, facilitando a conclusão de sua lista de &amp; &amp; tarefas. O MyHub&#65533;estrutura segura sustentável é alimentada pelo &amp; AvePoint&#65533;Governança na Nuvem. |
+| Funcionalidade principal do aplicativo | Conheça o MyHub, um ponto de parada único para solicitar novos Office 365 de trabalho gerenciando os existentes&amp;. O MyHub fornece provisionamento, recertificação e &amp; serviços de ciclo de vida fáceis de usar sem sobrecarregar sua equipe de TI. Os usuários são capazes de dimensionar, &amp; automatizar espaços de trabalho seguros são notificados &amp; quando tomar medidas, facilitando a conclusão de sua lista de tarefas. O MyHub&#65533;estrutura &amp; segura sustentável é alimentada pelo AvePoint&#65533;Governança de Nuvem. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.avepoint.com/products/cloud/myhub](https://www.avepoint.com/products/cloud/myhub) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ Essas informações foram fornecidas pela AvePoint Inc. sobre como esse aplicati
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,14 +160,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | ambos | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Group.ReadWrite.All | ambos | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Mail.Send | delegado | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Reports.Read.All | aplicação | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.FullControl.All | aplicação | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.Read.All | aplicação | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.ReadWrite.All | delegado | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| User.Read.All | ambos | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Directory.Read.All | ambos | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Group.ReadWrite.All | ambos | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Mail.Send | delegado | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Reports.Read.All | aplicação | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Sites.FullControl.All | aplicação | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Sites.Read.All | aplicação | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Sites.ReadWrite.All | delegado | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| User.Read.All | ambos | os dados de configuração do aplicativo são armazenados de um ponto de vista de manipulação de dados | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

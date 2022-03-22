@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Adobe Sign pela Adobe Systems Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Adobe Sign, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 767df9d0511187e01f2bad299f9c935c8fa5f7e2
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: c09c32f171ac4e7565ce172a27992287f5a2bb1b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63079498"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549809"
 ---
 # <a name="adobe-sign"></a>Adobe Sign
 
@@ -39,8 +40,9 @@ Informações fornecidas pela Adobe Systems Inc. à Microsoft:
 | Termos de uso do aplicativo | [https://www.adobe.com/legal/terms.html](https://www.adobe.com/legal/terms.html) |
 | Funcionalidade principal do aplicativo | Simplifique os fluxos de trabalho de assinatura de documentos e entregue experiências incríveis de funcionários e clientes quando você aproveita os recursos do Adobe Sign Teams. Você pode assinar documentos, enviá-los para assinaturas e aprovações legalmente vinculativas e rastrear seu status &#8212; todos com o Adobe Sign para Teams, a solução de e-sign preferencial da Microsoft. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://helpx.adobe.com/sign/help/adobesign_microsoft_teams...](https://helpx.adobe.com/sign/help/adobesign_microsoft_teams.html) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS, Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ Essas informações foram fornecidas pela Adobe Systems Inc. sobre como esse apl
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,11 +160,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Mail.ReadWrite | delegado | Para preencher o documento anexado, remetente e emails de destinatário e conteúdo de mensagens de emails para o Adobe assinar para enviar para assinatura. Isso é para economizar o tempo do usuário para retipo esses campos no Adobe Sign. Depois que um contrato é assinado, redigimos automaticamente um novo email para o usuário enviar um email para informar aos destinatários que a transação foi feita. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| People.Read | delegado | Para preenchimento automático do endereço de &quot;&quot; email na experiência Enviar para assinatura, digitando algumas letras iniciais, não exige que os usuários digitem todos os emails. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| User.Read | delegado | Para ler o perfil do usuário e corresponder seu perfil (basicamente, seu email e userId) ao nosso banco de dados para que eles possam usar o Adobe Sign. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| offline_access | delegado | Para atualizar o token de acesso, quando o atual expirar. Por exemplo, quando &quot;&quot; o usuário está em uma janela de envio para assinatura e a deixa inativa por muito tempo, precisamos atualizar um novo token para manter o usuário ativo | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| openid | delegado | Email e UserId. Para entrar no usuário para garantir seu consentimento para a permissão de usar o aplicativo Adobe Sign.  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| Mail.ReadWrite | delegado | Para preencher o documento anexado, remetente e emails de destinatário e conteúdo de mensagens de emails para o Adobe assinar para enviar para assinatura. Isso é para economizar o tempo do usuário para retipo esses campos no Adobe Sign. Depois que um contrato é assinado, redigimos automaticamente um novo email para o usuário enviar um email para informar aos destinatários que a transação foi feita. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| People.Read | delegado | Para preenchimento automático do endereço de &quot;&quot; email na experiência Enviar para assinatura, digitando algumas letras iniciais, não exige que os usuários digitem todos os emails. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| User.Read | delegado | Para ler o perfil do usuário e corresponder seu perfil (basicamente, seu email e userId) ao nosso banco de dados para que eles possam usar o Adobe Sign. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| offline_access | delegado | Para atualizar o token de acesso, quando o atual expirar. Por exemplo, quando &quot;&quot; o usuário está em uma janela de envio para assinatura e a deixa inativa por muito tempo, precisamos atualizar um novo token para manter o usuário ativo | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| openid | delegado | Email e UserId. Para entrar no usuário para garantir seu consentimento para a permissão de usar o aplicativo Adobe Sign.  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para a central de | ROGER365.io por ROGER365.io
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Contact Center | ROGER365.io, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para a central de | ROGER365.io, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 35ee35c700e2d56980e274de3bc9af915a350636
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: ce7ecfb08951d55c238c9de4b5982cac7741fc89
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62147075"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548809"
 ---
 # <a name="contact-center--roger365io"></a>Contact Center | ROGER365.io
 
@@ -32,7 +33,7 @@ Informações fornecidas pelo ROGER365.io para a Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Contact Center - ROGER365.io |
+| Nome do aplicativo | Central de Atendimento - ROGER365.io |
 | ID | WA200003333 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | ROGER365.io |
@@ -40,7 +41,7 @@ Informações fornecidas pelo ROGER365.io para a Microsoft:
 | Termos de uso do aplicativo | [https://www.roger365.io/tos](https://www.roger365.io/tos) |
 | Funcionalidade principal do aplicativo | Central de Contatos Omnichannel com Agente, Funcionalidades de Supervisor e Relatório. |
 | Localização da sede da empresa | Países Baixos (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://ask.roger365.io](https://ask.roger365.io) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -59,14 +60,7 @@ Essas informações foram fornecidas pelo ROGER365.io sobre como esse aplicativo
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
 | Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,7 +160,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

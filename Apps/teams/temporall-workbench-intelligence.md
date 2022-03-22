@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Workbench Intelligence por Temporall
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Workbench Intelligence, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9a560adc52e8125118e24e6c57810a0a7e5d7027
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 948712fb4c4db715f8c464a8645f06d75c774c27
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263507"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548679"
 ---
 # <a name="workbench-intelligence"></a>Workbench Intelligence
 
@@ -40,8 +41,9 @@ Informações fornecidas pelo Temporall para a Microsoft:
 | Termos de uso do aplicativo | [https://www.temporall.com/eula](https://www.temporall.com/eula) |
 | Funcionalidade principal do aplicativo | O Workbench Intelligence fornece informações em tempo real para ajudá-lo a tomar decisões mais rápidas e melhores. |
 | Localização da sede da empresa | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.temporall.com/teams_intelligence/](https://www.temporall.com/teams_intelligence/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pela Temporall sobre como esse aplicativo c
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído após 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,15 +161,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AppCatalog.Read.All | delegado | Obtém uma lista de aplicativos do teams instalados para obter a ID do aplicativo local para a ID externa conhecida. | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| Channel.ReadBasic.All | aplicação | Nome da id &amp; do canal. Justificativa: Permitir a junção/saída do canal para sincronizar a atividade da mensagem.  | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| ChannelMessage.Read.All | aplicação | O tipo de &amp; atividade da mensagem, juntamente com o destino do &amp; remetente. Dados recebidos dessas rotas: /teams/${teamId}/channels/${channelId}/messages /teams/${teamId}/channels/${channelId}/messages/${messageId}. Justificativa: para poder calcular o relatório de métricas &amp; sobre a atividade da mensagem. Isso forma o núcleo do módulo de análise de rede organizacional para poder desenhar um diagrama de atividade entre as equipes de &amp; usuários. | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| Directory.Read.All | aplicação | ClientId, Lista de usuários, lista de organizações e sub-canais. Justificativa: necessário para ler usuários &amp; de sincronização para o Trabalho Temporal | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| Group.ReadWrite.All | aplicação | Nome da ID do &amp; grupo. Justificativa: para instalar o aplicativo em cada grupo/canal | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| TeamMember.Read.All | aplicação | Associação do usuário à equipe. Justificativa: permite a sincronização de todos os usuários no Teams com a Temporall Workbench | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| TeamsAppInstallation.ReadWriteForTeam.All | aplicação | Lista de leitura dos aplicativos instalados para a Equipe. Justificativa: verifique se nosso aplicativo já está instalado caso contrário o instala para poder obter atividade de mensagem por meio da api gráfica | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| TeamsAppInstallation.ReadWriteForUser.All | aplicação | Ler lista de aplicativos instalados. Verifique se nosso aplicativo já está instalado caso contrário o instala para interagir com o usuário por meio de um questionário | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
->| User.Read | delegado | Informações &amp; básicas da empresa do usuário. Justificativa: usada para categorizar a atividade de mensagem pelo usuário, permite que o bot participe de mensagens proativas. | [d5630318-189a-4912-abae-99b1f8f82cce](https://docs.microsoft.com/microsoft-365-app-certification/azure/d5630318-189a-4912-abae-99b1f8f82cce) |
+>| AppCatalog.Read.All | delegado | Obtém uma lista de aplicativos do teams instalados para obter a ID do aplicativo local para a ID externa conhecida. | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| Channel.ReadBasic.All | aplicação | Nome da id do &amp; canal. Justificativa: Permitir a junção/saída do canal para sincronizar a atividade da mensagem.  | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| ChannelMessage.Read.All | aplicação | O tipo de atividade &amp; da mensagem, juntamente com o destino do &amp; remetente. Dados recebidos dessas rotas: /teams/${teamId}/channels/${channelId}/messages /teams/${teamId}/channels/${channelId}/messages/${messageId}. Justificativa: para poder calcular o relatório de métricas &amp; sobre a atividade da mensagem. Isso forma o núcleo do módulo de análise de rede organizacional para poder desenhar um diagrama de atividade entre as equipes de &amp; usuários. | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| Directory.Read.All | aplicação | ClientId, Lista de usuários, lista de organizações e sub-canais. Justificativa: necessário para ler usuários &amp; de sincronização para o Trabalho Temporal | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| Group.ReadWrite.All | aplicação | Nome da ID do &amp; grupo. Justificativa: para instalar o aplicativo em cada grupo/canal | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| TeamMember.Read.All | aplicação | Associação do usuário à equipe. Justificativa: permite a sincronização de todos os usuários no Teams com a Temporall Workbench | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| TeamsAppInstallation.ReadWriteForTeam.All | aplicação | Lista de leitura dos aplicativos instalados para a Equipe. Justificativa: verifique se nosso aplicativo já está instalado caso contrário o instala para poder obter atividade de mensagem por meio da api gráfica | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| TeamsAppInstallation.ReadWriteForUser.All | aplicação | Ler lista de aplicativos instalados. Verifique se nosso aplicativo já está instalado caso contrário o instala para interagir com o usuário por meio de um questionário | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
+>| User.Read | delegado | Informações básicas da &amp; empresa do usuário. Justificativa: usada para categorizar a atividade de mensagem pelo usuário, permite que o bot participe de mensagens proativas. | [d5630318-189a-4912-abae-99b1f8f82cce](../azure/d5630318-189a-4912-abae-99b1f8f82cce.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

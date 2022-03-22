@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Jira Integration Plus, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8adf13a171e6a075ff4b22e9325912f6c1738cf8
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: 92f2d7375e92a2ff69e83af28380d6e6d038700c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470125"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548379"
 ---
 # <a name="jira-integration-plus"></a>Jira Integration Plus
 
@@ -36,14 +36,13 @@ Informações fornecidas pelo Nextup, LLC à Microsoft:
 | Nome do aplicativo | Jira Integration Plus |
 | ID | WA200003847 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Nextup, LLC |
+| Nome da empresa de parceiro | Próximo, LLC |
 | Site da empresa | [https://www.nextup.ai](https://www.nextup.ai) |
 | Termos de uso do aplicativo | [https://www.nextup.ai/terms](https://www.nextup.ai/terms) |
 | Funcionalidade principal do aplicativo | Encontre problemas Jira existentes para editar ou discutir Teams ou criar novos problemas. Envia problemas em uma mensagem. Comente sobre um problema ou confira detalhes. Altere o status, atribua-o e muito mais. Use Jira por meio de uma Interface de Linha de Comando (CLI). Comentário, log de trabalho e muito mais. Obter notificações para problemas em um canal (Conectores). Crie novos problemas a partir de mensagens com extensão de mensagens. Gerenciar problemas usando placas (Guias). Pesquise problemas clicando em nosso ícone abaixo de qualquer mensagem Teams. |
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | [https://www.nextup.ai/microsoft-teams/jira-integration-plus/](https://www.nextup.ai/microsoft-teams/jira-integration-plus/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -62,7 +61,7 @@ Essas informações foram fornecidas pelo Nextup, LLC sobre como esse aplicativo
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Identificadores exclusivos e endereços de email |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -171,16 +170,16 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AccessReview.Read.All | ambos | Usamos essa API para verificar se os usuários têm permissão para acessar nosso aplicativo | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| AccessReview.ReadWrite.All | ambos | Usamos essa API para verificar se os usuários têm permissão para acessar nosso aplicativo | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Directory.Read.All | ambos | Usamos essa API para garantir que os usuários tenham permissão para usar o bot no aplicativo Teams e na equipe e no canal | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Directory.Read.All | ambos | Usamos essa API para garantir que os usuários tenham permissão para usar o bot no aplicativo Teams e na equipe e no canal | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Files.ReadWrite.All | ambos | Usamos essa API para aceitar arquivos de usuários, que eles podem anexar a problemas Jira | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Files.ReadWrite.All | ambos | Usamos essa API para aceitar arquivos de usuários, que eles podem anexar a problemas Jira | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Sites.Read.All | ambos | Usamos essa API para ver a quais sites o usuário tem acesso para que ele possa criar tíquetes em locais apropriados | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Sites.Read.All | ambos | Usamos essa API para ver a quais sites o usuário tem acesso para que ele possa criar tíquetes em locais apropriados | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| User.ReadWrite.All | ambos | Usamos essa API para permitir que um usuário de administrador dê persmission para sua organização usar nosso aplicativo com Jira. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| User.ReadWrite.All | ambos | Usamos essa API para permitir que um usuário de administrador dê persmission para sua organização usar nosso aplicativo com Jira. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
+>| AccessReview.Read.All | ambos | Usamos essa API para verificar se os usuários têm permissão para acessar nosso aplicativo | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| AccessReview.ReadWrite.All | ambos | Usamos essa API para verificar se os usuários têm permissão para acessar nosso aplicativo | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Directory.Read.All | ambos | Usamos essa API para garantir que os usuários tenham permissão para usar o bot no aplicativo Teams e na equipe e no canal | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Directory.Read.All | ambos | Usamos essa API para garantir que os usuários tenham permissão para usar o bot no aplicativo Teams e na equipe e no canal | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Files.ReadWrite.All | ambos | Usamos essa API para aceitar arquivos de usuários, que eles podem anexar a problemas Jira | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Files.ReadWrite.All | ambos | Usamos essa API para aceitar arquivos de usuários, que eles podem anexar a problemas Jira | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Sites.Read.All | ambos | Usamos essa API para ver a quais sites o usuário tem acesso para que ele possa criar tíquetes em locais apropriados | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Sites.Read.All | ambos | Usamos essa API para ver a quais sites o usuário tem acesso para que ele possa criar tíquetes em locais apropriados | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| User.ReadWrite.All | ambos | Usamos essa API para permitir que um usuário de administrador dê persmission para sua organização usar nosso aplicativo com Jira. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| User.ReadWrite.All | ambos | Usamos essa API para permitir que um usuário de administrador dê persmission para sua organização usar nosso aplicativo com Jira. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

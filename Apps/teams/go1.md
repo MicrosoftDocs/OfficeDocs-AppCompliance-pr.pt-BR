@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Go1 por Go1
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Go1, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Go1, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 16b9ca111589743d114dc3fedbee1bdc3ec0a34e
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 816a6b8ba29fc0e96f56afe35acf3b3403dc645a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256667"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548439"
 ---
 # <a name="go1"></a>Go1
 
@@ -21,7 +22,7 @@ ms.locfileid: "62256667"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 23 de agosto de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/c859de61-8a6b-42e6-ba88-f639df33bc72" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/c859de61-8a6b-42e6-ba88-f639df33bc72" target="_blank">Exibir no Armazenamento do Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001484" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -34,14 +35,15 @@ Informações fornecidas pelo Go1 para a Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | Go1 |
 | ID | WA200001484 |
-| Office 365 clientes com suporte | Microsoft Teams |
+| Clientes do Office 365 com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Go1 |
 | Site da empresa | [https://www.go1.com/user/login](https://www.go1.com/user/login) |
 | Termos de uso do aplicativo | [https://www.go1.com/en-au/terms/user-terms](https://www.go1.com/en-au/terms/user-terms) |
-| Funcionalidade principal do aplicativo | O aplicativo go1 Teams ajuda a encontrar, consumir, compartilhar e discutir recursos de aprendizagem de dentro Microsoft Teams |
+| Funcionalidade principal do aplicativo | O aplicativo go1 teams ajuda os usos para encontrar, consumir, compartilhar e discutir recursos de aprendizagem no Microsoft Teams |
 | Localização da sede da empresa | Austrália |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas por Go1 sobre como esse aplicativo coleta e
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído após 3 meses |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -71,7 +66,7 @@ Essas informações foram fornecidas por Go1 sobre como esse aplicativo coleta e
 
 ::: zone pivot="security"
 
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do [catálogo de Segurança do Aplicativo na Nuvem da Microsoft](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) aparecem abaixo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
@@ -166,9 +161,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite.All | aplicação | app não armazena dados de arquivos | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
->| Group.ReadWrite.All | aplicação | Teams nome do canal e id exclusiva armazenada para dar suporte ao ambiente de aprendizagem de gerenciamento de aplicativos | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
->| User.Read.All | aplicação | nome dos usuários, email e UPN armazenados para fornecer experiência direta do aluno pessoal | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
+>| Files.ReadWrite.All | aplicação | app não armazena dados de arquivos | [c859de61-8a6b-42e6-ba88-f639df33bc72](../azure/c859de61-8a6b-42e6-ba88-f639df33bc72.md) |
+>| Group.ReadWrite.All | aplicação | Teams nome do canal e id exclusiva armazenadas para dar suporte ao ambiente de aprendizagem de gerenciamento de aplicativos | [c859de61-8a6b-42e6-ba88-f639df33bc72](../azure/c859de61-8a6b-42e6-ba88-f639df33bc72.md) |
+>| User.Read.All | aplicação | nome dos usuários, email e UPN armazenados para fornecer experiência direta do aluno pessoal | [c859de61-8a6b-42e6-ba88-f639df33bc72](../azure/c859de61-8a6b-42e6-ba88-f639df33bc72.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

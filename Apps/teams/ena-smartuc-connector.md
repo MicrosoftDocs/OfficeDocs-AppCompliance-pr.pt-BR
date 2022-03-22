@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o ENA SmartUC Connector, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d2095a16fc5f3d9a0e28f8cf782ae292c330a947
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: 4f3825a2a210998277fcf00634fc8e78679ff6a5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459761"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548879"
 ---
-# <a name="ena-smartuc-connector"></a>Conector SmartUC da ENA
+# <a name="ena-smartuc-connector"></a>Conector ENA SmartUC
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +33,7 @@ Informações fornecidas pela ENA à Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Conector SmartUC da ENA |
+| Nome do aplicativo | Conector ENA SmartUC |
 | ID | WA200003354 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | ENA |
@@ -163,13 +163,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMember.Read.All | delegado | IDs de usuário e nomes de exibição de membros do canal/chat atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros do canal/chat para chamar. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| Chat.ReadBasic | delegado | IDs de usuário e nomes de exibição de membros do chat atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros do chat para chamar. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| People.Read.All | delegado | IDs de usuário e nomes de exibição de membros da equipe atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros da equipe para chamar. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| User.Read.All | delegado | Os números de telefone celular e comercial dos usuários. Isso é necessário para que as chamadas telefônicas para esses números possam ser iniciadas. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| offline_access | delegado | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros pontos de extremidade Graph API listados em seu nome. Essas permissões de acesso são necessárias para que os aplicativos da plataforma Microsoft Identity funcionem. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| openid | delegado | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros pontos de extremidade Graph API listados em seu nome. Essas permissões de acesso são necessárias para que os aplicativos da plataforma Microsoft Identity funcionem. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| perfil | delegado | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros pontos de extremidade Graph API listados em seu nome. Essas permissões de acesso são necessárias para que os aplicativos da plataforma Microsoft Identity funcionem. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| ChannelMember.Read.All | delegado | IDs de usuário e nomes de exibição de membros do canal/chat atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros do canal/chat para chamar. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| Chat.ReadBasic | delegado | IDs de usuário e nomes de exibição de membros do chat atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros do chat para chamar. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| People.Read.All | delegado | IDs de usuário e nomes de exibição de membros da equipe atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros da equipe para chamar. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| User.Read.All | delegado | Os números de telefone celular e comercial dos usuários. Isso é necessário para que as chamadas telefônicas para esses números possam ser iniciadas. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| offline_access | delegado | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros pontos de extremidade Graph API listados em seu nome. Essas permissões de acesso são necessárias para que os aplicativos da plataforma Microsoft Identity funcionem. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| openid | delegado | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros pontos de extremidade Graph API listados em seu nome. Essas permissões de acesso são necessárias para que os aplicativos da plataforma Microsoft Identity funcionem. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| perfil | delegado | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros pontos de extremidade Graph API listados em seu nome. Essas permissões de acesso são necessárias para que os aplicativos da plataforma Microsoft Identity funcionem. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

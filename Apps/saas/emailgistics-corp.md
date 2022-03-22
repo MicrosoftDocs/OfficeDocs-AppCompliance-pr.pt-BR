@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Emailgistics pela Emailgistics Corp.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Emailgistics, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: cea41a85550bd0b2a5d4effda544674d46c06b67
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: c4e1eccf63daa20dfee84818da65ada9dd1fd7dd
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250247"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549479"
 ---
 # <a name="emailgistics"></a>Emailgistics
 
@@ -38,7 +39,7 @@ Informações fornecidas pela Emailgistics Corp. à Microsoft:
 | Termos de uso do aplicativo | [https://emailgistics.com/tos](https://emailgistics.com/tos) |
 | Funcionalidade principal do aplicativo | Software de Gerenciamento de Email de Caixa de Entrada de Equipe para Microsoft 365 |
 | Localização da sede da empresa | Canadá |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://emailgistics.com/how-it-works](https://emailgistics.com/how-it-works) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -168,13 +169,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Mail.ReadWrite | delegado | Leia o req'd de acesso para obter informações sobre mensagens na caixa de correio compartilhada. As informações da mensagem são necessárias para executar regras definidas pelo cliente (distribuir para o Usuário &#8220;A se a mensagem contiver uma fatura&#8221;, por exemplo), para controlar as conversas corretamente (para histórico de conversas e atribuição automática) e para relatórios (por exemplo, o relatório Detalhes de Mensagens Abertas).
-Escreva req'd de acesso para enviar mensagens de regras (como respostas automáticas) e para atualizar assuntos de mensagem com a ID da conversa Emailgistics. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
->| Mail.Send | delegado | Permite que Emailgistics envie mensagens de email da caixa de correio compartilhada. Essa permissão é necessária para enviar mensagens de regras (como respostas automáticas). | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
->| MailboxSettings.ReadWrite | delegado | Permite que a Emailgistics receba o nome da caixa de correio compartilhada e crie uma regra de caixa de correio para rotear mensagens de entrada para sua pasta de Entrada oculta para processamento inicial, execução de regras e atribuição automática. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
->| User.Read | delegado | Permite que a Emailgistics faça logon como a caixa de correio compartilhada e leia informações básicas sobre ela, como sua ID de entidade de serviço, endereço de email e nome de usuário. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
->| User.ReadBasic.All | delegado | Permite que o Emailgistics leia informações básicas sobre usuários em seu locatário. Necessário para detectar alterações nos endereços e nomes de email dos membros da caixa de correio e atualizar automaticamente essas informações, que são usadas para fins de rastreamento e relatório, no Emailgistics. Essa é a única permissão cujo escopo se estende além da caixa de correio compartilhada. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
->| offline_access | delegado | Permite que o Emailgistics opere como um aplicativo back-end, em vez de um aplicativo interativo baseado em navegador que exija que um usuário faça logoff sempre que ele funcionar. Essa permissão permite que o Emailgistics receba um token de atualização, que pode ser atualizado conforme necessário para manter o acesso constante. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
+>| Mail.ReadWrite | delegado | Leia o req'd de acesso para obter informações sobre mensagens na caixa de correio compartilhada. As informações da mensagem são necessárias para executar regras definidas pelo cliente (distribuir para o Usuário A se a mensagem contiver &#8220;fatura&#8221;, por exemplo), para controlar as conversas corretamente (para histórico de conversas e atribuição automática) e para relatórios (por exemplo, o relatório Detalhes de Mensagens Abertas).
+Escreva req'd de acesso para enviar mensagens de regras (como respostas automáticas) e para atualizar assuntos de mensagem com a ID da conversa Emailgistics. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](../azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3.md) |
+>| Mail.Send | delegado | Permite que Emailgistics envie mensagens de email da caixa de correio compartilhada. Essa permissão é necessária para enviar mensagens de regras (como respostas automáticas). | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](../azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3.md) |
+>| MailboxSettings.ReadWrite | delegado | Permite que a Emailgistics receba o nome da caixa de correio compartilhada e crie uma regra de caixa de correio para rotear mensagens de entrada para sua pasta de Entrada oculta para processamento inicial, execução de regras e atribuição automática. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](../azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3.md) |
+>| User.Read | delegado | Permite que a Emailgistics faça logon como a caixa de correio compartilhada e leia informações básicas sobre ela, como sua ID de entidade de serviço, endereço de email e nome de usuário. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](../azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3.md) |
+>| User.ReadBasic.All | delegado | Permite que o Emailgistics leia informações básicas sobre usuários em seu locatário. Necessário para detectar alterações nos endereços e nomes de email dos membros da caixa de correio e atualizar automaticamente essas informações, que são usadas para fins de rastreamento e relatório, no Emailgistics. Essa é a única permissão cujo escopo se estende além da caixa de correio compartilhada. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](../azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3.md) |
+>| offline_access | delegado | Permite que o Emailgistics opere como um aplicativo back-end, em vez de um aplicativo interativo baseado em navegador que exija que um usuário faça logoff sempre que ele funcionar. Essa permissão permite que o Emailgistics receba um token de atualização, que pode ser atualizado conforme necessário para manter o acesso constante. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](../azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Café do Starbucks pela Empresa&#174; Coffee
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/17/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Starbucks, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5cd1d9072998bff241042273d073ab44dfbc3f95
-ms.sourcegitcommit: 7c77f94b0b1d3033f66d473bb77554f05fa3d5b6
+ms.openlocfilehash: 45d34bd6236f9df67db866389e791cc1b5fc9464
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62892133"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549639"
 ---
 # <a name="starbucks"></a>Starbucks
 
@@ -35,7 +36,7 @@ Informações fornecidas pela Empresa de Café&#174; Café da&#174; Para a Micro
 | Nome do aplicativo | Starbucks |
 | ID | WA200002412 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Empresa de café&#174; Dols |
+| Nome da empresa de parceiro | Starbucks&#174; Empresa de café |
 | Site da empresa | [https://www.starbucks.com](https://www.starbucks.com) |
 | Termos de uso do aplicativo | [https://www.starbucks.com/gift-cards/manage/card-terms-and-...](https://www.starbucks.com/gift-cards/manage/card-terms-and-conditions) |
 | Funcionalidade principal do aplicativo | Agradece, parabéns ou parabéns a um membro da equipe com um eGift do Starbucks. |
@@ -52,19 +53,12 @@ Informações fornecidas pela Empresa de Café&#174; Café da&#174; Para a Micro
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pela Empresa de Café&#174; DoLs sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Empresa de Café&#174; Dolsa sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -163,7 +157,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Service Desk da Alvao por ALVAO s.r.o.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Alvao Service Desk, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6023f014f3f5af7b7c2eae430b0e7d946849fd76
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: c6d703bfe43f8fe3877d8b452d8703a2bca4d68a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62877168"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549019"
 ---
 # <a name="alvao-service-desk"></a>Alvao Service Desk
 
@@ -40,7 +41,7 @@ Informações fornecidas pela ALVAO s.r.o. para a Microsoft:
 | Termos de uso do aplicativo | [https://doc.alvao.com/cs/10.4/alvao_service_desk/License%20...](https://doc.alvao.com/cs/10.4/alvao_service_desk/License%20terms%20for%20the%20software%20product%20ALVAO%20Service%20Desk%2010.4.pdf) |
 | Funcionalidade principal do aplicativo | Um front-end amigável para usuários, uma ferramenta poderosa para equipes de serviços internos. O Service Desk ALVAO fornece um único ponto de contato para todas as solicitações da empresa. A equipe de provedores de soluções obtém uma visão geral da carga de trabalho, prioridades claras e comunicação aprimorada. |
 | Localização da sede da empresa | Tcheco |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://doc.alvao.com/support/doc/en/alvao_10_4/modules/alv...](https://doc.alvao.com/support/doc/en/alvao_10_4/modules/alvao_teams_addin/default.aspx) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -57,14 +58,7 @@ Essas informações foram fornecidas pela ALVAO s.r.o. sobre como esse aplicativ
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? |  |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,7 +158,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

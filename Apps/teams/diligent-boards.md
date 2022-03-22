@@ -2,20 +2,21 @@
 title: Informações do aplicativo para Boards diligente
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Boards, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Boards Diligent, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6205a66b30297b44017da6646e3fe686c2492e8f
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: 29e36ae1fe8d7e9d707bc29b3033b0315a8794c5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62876015"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549409"
 ---
-# <a name="diligent-boards"></a>Boards
+# <a name="diligent-boards"></a>Conselhos Diligentes
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,17 +33,17 @@ Informações fornecidas por Diligent para a Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Boards |
+| Nome do aplicativo | Conselhos Diligentes |
 | ID | WA200003544 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Diligente |
 | Site da empresa | [https://www.diligent.com](https://www.diligent.com) |
 | Termos de uso do aplicativo | [https://diligent.com/terms-of-use](https://diligent.com/terms-of-use) |
-| Funcionalidade principal do aplicativo | Acesse o&#8217;de governança mais bem-na-classe no Microsoft Teams. |
+| Funcionalidade principal do aplicativo | Acesse o software&#8217;de governança do Microsoft Teams. |
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outro |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outros |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -59,7 +60,7 @@ Essas informações foram fornecidas por Diligent sobre como esse aplicativo col
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | A Microsoft Teams ID do locatário e Teams ID do usuário |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Não mantido |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -164,7 +165,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena alguma credencial no código? | Não |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

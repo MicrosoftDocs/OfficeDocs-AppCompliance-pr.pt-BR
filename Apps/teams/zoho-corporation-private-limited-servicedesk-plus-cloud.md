@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o ServiceDesk Plus Cloud, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 806f347e7083889c01e9c8e7649621c155184d75
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: f0d450a5aed6f38dd2083c094a9280241c8b9545
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63454264"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549539"
 ---
 # <a name="servicedesk-plus-cloud"></a>ServiceDesk Plus Cloud
 
@@ -43,7 +43,6 @@ Informações fornecidas pela Zoho Corporation Private Limited à Microsoft:
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | [https://help.sdpondemand.com/servicedeskplus_cloud_for_teams](https://help.sdpondemand.com/servicedeskplus_cloud_for_teams) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -62,7 +61,7 @@ Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | ID do usuário, Nome de Usuário, Endereço de Email |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -172,8 +171,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Entrar e ler o perfil do usuário | [127e5be9-da2c-4335-a284-da367379428a](../azure/127e5be9-da2c-4335-a284-da367379428a) |
->| offline_access | delegado | Manter acesso aos dados aos quais você concedeu acesso | [127e5be9-da2c-4335-a284-da367379428a](../azure/127e5be9-da2c-4335-a284-da367379428a) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário | [127e5be9-da2c-4335-a284-da367379428a](../azure/127e5be9-da2c-4335-a284-da367379428a.md) |
+>| offline_access | delegado | Manter acesso aos dados aos quais você concedeu acesso | [127e5be9-da2c-4335-a284-da367379428a](../azure/127e5be9-da2c-4335-a284-da367379428a.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

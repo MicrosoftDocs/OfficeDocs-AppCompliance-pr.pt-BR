@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Mia por MiHCM
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Mia, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1e8fa45f92c45f54d50ce94397eeb5a9adba49ca
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 780b2ad28c44c486eeba73569fbe1448461bda25
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63079715"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548849"
 ---
 # <a name="mia"></a>Mia
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo MiHCM à Microsoft:
 | Termos de uso do aplicativo | [https://mia.work/terms-of-use](https://mia.work/terms-of-use) |
 | Funcionalidade principal do aplicativo | O Mia Workplace Assistente Virtual permite que sua organização entregue um assistente virtual personalizado para todos os Microsoft Teams usuários. Esse assistente de trabalho no Microsoft Teams ajuda sua organização a aumentar a produtividade, melhorar o envolvimento dos funcionários, a execução de uma infinidade de solicitações de RH, solicitações de serviço relacionadas ao trabalho, &amp; bem-estar da forma física e muito mais. Mia apura o envolvimento dos funcionários, a experiência perfeita dos funcionários para os serviços/interações de RH mundano. |
 | Localização da sede da empresa | Sri Lanka |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://mia.work](https://mia.work) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -61,7 +62,7 @@ Essas informações foram fornecidas pelo MiHCM sobre como esse aplicativo colet
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | Eventos do Calendário do Usuário, Fuso Horário do Usuário |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Cingapura |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -171,10 +172,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | aplicação | Para ler os eventos de calendário agendados do usuário | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](https://docs.microsoft.com/microsoft-365-app-certification/azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7) |
->| Group.Read.All | delegado | Para ler as tarefas do Microsoft Planner do usuário | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](https://docs.microsoft.com/microsoft-365-app-certification/azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7) |
->| MailboxSettings.Read | aplicação | Para ler o fuso horário do usuário | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](https://docs.microsoft.com/microsoft-365-app-certification/azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7) |
->| User.Read | delegado | Para identificar exclusivamente um usuário | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](https://docs.microsoft.com/microsoft-365-app-certification/azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7) |
+>| Calendars.Read | aplicação | Para ler os eventos de calendário agendados do usuário | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](../azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7.md) |
+>| Group.Read.All | delegado | Para ler as tarefas do Microsoft Planner do usuário | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](../azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7.md) |
+>| MailboxSettings.Read | aplicação | Para ler o fuso horário do usuário | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](../azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7.md) |
+>| User.Read | delegado | Para identificar exclusivamente um usuário | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](../azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

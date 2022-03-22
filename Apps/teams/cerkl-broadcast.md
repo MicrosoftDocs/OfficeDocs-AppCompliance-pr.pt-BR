@@ -2,18 +2,19 @@
 title: Informações do aplicativo para transmissão pelo Cerkl
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Broadcast, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 527f245f00a281a4b0ec7e830ec297bc0db62fdd
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 2868de9f42250c8dff2e1b8302490082400a8fa3
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251687"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548909"
 ---
 # <a name="broadcast"></a>Transmitir
 
@@ -40,8 +41,9 @@ Informações fornecidas pelo Cerkl à Microsoft:
 | Termos de uso do aplicativo | [https://cerkl.com/terms](https://cerkl.com/terms) |
 | Funcionalidade principal do aplicativo | A Transmissão cerkl conecta o público-alvo com sua organização&#8217;comunicações importantes. Usando personalização baseada em comportamento, a Transmissão entrega a mensagem certa para o funcionário certo no momento certo no canal certo. Esse&#8217;é onde realmente nos diferenciamos de nossa concorrência - permitimos que os comunicadores experientes se comuniquem entre canais sem duplicação de esforço. A transmissão também fornece métricas líderes do setor que ajudam nossos clientes a saber o&#8217;está funcionando para sua audiência. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://cerkl.com/broadcast/microsoft-teams/](https://cerkl.com/broadcast/microsoft-teams/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo Cerkl sobre como esse aplicativo colet
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,7 +161,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | O email do usuário é coletado e usado para ver se o usuário está atualmente em nosso sistema e foi adicionado por uma organização. | [74ef25ab-3685-446c-aa43-4e9cc251ed62](https://docs.microsoft.com/microsoft-365-app-certification/azure/74ef25ab-3685-446c-aa43-4e9cc251ed62) |
+>| User.Read | delegado | O email do usuário é coletado e usado para ver se o usuário está atualmente em nosso sistema e foi adicionado por uma organização. | [74ef25ab-3685-446c-aa43-4e9cc251ed62](../azure/74ef25ab-3685-446c-aa43-4e9cc251ed62.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

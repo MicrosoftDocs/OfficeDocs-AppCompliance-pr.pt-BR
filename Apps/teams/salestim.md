@@ -2,18 +2,19 @@
 title: Informações de aplicativo para SalesTim por SalesTim
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SalesTim, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 66997cbd8ecf5872454d9ec9a58dcb65b65a094b
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d650f6254f819ec1683641400e37f1c10a98291a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252188"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548749"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo SalesTim à Microsoft:
 | Termos de uso do aplicativo | [https://www.salestim.com/legal/tos](https://www.salestim.com/legal/tos) |
 | Funcionalidade principal do aplicativo | SalesTim ajuda todas as organizações a melhorar seus processos colaborativos por meio Microsoft Teams criação de modelos e automação de governança em escala. |
 | Localização da sede da empresa | França |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.salestim.com](https://www.salestim.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -59,14 +60,7 @@ Essas informações foram fornecidas pelo SalesTim sobre como esse aplicativo co
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
 | Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de um mês |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -161,7 +155,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | verdadeiro |
 | Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
-| Listar os tipos de políticas com suporte | Autenticação multifator. Permitindo que apenas dispositivos inscritos do Intune acessem serviços específicos. Restrição de locais de usuários e intervalos de IP |
+| Listar os tipos de políticas com suporte | Autenticação multifafação. Permitindo que apenas dispositivos inscritos do Intune acessem serviços específicos. Restrição de locais de usuários e intervalos de IP |
 | Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) |  |
 | Seu aplicativo armazena alguma credencial no código? |  |
 | Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
@@ -170,12 +164,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMember.ReadWrite.All | delegado | ID dos usuários convidados para um canal por nossa política de associação | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| Directory.AccessAsUser.All | delegado | ID do usuário. Permite que um usuário selecione outros usuários em vários locais no aplicativo, como selecionar aprovadores em um fluxo de trabalho. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| Group.ReadWrite.All | ambos | Não&#8217;apenas grupos/IDs de equipe,&#8217;não estamos armazenar conteúdo de grupos/equipes. Permite que o aplicativo crie grupos, leia todas as propriedades e associações de grupo em nome do usuário associado. Além disso, permite aos proprietários do grupo gerenciar seus grupos, e permite aos membros do grupo atualizar o conteúdo do grupo. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| Mail.Send | delegado | IDs de usuário. Não&#8217;os metadados dessa ação, como a data de notificação, os destinatários, a ID da solicitação. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| User.Read.All | ambos | ID do usuário e dados de perfil. Permite que um usuário selecione outros usuários em vários locais no aplicativo, como selecionar aprovadores em um fluxo de trabalho. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
->| offline_access | delegado | Token de atualização. Permite que o aplicativo execute algumas operações e ações em segundo plano como usuário. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| ChannelMember.ReadWrite.All | delegado | ID dos usuários convidados para um canal por nossa política de associação | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| Directory.AccessAsUser.All | delegado | ID do usuário. Permite que um usuário selecione outros usuários em vários locais no aplicativo, como selecionar aprovadores em um fluxo de trabalho. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| Group.ReadWrite.All | ambos | &#8217;estamos apenas armazenar IDs de grupos/equipes,&#8217;não estamos armazenar conteúdo de grupos/equipes. Permite que o aplicativo crie grupos, leia todas as propriedades e associações de grupo em nome do usuário associado. Além disso, permite aos proprietários do grupo gerenciar seus grupos, e permite aos membros do grupo atualizar o conteúdo do grupo. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| Mail.Send | delegado | IDs de usuário. Não&#8217;os metadados dessa ação, como a data da notificação, os destinatários, a ID da solicitação. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| User.Read.All | ambos | ID do usuário e dados de perfil. Permite que um usuário selecione outros usuários em vários locais no aplicativo, como selecionar aprovadores em um fluxo de trabalho. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
+>| offline_access | delegado | Token de atualização. Permite que o aplicativo execute algumas operações e ações em segundo plano como usuário. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

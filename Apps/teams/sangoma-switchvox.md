@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Switchvox por Sangoma
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Switchvox, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 12728af3843d47c85e4f03bfeb06e4c0faf2424c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 03e667ca9559cce35fc7ebe55cab8a40624fd324
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255537"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549299"
 ---
 # <a name="switchvox"></a>Switchvox
 
@@ -40,7 +41,7 @@ Informações fornecidas por Sangoma à Microsoft:
 | Termos de uso do aplicativo | [https://cdn.sangoma.com/wp-content/uploads/digium_end_user_...](https://cdn.sangoma.com/wp-content/uploads/digium_end_user_license_agreement.pdf) |
 | Funcionalidade principal do aplicativo | Inicie perfeitamente as chamadas em seu telefone Switchvox de qualquer lugar dentro Microsoft Teams. |
 | Localização da sede da empresa | Canadá |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://support.digium.com/community/s/article/How-do-I-use...](https://support.digium.com/community/s/article/How-do-I-use-Switchvox-for-Microsoft-Teams) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -170,9 +171,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Chat.Read | delegado | Executar resolução de membros do chat | [eb668aa5-abb2-445c-81b4-3c174db84fe2](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb668aa5-abb2-445c-81b4-3c174db84fe2) |
->| Group.Read.All | delegado | Executar resolução de membros do grupo | [eb668aa5-abb2-445c-81b4-3c174db84fe2](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb668aa5-abb2-445c-81b4-3c174db84fe2) |
->| User.Read.All | delegado | Executar a procurar contatos de diretório | [eb668aa5-abb2-445c-81b4-3c174db84fe2](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb668aa5-abb2-445c-81b4-3c174db84fe2) |
+>| Chat.Read | delegado | Executar resolução de membros do chat | [eb668aa5-abb2-445c-81b4-3c174db84fe2](../azure/eb668aa5-abb2-445c-81b4-3c174db84fe2.md) |
+>| Group.Read.All | delegado | Executar resolução de membros do grupo | [eb668aa5-abb2-445c-81b4-3c174db84fe2](../azure/eb668aa5-abb2-445c-81b4-3c174db84fe2.md) |
+>| User.Read.All | delegado | Executar a procurar contatos de diretório | [eb668aa5-abb2-445c-81b4-3c174db84fe2](../azure/eb668aa5-abb2-445c-81b4-3c174db84fe2.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

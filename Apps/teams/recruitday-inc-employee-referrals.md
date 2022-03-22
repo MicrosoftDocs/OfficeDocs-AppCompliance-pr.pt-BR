@@ -2,18 +2,19 @@
 title: Informações do aplicativo para indicações de funcionários pelo Recruitday Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Indicações de Funcionários, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 393442ce75e7a406458c9d953598d7093753c670
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 82e73cb8d954767c4f254cbd37ef3e7c368707e5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62263566"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549309"
 ---
 # <a name="employee-referrals"></a>Indicações de Funcionários
 
@@ -40,8 +41,9 @@ Informações fornecidas pelo Recruitday Inc. à Microsoft:
 | Termos de uso do aplicativo | [https://www.recruitday.com/terms-of-use](https://www.recruitday.com/terms-of-use) |
 | Funcionalidade principal do aplicativo | Consulte seus amigos para abrir trabalhos em sua empresa e rastrear suas recompensas usando Microsoft Teams. |
 | Localização da sede da empresa | Filipinas (o) |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://employer.recruitday.com/solutions/employee-referral...](https://employer.recruitday.com/solutions/employee-referrals/microsoft-teams) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Essas informações foram fornecidas pelo Recruitday Inc. sobre como esse aplica
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
-| Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Retido |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,7 +161,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | ambos | O nome e o sobrenome (do usuário do aplicativo, ou seja, funcionário) serão usados principalmente pelo usuário de RH para identificar facilmente o funcionário que encaminhou um candidato para acompanhamento de aplicativos de referência e pagamento de recompensas. Ele também será usado para lidar corretamente com o funcionário quando as notificações de email geradas pelo sistema são enviadas. | [7414b436-87d1-4904-9d52-ff47885b89f1](https://docs.microsoft.com/microsoft-365-app-certification/azure/7414b436-87d1-4904-9d52-ff47885b89f1) |
+>| User.Read | ambos | O nome e o sobrenome (do usuário do aplicativo, ou seja, funcionário) serão usados principalmente pelo usuário de RH para identificar facilmente o funcionário que encaminhou um candidato para acompanhamento de aplicativos de referência e pagamento de recompensas. Ele também será usado para lidar corretamente com o funcionário quando as notificações de email geradas pelo sistema são enviadas. | [7414b436-87d1-4904-9d52-ff47885b89f1](../azure/7414b436-87d1-4904-9d52-ff47885b89f1.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

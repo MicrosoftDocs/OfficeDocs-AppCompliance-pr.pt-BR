@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para vimheslo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0149e5bd2930cc2cbb93964cfdcd0399ce119f88
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: c419392746cbd58dcd3ba656b0da369f5294a06a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470126"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548469"
 ---
 # <a name="vimheslo"></a>vimheslo
 
@@ -36,7 +36,7 @@ Informações fornecidas pelo European Code Factory s.r.o. para a Microsoft:
 | Nome do aplicativo | vimheslo |
 | ID | WA200003843 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | European Code Factory s.r.o. |
+| Nome da empresa de parceiro | S.r.o da Fábrica de Código Europeia |
 | Site da empresa | [https://ecodef.cz](https://ecodef.cz) |
 | Termos de uso do aplicativo | [https://ecodef.cz/terms_of_use.html](https://ecodef.cz/terms_of_use.html) |
 | Funcionalidade principal do aplicativo | Gerenciador de senhas |
@@ -161,10 +161,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.Read.All | delegado | Os dados são armazenados OneDrive ou SharePoint biblioteca de documentos, o aplicativo precisa ler dados. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
->| Sites.Read.All | delegado | Aplicativo no contexto de equipe armazena dados SharePoint na biblioteca de documentos relacionada, o aplicativo precisa ler o nome do site para o caminho da instalação, onde o arquivo com dados está localizado. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
->| User.Read | delegado | O aplicativo precisa saber o OneDrive pessoal para armazenar dados pessoais lá. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
->| email | delegado | Para permitir o compartilhamento de dados. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845) |
+>| Files.Read.All | delegado | Os dados são armazenados OneDrive ou SharePoint biblioteca de documentos, o aplicativo precisa ler dados. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
+>| Sites.Read.All | delegado | Aplicativo no contexto de equipe armazena dados SharePoint na biblioteca de documentos relacionada, o aplicativo precisa ler o nome do site para o caminho da instalação, onde o arquivo com dados está localizado. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
+>| User.Read | delegado | O aplicativo precisa saber o OneDrive pessoal para armazenar dados pessoais lá. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
+>| email | delegado | Para permitir o compartilhamento de dados. | [73ee6b52-6b68-41c1-a7c5-91919e05b845](../azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

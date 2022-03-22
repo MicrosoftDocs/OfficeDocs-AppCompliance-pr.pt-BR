@@ -1,19 +1,20 @@
 ---
-title: Informações do aplicativo para registro do ASC Insights pela ASC Technologies AG
+title: Informações do aplicativo para o registro de Insights ASC pela ASC Technologies AG
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/04/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o registro do asc Insights, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o registro do asc Insights, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 626de477768e85b62479862b53743e2ede42598a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 0fdd446a6508545e412e43fa4efb4ec2091e0bb9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260778"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548019"
 ---
 # <a name="asc-recording-insights"></a>ASC Recording Insights
 
@@ -40,7 +41,7 @@ Informações fornecidas pela ASC Technologies AG à Microsoft:
 | Termos de uso do aplicativo | [https://asctechnologies.com/english/asc_impressum.html](https://asctechnologies.com/english/asc_impressum.html) |
 | Funcionalidade principal do aplicativo | Registro, arquivamento e análise de chamada legalmente compatíveis em um aplicativo Microsoft Teams certificado |
 | Localização da sede da empresa | Alemanha |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://asctechnologies.com/english/ASC_Recording_Insights_...](https://asctechnologies.com/english/ASC_Recording_Insights_Compliance_Recording_for_Microsoft_Teams.html) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -170,21 +171,21 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | aplicação | Ler calendários em todas as caixas de correio | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| ChannelMember.Read.All | aplicação | Ler membros de todos os canais | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| ChannelMessage.Read.All | aplicação | Listar mensagens do canal | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| Chat.Read | delegado | Ler mensagens de chat do usuário | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| Chat.Read.All | aplicação | Ler todas as mensagens de bate-papo | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| Contacts.Read | delegado | Ler contatos do usuário | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| Group.Read.All | delegado | Ler todos os grupos | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| Group.Read.All | aplicação | Ler todos os grupos | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| OnlineMeetings.Read.All | aplicação | Ler detalhes de reuniões online | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| People.Read | delegado | Ler a lista de pessoas relevantes dos usuários | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| User.Read | delegado | Entrar e ler o perfil do usuário | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| User.Read.All | aplicação | Ler o perfil completo de todos os usuários | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| User.ReadBasic.All | delegado | Ler todos os perfis básicos de usuários | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| openid | delegado | Conectar os usuários | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| perfil | delegado | exibir o perfil básico dos usuários | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| Calendars.Read | aplicação | Ler calendários em todas as caixas de correio | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| ChannelMember.Read.All | aplicação | Ler membros de todos os canais | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| ChannelMessage.Read.All | aplicação | Listar mensagens do canal | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| Chat.Read | delegado | Ler mensagens de chat do usuário | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| Chat.Read.All | aplicação | Ler todas as mensagens de bate-papo | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| Contacts.Read | delegado | Ler contatos do usuário | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| Group.Read.All | delegado | Ler todos os grupos | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| Group.Read.All | aplicação | Ler todos os grupos | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| OnlineMeetings.Read.All | aplicação | Ler detalhes de reuniões online | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| People.Read | delegado | Ler a lista de pessoas relevantes dos usuários | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| User.Read.All | aplicação | Ler o perfil completo de todos os usuários | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| User.ReadBasic.All | delegado | Ler todos os perfis básicos de usuários | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| openid | delegado | Conectar os usuários | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
+>| perfil | delegado | exibir o perfil básico dos usuários | [a22e0150-3615-46aa-b0a7-086c87a9f38d](../azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

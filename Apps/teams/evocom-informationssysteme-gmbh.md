@@ -2,18 +2,19 @@
 title: Informações do aplicativo para evocom por Evocom Informationssysteme GmbH
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Evocom, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 26aa34b7e3c8bfc167a771a7e6f630f24dbf9487
-ms.sourcegitcommit: 27afe4d564e72c28ea073e4b31801ad983aec173
+ms.openlocfilehash: 980a6217bd5967af64dd2cb6f3d47cc3eb2dab42
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62477143"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547889"
 ---
 # <a name="evocom"></a>Evocom
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo Evocom Informationssysteme GmbH para a Microsoft:
 | Termos de uso do aplicativo | [https://evocom.de/termsofuse](https://evocom.de/termsofuse) |
 | Funcionalidade principal do aplicativo | Evocom&#180;s USP = simplicidade. O Evocom é uma solução intuitiva para fluxos de trabalho colaborativos, gerenciamento de projetos e tarefas. Os trabalhadores da informação projetam processos e os trazem à vida imediatamente. As pessoas em departamentos usam o Evocom para digitalizar micro processos que coordenam o trabalho interno. Os especialistas em processos orquestram processos entre departamentos, usando micro processos de departamentos e utilizam integrações existentes com sistemas LOB, como CRM, ERP e outros. |
 | Localização da sede da empresa | Alemanha |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://evocom.de/microsoft365](https://evocom.de/microsoft365) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -171,8 +172,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Profilbild anzeigen | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
->| User.ReadBasic.All | delegado | PeoplePicker, Benutzerverwaltung | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
+>| User.Read | delegado | Profilbild anzeigen | [3e745135-a761-48a7-ab54-5c0277b2e642](../azure/3e745135-a761-48a7-ab54-5c0277b2e642.md) |
+>| User.ReadBasic.All | delegado | PeoplePicker, Benutzerverwaltung | [3e745135-a761-48a7-ab54-5c0277b2e642](../azure/3e745135-a761-48a7-ab54-5c0277b2e642.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

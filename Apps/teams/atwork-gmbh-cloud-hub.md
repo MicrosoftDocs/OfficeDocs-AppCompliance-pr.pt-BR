@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Cloud Hub pelo GmbH atwork
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Cloud Hub, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6e982e29c1ba09097f3c2415aae5e1f644a87c5a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 2a4f56d9bf23739abd8c7c9d40f6023fbfe43f91
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259829"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549459"
 ---
 # <a name="cloud-hub"></a>hub de Nuvem
 
@@ -40,7 +41,7 @@ Informações fornecidas pelo GmbH do atwork para a Microsoft:
 | Termos de uso do aplicativo | [https://www.atwork-it.com/eula](https://www.atwork-it.com/eula) |
 | Funcionalidade principal do aplicativo | O Cloud Hub é um aplicativo de negócios para Microsoft Teams. Ele permite que os usuários acompanhem as alterações futuras, incluindo recursos novos e alterados, manutenção planejada e outros comunicados importantes do Centro de Mensagens da Microsoft. Você pode fixar o aplicativo Cloud Hub na barra de aplicativos Microsoft Teams. No momento, o aplicativo tem suporte em inglês e sem custos.  |
 | Localização da sede da empresa | Áustria |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.atwork-it.com/solutions/cloudhub/](https://www.atwork-it.com/solutions/cloudhub/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
@@ -170,10 +171,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | aplicação | Usado para selecionar um canal em que você deseja postar uma mensagem do Centro de Mensagens. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
->| Mail.Send | aplicação | Usado para enviar emails diretamente do aplicativo para canais ou pessoas individuais.  | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
->| TeamSettings.Read.All | aplicação | Usado para selecionar uma equipe em que você deseja postar uma mensagem do Centro de Mensagens. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
->| User.Read.All | aplicação | Usado para selecionar uma pessoa para a quem você deseja enviar um Email. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| Channel.ReadBasic.All | aplicação | Usado para selecionar um canal em que você deseja postar uma mensagem do Centro de Mensagens. | [b5d4e933-e001-4168-83f8-abdd974877bd](../azure/b5d4e933-e001-4168-83f8-abdd974877bd.md) |
+>| Mail.Send | aplicação | Usado para enviar emails diretamente do aplicativo para canais ou pessoas individuais.  | [b5d4e933-e001-4168-83f8-abdd974877bd](../azure/b5d4e933-e001-4168-83f8-abdd974877bd.md) |
+>| TeamSettings.Read.All | aplicação | Usado para selecionar uma equipe em que você deseja postar uma mensagem do Centro de Mensagens. | [b5d4e933-e001-4168-83f8-abdd974877bd](../azure/b5d4e933-e001-4168-83f8-abdd974877bd.md) |
+>| User.Read.All | aplicação | Usado para selecionar uma pessoa para a quem você deseja enviar um Email. | [b5d4e933-e001-4168-83f8-abdd974877bd](../azure/b5d4e933-e001-4168-83f8-abdd974877bd.md) |
 
 >Este aplicativo não tem APIs adicionais.
 
