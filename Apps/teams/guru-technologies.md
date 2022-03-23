@@ -2,18 +2,19 @@
 title: Informações de aplicativos para o Guru por Tecnologias do Guru
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Guru, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2697126a901dde102be0ee29c153b69d0021acf5
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: a0fbc5fb17729e2551e65c170ea2c59c4cf866f3
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60437145"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63748271"
 ---
 # <a name="guru"></a>Guru
 
@@ -30,7 +31,7 @@ ms.locfileid: "60437145"
 
 Informações fornecidas pela Tecnologias Da Guru para a Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Guru |
 | ID | WA200001719 |
@@ -55,7 +56,7 @@ Essas informações foram fornecidas pela Tecnologias da Guru sobre como esse ap
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -77,13 +78,13 @@ Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá ac
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->quando um usuário ou empresa configura o aplicativo Guru para Teams, informações comuns como nome de usuário, email e nome da empresa associados ao perfil de usuário são gravadas e acessíveis pelo Guru. Após o término de uma conta, os dados são mantidos por 90 dias e removidos. 
+>quando um usuário ou empresa configura o aplicativo Guru para Teams, informações comuns, como nome de usuário, email e nome da empresa associados ao perfil de usuário, são gravadas e acessíveis pelo Guru. Após o término de uma conta, os dados são mantidos por 90 dias e removidos. 
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->A Equipe do Guru Configurações permitir que os administradores de uma equipe determinem quais controles de grupo e de acesso/função devem ser provisionados por coleção, com capacidade de adicionar, remover e atribuir cartões a indivíduos alternativos. Enterprise clientes que implantaram o SSO também têm o benefício do console do provedor de SSO para integração/offboard e estabelecer grupos por meio do SCIM
+>A equipe do Guru Configurações permitir que os administradores de uma equipe determinem quais controles de grupo e de acesso/função devem ser provisionados por coleção, com capacidade de adicionar, remover e atribuir cartões a indivíduos alternativos. Enterprise clientes que implantaram o SSO também têm o benefício do console do provedor de SSO para integração/offboard e estabelecer grupos por meio do SCIM
 
 #### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
 
@@ -113,7 +114,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pela Tecnologias da Guru sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
 

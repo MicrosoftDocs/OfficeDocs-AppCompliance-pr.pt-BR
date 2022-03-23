@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Zoho Desk pela Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Zoho Desk, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8b934d980843f06ad78ca65ceb5782ce951fa41b
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: ee371d3cd431fae46b5f97d434ff9acb0fbcbe1e
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430269"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63751084"
 ---
 # <a name="zoho-desk"></a>Zoho Desk
 
@@ -30,7 +31,7 @@ ms.locfileid: "60430269"
 
 Informações fornecidas pela Zoho Corporation Private Limited à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Zoho Desk |
 | ID | WA104382044 |
@@ -57,20 +58,20 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Files.Read | delegado |  | Ler arquivos de usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| Files.Read.All | delegado |  | Leia todos os arquivos que o usuário pode acessar. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| User.Read | delegado |  | Entre e leia o perfil do usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| User.ReadBasic.All | delegado |  | Leia os perfis básicos de todos os usuários. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| email | delegado |  | Exibir o endereço de email do usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| offline_access | delegado |  | Mantenha acesso aos dados aos que você lhe deu acesso. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| perfil | delegado |  | Exibir o perfil básico do usuário. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.Read | delegado |  | Ler arquivos de usuário. |  |
+>| Files.Read.All | delegado |  | Leia todos os arquivos que o usuário pode acessar. |  |
+>| User.Read | delegado |  | Entre e leia o perfil do usuário. |  |
+>| User.ReadBasic.All | delegado |  | Leia os perfis básicos de todos os usuários. |  |
+>| email | delegado |  | Exibir o endereço de email do usuário. |  |
+>| offline_access | delegado |  | Mantenha acesso aos dados aos que você lhe deu acesso. |  |
+>| perfil | delegado |  | Exibir o perfil básico do usuário. |  |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
