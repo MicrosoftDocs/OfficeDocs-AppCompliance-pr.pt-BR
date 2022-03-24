@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Saberr pelo Saberr
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Saberr, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 52c4c6ff40ac59f216c6c266d0ea80253303fff5
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: fe3cf6626b72f57583684d5f0a02be32de3ef1e5
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60429319"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753415"
 ---
 # <a name="saberr"></a>Saberr
 
@@ -30,7 +31,7 @@ ms.locfileid: "60429319"
 
 Informações fornecidas pelo Saberr à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Saberr |
 | ID | WA200001501 |
@@ -61,7 +62,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
-Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
+Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar todas as APIs da Microsoft que não Graph esse aplicativo usa.
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
@@ -124,7 +125,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pelo Saberr sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
 

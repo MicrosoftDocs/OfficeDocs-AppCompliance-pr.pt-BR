@@ -2,18 +2,19 @@
 title: Informações do aplicativo para a workboard por workboard
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para Workboard, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7b795de57f2acf2b75cc63699d7ae4c14510dadd
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: afedc6e44e38273b1b48b8bfccf2fe91ec4e17f3
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527517"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753750"
 ---
 # <a name="workboard"></a>Workboard
 
@@ -29,7 +30,7 @@ ms.locfileid: "53527517"
 
 Informações fornecidas pela Workboard à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Workboard |
 | ID | WA104381599 |
@@ -63,7 +64,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -114,7 +115,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pela Workboard sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |

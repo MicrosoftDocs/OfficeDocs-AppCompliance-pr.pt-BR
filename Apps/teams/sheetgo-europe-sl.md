@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Sheetgo by SHEETGO EUROPE SL
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Sheetgo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a91a3ac8e1d7ead5a469a88787b4b5809d48615a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 154adf8fe539a631b13f2aba451c307ef5ab2a62
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276284"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753699"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -30,7 +31,7 @@ ms.locfileid: "59276284"
 
 Informações fornecidas pelo SHEETGO EUROPE SL para a Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Sheetgo |
 | ID | WA200002067 |
@@ -54,7 +55,7 @@ Essas informações foram fornecidas pelo SHEETGO EUROPE SL sobre como esse apli
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

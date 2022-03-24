@@ -2,18 +2,19 @@
 title: Informações do aplicativo para entrevistas de Talview pela Talview Inc
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Entrevistas do Talview, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 380c0e14a2aa7d4d680fbe4c375b5f0e01e16a43
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 19dc757e6bd95c434999f7f2228f8cb757addd28
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428488"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753150"
 ---
 # <a name="talview-interviews"></a>Talview Entrevistas
 
@@ -30,7 +31,7 @@ ms.locfileid: "60428488"
 
 Informações fornecidas pela Talview Inc à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Talview Entrevistas |
 | ID | WA200002437 |
@@ -57,17 +58,17 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | delegado | Entrar e ler o perfil do usuário | Endereço de email/Nomes de Usuário para notificações e autenticação | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
->| email | delegado | Exibir o endereço de email dos usuários para mapear contas de usuário | Endereço de email/Nomes de Usuário para notificações e autenticação | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
->| openid | delegado | Entrar usuários, para fazer logon na plataforma | Endereço de email/Nomes de Usuário para notificações e autenticação | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
->| perfil | delegado | Exibir os perfis básicos dos usuários | Endereço de email/Nomes de Usuário para notificações e autenticação | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
+>| User.Read | delegado | Entrar e ler o perfil do usuário | Endereço de email/Nomes de Usuário para notificações e autenticação | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
+>| email | delegado | Exibir o endereço de email dos usuários para mapear contas de usuário | Endereço de email/Nomes de Usuário para notificações e autenticação | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
+>| openid | delegado | Entrar usuários, para fazer logon na plataforma | Endereço de email/Nomes de Usuário para notificações e autenticação | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
+>| perfil | delegado | Exibir os perfis básicos dos usuários | Endereço de email/Nomes de Usuário para notificações e autenticação | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -116,7 +117,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pela Talview Inc sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |

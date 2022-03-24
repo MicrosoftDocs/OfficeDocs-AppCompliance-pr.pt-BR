@@ -2,18 +2,19 @@
 title: Informações de aplicativo para GoToConnect by LogMeIn Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para GoToConnect, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7be440517f70ed5375cdf1b41a4394aea325df35
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: c54655da774fa1a7c1d68f61caaed7bdbfbb80cb
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60434640"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752262"
 ---
 # <a name="gotoconnect"></a>GoToConnect
 
@@ -30,7 +31,7 @@ ms.locfileid: "60434640"
 
 Informações fornecidas pelo LogMeIn Inc. à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | GoToConnect |
 | ID | WA200000962 |
@@ -55,14 +56,14 @@ Essas informações foram fornecidas pela LogMeIn Inc. sobre como esse aplicativ
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -111,7 +112,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pela LogMeIn Inc. sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
 

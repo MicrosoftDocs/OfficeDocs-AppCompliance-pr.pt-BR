@@ -2,20 +2,21 @@
 title: Informações do aplicativo para lembrete de mensagem por &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Lembrete de Mensagem, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: c367d46abd5f0e5ac3f4e3e12d59e28e507a9e60
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: c95ef8bab0d735eb35c89ed1e910428407d1d5eb
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404133"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753544"
 ---
-# <a name="message-reminder"></a>Lembrete de mensagem
+# <a name="message-reminder"></a>Lembrete de Mensagem
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,9 +31,9 @@ ms.locfileid: "58404133"
 
 Informações fornecidas pelo &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; para a Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Lembrete de mensagem |
+| Nome do aplicativo | Lembrete de Mensagem |
 | ID | WA200001875 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; |
@@ -55,14 +56,14 @@ Essas informações foram fornecidas pelo &#1054;&#1054;&#1054; &#1040;&#1081;-&
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -111,7 +112,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pelo &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o StealthMail by Stealthmail Software Ltd
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o StealthMail, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d7a0a738c475111a237720f329d1728d15d1f8fb
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 53b80f2835bbea55ccd2d571fead808dca70ba05
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428858"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752533"
 ---
 # <a name="stealthmail"></a>StealthMail
 
@@ -30,7 +31,7 @@ ms.locfileid: "60428858"
 
 Informações fornecidas pela Stealthmail Software Ltd para a Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | StealthMail |
 | ID | WA200001748 |
@@ -57,20 +58,20 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| ChannelMessage.Read.All | delegado | Aplicativo envia a mensagem para o canal com a referência em email seguro criado | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| ChannelMessage.Send | delegado | Aplicativo envia a mensagem para o canal com a referência em email seguro criado | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| Chat.ReadWrite | delegado | Aplicativo envia a mensagem para conversar com a referência em email seguro criado | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| GroupMember.Read.All | delegado | Aplicativo obtém membros do canal para tornar emails seguros para eles | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| User.Read.All | delegado | Aplicativo obtém membros de chat para tornar emails seguros para eles | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| User.ReadBasic.All | delegado | Aplicativo obtém membros de chat para tornar emails seguros para eles | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
->| email | delegado | Autenticar usuário | armazenamento de nada no banco de dados | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| ChannelMessage.Read.All | delegado | Aplicativo envia a mensagem para o canal com a referência em email seguro criado | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| ChannelMessage.Send | delegado | Aplicativo envia a mensagem para o canal com a referência em email seguro criado | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| Chat.ReadWrite | delegado | Aplicativo envia a mensagem para conversar com a referência em email seguro criado | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| GroupMember.Read.All | delegado | Aplicativo obtém membros do canal para tornar emails seguros para eles | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| User.Read.All | delegado | Aplicativo obtém membros de chat para tornar emails seguros para eles | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| User.ReadBasic.All | delegado | Aplicativo obtém membros de chat para tornar emails seguros para eles | nada | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
+>| email | delegado | Autenticar usuário | armazenamento de nada no banco de dados | [1ed0a549-c730-44c7-a984-a8c658fe9807](../azure/1ed0a549-c730-44c7-a984-a8c658fe9807.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -119,7 +120,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pela Stealthmail Software Ltd sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
@@ -130,7 +131,7 @@ Essas informações foram fornecidas pela Stealthmail Software Ltd sobre como es
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Não |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow implícito, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
 | Seu aplicativo expõe alguma APIs da Web? | Sim |
 | Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
 | Seu aplicativo usa APIs de visualização? | Sim |

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para EdMill por My-Serious-Game
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o EdMill, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a0cc33efe3ae49f7b0b8a3e827e0e8d813ab8467
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: c251afc887d00d8b4888ec31edff6759a1cda7e4
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60429579"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753638"
 ---
 # <a name="edmill"></a>EdMill
 
@@ -30,7 +31,7 @@ ms.locfileid: "60429579"
 
 Informações fornecidas pelo My-Serious-Game para a Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | EdMill |
 | ID | WA200002622 |
@@ -55,14 +56,14 @@ Essas informações foram fornecidas pelo My-Serious-Game sobre como esse aplica
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -111,7 +112,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pelo My-Serious-Game sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
@@ -123,7 +124,7 @@ Essas informações foram fornecidas pelo My-Serious-Game sobre como esse aplica
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Não |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow implícito, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
 | Seu aplicativo expõe alguma APIs da Web? | Sim |
 | Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
 | Seu aplicativo usa APIs de visualização? | Não |

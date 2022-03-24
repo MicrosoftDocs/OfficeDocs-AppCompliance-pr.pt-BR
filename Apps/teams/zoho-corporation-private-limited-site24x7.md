@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Site24x7 pela Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Site24x7, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fbc53d0d7efbe32bc2f61b26507713566206232c
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 56af9bdf29f9c23a2c10f665e6f96e7bdf511f4b
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60434380"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752755"
 ---
 # <a name="site24x7"></a>Site24x7
 
@@ -30,7 +31,7 @@ ms.locfileid: "60434380"
 
 Informações fornecidas pela Zoho Corporation Private Limited à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Site24x7 |
 | ID | WA104381289 |
@@ -55,14 +56,14 @@ Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Goodera por Goodera
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Goodera, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8a2edbd7962434cf3525b9ca262ead552bb86640
-ms.sourcegitcommit: c02a78e87cd408ded50ad143138502ce1f1d883e
+ms.openlocfilehash: f44ae5b38928d1bb89fd78c8ae9cd43dc732e7c7
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62337974"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752197"
 ---
 # <a name="goodera"></a>Goodera
 
@@ -54,13 +55,13 @@ Essas informações foram fornecidas pelo Goodera sobre como esse aplicativo col
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
 Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao que é adicionado. Esse aplicativo usa esse recurso?

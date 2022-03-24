@@ -2,18 +2,19 @@
 title: Informações de aplicativo para TeamMate por ChitChattr por ChitChattr
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o TeamMate by ChitChattr, suas políticas de tratamento de dados, Microsoft Cloud App Security informações de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o TeamMate by ChitChattr, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9e12f758f81980d155f769e14323556e73c67fab
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 64d99813e4c76f06a776f5882fac52d9eea8285a
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430853"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753553"
 ---
 # <a name="teammate-by-chitchattr"></a>TeamMate por ChitChattr
 
@@ -30,7 +31,7 @@ ms.locfileid: "60430853"
 
 Informações fornecidas por ChitChattr à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | TeamMate por ChitChattr |
 | ID | WA200002530 |
@@ -57,14 +58,14 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| People.Read | delegado | O aplicativo permite que os administradores escolham usuários para os quais direcionar experiências específicas, portanto, ele precisa armazenar o nome do usuário, o email e a ID do objeto do Azure AD | O aplicativo permite que os administradores escolham usuários para os quais direcionar experiências específicas, portanto, ele precisa armazenar o nome do usuário, o email e a ID do objeto do Azure AD | [a8e903c7-3b7f-4ec5-a474-b5d32e595f50](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8e903c7-3b7f-4ec5-a474-b5d32e595f50) |
+>| People.Read | delegado | O aplicativo permite que os administradores escolham usuários para os quais direcionar experiências específicas, portanto, ele precisa armazenar o nome do usuário, o email e a ID do objeto do Azure AD | O aplicativo permite que os administradores escolham usuários para os quais direcionar experiências específicas, portanto, ele precisa armazenar o nome do usuário, o email e a ID do objeto do Azure AD | [a8e903c7-3b7f-4ec5-a474-b5d32e595f50](../azure/a8e903c7-3b7f-4ec5-a474-b5d32e595f50.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -72,7 +73,7 @@ Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá ac
 
 >| **Justificativa para acessar a EUII?**  | **O EUII é armazenado em banco de dados(s)?** | **Justificativa para armazenar EUII?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| Em caso de algum problema, o bot irá procurar e mostrar ao usuário os nomes e os detalhes de contato dos usuários registrados como administradores no aplicativo (essencialmente entrar em contato com o administrador, isso é o que &quot; eles são &quot; ) | Nome, Email | Conforme descrito em seções anteriores - para identificar usuários para experiências direcionadas (com base em seu administrador configurá-lo) e permitir que os usuários vejam quem são seus administradores internos da empresa para o aplicativo. |
+>| Em caso de algum problema, o bot procurará e mostrará ao usuário os nomes e os detalhes de contato dos usuários registrados como administradores no aplicativo ( &quot;essencialmente entrar em contato com o administrador, isso é o que eles são&quot;) | Nome, Email | Conforme descrito em seções anteriores - para identificar usuários para experiências direcionadas (com base em seu administrador configurá-lo) e permitir que os usuários vejam quem são seus administradores internos da empresa para o aplicativo. |
 
 
 #### <a name="telemetry-data"></a>Dados de telemetria
@@ -115,7 +116,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas por ChitChattr sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
@@ -127,7 +128,7 @@ Essas informações foram fornecidas por ChitChattr sobre como esse aplicativo l
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Sim |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow implícito, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
 | Seu aplicativo expõe alguma APIs da Web? | Sim |
 | Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
 | Seu aplicativo usa APIs de visualização? | Não |

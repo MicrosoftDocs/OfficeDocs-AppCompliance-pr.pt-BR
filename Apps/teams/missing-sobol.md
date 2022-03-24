@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Sobol pela ConsenSys AG&#8217;Sobol
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Sobol, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 54da5a152d84b23d80568f21bf4a283361ea9da5
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 52989c74fb4de620204b7066d5b9f01f0e6f8678
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404236"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752973"
 ---
 # <a name="sobol"></a>Sobol
 
@@ -30,7 +31,7 @@ ms.locfileid: "58404236"
 
 Informações fornecidas pela ConsenSys AG&#8217;Sobol para a Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Sobol |
 | ID | WA200002999 |
@@ -55,7 +56,7 @@ Essas informações foram fornecidas pela Sobol da ConsenSys AG&#8217;sobre como
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -111,9 +112,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ### <a name="identity-information"></a>Informações de identidade
 
-Essas informações foram fornecidas pela ConsenSys AG&#8217;Sobol sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
+Essas informações foram fornecidas pela&#8217;Sobol da ConsenSys AG sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
 

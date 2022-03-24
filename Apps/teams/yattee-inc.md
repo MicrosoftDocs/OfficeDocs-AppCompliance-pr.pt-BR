@@ -2,18 +2,19 @@
 title: Informações do aplicativo para &#12459;&#12490;&#12522;&#12450; por YATTEE Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para &#12459;&#12490;&#12522;&#12450;, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b45882621901f70385bc816c7f14322c1faea504
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 077d3a0592b3266623f8add53bc8ef6b9b99fb53
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58873704"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753765"
 ---
 # <a name="12459124901252212450"></a>&#12459;&#12490;&#12522;&#12450;
 
@@ -30,7 +31,7 @@ ms.locfileid: "58873704"
 
 Informações fornecidas pelo YATTEE Inc. à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | &#12459;&#12490;&#12522;&#12450; |
 | ID | WA200003193 |
@@ -63,7 +64,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -112,7 +113,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pelo YATTEE Inc. sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |

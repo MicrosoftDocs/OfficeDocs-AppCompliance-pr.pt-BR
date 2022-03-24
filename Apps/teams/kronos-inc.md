@@ -2,18 +2,19 @@
 title: Informações de aplicativo para Kronos by Kronos, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Kronos, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3a20e3a40ce61d6610b6f36e4c2943da1e9293d2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 29bf43294bf500a1698a6527cd6b9b83cd4dab41
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277452"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753245"
 ---
 # <a name="kronos"></a>Kronos
 
@@ -30,7 +31,7 @@ ms.locfileid: "59277452"
 
 Informações fornecidas pela Kronos, Inc. à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Kronos |
 | ID | WA104381629 |
@@ -55,14 +56,14 @@ Essas informações foram fornecidas pela Kronos, Inc. sobre como esse aplicativ
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -75,7 +76,7 @@ Se este aplicativo contiver um bot ou uma extensão de mensagens, ele poderá ac
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->Isso é armazenado apenas no sistema de gerenciamento de locatários separado de Teams
+>Isso é armazenado somente no sistema de gerenciamento de locatários separado de Teams
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
 

@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Bloco de Anotações do Zoho pela Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/29/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Bloco de Anotações do Zoho, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1fe5d35e610c11cf9908aa5bc012db0d1039c975
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: eda8e16d8113aac83535faa9692d3eb3e4b59aee
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60444948"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753250"
 ---
 # <a name="zoho-notebook"></a>Zoho Notebook
 
@@ -30,7 +31,7 @@ ms.locfileid: "60444948"
 
 Informações fornecidas pela Zoho Corporation Private Limited à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Zoho Notebook |
 | ID | WA200001616 |
@@ -54,14 +55,14 @@ Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 

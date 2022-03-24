@@ -2,18 +2,19 @@
 title: Informações do aplicativo para researcHR por KBE&#26666;&#24335;&#20250;&#31038;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para researcHR, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b57d492945766c8d65417cf2f1d642ea4ecb8aae
-ms.sourcegitcommit: 64333f4e583bacd85f1b47af6e1eaee266658924
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 5def12e783d15c3cbcaf02ec128301dd9f75bd01
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "58422547"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753784"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -30,7 +31,7 @@ ms.locfileid: "58422547"
 
 Informações fornecidas pelo KBE&#26666;&#24335;&#20250;&#31038; para a Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | researcHR |
 | ID | WA200002557 |
@@ -57,20 +58,20 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Channel.Create | aplicação | Usamos esse escopo para permitir que nosso bot crie um novo canal no Teams cliente. Consulte: https://docs.microsoft.com/en-us/graph/api/channel-post | Não armazenamos esses dados em nosso banco de dados. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Directory.Read.All | aplicação | Usamos esse escopo para obter as IDs de canal e os nomes para exibir esses dados em nosso site. Consulte: https://docs.microsoft.com/en-us/graph/api/channel-list | Não armazenamos esses dados em nosso banco de dados. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Group.Read.All | aplicação | Usamos esse escopo para obter as IDs de canal e os nomes para exibir esses dados em nosso site. Consulte: https://docs.microsoft.com/en-us/graph/api/channel-list | Não armazenamos esses dados em nosso banco de dados. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Team.ReadBasic.All | aplicação | Usamos esse escopo para obter os membros da equipe para que os usuários possam ver seus membros da equipe em nosso site. Consulte: https://docs.microsoft.com/en-us/graph/api/group-list-members | Não armazenamos esses dados no banco de dados. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.Read.All | aplicação | Usamos esse escopo para obter os canais ingressáveis do usuário para que os usuários possam ver suas equipes ingressáveis em nosso site. Consulte: https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | Não armazenamos esses dados em nosso banco de dados. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.ReadBasic.All | delegado | Usamos esse escopo para habilitar o logon OAuth e coletar a ID do AAD do usuário, o token de acesso e o token de atualização. Consulte: https://docs.microsoft.com/en-us/graph/auth-v2-user | Armazenamos a ID AAD do usuário, o token de acesso e o token de atualização em nosso banco de dados para que o usuário possa fazer logon no nosso site com o OAuth. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| offline_access | delegado | Usamos esse escopo para obter o token de atualização para que possamos atualizar o token de acesso dos usuários authed sem nenhuma interação do usuário. Consulte: https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | Armazenamos o token de atualização em nosso banco de dados para que possamos atualizar o token de acesso sem nenhuma interação do usuário. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
+>| Channel.Create | aplicação | Usamos esse escopo para permitir que nosso bot crie um novo canal no Teams cliente. Consulte: https://docs.microsoft.com/graph/api/channel-post | Não armazenamos esses dados em nosso banco de dados. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Directory.Read.All | aplicação | Usamos esse escopo para obter as IDs de canal e os nomes para exibir esses dados em nosso site. Consulte: https://docs.microsoft.com/graph/api/channel-list | Não armazenamos esses dados em nosso banco de dados. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Group.Read.All | aplicação | Usamos esse escopo para obter as IDs de canal e os nomes para exibir esses dados em nosso site. Consulte: https://docs.microsoft.com/graph/api/channel-list | Não armazenamos esses dados em nosso banco de dados. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Team.ReadBasic.All | aplicação | Usamos esse escopo para obter os membros da equipe para que os usuários possam ver seus membros da equipe em nosso site. Consulte: https://docs.microsoft.com/graph/api/group-list-members | Não armazenamos esses dados no banco de dados. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.Read.All | aplicação | Usamos esse escopo para obter os canais ingressáveis do usuário para que os usuários possam ver suas equipes ingressáveis em nosso site. Consulte: https://docs.microsoft.com/graph/api/user-list-joinedteams | Não armazenamos esses dados em nosso banco de dados. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.ReadBasic.All | delegado | Usamos esse escopo para habilitar o logon OAuth e coletar a ID de AAD do usuário, o token de acesso e o token de atualização. Consulte: https://docs.microsoft.com/graph/auth-v2-user | Armazenamos a ID de AAD do usuário, o token de acesso e o token de atualização em nosso banco de dados para que o usuário possa fazer logon em nosso site com o OAuth. | [82df726e-0de2-46af-b4f1-0645fd95fc97].. /azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| offline_access | delegado | Usamos esse escopo para obter o token de atualização para que possamos atualizar o token de acesso dos usuários authed sem nenhuma interação do usuário. Consulte: https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#offline_access | Armazenamos o token de atualização em nosso banco de dados para que possamos atualizar o token de acesso sem nenhuma interação do usuário. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -119,7 +120,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pelo KBE&#26666;&#24335;&#20250;&#31038; sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
 

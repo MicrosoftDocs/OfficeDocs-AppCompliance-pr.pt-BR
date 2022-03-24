@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Officevibe pelo Officevibe
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Officevibe, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c347c1de602d889829ac22aaad650871959be6be
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: c96f4bc23b5f1201567276c64de7ff411746c105
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430783"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753729"
 ---
 # <a name="officevibe"></a>Officevibe
 
@@ -30,7 +31,7 @@ ms.locfileid: "60430783"
 
 Informações fornecidas pelo Officevibe à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Officevibe |
 | ID | WA200002508 |
@@ -57,11 +58,11 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
->| Group.Read.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
->| TeamsAppInstallation.ReadWriteForUser | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
->| User.Read | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
->| User.Read.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
+>| Directory.AccessAsUser.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| Group.Read.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| TeamsAppInstallation.ReadWriteForUser | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| User.Read | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| User.Read.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -119,7 +120,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pelo Officevibe sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Não |
 

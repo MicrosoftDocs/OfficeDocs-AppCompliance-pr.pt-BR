@@ -2,18 +2,19 @@
 title: Informações do aplicativo para Alcançar por LiveTiles
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Reach, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 882e5bdff55a1217c39b8f97761a28eba92d0036
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: c58462500079df7f7b8b2736eec9289443df4a4c
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430813"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753741"
 ---
 # <a name="reach"></a>Reach
 
@@ -30,7 +31,7 @@ ms.locfileid: "60430813"
 
 Informações fornecidas pelo LiveTiles para a Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Reach |
 | ID | WA200002045 |
@@ -57,11 +58,11 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| TeamsActivity.Send | aplicação | none | none | [a7c1920d-3ac0-42db-9757-078a2b321fd8 ](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7c1920d-3ac0-42db-9757-078a2b321fd8 ) |
->| User.Read | delegado | User DisplayName, User Email Address, UPN. Necessário para permitir que os usuários entre no aplicativo e recebam informações básicas do usuário in-loco, como o nome para exibição. O endereço de email é usado para enviar notificações por email.  | User DisplayName, User Email Address, UPN. Necessário para permitir que os usuários entre no aplicativo e recebam informações básicas do usuário in-loco, como o nome para exibição. O endereço de email é usado para enviar notificações por email.  | [d492530a-8cff-481c-90da-9c3c3f1be7da](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da) |
->| User.ReadBasic.All | delegado | User DisplayName, User Email Address, UPN, User Department, User Job Title, User Mobile Telefone Number, User Business Telefone Number, User Office Location. Necessário para permitir que os usuários pesquisam outros usuários dentro do aplicativo (Phonebook) e consulte as informações básicas de perfil e contato de outros usuários.  | none | [d492530a-8cff-481c-90da-9c3c3f1be7da](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da) |
->| Directory.Read.All | aplicação | Associação a grupos, grupos de AD no Diretório. A associação de grupo dos usuários é armazenada em um cache para minimizar as chamadas para a API Graph Microsoft. Necessário para permitir que os usuários pesquisem grupos do Active Directory. Além disso, essa permissão é necessária para que o aplicativo resolva a associação de grupo do AD de usuários em trabalhos da Web do back-end. | Associação de grupo de usuários. A associação de grupo dos usuários é armazenada em um cache para minimizar as chamadas para a API Graph Microsoft. Necessário para permitir que os usuários pesquisem grupos do Active Directory. Além disso, essa permissão é necessária para que o aplicativo resolva a associação de grupo do AD de usuários em trabalhos da Web do back-end.  | [d492530a-8cff-481c-90da-9c3c3f1be7da ](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da ) |
->| User.Read.All | aplicação | Os dados recuperados do perfil de usuário dependem da configuração do recurso de Direcionamento de Público especificado no aplicativo. Necessário para permitir que o aplicativo leia perfis de usuário sem um usuário assinado. A leitura de dados de perfil é necessária para o recurso de direcionamento de informações dentro do aplicativo, para que as informações são exibidas para usuários específicos com base em um valor de propriedade de perfil específico.  | none | [d492530a-8cff-481c-90da-9c3c3f1be7da ](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da ) |
+>| TeamsActivity.Send | aplicação | none | none | [a7c1920d-3ac0-42db-9757-078a2b321fd8 ](../azure/a7c1920d-3ac0-42db-9757-078a2b321fd8.md ) |
+>| User.Read | delegado | User DisplayName, User Email Address, UPN. Necessário para permitir que os usuários entre no aplicativo e recebam informações básicas do usuário in-loco, como o nome para exibição. O endereço de email é usado para enviar notificações por email.  | User DisplayName, User Email Address, UPN. Necessário para permitir que os usuários entre no aplicativo e recebam informações básicas do usuário in-loco, como o nome para exibição. O endereço de email é usado para enviar notificações por email.  | [d492530a-8cff-481c-90da-9c3c3f1be7da](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md) |
+>| User.ReadBasic.All | delegado | User DisplayName, User Email Address, UPN, User Department, User Job Title, User Mobile Telefone Number, User Business Telefone Number, User Office Location. Necessário para permitir que os usuários pesquisam outros usuários dentro do aplicativo (Phonebook) e consulte as informações básicas de perfil e contato de outros usuários.  | none | [d492530a-8cff-481c-90da-9c3c3f1be7da](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md) |
+>| Directory.Read.All | aplicação | Associação a grupos, grupos de AD no Diretório. A associação de grupo de usuários é armazenada em um cache para minimizar as chamadas para a API Graph Microsoft. Necessário para permitir que os usuários pesquisem grupos do Active Directory. Além disso, essa permissão é necessária para que o aplicativo resolva a associação de grupo do AD de usuários em trabalhos da Web do back-end. | Associação de grupo de usuários. A associação de grupo de usuários é armazenada em um cache para minimizar as chamadas para a API Graph Microsoft. Necessário para permitir que os usuários pesquisem grupos do Active Directory. Além disso, essa permissão é necessária para que o aplicativo resolva a associação de grupo do AD de usuários em trabalhos da Web do back-end.  | [d492530a-8cff-481c-90da-9c3c3f1be7da ](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md ) |
+>| User.Read.All | aplicação | Os dados recuperados do perfil de usuário dependem da configuração do recurso de Direcionamento de Público especificado no aplicativo. Necessário para permitir que o aplicativo leia perfis de usuário sem um usuário assinado. A leitura de dados de perfil é necessária para o recurso de direcionamento de informações dentro do aplicativo, para que as informações são exibidas para usuários específicos com base em um valor de propriedade de perfil específico.  | none | [d492530a-8cff-481c-90da-9c3c3f1be7da ](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md ) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -119,7 +120,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pelo LiveTiles sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Não |
@@ -131,7 +132,7 @@ Essas informações foram fornecidas pelo LiveTiles sobre como esse aplicativo l
 | Seu aplicativo dá suporte a multi-enancy? | Sim |
 | Seu aplicativo tem um cliente confidencial? | Não |
 | Você possui todo o URI (Identificador de Recurso Unificado) de redirecionamento registrado para seu aplicativo? | Sim |
-| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
+| Para seu aplicativo, o que você evita usar? | - URIs de redirecionamento curinga,<br/>- OAuth2 Flow implícito, a menos que seja necessário para um SPA<br/>- Fluxo ROPC (Resource Owner Password Credential) |
 | Seu aplicativo expõe alguma APIs da Web? | Sim |
 | Seu modelo de permissão só permite que as chamadas recebam êxito se o aplicativo cliente receber o consentimento adequado? | Sim |
 | Seu aplicativo usa APIs de visualização? | Sim |

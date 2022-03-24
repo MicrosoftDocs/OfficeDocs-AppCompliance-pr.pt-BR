@@ -2,18 +2,19 @@
 title: Informações do aplicativo para o Notificador de Pacote pela QBURST TECHNOLOGIES PVT LTD
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Notifier de Pacotes, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o Notifier do Pacote, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a65e9bdfa8d10bfb0dad48d1433bcd65a870c580
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: e8f961dbe619141fa9eba435f08e131029890d72
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430380"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753675"
 ---
 # <a name="package-notifier"></a>Notificador de Pacote
 
@@ -30,7 +31,7 @@ ms.locfileid: "60430380"
 
 Informações fornecidas pela QBURST TECHNOLOGIES PVT LTD à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Notificador de Pacote |
 | ID | WA200002737 |
@@ -54,21 +55,21 @@ Essas informações foram fornecidas pela QBURST TECHNOLOGIES PVT LTD sobre como
 
 Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
 
->Este aplicativo não usa o Microsoft Graph.
+>Esse aplicativo não usa o Microsoft Graph.
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
-Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
+Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar todas as APIs da Microsoft que não Graph esse aplicativo usa.
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Azure DevOps Services REST API | Não |  |  |  |  |
+>| Azure DevOps Services API REST | Não |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 #### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
 
@@ -117,7 +118,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pela QBURST TECHNOLOGIES PVT LTD sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |
