@@ -2,20 +2,21 @@
 title: O que Publisher atestado?
 author: LGerrard
 ms.author: legerrar
+manager: tonybal
 description: Mais detalhes sobre o programa Publisher Atestado
 keywords: app attestation certification 365 questionnaire appSource publisher
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 06c64ab2aa09790a0c20ee9d555adf1177031f12
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c49279c827ed0ac39e49b07aabd01baaab9f8e5e
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59276659"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64457204"
 ---
 # <a name="what-is-publisher-attestation"></a>O que Publisher atestado?
 
-Publisher Atestado é a próxima camada do Programa de Conformidade Microsoft 365 Aplicativos. O desenvolvedor de aplicativos é solicitado a concluir uma autoavaliação que inclui perguntas frequentes feitas por clientes ou administradores de IT quando eles estão avaliando a segurança e a conformidade de um aplicativo. Em seguida, a Microsoft publica essas informações para uma avaliação mais fácil e em tempo há tempo.
+Publisher Atestado é a próxima camada no programa de conformidade Microsoft 365 aplicativos. O desenvolvedor de aplicativos é solicitado a concluir uma autoavaliação que inclui perguntas frequentes feitas por clientes ou administradores de IT quando eles estão avaliando a segurança e a conformidade de um aplicativo. Em seguida, a Microsoft publica essas informações para uma avaliação mais fácil e em tempo há tempo.
 
 > [!IMPORTANT]
 > A Microsoft não valida todas as informações fornecidas. O desenvolvedor de aplicativos é o único responsável pelas informações fornecidas no atestado do editor. 
@@ -43,13 +44,13 @@ Os benefícios de concluir o Publisher atestado para desenvolvedores incluem:
 -   Maior transparência
 - A Microsoft fornece esse serviço sem custo adicional
 -   Diferenciação de outros aplicativos na loja
--   Link para a página de documentos da sua entrada no AppSource, Teams Centro de Administração e Centro de Administração da Microsoft
+-   Link para sua página de documentos da sua entrada no AppSource, Teams Centro de Administração e Centro de Administração da Microsoft
 -   Qualificação para iniciar a Microsoft 365 Certificação
 
 
-## <a name="publisher-attestation-scope"></a>Publisher Escopo de atestado
+## <a name="publisher-attestation-scope"></a>Publisher escopo de Atestado
 
-O processo de atestado se centraliza em um amplo questionário detalhando os atributos de segurança, tratamento de dados e conformidade de um aplicativo. As informações fornecidas abrangem toda a funcionalidade do aplicativo que é exposta quando o aplicativo é ativado na plataforma de Microsoft 365 de uma organização e inclui o seguinte:
+O processo de atestado se centraliza em um amplo questionário detalhando os atributos de segurança, tratamento de dados e conformidade de um aplicativo. As informações fornecidas abrangem toda a funcionalidade do aplicativo que é exposta quando o aplicativo é ativado na plataforma Microsoft 365 de uma organização e inclui o seguinte:
 
 - Tratamento de dados: como um aplicativo coleta e armazena dados organizacionais e qual controle uma organização tem sobre esses dados
 - Segurança: os protocolos, processos e procedimentos que um aplicativo tem para proteger dados e detectar e rechacar ataques cibernéticos
@@ -66,13 +67,13 @@ O atestado é válido por um ano a partir do momento do envio. No entanto, se um
 
 ## <a name="reviewing-an-apps-publisher-attestation"></a>Revisão do atestado de Publisher de um aplicativo
 
-O desenvolvedor pode revisar informações detalhadas dos resultados de um aplicativo Publisher Atestado na página documentos da Microsoft criada para seu aplicativo. Todos os aplicativos que tenham concluído Publisher atestado ou Microsoft 365 certificação serão listados, e cada listagem mostrará claramente qual nível no programa de conformidade foi atingido.
+O desenvolvedor pode revisar informações detalhadas dos resultados de um aplicativo Publisher Atestado na página de documentos da Microsoft criada para seu aplicativo. Todos os aplicativos que tenham concluído Publisher atestado ou Microsoft 365 certificação serão listados, e cada listagem mostrará claramente qual nível no programa de conformidade foi atingido.
 
 **Consulte a [listagem mipa](https://docs.microsoft.com/microsoft-365-app-certification/teams/iglobe-mipa-your-personal-assistant?pivots=mcas) para um exemplo de um aplicativo que concluiu o Publisher Atestado.** 
 
 ## <a name="learn-more"></a>Saiba mais
 
-* [Microsoft 365 Visão geral do programa de conformidade do aplicativo](~/overview.md)
+* [Microsoft 365 visão geral do programa de conformidade de aplicativos](~/overview.md)
 * [O que é Publisher Verificação](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)
-* [Concluir Publisher Atestado](~/docs/attestation.md)  
+* [Obter um Atestado do Publisher](~/docs/attestation.md)  
 * [O que é Microsoft 365 Certificação?](~/docs/enterprise-app-certification-guide.md)

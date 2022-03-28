@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Reach, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c58462500079df7f7b8b2736eec9289443df4a4c
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: 59022602a3102344dd130a1d6782464d9fa836ef
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753741"
+ms.locfileid: "63773652"
 ---
 # <a name="reach"></a>Reach
 
@@ -54,15 +54,15 @@ Essas informações foram fornecidas pelo LiveTiles sobre como esse aplicativo c
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Listar [todas as permissões Graph microsoft que](/graph/permissions-reference) este aplicativo exige.
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| TeamsActivity.Send | aplicação | none | none | [a7c1920d-3ac0-42db-9757-078a2b321fd8 ](../azure/a7c1920d-3ac0-42db-9757-078a2b321fd8.md ) |
->| User.Read | delegado | User DisplayName, User Email Address, UPN. Necessário para permitir que os usuários entre no aplicativo e recebam informações básicas do usuário in-loco, como o nome para exibição. O endereço de email é usado para enviar notificações por email.  | User DisplayName, User Email Address, UPN. Necessário para permitir que os usuários entre no aplicativo e recebam informações básicas do usuário in-loco, como o nome para exibição. O endereço de email é usado para enviar notificações por email.  | [d492530a-8cff-481c-90da-9c3c3f1be7da](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md) |
->| User.ReadBasic.All | delegado | User DisplayName, User Email Address, UPN, User Department, User Job Title, User Mobile Telefone Number, User Business Telefone Number, User Office Location. Necessário para permitir que os usuários pesquisam outros usuários dentro do aplicativo (Phonebook) e consulte as informações básicas de perfil e contato de outros usuários.  | none | [d492530a-8cff-481c-90da-9c3c3f1be7da](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md) |
->| Directory.Read.All | aplicação | Associação a grupos, grupos de AD no Diretório. A associação de grupo de usuários é armazenada em um cache para minimizar as chamadas para a API Graph Microsoft. Necessário para permitir que os usuários pesquisem grupos do Active Directory. Além disso, essa permissão é necessária para que o aplicativo resolva a associação de grupo do AD de usuários em trabalhos da Web do back-end. | Associação de grupo de usuários. A associação de grupo de usuários é armazenada em um cache para minimizar as chamadas para a API Graph Microsoft. Necessário para permitir que os usuários pesquisem grupos do Active Directory. Além disso, essa permissão é necessária para que o aplicativo resolva a associação de grupo do AD de usuários em trabalhos da Web do back-end.  | [d492530a-8cff-481c-90da-9c3c3f1be7da ](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md ) |
->| User.Read.All | aplicação | Os dados recuperados do perfil de usuário dependem da configuração do recurso de Direcionamento de Público especificado no aplicativo. Necessário para permitir que o aplicativo leia perfis de usuário sem um usuário assinado. A leitura de dados de perfil é necessária para o recurso de direcionamento de informações dentro do aplicativo, para que as informações são exibidas para usuários específicos com base em um valor de propriedade de perfil específico.  | none | [d492530a-8cff-481c-90da-9c3c3f1be7da ](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md ) |
+>| TeamsActivity.Send | aplicação | none | none | a7c1920d-3ac0-42db-9757-078a2b321fd8 |
+>| User.Read | delegado | User DisplayName, User Email Address, UPN. Necessário para permitir que os usuários entre no aplicativo e recebam informações básicas do usuário in-loco, como o nome para exibição. O endereço de email é usado para enviar notificações por email.  | User DisplayName, User Email Address, UPN. Necessário para permitir que os usuários entre no aplicativo e recebam informações básicas do usuário in-loco, como o nome para exibição. O endereço de email é usado para enviar notificações por email.  | d492530a-8cff-481c-90da-9c3c3f1be7da |
+>| User.ReadBasic.All | delegado | User DisplayName, User Email Address, UPN, User Department, User Job Title, User Mobile Telefone Number, User Business Telefone Number, User Office Location. Necessário para permitir que os usuários pesquisam outros usuários dentro do aplicativo (Phonebook) e consulte as informações básicas de perfil e contato de outros usuários.  | none | d492530a-8cff-481c-90da-9c3c3f1be7da |
+>| Directory.Read.All | aplicação | Associação a grupos, grupos de AD no Diretório. A associação de grupo de usuários é armazenada em um cache para minimizar as chamadas para a API Graph Microsoft. Necessário para permitir que os usuários pesquisem grupos do Active Directory. Além disso, essa permissão é necessária para que o aplicativo resolva a associação de grupo do AD de usuários em trabalhos da Web do back-end. | Associação de grupo de usuários. A associação de grupo de usuários é armazenada em um cache para minimizar as chamadas para a API Graph Microsoft. Necessário para permitir que os usuários pesquisem grupos do Active Directory. Além disso, essa permissão é necessária para que o aplicativo resolva a associação de grupo do AD de usuários em trabalhos da Web do back-end.  | d492530a-8cff-481c-90da-9c3c3f1be7da |
+>| User.Read.All | aplicação | Os dados recuperados do perfil de usuário dependem da configuração do recurso de Direcionamento de Público especificado no aplicativo. Necessário para permitir que o aplicativo leia perfis de usuário sem um usuário assinado. A leitura de dados de perfil é necessária para o recurso de direcionamento de informações dentro do aplicativo, para que as informações são exibidas para usuários específicos com base em um valor de propriedade de perfil específico.  | none | d492530a-8cff-481c-90da-9c3c3f1be7da |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -106,7 +106,7 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36551' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36551' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36551" target="_blank">Exibir em uma nova guia</a>
 

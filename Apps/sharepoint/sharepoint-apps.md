@@ -3,17 +3,17 @@ title: Microsoft SharePoint Apps Segurança e Conformidade - Todos os Aplicativo
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/17/2022
+ms.date: 03/23/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos SharePoint Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 66433eb54bf05965fb4a762a84f64d666d8c423a
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 887651563cf6fdb420768a623ce9618b9c7b8c78
+ms.sourcegitcommit: 7c03de919310456c10f7cc3685f83d40cac504de
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63540067"
+ms.lasthandoff: 03/24/2022
+ms.locfileid: "63778275"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint Aplicativos de Segurança e Conformidade
 
@@ -36,6 +36,8 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Lightning Tools Lightning Conductor](./lightning-tools-conductor.md) | Ferramentas Do Relâmpago | **✓** |  |
 | [officeatwork - Selador de modelo para SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Colaboração do Power BI](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
+| [SharePoint-sapiens Gerenciamento de Treinamento de Funcionários](./sharepointsapiens-employee-training-management.md) | SharePointSapiens | **✓** |  |
+| [SharePoint-sapiens Event Management](./sharepointsapiens-event-management.md) | SharePointSapiens | **✓** |  |
 | [Reserva de Eventos Mais Inteligentes](./smarter-business-solutions-gmbh-event-booking.md) | GmbH soluções de negócios mais inteligentes | **✓** |  |
 | [Fóruns de Discussão No Quadrado Social](./lightning-tools-social-squared-discussion-forums.md) | Ferramentas Do Relâmpago | **✓** |  |
 | [Taxonomia](./accuracy-software-inc-taxonomy.md) | Accuracy Software Inc. | **✓** |  |

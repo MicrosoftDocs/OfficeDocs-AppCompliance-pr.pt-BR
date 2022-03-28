@@ -178,6 +178,10 @@
           href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
         - name: Colaboração do Power BI
           href: sharepoint/ataira-power-bi-collaboration.md
+        - name: SharePoint| gerenciamento de treinamento de funcionários SharePoint|sapiens
+          href: sharepoint/sharepointsapiens-employee-training-management.md
+        - name: SharePoint| gerenciamento de eventos do SharePoint|sapiens
+          href: sharepoint/sharepointsapiens-event-management.md
         - name: Reserva de Eventos Mais Inteligentes
           href: sharepoint/smarter-business-solutions-gmbh-event-booking.md
         - name: Fóruns de Discussão No Quadrado Social
@@ -1600,6 +1604,8 @@
           href: azure/9430520a-241f-4a00-b041-56aa8bbc9cc9.md
         - name: 950aa4fb-0583-4b13-9b5f-bbc92b9cc376
           href: azure/950aa4fb-0583-4b13-9b5f-bbc92b9cc376.md
+        - name: 959a79dd-69d0-4d05-b9a8-b9f02e28c049
+          href: azure/959a79dd-69d0-4d05-b9a8-b9f02e28c049.md
         - name: 95a2eca4-fb4b-4488-8ba8-6bacf3812c76
           href: azure/95a2eca4-fb4b-4488-8ba8-6bacf3812c76.md
         - name: 95fb5da0-6ced-4247-9d62-294f8fcb75df

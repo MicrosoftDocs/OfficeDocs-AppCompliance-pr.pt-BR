@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o PandaDoc, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7cfd701c52bfc076fb1352bac439479426bc8475
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 32e31e9939444901b3c5cf44ac512d1958c13cd2
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63549669"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64458244"
 ---
 # <a name="pandadoc"></a>PandaDoc
 
@@ -169,8 +169,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 >| Files.Read | ambos | para o usuário sso de Tab (exemplo - https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs). Necessário para obter um token de usuário com acesso à Microsoft Graph e obter ainda mais arquivos de usuário. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Files.Read.All | ambos | para o usuário sso de Tab (exemplo - https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs). Necessário para obter um token de usuário com acesso à Microsoft Graph e obter ainda mais arquivos de usuário. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Files.Read.Selected | ambos | para o usuário sso de Tab (exemplo - https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs). Necessário para obter um token de usuário com acesso à Microsoft Graph e obter ainda mais arquivos de usuário. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
->| Group.Read.All | ambos | para obter uma lista de IDs de canais para cada comando recebido anteriormente e obter as IDs de unidades de arquivo para cada canal. Documentação - https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
->| Group.ReadWrite.All | ambos | para obter uma lista de IDs de canais para cada comando recebido anteriormente e obter as IDs de unidades de arquivo para cada canal. Documentação - https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Group.Read.All | ambos | para obter uma lista de IDs de canais para cada comando recebido anteriormente e obter as IDs de unidades de arquivo para cada canal. Documentação - https://docs.microsoft.com/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Group.ReadWrite.All | ambos | para obter uma lista de IDs de canais para cada comando recebido anteriormente e obter as IDs de unidades de arquivo para cada canal. Documentação - https://docs.microsoft.com/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Team.ReadBasic.All | ambos | para obter IDs das equipes Microsoft Teams que o usuário é um membro direto. Depois disso, receber canais para cada identificador de comando. Para obter as IDs do cofre de arquivos, primeiro precisa obter uma lista das equipes inseridas pelo usuário. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| TeamSettings.Read.All | ambos | Para obter IDs das equipes Microsoft Teams que o usuário é um membro direto. Depois disso, receber canais para cada identificador de comando. Para obter as IDs do cofre de arquivos, primeiro precisa obter uma lista das equipes inseridas pelo usuário. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| TeamSettings.ReadWrite.All | ambos | ou obter IDs das equipes Microsoft Teams que o usuário é um membro direto. Depois disso, receber canais para cada identificador de comando. Para obter as IDs do cofre de arquivos, primeiro precisa obter uma lista das equipes inseridas pelo usuário. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |

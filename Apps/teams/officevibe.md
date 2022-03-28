@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Officevibe, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c96f4bc23b5f1201567276c64de7ff411746c105
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: fffda2392deb49081516387a0987d9ff711f327d
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753729"
+ms.locfileid: "63773502"
 ---
 # <a name="officevibe"></a>Officevibe
 
@@ -54,15 +54,15 @@ Essas informações foram fornecidas pelo Officevibe sobre como esse aplicativo 
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Listar [todas as permissões Graph microsoft que](/graph/permissions-reference) este aplicativo exige.
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| Group.Read.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| TeamsAppInstallation.ReadWriteForUser | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| User.Read | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| User.Read.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| Directory.AccessAsUser.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| Group.Read.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| TeamsAppInstallation.ReadWriteForUser | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| User.Read | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| User.Read.All | delegado | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | Email, Nome, Imagem: Para criar o usuário no Officevibe. Grupo vinculado a todos os usuários: Para ter uma visão geral da organização. Nome do locatário de ID &amp; do locatário: para configurar a organização no Officevibe | 3e500164-df82-4d1e-9db8-0901e07d374d |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
@@ -106,7 +106,7 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160" target="_blank">Exibir em uma nova guia</a>
 
