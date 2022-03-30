@@ -8,13 +8,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para C.AI Bot de Adoção, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f6d3bb6be48681db6e0e710d150457d4fd95caec
-ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 750a7eda8df6fd17b2e8ebea6f1595fb188a4af9
+ms.sourcegitcommit: 2cada3fb44667dce080d5cb4ca93b113e8ec57c1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/22/2022
-ms.locfileid: "63698281"
+ms.lasthandoff: 03/26/2022
+ms.locfileid: "64487822"
 ---
 # <a name="cai-adoption-bot"></a>Bot de Adoção C.AI
 
@@ -160,13 +160,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | aplicação | Disponibilidade do usuário podendo enviar dicas no momento certo e não durante os horários de foco, por exemplo | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
->| ChannelMessage.Read.All | aplicação | Microsoft Teams metadados de canal, como Private ou not or amount of conversations per channel to analyze usage of Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
->| Chat.Read.All | aplicação | Microsoft Teams metadados de chat, como se uma mensagem foi curtida ou quantos chats de grupo e 1:1 existem para analisar o uso de Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
->| Directory.Read.All | aplicação | ID do objeto do usuário para poder enviar dicas para especificar o usuário posteriormente. | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
->| Group.Read.All | aplicação | Microsoft Teams metadados, como quantidade de Teams e canais para analisar o uso de Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
->| Mail.Read | aplicação | A Microsoft Exchange metadados, como a quantidade de emails e emails de grupo versus 1:1 para analisar o uso de Exchange (em comparação com Teams) | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
->| User.Read.All | aplicação | Microsoft Teams metadados de chat e conversa, como se um usuário fosse mencionado para analisar o uso de Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
+>| Calendars.Read | aplicativo | Disponibilidade do usuário podendo enviar dicas no momento certo e não durante os horários de foco, por exemplo | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
+>| ChannelMessage.Read.All | aplicativo | Microsoft Teams metadados de canal, como Private ou not or amount of conversations per channel to analyze usage of Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
+>| Chat.Read.All | aplicativo | Microsoft Teams metadados de chat, como se uma mensagem foi curtida ou quantos chats de grupo e 1:1 existem para analisar o uso de Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
+>| Directory.Read.All | aplicativo | ID do objeto do usuário para poder enviar dicas para especificar o usuário posteriormente. | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
+>| Group.Read.All | aplicativo | Microsoft Teams metadados, como quantidade de Teams e canais para analisar o uso de Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
+>| Mail.Read | aplicativo | A Microsoft Exchange metadados, como a quantidade de emails e emails de grupo versus 1:1 para analisar o uso de Exchange (em comparação com Teams) | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
+>| User.Read.All | aplicativo | Microsoft Teams metadados de chat e conversa, como se um usuário fosse mencionado para analisar o uso de Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
 
 >Este aplicativo não tem APIs adicionais.
 
@@ -174,3 +174,39 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>Informações de certificação
+
+| **Control** | **Microsoft 365 resultado da certificação** |
+|:------------|:---------------------------------------|
+| [**SEGURANÇA DO APLICATIVO**](../docs/certification-submission-guide.md#application-security) | **PASS** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testes de penetração | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Análise de Avaliação de Vulnerabilidade (TESTE DE PENETRAÇÃO/SAST/DAST) | No Escopo |
+| [**SEGURANÇA OPERACIONAL**](../docs/certification-submission-guide.md#operational-security) | **PASS** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra Malware - Antivírus | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra Malware - Controle de Aplicativos | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Patch - Classificação de Risco | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Patch - Patching | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Verificação de vulnerabilidade | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firewall - Firewalls (ou tecnologias equivalentes) | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firewall - WaFs (Firewalls de Aplicativo Web) (Opcional) | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alterar Controle | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvimento/implantação de software seguro | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Contas | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Detecção e prevenção contra intrusões (opcional) | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Log de Eventos de Segurança | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Revisão (Dados de Log) | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alerta de eventos de segurança | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Riscos de Segurança da Informação | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resposta a incidentes | No Escopo |
+| [**PRIVACIDADE DE SEGURANÇA DE TRATAMENTO DE &amp; DADOS**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **PASS** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados em Trânsito | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados em repouso | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retenção e descarte de dados | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Acesso a Dados | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RGPD | No Escopo |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
