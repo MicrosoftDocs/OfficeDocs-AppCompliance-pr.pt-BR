@@ -2,18 +2,19 @@
 title: Informações do aplicativo para a fatura e o rastreamento de tempo - Fatura do Zoho pela Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Invoice e Time Tracking - Zoho Invoice, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cc7454e5f1181637f2ecacbf510c8191d51da0e7
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 65d71d027c2101c5332a9070e641300e77a39081
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428183"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461364"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>Invoice and Time Tracking - Zoho Invoice
 
@@ -29,7 +30,7 @@ ms.locfileid: "60428183"
 
 Informações fornecidas pela Zoho Corporation Private Limited à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Invoice and Time Tracking - Zoho Invoice |
 | ID | WA104381067 |
@@ -51,25 +52,25 @@ Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Listar [todas as permissões Graph microsoft que](/graph/permissions-reference) este aplicativo exige.
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Contacts.Read | delegado |  |  Permitir que os usuários sincronizem contatos do Office365 com a Fatura do Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| Mail.Read | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| Mail.Send | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.Export.All | delegado |  | Permitir que o usuário exporte todas as informações relacionadas ao usuário. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.Read.All | delegado |  | Permitir que os usuários se inscrevam e leiam o perfil de usuário. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.ReadBasic.All | delegado |  | Permitir que os usuários importem usuários do Office365 para o Zoho. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| email | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| perfil | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Contacts.Read | delegado |  |  Permitir que os usuários sincronizem contatos do Office365 com a Fatura do Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Mail.Read | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Mail.Send | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Export.All | delegado |  | Permitir que o usuário exporte todas as informações relacionadas ao usuário. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Read.All | delegado |  | Permitir que os usuários se inscrevam e leiam o perfil de usuário. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.ReadBasic.All | delegado |  | Permitir que os usuários importem usuários do Office365 para o Zoho. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| email | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| perfil | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 
 
@@ -83,7 +84,7 @@ Quaisquer informações de identificação organizacional (OII) ou informações
 
 Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política de usuário final, etc.
 
->Os dados serão buscados somente após o consentimento do usuário. O acesso lógico aos servidores é fornecido por meio de uma rede dedicada &amp; isolada e é altamente protegido e monitorado. Essa rede é protegida com Firewall, 2- Autenticação de Fator e Kerberos Authent
+>Os dados serão buscados somente após o consentimento do usuário. O acesso lógico aos servidores é fornecido por meio de uma rede &amp; dedicada isolada e é altamente protegido e monitorado. Essa rede é protegida com Firewall, 2- Autenticação de Fator e Kerberos Authent
 
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -94,7 +95,7 @@ Descrever como os administradores da organização podem controlar suas informa�
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/28305' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/28305' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/28305" target="_blank">Exibir em uma nova guia</a>
 

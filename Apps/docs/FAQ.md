@@ -2,26 +2,27 @@
 title: Publisher Perguntas frequentes sobre atestado
 author: LGerrard
 ms.author: Legerrar
+manager: tonybal
 description: Publisher Perguntas frequentes sobre atestado
 keywords: app attestation certification 365 questionnaire appSource
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 44898296bede4b34837ee18726164a636cc05824aa1710f273a4cc822b448953
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: ee18e15e802b87f069ebe8390931a52e497813e0
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54747691"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461754"
 ---
 # <a name="publisher-attestation-faq"></a>Publisher Perguntas frequentes sobre atestado
 
 |Pergunta                                       |Definição expandida                          |
 |----------------------------------------       |---------------------------------------------|
-|ID de origem do aplicativo | É o número ou caracteres entre o / e o ? quando você clica na listagem appSource. Ele com um guid, um sortimento de números/letras ou começará com WA. Para encontrar o seu vá para appsource.com seu aplicativo e na url são os caracteres entre /e ?                                                Ex:https://appsource.microsoft.com/product/office/WA200001454? |
+|ID de origem do aplicativo | É o número ou caracteres entre o / e o ? quando você clica na listagem appSource. Ele com um guid, um sortimento de números/letras ou começará com WA. Para encontrar o seu vá para appsource.com encontrar seu aplicativo e na url são os caracteres entre /e ?                                                Ex:https://appsource.microsoft.com/product/office/WA200001454? |
 |O que é a URL do site da empresa?   |A URL de uma homepage para a empresa ou aplicativo|
 |Qual é a URL da página de informações do aplicativo? |A URL de uma página que explica mais informações sobre o aplicativo. Onde o usuário pode saber mais sobre o aplicativo? Se você não tiver essa página, marque N/A. |
 |Categoria do aplicativo? |Classificação do aplicativo de acordo com o campo ao qual ele se relaciona |
-|Como você descreveria os principais serviços de seus aplicativos em 500 charaters ou menos?|Descreva o aplicativo em 500 caracteres ou menos, incluindo todas as suas integrações na família de aplicativos. Exemplo. Se você tiver uma Teams e uma integração de Outlook não dê uma descrição específica sobre o aplicativo Teams, em vez de dar uma descrição aplicável a ambos os aplicativos. Essa deve ser uma descrição muito geral e não específica da carga de trabalho se a empresa tiver mais de uma integração para qualquer plataforma ex. Slack, Outlook, Teams, Aplicativo Web, aplicativo móvel. |
+|Como você descreveria os principais serviços de seus aplicativos em 500 charaters ou menos?|Descreva o aplicativo em 500 caracteres ou menos, incluindo todas as suas integrações na família de aplicativos. Exemplo. Se você tiver uma Teams e uma integração Outlook não dê uma descrição específica sobre o aplicativo Teams, em vez de dar uma descrição aplicável a ambos os aplicativos. Essa deve ser uma descrição muito geral e não específica da carga de trabalho se a empresa tiver mais de uma integração para qualquer plataforma ex. Slack, Outlook, Teams, Aplicativo Web, aplicativo móvel. |
 |Qual país é a sede da empresa do desenvolvedor?|Isso é necessário conforme se relaciona às práticas e regulamentos de tratamento de dados para diferentes países/regiões. |
 |Em que ano sua empresa foi criada?|Se você não for incorporado, marque como N/A.|
 |Quais são os domínios exclusivos usados pelo aplicativo?|A cadeia de caracteres de identificação do provedor que define seu domínio de autonomia administrativa, autoridade ou controle dentro da Internet. A resposta deve incluir endereços da Web. Em caso de vários, separe-se com uma vírgula.|
@@ -31,20 +32,20 @@ ms.locfileid: "54747691"
 |Permissão Graph Microsoft|Aqui está a lista de permissões aceitáveis. https://docs.microsoft.com/graph/permissions-reference#directory-permissions |
 |Quais IDs de Aplicativos do Azure são usadas por este aplicativo?|O Azure AD atribui uma ID de aplicativo ou cliente exclusivo ao seu aplicativo. O portal https://portal.azure.com/ abre a página Visão Geral do aplicativo. Para adicionar recursos ao seu aplicativo, você pode selecionar outras opções de configuração, incluindo identidade visual, certificados e segredos, permissões de API e muito mais. |
 |Qual é o tipo de permissão?|"As permissões delegadas são usadas por aplicativos que têm um usuário de acesso presente. Para esses aplicativos, o usuário ou um administrador concorda com as permissões que o aplicativo solicita e o aplicativo pode agir como o usuário conectado ao fazer chamadas ao Microsoft Graph. Algumas permissões delegadas podem ser autorizadas por usuários não administradores, mas algumas permissões com maiores privilégios exigem o consentimento do administrador.                                As permissões de aplicativo são usadas pelos aplicativos que são executados sem um usuário conectado. Por exemplo, aplicativos executados em segundo plano ou como daemons. As permissões de aplicativo só podem ser concedidas por um administrador.                                                                           https://docs.microsoft.com/graph/auth/auth-concepts#microsoft-graph-permissions"|
-|Quais dados são coletados ou usados?  Adicione justificativa para coletar ou usar os dados.|Exemplos podem ser encontrados em nossa página de documentos, , clique em um aplicativo, clique em Tratamento de Dados Você pode ver https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-apps exemplos de outras justificativas. |
+|Quais dados são coletados ou usados?  Adicione justificativa para coletar ou usar os dados.|Exemplos podem ser encontrados em nossa página de documentos, https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-apps, clique em um aplicativo, clique em Tratamento de Dados Você pode ver exemplos de outras justificativas. |
 |Quais dados o aplicativo armazena em seus bancos de dados?  Adicione justificativa para armazenar dados, incluindo cenários e exemplos quando aplicável. |Isso é atestado para um aplicativo Teams com uma funcionalidade de bot?https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots|
 |O bot pode acessar informações de identificação pessoal (PII)?|PII é qualquer dado que pode ser usado para identificar uma pessoa específica. Exemplo. Nome, endereço de email.|
-|Adicione justificativa para acessar PII.|Exemplos podem ser encontrados em nossa página de documentos, , clique em um aplicativo, clique em Tratamento de Dados Você pode ver exemplos de outras justificativasno acesso a dados por https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-apps meio de bots.|
+|Adicione justificativa para acessar PII.|Exemplos podem ser encontrados em nossa página de documentos, https://docs.microsoft.com/microsoft-365-app-certification/teams/teams-apps, clique em um aplicativo, clique em Tratamento de Dados Você pode ver exemplos de outras justificativasno acesso a dados por meio de bots.|
 |Qual PII está sendo armazenado?|Informações de identificação pessoal (PII) são todos os dados que podem ser usados para identificar uma pessoa específica. Exemplo. Nome, endereço de email.|
 |Adicione justificativa para armazenar PII.|Por que as informações de identificação pessoal precisam ser armazenadas? |
 |Listar todas as informações de identificação organizacional (OII) que o aplicativo coleta por meio dessas APIs. |OII é qualquer dado que pode ser usado para identificar uma organização/locatário. Exemplo. ID do locatário ou endereço IP, dados de uso do locatário, nome de domínio do locatário no endereço de email (joe@contoso.com).|
 |Quais tipos de OII armazenarão o aplicativo?|Informações de identificação organiaztional (OII) são todos os dados que podem ser usados para identificar uma organização/locatário. Exemplo. ID do locatário ou endereço IP, dados de uso do locatário, nome de domínio do locatário no endereço de email (joe@contoso.com).|
 |Adicione justificativa para armazenar OII.|Por que as informações de identificação organizacional precisam ser armazenadas? |
 |Você transfere ou compartilha informações de identificação do usuário final (EUII) ou OII com não serviços Microsoft?|EUII é qualquer dado que pode ser usado para identificar dados do cliente. Exemplo. Nome de usuário do funcionário ou ID, informações de local de uma pessoa, endereço IP específico do usuário. |
-|Listar todos os serviços Microsoft que você transfere OII para.|Exemplo. Google Cloud, AWS|
+|Listar todas as serviços Microsoft que você transferir OII para.|Exemplo. Google Cloud, AWS|
 |Descrever como os administradores da organização podem controlar suas informações em sistemas parceiros?|Exemplo. Criptografia, 2FA|
 |Os usuários podem classificar dados dentro do aplicativo? |Exemplo. Restrito, Confidencial, Interal, Público |
-|Autenticação multifator|A Autenticação Multifafatória (MFA) é um sistema de segurança que verifica a identidade de um usuário exigindo várias credenciais. Em vez de apenas pedir um nome de usuário e senha, o MFA requer outras credenciais adicionais, como um código do smartphone do usuário, a resposta a uma pergunta de segurança, uma impressão digital ou reconhecimento facial.|
+|Autenticação de vários fatores|A Autenticação Multifafatória (MFA) é um sistema de segurança que verifica a identidade de um usuário exigindo várias credenciais. Em vez de apenas pedir um nome de usuário e senha, o MFA requer outras credenciais adicionais, como um código do smartphone do usuário, a resposta a uma pergunta de segurança, uma impressão digital ou reconhecimento facial.|
 |Restrição de endereços IP específicos?|As configurações de restrição de IP são usadas para limitar ou dar acesso aos quais os IPs podem acessar recursos específicos dentro do serviço. Para aplicativos que suportam restrição de IP, um administrador da organização pode limitar quais endereços IP qualquer usuário na organização pode usar para acessar o sistema por meio da interface do usuário ou APIs. |
 |Trilhas de auditoria por conta de usuário|Trilhas de auditoria são os registros eletrônicos que catalogam cronologicamente eventos ou procedimentos para fornecer suporte, documentação e histórico, que são usados para autenticar ações operacionais e de segurança ou mitigar desafios. A trilha de auditoria do usuário incluirá informações sobre atividades do usuário, como tentativas de logon, acesso a arquivos, etc.|
 |Trilhas de auditoria de administrador no aplicativo| A trilha de auditoria de administrador incluirá atividades de administrador, como concessão de novas permissões, alteração de configurações, chamadas de API, etc.|
@@ -87,7 +88,7 @@ ms.locfileid: "54747691"
 
 ## <a name="learn-more"></a>Saiba mais
 
-* [Microsoft 365 Visão geral do programa de conformidade do aplicativo](~/overview.md)  
-* [Concluir Publisher Verificação](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
+* [Microsoft 365 visão geral do programa de conformidade de aplicativos](~/overview.md)  
+* [Executar a Verificação do Publisher](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
 * [O que Publisher atestado?](~/docs/enterprise-app-attestation-guide.md)  
-* [Concluir Microsoft 365 Certificação](~/docs/certification.md)
+* [Certificação Microsoft 365 Completa](~/docs/certification.md)

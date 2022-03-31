@@ -2,29 +2,30 @@
 title: Guia do usuário
 author: LGerrard
 ms.author: legerrar
+manager: tonybal
 description: Guia do usuário isv para Microsoft 365 de conformidade de aplicativos
 keywords: Guia do usuário isv para Microsoft 365 de conformidade de aplicativos
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 2b2b84cec3be5167d67733a89ba13fa411a0e781
-ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
+ms.openlocfilehash: e76655384acfe0ae65721c11c6f1e789a598bc3e
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61787854"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461504"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>Guia do usuário do parceiro para Microsoft 365 De conformidade de aplicativos
 
-|Fase|Título|
+|Fase|Cargo|
 |---|---|
 |Fase 1| Atestado do Editor|
 |Fase 2| Certificação Microsoft 365|
 
 ## <a name="1-overview"></a>1. Visão geral
-Este documento atua como um guia de usuário passo a passo para nossos parceiros inscritos no programa de Conformidade de Aplicativos do Microsoft 365 visando Publisher atestado e certificação, embora o portal do Partner Center.
+Este documento atua como um guia de usuário passo a passo para nossos parceiros inscritos no programa de Conformidade de Aplicativos do Microsoft 365 com o objetivo de se submeter Publisher Atestado e Certificação, embora o portal do Partner Center.
 
 
-## <a name="2-acronyms--definitions"></a>2. Acrônimos & Definições
+## <a name="2-acronyms--definitions"></a>2. Acrônimos & definições
 | Acronym |Definição |
 |---|----|
 |PC [(Partner Center)](https://partner.microsoft.com/)|Um portal para todos os parceiros da Microsoft. Um parceiro faz login no Partner Center e envia um questionário de autoavaliação. [Partner Center](https://partner.microsoft.com/dashboard/home) for Microsoft 365 App Compliance|
@@ -33,7 +34,7 @@ Este documento atua como um guia de usuário passo a passo para nossos parceiros
 |Exemplo|[Agora agente virtual](https://appsource.microsoft.com/product/office/WA104381816)|
 
 
-## <a name="3---publisher-attestation-workflow"></a>3. Publisher Fluxo de Trabalho de Atestado
+## <a name="3---publisher-attestation-workflow"></a>3. Publisher fluxo de trabalho de atestado
 
 **Home Page** : essa é a página inicial quando um parceiro faz logo depois de entrar no Partner Center.
 
@@ -41,13 +42,13 @@ Este documento atua como um guia de usuário passo a passo para nossos parceiros
 
 ![Marketplace Comercial no Partner Center](../media/NewPChomepage.png)
   
-**Etapa 2:** depois de selecionar 'Ofertas do Marketplace', alterne para 'Office Store'. Selecione um aplicativo na lista para iniciar o Publisher atestado.
+**Etapa 2**: depois de selecionar 'Ofertas do Marketplace', alterne para 'Office Store'. Selecione um aplicativo na lista para iniciar o processo Publisher atestado.
 
 ![Selecionar um aplicativo no Marketplace Comercial](../media/NewPCoffersComm.png)
 
 Ao selecionar um aplicativo, outra barra de navegação será pop-up com a opção "Informações adicionais de certificação" e clique em 'Conformidade do aplicativo'.
   
-**Etapa 3:** Selecione 'Conformidade do aplicativo'
+**Etapa 3**: Selecione 'Conformidade do aplicativo'
 
 ![Selecionar Conformidade do Aplicativo](../media/PCappcompliance3.png)
 
@@ -63,7 +64,7 @@ Você também pode aproveitar o recurso Importação/Exportação para concluir 
 
 ![Importar Recurso de Exportação](../media/UserGuidePhotos/06.png)
 
-**Etapa 5:** depois de concluída, clique em "Enviar", a avaliação agora será "Em Revisão".
+**Etapa 5**: depois de concluída, clique em "Enviar", a avaliação agora será "Em Revisão".
 
 ![Clique em Sumbit](../media/UserGuidePhotos/07.png)
 
@@ -71,12 +72,12 @@ Você também pode aproveitar o recurso Importação/Exportação para concluir 
 
 ### <a name="approvereject-scenarios"></a>Aprovar/rejeitar cenários:
 
-**R. Publisher atestado de rejeição**
+**R. Publisher Atestado de Rejeição**
 
 - Em caso de rejeição neste estágio, um parceiro pode:
     - Exibir relatório de falha
          - O parceiro será notificado por email e poderá exibir o relatório de falha no Partner Center
-    - Atualizar e re-enviar Publisher Atestado
+    - Atualizar e enviar novamente Publisher Atestado
 
 ![Atualizar e reabrir a avaliação](../media/UserGuidePhotos/09.png)
 
@@ -97,7 +98,7 @@ Você também pode aproveitar o recurso Importação/Exportação para concluir 
 ![Exemplo de atestado concluído](../media/UserGuidePhotos/12.png)
 
 
-## <a name="4-microsoft-365-certification-workflow"></a>4. Microsoft 365 fluxo de trabalho de certificação
+## <a name="4-microsoft-365-certification-workflow"></a>4. Microsoft 365 Fluxo de Trabalho de Certificação
 
 Um parceiro pode começar o processo de Certificação selecionando a caixa de seleção e clicando em "Enviar" 
 
@@ -105,8 +106,8 @@ Um parceiro pode começar o processo de Certificação selecionando a caixa de s
 
 **Etapa 1:** Envio inicial de documento Preencha todos os detalhes, carregue documentos relevantes e Clique em 'Enviar'
 
-![Envio ](../media/UserGuidePhotos/14.png)
- ![ Inicial do Envio Inicial 2](../media/UserGuidePhotos/15.png)
+![Envio InicialInitial](../media/UserGuidePhotos/14.png)
+![ 2](../media/UserGuidePhotos/15.png)
 
 Ao clicar em enviar, o envio de atestado estará sob revisão. 
 
@@ -120,9 +121,9 @@ Depois que o analista aprovar o envio inicial do documento, o parceiro precisar�
 
 **Etapa 2:** Envio de Requisitos de Controle Preencha todos os detalhes, carregue documentos relevantes e Clique em 'Enviar' 
 
-![Requisitos de controle ](../media/UserGuidePhotos/18.png)
- ![ completos Upload ](../media/UserGuidePhotos/19.png)
- ![ requisitos de controle de garantia de evidência estão concluídos](../media/UserGuidePhotos/20.png)
+![Requisitos de controle completos](../media/UserGuidePhotos/18.png)
+![ Upload os requisitos de controle EvidenceAssure](../media/UserGuidePhotos/19.png)
+![ estão concluídos](../media/UserGuidePhotos/20.png)
 
 Ao clicar em Enviar, o envio de certificação estará sob revisão. 
 
@@ -130,9 +131,9 @@ Ao clicar em Enviar, o envio de certificação estará sob revisão.
 
 Um analista solicita uma revisão caso os documentos de requisitos de controle não sejam suficientes ou relevantes. O analista trabalhará com o parceiro para ajudar a obter os documentos certos para aprovação. 
 
-![Evidências precisam ser atualizadas ](../media/UserGuidePhotos/22.png)
- ![ Entenda quais evidências precisam atualizar Evidências ](../media/UserGuidePhotos/23.png)
- ![ em revisão](../media/UserGuidePhotos/24.png)
+![Evidências precisam atualizarUnderstand](../media/UserGuidePhotos/22.png)
+![ quais evidências precisam atualizarEvidence](../media/UserGuidePhotos/23.png)
+![ em revisão](../media/UserGuidePhotos/24.png)
 
 Caso o envio não atenda aos padrões de aprovação, o analista rejeitará o envio. O parceiro pode trabalhar com o analista para fornecer as informações e documentos relevantes. 
 
@@ -142,17 +143,17 @@ Depois que todos os padrões de segurança foram atendidos, o analista aprovará
 
 ![Envio aprovado](../media/UserGuidePhotos/26.png)
 
-**Aprovação pós-certificação: exemplo de Microsoft 365 selo de certificação no AppSource**
+**Aprovação pós-certificação: exemplo Microsoft 365 selo de certificação no AppSource**
 
 ![Exemplo de selo de certificação](../media/UserGuidePhotos/27.png)
 
 ## <a name="5---microsoft-365-renewal-workflow"></a>5. Microsoft 365 Fluxo de Trabalho de Renovação:
   
-**Microsoft 365 Publisher Fluxo de Trabalho de** Renovação de Certificação e Atestado: Microsoft 365 Programa de Conformidade de Aplicativos agora oferece um processo de renovação anual. Durante esse processo, os desenvolvedores de aplicativos podem atualizar seus questionários de Publisher de Atestado e documentos necessários para Microsoft 365 Certificação. 
+**Microsoft 365 Publisher Fluxo de Trabalho de Renovação de Certificação e Atestado:** Microsoft 365 Programa de Conformidade de Aplicativos agora oferece um processo de renovação anual. Durante esse processo, os desenvolvedores de aplicativos podem atualizar seus questionários de Publisher de Atestado e documentos necessários para Microsoft 365 Certificação. 
  
 **Benefícios:** 
 
-- Mantenha seu selo de certificação no AppSource, Teams Store, Office Store e outras frentes de armazenamento para diferenciar o aplicativo. 
+- Mantenha seu selo de certificação no AppSource, na Teams Store, na Office Store e em outras frentes de loja para diferenciar o aplicativo. 
 - Aumente a confiança do cliente em usar seu aplicativo certificado. 
 - Ajude os administradores de IT a tomar decisões informadas com informações atualizadas de certificação. 
 
@@ -162,11 +163,11 @@ O processo de renovação está disponível no [Partner Center](https://partner.
 
 O novo processo de renovação está disponível no [Partner Center](https://partner.microsoft.com/dashboard/home) para proporcionar uma experiência perfeita. Um lembrete de renovação será mostrado no Partner Center a partir de 90 dias antes da data de expiração. Lembretes periódicos também serão enviados por email em 90, 60 e 30 dias antes da expiração. 
 
-**Etapa 1:** Selecione **Renovar** para renovar o Publisher Atestado. 
+**Etapa 1**: Selecione **Renovar** para renovar o Publisher Atestado. 
 
 ![Microsoft 365Publisher Fluxo de Trabalho de Renovação de Certificação e Atestado ](../media/UserGuidePhotos/28.png)
 
-**Etapa 2:** revise as respostas Publisher atestados anteriores e atualize com as informações mais recentes conforme necessário. Envie Publisher Atestado para renovação quando estiver pronto. Ele será revisado por um Microsoft 365 de conformidade de aplicativos.
+**Etapa 2**: Revise as respostas Publisher atestados anteriores e atualize com as informações mais recentes conforme necessário. Envie Publisher Atestado para renovação quando estiver pronto. Ele será revisado por um Microsoft 365 de conformidade de aplicativos.
 
 ![Atualizar o Publisher Atestado](../media/UserGuidePhotos/29.png)
 
@@ -174,7 +175,7 @@ O novo processo de renovação está disponível no [Partner Center](https://par
 
 ![Publisher Atestado Renovado](../media/UserGuidePhotos/30.png)
 
-**Publisher** Atestado Expirado: as informações do aplicativo precisam ser renovadas antes da data de expiração para manter a página de atestado de Publisher do aplicativo nos documentos da Microsoft. A renovação em tempo há tempo também garantirá a continuidade de badging e ícones para o aplicativo no AppSource, Teams Store, Office Store e outras frentes de loja.
+**Publisher** Atestado Expirado: as informações do aplicativo precisam ser renovadas antes da data de expiração para manter a página de atestado de Publisher do aplicativo nos documentos da Microsoft. A renovação em tempo há tempo também garantirá a continuação de badging e ícones para o aplicativo no AppSource, Teams Store, Office Store e outras frentes de loja.
 
 ![Publisher Atestado Expirado](../media/UserGuidePhotos/31.png)
 
@@ -215,7 +216,7 @@ Renovação de certificação aprovada
 As informações do aplicativo precisam ser renovadas antes da data de expiração para manter a página de Certificação do aplicativo nos documentos da Microsoft. A renovação em tempo há tempo também garantirá a continuação de badging e ícones para o aplicativo no AppSource e na Loja de Equipes.
 
 
-As informações do aplicativo precisam ser renovadas antes da data de expiração para manter a página de Certificação do aplicativo nos documentos da Microsoft. A renovação em tempo há tempo também garantirá a continuidade de badging e ícones para o aplicativo no AppSource, Teams Store, Office Store e outras frentes de loja. 
+As informações do aplicativo precisam ser renovadas antes da data de expiração para manter a página de Certificação do aplicativo nos documentos da Microsoft. A renovação em tempo há tempo também garantirá a continuação de badging e ícones para o aplicativo no AppSource, Teams Store, Office Store e outras frentes de loja. 
 
 ![Renovação de Certificação Expirada](../media/UserGuidePhotos/36.png)
     

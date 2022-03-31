@@ -2,18 +2,19 @@
 title: Informações do aplicativo para ServiceDesk Plus para Email pela Zoho Corporation Private Limited
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o ServiceDesk Plus for Email, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0ccf0b8f7a17077bbf468369779e70335ac8e7e5
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: f41cd7e3b578b3eea68a8d83c8bc8f39c64f2735
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60439262"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462124"
 ---
 # <a name="servicedesk-plus-for-email"></a>ServiceDesk Plus para Email
 
@@ -29,7 +30,7 @@ ms.locfileid: "60439262"
 
 Informações fornecidas pela Zoho Corporation Private Limited à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | ServiceDesk Plus para Email |
 | ID | WA104381518 |
@@ -51,26 +52,26 @@ Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Listar [todas as permissões Graph microsoft que](/graph/permissions-reference) este aplicativo exige.
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.ReadWrite | aplicação |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| Files.Read | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| Files.Read.Selected | delegado |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.Read | delegado | ID de email do usuário. | Permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.Read.All | aplicação |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| User.ReadBasic.All | delegado | ID de email, Nome, ID do Funcionário, Cargo, Telefone, Celular, Site, Departamento, Localidade, Foto de perfil do usuário. | Permite importar informações básicas dos usuários Azure Active Directory. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| email | delegado | ID de email do usuário. | Exibir o endereço de email do usuário. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| offline_access | delegado |  | Mantenha acesso aos dados aos que você lhe deu acesso. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| perfil | delegado |  | Exibir o perfil básico do usuário. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Calendars.ReadWrite | aplicativo |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read.Selected | delegado |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Read | delegado | ID de email do usuário. | Permite que o usuário entre e dê acesso ao aplicativo ao UPN para habilitar o logon silencioso. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.Read.All | aplicativo |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.ReadBasic.All | delegado | ID de email, Nome, ID do Funcionário, Cargo, Telefone, Celular, Site, Departamento, Localidade, Foto de perfil do usuário. | Permite importar informações básicas dos usuários Azure Active Directory. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| email | delegado | ID de email do usuário. | Exibir o endereço de email do usuário. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| offline_access | delegado |  | Mantenha acesso aos dados aos que você lhe deu acesso. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| perfil | delegado |  | Exibir o perfil básico do usuário. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 
 
@@ -95,7 +96,7 @@ Descrever como os administradores da organização podem controlar suas informa�
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/18802" target="_blank">Exibir em uma nova guia</a>
 
