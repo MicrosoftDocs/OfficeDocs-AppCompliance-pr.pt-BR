@@ -3,24 +3,24 @@ title: Informações de aplicativo para CoffeePals pela CoffeePals Technologies 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/27/2021
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para CoffeePals, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2863be05be41765c8100f8742f955eca2e8ff122
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: e22a10adaee82fd82d8a85be3caa51d2d5f28c96
+ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63546489"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "64596240"
 ---
 # <a name="coffeepals"></a>CoffeePals
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 9 de julho de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 28 de março de 2022</p>
 
 * <a href="https://teams.microsoft.com/l/app/0905c41d-9f67-4ab7-8d94-4e2da3d2ff08" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003040" target="_blank">Exibir no AppSource</a>
@@ -42,8 +42,8 @@ Informações fornecidas pela CoffeePals Technologies Inc. à Microsoft:
 | Funcionalidade principal do aplicativo | CoffeePals emparelha pessoas aleatoriamente para se reunir e conversar para formar conexões pessoais. Ele incluirá outros recursos que permitem que os funcionários se conectem melhor. |
 | Localização da sede da empresa | Canadá |
 | Página de informações do aplicativo | [https://coffeepals.co/product](https://coffeepals.co/product) |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws, MongoDB, Heroku |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,8 +57,17 @@ Essas informações foram fornecidas pela CoffeePals Technologies Inc. sobre com
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
+| Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
+| Quais dados são armazenados em seus bancos de dados? | Dados de Perfil de Usuário, Dados de uso do usuário, Endereço de Email do Usuário, Histórico de Match do Usuário, Configurações, Organização Configurações, Nome da Organização, Nome da Equipe, Avatar da Organização, Dados de Relatório de Match, Foto do Perfil de Usuário, Associação à equipe do usuário, Comentários do Usuário |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
+| Você tem um processo estabelecido de locação e descarte de dados? | Não |
+| Por quanto tempo os dados são mantidos após o término da conta? | Menos de 90 dias |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Não |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Sim |
+| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -70,25 +79,25 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você realiza testes de penetração anual no aplicativo? | Sim |
+| Você realiza testes de penetração anual no aplicativo? | Não |
 | O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? |  |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? |  |
-| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? |  |
-| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? |  |
-| Seu ambiente tem algum software ou sistemas operacionais sem suporte? |  |
-| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? |  |
-| Você tem um firewall instalado no limite de rede externo? |  |
-| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? |  |
-| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? |  |
-| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? |  |
-| Autenticação multifator (MFA) habilitada para: |  |
-| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? |  |
-| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? |  |
-| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? |  |
-| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | |
-| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? |  |
-| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? |  |
+| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | TraditionalAntiMalware |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Não |
+| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Não |
+| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Não |
+| Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Não |
+| Você tem um firewall instalado no limite de rede externo? | Não |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
+| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Sim |
+| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Não |
+| Autenticação multifator (MFA) habilitada para: | CodeRepositories, Credential |
+| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
+| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | Não |
+| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
+| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim|
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Não |
+| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Não |
 | Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
 | Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
@@ -118,7 +127,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
 | O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
 | O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
-| O aplicativo está em conformidade com o NIST 800-171? |  |
+| O aplicativo está em conformidade com o NIST 800-171? | N/D |
 | O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -129,16 +138,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? |  |
-| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? |  |
-| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? |  |
-| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? |  |
-| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? |  |
-| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? |  |
-| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? |  |
-| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? |  |
-| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? |  |
-| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? |  |
+| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Sim |
+| URL da Política de Privacidade | https://coffeepals.co/privacy |
+| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
+| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
+| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
+| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Não |
+| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
+| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -148,14 +158,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Não |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
-| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? |  |
+| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | Sim |
 | Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
-| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) |  |
-| Seu aplicativo armazena alguma credencial no código? |  |
-| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
+| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Não |
+| Seu aplicativo armazena alguma credencial no código? | Não |
+| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
 
 >Esse aplicativo não usa o Microsoft Graph.
 

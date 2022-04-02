@@ -3,17 +3,17 @@ title: Microsoft Word Segurança e Conformidade de Aplicativos - Todos os Aplica
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/25/2022
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft Word Apps.
 localization_priority: Normal
-ms.openlocfilehash: b6f94b73e5089d8ab479e6647e8cdd982ebcf304
-ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
+ms.openlocfilehash: 8c1d89ebfe48d5a9052d0116bb9a972db0dd38c7
+ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64460794"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "64597050"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word Segurança e Conformidade de Aplicativos
 
@@ -21,13 +21,14 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 
 | **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Adobe Acrobat Sign for Word and PowerPoint](./adobe-inc-acrobat-sign-for-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Adobe Acrobat Sign for Microsoft Word and PowerPoint](./adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [AuditBoard Add-in](./auditboard-inc-add-in.md) | Auditboard, Inc. | **✓** |  |
 | [Citasion](./citasion-llc.md) | Citasion LLC | **✓** |  |
 | [CocoFax - Envio de fax facilitado &amp;](./cocofax-sending-fax-made-easysecure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |
 | [Excel automação de documentos para Word](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Fabasoft Cloud Office Add-in](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
+| [Editor de PDF do Foxit para Microsoft Word, Excel e PowerPoint](./foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md) | Foxit Software Inc. | **✓** |  |
 | [Assinaturas de Impressão](./impression-signatures.md) | Assinaturas de Impressão | **✓** |  |
 | [LegalMind Word AddIn](./legalmind-word-addin.md) | LegalMind | **✓** |  |
 | [Software de revisão de contrato do Loio](./loio-inc-contract-review-software.md) | Loio Inc. | **✓** |  |

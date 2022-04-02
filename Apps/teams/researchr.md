@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para researcHR, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d9190b5c268a2ff73f204e3c81015532b1b3e4df
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: ec1149c58d7c7b5c77243af43b529fa6434e5520
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63543419"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64463594"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -161,13 +161,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.Create | aplicação | Usamos esse escopo para permitir que nosso bot crie um novo canal no Teams cliente. Consulte: https://docs.microsoft.com/en-us/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Directory.Read.All | aplicação | Usamos esse escopo para obter as IDs de canal e os nomes para exibir esses dados em nosso site. Consulte: https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Group.Read.All | aplicação | Usamos esse escopo para obter as IDs de canal e os nomes para exibir esses dados em nosso site. Consulte: https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Team.ReadBasic.All | aplicação | Usamos esse escopo para obter os membros da equipe para que os usuários possam ver seus membros da equipe em nosso site. Consulte: https://docs.microsoft.com/en-us/graph/api/group-list-members | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| User.Read.All | aplicação | Usamos esse escopo para obter os canais ingressáveis do usuário para que os usuários possam ver suas equipes ingressáveis em nosso site. Consulte: https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| User.ReadBasic.All | delegado | Usamos esse escopo para habilitar o logon OAuth e coletar a ID de AAD do usuário, o token de acesso e o token de atualização. Consulte: https://docs.microsoft.com/en-us/graph/auth-v2-user | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| offline_access | delegado | Usamos esse escopo para obter o token de atualização para que possamos atualizar o token de acesso dos usuários authed sem nenhuma interação do usuário. Consulte: https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Channel.Create | aplicativo | Usamos esse escopo para permitir que nosso bot crie um novo canal no Teams cliente. Consulte: https://docs.microsoft.com/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Directory.Read.All | aplicativo | Usamos esse escopo para obter as IDs de canal e os nomes para exibir esses dados em nosso site. Consulte: https://docs.microsoft.com/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Group.Read.All | aplicativo | Usamos esse escopo para obter as IDs de canal e os nomes para exibir esses dados em nosso site. Consulte: https://docs.microsoft.com/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Team.ReadBasic.All | aplicativo | Usamos esse escopo para obter os membros da equipe para que os usuários possam ver seus membros da equipe em nosso site. Consulte: https://docs.microsoft.com/graph/api/group-list-members | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.Read.All | aplicativo | Usamos esse escopo para obter os canais ingressáveis do usuário para que os usuários possam ver suas equipes ingressáveis em nosso site. Consulte: https://docs.microsoft.com/graph/api/user-list-joinedteams | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.ReadBasic.All | delegado | Usamos esse escopo para habilitar o logon OAuth e coletar a ID de AAD do usuário, o token de acesso e o token de atualização. Consulte: https://docs.microsoft.com/graph/auth-v2-user | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| offline_access | delegado | Usamos esse escopo para obter o token de atualização para que possamos atualizar o token de acesso dos usuários authed sem nenhuma interação do usuário. Consulte: https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#offline_access | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

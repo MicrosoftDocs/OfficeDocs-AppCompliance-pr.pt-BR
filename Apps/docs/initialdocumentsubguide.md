@@ -2,16 +2,17 @@
 ms.author: oromalle
 title: Microsoft 365 certificação - Guia inicial de envio de documentos
 author: orionomalley
+manager: tonybal
 description: Microsoft 365 exibição granular do Guia de Envio de Certificação
 keywords: equipes de certificação de aplicativos Microsoft 365 conformidade de segurança m365 envio de documento inicial
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 0f879ce6b02fb469b0210500e4706d468ccb4011
-ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
+ms.openlocfilehash: 66afcbd482ee1269ce21e2af6fdeea5026b294ee
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2021
-ms.locfileid: "61261673"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64463274"
 ---
 # <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 Ceritification - Guia inicial de envio de documentos
 
@@ -71,7 +72,7 @@ Documentação listando todas as dependências usadas pelo aplicativo/complement
 |Dependências da Web|  Versão atual em uso|
 |-|-|
 |JQuery|    3.5.1|
-|Reagir| 16.13.1|
+|React| 16.13.1|
 |Bootstrap| 4.5.2|
 |Express|   4.17.1|
 |Angular|   10.0.14|
