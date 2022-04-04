@@ -3,17 +3,17 @@ title: Microsoft Excel Segurança e Conformidade de Aplicativos - Todos os Aplic
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/24/2022
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft Excel Apps.
 localization_priority: Normal
-ms.openlocfilehash: f0e281d946560d3ef13c0019870894e2eddc4722
-ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
+ms.openlocfilehash: 96fc0b13706789f9532b23fca2ca7814e0c8d013
+ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64462167"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "64601690"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel Segurança e Conformidade de Aplicativos
 
@@ -25,6 +25,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [CloudExtend Analytics para NetSuite](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  |
 | [Excel automação de documentos para Word](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Forbury](./forbury-property.md) | Propriedade Forbury | **✓** |  |
+| [Editor de PDF do Foxit para Microsoft Word, Excel e PowerPoint](./foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md) | Foxit Software Inc. | **✓** |  |
 | [Assinaturas de Impressão](./impression-signatures.md) | Assinaturas de Impressão | **✓** |  |
 | [Nuvem Jira para Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
 | [MeaningCloud Text Analytics for Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |

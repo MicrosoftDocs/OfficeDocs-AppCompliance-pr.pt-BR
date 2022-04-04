@@ -3,17 +3,17 @@ title: Azure App informações de ID do 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/26/2022
+ms.date: 03/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.
-ms.openlocfilehash: 86f6952abd488af8db2df851b138344541ead191
-ms.sourcegitcommit: 890a5b31f2a31a7747d88f0f3f203c0551440293
+ms.openlocfilehash: 7074036c2e0e1e274c2f0ee322c9c3221d3ad0ee
+ms.sourcegitcommit: 64860967a2baa3b08445ad7e186e46ce529efb13
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 03/29/2022
-ms.locfileid: "64513246"
+ms.locfileid: "64527192"
 ---
 # <a name="azure-app-id-6f5cab29-c1ad-4048-bf96-fdbe54dba6ba"></a>Azure App ID: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba
 

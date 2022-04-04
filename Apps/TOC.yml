@@ -197,8 +197,6 @@
       items:
         - name: 10xGoals
           href: teams/xto10x-technologies-10xgoals.md
-        - name: 1Page
-          href: teams/oayaw-inc-1page.md
         - name: 365-QA
           href: teams/advantive-365-qa.md
         - name: 365Projects
@@ -477,8 +475,6 @@
           href: teams/springrole-engagewith.md
         - name: enmacc
           href: teams/enmacc.md
-        - name: EQ em todos os lugares
-          href: teams/humantelligence-eq-everywhere.md
         - name: Expresso
           href: teams/solutions2share-gmbh-espresso.md
         - name: eTeamer
@@ -555,8 +551,6 @@
           href: teams/goodera.md
         - name: GoToConnect
           href: teams/logmein-inc-gotoconnect.md
-        - name: GRATICA
-          href: teams/okwave-inc-gratica.md
         - name: Grupo Catálogo de Endereços - NextSet
           href: teams/nextsetinc-group-address-book-nextset.md
         - name: GroupLotse
@@ -815,8 +809,6 @@
           href: teams/perflo.md
         - name: Arquivador de Fotos
           href: teams/ichicraft-photo-filer.md
-        - name: Plandisc
-          href: teams/plandisc.md
         - name: Calendário do Planyway para o Trello
           href: teams/rubius-planyway-calendar-for-trello.md
         - name: PlayQuiz - Aprende e Juega
@@ -1332,8 +1324,6 @@
           href: azure/084b4a43-c386-443d-ae90-bf9a3fc2995e.md
         - name: 086ae3fb-fdf0-4c49-8c38-57d082b00dc4
           href: azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md
-        - name: 08da38c2-089b-4c58-9995-60bc2ca54561
-          href: azure/08da38c2-089b-4c58-9995-60bc2ca54561.md
         - name: 094f3986-3951-4f0c-88fa-514d117c8dd0
           href: azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md
         - name: 0a1b7ca8-390e-4f55-a7b5-eee089c5a905
@@ -1816,8 +1806,6 @@
           href: azure/d76f016f-52c7-41b5-835b-900361d7040c.md
         - name: d7db1079-6f45-4373-bb2b-ae5d71169b31
           href: azure/d7db1079-6f45-4373-bb2b-ae5d71169b31.md
-        - name: d7e20ef1-fc4b-42e0-a74f-a3c9a806aa73
-          href: azure/d7e20ef1-fc4b-42e0-a74f-a3c9a806aa73.md
         - name: d863a24b-7cdd-46c9-8309-a15878f4f7bf
           href: azure/d863a24b-7cdd-46c9-8309-a15878f4f7bf.md
         - name: d871e46e-e346-445d-bfe8-2a66419bf278
