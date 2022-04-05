@@ -7,14 +7,8 @@ ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para a Nuvem de Confluência, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: 'Todas as informações de segurança e conformidade disponíveis para a Nuvem de Confluência, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0ce3c1464a4933de72d1a69a49432c986f1679cd
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63547459"
 ---
 # <a name="confluence-cloud"></a>Nuvem de Confluência
 
@@ -39,8 +33,7 @@ Informações fornecidas pela Atlassian para a Microsoft:
 | Nome da empresa de parceiro | Atlassian |
 | Site da empresa | [https://www.atlassian.com](https://www.atlassian.com) |
 | Termos de uso do aplicativo | [https://www.atlassian.com/licensing/marketplace/termsofuse](https://www.atlassian.com/licensing/marketplace/termsofuse) |
-| Funcionalidade principal do aplicativo | Leve facilmente anotações de reunião, compartilhe páginas e mantenha-se atualizado com a Nuvem de Confluência para Teams.
- |
+| Funcionalidade principal do aplicativo | Leve facilmente anotações de reunião, compartilhe páginas e mantenha-se atualizado com a Nuvem de Confluência para Teams.  |
 | Localização da sede da empresa | Austrália |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
@@ -87,11 +80,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? |  |
 | Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? |  |
 | Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? |  |
-| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? |  |
 | Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? |  |
 | Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
-| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

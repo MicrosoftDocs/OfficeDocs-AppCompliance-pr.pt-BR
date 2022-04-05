@@ -3,17 +3,11 @@ title: Microsoft SharePoint Apps Segurança e Conformidade - Todos os Aplicativo
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/23/2022
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos SharePoint Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 887651563cf6fdb420768a623ce9618b9c7b8c78
-ms.sourcegitcommit: 7c03de919310456c10f7cc3685f83d40cac504de
-ms.translationtype: MT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2022
-ms.locfileid: "63778275"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint Aplicativos de Segurança e Conformidade
 
@@ -21,7 +15,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 
 | **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Adobe Acrobat Sign for SharePoint](./adobe-inc-acrobat-sign-for-sharepoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Adobe Acrobat Sign for Microsoft Office SharePoint Online](./adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ArcGIS para SharePoint](./esri-inc-arcgis-for-sharepoint.md) | Esri, Inc. | **✓** |  |
 | [Sistema de Gerenciamento de Ofertas](./beyond-technologies-bid-management-system.md) | Além das tecnologias | **✓** |  |
 | [Bizagi Webparts](./bizagi-team-webparts.md) | Equipe Bizagi | **✓** |  |
@@ -32,12 +26,13 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Complementos do iGlobe CRM](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [IGlobe CRM Office 365 para Microsoft Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Konnect eMail Parser](./konnect-email-parser.md) | Konnect eMail | **✓** |  |
-| [LifeWorks Viva Connections](./lifeworks-inc-viva-connections.md) | Lifeworks Inc | **✓** |  |
+| [LifeWorks Conexões do Viva](./lifeworks-inc-viva-connections.md) | Lifeworks Inc | **✓** |  |
 | [Lightning Tools Lightning Conductor](./lightning-tools-conductor.md) | Ferramentas Do Relâmpago | **✓** |  |
 | [officeatwork - Selador de modelo para SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Colaboração do Power BI](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [SharePoint-sapiens Gerenciamento de Treinamento de Funcionários](./sharepointsapiens-employee-training-management.md) | SharePointSapiens | **✓** |  |
 | [SharePoint-sapiens Event Management](./sharepointsapiens-event-management.md) | SharePointSapiens | **✓** |  |
+| [SharePoint-sapiens interface de usuário moderna](./sharepointsapiens-modern-user-interface.md) | SharePointSapiens | **✓** |  |
 | [Reserva de Eventos Mais Inteligentes](./smarter-business-solutions-gmbh-event-booking.md) | GmbH soluções de negócios mais inteligentes | **✓** |  |
 | [Fóruns de Discussão No Quadrado Social](./lightning-tools-social-squared-discussion-forums.md) | Ferramentas Do Relâmpago | **✓** |  |
 | [Taxonomia](./accuracy-software-inc-taxonomy.md) | Accuracy Software Inc. | **✓** |  |

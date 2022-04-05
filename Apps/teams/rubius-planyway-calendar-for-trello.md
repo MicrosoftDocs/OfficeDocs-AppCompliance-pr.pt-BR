@@ -7,14 +7,8 @@ ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Planyway Calendar para Trello, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: 'Todas as informações de segurança e conformidade disponíveis para Planyway Calendar para Trello, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5936b0c382642d1e614803928111e14a38ab1a5e
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
-ms.translationtype: MT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753776"
 ---
 # <a name="planyway-calendar-for-trello"></a>Calendário do Planyway para o Trello
 
@@ -108,8 +102,24 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
 | O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | {
-  &quot;&quot;CMP08_complianceSOC_1: &quot;Na&quot; } | | Data de certificação SOC1 mais recente |   | | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Nenhuma | | Qual certificação do SOC 2 você atingiu? | | | Data de certificação SOC2 mais recente | | | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Nenhuma | | Data de certificação SOC3 mais recente | | | Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Nenhuma | | O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Nenhuma | | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | { &quot;CMP16_complianceISO_27018&quot;: &quot;Na&quot; } | | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Nenhuma | | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Nenhuma | | O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Nenhuma | | O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/A | | O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/A | | O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/A | | O aplicativo está em conformidade com o NIST 800-171? |  | | O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Nenhuma |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Na |
+| Data de certificação SOC1 mais recente |   |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
+| Qual certificação do SOC 2 você atingiu? | |
+| Data de certificação SOC2 mais recente | |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
+| Data de certificação SOC3 mais recente | |
+| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Não |
+| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Na |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
+| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
+| O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
+| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
+| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
+| O aplicativo está em conformidade com o NIST 800-171? |  |
+| O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

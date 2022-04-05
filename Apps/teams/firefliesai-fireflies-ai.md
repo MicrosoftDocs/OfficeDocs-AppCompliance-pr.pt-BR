@@ -7,14 +7,8 @@ ms.date: 11/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para a AI fireflies, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: 'Todas as informações de segurança e conformidade disponíveis para a AI fireflies, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: adb01db25dd012daa05e231121cc98cd2d97bc2e
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63541739"
 ---
 # <a name="fireflies-ai"></a>Fireflies AI
 
@@ -39,9 +33,11 @@ Informações fornecidas pelo Fireflies.ai para a Microsoft:
 | Nome da empresa de parceiro | Fireflies.ai |
 | Site da empresa | [https://fireflies.ai](https://fireflies.ai) |
 | Termos de uso do aplicativo | [https://fireflies.ai/terms-of-service.pdf](https://fireflies.ai/terms-of-service.pdf) |
-| Funcionalidade principal do aplicativo | Fireflies é um assistente de reunião que registra, transcreve e faz anotações de suas reuniões.
-
- | | Local da sede da empresa | Estados Unidos da América | | Página de informações do aplicativo | [https://app.fireflies.ai/integrations/collaboration/microso...](https://app.fireflies.ai/integrations/collaboration/microsoft-teams) | | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas | | Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP |
+| Funcionalidade principal do aplicativo | Fireflies é um assistente de reunião que registra, transcreve e faz anotações de suas reuniões. |
+| Localização da sede da empresa | Estados Unidos da América |
+| Página de informações do aplicativo | [https://app.fireflies.ai/integrations/collaboration/microso...](https://app.fireflies.ai/integrations/collaboration/microsoft-teams) |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -1,43 +1,43 @@
 ---
-title: Informações do aplicativo para Clypp por Zesavi GmbH
+title: Informações do aplicativo para EQ em todos os lugares por Humantelligence
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 03/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 'Todas as informações de segurança e conformidade disponíveis para o Clypp, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.'
+description: 'Todas as informações de segurança e conformidade disponíveis para eQ em todos os lugares, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
 ---
-# <a name="clypp"></a>Clypp
+# <a name="eq-everywhere"></a>EQ em todos os lugares
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 30 de março de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 25 de março de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/34ed2c1e-bccf-463d-8fbc-0403e72e89fc" target="_blank">Exibir no Teams store</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003621" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/4082650b-ff26-4eae-b0af-ac0bed45228d" target="_blank">Exibir no Teams store</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002650" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Zesavi GmbH à Microsoft:
+Informações fornecidas pela Humantelligence à Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Clypp |
-| ID | WA200003621 |
+| Nome do aplicativo | EQ em todos os lugares |
+| ID | WA200002650 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Zesavi GmbH |
-| Site da empresa | [https://getclypp.com](https://getclypp.com) |
-| Termos de uso do aplicativo | [https://getclypp.com/en/terms-of-use/](https://getclypp.com/en/terms-of-use/) |
-| Funcionalidade principal do aplicativo | O Clypp permite que todos em sua empresa criem, editem &amp; documentos de vídeo curtos diretamente no navegador da Internet. |
-| Localização da sede da empresa | Alemanha |
-| Página de informações do aplicativo | [https://getclypp.com/en/](https://getclypp.com/en/) |
+| Nome da empresa de parceiro | Humantelligence |
+| Site da empresa | [https://humantelligence.com](https://humantelligence.com) |
+| Termos de uso do aplicativo | [https://humantelligence.com/terms/](https://humantelligence.com/terms/) |
+| Funcionalidade principal do aplicativo | Comunique-se mais efetivamente com seus colegas de trabalho usando Humantelligence. |
+| Localização da sede da empresa | Estados Unidos da América |
+| Página de informações do aplicativo | [https://humantelligence.com](https://humantelligence.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outros |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,19 +47,12 @@ Informações fornecidas pelo Zesavi GmbH à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
 
-Essas informações foram fornecidas pelo Zesavi GmbH sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Humantelligence sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | ID do objeto para cada usuário |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Alemanha |
-| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são mantidos após o término da conta? | Não mantido |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -101,16 +94,16 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
-| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
+| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | Não |
+| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Não |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Não |
 | Data de certificação SOC1 mais recente |   |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
 | Qual certificação do SOC 2 você atingiu? | |
 | Data de certificação SOC2 mais recente | |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
 | Data de certificação SOC3 mais recente | |
-| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
+| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Não |
 | O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Não |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | N/D |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
@@ -132,7 +125,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
 | O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Sim |
-| URL da Política de Privacidade | https://getclypp.com/en/privacy-policy/ |
+| URL da Política de Privacidade | https://humantelligence.com/privacy |
 | O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
 | O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
 | Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
@@ -150,9 +143,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | N/D |
+| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Não |
+| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
+| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? |  |
 | Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Não |

@@ -7,14 +7,8 @@ ms.date: 02/14/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Fluxos de Trabalho do Autopilot, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: 'Todas as informações de segurança e conformidade disponíveis para Fluxos de Trabalho do Autopilot, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: bcfcb7cc0675aa859bc7302076e3c2382247d90a
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63540017"
 ---
 # <a name="autopilot-workflows"></a>Fluxos de trabalho do Autopilot
 
@@ -58,7 +52,7 @@ Essas informações foram fornecidas pelas Soluções de Fluxo de Trabalho do Au
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
-| Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| Quais dados são processados pelo aplicativo? | Qual versão de dispositivo e navegador eles usaram |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | ID do locatário do azure de clientes |
@@ -67,7 +61,6 @@ Essas informações foram fornecidas pelas Soluções de Fluxo de Trabalho do Au
 | Por quanto tempo os dados são mantidos após o término da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Não |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -95,11 +88,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Não |
 | Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | Não |
 | Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
-| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Não|
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
 | Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Não |
-| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
-| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

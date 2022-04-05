@@ -3,24 +3,18 @@ title: Informações do aplicativo para Lembrar pela 88 Ventures Limited
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 10/27/2021
+ms.date: 03/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Lembrar, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: 'Todas as informações de segurança e conformidade disponíveis para Lembrar, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 17592dc196ffc2e17e62af60708c718dc68ee523
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63550680"
 ---
 # <a name="remind"></a>Remind
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 27 de outubro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 28 de março de 2022</p>
 
 * <a href="https://teams.microsoft.com/l/app/88546d4f-9973-4716-98e4-cd181c04bc2d" target="_blank">Exibir no Teams store</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001444" target="_blank">Exibir no AppSource</a>
@@ -43,7 +37,7 @@ Informações fornecidas pela 88 Ventures Limited à Microsoft:
 | Localização da sede da empresa | Hong-Kong |
 | Página de informações do aplicativo | [https://teamsreminder.app](https://teamsreminder.app) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outros |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -60,7 +54,7 @@ Essas informações foram fornecidas pela 88 Ventures Limited sobre como esse ap
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | GUID do usuário e nomes de usuário ao lembrar outros usuários |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Alemanha |
+| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Países Baixos (o) |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são mantidos após o término da conta? | Não mantido |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -87,7 +81,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Sim |
 | Você tem um firewall instalado no limite de rede externo? | Sim |
 | Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
-| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Sim |
+| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Não |
 | As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Sim |
 | Autenticação multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
@@ -122,10 +116,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
 | O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
 | O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
-| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | Não |
-| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | Não |
-| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | Não |
-| O aplicativo está em conformidade com o NIST 800-171? | Não |
+| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
+| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
+| O aplicativo está em conformidade com o NIST 800-171? | N/D |
 | O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -169,6 +163,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 >|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Directory.Read.All | delegado | Usado quando um administrador procura usuários para atribuí-los a licenças. O uso desse recurso é totalmente opcional e não é necessário durante o uso normal do aplicativo. | [88546d4f-9973-4716-98e4-cd181c04bc2d](../azure/88546d4f-9973-4716-98e4-cd181c04bc2d.md) |
+>| People.Read.All | delegado | Usado quando um usuário deseja atribuir usuários a uma licença | [88546d4f-9973-4716-98e4-cd181c04bc2d](../azure/88546d4f-9973-4716-98e4-cd181c04bc2d.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

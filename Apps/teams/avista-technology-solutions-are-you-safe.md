@@ -7,16 +7,10 @@ ms.date: 03/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Are You Cofre?, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: 'Todas as informações de segurança e conformidade disponíveis para Are You Cofre?, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9ce230b1df25af298b9aea9fdc2fd0dec82904b5
-ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
-ms.translationtype: MT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64463631"
 ---
-# <a name="are-you-safe"></a>Você está Cofre?
+# <a name="are-you-safe"></a>Você Está Seguro?
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +27,7 @@ Informações fornecidas pelas Soluções de Tecnologia do Avista para a Microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Você está Cofre? |
+| Nome do aplicativo | Você Está Seguro? |
 | ID | WA200003863 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa de parceiro | Soluções Tecnológicas Avista |
@@ -85,11 +79,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
 | Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | N/D |
 | Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Não |
-| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
 | Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Não |
-| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
-| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Sim |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

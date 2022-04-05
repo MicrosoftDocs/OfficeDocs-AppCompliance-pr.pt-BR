@@ -7,14 +7,8 @@ ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para 365Projects, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: 'Todas as informações de segurança e conformidade disponíveis para 365Projects, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6a55ea670ee4fa1a1aed5c0968d477245e2a5712
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63541339"
 ---
 # <a name="365projects"></a>365Projects
 
@@ -39,8 +33,7 @@ Informações fornecidas pelo 365Apps para a Microsoft:
 | Nome da empresa de parceiro | 365Apps |
 | Site da empresa | [https://365apps.com.au](https://365apps.com.au) |
 | Termos de uso do aplicativo | [https://365projects.app/eula](https://365projects.app/eula) |
-| Funcionalidade principal do aplicativo | Reunir seus projetos Microsoft Teams &amp; juntos
-Criar Project,conectá-lo ao canal existente/novo |
+| Funcionalidade principal do aplicativo | Reunir seus projetos Microsoft Teams &amp; criar Project, conectá-lo ao canal existente/novo |
 | Localização da sede da empresa | Austrália |
 | Página de informações do aplicativo | [https://365projects.app](https://365projects.app) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
@@ -66,7 +59,6 @@ Essas informações foram fornecidas pelo 365Apps sobre como esse aplicativo col
 | Por quanto tempo os dados são mantidos após o término da conta? | Não mantido |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -94,11 +86,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Não |
 | Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | N/D |
 | Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
-| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim|
+| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Não |
 | Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Não |
-| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
-| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
