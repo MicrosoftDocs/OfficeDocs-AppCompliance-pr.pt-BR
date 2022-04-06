@@ -1,21 +1,21 @@
 ---
-title: Informações da ID do Aplicativo do Azure para 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba
+title: Azure App informações de ID do 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 04/01/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.
-ms.openlocfilehash: cbfbd52dc339551c8286784e95ffa13e46537185
-ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
+ms.openlocfilehash: 9bdceefa31ceaf00c1ac4a6c2fb201bc02ee4cd0
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "64601510"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64626313"
 ---
-# <a name="azure-app-id-6f5cab29-c1ad-4048-bf96-fdbe54dba6ba"></a>ID do aplicativo do Azure: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba
+# <a name="azure-app-id-6f5cab29-c1ad-4048-bf96-fdbe54dba6ba"></a>Azure App ID: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba
 
 
 ### <a name="apps-associated-with-this-id"></a>Aplicativos associados a essa ID:
