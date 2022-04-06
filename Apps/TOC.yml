@@ -33,7 +33,7 @@
           href: excel/impression-signatures.md
         - name: Nuvem Jira para Excel
           href: excel/atlassiancom-jira-cloud-for-excel.md
-        - name: MeaningCloud Text Analytics for Excel
+        - name: MeaningCloud Análise de Texto para Excel
           href: excel/meaningcloud-text-analytics-for-excel.md
         - name: Office2SharePoint para Office
           href: excel/iglobe-office2sharepoint-for-office.md
@@ -172,7 +172,7 @@
           href: sharepoint/iglobe-crm-office-365-for-microsoft.md
         - name: Konnect eMail Parser
           href: sharepoint/konnect-email-parser.md
-        - name: LifeWorks Viva Connections
+        - name: LifeWorks Conexões do Viva
           href: sharepoint/lifeworks-inc-viva-connections.md
         - name: Lightning Tools Lightning Conductor
           href: sharepoint/lightning-tools-conductor.md
@@ -197,6 +197,8 @@
       items:
         - name: 10xGoals
           href: teams/xto10x-technologies-10xgoals.md
+        - name: 1Page
+          href: teams/oayaw-inc-1page.md
         - name: 365-QA
           href: teams/advantive-365-qa.md
         - name: 365Projects
@@ -215,7 +217,7 @@
           href: teams/appfluence-inc-agenda-boss.md
         - name: Aimful
           href: teams/aimful.md
-        - name: Interpretação de Akouo
+        - name: interpretação do Akouo
           href: teams/akouo-technologies-inc-interpretation.md
         - name: ' Assistente de Autoatendimento de liga '
           href: teams/alloy-software-self-service-assistant.md
@@ -239,7 +241,7 @@
           href: teams/appspace-inc.md
         - name: ArcGIS Maps
           href: teams/esri-arcgis-maps.md
-        - name: Você está Cofre?
+        - name: Você Está Seguro?
           href: teams/avista-technology-solutions-are-you-safe.md
         - name: ARGUSnylar
           href: teams/argus-data-insights-schweiz-ag-argusnylar.md
@@ -475,6 +477,8 @@
           href: teams/springrole-engagewith.md
         - name: enmacc
           href: teams/enmacc.md
+        - name: EQ em todos os lugares
+          href: teams/humantelligence-eq-everywhere.md
         - name: Expresso
           href: teams/solutions2share-gmbh-espresso.md
         - name: eTeamer
@@ -551,6 +555,8 @@
           href: teams/goodera.md
         - name: GoToConnect
           href: teams/logmein-inc-gotoconnect.md
+        - name: GRATICA
+          href: teams/okwave-inc-gratica.md
         - name: Grupo Catálogo de Endereços - NextSet
           href: teams/nextsetinc-group-address-book-nextset.md
         - name: GroupLotse
@@ -699,6 +705,8 @@
           href: teams/mentimeter.md
         - name: Lembrete de Mensagem
           href: teams/message-reminder.md
+        - name: MetaMeeting
+          href: teams/wafer-systems-metameeting.md
         - name: MetaVisitor
           href: teams/wafer-systems-metavisitor.md
         - name: MetaWorkspace
@@ -805,8 +813,10 @@
           href: teams/ooo-rd17-perfect-wiki.md
         - name: Perflo
           href: teams/perflo.md
-        - name: Photo Filer
+        - name: Arquivador de Fotos
           href: teams/ichicraft-photo-filer.md
+        - name: Plandisc
+          href: teams/plandisc.md
         - name: Calendário do Planyway para o Trello
           href: teams/rubius-planyway-calendar-for-trello.md
         - name: PlayQuiz - Aprende e Juega
@@ -1145,8 +1155,6 @@
           href: teams/xmatters-inc.md
         - name: YAROOMS
           href: teams/yarooms.md
-        - name: Yeeflow
-          href: teams/akmii-yeeflow.md
         - name: yuccaHR
           href: teams/yucca-technologies-gmbh-yuccahr.md
         - name: Zignals
@@ -1297,7 +1305,7 @@
           href: saas/wide-ideasidea2innovation-ideas-innovation-software.md
         - name: Assistente
           href: saas/officeatwork-wizard.md
-    - name: IDs do aplicativo do Azure
+    - name: Azure App IDs
       href: azure/azure-apps.md
       items:
         - name: 00485db5-81b3-4299-833a-8d6c366d0ac0
@@ -1806,6 +1814,8 @@
           href: azure/d76f016f-52c7-41b5-835b-900361d7040c.md
         - name: d7db1079-6f45-4373-bb2b-ae5d71169b31
           href: azure/d7db1079-6f45-4373-bb2b-ae5d71169b31.md
+        - name: d863a24b-7cdd-46c9-8309-a15878f4f7bf
+          href: azure/d863a24b-7cdd-46c9-8309-a15878f4f7bf.md
         - name: d871e46e-e346-445d-bfe8-2a66419bf278
           href: azure/d871e46e-e346-445d-bfe8-2a66419bf278.md
         - name: d8843264-a57b-41e3-aea6-b83ea56f6bd6
