@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para MIPA - Meu Assistente Pessoal Inteligente, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 684cd61aec216db5bc60bb92abd2d93963c2138a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 6c7d3349b9fc747d5a8093aff1042894fbd67cf1
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59277544"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64627903"
 ---
 # <a name="mipa---my-intelligent-personal-assistant"></a>MIPA - Meu Assistente Pessoal Inteligente
 
@@ -29,7 +29,7 @@ ms.locfileid: "59277544"
 
 Informações fornecidas pelo iGlobe à Microsoft:
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | MIPA - Meu Assistente Pessoal Inteligente |
 | ID | 17859280.mipa |
@@ -50,7 +50,7 @@ Essas informações foram fornecidas pelo iGlobe sobre como esse aplicativo cole
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
-Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/graph/permissions-reference) este aplicativo exige.
+Listar [todas as permissões Graph microsoft que](/graph/permissions-reference) este aplicativo exige.
 
 >| **Permissão**  | **Tipo de permissão (Delegada/Aplicativo)** | **Os dados são coletados? Justificativa para colecioná-lo?** | **Os dados são armazenados? Justificativa para armazenar isso?** | **ID do aplicativo do Azure AD** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
@@ -62,7 +62,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 >| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| Group.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. Integração ao iGlobe CRM Office 365 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| Mail.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar email sinalizado | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| MailboxSettings.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar inteiros do calendário, ler e atualizar email sinalizado, ler e atualizar Outlook To Do inteiros | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| MailboxSettings.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar inteiros de calendário, ler e atualizar email sinalizado, ler e atualizar Outlook To Do inteiros | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| Tasks.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| User.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | Ler e atualizar todo o calendário, ler e atualizar Outlook fazer entradas, ler, atualizar, criar tarefas de painel | e854ea05-68ab-4204-babe-db4a784fb4d8 |
@@ -75,7 +75,7 @@ Listar [todas as permissões Graph microsoft que](https://docs.microsoft.com/gra
 
 #### <a name="data-access-using-other-microsoft-apis"></a>Acesso a dados usando outras APIs da Microsoft
 
-Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar as APIs da Microsoft que não Graph esse aplicativo usa.
+Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que não Graph microsoft para coletar ou processar informações de identificação organizacional (OII). Listar todas as APIs da Microsoft que não Graph esse aplicativo usa.
 
 >| **API** |  **O OII é coletado?** |  **Qual OII é Coletado?** | **Justificativa para coletar OII?** | **O OII está armazenado?** | **Justificativa para armazenar OII?** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
@@ -93,7 +93,7 @@ Os aplicativos e os Microsoft 365 podem usar APIs adicionais da Microsoft que n�
 
 Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados serão transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
 
->Não serviços Microsoft não são usados.
+>Não-serviços Microsoft não são usados.
 
 
 
@@ -101,7 +101,7 @@ Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço 
 
 Quaisquer informações de identificação organizacional (OII) ou informações de identificação do usuário final (EUII) aparecem na telemetria ou nos logs desse aplicativo? Se sim, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
 
->O iGlobe coleta dados para operar efetivamente e fornecer as melhores experiências com nossos produtos e serviços. Para licenciamento: dados coletados para administrar sua&#8217;de licenciamento, como quando você implanta um Complementos Gratuitos, cria uma assinatura de avaliação ou compra uma assinatura. As informações a seguir são coletadas. 
+>O iGlobe coleta dados para operar efetivamente e fornecer as melhores experiências com nossos produtos e serviços. Para licenciamento: dados coletados para administrar sua organização&#8217;conta de licenciamento, como quando você implanta um Complementos Gratuitos, cria uma assinatura de avaliação ou compra uma assinatura. As informações a seguir são coletadas. 
 - Para fins financeiros: nome da empresa e endereço
 - Usuários inscritos: nome de usuário e email
 
@@ -125,7 +125,7 @@ Os humanos estão envolvidos na revisão ou análise de dados OII (informações
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35699' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security Informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35699' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35699" target="_blank">Exibir em uma nova guia</a>
 
@@ -139,7 +139,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 Essas informações foram fornecidas pelo iGlobe sobre como esse aplicativo lida com autenticação, autorização, práticas recomendadas de registro de aplicativos e outros critérios de Identidade.
 
-| **Information** | **Response** |
+| **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você se integra à Plataforma de Identificação da Microsoft (Azure AD)?  | Sim |
 | Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração?  | Sim |

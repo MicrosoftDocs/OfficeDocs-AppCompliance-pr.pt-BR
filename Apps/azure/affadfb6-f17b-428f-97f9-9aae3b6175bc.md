@@ -3,28 +3,28 @@ title: Azure App informações de ID para affadfb6-f17b-428f-97f9-9aae3b6175bc
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/02/2022
+ms.date: 04/01/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para affadfb6-f17b-428f-97f9-9aae3b6175bc.
-ms.openlocfilehash: 025c325312f659f8b4ca89dd0ab9f7f7d663c13d
-ms.sourcegitcommit: 1ec89e36ca96efb9704a11b904ab84f4030b3578
+ms.openlocfilehash: 884d1981510a5ec41cd5c9b326ed3efa83b87f38
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "64656404"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64627993"
 ---
 # <a name="azure-app-id-affadfb6-f17b-428f-97f9-9aae3b6175bc"></a>Azure App ID: affadfb6-f17b-428f-97f9-9aae3b6175bc
 
 
-### <a name="apps-associated-with-this-id"></a>Aplicativos associados a esta ID:
+### <a name="apps-associated-with-this-id"></a>Aplicativos associados a essa ID:
 | **Nome do aplicativo** | **Certificado** | **Exibir no AppSource** |
 |--------------|---------------|-----------------------|
 | [Priority Matrix](../forward/WA104382005.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104382005](https://appsource.microsoft.com/product/office/WA104382005) |
-| [Matriz de Prioridade – Transformar emails em tarefas](../forward/WA104381735.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381735](https://appsource.microsoft.com/product/office/WA104381735) |
+| [Matriz de Prioridade - Transformar emails em tarefas](../forward/WA104381735.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381735](https://appsource.microsoft.com/product/office/WA104381735) |
 | [Priority Matrix](../forward/appfluenceinc.m_pm_msft.md) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/appfluenceinc.m_pm_msft](https://appsource.microsoft.com/product/office/appfluenceinc.m_pm_msft) |
 
 ### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 status de conformidade do aplicativo
-- Publisher Status do Atestado: Concluído
-- Microsoft 365: Aprovado (23/06/2021)
+- Publisher Status do Attestaton: Concluído
+- Microsoft 365 Certificação: Aprovado (23/06/2021)
