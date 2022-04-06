@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para MURAL, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: df6a5ae8a4b098679e9fc43cedfe8605a8c0d99e
-ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
+ms.openlocfilehash: 46369b01c7570f46997e8a9cb43e30c9d882e0bf
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "64602290"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64627273"
 ---
 # <a name="mural"></a>MURAL
 
@@ -57,7 +57,7 @@ Essas informações foram fornecidas pelo MURAL sobre como esse aplicativo colet
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
-| Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| Quais dados são processados pelo aplicativo? | O MURAL requer apenas Nome, Sobrenome e Endereço de Email para fins de logon. O tipo de dados a serem processados/armazenados dependeria do cliente |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? | O MURAL exige apenas o nome, sobrenome e email do usuário para fins de logon e que o restante das informações armazenadas depende das informações que os clientes armazenam em seus murales. |
@@ -97,8 +97,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim|
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
 | Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Sim |
-| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
-| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Sim |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
