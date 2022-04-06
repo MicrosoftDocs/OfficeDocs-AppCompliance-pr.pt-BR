@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Backup na Nuvem para Microsoft Office 365, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a053ad5e60924f5d45fb8b99f91fe87b6dfe844e
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: dca13bf8ef2d0ab2147e7457ab617196edae7fd6
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63546559"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64623203"
 ---
 # <a name="cloud-backup-for-microsoft-office-365"></a>Backup na nuvem para Microsoft Office 365
 
@@ -36,8 +36,11 @@ Informações fornecidas pelo AvePoint Inc. à Microsoft:
 | Nome da empresa de parceiro | AvePoint Inc. |
 | Site da empresa | [https://www.avepoint.com](https://www.avepoint.com) |
 | Termos de uso do aplicativo | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| Funcionalidade principal do aplicativo | O Backup de Nuvem do AvePoint é a&#8217;solução de backup de nuvem para nuvem mais completa para Microsoft 365. Com
-unlimited, automated backups, and secure storage in AvePoint&#8217;s Azure storage or your own cloud, you just decide quanto recuperar e quando. A restauração em nível de item sob demanda e granular fornece acesso a qualquer momento para seus emails, arquivos, conversas, gravações, projetos, tarefas, grupos, Teams, Planner e sites. | | Local da sede da empresa | Estados Unidos da América | | Página de informações do aplicativo | [https://www.avepoint.com/products/cloud/backup/microsoft-of...](https://www.avepoint.com/products/cloud/backup/microsoft-office-365-backup) | | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas | | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
+| Funcionalidade principal do aplicativo | O Backup de Nuvem do AvePoint é a&#8217;solução de backup de nuvem para nuvem mais completa para Microsoft 365. Com backups ilimitados e automatizados e armazenamento seguro no armazenamento do AvePoint&#8217;armazenamento do Azure ou sua própria nuvem, você decide quanto deve ser recuperado e quando. A restauração em nível de item sob demanda e granular fornece acesso a qualquer momento para seus emails, arquivos, conversas, gravações, projetos, tarefas, grupos, Teams, Planner e sites. |
+| Localização da sede da empresa | Estados Unidos da América |
+| Página de informações do aplicativo | [https://www.avepoint.com/products/cloud/backup/microsoft-of...](https://www.avepoint.com/products/cloud/backup/microsoft-office-365-backup) |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
