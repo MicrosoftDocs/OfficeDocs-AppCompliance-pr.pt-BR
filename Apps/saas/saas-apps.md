@@ -3,17 +3,17 @@ title: Segurança e Conformidade de Aplicativos SaaS - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 03/29/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos SaaS.
 localization_priority: Normal
-ms.openlocfilehash: d571fc8809160aaf406e723ad433e81a77eb1043
-ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
+ms.openlocfilehash: 29a4ec64e77d1b8a2d8f24cb5a7322e03de7bc97
+ms.sourcegitcommit: 64860967a2baa3b08445ad7e186e46ce529efb13
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "64601680"
+ms.lasthandoff: 03/29/2022
+ms.locfileid: "64528168"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Segurança e Conformidade de Aplicativos SaaS
 
@@ -23,7 +23,6 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 |:--------|:------------|:----------------------:|:-------------:|
 | [Centro de Administração](./officeatwork-admin-center.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Console do Atendente em Qualquer Lugar365 para Microsoft Teams](./workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
-| [Central de Contatos em Qualquer Lugar365 para Teams](./workstreampeople-bv-anywhere365-contact-center-for-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
 | [Central de Contatos do Buzzeasy para Teams](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt. | **✓** |  |
 | [CallCabinet Atmos Compliance Recording and Analytics](./callcabinet-corporation-atmos-compliance-recording-and-analytics.md) | CallCabinet Corporation | **✓** |  |
 | [CC4Teams](./cc4all-cc4teams.md) | CC4ALL | **✓** |  |
@@ -36,7 +35,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Designer](./officeatwork-designer.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Emailgistics](./emailgistics-corp.md) | Emailgistics Corp. | **✓** |  |
 | [EmailNotes para Outlook](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | Standss (Pacífico Sul) PTE Limited | **✓** |  |
-| [Genys Cloud CX Teams Integration](./genesys-cloud-services-inc-cx-teams-integration.md) | Serviços de Nuvem de Genys, Inc | **✓** |  |
+| [Genys Cloud CX Teams Integration](./genesys-cloud-services-inc-cx-teams-integration.md) | Geneys Serviços de Nuvem, Inc | **✓** |  |
 | [Ice Contact Center](./computertalk-ice-contact-center.md) | ComputerTalk | **✓** |  |
 | [IGlobe CRM Office 365 para Microsoft 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Selador de imagem](./officeatwork-image-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
