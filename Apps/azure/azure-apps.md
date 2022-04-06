@@ -1,19 +1,25 @@
 ---
-title: Segurança e conformidade de IDs do Aplicativo do Azure - Todos os Aplicativos
+title: Azure App IDs Segurança e Conformidade - Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 03/30/2022
 ms.topic: article
 ms.service: attestation
-description: Todas as informações de segurança e conformidade disponíveis para todas as IDs de aplicativo do Azure.
+description: Todas as informações de segurança e conformidade disponíveis para todas as Azure App IDs.
 localization_priority: Normal
+ms.openlocfilehash: bde06f0432926a2fa08aea71630fadc9221b1424
+ms.sourcegitcommit: 0b61e3c35f05a7f7926b2ccd6049be4fc2a149c9
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 03/30/2022
+ms.locfileid: "64554264"
 ---
-# <a name="azure-app-ids-security-and-compliance"></a>Segurança e conformidade de IDs de aplicativo do Azure
+# <a name="azure-app-ids-security-and-compliance"></a>Azure App segurança e conformidade de IDs
 
-A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para fornecer as informações que as organizações precisam para acelerar e informar as decisões sobre as IDs de aplicativo do Azure e os complementos que usam. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
+A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para fornecer as informações que as organizações precisam para acelerar e informar as decisões sobre Azure App IDs e complementos que eles usam. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
 
-| **ID do aplicativo do Azure** | **Editor Atestado** | **Certificado** |
+| **Azure App ID** | **Editor Atestado** | **Certificado** |
 |:--------|:------------|:-------------:|
 | [00485db5-81b3-4299-833a-8d6c366d0ac0](./00485db5-81b3-4299-833a-8d6c366d0ac0.md) | **✓** |  |
 | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](./00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md) | **✓** |  |

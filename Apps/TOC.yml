@@ -5,43 +5,45 @@
       items:
         - name: Visão Geral
           href: overview.md
-        - name: O que é Publisher Verificação?
-          href: 'https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview'
-        - name: O que é Microsoft 365 Certificação?
+        - name: O que é Publisher verificação?
+          href: /azure/active-directory/develop/publisher-verification-overview
+        - name: O que é Microsoft 365 certificação?
           href: docs/enterprise-app-certification-guide.md
     - name: Para desenvolvedores
       expanded: true
       items:
         - name: Executar a Verificação do Publisher
-          href: 'https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified'
+          href: /azure/active-directory/develop/mark-app-as-publisher-verified
         - name: Certificação Microsoft 365 Completa
           href: docs/certification.md
-        - name: Microsoft 365 De envio de certificação
+        - name: Microsoft 365 de Envio de Certificação do Microsoft 365
           href: docs/certification-submission-guide.md
-    - name: Microsoft Excel Apps
+    - name: Microsoft Excel aplicativos
       href: excel/excel-apps.md
       items:
-        - name: Calculadora de custo do serviço emea canon para parceiros B2B
+        - name: Calculadora de Custos de Serviço canon EMEA para parceiros B2B
           href: excel/canon-emea-service-cost-calculator-for-b2b-partners.md
         - name: CloudExtend Analytics para NetSuite
           href: excel/celigo-cloudextend-analytics-for-netsuite.md
-        - name: Excel automação de documentos para Word
+        - name: Excel automação de documentos do Excel para o Word
           href: excel/analysisplace-excel-to-word-document-automation.md
         - name: Forbury
           href: excel/forbury-property.md
+        - name: 'Editor de PDF do Foxit para Microsoft Word, Excel e PowerPoint'
+          href: excel/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
         - name: Assinaturas de Impressão
           href: excel/impression-signatures.md
-        - name: Nuvem Jira para Excel
+        - name: Jira Cloud para Excel
           href: excel/atlassiancom-jira-cloud-for-excel.md
-        - name: MeaningCloud Análise de Texto para Excel
+        - name: O MeaningCloud Análise de Texto para Excel
           href: excel/meaningcloud-text-analytics-for-excel.md
         - name: Office2SharePoint para Office
           href: excel/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork | O Selador de Conteúdo para Office
+        - name: officeatwork | Se escolha de conteúdo para Office
           href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork | Image Chooser for Office
+        - name: officeatwork | Se escolha de imagem para Office
           href: excel/officeatwork-officeatworkimage-chooser-for-office.md
-        - name: officeatwork | Template Chooser for Office
+        - name: officeatwork | Selador de modelo para Office
           href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: Report Builder
           href: excel/adobe-inc-report-builder.md
@@ -49,116 +51,118 @@
           href: excel/rocketdocs-launchpad.md
         - name: Sheetgo
           href: excel/sheetgo-europe-sl.md
-        - name: Supermetria
+        - name: Supermétricas
           href: excel/supermetrics.md
         - name: Dados arquivados XBRL
           href: excel/xbrl-us-filed-data.md
         - name: ZEMA para Excel
           href: excel/ze-powergroup-zema-for-excel.md
-    - name: Microsoft OneNote Apps
+    - name: Microsoft OneNote aplicativos
       href: onenote/onenote-apps.md
       items:
-        - name: officeatwork | O Selador de Conteúdo para Office
+        - name: officeatwork | Se escolha de conteúdo para Office
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork | Image Chooser for Office
+        - name: officeatwork | Se escolha de imagem para Office
           href: onenote/officeatwork-officeatworkimage-chooser-for-office.md
     - name: Microsoft Outlook Apps
       href: outlook/outlook-apps.md
       items:
-        - name: Adobe Sign Add-In para Outlook
+        - name: Adobe Sign Add-In for Outlook
           href: outlook/adobe-inc-sign-add-in-for-outlook.md
         - name: Vídeos altru
           href: outlook/altru-videos.md
-        - name: Calendários de contatos aprovados
+        - name: Calendários de Contatos Aprovados
           href: outlook/approved-contact-calendars.md
         - name: CI-Signature
           href: outlook/ci-solution-gmbh-signature.md
         - name: CodeTwo para Outlook
           href: outlook/codetwo-for-outlook.md
-        - name: Comuty
+        - name: Comutação
           href: outlook/commuty.md
         - name: Evernote
           href: outlook/evernote.md
         - name: Assinaturas de impressão para Outlook
           href: outlook/impression-signatures-for-outlook.md
-        - name: IPlanner Office 365 Do Planner para Outlook
+        - name: Suplemento do iPlanner Office 365 Planner para Outlook
           href: outlook/iglobe-iplanner-office-365-planner-add-in-for-outlook.md
         - name: iPlanner Pro Office 365
           href: outlook/iglobe-iplanner-pro-office-365.md
-        - name: Nuvem Jira para Outlook (Oficial)
+        - name: Jira Cloud for Outlook (Oficial)
           href: outlook/atlassiancom-jira-cloud-for-outlook-official.md
-        - name: Prazos do LawToolBox e Gerenciamento de Outlook
+        - name: Prazos do LawToolBox e gerenciamento de Outlook
           href: outlook/lawtoolboxcom-inc-lawtoolbox-deadlinesmatter-management-outlook.md
-        - name: Prazos do LawToolBox e Gerenciamento de Outlook
+        - name: Prazos do LawToolBox e gerenciamento de Outlook
           href: outlook/lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md
         - name: Mailbutler
           href: outlook/mailbutler.md
-        - name: MIPA - Seu próprio assistente pessoal
+        - name: MIPA – seu próprio assistente pessoal
           href: outlook/iglobe-mipa-your-own-personal-assistant.md
         - name: ngDesk
           href: outlook/all-blue-solutions-ngdesk.md
         - name: Office2SharePoint para Outlook
           href: outlook/iglobe-office2sharepoint-for-outlook.md
-        - name: officeatwork | O Selador de Conteúdo para Outlook
+        - name: officeatwork | Se escolha de conteúdo para Outlook
           href: outlook/officeatwork-officeatworkcontent-chooser-for-outlook.md
-        - name: officeatwork | Assinatura de email para Outlook
+        - name: officeatwork | Assinatura de Email para Outlook
           href: outlook/officeatwork-officeatworkmail-signature-for-outlook.md
         - name: OnePlaceMail para Outlook
           href: outlook/oneplace-solutions-oneplacemail-for-outlook.md
-        - name: Envolvimento de vendas de divulgação para Outlook
+        - name: Compromisso de vendas de divulgação para Outlook
           href: outlook/outreach-sales-engagement-for-outlook.md
-        - name: Pexip Um para Outlook
+        - name: Pexip One para Outlook
           href: outlook/pexipas-pexip-one-for-outlook.md
-        - name: Matriz de Prioridade - Transformar emails em tarefas
+        - name: Matriz de Prioridade – Transformar emails em tarefas
           href: outlook/appfluence-inc-priority-matrix-turn-emails-into-tasks.md
-        - name: Local de trabalho quantum
+        - name: Quantum Workplace
           href: outlook/quantum-workplace.md
         - name: Salesforce
           href: outlook/salesforcecom-salesforce.md
-        - name: Strategy-AI para Outlook
+        - name: Strategy-AI for Outlook
           href: outlook/chinchilla-software-limited-strategy-ai-for-outlook.md
-        - name: Email seguro XQ
+        - name: XQ Secure Email
           href: outlook/xq-message-secure-email.md
     - name: Microsoft PowerPoint Apps
       href: powerpoint/powerpoint-apps.md
       items:
-        - name: Adobe Acrobat Sign for Word and PowerPoint
-          href: powerpoint/adobe-inc-acrobat-sign-for-word-and-powerpoint.md
-        - name: Excel automação de documentos para Word
+        - name: Adobe Acrobat Sign para Microsoft Word e PowerPoint
+          href: powerpoint/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
+        - name: Excel automação de documentos do Excel para o Word
           href: powerpoint/analysisplace-excel-to-word-document-automation.md
+        - name: 'Editor de PDF do Foxit para Microsoft Word, Excel e PowerPoint'
+          href: powerpoint/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
         - name: Office2SharePoint para Office
           href: powerpoint/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork | O Selador de Conteúdo para Office
+        - name: officeatwork | Se escolha de conteúdo para Office
           href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork | Image Chooser for Office
+        - name: officeatwork | Se escolha de imagem para Office
           href: powerpoint/officeatwork-officeatworkimage-chooser-for-office.md
-        - name: officeatwork | Slide Chooser for Office
+        - name: officeatwork | Selador de slides para Office
           href: powerpoint/officeatwork-officeatworkslide-chooser-for-office.md
-        - name: officeatwork | Template Chooser for Office
+        - name: officeatwork | Selador de modelo para Office
           href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: Showmaster
           href: powerpoint/cherryware-showmaster.md
-        - name: Showmaster (Plug-in auxiliar)
+        - name: Showmaster (plug-in auxiliar)
           href: powerpoint/cherryware-showmaster-helper-plugin.md
         - name: SlideHub
           href: powerpoint/nomorehours-slidehub.md
-    - name: Microsoft Project Apps
+    - name: Microsoft Project aplicativos
       href: project/project-apps.md
       items:
-        - name: officeatwork | Template Chooser for Office
+        - name: officeatwork | Selador de modelo para Office
           href: project/officeatwork-officeatworktemplate-chooser-for-office.md
     - name: Microsoft SharePoint Apps
       href: sharepoint/sharepoint-apps.md
       items:
-        - name: Adobe Acrobat Sign for SharePoint
-          href: sharepoint/adobe-inc-acrobat-sign-for-sharepoint.md
+        - name: Adobe Acrobat Sign para Microsoft Office SharePoint Online
+          href: sharepoint/adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md
         - name: ArcGIS para SharePoint
           href: sharepoint/esri-inc-arcgis-for-sharepoint.md
         - name: Sistema de Gerenciamento de Ofertas
           href: sharepoint/beyond-technologies-bid-management-system.md
         - name: Bizagi Webparts
           href: sharepoint/bizagi-team-webparts.md
-        - name: Sobreposição de calendário
+        - name: Sobreposição de Calendário
           href: sharepoint/cloudwell-calendar-overlay.md
         - name: Conector FormMachines para SharePoint
           href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
@@ -168,31 +172,33 @@
           href: sharepoint/ichicraft-bv-boards-your-digital-workplace.md
         - name: Complementos do iGlobe CRM
           href: sharepoint/iglobe-crm-add-ons.md
-        - name: IGlobe CRM Office 365 para Microsoft Office 365
+        - name: iGlobe CRM Office 365 para Microsoft Office 365
           href: sharepoint/iglobe-crm-office-365-for-microsoft.md
         - name: Konnect eMail Parser
           href: sharepoint/konnect-email-parser.md
         - name: LifeWorks Conexões do Viva
           href: sharepoint/lifeworks-inc-viva-connections.md
-        - name: Lightning Tools Lightning Conductor
+        - name: Lightning Tools Lightning Condutor
           href: sharepoint/lightning-tools-conductor.md
-        - name: officeatwork | Template Chooser for SharePoint
+        - name: officeatwork | Se escolha de modelo para SharePoint
           href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
         - name: Colaboração do Power BI
           href: sharepoint/ataira-power-bi-collaboration.md
-        - name: SharePoint| gerenciamento de treinamento de funcionários SharePoint|sapiens
+        - name: SharePoint|sapiens Employee Training Management
           href: sharepoint/sharepointsapiens-employee-training-management.md
-        - name: SharePoint| gerenciamento de eventos do SharePoint|sapiens
+        - name: SharePoint|sapiens Event Management
           href: sharepoint/sharepointsapiens-event-management.md
-        - name: Reserva de Eventos Mais Inteligentes
+        - name: SharePoint| interface do usuário moderna do SharePoint|sapiens
+          href: sharepoint/sharepointsapiens-modern-user-interface.md
+        - name: Reserva de eventos mais inteligente
           href: sharepoint/smarter-business-solutions-gmbh-event-booking.md
-        - name: Fóruns de Discussão No Quadrado Social
+        - name: Fóruns de discussão ao quadrado social
           href: sharepoint/lightning-tools-social-squared-discussion-forums.md
         - name: Taxonomia
           href: sharepoint/accuracy-software-inc-taxonomy.md
-        - name: Zynyo Sign for SharePoint Online
+        - name: Logon do Zynyo para SharePoint Online
           href: sharepoint/zynyo-sign-for-sharepoint-online.md
-    - name: Microsoft Teams Apps
+    - name: Microsoft Teams aplicativos
       href: teams/teams-apps.md
       items:
         - name: 10xGoals
@@ -206,15 +212,17 @@
         - name: 8x8
           href: teams/8x8-inc.md
         - name: absentify
-          href: teams/braincore-solutions-gmbh-absentify.md
+          href: teams/braincore-solutions-absentify.md
         - name: ADI
           href: teams/akari-solutions-limited-adi.md
         - name: Adobe Acrobat
           href: teams/adobe-systems-inc-acrobat.md
-        - name: Adobe Sign
-          href: teams/adobe-systems-inc-sign.md
+        - name: Assinatura do Adobe Acrobat
+          href: teams/adobe-acrobat-sign.md
         - name: Agenda Chefe
           href: teams/appfluence-inc-agenda-boss.md
+        - name: Produtor de IA
+          href: teams/livearena-technologies-ab-ai-producer.md
         - name: Aimful
           href: teams/aimful.md
         - name: interpretação do Akouo
@@ -347,6 +355,8 @@
           href: teams/churnzero.md
         - name: CI-Out-of-Office Lite
           href: teams/ci-solution-gmbh-out-of-office-lite.md
+        - name: SMS do Administrador
+          href: teams/unnamed-ventures-llc-clerk-sms.md
         - name: ClipTraining
           href: teams/cliptraining.md
         - name: Clixie
@@ -477,8 +487,6 @@
           href: teams/springrole-engagewith.md
         - name: enmacc
           href: teams/enmacc.md
-        - name: EQ em todos os lugares
-          href: teams/humantelligence-eq-everywhere.md
         - name: Expresso
           href: teams/solutions2share-gmbh-espresso.md
         - name: eTeamer
@@ -551,8 +559,6 @@
           href: teams/golinks.md
         - name: Good4work
           href: teams/good4work.md
-        - name: Goodera
-          href: teams/goodera.md
         - name: GoToConnect
           href: teams/logmein-inc-gotoconnect.md
         - name: GRATICA
@@ -585,6 +591,8 @@
           href: teams/hi5technologies-hi5.md
         - name: HighSide
           href: teams/highside-inc.md
+        - name: Colaboração HighSide
+          href: teams/highside-inc-collaboration.md
         - name: Highspot
           href: teams/highspot.md
         - name: HitHorizons
@@ -595,6 +603,8 @@
           href: teams/netforce-365-gmbh-hubsite.md
         - name: Hugo
           href: teams/hugo.md
+        - name: Humantelligence
+          href: teams/humantelligence.md
         - name: huminos
           href: teams/soe-technologies-huminos.md
         - name: Humu
@@ -635,6 +645,8 @@
           href: teams/nextup-llc-jira-integration-plus.md
         - name: JobPts
           href: teams/semos-cloud-soultions-jobpts.md
+        - name: Joye
+          href: teams/joye-pte-ltd.md
         - name: Kakeai
           href: teams/kakeai.md
         - name: Ferramenta Kanban
@@ -665,6 +677,8 @@
           href: teams/lawtoolboxcominc-lawtoolbox.md
         - name: LawVu APAC
           href: teams/lawvu-apac.md
+        - name: LawVu USA
+          href: teams/lawvu-usa.md
         - name: Learnbee
           href: teams/bsharp-sales-enablers-learnbee.md
         - name: Lexion
@@ -763,6 +777,8 @@
           href: teams/kl-software-technologies-netdocshare.md
         - name: NewCOS
           href: teams/newtech-newcos.md
+        - name: Notícias - Jalios
+          href: teams/jalios-sa-news.md
         - name: ngDesk
           href: teams/all-blue-solutions-ngdesk.md
         - name: NickNack
@@ -891,8 +907,6 @@
           href: teams/ringcentral-inc.md
         - name: RowShare
           href: teams/rowshare.md
-        - name: Saberr
-          href: teams/saberr.md
         - name: ' Espaços Seguros'
           href: teams/ecare-vault-inc-safe-spaces.md
         - name: Sailpoint
@@ -1009,10 +1023,10 @@
           href: teams/avishkaram-technologies-pvt-ltd-tagmyfav.md
         - name: TagTeam
           href: teams/smarter-business-solution-gmbh-tagteam.md
-        - name: Talview Entrevistas
-          href: teams/talview-inc-interviews.md
         - name: TAMPLO
           href: teams/ityss-tamplo.md
+        - name: TaskCall
+          href: teams/taskcall-cloud-services-sl.md
         - name: Taskworld
           href: teams/taskworld.md
         - name: Team Central
@@ -1161,44 +1175,46 @@
           href: teams/alight-zignals.md
         - name: Zoho Sign
           href: teams/zoho-corporation-private-limited-sign.md
-    - name: Microsoft Word Apps
+    - name: Microsoft Word aplicativos
       href: word/word-apps.md
       items:
-        - name: Adobe Acrobat Sign for Word and PowerPoint
-          href: word/adobe-inc-acrobat-sign-for-word-and-powerpoint.md
-        - name: AuditBoard Add-in
+        - name: Adobe Acrobat Sign para Microsoft Word e PowerPoint
+          href: word/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
+        - name: Suplemento AuditBoard
           href: word/auditboard-inc-add-in.md
         - name: Citasion
           href: word/citasion-llc.md
         - name: CocoFax - Envio de Fax Facilitado e Seguro
           href: word/cocofax-sending-fax-made-easysecure.md
-        - name: CrossCheck
+        - name: Cruzar
           href: word/krevealllc-crosscheck.md
-        - name: Excel automação de documentos para Word
+        - name: Excel automação de documentos do Excel para o Word
           href: word/analysisplace-excel-to-word-document-automation.md
-        - name: Fabasoft Cloud Office Add-in
+        - name: Fabasoft Cloud Office Suplemento
           href: word/fabasoft-austria-gmbh-cloud-office-add-in.md
+        - name: 'Editor de PDF do Foxit para Microsoft Word, Excel e PowerPoint'
+          href: word/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
         - name: Assinaturas de Impressão
           href: word/impression-signatures.md
-        - name: LegalMind Word AddIn
+        - name: Suplemento do Word LegalMind
           href: word/legalmind-word-addin.md
         - name: Software de revisão de contrato do Loio
           href: word/loio-inc-contract-review-software.md
-        - name: Mendeley Cite
+        - name: Citação de Mendeley
           href: word/elsevier-limited-mendeley-cite.md
-        - name: neopoliápole
+        - name: neopolis
           href: word/neopolis-gmbh.md
         - name: Office2SharePoint para Office
           href: word/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork | O Selador de Conteúdo para Office
+        - name: officeatwork | Se escolha de conteúdo para Office
           href: word/officeatwork-officeatworkcontent-chooser-for-office.md
         - name: officeatwork | Designer para Office
           href: word/officeatwork-officeatworkdesigner-for-office.md
-        - name: officeatwork | Image Chooser for Office
+        - name: officeatwork | Se escolha de imagem para Office
           href: word/officeatwork-officeatworkimage-chooser-for-office.md
-        - name: officeatwork | Template Chooser for Office
+        - name: officeatwork | Selador de modelo para Office
           href: word/officeatwork-officeatworktemplate-chooser-for-office.md
-        - name: officeatwork | Uploader for Office
+        - name: officeatwork | Uploader para Office
           href: word/officeatwork-officeatworkuploader-for-office.md
         - name: officeatwork | Verificador para Office
           href: word/officeatwork-officeatworkverifier-for-office.md
@@ -1212,22 +1228,24 @@
           href: word/digital-science-smartcite-for-papers.md
         - name: Stilus para Word
           href: word/meaningcloud-stilus-for-word.md
-        - name: TaxKit Docs
+        - name: Documentos do TaxKit
           href: word/taxyio-gmbh-taxkit-docs.md
         - name: TerMef
           href: word/mondeca-termef.md
-        - name: xLaw - sistema de gerenciamento de conhecimento
+        - name: xLaw – sistema de gerenciamento de conhecimento
           href: word/evertn-xlaw-knowledge-management-system.md
     - name: Aplicativos SaaS
       href: saas/saas-apps.md
       items:
         - name: Centro de Administração
           href: saas/officeatwork-admin-center.md
-        - name: Console do Atendente em Qualquer Lugar365 para Microsoft Teams
+        - name: Console do Anywhere365 Attendant para Microsoft Teams
           href: saas/workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams.md
-        - name: Central de Contatos do Buzzeasy para Teams
+        - name: Centro de Contatos do Anywhere365 para Teams
+          href: saas/workstreampeople-bv-anywhere365-contact-center-for-teams.md
+        - name: Buzzeasy Contact Center para Teams
           href: saas/geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md
-        - name: CallCabinet Atmos Compliance Recording and Analytics
+        - name: Análise e gravação de conformidade de Atmos do CallCabinet
           href: saas/callcabinet-corporation-atmos-compliance-recording-and-analytics.md
         - name: CC4Teams
           href: saas/cc4all-cc4teams.md
@@ -1237,7 +1255,7 @@
           href: saas/avepoint-inc-cloud-backup-for-microsoft-office-365.md
         - name: CodeTwo Email Signatures for Office 365
           href: saas/codetwo-email-signatures-for-office-365.md
-        - name: Pacote de Comunicação competella
+        - name: Competella Communication Suite
           href: saas/competella-ab-communication-suite.md
         - name: Selador de Conteúdo
           href: saas/officeatwork-content-chooser.md
@@ -1249,25 +1267,25 @@
           href: saas/emailgistics-corp.md
         - name: EmailNotes para Outlook
           href: saas/standss-south-pacific-pte-limited-emailnotes-for-outlook.md
-        - name: Genys Cloud CX Teams Integration
+        - name: Genesys Cloud CX Teams Integration
           href: saas/genesys-cloud-services-inc-cx-teams-integration.md
         - name: Ice Contact Center
           href: saas/computertalk-ice-contact-center.md
-        - name: IGlobe CRM Office 365 para Microsoft 365
+        - name: iGlobe CRM Office 365 para Microsoft 365
           href: saas/iglobe-crm-office-365-for-microsoft.md
-        - name: Selador de imagem
+        - name: Selador de Imagem
           href: saas/officeatwork-image-chooser.md
         - name: iPlanner Pro Office 365
           href: saas/iglobe-iplanner-pro-office-365.md
         - name: LMS365
           href: saas/elearningforce-international-aps-lms365.md
-        - name: Luware Compliance Recording for Microsoft Teams
+        - name: Gravação de conformidade do Luware para Microsoft Teams
           href: saas/luware-ag-compliance-recording-for-microsoft-teams.md
         - name: Luware Nimbus para Microsoft Teams
           href: saas/luware-ag-nimbus-for-microsoft-teams.md
         - name: Assinatura de Email
           href: saas/officeatwork-mail-signature.md
-        - name: MIPA - Meu Assistente Pessoal Inteligente
+        - name: MIPA – Meu Assistente Pessoal Inteligente
           href: saas/iglobe-mipa-my-intelligent-personal-assistant.md
         - name: MyHub para Teams
           href: saas/avepoint-inc-myhub-for-teams.md
@@ -1277,7 +1295,7 @@
           href: saas/iglobe-office2sharepoint.md
         - name: Office2SharePoint para Teams
           href: saas/iglobe-office2sharepoint-for-teams.md
-        - name: Descoberta onna para MS365
+        - name: Onna Discovery para MS365
           href: saas/onna-discovery-for-ms365.md
         - name: Políticas e Insights para Microsoft Office 365
           href: saas/avepoint-inc-policiesinsights-for-microsoft-office-365.md
@@ -1285,9 +1303,9 @@
           href: saas/appfluence-inc-priority-matrix.md
         - name: SalesTim
           href: saas/salestim.md
-        - name: Selador de slides
+        - name: Selador de Slides
           href: saas/officeatwork-slide-chooser.md
-        - name: Storm Cloud Contact Center Teams Integration
+        - name: Integração do Storm Cloud Contact Center Teams Cloud
           href: saas/content-guru-storm-cloud-contact-center-teams-integration.md
         - name: Conector de Microsoft Teams Talkdesk
           href: saas/talkdesk-inc-microsoft-teams-connector.md
@@ -1295,13 +1313,13 @@
           href: saas/officeatwork-template-chooser.md
         - name: Navegador do Selador de Modelo
           href: saas/officeatwork-template-chooser-browser.md
-        - name: Theta Lake Recording and Compliance for Teams Video
+        - name: Gravação e conformidade do Theta Lake para Teams vídeo
           href: saas/theta-lake-recordingcompliance-for-teams-video.md
         - name: Carregador
           href: saas/officeatwork-uploader.md
         - name: Verificador
           href: saas/officeatwork-verifier.md
-        - name: Ideias amplas - Software de Inovação
+        - name: Ideias amplas – Software de inovação
           href: saas/wide-ideasidea2innovation-ideas-innovation-software.md
         - name: Assistente
           href: saas/officeatwork-wizard.md
@@ -1332,6 +1350,8 @@
           href: azure/084b4a43-c386-443d-ae90-bf9a3fc2995e.md
         - name: 086ae3fb-fdf0-4c49-8c38-57d082b00dc4
           href: azure/086ae3fb-fdf0-4c49-8c38-57d082b00dc4.md
+        - name: 08da38c2-089b-4c58-9995-60bc2ca54561
+          href: azure/08da38c2-089b-4c58-9995-60bc2ca54561.md
         - name: 094f3986-3951-4f0c-88fa-514d117c8dd0
           href: azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md
         - name: 0a1b7ca8-390e-4f55-a7b5-eee089c5a905
@@ -1464,6 +1484,8 @@
           href: azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md
         - name: 421da895-5e99-4254-b038-209f1ddd5cbb
           href: azure/421da895-5e99-4254-b038-209f1ddd5cbb.md
+        - name: 42f7cf35-98e6-417e-b5da-8913a5bbec79
+          href: azure/42f7cf35-98e6-417e-b5da-8913a5bbec79.md
         - name: 43067020-c59f-49f8-a532-e84ed3bb5f4e
           href: azure/43067020-c59f-49f8-a532-e84ed3bb5f4e.md
         - name: 43134ae0-301f-4762-b7a9-aa9f2ff77b38
@@ -1510,6 +1532,8 @@
           href: azure/5123b34d-663d-4ae9-a3c9-d2298be203f2.md
         - name: 512b84d2-5840-45d6-8d01-5f073836d039
           href: azure/512b84d2-5840-45d6-8d01-5f073836d039.md
+        - name: 5159b699-a8c3-4170-ae49-c22ccb76cdde
+          href: azure/5159b699-a8c3-4170-ae49-c22ccb76cdde.md
         - name: 51e2b67d-9854-446a-8da1-cdd89ef0b987
           href: azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md
         - name: 52b2da9b-4cd6-4334-be22-4a3b1b99bac7
@@ -1548,7 +1572,7 @@
           href: azure/5edad654-f2d5-41d8-bfc0-92c2735252e1.md
         - name: 5f1f4eb7-479e-42f3-b86f-4c1f53e1c222
           href: azure/5f1f4eb7-479e-42f3-b86f-4c1f53e1c222.md
-        - name: 5f5ab403-96ae-46a9-b78e-a06d60cc9e4e4e
+        - name: 5f5ab403-96ae-46a9-b78e-a06d60cc9e4e
           href: azure/5f5ab403-96ae-46a9-b78e-a06d60cc9e4e.md
         - name: 61dc5e28-775a-4dd0-8990-aaabe3be9e2f
           href: azure/61dc5e28-775a-4dd0-8990-aaabe3be9e2f.md
@@ -1622,7 +1646,7 @@
           href: azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md
         - name: 82eb2bf2-969c-46da-9e89-1db59ac4fbb3
           href: azure/82eb2bf2-969c-46da-9e89-1db59ac4fbb3.md
-        - name: 83ff0fe1-a544-4390-bd72-3aaa040db7e
+        - name: 83ff0fe1-a544-4390-bd72-3aaaa040db7e
           href: azure/83ff0fe1-a544-4390-bd72-3aaaa040db7e.md
         - name: 86f76b8b-3355-4e40-a55a-8463a407a327
           href: azure/86f76b8b-3355-4e40-a55a-8463a407a327.md
@@ -1676,6 +1700,8 @@
           href: azure/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md
         - name: a1a0b277-0efb-4f00-9661-6d1a3df3cddc
           href: azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md
+        - name: a1ef3a23-74fc-4c91-909f-691cc47a1c8e
+          href: azure/a1ef3a23-74fc-4c91-909f-691cc47a1c8e.md
         - name: a22e0150-3615-46aa-b0a7-086c87a9f38d
           href: azure/a22e0150-3615-46aa-b0a7-086c87a9f38d.md
         - name: a2af9d71-95f1-4236-be2c-c105ab9b7ee9
@@ -1694,6 +1720,8 @@
           href: azure/a6bf99af-63e8-40fc-bcfe-77347cb52326.md
         - name: a6f5c2f4-0bc2-48bf-8afe-6c93583a152b
           href: azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md
+        - name: a70d21af-f6a0-450c-8c81-9c3862823578
+          href: azure/a70d21af-f6a0-450c-8c81-9c3862823578.md
         - name: a7bdb4c6-23d0-4e4a-958a-168b50d67465
           href: azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md
         - name: a8ead1a3-85e1-42a3-9ed0-9afb97482b31
@@ -1744,7 +1772,7 @@
           href: azure/b8e57f6b-31cf-468e-9e99-81f0395cb1f9.md
         - name: b9604964-9c3a-483e-abf2-1b5cba495081
           href: azure/b9604964-9c3a-483e-abf2-1b5cba495081.md
-        - name: b9a1aab-e8aa-4b92-b4ce-f13cae74caa7
+        - name: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7
           href: azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7.md
         - name: bbdcd676-7448-453c-bec7-70e5384bc290
           href: azure/bbdcd676-7448-453c-bec7-70e5384bc290.md
@@ -1798,6 +1826,8 @@
           href: azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md
         - name: cec02d43-1b67-4430-9bc9-861da8582801
           href: azure/cec02d43-1b67-4430-9bc9-861da8582801.md
+        - name: d1762bac-3696-429d-ab0b-2a61463d6b7a
+          href: azure/d1762bac-3696-429d-ab0b-2a61463d6b7a.md
         - name: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d
           href: azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d.md
         - name: d2682b2a-2037-4545-94b6-3e7216ecca5f
@@ -1814,6 +1844,8 @@
           href: azure/d76f016f-52c7-41b5-835b-900361d7040c.md
         - name: d7db1079-6f45-4373-bb2b-ae5d71169b31
           href: azure/d7db1079-6f45-4373-bb2b-ae5d71169b31.md
+        - name: d7e20ef1-fc4b-42e0-a74f-a3c9a806aa73
+          href: azure/d7e20ef1-fc4b-42e0-a74f-a3c9a806aa73.md
         - name: d863a24b-7cdd-46c9-8309-a15878f4f7bf
           href: azure/d863a24b-7cdd-46c9-8309-a15878f4f7bf.md
         - name: d871e46e-e346-445d-bfe8-2a66419bf278
@@ -1840,6 +1872,8 @@
           href: azure/e601bd6e-0476-4d66-bd57-a9d13c207f0b.md
         - name: e74c5e65-902b-4c5f-a618-f24996f7b20c
           href: azure/e74c5e65-902b-4c5f-a618-f24996f7b20c.md
+        - name: e7fb100c-8c81-4e3f-9c78-bb1407080cdc
+          href: azure/e7fb100c-8c81-4e3f-9c78-bb1407080cdc.md
         - name: e854ea05-68ab-4204-babe-db4a784fb4d8
           href: azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md
         - name: e8bea835-c6b0-45aa-9c39-889d3c77d5a3
@@ -1896,7 +1930,7 @@
           href: azure/fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da.md
         - name: fc8f7563-e8ea-4b6d-9622-82775a21a35a
           href: azure/fc8f7563-e8ea-4b6d-9622-82775a21a35a.md
-        - name: fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc
+        - name: foodbfc71-2cf8-42f0-bcdd-83e5f4acfdcc
           href: azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md
         - name: ff540df6-84dc-4a84-baa4-a95ce3b415cd
           href: azure/ff540df6-84dc-4a84-baa4-a95ce3b415cd.md
