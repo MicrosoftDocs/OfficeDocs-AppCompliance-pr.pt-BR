@@ -3,17 +3,17 @@ title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/05/2022
+ms.date: 04/06/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: c4a980802eb9c2dd1cc9779720b2136a4c8da92d
-ms.sourcegitcommit: 4e8ef8e62b64b63eb9a9aa8971bf0c6ba14c2d03
-ms.translationtype: MT
+ms.openlocfilehash: 42fec656528c9d01799845ef635e337f96ab56b4
+ms.sourcegitcommit: 9f7e69c17034365cafea977da23961d4e934ad9f
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2022
-ms.locfileid: "64681832"
+ms.lasthandoff: 04/07/2022
+ms.locfileid: "64694332"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -98,7 +98,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Chronus](./chronus.md) | Chronus | **✓** |  |
 | [ChurnZero](./churnzero.md) | ChurnZero | **✓** |  |
 | [CI-Out-of-Office Lite](./ci-solution-gmbh-out-of-office-lite.md) | solução ci GmbH | **✓** |  |
-| [SMS do Administrador](./unnamed-ventures-llc-clerk-sms.md) | Ventures sem nome, LLC. | **✓** |  |
+| [SMS do funcionário](./unnamed-ventures-llc-clerk-sms.md) | Ventures sem nome, LLC. | **✓** |  |
 | [ClipTraining](./cliptraining.md) | ClipTraining | **✓** |  |
 | [Clixie](./clixie-media-llc.md) | Clixie Media LLC | **✓** |  |
 | [Nuvem Eficaz](./cloud-effective.md) | Nuvem Eficaz | **✓** |  |
@@ -126,6 +126,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [CSOD Aprender](./cornerstone-ondemand-csod-learn.md) | Cornerstone OnDemand | **✓** |  |
 | [Treinamento Cuco](./cuckoo-networks-oy-workout.md) | Redes de Cucos Oy | **✓** |  |
 | [Cultr Conexão](./cultr-connect.md) | Cultr | **✓** |  |
+| [Amplificador de Cultura](./culture-amp.md) | Amplificador de Cultura | **✓** |  |
 | [Cyberday](./digiturvamalli-cyberday.md) | Digiturvamalli | **✓** |  |
 | [DataMiner](./skyline-communications-dataminer.md) | Comunicações Skyline | **✓** |  |
 | [Datto Workplace](./datto-inc-workplace.md) | Datto, Inc. | **✓** |  |
@@ -259,7 +260,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Kunjani](./faceboard-pty-ltd-kunjani.md) | FACEBOARD (PTY) LTD | **✓** |  |
 | [LawToolBox](./lawtoolboxcominc-lawtoolbox.md) | LawToolBox.com,Inc. | **✓** |  |
 | [LawVu APAC](./lawvu-apac.md) | LawVu | **✓** |  |
-| [LawVu USA](./lawvu-usa.md) | LawVu | **✓** |  |
+| [LawVu EUA](./lawvu-usa.md) | LawVu | **✓** |  |
 | [Learnbee](./bsharp-sales-enablers-learnbee.md) | Habilitadores de Vendas Bsharp | **✓** |  |
 | [Lexion](./lexion.md) | Lexion | **✓** |  |
 | [LifeWorks](./lifeworks.md) | LifeWorks | **✓** |  |
