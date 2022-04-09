@@ -355,7 +355,7 @@
           href: teams/churnzero.md
         - name: CI-Out-of-Office Lite
           href: teams/ci-solution-gmbh-out-of-office-lite.md
-        - name: SMS do Administrador
+        - name: SMS do funcionário
           href: teams/unnamed-ventures-llc-clerk-sms.md
         - name: ClipTraining
           href: teams/cliptraining.md
@@ -411,7 +411,7 @@
           href: teams/cuckoo-networks-oy-workout.md
         - name: Cultr Conexão
           href: teams/cultr-connect.md
-        - name: Amp Cultura
+        - name: Amplificador de Cultura
           href: teams/culture-amp.md
         - name: Cyberday
           href: teams/digiturvamalli-cyberday.md
@@ -679,7 +679,7 @@
           href: teams/lawtoolboxcominc-lawtoolbox.md
         - name: LawVu APAC
           href: teams/lawvu-apac.md
-        - name: LawVu USA
+        - name: LawVu EUA
           href: teams/lawvu-usa.md
         - name: Learnbee
           href: teams/bsharp-sales-enablers-learnbee.md
@@ -1161,6 +1161,8 @@
           href: teams/workjam-tasks.md
         - name: Horário do WorkJam
           href: teams/workjam-time-clock.md
+        - name: Workpath
+          href: teams/workpath-gmbh.md
         - name: WorkplaceBuddy
           href: teams/workplacebuddy.md
         - name: Wrike
