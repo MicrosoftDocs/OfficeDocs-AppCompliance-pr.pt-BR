@@ -156,6 +156,8 @@
       items:
         - name: Adobe Acrobat Sign para Microsoft Office SharePoint Online
           href: sharepoint/adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md
+        - name: Painel de Tarefas Agile para SharePoint Online
+          href: sharepoint/agile-is-task-board-for-sharepoint-online.md
         - name: ArcGIS para SharePoint
           href: sharepoint/esri-inc-arcgis-for-sharepoint.md
         - name: Sistema de Gerenciamento de Ofertas
@@ -221,6 +223,8 @@
           href: teams/adobe-acrobat-sign.md
         - name: Agenda Chefe
           href: teams/appfluence-inc-agenda-boss.md
+        - name: Quadro de Tarefas Agile
+          href: teams/agile-is-task-board.md
         - name: Produtor de IA
           href: teams/livearena-technologies-ab-ai-producer.md
         - name: Aimful
@@ -1862,6 +1866,8 @@
           href: azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md
         - name: dc171e47-c074-4bc2-9e7b-3856b71e0630
           href: azure/dc171e47-c074-4bc2-9e7b-3856b71e0630.md
+        - name: dc8facfc-c606-44b4-a0ad-04f81446845c
+          href: azure/dc8facfc-c606-44b4-a0ad-04f81446845c.md
         - name: dea67e43-444e-4852-b57b-b57878a4022b
           href: azure/dea67e43-444e-4852-b57b-b57878a4022b.md
         - name: e208746a-2666-4d95-b925-e2ff64b3181d

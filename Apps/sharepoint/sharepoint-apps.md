@@ -1,39 +1,46 @@
 ---
-title: Microsoft SharePoint Apps Segurança e Conformidade - Todos os Aplicativos
+title: Segurança e conformidade do Microsoft SharePoint Apps – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 04/08/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos SharePoint Microsoft.
 localization_priority: Normal
+ms.openlocfilehash: 18973e890d4ebf8a24eb8a0611f7224e1c7aa1a1
+ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 04/10/2022
+ms.locfileid: "64747740"
 ---
-# <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint Aplicativos de Segurança e Conformidade
+# <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Segurança e conformidade do Microsoft SharePoint Apps
 
-A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para fornecer as informações que as organizações precisam para acelerar e informar as decisões sobre o Microsoft SharePoint Aplicativos e os complementos que usam. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
+A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para fornecer as informações que as organizações precisam para agilizar e informar decisões sobre os aplicativos e suplementos do Microsoft SharePoint que usam. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
 
 | **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Adobe Acrobat Sign for Microsoft Office SharePoint Online](./adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Adobe Acrobat Sign para Microsoft Office SharePoint Online](./adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Painel de Tarefas Agile para SharePoint Online](./agile-is-task-board-for-sharepoint-online.md) | Agile-IS | **✓** |  |
 | [ArcGIS para SharePoint](./esri-inc-arcgis-for-sharepoint.md) | Esri, Inc. | **✓** |  |
 | [Sistema de Gerenciamento de Ofertas](./beyond-technologies-bid-management-system.md) | Além das tecnologias | **✓** |  |
-| [Bizagi Webparts](./bizagi-team-webparts.md) | Equipe Bizagi | **✓** |  |
-| [Sobreposição de calendário](./cloudwell-calendar-overlay.md) | Cloudwell | **✓** |  |
+| [Bizagi Webparts](./bizagi-team-webparts.md) | Equipe bizagi | **✓** |  |
+| [Sobreposição de Calendário](./cloudwell-calendar-overlay.md) | Cloudwell | **✓** |  |
 | [Conector FormMachines para SharePoint](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | ENTERPRISE DIGITAL MACHINES PTY LTD | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [HelloSign para SharePoint](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox Inc. | **✓** |  |
 | [Ichicraft Boards - Seu Local de Trabalho Digital](./ichicraft-bv-boards-your-digital-workplace.md) | ichicraft b.v. | **✓** |  |
 | [Complementos do iGlobe CRM](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [IGlobe CRM Office 365 para Microsoft Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [iGlobe CRM Office 365 para Microsoft Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Konnect eMail Parser](./konnect-email-parser.md) | Konnect eMail | **✓** |  |
 | [LifeWorks Conexões do Viva](./lifeworks-inc-viva-connections.md) | Lifeworks Inc | **✓** |  |
-| [Lightning Tools Lightning Conductor](./lightning-tools-conductor.md) | Ferramentas Do Relâmpago | **✓** |  |
-| [officeatwork - Selador de modelo para SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Lightning Tools Lightning Condutor](./lightning-tools-conductor.md) | Ferramentas do Lightning | **✓** |  |
+| [officeatwork – Selador de modelo para SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Colaboração do Power BI](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
-| [SharePoint-sapiens Gerenciamento de Treinamento de Funcionários](./sharepointsapiens-employee-training-management.md) | SharePointSapiens | **✓** |  |
-| [SharePoint-sapiens Event Management](./sharepointsapiens-event-management.md) | SharePointSapiens | **✓** |  |
-| [SharePoint-sapiens interface de usuário moderna](./sharepointsapiens-modern-user-interface.md) | SharePointSapiens | **✓** |  |
-| [Reserva de Eventos Mais Inteligentes](./smarter-business-solutions-gmbh-event-booking.md) | GmbH soluções de negócios mais inteligentes | **✓** |  |
-| [Fóruns de Discussão No Quadrado Social](./lightning-tools-social-squared-discussion-forums.md) | Ferramentas Do Relâmpago | **✓** |  |
+| [SharePoint gerenciamento de treinamento de funcionários do SharePoint-sapiens](./sharepointsapiens-employee-training-management.md) | SharePointSapiens | **✓** |  |
+| [SharePoint-sapiens](./sharepointsapiens-event-management.md) | SharePointSapiens | **✓** |  |
+| [SharePoint interface do usuário moderna do SharePoint-sapiens](./sharepointsapiens-modern-user-interface.md) | SharePointSapiens | **✓** |  |
+| [Reserva de eventos mais inteligente](./smarter-business-solutions-gmbh-event-booking.md) | Smarter Business Solutions GmbH | **✓** |  |
+| [Fóruns de discussão ao quadrado social](./lightning-tools-social-squared-discussion-forums.md) | Ferramentas do Lightning | **✓** |  |
 | [Taxonomia](./accuracy-software-inc-taxonomy.md) | Accuracy Software Inc. | **✓** |  |
-| [Zynyo Sign for SharePoint Online](./zynyo-sign-for-sharepoint-online.md) | Zynyo | **✓** |  |
+| [Logon do Zynyo para SharePoint Online](./zynyo-sign-for-sharepoint-online.md) | Zynyo | **✓** |  |
