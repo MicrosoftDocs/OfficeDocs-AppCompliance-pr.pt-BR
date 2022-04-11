@@ -3,17 +3,17 @@ title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/07/2022
+ms.date: 04/08/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 4210845e777f73f745aa4f1c473077879bd611ba
-ms.sourcegitcommit: 9cc3fe8502a6f21f3f6abb4dd23b99b116c51b8e
+ms.openlocfilehash: b7ace23d3a6ee4255861be1691c48cf301688367
+ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64722105"
+ms.lasthandoff: 04/10/2022
+ms.locfileid: "64753660"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -31,6 +31,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Adobe Acrobat](./adobe-systems-inc-acrobat.md) | Adobe Systems Inc. | **✓** |  |
 | [Assinatura do Adobe Acrobat](./adobe-acrobat-sign.md) | Adobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Agenda Chefe](./appfluence-inc-agenda-boss.md) | Appfluence Inc | **✓** |  |
+| [Quadro de Tarefas Agile](./agile-is-task-board.md) | Agile-IS | **✓** |  |
 | [Produtor de IA](./livearena-technologies-ab-ai-producer.md) | LiveArena Technologies AB | **✓** |  |
 | [Aimful](./aimful.md) | Aimful | **✓** |  |
 | [interpretação do Akouo](./akouo-technologies-inc-interpretation.md) | Akouo Technologies Inc. | **✓** |  |

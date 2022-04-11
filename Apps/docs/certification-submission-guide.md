@@ -7,12 +7,12 @@ description: Microsoft 365 do Guia de Envio de Certificação do Microsoft 365
 keywords: equipes de certificação Microsoft 365 conformidade de segurança m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 753b40f63b293fea83705ae8124f5f22cbebe394
-ms.sourcegitcommit: 9cc3fe8502a6f21f3f6abb4dd23b99b116c51b8e
+ms.openlocfilehash: 5081e187615400b038795215ad0d5dcc934e1a87
+ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64720975"
+ms.lasthandoff: 04/10/2022
+ms.locfileid: "64751820"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 de Envio de Certificação do Microsoft 365
 
@@ -90,6 +90,7 @@ O **ambiente no escopo** é o ambiente que dá suporte à entrega do código do 
 
 ### <a name="infrastructure-as-a-service-iaas-platform-as-a-service-paas-and-software-as-a-service-saas"></a>IaaS (infraestrutura como serviço), PaaS (plataforma como serviço) e SaaS (software como serviço) 
 Quando a IaaS e/ou PaaS é usada para dar suporte à infraestrutura do aplicativo ou da entrega de código de suplemento em revisão, o provedor de plataforma de nuvem será responsável por alguns dos controles de segurança avaliados em todo o processo de certificação. Portanto, os analistas de certificação precisarão ser fornecidos com a verificação externa independente das melhores práticas de segurança pelo provedor de plataforma de nuvem por meio de relatórios de conformidade externa, como relatórios de AOC (Atestado de Conformidade) de PCI DSS, ISO27001 ou SOC 2 Tipo II. 
+
 
 O Apêndice F fornece detalhes sobre quais controles de segurança provavelmente serão aplicáveis com base nos seguintes tipos de implantação e com base em se o aplicativo/suplemento exfiltra dados M365 ou não: 
 * ISV hospedado 
@@ -249,6 +250,7 @@ Quando as técnicas são usadas para segmentar os ambientes no escopo de outros 
 Os relatórios de teste de penetração serão revisados para garantir que não haja vulnerabilidades que atendam aos seguintes critérios  **de** falha automática descritos nos controles abaixo.
  
 **Requisitos de teste de penetração**
+
 
 |**Tipo de Critérios**|**Controles de teste de penetração**|
 | -------------------------|-----------------------------|
