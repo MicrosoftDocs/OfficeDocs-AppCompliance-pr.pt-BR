@@ -3,17 +3,17 @@ title: Azure App segurança e conformidade de IDs – Todos os aplicativos
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/08/2022
+ms.date: 04/09/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todas as Azure App IDs.
 localization_priority: Normal
-ms.openlocfilehash: a8b9282ac5a2de6649adb8dd4905498721aa589c
-ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.openlocfilehash: 8f2d4c27559fb3da5e222b570b8689314d652c39
+ms.sourcegitcommit: 60344676a860c837b8a727c43d6cec430044c3f4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/10/2022
-ms.locfileid: "64751520"
+ms.lasthandoff: 04/11/2022
+ms.locfileid: "64768500"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure App segurança e conformidade de IDs
 
@@ -304,6 +304,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [eb628055-f790-4ef0-9fce-ac95b4c61466](./eb628055-f790-4ef0-9fce-ac95b4c61466.md) | **✓** |  |
 | [eb668aa5-abb2-445c-81b4-3c174db84fe2](./eb668aa5-abb2-445c-81b4-3c174db84fe2.md) | **✓** |  |
 | [ecff17cf-5629-49ba-a629-7f575496aeac](./ecff17cf-5629-49ba-a629-7f575496aeac.md) | **✓** |  |
+| [ed6cb2ac-21e8-4e9c-a917-6a2d5f03e3a5](./ed6cb2ac-21e8-4e9c-a917-6a2d5f03e3a5.md) | **✓** |  |
 | [edb24f8f-38af-4b3e-9475-0da243678d5a](./edb24f8f-38af-4b3e-9475-0da243678d5a.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ef5fa233-c0bb-424e-b9dc-0466d46bade2](./ef5fa233-c0bb-424e-b9dc-0466d46bade2.md) | **✓** |  |
 | [f0199b83-0ca3-4b41-a23b-d9b234484438](./f0199b83-0ca3-4b41-a23b-d9b234484438.md) | **✓** |  |
@@ -325,5 +326,4 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da](./fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da.md) | **✓** |  |
 | [fc8f7563-e8ea-4b6d-9622-82775a21a35a](./fc8f7563-e8ea-4b6d-9622-82775a21a35a.md) | **✓** |  |
 | [foodbfc71-2cf8-42f0-bcdd-83e5f4acfdcc](./fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) | **✓** |  |
-| [ff540df6-84dc-4a84-baa4-a95ce3b415cd](./ff540df6-84dc-4a84-baa4-a95ce3b415cd.md) | **✓** |  |
 | [ff5f406c-2ded-423f-b6ba-2950a2532b69](./ff5f406c-2ded-423f-b6ba-2950a2532b69.md) | **✓** |  |
