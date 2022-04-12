@@ -1,46 +1,48 @@
 ---
-title: Content Chooser for Outlook Application Information
+title: Informações de aplicativo para Laduma da Laduma Ltd.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 01/25/2022
+ms.date: 04/11/2022
 ms.topic: article
 ms.service: attestation
-certification_type: certified
-description: Todas as informações de segurança e conformidade disponíveis para o officeatwork | O Content Chooser para Outlook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
+certification_type: attested
+description: Todas as informações de segurança e conformidade disponíveis para Laduma, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a8602a9cf802303a329bd40bd5e2f24922d6192e
+ms.openlocfilehash: 3907a9a025a2d11abae4414d7a403fde9e2ccb22
 ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784010"
+ms.locfileid: "64784564"
 ---
-# <a name="content-chooser-for-outlook-application-information"></a>Content Chooser for Outlook Application Information
+# <a name="laduma"></a>Laduma
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Última atualização pelo desenvolvedor em: 24 de janeiro de 2022</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>Última atualização pelo desenvolvedor em: 28 de fevereiro de 2022</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380690" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/3bcb0d8a-5ec8-4637-a946-958e5c0277fd" target="_blank">Exibir no Teams armazenamento</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003907" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo officeatwork à Microsoft:
+Informações fornecidas pela Laduma Ltd. à Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | officeatwork - Content Chooser for Outlook |
-| ID | WA104380690 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
-| Nome da empresa parceira | officeatwork |
-| Site da empresa | [https://www.officeatwork.com](https://www.officeatwork.com) |
-| Termos de Uso do Aplicativo | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
-| Funcionalidade principal do aplicativo | Acesse seu conteúdo compartilhado centralmente no Word, Excel, PowerPoint, Outlook, Navegador e outros Aplicativos. |
-| Localização da sede da empresa | Suíça |
-| Página de informações do aplicativo | [https://links.officeatwork.com/officeatwork-apps](https://links.officeatwork.com/officeatwork-apps) |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
+| Nome do aplicativo | Laduma |
+| ID | WA200003907 |
+| Office 365 clientes com suporte | Microsoft Teams |
+| Nome da empresa parceira | Laduma Ltd. |
+| Site da empresa | [https://laduma.com](https://laduma.com) |
+| Termos de Uso do Aplicativo | [https://laduma.com/terms-of-service/](https://laduma.com/terms-of-service/) |
+| Funcionalidade principal do aplicativo | Quadro de comunicações, documento e compartilhamento de aplicativos ilimitados para Microsoft Teams |
+| Localização da sede da empresa | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
+| Página de informações do aplicativo | |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -51,14 +53,20 @@ Informações fornecidas pelo officeatwork à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
-Essas informações foram fornecidas pelo officeatwork sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Laduma Ltd. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
-| Quais dados são processados pelo seu aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| Quais dados são processados pelo seu aplicativo? | Dados de perfil do usuário, dados de evento do usuário, tokens de acesso graphAPI, Microsoft Teams canais, calendário e recursos de sala |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
+| Quais dados são armazenados em seus bancos de dados? | Dados de perfil do usuário, dados de evento do usuário, tokens de acesso graphAPI, Microsoft Teams canais, calendário e recursos de sala |
+| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
+| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Menos de 90 dias |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -70,8 +78,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você executa testes de penetração anuais no aplicativo? | Sim |
-| O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Você executa testes de penetração anuais no aplicativo? | Não |
+| O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Não |
 | Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | ApplicationControls |
 | Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Sim |
 | Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Sim |
@@ -82,15 +90,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
 | Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
 | As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
-| Autenticação Multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
+| Autenticação Multifator (MFA) habilitada para: | DNSManagement, Credential |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
 | Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | N/D |
 | Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
-| Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim|
-| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
-| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Sim |
-| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
-| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
+| Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim |
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Não |
+| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Não |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -103,15 +110,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | N/D |
 | O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
-| Data de certificação SOC1 mais recente |   |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
-| Qual certificação do SOC 2 você obteve? | |
-| Data de certificação SOC2 mais recente | |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
-| Data de certificação SOC3 mais recente | |
 | Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
 | O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Não |
-| O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | N/D |
+| O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | Não |
 | O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Não |
 | O aplicativo está em conformidade com a ISO 27002 (Organização Internacional para Padronização)? | Não |
 | O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Não |
@@ -131,15 +134,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
 | O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Sim |
-| URL da Política de Privacidade | https://links.officeatwork.com/officeatwork-privacypolicy |
+| URL da Política de Privacidade | https://laduma.com/privacy-policy/ |
 | O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
 | O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
 | Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
 | O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
-| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
-| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Sim |
-| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
-| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Não |
+| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Não |
+| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | N/D |
+| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -153,25 +156,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
 | Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | N/D |
 | Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
-| Listar os tipos de políticas com suporte | Padrões de segurança |
-| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Sim |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
 | Seu aplicativo armazena credenciais no código? | Não |
-| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Sim |
+| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
 >|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite.All | Delegada | Habilitar favoritos e OneDrive recurso | [edb24f8f-38af-4b3e-9475-0da243678d5a](../azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md) |
->| Group.ReadWrite.All | Delegada | Habilitar Teams recurso | [edb24f8f-38af-4b3e-9475-0da243678d5a](../azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md) |
->| GroupMember.Read.All | Delegada | Habilitar Teams recurso | [edb24f8f-38af-4b3e-9475-0da243678d5a](../azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md) |
->| Sites.Read.All | Delegada | Ler os arquivos de modelo de usuários armazenados SharePoint | [edb24f8f-38af-4b3e-9475-0da243678d5a](../azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md) |
->| User.Read | Delegada | Habilitar a exibição de usuário conectado | [edb24f8f-38af-4b3e-9475-0da243678d5a](../azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md) |
->| User.Read.All | Delegada | Habilitar a exibição de propriedades do usuário | [edb24f8f-38af-4b3e-9475-0da243678d5a](../azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md) |
->| offline_access | Delegada | Habilitar a entrada automatizada para hosts Office mais antigos | [edb24f8f-38af-4b3e-9475-0da243678d5a](../azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md) |
->| openid | Delegada | Habilitar entrada | [edb24f8f-38af-4b3e-9475-0da243678d5a](../azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md) |
->| perfil | Delegada | Habilitar entrada | [edb24f8f-38af-4b3e-9475-0da243678d5a](../azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md) |
+>| Application.Read.All | aplicação | Verifique se você tem nosso aplicativo instalado quando tentarmos adicionar uma reunião ao seu calendário | [21759f96-a64d-450b-bf2a-b5e932d6ea01](../azure/21759f96-a64d-450b-bf2a-b5e932d6ea01.md) |
+>| Calendars.Read | Ambos | Precisamos adicionar reuniões ao calendário do usuário | [21759f96-a64d-450b-bf2a-b5e932d6ea01](../azure/21759f96-a64d-450b-bf2a-b5e932d6ea01.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

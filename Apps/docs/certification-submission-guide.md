@@ -3,16 +3,16 @@ ms.author: oromalle
 title: Microsoft 365 de Envio de Certificação do Microsoft 365
 author: orionomalley
 manager: tonybal
-description: Microsoft 365 do Guia de Envio de Certificação do Microsoft 365
+description: Microsoft 365 certificação oferece garantia e confiança às organizações corporativas de que os dados e a privacidade estão adequadamente protegidos e protegidos.
 keywords: equipes de certificação Microsoft 365 conformidade de segurança m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 5081e187615400b038795215ad0d5dcc934e1a87
-ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.openlocfilehash: fd6082a482cdf5e4dc268f140b7f2a8de4d8880f
+ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/10/2022
-ms.locfileid: "64751820"
+ms.lasthandoff: 04/12/2022
+ms.locfileid: "64784520"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 de Envio de Certificação do Microsoft 365
 
@@ -89,8 +89,7 @@ O **ambiente no escopo** é o ambiente que dá suporte à entrega do código do 
 > O ambiente no escopo deve ter uma DMZ e o ambiente de suporte do aplicativo/suplemento deve ser segmentado dos sistemas de negócios internos e ambientes corporativos, limitando assim o escopo das atividades de avaliação apenas aos sistemas no escopo. Os analistas de certificação validam técnicas de segmentação durante a avaliação, juntamente com a revisão de relatórios de testes de penetração, que devem ter incluído testes para validar a eficácia de todas as técnicas de segmentação em uso.
 
 ### <a name="infrastructure-as-a-service-iaas-platform-as-a-service-paas-and-software-as-a-service-saas"></a>IaaS (infraestrutura como serviço), PaaS (plataforma como serviço) e SaaS (software como serviço) 
-Quando a IaaS e/ou PaaS é usada para dar suporte à infraestrutura do aplicativo ou da entrega de código de suplemento em revisão, o provedor de plataforma de nuvem será responsável por alguns dos controles de segurança avaliados em todo o processo de certificação. Portanto, os analistas de certificação precisarão ser fornecidos com a verificação externa independente das melhores práticas de segurança pelo provedor de plataforma de nuvem por meio de relatórios de conformidade externa, como relatórios de AOC (Atestado de Conformidade) de PCI DSS, ISO27001 ou SOC 2 Tipo II. 
-
+Quando a IaaS e/ou PaaS é usada para dar suporte à infraestrutura do aplicativo ou da entrega de código de suplemento em revisão, o provedor de plataforma de nuvem será responsável por alguns dos controles de segurança avaliados em todo o processo de certificação. Portanto, os analistas de certificação precisarão ser fornecidos com a verificação externa independente das práticas recomendadas de segurança pelo provedor de plataforma de nuvem por meio de relatórios de conformidade externa, como relatórios do Tipo II do [PCI DSS] Atestado de Conformidade (AOC), ISO27001 ou [SOC 2]. 
 
 O Apêndice F fornece detalhes sobre quais controles de segurança provavelmente serão aplicáveis com base nos seguintes tipos de implantação e com base em se o aplicativo/suplemento exfiltra dados M365 ou não: 
 * ISV hospedado 
