@@ -106,6 +106,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003946.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/adobe-creative-cloud-express",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/85d6a7d0-94aa-11ea-a1d7-2f19374441f9.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/adobe-creative-cloud-express",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381158.md",
       "redirect_url": "/microsoft-365-app-certification/outlook/adobe-inc-sign-add-in-for-outlook",
       "redirect_document_id": false
@@ -483,6 +493,16 @@
     {
       "source_path": "Apps/forward/d813aed5-1071-460c-a088-1e6beedfe29a.md",
       "redirect_url": "/microsoft-365-app-certification/teams/axelleron",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003932.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/axis-workshops-ltd",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/788dc4ca-d5ee-40bb-9263-29017e797e29.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/axis-workshops-ltd",
       "redirect_document_id": false
     },
     {
@@ -1471,6 +1491,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003519.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/eformity-eformitytemplate-management",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/74843469-2e76-45e6-acdc-b755a4a4adf0.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/eformity-eformitytemplate-management",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381174.md",
       "redirect_url": "/microsoft-365-app-certification/teams/egnyte",
       "redirect_document_id": false
@@ -1678,6 +1708,16 @@
     {
       "source_path": "Apps/forward/WA104380955.md",
       "redirect_url": "/microsoft-365-app-certification/excel/analysisplace-excel-to-word-document-automation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003924.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/expensya",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/acbc0cba-5e0a-4bb5-a15c-21bce2863f01.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/expensya",
       "redirect_document_id": false
     },
     {
@@ -2171,16 +2211,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200002220.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/highside-inc",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/3c77edc8-0136-4ca2-8d4b-3558923c0e77.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/highside-inc",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200003916.md",
       "redirect_url": "/microsoft-365-app-certification/teams/highside-inc-collaboration",
       "redirect_document_id": false
@@ -2456,6 +2486,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/numonix.nmx-teams.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/numonix-llc-ixcloud-teams-compliance-recordingintelligence",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200001496.md",
       "redirect_url": "/microsoft-365-app-certification/teams/cisco-jabber",
       "redirect_document_id": false
@@ -2661,6 +2696,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003907.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/laduma-ltd",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/3bcb0d8a-5ec8-4637-a946-958e5c0277fd.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/laduma-ltd",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381656.md",
       "redirect_url": "/microsoft-365-app-certification/teams/lawtoolboxcominc-lawtoolbox",
       "redirect_document_id": false
@@ -2688,6 +2733,16 @@
     {
       "source_path": "Apps/forward/fbd624a5-8d34-495d-a68c-a1101997a8a2.md",
       "redirect_url": "/microsoft-365-app-certification/teams/lawvu-apac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003931.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/lawvu-europe",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/ce6fa59d-9c48-492c-b0e2-434abe99c355.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/lawvu-europe",
       "redirect_document_id": false
     },
     {
@@ -3296,16 +3351,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200003196.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/nicknack-ltd",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/db48efc4-7573-4d12-86c1-08dc65a7da83.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/nicknack-ltd",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200003202.md",
       "redirect_url": "/microsoft-365-app-certification/teams/room6-nickname-by-flowrish-games",
       "redirect_document_id": false
@@ -3716,11 +3761,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104380739.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104381384.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
       "redirect_document_id": false
@@ -3728,6 +3768,11 @@
     {
       "source_path": "Apps/forward/90381cb0-998f-4ba3-9699-130201de5ddb.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA104380739.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
       "redirect_document_id": false
     },
     {
@@ -3761,11 +3806,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/appfluenceinc.m_pm_msft.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/appfluence-inc-priority-matrix",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104382005.md",
       "redirect_url": "/microsoft-365-app-certification/teams/appfluence-inc-priority-matrix",
       "redirect_document_id": false
@@ -3773,6 +3813,11 @@
     {
       "source_path": "Apps/forward/5be2b320-a5b7-4221-893c-dee506e4e365.md",
       "redirect_url": "/microsoft-365-app-certification/teams/appfluence-inc-priority-matrix",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/appfluenceinc.m_pm_msft.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/appfluence-inc-priority-matrix",
       "redirect_document_id": false
     },
     {
@@ -4086,6 +4131,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/salestim.salestim.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/salestim",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200001393.md",
       "redirect_url": "/microsoft-365-app-certification/teams/salestim",
       "redirect_document_id": false
@@ -4093,11 +4143,6 @@
     {
       "source_path": "Apps/forward/589748de-ec98-4616-9063-e91c629bd1a4.md",
       "redirect_url": "/microsoft-365-app-certification/teams/salestim",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/salestim.salestim.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/salestim",
       "redirect_document_id": false
     },
     {
@@ -4308,6 +4353,16 @@
     {
       "source_path": "Apps/forward/1517b59d-6d65-4316-a708-035adc659394.md",
       "redirect_url": "/microsoft-365-app-certification/teams/slido",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003927.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/smarp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/a215056b-cd33-43c3-930e-a8c8a5fa29f1.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/smarp",
       "redirect_document_id": false
     },
     {
@@ -4623,6 +4678,16 @@
     {
       "source_path": "Apps/forward/0fd925a0-357f-4d25-8456-b3022aaa41a9.md",
       "redirect_url": "/microsoft-365-app-certification/teams/surveymonkey",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003925.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/moodbit-surveymoodbit",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/86425243-0129-41f7-bf74-971bee7ff3d3.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/moodbit-surveymoodbit",
       "redirect_document_id": false
     },
     {
@@ -5011,6 +5076,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003945.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/kitameraki-limited-ticketing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/aa6b770e-6b8c-4096-9648-5239295ecadc.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/kitameraki-limited-ticketing",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002602.md",
       "redirect_url": "/microsoft-365-app-certification/teams/cireson-tikit",
       "redirect_document_id": false
@@ -5068,6 +5143,16 @@
     {
       "source_path": "Apps/forward/5022e09d-d2f9-499f-8925-554c324ad23a.md",
       "redirect_url": "/microsoft-365-app-certification/teams/totara-learning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003655.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/edgility-touchsms",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/d4275409-72a2-423e-9557-e088f0e68f20.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/edgility-touchsms",
       "redirect_document_id": false
     },
     {
@@ -5561,6 +5646,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200001616.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/zoho-corporation-private-limited-notebook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/fc4f087a-a781-4f19-be85-86977bf45c95.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/zoho-corporation-private-limited-notebook",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104382011.md",
       "redirect_url": "/microsoft-365-app-certification/teams/zoho-corporation-private-limited-sign",
       "redirect_document_id": false
@@ -5711,6 +5806,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/azure/12c3ee39-9735-4cca-8006-94650d19f770.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/12c3ee39-9735-4cca-8006-94650d19f770",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb.md",
       "redirect_url": "/microsoft-365-app-certification/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb",
       "redirect_document_id": false
@@ -5773,6 +5873,11 @@
     {
       "source_path": "Apps/forward/azure/1e96a64b-9c1c-4cbc-b015-70243ea06c9b.md",
       "redirect_url": "/microsoft-365-app-certification/azure/1e96a64b-9c1c-4cbc-b015-70243ea06c9b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/21759f96-a64d-450b-bf2a-b5e932d6ea01.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/21759f96-a64d-450b-bf2a-b5e932d6ea01",
       "redirect_document_id": false
     },
     {
@@ -5858,6 +5963,11 @@
     {
       "source_path": "Apps/forward/azure/2fa142be-31b5-4fda-bd37-591541b501aa.md",
       "redirect_url": "/microsoft-365-app-certification/azure/2fa142be-31b5-4fda-bd37-591541b501aa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/30c7a49f-89f6-45ba-9938-ed627d102c54.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/30c7a49f-89f6-45ba-9938-ed627d102c54",
       "redirect_document_id": false
     },
     {
@@ -6236,6 +6346,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/azure/6ce7c411-d7c9-4c4f-882e-164447c9b44a.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/6ce7c411-d7c9-4c4f-882e-164447c9b44a",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b.md",
       "redirect_url": "/microsoft-365-app-certification/azure/6d7f01cb-cfa5-48d9-beed-363d381ae32b",
       "redirect_document_id": false
@@ -6298,6 +6413,11 @@
     {
       "source_path": "Apps/forward/azure/74ef25ab-3685-446c-aa43-4e9cc251ed62.md",
       "redirect_url": "/microsoft-365-app-certification/azure/74ef25ab-3685-446c-aa43-4e9cc251ed62",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded",
       "redirect_document_id": false
     },
     {
@@ -6461,6 +6581,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/azure/9944c8e1-fc22-4546-8023-9459b75c472a.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/9944c8e1-fc22-4546-8023-9459b75c472a",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/azure/99455ec0-6207-4889-9c8c-96216a274a6b.md",
       "redirect_url": "/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b",
       "redirect_document_id": false
@@ -6606,6 +6731,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/azure/aa6b770e-6b8c-4096-9648-5239295ecadc.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/aa6b770e-6b8c-4096-9648-5239295ecadc",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md",
       "redirect_url": "/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13",
       "redirect_document_id": false
@@ -6736,6 +6866,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/azure/bed944b9-c7f5-459a-b7af-53c421248893.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/bed944b9-c7f5-459a-b7af-53c421248893",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/azure/bf75bbb7-8d86-434e-86f2-4ec7bd24d149.md",
       "redirect_url": "/microsoft-365-app-certification/azure/bf75bbb7-8d86-434e-86f2-4ec7bd24d149",
       "redirect_document_id": false
@@ -6748,6 +6883,11 @@
     {
       "source_path": "Apps/forward/azure/c1abaf93-e823-4e9a-a810-34a47e77ef71.md",
       "redirect_url": "/microsoft-365-app-certification/azure/c1abaf93-e823-4e9a-a810-34a47e77ef71",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/c2395027-53de-4f00-b658-246d82ed7e6f.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/c2395027-53de-4f00-b658-246d82ed7e6f",
       "redirect_document_id": false
     },
     {
@@ -6991,6 +7131,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/azure/ed6cb2ac-21e8-4e9c-a917-6a2d5f03e3a5.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/ed6cb2ac-21e8-4e9c-a917-6a2d5f03e3a5",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/azure/edb24f8f-38af-4b3e-9475-0da243678d5a.md",
       "redirect_url": "/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a",
       "redirect_document_id": false
@@ -7096,8 +7241,8 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/azure/ff540df6-84dc-4a84-baa4-a95ce3b415cd.md",
-      "redirect_url": "/microsoft-365-app-certification/azure/ff540df6-84dc-4a84-baa4-a95ce3b415cd",
+      "source_path": "Apps/forward/azure/ff50870f-b19b-489c-9766-4bcee4e843eb.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/ff50870f-b19b-489c-9766-4bcee4e843eb",
       "redirect_document_id": false
     },
     {
