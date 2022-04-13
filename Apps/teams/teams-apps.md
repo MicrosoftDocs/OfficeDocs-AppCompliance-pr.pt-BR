@@ -3,17 +3,17 @@ title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/11/2022
+ms.date: 04/12/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: dbe22ec8eed60df3f2603a99a90e52a61c11d535
-ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
+ms.openlocfilehash: 6038f62bf7b6b5c56cfe3eb8bbcdc5dafb721d2b
+ms.sourcegitcommit: a1c141babe5cca98683ce1378f956c5955fb9caf
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784170"
+ms.locfileid: "64812938"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -400,6 +400,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Skoach](./cultify-lda-skoach.md) | Cultify, Lda | **✓** |  |
 | [SkyPoint Cloud](./skypoint-cloud-inc.md) | SkyPoint Cloud Inc. | **✓** |  |
 | [Slido](./slido.md) | Slido | **✓** |  |
+| [Smarp](./smarp.md) | Smarp | **✓** |  |
 | [Smart Connect para Jira](./yasoon-gmbh-smart-connect-for-jira.md) | yasoon GmbH | **✓** |  |
 | [SmartDraw](./smartdraw-software-llc.md) | SmartDraw Software, LLC | **✓** |  |
 | [Smartnotation](./smartnotation-bv.md) | Smartnotation B.V. | **✓** |  |
@@ -471,6 +472,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  |
 | [Totara](./totara-learning.md) | Aprendizagem do Totara | **✓** |  |
+| [touchSMS](./edgility-touchsms.md) | Edgility | **✓** |  |
 | [Assistente de Treinamento](./the-bot-platform-training-assistant.md) | A Plataforma do Bot | **✓** |  |
 | [Tribute](./tribute-co.md) | Tribute Co. | **✓** |  |
 | [Trivia](./springworks-hr-tech-trivia.md) | Springworks HR Tech | **✓** |  |
