@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos SaaS.
 localization_priority: Normal
-ms.openlocfilehash: fe56ddc1a3306d7d4fbaabe0003a811e4b4ac82d
-ms.sourcegitcommit: 10b79d3f6a6d9d89c3b288789a14eafdfcc42d7a
+ms.openlocfilehash: 16c6e754cbf7575de16f7644d9a8ef19f05906ca
+ms.sourcegitcommit: e0ff50c6828c1ea7789f8c507dc62b66d15768d8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64838767"
+ms.lasthandoff: 04/14/2022
+ms.locfileid: "64842092"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Segurança e conformidade de aplicativos SaaS
 
@@ -48,7 +48,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Luware Nimbus para Microsoft Teams](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** |  |
 | [Assinatura de Email](./officeatwork-mail-signature.md) | officeatwork | **✓** |  |
 | [MIPA – Meu Assistente Pessoal Inteligente](./iglobe-mipa-my-intelligent-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [MURAL](./mural.md) | MURAL | **✓** |  |
+| [MURAL](./mural.md) | MURAL | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [MyHub para Teams](./avepoint-inc-myhub-for-teams.md) | AvePoint Inc. | **✓** |  |
 | [Netskope para Microsoft Teams](./netskope-for-microsoft-teams.md) | Netskope | **✓** |  |
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
