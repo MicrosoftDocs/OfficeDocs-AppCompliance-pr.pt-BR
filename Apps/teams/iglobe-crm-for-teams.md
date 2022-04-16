@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para iGlobe CRM para Teams por iGlobe
+title: Informações do aplicativo para iGlobe CRM para Teams by iGlobe
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,21 +7,21 @@ ms.date: 12/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Todas as informações de segurança e conformidade disponíveis para o iGlobe CRM para Teams, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o iGlobe CRM para Teams, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2cd05e66be09be9374dc9e636a13acc81c5eee90
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 5a5737f71022776d3c9a43fb92d5f96fd1163df6
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63544709"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64880198"
 ---
 # <a name="iglobe-crm-for-teams"></a>iGlobe CRM para o Teams
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Última atualização pelo desenvolvedor em: 9 de dezembro de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/f708066c-137d-41a1-a88b-a6f3ae8982e2" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/f708066c-137d-41a1-a88b-a6f3ae8982e2" target="_blank">Exibir no Teams armazenamento</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381421" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -35,10 +35,10 @@ Informações fornecidas pelo iGlobe à Microsoft:
 | Nome do aplicativo | iGlobe CRM para o Teams |
 | ID | WA104381421 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | iGlobe |
+| Nome da empresa parceira | iGlobe |
 | Site da empresa | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
-| Termos de uso do aplicativo | [https://iglobecrm.com/content/iglobe-crm-office-365-end-use...](https://iglobecrm.com/content/iglobe-crm-office-365-end-user-license-agreement) |
-| Funcionalidade principal do aplicativo | O iGlobe CRM Office 365 um SharePoint fornecido hospedado. O iGlobe CRM Office 365 é um add-in do CRM simples e fácil de usar para empresas usando Office 365. Com o Outlook-, Excel, os complementos do Word e o aplicativo Teams combinados com uma integração perfeita com o Office 365 Planner, SharePoint e Teams o add-in do SharePoint iGlobe é uma extensão Office 365 verdadeira. O nível de permissão do iGlobe CRM é definido com base na integração em todos os serviços Microsoft 365 usados.  |
+| Termos de Uso do Aplicativo | [https://iglobecrm.com/content/iglobe-crm-office-365-end-use...](https://iglobecrm.com/content/iglobe-crm-office-365-end-user-license-agreement) |
+| Funcionalidade principal do aplicativo | O iGlobe CRM Office 365 um SharePoint fornecido hospedado. O iGlobe CRM Office 365 é um suplemento crm simples e fácil de usar para empresas usando Office 365. Com Outlook, Excel, suplementos do Word e aplicativo Teams combinados com uma integração perfeita com o Office 365 Planner, o SharePoint e o Teams do iGlobe SharePoint é uma extensão Office 365 verdadeira. O nível de permissão do iGlobe CRM é definido com base na integração em todos os serviços Microsoft 365 usados.  |
 | Localização da sede da empresa | Dinamarca |
 | Página de informações do aplicativo | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
@@ -50,13 +50,13 @@ Informações fornecidas pelo iGlobe à Microsoft:
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
+### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
 Essas informações foram fornecidas pelo iGlobe sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Não |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -69,27 +69,27 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você realiza testes de penetração anual no aplicativo? | Sim |
-| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | TraditionalAntiMalware, ApplicationControls |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
-| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Sim |
-| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Sim |
+| Você executa testes de penetração anuais no aplicativo? | Sim |
+| O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | TraditionalAntiMalware, ApplicationControls |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Sim |
+| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Sim |
+| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? | Sim |
 | Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
-| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Sim |
-| Você tem um firewall instalado no limite de rede externo? | Sim |
-| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
-| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Sim |
-| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Sim |
-| Autenticação multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? | Sim |
+| Você tem um firewall instalado no limite de rede externa? | Sim |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
+| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
+| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
+| Autenticação Multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
-| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | N/D |
-| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
-| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim|
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | N/D |
+| Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
+| Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
-| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Sim |
-| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
-| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
+| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Sim |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Sim |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -99,26 +99,26 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | Sim |
-| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Sim |
+| O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | Sim |
+| O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | Sim |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Sim |
-| Data de certificação SOC1 mais recente |  2020-11-01 |
+| Data de certificação SOC1 mais recente | 2020-11-01 |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Sim |
-| Qual certificação do SOC 2 você atingiu? |  type1 |
-| Data de certificação SOC2 mais recente |  2020-11-01 |
+| Qual certificação do SOC 2 você obteve? | type1 |
+| Data de certificação SOC2 mais recente | 2020-11-01 |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Sim |
-| Data de certificação SOC3 mais recente |  2020-11-01 |
-| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
-| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Sim |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Sim |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Sim |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Sim |
-| O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Sim |
-| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | Sim |
-| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
-| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
+| Data de certificação SOC3 mais recente | 2020-11-01 |
+| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
+| O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Sim |
+| O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | Sim |
+| O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Sim |
+| O aplicativo está em conformidade com a ISO 27002 (Organização Internacional para Padronização)? | Sim |
+| O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Sim |
+| O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | Sim |
+| O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | N/D |
 | O aplicativo está em conformidade com o NIST 800-171? | N/D |
-| O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
+| O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -128,17 +128,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
-| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Sim |
+| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Sim |
 | URL da Política de Privacidade | https://iglobecrm.com/content/legal-information |
-| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
-| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
-| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
+| O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
+| O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
 | O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
 | O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
-| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Sim |
-| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
-| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
+| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Sim |
+| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
+| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -148,33 +148,33 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | Não |
-| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
+| Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
+| Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Não |
+| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? | ADAl |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
 | Listar os tipos de políticas com suporte | Padrões de segurança e qualquer outra das políticas comuns, como Bloquear autenticação herdada* Exigir MFA para administradores* Exigir MFA para gerenciamento do Azure* Exigir MFA para todos os usuários* |
-| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Sim |
-| Seu aplicativo armazena alguma credencial no código? | Não |
-| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
+| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Sim |
+| Seu aplicativo armazena credenciais no código? | Não |
+| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Sim |
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Ter acesso a calendários de usuários ao drear um relatório de reunião do canlendar para iGlobe    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
->| Contacts.ReadWrite | delegado | Permite ao aplicativo ter o mesmo acesso que o usuário conectado a informações no diretório.    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
->| Directory.Read.All | delegado | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
->| Directory.ReadWrite.All | delegado | Permite ao aplicativo ter o mesmo acesso que o usuário conectado a informações no diretório.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
->| Files.ReadWrite.All | delegado | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos e dados em SharePoint listas.     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
->| Group.Read.All | delegado | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
->| Group.ReadWrite.All | delegado | Ler, atualizar, criar tarefas de painel, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. Integração ao iGlobe CRM Office 365     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
->| Mail.ReadWrite | delegado | Svae o eamil para iGlobe CRM e obter informações do iGlobe para um novo e-amil    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
->| Sites.Manage.All | delegado | Criar, editar e excluir itens e listas no iGlobe CRM     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
->| Sites.Read.All | delegado | Ler itens no iGlobe CRM     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
->| Sites.ReadWrite.All | delegado | Editar e excluir itens e listas no iGlobe CRM  | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
->| Tasks.ReadWrite | delegado | Criar tarefa do planejador a partir do iGlobe CRM     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
->| User.Read | delegado | Para obter informações do iGlobe CRM para o usuário speficic    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Calendars.ReadWrite | Delegada | Ter acesso a calendários de usuário ao encharcar um relatório de reunião do canlendar para o iGlobe    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Contacts.ReadWrite | Delegada | Permite ao aplicativo ter o mesmo acesso que o usuário conectado a informações no diretório.    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Directory.Read.All | Delegada | Verifique se há permissão e para obter os Sites e listas. Criar pastas, obter arquivos e salvar arquivos.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Directory.ReadWrite.All | Delegada | Permite ao aplicativo ter o mesmo acesso que o usuário conectado a informações no diretório.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Files.ReadWrite.All | Delegada | Ler, atualizar, criar tarefas de panner, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos e dados em SharePoint listas.     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Group.Read.All | Delegada | Ler, atualizar, criar tarefas de panner, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Group.ReadWrite.All | Delegada | Ler, atualizar, criar tarefas de panner, ler os usuários arquivos recentes e compartilhados, para obter SharePoint lista, bibliotecas e arquivos. Para salvar arquivos em SharePoint listas. Integração ao iGlobe CRM Office 365     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Mail.ReadWrite | Delegada | Svae o eamil para iGlobe CRM e obtenha informatiopn do iGlobe para um novo e-amil    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Sites.Manage.All | Delegada | Criar, editar e excluir itens e listas no iGlobe CRM     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Sites.Read.All | Delegada | Ler itens no iGlobe CRM     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Sites.ReadWrite.All | Delegada | Editar e excluir itens e listas no iGlobe CRM  | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| Tasks.ReadWrite | Delegada | Criar tarefa do planejador do iGlobe CRM     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
+>| User.Read | Delegada | Para obter informações sobre o iGlobe CRM para o usuário speficic    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](../azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

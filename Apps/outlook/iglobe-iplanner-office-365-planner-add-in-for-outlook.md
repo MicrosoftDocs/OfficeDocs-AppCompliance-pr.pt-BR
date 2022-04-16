@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para o Office 365 do Planner para Outlook por iGlobe
+title: Informações do aplicativo para iPlanner Office 365 suplemento planner para Outlook pelo iGlobe
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,16 +7,16 @@ ms.date: 08/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Todas as informações de segurança e conformidade disponíveis para o iPlanner Office 365 Planner Add-in para Outlook, suas políticas de tratamento de dados, suas informações de catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para o suplemento planner Office 365 do iPlanner para Outlook, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 70a94f0eca46172a9aaba55cc1ed022fe7e02f4e
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 130e4464dc12d6e0fe788d1a15073c12af6a9801
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63545259"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64881478"
 ---
-# <a name="iplanner-office-365-planner-add-in-for-outlook"></a>IPlanner Office 365 Do Planner para Outlook
+# <a name="iplanner-office-365-planner-add-in-for-outlook"></a>Suplemento do iPlanner Office 365 Planner para Outlook
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>Última atualização pelo desenvolvedor em: 28 de agosto de 2021</p>
@@ -31,13 +31,13 @@ Informações fornecidas pelo iGlobe à Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | IPlanner Office 365 Do Planner para Outlook |
+| Nome do aplicativo | Suplemento do iPlanner Office 365 Planner para Outlook |
 | ID | WA104380147 |
-| Office 365 clientes com suporte | Outlook 2013 ou posterior em Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
-| Nome da empresa de parceiro | iGlobe |
+| Office 365 clientes com suporte | Outlook 2013 ou posterior no Windows, Outlook 2016 ou posterior no Mac, Outlook na Web |
+| Nome da empresa parceira | iGlobe |
 | Site da empresa | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
-| Termos de uso do aplicativo | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
-| Funcionalidade principal do aplicativo | Get Planner tasks from Office 365 Planner &amp; Teams at the tip of your hand in Outlook on any device. Gerenciar e criar tarefas nunca foi mais fácil. Obter tarefas do Planner Office 365 do Planner &amp; Teams na ponta da sua mão, no Outlook para Windows, MAC, IOS ou email da Web. |
+| Termos de Uso do Aplicativo | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
+| Funcionalidade principal do aplicativo | Obtenha tarefas do Planner Office 365 Planner &amp; Teams na ponta da sua mão Outlook em qualquer dispositivo. O gerenciamento e a criação de tarefas nunca foram tão fáceis. Obtenha tarefas do Planner Office 365 Planner &amp; Teams na ponta da sua mão, no Outlook para Windows, MAC, IOS ou Web mail. |
 | Localização da sede da empresa | Dinamarca |
 | Página de informações do aplicativo | [https://planner.iglobe.dk](https://planner.iglobe.dk) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
@@ -49,13 +49,13 @@ Informações fornecidas pelo iGlobe à Microsoft:
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
+### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
 Essas informações foram fornecidas pelo iGlobe sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? |  |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -68,27 +68,25 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você realiza testes de penetração anual no aplicativo? | Sim |
-| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? |  |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? |  |
-| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? |  |
-| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? |  |
+| Você executa testes de penetração anuais no aplicativo? | Sim |
+| O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? |  |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? |  |
+| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? |  |
+| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? |  |
 | Seu ambiente tem algum software ou sistemas operacionais sem suporte? |  |
-| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? |  |
-| Você tem um firewall instalado no limite de rede externo? |  |
-| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? |  |
-| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? |  |
-| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? |  |
-| Autenticação multifator (MFA) habilitada para: |  |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? |  |
+| Você tem um firewall instalado no limite de rede externa? |  |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? |  |
+| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? |  |
+| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? |  |
+| Autenticação Multifator (MFA) habilitada para: |  |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? |  |
-| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? |  |
-| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? |  |
-| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | |
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? |  |
+| Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? |  |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? |  |
-| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? |  |
+| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? |  |
 | Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
-| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -98,26 +96,25 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | Sim |
-| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Sim |
+| O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | Sim |
+| O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | Sim |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Sim |
-| Data de certificação SOC1 mais recente |  2020-11-01 |
+| Data de certificação SOC1 mais recente | 2020-11-01 |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Sim |
-| Qual certificação do SOC 2 você atingiu? |   |
-| Data de certificação SOC2 mais recente |  2020-11-01 |
+| Data de certificação SOC2 mais recente | 2020-11-01 |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Sim |
-| Data de certificação SOC3 mais recente |  2020-11-01 |
-| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
-| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Sim |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Sim |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Sim |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Sim |
-| O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Sim |
-| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | Sim |
-| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
-| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
+| Data de certificação SOC3 mais recente | 2020-11-01 |
+| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
+| O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Sim |
+| O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | Sim |
+| O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Sim |
+| O aplicativo está em conformidade com a ISO 27002 (Organização Internacional para Padronização)? | Sim |
+| O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Sim |
+| O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | Sim |
+| O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | N/D |
 | O aplicativo está em conformidade com o NIST 800-171? |  |
-| O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
+| O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -127,16 +124,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? |  |
-| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? |  |
-| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? |  |
-| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? |  |
-| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? |  |
-| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? |  |
-| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? |  |
-| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? |  |
-| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? |  |
-| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? |  |
+| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -146,29 +134,30 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | falso |
+| Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
+| Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Não |
 | Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
 | Listar os tipos de políticas com suporte | Padrões de segurança e qualquer outra das políticas comuns, como Bloquear autenticação herdada* Exigir MFA para administradores* Exigir MFA para gerenciamento do Azure* Exigir MFA para todos os usuários* |
-| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) |  |
-| Seu aplicativo armazena alguma credencial no código? |  |
-| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Sim |
+| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
+| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) |  |
+| Seu aplicativo armazena credenciais no código? |  |
+| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Sim |
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Contacts.ReadWrite | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Directory.AccessAsUser.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Files.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Files.ReadWrite.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| Group.Read.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| User.Read | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| User.ReadBasic.All | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
->| perfil | delegado | Nenhum dado é armazenado em bancos de dados de aplicativos. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Calendars.ReadWrite | Delegada | Nenhum dado é armazenado em bancos de dados de aplicativo. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Contacts.ReadWrite | Delegada | Nenhum dado é armazenado em bancos de dados de aplicativo. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Directory.AccessAsUser.All | Delegada | Nenhum dado é armazenado em bancos de dados de aplicativo. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Files.Read | Delegada | Nenhum dado é armazenado em bancos de dados de aplicativo. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Files.ReadWrite.All | Delegada | Nenhum dado é armazenado em bancos de dados de aplicativo. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Group.Read.All | Delegada | Nenhum dado é armazenado em bancos de dados de aplicativo. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| User.Read | Delegada | Nenhum dado é armazenado em bancos de dados de aplicativo. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| User.ReadBasic.All | Delegada | Nenhum dado é armazenado em bancos de dados de aplicativo. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| perfil | Delegada | Nenhum dado é armazenado em bancos de dados de aplicativo. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

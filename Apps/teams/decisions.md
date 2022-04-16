@@ -7,14 +7,14 @@ ms.date: 08/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Decisões, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Decisões, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro STAR da CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0353886df853f0916252e41e8829214ce1e0a4d5
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 2bf01f16afec4e6e422302dba89269c91788fe3d
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63544939"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64881338"
 ---
 # <a name="decisions"></a>Decisions
 
@@ -22,24 +22,24 @@ ms.locfileid: "63544939"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 2 de junho de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/d3d1be68-066c-4967-a74b-9edcf902dcfb" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/d3d1be68-066c-4967-a74b-9edcf902dcfb" target="_blank">Exibir no Teams armazenamento</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381880" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas por Decisões para a Microsoft:
+Informações fornecidas pelas Decisões para a Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Decisions |
 | ID | WA104381880 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Decisions |
+| Nome da empresa parceira | Decisions |
 | Site da empresa | [https://www.meetingdecisions.com](https://www.meetingdecisions.com) |
-| Termos de uso do aplicativo | [https://www.meetingdecisions.com/terms-of-service](https://www.meetingdecisions.com/terms-of-service) |
-| Funcionalidade principal do aplicativo | Faça suas reuniões contarem com um construtor de agendas, modelos de minutos e mais construídos dentro Teams. |
+| Termos de Uso do Aplicativo | [https://www.meetingdecisions.com/terms-of-service](https://www.meetingdecisions.com/terms-of-service) |
+| Funcionalidade principal do aplicativo | Faça suas reuniões contarem com um construtor de agendas, modelos de minutos e mais compilados Teams. |
 | Localização da sede da empresa | Noruega |
 | Página de informações do aplicativo | [https://www.meetingdecisions.com](https://www.meetingdecisions.com) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
@@ -51,23 +51,22 @@ Informações fornecidas por Decisões para a Microsoft:
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
+### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
-Essas informações foram fornecidas por Decisões sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas por Decisões sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados que o aplicativo coleta.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
-| Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
+| Quais dados são processados pelo seu aplicativo? |  |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? |  |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
 | Quais dados são armazenados em seus bancos de dados? |  |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? |  |
+| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? |  |
 | Você tem um processo estabelecido de locação e descarte de dados? |  |
-| Por quanto tempo os dados são mantidos após o término da conta? | Excluído dentro de 3 meses |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Excluído dentro de 3 meses |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? |  |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? |  |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -79,27 +78,25 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você realiza testes de penetração anual no aplicativo? | Sim |
-| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? |  |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? |  |
-| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? |  |
-| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? |  |
+| Você executa testes de penetração anuais no aplicativo? | Sim |
+| O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? |  |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? |  |
+| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? |  |
+| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? |  |
 | Seu ambiente tem algum software ou sistemas operacionais sem suporte? |  |
-| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? |  |
-| Você tem um firewall instalado no limite de rede externo? |  |
-| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? |  |
-| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? |  |
-| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? |  |
-| Autenticação multifator (MFA) habilitada para: |  |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? |  |
+| Você tem um firewall instalado no limite de rede externa? |  |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? |  |
+| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? |  |
+| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? |  |
+| Autenticação Multifator (MFA) habilitada para: |  |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? |  |
-| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? |  |
-| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? |  |
-| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | |
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? |  |
+| Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? |  |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? |  |
-| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? |  |
+| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? |  |
 | Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
-| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -109,26 +106,22 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
-| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
+| O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | N/D |
+| O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
-| Data de certificação SOC1 mais recente |   |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
-| Qual certificação do SOC 2 você atingiu? | |
-| Data de certificação SOC2 mais recente | |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
-| Data de certificação SOC3 mais recente | |
-| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Não |
-| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Não |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Não |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
-| O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
-| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
-| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
-| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | Não |
+| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Não |
+| O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Não |
+| O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | Não |
+| O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Não |
+| O aplicativo está em conformidade com a ISO 27002 (Organização Internacional para Padronização)? | Não |
+| O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Não |
+| O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | N/D |
+| O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | Não |
 | O aplicativo está em conformidade com o NIST 800-171? |  |
-| O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
+| O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -138,16 +131,16 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
-| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? |  |
-| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? |  |
-| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? |  |
-| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? |  |
+| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? |  |
+| O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? |  |
+| O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? |  |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? |  |
 | O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? |  |
 | O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? |  |
-| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? |  |
-| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? |  |
-| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? |  |
+| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? |  |
+| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? |  |
+| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -157,37 +150,38 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | verdadeiro |
+| Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
+| Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | verdadeiro |
 | Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
 | Listar os tipos de políticas com suporte | Tudo |
-| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) |  |
-| Seu aplicativo armazena alguma credencial no código? |  |
-| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
+| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
+| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) |  |
+| Seu aplicativo armazena credenciais no código? |  |
+| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | delegado | Usado para ler informações do calendário&#8217;usuário para habilitar recursos como a lista de reuniões e a pesquisa. Ele também oferece ao usuário uma opção para excluir reuniões específicas do calendário quando o item é excluído de Decisões. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| Chat.ReadWrite | delegado | Usado para enviar decisões para votação e criar listas de alto-falantes para itens de agenda individuais diretamente para o Microsoft Teams de reunião. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| Directory.Read.All | delegado | Usado para coletar informações básicas sobre o Office 365 locatário quando registrado, como nome de locatário e domínios verificados. Também é necessário verificar associações de grupo. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| Files.Read.All | delegado | Usado para ler arquivos compartilhados com o usuário para mesclar esses arquivos no Pdf Meeting Book. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| Files.ReadWrite.All | delegado | Usado para fornecer suporte aos usuários para anotações de arquivo pessoal. Os arquivos anotados são armazenados em particular no&#8217;do OneDrive for Business. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| Group.ReadWrite.All | delegado | Usado para criar estruturas de pastas no Office 365 site&#8217;grupo SharePoint agendas de reuniões, arquivos relacionados e conversas de grupo.   Observação: os usuários de Decisões nunca terão acesso a recursos (por exemplo, grupos) aos que eles ainda não têm acesso no locatário de Office 365 da sua organização. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| Mail.Send | delegado | Usado para permitir que os usuários de Decisões enviem notificações de participantes da reunião, como atualizações de agenda e links para a reunião para coautor. Os emails vão para os participantes da reunião ou para a lista de distribuição selecionada pelo proprietário da reunião. Todas as notificações e emails enviados são ativamente feitos pelos usuários de Decisões.  Observação: isso não dá ao usuário acesso à sua caixa de entrada por meio de Decisões. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| MailboxSettings.Read | delegado | Usado para identificar um usuário&#8217;preferências de idioma. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| Notes.ReadWrite | delegado | Usado para configurar blocos de anotações particulares para reuniões para fazer anotações e preparar comentários e perguntas. Ele também permite que os minutos de reunião de grupo sejam armazenados em seu bloco de anotações OneNote compartilhado, caso o grupo opte por usar OneNote. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| Sites.ReadWrite.All | delegado | Use para criar estruturas de pastas em canais privados para informações de reunião. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| Tasks.ReadWrite | delegado | Usado para sincronizar tarefas e decisões com o Microsoft Planner. Ele também permite que os usuários exportem tarefas e decisões para Excel. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| TeamsAppInstallation.ReadWriteForUser | delegado | Necessário para instalar programaticamente o Aplicativo de Decisões no chat. Isso é necessário antes de adicionar a Guia Decisões para a experiência na reunião. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| TeamsAppInstallation.ReadWriteForUser.All | delegado | Necessário para instalar programaticamente o Aplicativo de Decisões no chat. Isso é necessário antes de adicionar a Guia Decisões para a experiência na reunião. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| TeamsTab.Create | delegado | É necessário adicionar a guia In-Meeting/Channel Teams. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| TeamsTab.Read.All | delegado | Necessário para verificar se a guia está instalada ou não. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| User.ReadBasic.All | delegado | Usado para exibir nome e sobrenome, foto e endereço de email de membros do grupo e participantes externos. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
->| perfil | delegado | Usado para entrar. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Calendars.ReadWrite | Delegada | Usado para ler informações do usuário&#8217;calendário para habilitar recursos como a lista de reuniões e a pesquisa. Ele também oferece ao usuário uma opção para excluir reuniões específicas do calendário quando o item é excluído de Decisões. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Chat.ReadWrite | Delegada | Usado para enviar decisões para votação e criar listas de locutor para itens de agenda individuais diretamente para o Microsoft Teams de reunião. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Directory.Read.All | Delegada | Usado para coletar informações básicas sobre o Office 365 locatário quando registrado, como nome do locatário e domínios verificados. Também é necessário verificar as associações de grupo. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Files.Read.All | Delegada | Usado para ler arquivos que são compartilhados com o usuário para mesclar esses arquivos no Livro de Reunião em PDF. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Files.ReadWrite.All | Delegada | Usado para fornecer aos usuários suporte para anotações de arquivo pessoal. Os arquivos anotados são armazenados em particular no&#8217;de OneDrive for Business. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Group.ReadWrite.All | Delegada | Usado para criar estruturas de pasta no Office 365 grupo&#8217;site SharePoint para agendas de reunião, arquivos relacionados e conversas em grupo.   Observação: os usuários de Decisões nunca obterão acesso a nenhum recurso (por exemplo, grupos) aos quais eles ainda não têm acesso no locatário Office 365 organização. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Mail.Send | Delegada | Usado para permitir que os usuários de Decisões enviem notificações de participantes da reunião, como atualizações de agenda e links para a reunião para coautores. Os emails vão para os participantes da reunião ou para a lista de distribuição selecionada pelo proprietário da reunião. Todas as notificações e emails enviados são feitos ativamente pelos usuários de Decisões.  Observação: isso não dá ao usuário acesso à sua caixa de entrada por meio de Decisões. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| MailboxSettings.Read | Delegada | Usado para identificar um usuário&#8217;preferências de idioma. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Notes.ReadWrite | Delegada | Usado para configurar blocos de anotações privados para reuniões para fazer anotações e preparar comentários e perguntas. Ele também permite que os minutos de reunião do grupo sejam armazenados no bloco de anotações OneNote compartilhado, caso o grupo opte por usar OneNote. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Sites.ReadWrite.All | Delegada | Use para criar estruturas de pasta em canais privados para obter informações de reunião. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Tasks.ReadWrite | Delegada | Usado para sincronizar tarefas e decisões com Microsoft Planner. Ele também permite que os usuários exportem tarefas e decisões para Excel. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsAppInstallation.ReadWriteForUser | Delegada | Necessário para instalar programaticamente o Aplicativo de Decisões no chat. Isso é necessário antes de adicionar a guia Decisões para a experiência na reunião. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsAppInstallation.ReadWriteForUser.All | Delegada | Necessário para instalar programaticamente o Aplicativo de Decisões no chat. Isso é necessário antes de adicionar a guia Decisões para a experiência na reunião. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsTab.Create | Delegada | Exigir a adição da guia Na Reunião/Canal Teams. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsTab.Read.All | Delegada | Necessário para verificar se a guia está instalada ou não. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| User.ReadBasic.All | Delegada | Usado para exibir nome e sobrenome, foto e endereço de email de membros do grupo e participantes externos. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| perfil | Delegada | Usado para entrar. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para tíquetes, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 42777d2bb9cf639419a28e9ec52c189f8bd27e27
-ms.sourcegitcommit: 60344676a860c837b8a727c43d6cec430044c3f4
+ms.openlocfilehash: b0bf7f4fb8685d48b7048ca8a91880f19697f3cb
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/11/2022
-ms.locfileid: "64769026"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64879688"
 ---
-# <a name="ticketing"></a>Bilhética
+# <a name="ticketing"></a>Emissão de Bilhetes
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,10 +33,10 @@ Informações fornecidas pelo kitameraki limitadas à Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Bilhética |
+| Nome do aplicativo | Emissão de Bilhetes |
 | ID | WA200003945 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa parceira | kitameraki limited |
+| Nome da empresa parceira | kitameraki limitado |
 | Site da empresa | [https://TeamsWork.app](https://TeamsWork.app) |
 | Termos de Uso do Aplicativo | [https://TeamsWork.app/terms](https://TeamsWork.app/terms) |
 | Funcionalidade principal do aplicativo | Interface &amp; do usuário intuitiva simples, aplicativo móvel pronto, logon único, &amp; conformidade de segurança, alta disponibilidade, pronto para análise |
@@ -132,15 +132,6 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Não |
-| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Não |
-| O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
-| O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
-| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
-| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
-| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? |  |
-| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? |  |
-| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? |  |
-| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

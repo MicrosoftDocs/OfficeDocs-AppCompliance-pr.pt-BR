@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para JobPts por Semos Cloud Soultions
+title: Informações do aplicativo para JobPts da Semos Cloud Soultions
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,14 +7,14 @@ ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para JobPts, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para JobPts, suas políticas de manipulação de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a6a604e6fba711b2b5b6ae415a7ec89d0aa0df1f
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: b5910d9c5f21bb2b2eba5c3e256323032a94c92a
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63537979"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64879628"
 ---
 # <a name="jobpts"></a>JobPts
 
@@ -22,24 +22,24 @@ ms.locfileid: "63537979"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 7 de julho de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/601a47bc-f201-4398-a0cb-593ea081f265" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/601a47bc-f201-4398-a0cb-593ea081f265" target="_blank">Exibir no Teams armazenamento</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001849" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas por Semos Cloud Soultions para a Microsoft:
+Informações fornecidas pelo Semos Cloud Soultions para a Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | JobPts |
 | ID | WA200001849 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Semos Nuvem Soultions |
+| Nome da empresa parceira | Semos Nuvem Soultions |
 | Site da empresa | [https://semoscloud.com](https://semoscloud.com) |
-| Termos de uso do aplicativo | [https://semoscloud.com/terms-of-use/](https://semoscloud.com/terms-of-use/) |
-| Funcionalidade principal do aplicativo | Reconhecer facilmente seus colegas por um trabalho bem feito sem sair de MsTeams |
+| Termos de Uso do Aplicativo | [https://semoscloud.com/terms-of-use/](https://semoscloud.com/terms-of-use/) |
+| Funcionalidade principal do aplicativo | Reconhecer facilmente seus colegas por um trabalho bem feito sem sair do MsTeams |
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | [https://semoscloud.com/product/jobpts](https://semoscloud.com/product/jobpts) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
@@ -51,13 +51,13 @@ Informações fornecidas por Semos Cloud Soultions para a Microsoft:
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
+### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
-Essas informações foram fornecidas por Semos Cloud Soultions sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo Semos Cloud Soultions sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? |  |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? |  |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -70,27 +70,25 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você realiza testes de penetração anual no aplicativo? | Sim |
-| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? |  |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? |  |
-| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? |  |
-| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? |  |
+| Você executa testes de penetração anuais no aplicativo? | Sim |
+| O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? |  |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? |  |
+| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? |  |
+| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? |  |
 | Seu ambiente tem algum software ou sistemas operacionais sem suporte? |  |
-| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? |  |
-| Você tem um firewall instalado no limite de rede externo? |  |
-| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? |  |
-| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? |  |
-| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? |  |
-| Autenticação multifator (MFA) habilitada para: |  |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? |  |
+| Você tem um firewall instalado no limite de rede externa? |  |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? |  |
+| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? |  |
+| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? |  |
+| Autenticação Multifator (MFA) habilitada para: |  |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? |  |
-| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? |  |
-| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? |  |
-| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | |
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? |  |
+| Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? |  |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? |  |
-| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? |  |
+| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? |  |
 | Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
-| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -100,26 +98,22 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
-| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
+| O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | N/D |
+| O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
-| Data de certificação SOC1 mais recente |   |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
-| Qual certificação do SOC 2 você atingiu? | |
-| Data de certificação SOC2 mais recente | |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
-| Data de certificação SOC3 mais recente | |
-| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
-| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Sim |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Não |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
-| O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
-| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
-| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
-| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | N/D |
+| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
+| O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Sim |
+| O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | Não |
+| O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Não |
+| O aplicativo está em conformidade com a ISO 27002 (Organização Internacional para Padronização)? | Não |
+| O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Não |
+| O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | N/D |
+| O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | N/D |
 | O aplicativo está em conformidade com o NIST 800-171? |  |
-| O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
+| O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -129,16 +123,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? |  |
-| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? |  |
-| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? |  |
-| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? |  |
-| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? |  |
-| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? |  |
-| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? |  |
-| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? |  |
-| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? |  |
-| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? |  |
+| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -148,25 +133,26 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | falso |
+| Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
+| Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | falso |
 | Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
-| Listar os tipos de políticas com suporte | Autenticação multifaionária, Restrição de locais de usuário e intervalos DE IP |
-| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) |  |
-| Seu aplicativo armazena alguma credencial no código? |  |
-| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
+| Listar os tipos de políticas com suporte | Autenticação multifator, restringindo locais de usuário e intervalos de IP |
+| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
+| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) |  |
+| Seu aplicativo armazena credenciais no código? |  |
+| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | delegado | Ler informações básicas da empresa | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
->| email | delegado | Isso é usado para mapear usuários do AzureAD com usuários na ferramenta JobPts | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
->| offline_access | delegado | Manter o acesso aos dados | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
->| openid | delegado | Para poder que os usuários entre com sua conta de trabalho | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
->| perfil | delegado | Para ser capaz de JobPts ver informações básicas do usuário (nome de usuário) | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
+>| User.Read | Delegada | Ler informações básicas da empresa | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
+>| email | Delegada | Isso é usado para mapear usuários do AzureAD com usuários na ferramenta JobPts | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
+>| offline_access | Delegada | Manter o acesso aos dados | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
+>| openid | Delegada | Para que os usuários possam entrar com sua conta corporativa | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
+>| perfil | Delegada | Para poder que JobPts veja informações básicas do usuário (nome de usuário) | [1ac9e5c6-4850-4864-96c5-b91e4512334e](../azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

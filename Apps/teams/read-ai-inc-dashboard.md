@@ -1,49 +1,49 @@
 ---
-title: Informações do aplicativo para adesivos Stipop por Stipop
+title: Informações do aplicativo para o Painel de Leitura da Read AI, Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/23/2022
+ms.date: 04/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Adesivos Stipop, suas políticas de manipulação de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para o Painel de Leitura, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0581b9ac1128e649ed00e4af1504dbf351eccc20
+ms.openlocfilehash: 56551f8ea5317163d9319c9cd90eb7e41123cda8
 ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880538"
+ms.locfileid: "64881838"
 ---
-# <a name="stipop-stickers"></a>Adesivos Stipop
+# <a name="read-dashboard"></a>Ler Painel
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 23 de março de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 15 de abril de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/31c1aadf-4a2e-4465-b1a4-6d4d7d9a284c" target="_blank">Exibir no Teams armazenamento</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002606" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/18eb20ae-cd59-48c6-8060-fbe171a917e5" target="_blank">Exibir no Teams armazenamento</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003896" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Stipop à Microsoft:
+Informações fornecidas pela Read AI, Inc. para a Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Adesivos Stipop |
-| ID | WA200002606 |
+| Nome do aplicativo | Ler Painel |
+| ID | WA200003896 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa parceira | Stipop |
-| Site da empresa | [https://stipop.io](https://stipop.io) |
-| Termos de Uso do Aplicativo | [https://stipop.io/policies/terms](https://stipop.io/policies/terms) |
-| Funcionalidade principal do aplicativo | Crie seu espírito de equipe com adesivos stipop. |
+| Nome da empresa parceira | Leia IA, Inc. |
+| Site da empresa | [https://read.ai](https://read.ai) |
+| Termos de Uso do Aplicativo | [https://read.ai/tos](https://read.ai/tos) |
+| Funcionalidade principal do aplicativo | Ler o Painel mede o sentimento de reunião, o envolvimento e o desempenho geral. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | |
+| Página de informações do aplicativo | [https://www.read.ai/product](https://www.read.ai/product) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure, Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,20 +53,21 @@ Informações fornecidas pelo Stipop à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
-Essas informações foram fornecidas pelo Stipop sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados que o aplicativo coleta.
+Essas informações foram fornecidas pela Read AI, Inc. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
-| Quais dados são processados pelo seu aplicativo? | &#49324;&#50857;&#51088;&#44032; &#44160;&#49353;&#54620; &#44160;&#49353;&#50612;&#47484; &#49688;&#51665; |
+| Quais dados são processados pelo seu aplicativo? | Dados de perfil do usuário, dados de áudio de reunião e dados de vídeo de reunião  |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | &#49324;&#50857;&#51088; &#50500;&#51060;&#46356;,  &#49324;&#50857;&#51088; &#51060;&#47492;,  &#44160;&#49353;&#50612;,  &#50616;&#50612;,  &#44397;&#44032; |
-| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Coreia (República de) |
+| Quais dados são armazenados em seus bancos de dados? | Dados de perfil do usuário, agregar métricas de usuário derivadas de dados de áudio e vídeo |
+| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são retidos após o encerramento da conta? | Não mantido |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Menos de 30 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Sim |
+| Você tem contratos de compartilhamento de dados em vigor com qualquer serviço de terceiros com o qual você compartilha dados de clientes da Microsoft? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -78,9 +79,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você executa testes de penetração anuais no aplicativo? | Não |
+| Você executa testes de penetração anuais no aplicativo? | Sim |
 | O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | TraditionalAntiMalware |
+| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | TraditionalAntiMalware, ApplicationControls |
 | Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Sim |
 | Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Sim |
 | Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? | Sim |
@@ -89,10 +90,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você tem um firewall instalado no limite de rede externa? | Sim |
 | Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
 | Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
-| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Não |
-| Autenticação Multifator (MFA) habilitada para: | Credential, DNSManagement, CodeRepositories |
+| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
+| Autenticação Multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
-| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Não |
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
 | Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
 | Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
@@ -111,17 +112,19 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | N/D |
 | O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Sim |
+| Qual certificação do SOC 2 você obteve? | type1 |
+| Data de certificação SOC2 mais recente | 2022-04-14 |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
-| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
+| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
 | O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Não |
 | O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | Não |
 | O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Não |
 | O aplicativo está em conformidade com a ISO 27002 (Organização Internacional para Padronização)? | Não |
 | O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Não |
-| O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | N/D |
+| O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | Sim |
 | O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
-| O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | Sim |
+| O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | N/D |
 | O aplicativo está em conformidade com o NIST 800-171? | N/D |
 | O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Não |
 
@@ -133,7 +136,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Não |
+| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Sim |
+| URL da Política de Privacidade | https://read.ai/privacy |
+| O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
+| O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
+| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
+| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Sim |
+| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
+| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -152,7 +165,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo armazena credenciais no código? | Não |
 | Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
->Este aplicativo não usa o Microsoft Graph.
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+
+>|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | Delegada | Permitimos que os usuários vinculem seus calendários ao nosso serviço para habilitar a expedição automática do nosso bot de mídia do Azure | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
+>| Calls.AccessMedia.All | aplicação | Acessar dados de áudio e vídeo de reunião para processamento de aplicativos | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
+>| Calls.JoinGroupCall.All | aplicação | Exigimos permissões de ingresso para nosso bot de mídia do Azure ingressar na Teams que está em andamento | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
+>| User.Read | Delegada | Como parte do nosso processo de SSO, acessamos os dados de usuário necessários solicitando permissão de leitura para seus perfis de usuário | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
+>| email | Delegada | Exigimos endereços de email como parte do processo de criação da conta  | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
+>| openid | Delegada | Permitimos que os usuários se conectem por meio de SSO | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
+>| perfil | Delegada | Exigimos dados de perfil de usuário para criar contas de usuário (nome e sobrenome, especificamente) | [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](../azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) |
 
 >Este aplicativo não tem APIs adicionais.
 
