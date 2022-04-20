@@ -447,7 +447,7 @@
           href: teams/desknow-gmbh-deskmanager.md
         - name: Digiplein
           href: teams/educatieve-uitgeversgroep-bv-digiplein.md
-        - name: Caixa de ferramentas DigitalOps
+        - name: Caixa de ferramentas Digitalops
           href: teams/medalsoft-digitalops-toolbox.md
         - name: Conselhos Diligentes
           href: teams/diligent-boards.md
@@ -519,8 +519,6 @@
           href: teams/expensya.md
         - name: Gerenciador de Usuários Externos
           href: teams/solutions2share-gmbh-external-user-manager.md
-        - name: ezTeam
-          href: teams/enterprizid-inc-ezteam.md
         - name: Nuvem Fabasoft
           href: teams/fabasoft-austria-gmbh-cloud.md
         - name: FactSet
@@ -881,8 +879,6 @@
           href: teams/process-street.md
         - name: Proconnect para o Sitecore
           href: teams/subramanian-ramanathan-proconnect-for-sitecore.md
-        - name: ProdBot
-          href: teams/prodoscore-prodbot.md
         - name: Insights do Projeto
           href: teams/project-insight.md
         - name: Projeto Migrator
@@ -1043,8 +1039,6 @@
           href: teams/sangoma-switchvox.md
         - name: SWOOP Analytics
           href: teams/swoop-analytics-pty-ltd.md
-        - name: Sympli
-          href: teams/sympli-llc.md
         - name: SysAid
           href: teams/sysaid.md
         - name: Tactileo
@@ -1113,8 +1107,6 @@
           href: teams/kollisch-gmbh-timeghost-time-tracking.md
         - name: Timeneye
           href: teams/dm-digital-srl-timeneye.md
-        - name: TINYpulse
-          href: teams/tinypulse.md
         - name: Totara
           href: teams/totara-learning.md
         - name: touchSMS
@@ -1209,6 +1201,8 @@
           href: teams/yucca-technologies-gmbh-yuccahr.md
         - name: Zignals
           href: teams/alight-zignals.md
+        - name: Zoho Desk
+          href: teams/zoho-corporation-private-limited-desk.md
         - name: Zoho Notebook
           href: teams/zoho-corporation-private-limited-notebook.md
         - name: Zoho Sign
@@ -1834,6 +1828,8 @@
           href: azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md
         - name: b256b34a-b377-4fc2-b25a-a8f5f0594e86
           href: azure/b256b34a-b377-4fc2-b25a-a8f5f0594e86.md
+        - name: b3af1387-3ee6-4074-a594-7a768cd00d44
+          href: azure/b3af1387-3ee6-4074-a594-7a768cd00d44.md
         - name: b5d4e933-e001-4168-83f8-abdd974877bd
           href: azure/b5d4e933-e001-4168-83f8-abdd974877bd.md
         - name: b6e2ef19-7612-4ab7-a700-9669d49b88b9
