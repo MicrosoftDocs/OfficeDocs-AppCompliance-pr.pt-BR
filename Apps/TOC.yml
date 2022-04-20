@@ -423,6 +423,8 @@
           href: teams/culture-amp.md
         - name: Cyberday
           href: teams/digiturvamalli-cyberday.md
+        - name: DataFetch
+          href: teams/datafetch-inc.md
         - name: DataMiner
           href: teams/skyline-communications-dataminer.md
         - name: Datto Workplace
@@ -445,6 +447,8 @@
           href: teams/desknow-gmbh-deskmanager.md
         - name: Digiplein
           href: teams/educatieve-uitgeversgroep-bv-digiplein.md
+        - name: Caixa de ferramentas DigitalOps
+          href: teams/medalsoft-digitalops-toolbox.md
         - name: Conselhos Diligentes
           href: teams/diligent-boards.md
         - name: Listas de distribuição Pro
@@ -465,6 +469,8 @@
           href: teams/cornelsen-ecademyinside-gmbh-ecademy-lernplattform.md
         - name: ecBooking
           href: teams/expert-systems-ivrasia-coltd-ecbooking.md
+        - name: Edgility
+          href: teams/edgility.md
         - name: EdMill
           href: teams/my-serious-game-edmill.md
         - name: Gerenciamento de Serviços Efetivo
@@ -531,6 +537,8 @@
           href: teams/solutions2share-gmbh-file-manager.md
         - name: Findit
           href: teams/ctelo-findit.md
+        - name: FinTech Studio
+          href: teams/fintech-studios.md
         - name: Fireflies AI
           href: teams/firefliesai-fireflies-ai.md
         - name: FireHydrant
@@ -1226,6 +1234,8 @@
           href: word/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
         - name: Assinaturas de Impressão
           href: word/impression-signatures.md
+        - name: Jus2vec
+          href: word/n2vec-tecnologia-jus2vec.md
         - name: Suplemento do Word LegalMind
           href: word/legalmind-word-addin.md
         - name: Software de revisão de contrato do Loio
@@ -1412,6 +1422,8 @@
           href: azure/0f5eabc0-89bf-4cc6-80d1-10094b5919d2.md
         - name: 1064f7e4-a9e2-467d-8d42-f45cc59f145d
           href: azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md
+        - name: 108faf40-9d61-4b6f-bd6f-3b71fcce9a5d
+          href: azure/108faf40-9d61-4b6f-bd6f-3b71fcce9a5d.md
         - name: 10d8604b-e6ea-4c59-8414-aca1bf1ffda8
           href: azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md
         - name: 12397cb1-c0e5-42ae-a5be-ca4084aeadd8
@@ -1494,6 +1506,10 @@
           href: azure/34ed2c1e-bccf-463d-8fbc-0403e72e89fc.md
         - name: 3557d5c0-bcab-410b-8a03-f7045aa48de0
           href: azure/3557d5c0-bcab-410b-8a03-f7045aa48de0.md
+        - name: 35e7f5d2-9978-464f-8710-c7a05d5b9fdf
+          href: azure/35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md
+        - name: 3662a4ca-d108-4f34-9e08-914f33363235
+          href: azure/3662a4ca-d108-4f34-9e08-914f33363235.md
         - name: 3741153e-2490-463c-aff7-5283fb1bd1b4
           href: azure/3741153e-2490-463c-aff7-5283fb1bd1b4.md
         - name: 38b3f4fa-4229-4d51-9937-6e4515650c8c
@@ -1714,6 +1730,8 @@
           href: azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md
         - name: 93544582-de9c-42a0-baa5-df3d25e9bd48
           href: azure/93544582-de9c-42a0-baa5-df3d25e9bd48.md
+        - name: 93b14320-d9b5-4876-b621-172af4d36985
+          href: azure/93b14320-d9b5-4876-b621-172af4d36985.md
         - name: 9430520a-241f-4a00-b041-56aa8bbc9cc9
           href: azure/9430520a-241f-4a00-b041-56aa8bbc9cc9.md
         - name: 950aa4fb-0583-4b13-9b5f-bbc92b9cc376
