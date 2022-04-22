@@ -1461,6 +1461,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200003839.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/dz-notification-bot",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/07724bd8-7919-49d9-85e9-6baa0b76c794.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/dz-notification-bot",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002647.md",
       "redirect_url": "/microsoft-365-app-certification/teams/logic-software-inc-easy-projects",
       "redirect_document_id": false
@@ -3386,6 +3396,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200002505.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/all-blue-solutions-ngdesk",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002968.md",
       "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
       "redirect_document_id": false
@@ -3393,11 +3408,6 @@
     {
       "source_path": "Apps/forward/64d24486-30aa-4fae-8bdc-2680a85dcbb5.md",
       "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200002505.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/all-blue-solutions-ngdesk",
       "redirect_document_id": false
     },
     {
@@ -3856,11 +3866,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/appfluenceinc.m_pm_msft.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/appfluence-inc-priority-matrix",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104382005.md",
       "redirect_url": "/microsoft-365-app-certification/teams/appfluence-inc-priority-matrix",
       "redirect_document_id": false
@@ -3868,6 +3873,11 @@
     {
       "source_path": "Apps/forward/5be2b320-a5b7-4221-893c-dee506e4e365.md",
       "redirect_url": "/microsoft-365-app-certification/teams/appfluence-inc-priority-matrix",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/appfluenceinc.m_pm_msft.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/appfluence-inc-priority-matrix",
       "redirect_document_id": false
     },
     {
@@ -7193,6 +7203,11 @@
     {
       "source_path": "Apps/forward/azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176.md",
       "redirect_url": "/microsoft-365-app-certification/azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/ea36b867-ca67-45fd-a61b-d2be86273167.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/ea36b867-ca67-45fd-a61b-d2be86273167",
       "redirect_document_id": false
     },
     {
