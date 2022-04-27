@@ -67,8 +67,8 @@
     - name: Microsoft Outlook Apps
       href: outlook/outlook-apps.md
       items:
-        - name: Adobe Sign Add-In for Outlook
-          href: outlook/adobe-inc-sign-add-in-for-outlook.md
+        - name: Adobe Acrobat Sign para Microsoft Outlook
+          href: outlook/adobe-inc-acrobat-sign-for-microsoft-outlook.md
         - name: Vídeos altru
           href: outlook/altru-videos.md
         - name: Calendários de Contatos Aprovados
@@ -267,6 +267,8 @@
           href: teams/asana.md
         - name: ASC Recording Insights
           href: teams/asc-technologies-ag-recording-insights.md
+        - name: Pergunte ao Vizir
+          href: teams/vizirco-ask-vizir.md
         - name: Assembly
           href: teams/carrothr-inc-assembly.md
         - name: Áster
@@ -461,7 +463,7 @@
           href: teams/docusign-inc-esignature.md
         - name: Gravação Unificada de Chamadas do Dubber
           href: teams/dubber-unified-call-recording.md
-        - name: Bot de Notificação de DZ
+        - name: Bot de Notificação DZ
           href: teams/dz-notification-bot.md
         - name: Easy Projects
           href: teams/logic-software-inc-easy-projects.md
@@ -1528,6 +1530,8 @@
           href: azure/3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c.md
         - name: 3dbcb38b-8d2f-4e97-9bd1-975fb770b31c
           href: azure/3dbcb38b-8d2f-4e97-9bd1-975fb770b31c.md
+        - name: 3e63f4cc-5aac-4774-8d2d-fc7b516f9f51
+          href: azure/3e63f4cc-5aac-4774-8d2d-fc7b516f9f51.md
         - name: 3e701664-cc46-49e4-b356-1a7ac6500998
           href: azure/3e701664-cc46-49e4-b356-1a7ac6500998.md
         - name: 3e745135-a761-48a7-ab54-5c0277b2e642
