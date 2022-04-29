@@ -1,0 +1,81 @@
+### YamlMime:Landing
+title: Programa de Conformidade de Aplicativos do Microsoft 365
+summary: O Microsoft 365 de Conformidade de Aplicativos foi projetado para aumentar a confiança em aplicativos executados em produtos da Microsoft.
+metadata:
+  title: Programa de Conformidade do Aplicativo do Microsoft 365
+  description: Use o Microsoft 365 de Conformidade de Aplicativos para examinar a postura de segurança e manipulação de dados de aplicativos usados em produtos da Microsoft.
+  services: M365 App Compliance
+  author: LGerrard
+  manager: Tonybal
+  ms.author: legerrar
+  ms.service: attestation
+  ms.topic: landing-page
+  ms.openlocfilehash: a0c5e8a7dfe7e401de6bd86a915107d49c0ba80a
+  ms.sourcegitcommit: b0c1d8160b4e9a27f23a9d723f7e76d38ab12d9e
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 04/29/2022
+  ms.locfileid: "65125270"
+landingContent:
+- title: Sobre
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Visão geral do programa
+      url: overview.md
+    - text: Fase 1 – verificação Publisher dados
+      url: https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview
+    - text: Fase 2 – Certificação Microsoft 365 dados
+      url: ~/docs/enterprise-app-certification-guide.md
+- title: Introdução
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: Concluir a verificação Publisher dados
+      url: https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified
+    - text: Concluir a certificação Microsoft 365 dados
+      url: ~/docs/certification.md
+    - text: Microsoft 365 de Envio de Certificação do Microsoft 365
+      url: ~/docs/certification-submission-guide.md
+    - text: Microsoft 365 exemplo de evidência de certificação
+      url: ~/docs/certification-sample-evidence-guide.md
+  - linkListType: quickstart
+    links:
+    - text: Office guia do usuário da loja
+      url: ~/docs/UserGuide.md
+    - text: Guia do usuário do Marketplace Comercial (Aplicativos SaaS)
+      url: ~/docs/SaaSUserGuide.md
+- title: Examinar aplicativos
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Microsoft Excel aplicativos
+      url: ~/excel/excel-apps.md
+    - text: Microsoft OneNote aplicativos
+      url: ~/onenote/onenote-apps.md
+    - text: Microsoft Outlook Apps
+      url: ~/outlook/outlook-apps.md
+    - text: Microsoft PowerPoint Apps
+      url: ~/powerpoint/powerpoint-apps.md
+    - text: Microsoft Project aplicativos
+      url: ~/project/project-apps.md
+    - text: Microsoft SharePoint Apps
+      url: ~/sharepoint/sharepoint-apps.md
+    - text: Microsoft Teams aplicativos
+      url: ~/teams/teams-apps.md
+    - text: Microsoft Word aplicativos
+      url: ~/word/word-apps.md
+    - text: Aplicativos SaaS
+      url: ~/saas/saas-apps.md
+- title: Ajuda
+  linkLists:
+  - linkListType: reference
+    links:
+    - text: Publisher solução de problemas de verificação
+      url: https://docs.microsoft.com/azure/active-directory/develop/troubleshoot-publisher-verification
+    - text: Publisher perguntas frequentes sobre o atestado
+      url: ~/docs/FAQ.md
+    - text: perguntas frequentes Microsoft 365 certificação do Microsoft 365
+      url: ~/docs/CertFAQ.md
+    - text: Graph permissões
+      url: https://docs.microsoft.com/graph/permissions-reference#directory-permissions
