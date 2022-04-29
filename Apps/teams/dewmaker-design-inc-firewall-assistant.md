@@ -3,24 +3,24 @@ title: Informações do aplicativo para o Assistente de Firewall da DewMaker Des
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 02/08/2022
+ms.date: 04/27/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Assistente de Firewall, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f18501bfe0fee3333b1c56f6549be533f6464272
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 872f21f28d354de0f206c6f654b619fd57a98c84
+ms.sourcegitcommit: b0c1d8160b4e9a27f23a9d723f7e76d38ab12d9e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64878288"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "65122670"
 ---
 # <a name="firewall-assistant"></a>Assistente de Firewall
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 7 de fevereiro de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 26 de abril de 2022</p>
 
 * <a href="https://teams.microsoft.com/l/app/40b745ad-16a8-4eda-bf1c-5b48b0dc947d" target="_blank">Exibir no Teams armazenamento</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003363" target="_blank">Exibir no AppSource</a>
@@ -38,7 +38,7 @@ Informações fornecidas pela DewMaker Design, Inc. para a Microsoft:
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa parceira | DewMaker Design, Inc. |
 | Site da empresa | [https://dewmaker.com](https://dewmaker.com) |
-| Termos de Uso do Aplicativo | [https://teamwell.services/terms.html](https://teamwell.services/terms.html) |
+| Termos de Uso do Aplicativo | [https://firewallassistant.com/terms](https://firewallassistant.com/terms) |
 | Funcionalidade principal do aplicativo | Gerenciamento de autoatendimento SQL do Azure regras de firewall do servidor usando Microsoft Teams. |
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | [https://firewallassistant.com](https://firewallassistant.com) |
@@ -146,7 +146,6 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
 | Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
 | Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Sim |
-| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
 | Seu aplicativo armazena credenciais no código? | Não |

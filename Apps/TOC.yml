@@ -267,7 +267,7 @@
           href: teams/asana.md
         - name: ASC Recording Insights
           href: teams/asc-technologies-ag-recording-insights.md
-        - name: Pergunte ao Vizir
+        - name: Perguntar ao Vizir
           href: teams/vizirco-ask-vizir.md
         - name: Assembly
           href: teams/carrothr-inc-assembly.md
@@ -955,6 +955,8 @@
           href: teams/wni-shared-thread-by.md
         - name: SHL
           href: teams/shl.md
+        - name: Peneire
+          href: teams/sift.md
         - name: SightCall
           href: teams/sightcall.md
         - name: SIGNL4
@@ -1179,6 +1181,8 @@
           href: teams/workboard-inc.md
         - name: Workday
           href: teams/workday.md
+        - name: Workday Peakon Employee Voice
+          href: teams/workday-peakon-employee-voice.md
         - name: WorkInSync
           href: teams/moveinsync-workinsync.md
         - name: Página Inicial WorkJam
@@ -1392,6 +1396,8 @@
           href: azure/066a6b3a-f7a0-450a-98c7-34db1da31594.md
         - name: 0752d800-857f-49bd-87eb-e60985516c67
           href: azure/0752d800-857f-49bd-87eb-e60985516c67.md
+        - name: 075a01db-a69f-4975-a713-aa85d004f3b5
+          href: azure/075a01db-a69f-4975-a713-aa85d004f3b5.md
         - name: 07d4a8e0-3d1d-4f70-bdc2-f46593d7fa0e
           href: azure/07d4a8e0-3d1d-4f70-bdc2-f46593d7fa0e.md
         - name: 084b4a43-c386-443d-ae90-bf9a3fc2995e
@@ -1470,6 +1476,8 @@
           href: azure/24a9cf21-407c-41f9-8cc6-e7015f4e02af.md
         - name: 25379fc8-577f-4935-b681-6f027977fbe3
           href: azure/25379fc8-577f-4935-b681-6f027977fbe3.md
+        - name: 270b510a-7cfb-4a9a-8071-5ceab03cf357
+          href: azure/270b510a-7cfb-4a9a-8071-5ceab03cf357.md
         - name: 272032ad-0c2e-4928-910e-5d52b19f70d5
           href: azure/272032ad-0c2e-4928-910e-5d52b19f70d5.md
         - name: 27c89ce8-b449-4959-b801-988d8b727512
@@ -1914,6 +1922,8 @@
           href: azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d.md
         - name: d2682b2a-2037-4545-94b6-3e7216ecca5f
           href: azure/d2682b2a-2037-4545-94b6-3e7216ecca5f.md
+        - name: d2a1ed44-6cca-44d2-9b9c-1c9c1d597093
+          href: azure/d2a1ed44-6cca-44d2-9b9c-1c9c1d597093.md
         - name: d2c7af43-2e9d-41b2-b374-e9ffbe316d61
           href: azure/d2c7af43-2e9d-41b2-b374-e9ffbe316d61.md
         - name: d44d071f-a9e5-4f99-b72e-5ab38cd7b175
