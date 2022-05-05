@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para Power BI colaboração da Ataira
+title: Visão geral Power BI colaboração do Ataira
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Colaboração Power BI, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 04a86c1ee58ed1a017a3cf70d3ebab87ba4e558c
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: c415de66c2998fed388fa89b334419a9a12ce51e
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64876558"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65227982"
 ---
-# <a name="power-bi-collaboration"></a>Colaboração do Power BI
+# <a name="ataira-power-bi-collaboration-overview"></a>Visão geral Power BI colaboração do Ataira
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -145,7 +145,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| User.Read | Delegada | Também permissões para ChannelMessage.Send Team.ReadBasic.All User.Read. Eles são usados para permitir que o usuário selecione o grupo Teams e o canal para notificações | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](../azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md) |
 

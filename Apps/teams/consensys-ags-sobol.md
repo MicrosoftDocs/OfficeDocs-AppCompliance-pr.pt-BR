@@ -1,5 +1,5 @@
 ---
-title: Informações de aplicativo para Sobol da ConsenSys AG&#8217;s Sobol
+title: Visão geral do Sobol
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para a Sobol, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c82d7a712e2515bba55eaf902f9961f4469ad278
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: d2ab71f8efd3b88e84cda802a2d84d4fc465696d
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64878318"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228555"
 ---
-# <a name="sobol"></a>Sobol
+# <a name="sobol-overview"></a>Visão geral do Sobol
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />

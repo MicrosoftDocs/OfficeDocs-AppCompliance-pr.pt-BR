@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para ngDesk by All Blue Solutions
+title: Visão geral do ngDesk
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para ngDesk, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 86035049f82cb871c787951e5324df03a2657dc6
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 75fb383f46bdfe42d8d5ee860296b0f73b076af1
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64876498"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228595"
 ---
-# <a name="ngdesk"></a>ngDesk
+# <a name="ngdesk-overview"></a>Visão geral do ngDesk
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />

@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para SalesTim por SalesTim
+title: Visão geral de SalesTim
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SalesTim, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4a6bb9f2e75bb037ab554f70c3a7f671d59ab788
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 48c9711f07a2c310f949858802f3630f05e07d34
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880698"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228045"
 ---
-# <a name="salestim"></a>SalesTim
+# <a name="salestim-overview"></a>Visão geral de SalesTim
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -144,7 +144,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| AppCatalog.ReadWrite.All | Delegada | NÃO | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |
 >| Directory.AccessAsUser.All | Delegada | Podemos&#8217;armazenar apenas algumas IDs de usuários, não dados de perfil. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](../azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md) |

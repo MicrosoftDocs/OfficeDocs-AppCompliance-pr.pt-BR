@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para Solo pela Teladoc, Inc.
+title: Informações de aplicativo para Solo da Teladoc, Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,14 +7,14 @@ ms.date: 03/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Solo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
+description: Todas as informações de segurança e conformidade disponíveis para Solo, suas políticas de manipulação de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ee5b3a7dda8caaefd5584af648d1a177058695b1
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 643a6162d201fb7b41e2bb33dc0268670e59bcc5
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63544159"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228985"
 ---
 # <a name="solo"></a>Solo
 
@@ -22,23 +22,23 @@ ms.locfileid: "63544159"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 5 de outubro de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e" target="_blank">Exibir no Teams armazenamento</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003826" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Teladoc, Inc. à Microsoft:
+Informações fornecidas pela Teladoc, Inc. à Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | Nome do aplicativo | Solo |
 | ID | WA200003826 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | Teladoc, Inc. |
+| Nome da empresa parceira | Teladoc, Inc. |
 | Site da empresa | [https://www.teladochealth.com/platform/](https://www.teladochealth.com/platform/) |
-| Termos de uso do aplicativo | [https://www.teladochealth.com/terms-and-conditions/](https://www.teladochealth.com/terms-and-conditions/) |
+| Termos de Uso do Aplicativo | [https://www.teladochealth.com/terms-and-conditions/](https://www.teladochealth.com/terms-and-conditions/) |
 | Funcionalidade principal do aplicativo | Plataforma de atendimento virtual com serviços configuráveis e fluxos de trabalho de pacientes. |
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | [https://intouchhealth.com/virtual-care-platform/solo/](https://intouchhealth.com/virtual-care-platform/solo/) |
@@ -51,23 +51,22 @@ Informações fornecidas pelo Teladoc, Inc. à Microsoft:
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
+### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
 Essas informações foram fornecidas pela Teladoc, Inc. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Sim |
-| Quais dados são processados pelo aplicativo? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
+| Quais dados são processados pelo seu aplicativo? | ID de objeto do usuário e da ID de locatário do locatário |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | ID do objeto do usuário e ID de locatário do locatário |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
+| Quais dados são armazenados em seus bancos de dados? | ID de objeto do usuário e da ID de locatário do locatário |
+| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são mantidos após o término da conta? | Menos de 90 dias |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Menos de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
-| Você tem contratos de compartilhamento de dados com qualquer serviço de terceiros com o que compartilhar dados do cliente da Microsoft? |  |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -79,27 +78,27 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você realiza testes de penetração anual no aplicativo? | Sim |
-| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | ApplicationControls, TraditionalAntiMalware |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
-| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Sim |
-| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Sim |
+| Você executa testes de penetração anuais no aplicativo? | Sim |
+| O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | ApplicationControls, TraditionalAntiMalware |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Sim |
+| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Sim |
+| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? | Sim |
 | Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
-| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Sim |
-| Você tem um firewall instalado no limite de rede externo? | Sim |
-| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
-| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Sim |
-| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Sim |
-| Autenticação multifator (MFA) habilitada para: | CodeRepositories, Credential, DNSManagement |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? | Sim |
+| Você tem um firewall instalado no limite de rede externa? | Sim |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
+| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
+| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
+| Autenticação Multifator (MFA) habilitada para: | CodeRepositories, Credential, DNSManagement |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
-| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | Sim |
-| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
-| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim|
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
+| Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
+| Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
-| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Sim |
-| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
-| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção?| |
+| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Sim |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Sim |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -109,26 +108,22 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | Sim |
-| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | Sim |
+| O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | Sim |
+| O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | Sim |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
-| Data de certificação SOC1 mais recente |   |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
-| Qual certificação do SOC 2 você atingiu? | |
-| Data de certificação SOC2 mais recente | |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
-| Data de certificação SOC3 mais recente | |
-| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
-| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Sim |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | N/D |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Não |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
-| O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
-| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
-| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
-| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | Sim |
+| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
+| O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Sim |
+| O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | N/D |
+| O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Não |
+| O aplicativo está em conformidade com a ISO 27002 (Organização Internacional para Padronização)? | Não |
+| O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Não |
+| O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | N/D |
+| O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | Sim |
 | O aplicativo está em conformidade com o NIST 800-171? | N/D |
-| O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Não |
+| O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -138,17 +133,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
-| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Não |
-| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
-| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
-| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Sim |
+| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Não |
+| O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
+| O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Sim |
 | O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Sim |
-| O consentimento é obtido de um pai ou responsável legal? | Sim |
+| O consentimento é obtido de um responsável ou responsável legal? | Sim |
 | O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Não |
-| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Não |
-| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Não |
-| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
+| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Não |
+| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | Não |
+| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -158,28 +153,28 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | Sim |
+| Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
+| Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Sim |
 | Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
-| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Não |
-| Seu aplicativo armazena alguma credencial no código? | Não |
-| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
+| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
+| Seu aplicativo armazena credenciais no código? | Não |
+| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AppCatalog.Read.All | delegado | Para obter a ID do aplicativo de catálogo para nosso aplicativo sidepanel e instalá-lo em compromissos de teleafeção agendados | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
->| CallRecords.Read.All | aplicação | Para garantir a qualidade da chamada para chamadas relacionadas a compromissos de teleafeção | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
->| OnlineMeetings.ReadWrite | delegado | Instalar o host sidePanel e ingressar o paciente no aplicativo personalizado para compromisso | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
->| TeamsActivity.Send | aplicação | Fim da sinalização de sessão para compromisso de teleaqueamento. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
->| User.Read | delegado | SSO do aplicativo Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
->| email | delegado | SSO do aplicativo Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
->| offline_access | delegado | SSO do aplicativo Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
->| openid | delegado | SSO do aplicativo Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
->| perfil | delegado | oid e tid é usado para mapear entre uma conta Solo e uma conta Teams, para que um médico em Teams possa exibir seus compromissos de teleaqueleto | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| AppCatalog.Read.All | Delegada | Para obter a ID do aplicativo de catálogo para nosso aplicativo de sidepanel e instalá-la em compromissos de telehealidade agendados | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
+>| CallRecords.Read.All | aplicação | Para garantir a qualidade da chamada para chamadas relacionadas a compromissos de telehealidade | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
+>| OnlineMeetings.ReadWrite | Delegada | Instalar o sidePanel do host e ingressar o paciente no aplicativo personalizado para o compromisso | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
+>| TeamsActivity.Send | aplicação | Fim da sinalização da sessão para o compromisso de telehealidade. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
+>| User.Read | Delegada | SSO do aplicativo do Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
+>| email | Delegada | SSO do aplicativo do Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
+>| offline_access | Delegada | SSO do aplicativo do Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
+>| openid | Delegada | SSO do aplicativo do Teams | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
+>| perfil | Delegada | Oid e tid é usado para mapear entre uma conta solo e uma conta Teams, para que um médico em Teams possa exibir seus compromissos de telehealidade | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
 
 >Este aplicativo não tem APIs adicionais.
 

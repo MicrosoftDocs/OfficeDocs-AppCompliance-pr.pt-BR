@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para lembrete de mensagem &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089;
+title: Informações do aplicativo para lembrete de mensagem
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Lembrete de Mensagem, suas políticas de manipulação de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ae809fd20684fc633e0afc6cad57089036599287
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 51b329313225954a6b0c0267a27633a0222b766a
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880148"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65229015"
 ---
-# <a name="message-reminder"></a>Lembrete de Mensagem
+# <a name="application-information-for-message-reminder"></a>Informações do aplicativo para Lembrete de Mensagem
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />

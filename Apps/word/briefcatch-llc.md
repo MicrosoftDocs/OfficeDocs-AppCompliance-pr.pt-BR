@@ -1,48 +1,48 @@
 ---
-title: Excel de Automação de Documentos do Excel para Word
+title: Informações do aplicativo para BriefCatch por BriefCatch LLC
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 02/28/2022
+ms.date: 05/04/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para a Automação de Documentos do Excel para Word, suas políticas de manipulação de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para BriefCatch, suas políticas de manipulação de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d85f6e342e3d9874c156575acfe4bcacae03e46e
+ms.openlocfilehash: 8f5930a7f454f6160ac5ff0be2f461e69bfd162b
 ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 05/05/2022
-ms.locfileid: "65229205"
+ms.locfileid: "65229368"
 ---
-# <a name="excel-to-word-document-automation-overview"></a>Excel de Automação de Documentos do Excel para Word
+# <a name="briefcatch"></a>BriefCatch
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 25 de fevereiro de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 3 de maio de 2022</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380955" target="_blank">Exibir no AppSource</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003725" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo AnalysisPlace para a Microsoft:
+Informações fornecidas pelo BriefCatch LLC à Microsoft:
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Nome do aplicativo | Excel automação de documentos do Excel para o Word |
-| ID | WA104380955 |
-| Office 365 clientes com suporte | Excel 2016 ou posterior no Mac, Excel 2016 ou posterior no Windows, Word 2016 ou posterior no Mac, Word 2016 ou posterior no Windows, PowerPoint 2016 ou posterior no Mac, PowerPoint 2016 ou posterior Windows, Excel na Web, Word na Web, PowerPoint na Web |
-| Nome da empresa parceira | AnalysisPlace |
-| Site da empresa | [https://analysisplace.com](https://analysisplace.com) |
-| Termos de Uso do Aplicativo | [https://analysisplace.com/Terms](https://analysisplace.com/Terms) |
-| Funcionalidade principal do aplicativo | O AnalysisPlace fornece serviços para automatizar a atualização de Microsoft Office documentos |
+| Nome do aplicativo | BriefCatch |
+| ID | WA200003725 |
+| Office 365 clientes com suporte | Word 2016 ou posterior no Mac, Word na Web, Word 2013 ou posterior no Windows |
+| Nome da empresa parceira | BriefCatch LLC |
+| Site da empresa | [https://briefcatch.com](https://briefcatch.com) |
+| Termos de Uso do Aplicativo | [https://briefcatch.com/briefcatch-end-user-license-agreemen...](https://briefcatch.com/briefcatch-end-user-license-agreement/) |
+| Funcionalidade principal do aplicativo | Especialista em edição legal ao seu lado. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | [https://analysisplace.com/Document-Automation](https://analysisplace.com/Document-Automation) |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
+| Página de informações do aplicativo | [https://briefcatch.com/version-3/](https://briefcatch.com/version-3/) |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure, GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,20 +52,12 @@ Informações fornecidas pelo AnalysisPlace para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
-Essas informações foram fornecidas pelo AnalysisPlace sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pelo BriefCatch LLC sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
-| Quais dados são processados pelo seu aplicativo? | Nome de usuário, endereço de email do usuário, ID do locatário da organização |
-| O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | Nome de usuário, endereço de email do usuário, ID do locatário da organização |
-| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
-| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são retidos após o encerramento da conta? | Menos de 90 dias |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Não |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -77,7 +69,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você executa testes de penetração anuais no aplicativo? | Não |
+| Você executa testes de penetração anuais no aplicativo? | Sim |
 | O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
 | Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | TraditionalAntiMalware |
 | Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Sim |
@@ -91,12 +83,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
 | Autenticação Multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
-| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | N/D |
 | Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
-| Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Não |
+| Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
-| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Não |
-| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Não |
+| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Sim |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Sim |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,7 +104,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
-| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Não |
+| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
 | O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Não |
 | O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | N/D |
 | O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Não |
@@ -131,17 +124,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
-| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Sim |
-| URL da Política de Privacidade | https://analysisplace.com/Privacy |
-| O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
-| O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
-| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
-| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
-| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
-| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Sim |
-| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
-| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
+| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -151,10 +134,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Resposta** |
 |:----------------|:-------------|
-| Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
-| Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Sim |
-| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
+| Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Não |
+| Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
+| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
 | Seu aplicativo armazena credenciais no código? | Não |
