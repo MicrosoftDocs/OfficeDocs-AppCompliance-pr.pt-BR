@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Zoho Notebook, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: abe1c4fb7308fb3db0ae594f73e89713b7d66362
-ms.sourcegitcommit: fb02bf852b775f9114966cfbf158197149ec95a2
+ms.openlocfilehash: 771b6e3d00dfe74b33699c584f79e18ad9aa8f58
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/11/2022
-ms.locfileid: "64770048"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65221042"
 ---
 # <a name="zoho-notebook"></a>Zoho Notebook
 
@@ -54,6 +54,43 @@ Informações fornecidas pela Zoho Corporation Private Limited à Microsoft:
 
 Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
+#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
+
+Liste [as permissões Graph Microsoft que](/graph/permissions-reference) este aplicativo requer.
+
+>Este aplicativo não usa o Microsoft Graph.
+
+
+#### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado
+
+Se o aplicativo transferir ou compartilhar dados organizacionais com o serviço não Microsoft, liste o serviço que não é da Microsoft que o aplicativo usa, quais dados são transferidos e inclua uma justificativa para o motivo pelo qual o aplicativo precisa transferir essas informações.
+
+>Não são serviços Microsoft não são usados.
+
+#### <a name="data-access-via-bots"></a>Acesso a dados por meio de bots
+
+Se esse aplicativo contiver um bot ou uma extensão de mensagens, ele poderá acessar as informações de identificação do usuário final (EUII): a lista (nome, sobrenome, nome de exibição, endereço de email) de qualquer membro da equipe em uma equipe ou chat ao qual ela é adicionada. Esse aplicativo usa essa funcionalidade?
+
+>Nenhum EUII é acessado.
+
+
+#### <a name="telemetry-data"></a>Dados de telemetria
+
+As informações de identificação organizacional (OII) ou EUII (informações de identificação do usuário final) aparecem na telemetria ou nos logs desse aplicativo? Em caso afirmativamente, descreva quais dados são armazenados e quais são as políticas de retenção e remoção?
+
+>Este aplicativo não coleta e armazena dados organizacionais, incluindo EUII e OII.
+
+#### <a name="organizational-controls-for-data-stored-by-partner"></a>Controles organizacionais para dados armazenados pelo parceiro
+
+Descrever como os administradores da organização podem controlar suas informações em sistemas de parceiros? por exemplo, exclusão, retenção, auditoria, arquivamento, política do usuário final etc.
+
+>Todos os dados obtidos usando esse aplicativo são armazenados com segurança em servidores do Zoho Notebook. Todos os dados são EAR. Portanto, ninguém, exceto o usuário, pode ver os dados.
+
+#### <a name="human-review-of-organizational-information"></a>Revisão humana de informações organizacionais
+
+Os humanos estão envolvidos na revisão ou análise de todos os dados de OII (informações de identificação organizacional) coletados ou armazenados por este aplicativo?
+
+>Não
 | **Information** | **Resposta** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
@@ -75,28 +112,31 @@ Essas informações foram fornecidas pela Zoho Corporation Private Limited sobre
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-| **Information** | **Resposta** |
+<iframe height='1020' title='Microsoft Cloud App Security informações' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/21298' frameborder='no'></iframe>
+
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/21298" target="_blank">Exibir em uma nova resposta</a> 
+| **tabInformation** | **** |
 |:----------------|:-------------|
-| Você executa testes de penetração anuais no aplicativo? | Sim |
-| O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | TraditionalAntiMalware, ApplicationControls |
+| Você executa testes anuais de penetração no aplicativo? | Sim |
+| , o aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| , seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | TraditionalAntiMalware, ApplicationControls |
 | Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Sim |
-| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Sim |
+| , você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Sim |
 | Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? | Sim |
-| Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
+| , seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
 | Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? | Sim |
-| Você tem um firewall instalado no limite de rede externa? | Sim |
+| , você tem um firewall instalado no limite de rede externa? | Sim |
 | Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
-| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
-| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
-| Autenticação Multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
+| , uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
+| , as práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
+| MFA (Autenticação Multifator) habilitada para: | CodeRepositories, DNSManagement, Credential |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
-| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
+| , você tem o software de Detecção e Prevenção contra Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
 | Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
 | Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
 | Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Sim |
-| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Sim |
+| , você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Sim |
 | Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -166,7 +206,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Channel.ReadBasic.All | Delegada | Ler os nomes e descrições dos canais | [9944c8e1-fc22-4546-8023-9459b75c472a](../azure/9944c8e1-fc22-4546-8023-9459b75c472a.md) |
 >| ChannelMessage.Send | Delegada | Enviar a mensagem do canal | [9944c8e1-fc22-4546-8023-9459b75c472a](../azure/9944c8e1-fc22-4546-8023-9459b75c472a.md) |

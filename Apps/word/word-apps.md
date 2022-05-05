@@ -3,17 +3,17 @@ title: Microsoft Word segurança e conformidade de aplicativos – Todos os apli
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/18/2022
+ms.date: 05/04/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft Word Aplicativos.
 localization_priority: Normal
-ms.openlocfilehash: cc90ee987ac5f56bca95812b2fb12cb20dd93c0b
-ms.sourcegitcommit: 57d7b0335ec02b7f20a47ec888b4ca39d75bab67
+ms.openlocfilehash: 1c7906cdcd4b92b9adfda6de01bb04a0d46bed30
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/18/2022
-ms.locfileid: "64910219"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65221092"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word segurança e conformidade de aplicativos
 
@@ -23,6 +23,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 |:--------|:------------|:----------------------:|:-------------:|
 | [Adobe Acrobat Sign para Microsoft Word e PowerPoint](./adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Suplemento AuditBoard](./auditboard-inc-add-in.md) | Auditboard, Inc. | **✓** |  |
+| [BriefCatch](./briefcatch-llc.md) | BriefCatch LLC | **✓** |  |
 | [Citasion](./citasion-llc.md) | Citasion LLC | **✓** |  |
 | [CocoFax – Envio de fax facilitado &amp;](./cocofax-sending-fax-made-easysecure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Cruzar](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |

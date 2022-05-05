@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para researcHR por KBE&#26666;&#24335;&#20250;&#31038;
+title: Informações do aplicativo para researcHR
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o researcHR, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 11d6640b20388c99facf61d5d1a35bd36eadb415
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 44fc42a889181c0337bf6d39c00665fa1b97bd15
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64879638"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226505"
 ---
-# <a name="researchr"></a>researcHR
+# <a name="application-information-for-researchr"></a>Informações do aplicativo para researcHR
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -144,7 +144,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Channel.Create | aplicação | Usamos esse escopo para permitir que nosso bot crie um novo canal no Teams cliente. Ver: https://docs.microsoft.com/en-us/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
 >| Directory.Read.All | aplicação | Usamos esse escopo para obter as IDs e os nomes do canal para exibir esses dados em nosso site. Ver: https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |

@@ -80,6 +80,8 @@ items:
         href: outlook/codetwo-for-outlook.md
       - name: Comutação
         href: outlook/commuty.md
+      - name: Reator de Email
+        href: outlook/flow-simulation-ltd-email-reactor.md
       - name: Evernote
         href: outlook/evernote.md
       - name: Assinaturas de impressão para Outlook
@@ -127,6 +129,8 @@ items:
     items:
       - name: Adobe Acrobat Sign para Microsoft Word e PowerPoint
         href: powerpoint/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
+      - name: Tempo de interrupção
+        href: powerpoint/flow-simulation-ltd-breaktime.md
       - name: Excel automação de documentos do Excel para o Word
         href: powerpoint/analysisplace-excel-to-word-document-automation.md
       - name: 'Editor de PDF do Foxit para Microsoft Word, Excel e PowerPoint'
@@ -974,8 +978,6 @@ items:
         href: teams/cultify-lda-skoach.md
       - name: SkyPoint Cloud
         href: teams/skypoint-cloud-inc.md
-      - name: Slido
-        href: teams/slido.md
       - name: Smarp
         href: teams/smarp.md
       - name: Smart Connect para Jira
@@ -1223,6 +1225,8 @@ items:
         href: word/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
       - name: Suplemento AuditBoard
         href: word/auditboard-inc-add-in.md
+      - name: BriefCatch
+        href: word/briefcatch-llc.md
       - name: Citasion
         href: word/citasion-llc.md
       - name: CocoFax - Envio de Fax Facilitado e Seguro

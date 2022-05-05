@@ -1,25 +1,25 @@
 ---
-title: Informações do aplicativo para LMS365 por ELEARNINGFORCE International Aps
+title: Visão geral do LMS365
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/29/2022
+ms.date: 04/05/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para LMS365, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a90f90521ee769bc32b2d75500a46139b89b3597
-ms.sourcegitcommit: 9f7e69c17034365cafea977da23961d4e934ad9f
+ms.openlocfilehash: 5aeb76840bd35071c203866165ea1a4563159cc5
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/07/2022
-ms.locfileid: "64694652"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228125"
 ---
-# <a name="lms365"></a>LMS365
+# <a name="lms365-overview"></a>Visão geral do LMS365
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Última atualização pelo desenvolvedor em: 28 de março de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 5 de abril de 2022</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/elearningforce.lms365_spfx" target="_blank">Exibir no AppSource</a>
 
@@ -162,14 +162,14 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| GroupMember.Read.All | aplicação | Permite que o aplicativo expanda membros de um grupo do AD para registrar o grupo de usuários em um treinamento | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 >| Mail.Send | Delegada | Permite que o aplicativo envie emails de notificação. A permissão é solicitada dinamicamente durante a configuração da conta de email para notificação. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 >| OnlineMeetings.ReadWrite | Delegada | Permite que o aplicativo crie, leia, atualize e exclua eventos de reunião online. A permissão é solicitada dinamicamente durante a configuração da conta de email para notificação. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 >| RoleManagement.Read.Directory | aplicação | O aplicativo precisa ser capaz de ler quais funções um usuário tem e se ele é um administrador global Office 365 e/ou SharePoint administrador. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 >| User.Invite.All | Delegada | Recurso opcional: para permitir que um Administrador de Catálogo convide usuários convidados para um catálogo de treinamento. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
->| User.Read | Delegada | Permite que os usuários se conectem ao aplicativo usando o Azure AD do&#8217;do cliente e permite que o aplicativo leia o perfil e as informações básicas da empresa do usuário conectado. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
+>| User.Read | Delegada | Permite que os usuários se conectem ao aplicativo usando o Azure AD do cliente&#8217;e permite que o aplicativo leia o perfil e as informações básicas da empresa do usuário conectado. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 >| User.Read.All | Delegada | Permite que o aplicativo leia o perfil completo do usuário. Ele&#8217;necessário para ler usuários&#8217; e criar hierarquia para o Painel do gerenciador &amp; de relatórios | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 >| User.Read.All | aplicação | Permite que o aplicativo leia o perfil completo do usuário. Ele&#8217;necessário para ler usuários&#8217; e criar hierarquia para o Painel do gerenciador &amp; de relatórios | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
 >| perfil | Delegada | Para poder mostrar aos usuários qual conta foi usada para entrar, o LMS365 precisa dessa permissão para mostrar informações básicas do perfil, incluindo o nome de exibição, nome e sobrenome, endereço de email e foto. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](../azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) |
@@ -179,3 +179,4 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
