@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Conector ENA SmartUC, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3f2f49283d559d7d1392339969884fb50ba2a777
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 35216e57d20e4893f3d349809568c89df0b60032
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64876398"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226155"
 ---
 # <a name="ena-smartuc-connector"></a>Conector ENA SmartUC
 
@@ -148,15 +148,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMember.Read.All | Delegada | IDs de usuário e nomes de exibição de membros do canal/chat atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros de canal/chat para chamar. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
->| Chat.ReadBasic | Delegada | IDs de usuário e nomes de exibição de membros do chat atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros de chat para chamar. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
->| People.Read.All | Delegada | IDs de usuário e nomes de exibição de membros da equipe atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros da equipe a serem chamado. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
->| User.Read.All | Delegada | Os números de telefone comercial e móvel dos usuários. Isso é necessário para que as chamadas telefônicas para esses números possam ser iniciadas. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
->| offline_access | Delegada | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros API do Graph de extremidade listados em seu nome. Essas permissões de acesso são necessárias para que os aplicativos da plataforma De identidade da Microsoft funcionem. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
->| openid | Delegada | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros API do Graph de extremidade listados em seu nome. Essas permissões de acesso são necessárias para que os aplicativos da plataforma De identidade da Microsoft funcionem. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
->| perfil | Delegada | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros API do Graph de extremidade listados em seu nome. Essas permissões de acesso são necessárias para que os aplicativos da plataforma De identidade da Microsoft funcionem. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| ChannelMember.Read.All | Delegada | IDs de usuário e nomes de exibição de membros do canal/chat atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros de canal/chat para chamar. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| Chat.ReadBasic | Delegada | IDs de usuário e nomes de exibição de membros do chat atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros de chat para chamar. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| People.Read.All | Delegada | IDs de usuário e nomes de exibição de membros da equipe atual. O aplicativo usa isso para apresentar ao usuário uma lista de membros da equipe a serem chamado. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| User.Read.All | Delegada | Os números de telefone comercial e móvel dos usuários. Isso é necessário para que as chamadas telefônicas para esses números possam ser iniciadas. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| offline_access | Delegada | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros API do Graph de extremidade listados em seu nome. Essas permissões de acesso são necessárias para que os aplicativos da plataforma De identidade da Microsoft funcionem. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| openid | Delegada | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros API do Graph de extremidade listados em seu nome. Essas permissões de acesso são necessárias para que os aplicativos da plataforma De identidade da Microsoft funcionem. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| perfil | Delegada | Um token de autorização para o usuário, autorizando o aplicativo a acessar os outros API do Graph de extremidade listados em seu nome. Essas permissões de acesso são necessárias para que os aplicativos da plataforma De identidade da Microsoft funcionem. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](/microsoft-365-app-certification/azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
 
 >Este aplicativo não tem APIs adicionais.
 
