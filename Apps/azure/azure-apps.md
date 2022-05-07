@@ -3,17 +3,17 @@ title: Azure App segurança e conformidade de IDs – Todos os aplicativos
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/05/2022
+ms.date: 05/06/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todas as Azure App IDs.
 localization_priority: Normal
-ms.openlocfilehash: 90a7fbe1bc7b876b195065adb2bf40ccbceda618
-ms.sourcegitcommit: 12046b21d8dcc88ec5d6c91e6440e1988e3fd35c
+ms.openlocfilehash: 511913030194a27dd85c67bb2558840288079c05
+ms.sourcegitcommit: 2f4d962dc1778849751d2e1db212ff702c247627
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65239571"
+ms.lasthandoff: 05/06/2022
+ms.locfileid: "65265330"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure App segurança e conformidade de IDs
 
