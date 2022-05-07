@@ -3,17 +3,17 @@ title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/05/2022
+ms.date: 05/06/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 07def1a41c86aa63094a1a61f2a2b79d288eba95
-ms.sourcegitcommit: 12046b21d8dcc88ec5d6c91e6440e1988e3fd35c
+ms.openlocfilehash: 2b4148f1b881215ef886cf34ae730f410eebce8a
+ms.sourcegitcommit: 2f4d962dc1778849751d2e1db212ff702c247627
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65239791"
+ms.lasthandoff: 05/06/2022
+ms.locfileid: "65266210"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -340,6 +340,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Notificador de Pacote](./qburst-technologies-pvt-ltd-package-notifier.md) | QBURST TECHNOLOGIES PVT LTD | **✓** |  |
 | [PagerDuty](./pagerduty-inc.md) | PagerDuty, Inc. | **✓** |  |
 | [PandaDoc](./pandadoc.md) | PandaDoc | **✓** |  |
+| [Pandos](./pandos-intelligence-inc.md) | Pandos Intelligence Inc | **✓** |  |
 | [Panopto](./panopto.md) | Panopto | **✓** |  |
 | [ParkHere Corporativo](./parkhere-gmbh-corporate.md) | ParkHere GmbH | **✓** |  |
 | [PayaFy](./nimblesoft-inc-payafy.md) | NimbleSoft Inc. | **✓** |  |
@@ -413,6 +414,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [SmartWork](./smartwork-of-intumit.md) | SmartWork of Intumit | **✓** |  |
 | [SmileBack](./smileback.md) | SmileBack | **✓** |  |
 | [Sobol](./consensys-ags-sobol.md) | ConsenSys AG&#8217;s Sobol | **✓** |  |
+| [Sociável](./sociabble.md) | Sociável | **✓** |  |
 | [Advocacia Social](./oktopost-social-advocacy.md) | Oktopost | **✓** |  |
 | [Solo](./teladoc-inc-solo.md) | Teladoc, Inc. | **✓** |  |
 | [Standup Espacial](./high-fidelity-inc-spatial-standup.md) | Alta Fidelidade Inc | **✓** |  |
