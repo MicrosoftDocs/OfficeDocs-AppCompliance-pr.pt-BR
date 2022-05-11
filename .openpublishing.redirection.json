@@ -1486,6 +1486,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200004007.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/dynamo-software",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200003839.md",
       "redirect_url": "/microsoft-365-app-certification/teams/dz-notification-bot",
       "redirect_document_id": false
@@ -2906,11 +2911,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/elearningforce.lms365_spfx.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/elearningforce-international-aps-lms365",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104381467.md",
       "redirect_url": "/microsoft-365-app-certification/teams/elearningforce-international-lms365",
       "redirect_document_id": false
@@ -2918,6 +2918,11 @@
     {
       "source_path": "Apps/forward/d136f17e-df84-47f2-97a4-13aa24c0c647.md",
       "redirect_url": "/microsoft-365-app-certification/teams/elearningforce-international-lms365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/elearningforce.lms365_spfx.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/elearningforce-international-aps-lms365",
       "redirect_document_id": false
     },
     {
@@ -3276,11 +3281,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/tactivosincdbamural1608253315049.sol-43803-aek.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/mural",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104381626.md",
       "redirect_url": "/microsoft-365-app-certification/teams/mural",
       "redirect_document_id": false
@@ -3288,6 +3288,11 @@
     {
       "source_path": "Apps/forward/c738b607-88dd-4f16-aefe-6a824c65d25d.md",
       "redirect_url": "/microsoft-365-app-certification/teams/mural",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/tactivosincdbamural1608253315049.sol-43803-aek.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/mural",
       "redirect_document_id": false
     },
     {
@@ -3861,6 +3866,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA104380739.md",
+      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381384.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
       "redirect_document_id": false
@@ -3868,11 +3878,6 @@
     {
       "source_path": "Apps/forward/90381cb0-998f-4ba3-9699-130201de5ddb.md",
       "redirect_url": "/microsoft-365-app-certification/teams/ataira-power-bi-collaboration",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA104380739.md",
-      "redirect_url": "/microsoft-365-app-certification/sharepoint/ataira-power-bi-collaboration",
       "redirect_document_id": false
     },
     {
@@ -3906,11 +3911,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/appfluenceinc.m_pm_msft.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/appfluence-inc-priority-matrix",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104382005.md",
       "redirect_url": "/microsoft-365-app-certification/teams/appfluence-inc-priority-matrix",
       "redirect_document_id": false
@@ -3918,6 +3918,11 @@
     {
       "source_path": "Apps/forward/5be2b320-a5b7-4221-893c-dee506e4e365.md",
       "redirect_url": "/microsoft-365-app-certification/teams/appfluence-inc-priority-matrix",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/appfluenceinc.m_pm_msft.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/appfluence-inc-priority-matrix",
       "redirect_document_id": false
     },
     {
@@ -5981,6 +5986,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/azure/1c529524-183e-40db-b1d7-1acf275354b4.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/1c529524-183e-40db-b1d7-1acf275354b4",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/azure/1c7d277c-ff8a-4ea4-bc14-7d06314f8941.md",
       "redirect_url": "/microsoft-365-app-certification/azure/1c7d277c-ff8a-4ea4-bc14-7d06314f8941",
       "redirect_document_id": false
@@ -6318,6 +6328,11 @@
     {
       "source_path": "Apps/forward/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md",
       "redirect_url": "/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/4db812e1-4d29-44e4-b72e-9654c0c91ce4.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/4db812e1-4d29-44e4-b72e-9654c0c91ce4",
       "redirect_document_id": false
     },
     {
