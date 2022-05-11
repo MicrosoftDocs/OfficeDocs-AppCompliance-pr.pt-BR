@@ -464,6 +464,8 @@ items:
         href: teams/witivio-distribution-lists-pro.md
       - name: do!book CB
         href: teams/digital-office-inc-do!book-cb.md
+      - name: Rascunho de Documento
+        href: teams/green-meadow-aps-document-drafter.md
       - name: Docuo
         href: teams/r2-docuo.md
       - name: DocuSign eSignature
@@ -544,6 +546,8 @@ items:
         href: teams/storage-made-easy-file-fabric.md
       - name: Gerenciador de Arquivos
         href: teams/solutions2share-gmbh-file-manager.md
+      - name: Financial Times
+        href: teams/financial-times.md
       - name: Findit
         href: teams/ctelo-findit.md
       - name: FinTech Studio
@@ -578,6 +582,8 @@ items:
         href: teams/geekbot-ltd.md
       - name: Gensys
         href: teams/gensys-solutions-bv.md
+      - name: Genuidade
+        href: teams/stratum-networks-genuity.md
       - name: Gfacility
         href: teams/gfacility.md
       - name: GitHub
@@ -620,8 +626,8 @@ items:
         href: teams/digital-attitude-srl-hi-coach.md
       - name: Hi5
         href: teams/hi5technologies-hi5.md
-      - name: Colaboração HighSide
-        href: teams/highside-inc-collaboration.md
+      - name: HighSide
+        href: teams/highside-inc.md
       - name: Highspot
         href: teams/highspot.md
       - name: HitHorizons
@@ -845,7 +851,7 @@ items:
       - name: Notificador de Pacote
         href: teams/qburst-technologies-pvt-ltd-package-notifier.md
       - name: PagerDuty
-        href: teams/pagerduty-inc.md
+        href: teams/pagerduty.md
       - name: PandaDoc
         href: teams/pandadoc.md
       - name: Pandos
@@ -918,10 +924,12 @@ items:
         href: teams/quitch.md
       - name: Rafiky
         href: teams/global-congress-srl-rafiky.md
+      - name: Chocalho
+        href: teams/rattle.md
       - name: Reach
         href: teams/livetiles-reach.md
-      - name: Ler Painel
-        href: teams/read-ai-inc-dashboard.md
+      - name: Ler Navegador de Reunião
+        href: teams/read-ai-inc-meeting-navigator.md
       - name: Tradutor de Tempo Real
         href: teams/fairuse-real-time-translator.md
       - name: DM do RecognitionNow
@@ -1104,20 +1112,22 @@ items:
         href: teams/approved-contact-text.md
       - name: O Hub Cativante
         href: teams/captivate-io-ltd-the-hub.md
+      - name: O movimento mental
+        href: teams/the-mental-move-bv.md
       - name: ThoughtExchange
         href: teams/thoughtexchange.md
       - name: ThoughtWire EWS
         href: teams/thoughtwire-corp-ews.md
       - name: locais ti8m
         href: teams/tim-ag-ti8m-places.md
-      - name: Emissão de Bilhetes
-        href: teams/kitameraki-limited-ticketing.md
+      - name: Tíquetes como serviço
+        href: teams/kitameraki-limited-ticketing-as-a-service.md
       - name: Tikit
         href: teams/cireson-tikit.md
       - name: TimeClock 365
         href: teams/softsale-timeclock-365.md
       - name: timeghost - Controle de tempo
-        href: teams/kollisch-gmbh-timeghost-time-tracking.md
+        href: teams/timeghostio-timeghost-time-tracking.md
       - name: Timeneye
         href: teams/dm-digital-srl-timeneye.md
       - name: Totara
@@ -1217,7 +1227,7 @@ items:
       - name: Bot de Tempo Zero
         href: teams/replicon-zero-time-bot.md
       - name: Zignals
-        href: teams/alight-zignals.md
+        href: teams/alight-consulting-gmbh-zignals.md
       - name: Zoho Desk
         href: teams/zoho-corporation-private-limited-desk.md
       - name: Zoho Notebook
@@ -1879,6 +1889,8 @@ items:
         href: azure/b979eaca-19be-437e-9dc4-bc59418a2034.md
       - name: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7
         href: azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7.md
+      - name: bacd48e3-a2e1-48db-992f-609eb58ac326
+        href: azure/bacd48e3-a2e1-48db-992f-609eb58ac326.md
       - name: bbdcd676-7448-453c-bec7-70e5384bc290
         href: azure/bbdcd676-7448-453c-bec7-70e5384bc290.md
       - name: bceca1f0-723f-44d0-b732-b3506c0a641d
