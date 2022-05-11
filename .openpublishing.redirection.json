@@ -1451,6 +1451,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200004059.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/green-meadow-aps-document-drafter",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/6b96e77c-08d1-432e-819f-7dc7b6585a1a.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/green-meadow-aps-document-drafter",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002937.md",
       "redirect_url": "/microsoft-365-app-certification/teams/r2-docuo",
       "redirect_document_id": false
@@ -1766,6 +1776,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA104379617.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/evernote",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381639.md",
       "redirect_url": "/microsoft-365-app-certification/teams/evernote",
       "redirect_document_id": false
@@ -1773,11 +1788,6 @@
     {
       "source_path": "Apps/forward/4e1f8576-93d5-4c24-abb5-f02782e00a4e.md",
       "redirect_url": "/microsoft-365-app-certification/teams/evernote",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA104379617.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/evernote",
       "redirect_document_id": false
     },
     {
@@ -1888,6 +1898,16 @@
     {
       "source_path": "Apps/forward/4946e155-584a-412d-aac1-48975e073587.md",
       "redirect_url": "/microsoft-365-app-certification/teams/solutions2share-gmbh-file-manager",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200004054.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/financial-times",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/53992bb2-b879-45ef-99de-68fc094f7bbf.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/financial-times",
       "redirect_document_id": false
     },
     {
@@ -2078,6 +2098,16 @@
     {
       "source_path": "Apps/forward/bc1e8e2d-bb5c-47d7-a9e6-f0be9eb83c5a.md",
       "redirect_url": "/microsoft-365-app-certification/teams/gensys-solutions-bv",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200004008.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/stratum-networks-genuity",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/1d37e38f-7513-4239-8251-208a749bba7e.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/stratum-networks-genuity",
       "redirect_document_id": false
     },
     {
@@ -2297,12 +2327,12 @@
     },
     {
       "source_path": "Apps/forward/WA200003916.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/highside-inc-collaboration",
+      "redirect_url": "/microsoft-365-app-certification/teams/highside-inc",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/d4460828-ddde-4619-b40b-39412667f7a3.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/highside-inc-collaboration",
+      "redirect_url": "/microsoft-365-app-certification/teams/highside-inc",
       "redirect_document_id": false
     },
     {
@@ -2551,13 +2581,13 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104380464.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
+      "source_path": "Apps/forward/17859280.iplannerpro.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/iglobe-iplanner-pro-office-365",
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/17859280.iplannerpro.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/iglobe-iplanner-pro-office-365",
+      "source_path": "Apps/forward/WA104380464.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
       "redirect_document_id": false
     },
     {
@@ -3281,6 +3311,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/tactivosincdbamural1608253315049.sol-43803-aek.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/mural",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA104381626.md",
       "redirect_url": "/microsoft-365-app-certification/teams/mural",
       "redirect_document_id": false
@@ -3288,11 +3323,6 @@
     {
       "source_path": "Apps/forward/c738b607-88dd-4f16-aefe-6a824c65d25d.md",
       "redirect_url": "/microsoft-365-app-certification/teams/mural",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/tactivosincdbamural1608253315049.sol-43803-aek.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/mural",
       "redirect_document_id": false
     },
     {
@@ -3687,12 +3717,12 @@
     },
     {
       "source_path": "Apps/forward/WA200001637.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/pagerduty-inc",
+      "redirect_url": "/microsoft-365-app-certification/teams/pagerduty",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/c8c302dc-4e77-4536-890d-0c2bffbef9cc.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/pagerduty-inc",
+      "redirect_url": "/microsoft-365-app-certification/teams/pagerduty",
       "redirect_document_id": false
     },
     {
@@ -4086,6 +4116,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200004030.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/rattle",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/bacd48e3-a2e1-48db-992f-609eb58ac326.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/rattle",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002045.md",
       "redirect_url": "/microsoft-365-app-certification/teams/livetiles-reach",
       "redirect_document_id": false
@@ -4097,12 +4137,12 @@
     },
     {
       "source_path": "Apps/forward/WA200003896.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/read-ai-inc-dashboard",
+      "redirect_url": "/microsoft-365-app-certification/teams/read-ai-inc-meeting-navigator",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/18eb20ae-cd59-48c6-8060-fbe171a917e5.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/read-ai-inc-dashboard",
+      "redirect_url": "/microsoft-365-app-certification/teams/read-ai-inc-meeting-navigator",
       "redirect_document_id": false
     },
     {
@@ -5151,6 +5191,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200004016.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/the-mental-move-bv",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/c5c971cc-3589-4338-a3be-1326db95cb24.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/the-mental-move-bv",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/thetalake.thetalake_recording_and_compliance_for_teams.md",
       "redirect_url": "/microsoft-365-app-certification/saas/theta-lake-recordingcompliance-for-teams-video",
       "redirect_document_id": false
@@ -5187,12 +5237,12 @@
     },
     {
       "source_path": "Apps/forward/WA200003945.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/kitameraki-limited-ticketing",
+      "redirect_url": "/microsoft-365-app-certification/teams/kitameraki-limited-ticketing-as-a-service",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/aa6b770e-6b8c-4096-9648-5239295ecadc.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/kitameraki-limited-ticketing",
+      "redirect_url": "/microsoft-365-app-certification/teams/kitameraki-limited-ticketing-as-a-service",
       "redirect_document_id": false
     },
     {
@@ -5217,12 +5267,12 @@
     },
     {
       "source_path": "Apps/forward/WA200001532.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/kollisch-gmbh-timeghost-time-tracking",
+      "redirect_url": "/microsoft-365-app-certification/teams/timeghostio-timeghost-time-tracking",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/e3956558-7399-4ec1-848a-c61a2aa95bc1.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/kollisch-gmbh-timeghost-time-tracking",
+      "redirect_url": "/microsoft-365-app-certification/teams/timeghostio-timeghost-time-tracking",
       "redirect_document_id": false
     },
     {
@@ -5757,12 +5807,12 @@
     },
     {
       "source_path": "Apps/forward/WA200003201.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/alight-zignals",
+      "redirect_url": "/microsoft-365-app-certification/teams/alight-consulting-gmbh-zignals",
       "redirect_document_id": false
     },
     {
       "source_path": "Apps/forward/a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/alight-zignals",
+      "redirect_url": "/microsoft-365-app-certification/teams/alight-consulting-gmbh-zignals",
       "redirect_document_id": false
     },
     {
@@ -7018,6 +7068,11 @@
     {
       "source_path": "Apps/forward/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7.md",
       "redirect_url": "/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/azure/bacd48e3-a2e1-48db-992f-609eb58ac326.md",
+      "redirect_url": "/microsoft-365-app-certification/azure/bacd48e3-a2e1-48db-992f-609eb58ac326",
       "redirect_document_id": false
     },
     {
