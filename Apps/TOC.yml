@@ -80,6 +80,8 @@ items:
         href: outlook/codetwo-for-outlook.md
       - name: Comutação
         href: outlook/commuty.md
+      - name: Dynamo
+        href: outlook/dynamo-software.md
       - name: Reator de Email
         href: outlook/flow-simulation-ltd-email-reactor.md
       - name: Evernote
@@ -1306,7 +1308,7 @@ items:
         href: saas/cc4all-cc4teams.md
       - name: Classroom.cloud
         href: saas/netsupport-ltd-classroomcloud.md
-      - name: Backup na nuvem para Microsoft Office 365
+      - name: Cloud Backup para Microsoft Office 365
         href: saas/avepoint-inc-cloud-backup-for-microsoft-office-365.md
       - name: CodeTwo Email Signatures for Office 365
         href: saas/codetwo-email-signatures-for-office-365.md
@@ -1463,6 +1465,8 @@ items:
         href: azure/1ac9e5c6-4850-4864-96c5-b91e4512334e.md
       - name: 1b81b79d-10ff-4614-81cc-5ac3dc64a40c
         href: azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md
+      - name: 1c529524-183e-40db-b1d7-1acf275354b4
+        href: azure/1c529524-183e-40db-b1d7-1acf275354b4.md
       - name: 1c7d277c-ff8a-4ea4-bc14-7d06314f8941
         href: azure/1c7d277c-ff8a-4ea4-bc14-7d06314f8941.md
       - name: 1cc8eecf-56f3-4137-a0fe-4b0466ca0677
@@ -1599,6 +1603,8 @@ items:
         href: azure/4d0997dc-df53-4b18-9df1-bb283f8a0377.md
       - name: 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b
         href: azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md
+      - name: 4db812e1-4d29-44e4-b72e-9654c0c91ce4
+        href: azure/4db812e1-4d29-44e4-b72e-9654c0c91ce4.md
       - name: 4dce2abf-3f8e-4281-9f7a-d602fc391886
         href: azure/4dce2abf-3f8e-4281-9f7a-d602fc391886.md
       - name: 4e820d60-9e62-403c-accd-857b987cc13c
