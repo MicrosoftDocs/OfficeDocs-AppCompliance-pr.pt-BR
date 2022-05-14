@@ -3,17 +3,17 @@ title: Segurança e conformidade do Microsoft SharePoint Apps – Todos os Aplic
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/08/2022
+ms.date: 05/13/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos SharePoint Microsoft.
 localization_priority: Normal
-ms.openlocfilehash: 18973e890d4ebf8a24eb8a0611f7224e1c7aa1a1
-ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.openlocfilehash: 41a841c6ca0476fd46db20aa8d740924d8512778
+ms.sourcegitcommit: 7eb24e5432be5d305fa7140c46d6d52c234fb621
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/10/2022
-ms.locfileid: "64747740"
+ms.lasthandoff: 05/14/2022
+ms.locfileid: "65420234"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Segurança e conformidade do Microsoft SharePoint Apps
 
@@ -35,7 +35,6 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Konnect eMail Parser](./konnect-email-parser.md) | Konnect eMail | **✓** |  |
 | [LifeWorks Conexões do Viva](./lifeworks-inc-viva-connections.md) | Lifeworks Inc | **✓** |  |
 | [Lightning Tools Lightning Condutor](./lightning-tools-conductor.md) | Ferramentas do Lightning | **✓** |  |
-| [officeatwork – Selador de modelo para SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Colaboração do Power BI](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [SharePoint gerenciamento de treinamento de funcionários do SharePoint-sapiens](./sharepointsapiens-employee-training-management.md) | SharePointSapiens | **✓** |  |
 | [SharePoint-sapiens](./sharepointsapiens-event-management.md) | SharePointSapiens | **✓** |  |
