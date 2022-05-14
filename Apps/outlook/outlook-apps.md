@@ -3,17 +3,17 @@ title: Segurança e conformidade Outlook Aplicativos do Microsoft Outlook – To
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/10/2022
+ms.date: 05/13/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos do Microsoft Outlook.
 localization_priority: Normal
-ms.openlocfilehash: 150a248def762691047a13127f28dff9378f239b
-ms.sourcegitcommit: 0c3ca169e16a6825888669d1e8ea14f66db725bf
+ms.openlocfilehash: 9a1c96597460585f3f79bd41ee15c10bd91f8a90
+ms.sourcegitcommit: 28e4529834823fb61620dc9ac5b33eeddaca67a1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "65305637"
+ms.lasthandoff: 05/14/2022
+ms.locfileid: "65413467"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Segurança e conformidade do Microsoft Outlook Apps
 
@@ -24,6 +24,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Adobe Acrobat Sign para Microsoft Outlook](./adobe-inc-acrobat-sign-for-microsoft-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Vídeos altru](./altru-videos.md) | Altru | **✓** |  |
 | [Calendários de Contatos Aprovados](./approved-contact-calendars.md) | Contato Aprovado | **✓** |  |
+| [Aumentar Meu Email](./boost-my-mail.md) | Aumentar Meu Email | **✓** |  |
 | [Ci-Signature](./ci-solution-gmbh-signature.md) | solução ci GmbH | **✓** |  |
 | [CodeTwo para Outlook](./codetwo-for-outlook.md) | Codetwo | **✓** |  |
 | [Comutação](./commuty.md) | Comutação | **✓** |  |
