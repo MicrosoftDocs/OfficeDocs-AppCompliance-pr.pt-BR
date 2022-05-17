@@ -19,6 +19,10 @@ items:
         href: docs/certification.md
       - name: Microsoft 365 de Envio de Certificação do Microsoft 365
         href: docs/certification-submission-guide.md
+      - name: O que é a ACAT (Ferramenta de Automação de Conformidade do Aplicativo)?
+        href: docs/acat-overview.md
+      - name: Agilizar Microsoft 365 certificação com o ACAT
+        href: docs/automate-certification-with-acat.md
   - name: Microsoft Excel aplicativos
     href: excel/excel-apps.md
     items:
