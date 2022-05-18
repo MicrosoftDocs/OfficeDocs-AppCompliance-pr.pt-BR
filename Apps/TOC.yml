@@ -195,6 +195,8 @@ items:
         href: sharepoint/lifeworks-inc-viva-connections.md
       - name: Lightning Tools Lightning Condutor
         href: sharepoint/lightning-tools-conductor.md
+      - name: officeatwork | Se escolha de modelo para SharePoint
+        href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
       - name: Colaboração do Power BI
         href: sharepoint/ataira-power-bi-collaboration.md
       - name: SharePoint|sapiens Employee Training Management
@@ -328,6 +330,8 @@ items:
         href: teams/blackberry-athoc.md
       - name: Board Connect
         href: teams/engage-squared-board-connect.md
+      - name: Bonusly
+        href: teams/bonusly.md
       - name: Reservar Room Profissional
         href: teams/witivio-booking-room-pro.md
       - name: BrainBot
@@ -458,6 +462,8 @@ items:
         href: teams/desknow-gmbh-deskbooking.md
       - name: DeskManager
         href: teams/desknow-gmbh-deskmanager.md
+      - name: Digiplein
+        href: teams/educatieve-uitgeversgroep-bv-digiplein.md
       - name: Caixa de ferramentas Digitalops
         href: teams/medalsoft-digitalops-toolbox.md
       - name: Conselhos Diligentes
@@ -500,6 +506,8 @@ items:
         href: teams/eloops.md
       - name: Email TeamMate
         href: teams/harmonie-email-teammate.md
+      - name: email-mensagem de texto
+        href: teams/voice-elements-corporation-email-texting.md
       - name: Consultoria de Funcionários por DSMN8
         href: teams/dsmn8-employee-advocacy-by.md
       - name: Indicações de Funcionários
@@ -836,8 +844,12 @@ items:
         href: teams/officetogether-inc.md
       - name: Officevibe
         href: teams/officevibe.md
+      - name: Planejamento offishall
+        href: teams/offishall-planning.md
       - name: OLIVE VLE
         href: teams/olivegroup-olive-vle.md
+      - name: Início da Integração
+        href: teams/apr-management-solutions-lda-onboarding-start.md
       - name: Onluyen
         href: teams/edmicro-onluyen.md
       - name: Onsight Connect
@@ -982,6 +994,8 @@ items:
         href: teams/derdack-signl4.md
       - name: Simple In/Out
         href: teams/simply-made-apps-inc-simple-inout.md
+      - name: Seno
+        href: teams/sineco-sine.md
       - name: Skedda
         href: teams/skedda-pty-ltd.md
       - name: SkilledHuman
@@ -1132,6 +1146,8 @@ items:
         href: teams/timeghostio-timeghost-time-tracking.md
       - name: Timeneye
         href: teams/dm-digital-srl-timeneye.md
+      - name: Tonkean
+        href: teams/tonkean.md
       - name: Totara
         href: teams/totara-learning.md
       - name: touchSMS
@@ -1625,6 +1641,8 @@ items:
         href: azure/4e820d60-9e62-403c-accd-857b987cc13c.md
       - name: 4f037969-20ef-4a41-8330-422b7b115eb6
         href: azure/4f037969-20ef-4a41-8330-422b7b115eb6.md
+      - name: 4fcff517-e16b-42b4-b6f0-5fe449d45479
+        href: azure/4fcff517-e16b-42b4-b6f0-5fe449d45479.md
       - name: 5022e09d-d2f9-499f-8925-554c324ad23a
         href: azure/5022e09d-d2f9-499f-8925-554c324ad23a.md
       - name: 50356ee3-b48b-424b-a7a7-35e53c2ce736
@@ -1743,6 +1761,8 @@ items:
         href: azure/7cb50e3e-0427-409e-90d2-638eb28217c3.md
       - name: 7e1fc6b3-90a7-4a98-a766-5627193e95bc
         href: azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md
+      - name: 806359be-da23-4538-80bb-baa82107ec2d
+        href: azure/806359be-da23-4538-80bb-baa82107ec2d.md
       - name: 815a5165-fd61-44b8-be99-6301f780bd68
         href: azure/815a5165-fd61-44b8-be99-6301f780bd68.md
       - name: 8277a51c-3ad6-446c-9b7e-e3f6e27257c1
@@ -1945,6 +1965,8 @@ items:
         href: azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md
       - name: cbc8bfef-8dd2-4714-ab18-18e15566b63e
         href: azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e.md
+      - name: cbdfe641-3e2e-449d-b4f7-7e377c7060aaa
+        href: azure/cbdfe641-3e2e-449d-b4f7-7e377c7060aa.md
       - name: cdd5ed6f-ceda-4d46-a522-b7526d6d9e50
         href: azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50.md
       - name: ce60db2f-439f-4e45-bfdc-d4c827c1820d
@@ -1981,6 +2003,8 @@ items:
         href: azure/d8843264-a57b-41e3-aea6-b83ea56f6bd6.md
       - name: d980249e-fb0c-40a9-8706-f77f95660bdc
         href: azure/d980249e-fb0c-40a9-8706-f77f95660bdc.md
+      - name: dae2eacf-3eb5-4440-baff-984fbd5cae68
+        href: azure/dae2eacf-3eb5-4440-baff-984fbd5cae68.md
       - name: dc171e47-c074-4bc2-9e7b-3856b71e0630
         href: azure/dc171e47-c074-4bc2-9e7b-3856b71e0630.md
       - name: dc8facfc-c606-44b4-a0ad-04f81446845c

@@ -10,12 +10,12 @@ metadata:
   ms.author: legerrar
   ms.service: attestation
   ms.topic: landing-page
-  ms.openlocfilehash: a0c5e8a7dfe7e401de6bd86a915107d49c0ba80a
-  ms.sourcegitcommit: b0c1d8160b4e9a27f23a9d723f7e76d38ab12d9e
+  ms.openlocfilehash: 9a4cc628e44af9df81aadcdee374163225ce9177
+  ms.sourcegitcommit: 9fc27c6c7e9683291d85818c07e7be8291c75532
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 04/29/2022
-  ms.locfileid: "65125270"
+  ms.lasthandoff: 05/18/2022
+  ms.locfileid: "65449275"
 landingContent:
 - title: Sobre
   linkLists:
@@ -39,12 +39,18 @@ landingContent:
       url: ~/docs/certification-submission-guide.md
     - text: Microsoft 365 exemplo de evidência de certificação
       url: ~/docs/certification-sample-evidence-guide.md
+    - text: Visão geral da Ferramenta de Automação de Conformidade do Aplicativo
+      url: ~/docs/acat-overview.md
+    - text: Utilizar a Ferramenta de Automação de Conformidade do Aplicativo
+      url: ~/docs/automate-certification-with-acat.md
   - linkListType: quickstart
     links:
     - text: Office guia do usuário da loja
       url: ~/docs/UserGuide.md
     - text: Guia do usuário do Marketplace Comercial (Aplicativos SaaS)
       url: ~/docs/SaaSUserGuide.md
+    - text: Guia do usuário de clonagem de envio de certificação
+      url: ~/docs/certificationsubmissioncloning.md
 - title: Examinar aplicativos
   linkLists:
   - linkListType: concept
