@@ -3,17 +3,17 @@ title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/13/2022
+ms.date: 05/17/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 8c6a89142076fd475457c1be92ce6fbe94f4422e
-ms.sourcegitcommit: 7eb24e5432be5d305fa7140c46d6d52c234fb621
+ms.openlocfilehash: 5e6dd5458edbd117108f28d2555f9e4a755388e4
+ms.sourcegitcommit: 9fc27c6c7e9683291d85818c07e7be8291c75532
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/14/2022
-ms.locfileid: "65420244"
+ms.lasthandoff: 05/18/2022
+ms.locfileid: "65453535"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -78,6 +78,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Bizfone](./mobikom-bizfone.md) | MobiKOM | **✓** |  |
 | [BlackBerry AtHoc](./blackberry-athoc.md) | BlackBerry | **✓** |  |
 | [Board Connect](./engage-squared-board-connect.md) | Engage Squared | **✓** |  |
+| [Bonusly](./bonusly.md) | Bonusly | **✓** |  |
 | [Reservar Room Profissional](./witivio-booking-room-pro.md) | Witivio | **✓** |  |
 | [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  |
 | [BRAVO Workhub](./coeus-solutions-gmbh-bravo-workhub.md) | Soluções do Coeus GmbH | **✓** |  |
@@ -143,6 +144,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Desk365](./kani-technologies-inc-desk365.md) | Kani Technologies Inc | **✓** |  |
 | [DeskBooking](./desknow-gmbh-deskbooking.md) | DeskNow GmbH | **✓** |  |
 | [DeskManager](./desknow-gmbh-deskmanager.md) | DeskNow GmbH | **✓** |  |
+| [Digiplein](./educatieve-uitgeversgroep-bv-digiplein.md) | Grupo de Editores Educacionais B.V. | **✓** |  |
 | [Caixa de ferramentas Digitalops](./medalsoft-digitalops-toolbox.md) | Medalsoft | **✓** |  |
 | [Conselhos Diligentes](./diligent-boards.md) | Diligente | **✓** |  |
 | [Listas de distribuição Pro](./witivio-distribution-lists-pro.md) | Witivio | **✓** |  |
@@ -164,6 +166,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [elmah.io](./elmahio.md) | elmah.io | **✓** |  |
 | [Eloops](./eloops.md) | Eloops | **✓** |  |
 | [Email TeamMate](./harmonie-email-teammate.md) | harmon.ie | **✓** |  |
+| [email-mensagem de texto](./voice-elements-corporation-email-texting.md) | Corporação de Elementos de Voz | **✓** |  |
 | [Consultoria de Funcionários por DSMN8](./dsmn8-employee-advocacy-by.md) | DSMN8 | **✓** |  |
 | [Indicações de Funcionários](./recruitday-inc-employee-referrals.md) | Recruitday Inc. | **✓** |  |
 | [Gerenciamento da Treinamento de Funcionários](./sharepointsapiens-employee-training-management.md) | SharePoint-Sapiens | **✓** |  |
@@ -332,7 +335,9 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [OfficeSuite](./windstream-officesuite.md) | Windstream | **✓** |  |
 | [OfficeTogether](./officetogether-inc.md) | OfficeTogether, Inc. | **✓** |  |
 | [Officevibe](./officevibe.md) | Officevibe | **✓** |  |
+| [Planejamento do Offishall](./offishall-planning.md) | Offishall | **✓** |  |
 | [OLIVE VLE](./olivegroup-olive-vle.md) | OliveGroup | **✓** |  |
+| [Iniciar Integração](./apr-management-solutions-lda-onboarding-start.md) | APR - Management Solutions Lda. | **✓** |  |
 | [Onluyen](./edmicro-onluyen.md) | Edmicro | **✓** |  |
 | [Onsight Connect](./librestream-onsight-connect.md) | Librestream | **✓** |  |
 | [Optmyzr](./optmyzr.md) | Optmyzr | **✓** |  |
@@ -405,6 +410,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [SightCall](./sightcall.md) | SightCall | **✓** |  |
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  |
 | [Simple In/Out](./simply-made-apps-inc-simple-inout.md) | Simply Made Apps, Inc. | **✓** |  |
+| [Seno](./sineco-sine.md) | Sine.co | **✓** |  |
 | [Skedda](./skedda-pty-ltd.md) | Skedda Pty Ltd | **✓** |  |
 | [SkilledHuman](./saltflat-limited-skilledhuman.md) | SaltFlat Limited | **✓** |  |
 | [Skillsoft Percipio](./skillsoft-percipio.md) | Skillsoft | **✓** |  |
@@ -480,6 +486,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost - Controle de tempo](./timeghostio-timeghost-time-tracking.md) | timeghost.io | **✓** |  |
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |
+| [Tonkean](./tonkean.md) | Tonkean | **✓** |  |
 | [Totara](./totara-learning.md) | Aprendizagem do Totara | **✓** |  |
 | [touchSMS](./edgility-touchsms.md) | Edgility | **✓** |  |
 | [Assistente de Treinamento](./the-bot-platform-training-assistant.md) | A Plataforma do Bot | **✓** |  |
