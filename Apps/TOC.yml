@@ -310,6 +310,8 @@ items:
         href: teams/axelleron.md
       - name: Eixo
         href: teams/axis-workshops-ltd.md
+      - name: B12
+        href: teams/apprentx-b12.md
       - name: Beagle
         href: teams/decision-point-beagle.md
       - name: Bedriftsnett
@@ -408,8 +410,6 @@ items:
         href: teams/ibv-solutions-collaboard.md
       - name: Vaso de Coleta
         href: teams/gifted-to-you-limited-collection-pot.md
-      - name: Comandante
-        href: teams/nimbella-commander.md
       - name: Navegador da Empresa
         href: teams/konica-minolta-it-solutions-company-navigator.md
       - name: Concluir
@@ -474,6 +474,8 @@ items:
         href: teams/witivio-distribution-lists-pro.md
       - name: do!book CB
         href: teams/digital-office-inc-do!book-cb.md
+      - name: DoctorOnline
+        href: teams/nlsql-doctoronline.md
       - name: Rascunho de Documento
         href: teams/green-meadow-aps-document-drafter.md
       - name: Docuo
@@ -1028,8 +1030,6 @@ items:
         href: teams/oktopost-social-advocacy.md
       - name: Solo
         href: teams/teladoc-inc-solo.md
-      - name: Standup Espacial
-        href: teams/high-fidelity-inc-spatial-standup.md
       - name: SQQ
         href: teams/superquickquestion-sqq.md
       - name: StaffCircle
