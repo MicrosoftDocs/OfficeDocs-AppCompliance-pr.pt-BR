@@ -3,17 +3,17 @@ title: Azure App informações de ID para 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/18/2022
+ms.date: 05/19/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9.
-ms.openlocfilehash: e56f55471f1c89afa9213cbe88633fc5a1d9270f
-ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
+ms.openlocfilehash: 6e0cdc10fb81dde9457ae40c8c36c769d1cf49d6
+ms.sourcegitcommit: b363fcc87dc5720eaddbe567a857270732ef9e1c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/18/2022
-ms.locfileid: "65474885"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65547394"
 ---
 # <a name="azure-app-id-5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9"></a>Azure App ID: 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9
 
