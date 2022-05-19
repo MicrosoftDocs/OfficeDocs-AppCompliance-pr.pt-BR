@@ -86,6 +86,8 @@ items:
         href: outlook/codetwo-for-outlook.md
       - name: Comutação
         href: outlook/commuty.md
+      - name: DocuSign para Outlook
+        href: outlook/docusign-inc-for-outlook.md
       - name: Dynamo
         href: outlook/dynamo-software.md
       - name: Reator de Email
@@ -844,11 +846,11 @@ items:
         href: teams/officetogether-inc.md
       - name: Officevibe
         href: teams/officevibe.md
-      - name: Planejamento offishall
+      - name: Planejamento do Offishall
         href: teams/offishall-planning.md
       - name: OLIVE VLE
         href: teams/olivegroup-olive-vle.md
-      - name: Início da Integração
+      - name: Iniciar Integração
         href: teams/apr-management-solutions-lda-onboarding-start.md
       - name: Onluyen
         href: teams/edmicro-onluyen.md
@@ -1269,6 +1271,8 @@ items:
         href: word/krevealllc-crosscheck.md
       - name: Rascunho de Documento
         href: word/green-meadow-aps-document-drafter.md
+      - name: DocuSign para Word
+        href: word/docusign-inc-for-word.md
       - name: Excel automação de documentos do Excel para o Word
         href: word/analysisplace-excel-to-word-document-automation.md
       - name: Fabasoft Cloud Office Suplemento
