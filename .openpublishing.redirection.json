@@ -521,6 +521,16 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200004073.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/apprentx-b12",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/a4a2213d-2466-473b-8772-021094c5f013.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/apprentx-b12",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002687.md",
       "redirect_url": "/microsoft-365-app-certification/teams/decision-point-beagle",
       "redirect_document_id": false
@@ -1101,16 +1111,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200002015.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/nimbella-commander",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/be4751a5-db56-4e45-bb27-397e0aa614b1.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/nimbella-commander",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200003325.md",
       "redirect_url": "/microsoft-365-app-certification/outlook/commuty",
       "redirect_document_id": false
@@ -1461,8 +1461,13 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200003634.md",
-      "redirect_url": "/microsoft-365-app-certification/word/green-meadow-aps-document-drafter",
+      "source_path": "Apps/forward/WA200004082.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/nlsql-doctoronline",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/f9555238-64f3-4ec2-a8fc-3787baa157aa.md",
+      "redirect_url": "/microsoft-365-app-certification/teams/nlsql-doctoronline",
       "redirect_document_id": false
     },
     {
@@ -1473,6 +1478,11 @@
     {
       "source_path": "Apps/forward/6b96e77c-08d1-432e-819f-7dc7b6585a1a.md",
       "redirect_url": "/microsoft-365-app-certification/teams/green-meadow-aps-document-drafter",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA200003634.md",
+      "redirect_url": "/microsoft-365-app-certification/word/green-meadow-aps-document-drafter",
       "redirect_document_id": false
     },
     {
@@ -1801,11 +1811,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104379617.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/evernote",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104381639.md",
       "redirect_url": "/microsoft-365-app-certification/teams/evernote",
       "redirect_document_id": false
@@ -1813,6 +1818,11 @@
     {
       "source_path": "Apps/forward/4e1f8576-93d5-4c24-abb5-f02782e00a4e.md",
       "redirect_url": "/microsoft-365-app-certification/teams/evernote",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/WA104379617.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/evernote",
       "redirect_document_id": false
     },
     {
@@ -2606,13 +2616,13 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA104380464.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
+      "source_path": "Apps/forward/17859280.iplannerpro.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/iglobe-iplanner-pro-office-365",
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/17859280.iplannerpro.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/iglobe-iplanner-pro-office-365",
+      "source_path": "Apps/forward/WA104380464.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/iglobe-iplanner-pro-office-365",
       "redirect_document_id": false
     },
     {
@@ -2966,11 +2976,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/elearningforce.lms365_spfx.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/elearningforce-international-aps-lms365",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA104381467.md",
       "redirect_url": "/microsoft-365-app-certification/teams/elearningforce-international-lms365",
       "redirect_document_id": false
@@ -2978,6 +2983,11 @@
     {
       "source_path": "Apps/forward/d136f17e-df84-47f2-97a4-13aa24c0c647.md",
       "redirect_url": "/microsoft-365-app-certification/teams/elearningforce-international-lms365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Apps/forward/elearningforce.lms365_spfx.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/elearningforce-international-aps-lms365",
       "redirect_document_id": false
     },
     {
@@ -3486,6 +3496,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/WA200002505.md",
+      "redirect_url": "/microsoft-365-app-certification/outlook/all-blue-solutions-ngdesk",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200002968.md",
       "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
       "redirect_document_id": false
@@ -3493,11 +3508,6 @@
     {
       "source_path": "Apps/forward/64d24486-30aa-4fae-8bdc-2680a85dcbb5.md",
       "redirect_url": "/microsoft-365-app-certification/teams/all-blue-solutions-ngdesk",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/WA200002505.md",
-      "redirect_url": "/microsoft-365-app-certification/outlook/all-blue-solutions-ngdesk",
       "redirect_document_id": false
     },
     {
@@ -4691,16 +4701,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Apps/forward/WA200003161.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/high-fidelity-inc-spatial-standup",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/52f9c87d-262c-4e33-b5b6-fc84b35df529.md",
-      "redirect_url": "/microsoft-365-app-certification/teams/high-fidelity-inc-spatial-standup",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "Apps/forward/WA200002978.md",
       "redirect_url": "/microsoft-365-app-certification/teams/superquickquestion-sqq",
       "redirect_document_id": false
@@ -5201,6 +5201,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
+      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Apps/forward/WA200000110.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officeatwork-template-chooser",
       "redirect_document_id": false
@@ -5208,11 +5213,6 @@
     {
       "source_path": "Apps/forward/13d1defc-6301-4e62-9c53-3361db865183.md",
       "redirect_url": "/microsoft-365-app-certification/teams/officeatwork-template-chooser",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Apps/forward/officeatwork-ag.template-chooser.md",
-      "redirect_url": "/microsoft-365-app-certification/saas/officeatwork-template-chooser",
       "redirect_document_id": false
     },
     {
