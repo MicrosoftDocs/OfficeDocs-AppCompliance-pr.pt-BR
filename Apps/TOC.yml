@@ -26,6 +26,8 @@ items:
   - name: Microsoft Excel aplicativos
     href: excel/excel-apps.md
     items:
+      - name: Suplemento AuditBoard
+        href: excel/auditboard-inc-add-in.md
       - name: Calculadora de Custos de Serviço canon EMEA para parceiros B2B
         href: excel/canon-emea-service-cost-calculator-for-b2b-partners.md
       - name: CloudExtend Analytics para NetSuite
@@ -74,8 +76,6 @@ items:
     items:
       - name: Adobe Acrobat Sign para Microsoft Outlook
         href: outlook/adobe-inc-acrobat-sign-for-microsoft-outlook.md
-      - name: Vídeos altru
-        href: outlook/altru-videos.md
       - name: Calendários de Contatos Aprovados
         href: outlook/approved-contact-calendars.md
       - name: Aumentar Meu Email
@@ -290,8 +290,6 @@ items:
         href: teams/aster.md
       - name: AtBot
         href: teams/h3-solutions-inc-atbot.md
-      - name: AttendanceBot
-        href: teams/anaek-attendancebot.md
       - name: Attendant
         href: teams/workstreampeople-bv-attendant.md
       - name: Ouvinte
@@ -370,8 +368,6 @@ items:
         href: teams/yattee-inc-canary.md
       - name: Audiência virtual do Casedoc
         href: teams/casedoc-virtual-hearing.md
-      - name: CatchEm
-        href: teams/chimu-software-catchem.md
       - name: Centrical
         href: teams/biz-effective-centrical.md
       - name: check.it
@@ -498,8 +494,6 @@ items:
         href: teams/expert-systems-ivrasia-coltd-ecbooking.md
       - name: Edgility
         href: teams/edgility.md
-      - name: EdMill
-        href: teams/my-serious-game-edmill.md
       - name: Edpuzzle
         href: teams/edpuzzle.md
       - name: Gerenciamento de Serviços Efetivo
@@ -626,8 +620,6 @@ items:
         href: teams/guidespark-communicate-cloud.md
       - name: GuineaPig
         href: teams/guineapig-health-technologies-ab.md
-      - name: Guru
-        href: teams/guru-technologies.md
       - name: Health Hero
         href: teams/health-hero.md
       - name: Heedify
@@ -756,8 +748,8 @@ items:
         href: teams/lucid-software-lucidspark-whiteboard.md
       - name: LumApps
         href: teams/lumapps.md
-      - name: Lumio por SMART
-        href: teams/smart-technologies-ulc-lumio-by.md
+      - name: Lumio
+        href: teams/smart-technologies-ulc-lumio.md
       - name: Mapeamento Pro
         href: teams/witivio-map-pro.md
       - name: Marvel
@@ -848,8 +840,6 @@ items:
         href: teams/windstream-officesuite.md
       - name: OfficeTogether
         href: teams/officetogether-inc.md
-      - name: Officevibe
-        href: teams/officevibe.md
       - name: Planejamento do Offishall
         href: teams/offishall-planning.md
       - name: OLIVE VLE
@@ -1020,6 +1010,8 @@ items:
         href: teams/smartdraw-software-llc.md
       - name: Smartnotation
         href: teams/smartnotation-bv.md
+      - name: SmartPods
+        href: teams/discourse-analytics-smartpods.md
       - name: SmartWork
         href: teams/smartwork-of-intumit.md
       - name: SmileBack
@@ -1110,8 +1102,6 @@ items:
         href: teams/effency-teamgether.md
       - name: Teamhood
         href: teams/eylean-teamhood.md
-      - name: TeamMate por ChitChattr
-        href: teams/chitchattr-teammate-by.md
       - name: TeamMood
         href: teams/power-up-conseil-teammood.md
       - name: Teams Manager
@@ -1321,8 +1311,6 @@ items:
         href: word/taxyio-gmbh-taxkit-docs.md
       - name: TerMef
         href: word/mondeca-termef.md
-      - name: xLaw – sistema de gerenciamento de conhecimento
-        href: word/evertn-xlaw-knowledge-management-system.md
   - name: Aplicativos SaaS
     href: saas/saas-apps.md
     items:
