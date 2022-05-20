@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todas as Azure App IDs.
 localization_priority: Normal
-ms.openlocfilehash: 7a650055eaf7507d8de9440e6f4a0f9ad9cf0961
-ms.sourcegitcommit: d72fe5bb3407b6191790530fab8ba3fab320fcd6
+ms.openlocfilehash: e12b8296cc05b09791078127dd7bd4bc19892f49
+ms.sourcegitcommit: 0865622c8abffc11115e56d966729e5318d67ab9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65596913"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65608826"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure App segurança e conformidade de IDs
 
@@ -111,7 +111,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](./3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) | **✓** |  |
 | [3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d](./3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [40aab3eb-744c-42e1-868d-d0227e026690](./40aab3eb-744c-42e1-868d-d0227e026690.md) | **✓** |  |
-| [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](./418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md) | **✓** |  |
+| [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](./418a1ee4-ca76-4b38-b4b3-8cca25417a6c.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [421da895-5e99-4254-b038-209f1ddd5cbb](./421da895-5e99-4254-b038-209f1ddd5cbb.md) | **✓** |  |
 | [42f7cf35-98e6-417e-b5da-8913a5bbec79](./42f7cf35-98e6-417e-b5da-8913a5bbec79.md) | **✓** |  |
 | [43067020-c59f-49f8-a532-e84ed3bb5f4e](./43067020-c59f-49f8-a532-e84ed3bb5f4e.md) | **✓** |  |

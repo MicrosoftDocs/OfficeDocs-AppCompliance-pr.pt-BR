@@ -7,18 +7,21 @@ description: Visão geral da Ferramenta de Automação Microsoft 365 Conformidad
 keywords: aplicativo de automação de certificação Microsoft 365
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: bd570496ce11bf72270cb18542846140122efb8b
-ms.sourcegitcommit: 3931a0f41e8a6637cd1ce0a7c5273dabf592e475
+ms.openlocfilehash: 5e3fbc062c1887a205a7b99a85a292ad9a64f8d0
+ms.sourcegitcommit: 0865622c8abffc11115e56d966729e5318d67ab9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/17/2022
-ms.locfileid: "65441987"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65608803"
 ---
 # <a name="app-compliance-automation-tool-for-microsoft-365"></a>Ferramenta de Automação de Conformidade do Aplicativo para Microsoft 365
 Neste artigo, você aprenderá o que é a ACAT (App Compliance Automation Tool for Microsoft 365) e como ela simplifica a conformidade e a obtenção da certificação Microsoft 365 aplicativo.
 
 > [!IMPORTANT]
 > O ACAT está em versão prévia privada no momento. Se você quiser ingressar no programa de visualização privada, inscreva-se [aqui](https://aka.ms/acat/private/signup).
+
+> [!NOTE]
+> Se você quiser fornecer comentários para a versão prévia privada do ACAT, poderá começar a partir deste [formulário](https://aka.ms/acat/feedback). A equipe do produto ACAT acompanhará você assim que recebermos suas mensagens. 
 
 ## <a name="what-is-app-compliance-automation-tool-for-microsoft-365"></a>O que é a Ferramenta de Automação de Conformidade do Aplicativo para Microsoft 365
 A ACAT (Ferramenta de Automação de Conformidade do Aplicativo para Microsoft 365) é um serviço no Portal do Azure que ajuda a simplificar o percurso de conformidade para qualquer aplicativo que consome Microsoft 365 dados do cliente e é publicado por meio do Partner Center. A Ferramenta de Automação de Conformidade de Aplicativos para Microsoft 365 é uma ferramenta de automação de conformidade centrada no aplicativo que ajuda você a concluir Microsoft 365 certificação com maior facilidade e conveniência. Na Versão Prévia Privada, o ACAT está disponível para aplicativos em execução no Azure.

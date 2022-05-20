@@ -8,12 +8,12 @@ ms.service: certification
 ms.topic: how-to
 ms.date: 04/13/2022
 ms.custom: template-how-to
-ms.openlocfilehash: c81ccf3626d6039333f52a487e98233364f7174e
-ms.sourcegitcommit: 785d1c5d829e44e0ad696b85c92be81f549b989e
+ms.openlocfilehash: 6a18e64f3b75f6d197c9867830d0a061ce298584
+ms.sourcegitcommit: 0865622c8abffc11115e56d966729e5318d67ab9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/17/2022
-ms.locfileid: "65433368"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65608799"
 ---
 # <a name="automate-microsoft-365-certification-with-app-compliance-automation-tool-for-microsoft-365"></a>Automatizar a Microsoft 365 com a Ferramenta de Automação de Conformidade do Aplicativo para Microsoft 365
 
@@ -22,14 +22,17 @@ A ACAT (App Compliance Automation Tool for Microsoft 365) colabora com o program
 > [!IMPORTANT]
 > O ACAT está em versão prévia privada no momento. Se você quiser ingressar no programa de visualização privada, inscreva-se [aqui](https://aka.ms/acat/private/signup).
 
+> [!NOTE]
+> Se você quiser fornecer comentários para a versão prévia privada do ACAT, poderá começar a partir deste [formulário](https://aka.ms/acat/feedback). A equipe do produto ACAT acompanhará você assim que recebermos suas mensagens. 
+
 ## <a name="create-your-first-compliance-report-to-onboard-acat"></a>Criar seu primeiro relatório de conformidade para integrar o ACAT
 
 O ACAT permite que você se concentre na conformidade do aplicativo ou no ambiente específico de um aplicativo (por exemplo, produção, preparo etc.). Ele permite que você crie um relatório  de conformidade no qual você pode definir o limite de conformidade com base na infraestrutura de nuvem do aplicativo ou no ambiente específico de um aplicativo.
 
 > [!IMPORTANT]
-> Como o ACAT está em versão prévia privada, não é possível pesquisá-lo diretamente *https://portal.azure.com* . Use as opções abaixo para iniciar o ACAT.
+> Como o ACAT está em versão prévia privada, você não pode pesquisá-lo portal do Azure diretamente. Inscreva-se no [programa de visualização privada do ACAT](https://aka.ms/acat/private/signup) e obtenha acesso da equipe de suporte.
 
-- Pesquise e inicie a Ferramenta de Automação de Conformidade do ***Aplicativo Microsoft 365*** no [portal do Azure](https://portal.azure.com/?microsoft_azure_appcomplianceautomation_assettypeoptions=%7B%22AppComplianceAutomation%22:%7B%22options%22:%22%22%7D%7D&microsoft_azure_marketplace_ItemHideKey=Microsoft_Azure_AppComplianceAutomationHidden) ou inicie com o [link profundo do ACAT](https://portal.azure.com/#blade/Microsoft_Azure_AppComplianceAutomation/AcatMenuBlade/overview) diretamente.
+- Pesquise e inicie ***a Ferramenta de Automação de Conformidade do Aplicativo Microsoft 365*** no portal do Azure.
 - Vá para ***Relatórios*** da esquerda.
 
 :::image type="complex" source="../media/ACAT/getstarted-create-report-inline.png" lightbox="../media/ACAT/getstarted-create-report.png" alt-text="Criar relatório de conformidade":::
