@@ -7,12 +7,12 @@ description: O envio inicial do documento faz parte da fase de pré-avaliação 
 keywords: equipes de certificação Microsoft 365 de conformidade de segurança m365 envio de documento inicial
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 23c3cf7a64025bb7269adb35175e8d87bc64224e
-ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
+ms.openlocfilehash: 8cb7ac4711b7399ae24b76794c251e3cae845e94
+ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784500"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65618580"
 ---
 # <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 Ceritification – Guia de envio inicial do documento
 
@@ -125,5 +125,7 @@ Flow diagramas detalhando o seguinte:
 
 ![Fluxo de Dados diagrama](../media/Dataflowdiagram.png)
 
+## <a name="external-certifications-soc2-pci-dss-iso27001---optional"></a>Certificações externas (SOC2, PCI DSS, ISO27001) – OPCIONAL
 
+Se você já obteve uma certificação SOC2, PCI DSS ou ISO27001 e tem um relatório emitido nos últimos 12 meses do que inclui o escopo completo do aplicativo que está sendo certificado, bem como o ambiente de suporte, você pode enviá-lo durante o envio inicial do documento. Tentaremos aproveitá-lo para atender a um subconjunto de controles e agilizar sua avaliação. No entanto, isso não é necessário para obter uma Microsoft 365 certificação. 
 

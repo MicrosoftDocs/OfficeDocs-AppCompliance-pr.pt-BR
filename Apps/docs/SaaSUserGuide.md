@@ -7,16 +7,16 @@ description: Guia do usuário do ISV para Microsoft 365 SaaS do Programa de Conf
 keywords: Guia do usuário do ISV para Microsoft 365 SaaS do Programa de Conformidade de Aplicativos
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: abb26a45c9dc0d0d91ebd26c06b29644b41b2dfd
-ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.openlocfilehash: af6561ffb4670269fc4e219f58d069ce3fa20ce9
+ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/10/2022
-ms.locfileid: "64752860"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65618290"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>Guia do usuário do parceiro para o Microsoft 365 de Conformidade de Aplicativos – SaaS
 
-|Fase|Cargo|
+|Fase|Título|
 |---|---|
 |Fase 1| Atestado do Editor|
 |Fase 2| Certificação Microsoft 365|
@@ -24,6 +24,9 @@ ms.locfileid: "64752860"
 ## <a name="1-overview"></a>1. Visão geral 
 
 Este documento atua como um guia do usuário passo a passo para nossos parceiros, inscritos no programa de Conformidade de Aplicativos do Microsoft 365 com o objetivo de passar por atestado e certificação de Publisher para seus aplicativos SaaS, embora o portal do Partner Center.
+
+>[!IMPORTANT]
+>Este guia só é aplicável a aplicativos SaaS que foram aprovados e na lista de permissões pela Microsoft 365 de Conformidade de Aplicativos. Se o aplicativo não estiver na lista de permissões, você não poderá continuar no Partner Center. Para obter seu SaaS na lista de permissões, entre em contato com appcert@microsoft.com.
 
 ## <a name="2-acronyms--definitions"></a>2. Acrônimos & definições
 |Acronym | Definição |

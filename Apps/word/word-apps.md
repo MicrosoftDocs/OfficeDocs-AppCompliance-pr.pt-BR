@@ -3,17 +3,17 @@ title: Microsoft Word segurança e conformidade de aplicativos – Todos os apli
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/18/2022
+ms.date: 05/20/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft Word Aplicativos.
 localization_priority: Normal
-ms.openlocfilehash: 6fbf61c48d0348327107911d493592eeb2e849e3
-ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
+ms.openlocfilehash: 28a1f34f21b783fec68f1ffaab516f8abd432a3e
+ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/18/2022
-ms.locfileid: "65474755"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65618977"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word segurança e conformidade de aplicativos
 
@@ -52,4 +52,3 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Stilus para Word](./meaningcloud-stilus-for-word.md) | MeaningCloud | **✓** |  |
 | [Documentos do TaxKit](./taxyio-gmbh-taxkit-docs.md) | Taxy.io GmbH | **✓** |  |
 | [TerMef](./mondeca-termef.md) | Mondeca | **✓** |  |
-| [xLaw – sistema de gerenciamento de conhecimento](./evertn-xlaw-knowledge-management-system.md) | evertn | **✓** |  |
