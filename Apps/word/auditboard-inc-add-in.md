@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Suplemento AuditBoard, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 71829162839f255a9481d7f64333d091ad65b5e1
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 0c69f4cfa2a4d443070ac3eb4f9b9ce1a4869e98
+ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877598"
+ms.lasthandoff: 05/23/2022
+ms.locfileid: "65641910"
 ---
 # <a name="auditboard-add-in"></a>Suplemento AuditBoard
 
@@ -34,7 +34,7 @@ Informações fornecidas pela Auditboard, Inc. para a Microsoft:
 |:----------------|:-------------|
 | Nome do aplicativo | Suplemento AuditBoard |
 | ID | WA200003350 |
-| Office 365 clientes com suporte | Word 2016 ou posterior no Mac, Word na Web, Word 2013 ou posterior no Windows |
+| Office 365 clientes com suporte | Excel 2016 ou posterior no Mac, Excel 2013 ou posterior no Windows, Excel na Web, Word 2016 ou posterior no Mac, Word na Web, Word 2013 ou posterior no Windows |
 | Nome da empresa parceira | Auditboard, Inc. |
 | Site da empresa | [https://www.auditboard.com](https://www.auditboard.com) |
 | Termos de Uso do Aplicativo | [https://appsource.microsoft.com](https://appsource.microsoft.com) |
@@ -136,7 +136,6 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Não |
 | Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
 | Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? |  |
-| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) |  |
 | Seu aplicativo armazena credenciais no código? |  |
