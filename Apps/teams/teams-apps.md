@@ -3,17 +3,17 @@ title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/20/2022
+ms.date: 05/21/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 0ed41ac60058a87de4e493d3063aff39359103b1
-ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
+ms.openlocfilehash: 54d8e9c17b8ad0439eff0e99e53cef0599a976b2
+ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65617391"
+ms.lasthandoff: 05/23/2022
+ms.locfileid: "65642780"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -379,7 +379,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Quitch](./quitch.md) | Quitch | **✓** |  |
 | [Rafiky](./global-congress-srl-rafiky.md) | SRL DO CONGRESSO GLOBAL | **✓** |  |
 | [Rattle](./rattle.md) | Rattle | **✓** |  |
-| [Reach](./livetiles-reach.md) | LiveTiles | **✓** |  |
 | [Ler Navegador de Reunião](./read-ai-inc-meeting-navigator.md) | Leia IA, Inc. | **✓** |  |
 | [Tradutor de Tempo Real](./fairuse-real-time-translator.md) | Fairuse | **✓** |  |
 | [DM do RecognitionNow](./bi-worldwide-recognitionnow-dm.md) | BI WORLDWIDE | **✓** |  |
