@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para Sheetgo by SHEETGO EUROPE SL
+title: Informações do aplicativo para Sheetgo fornecidas pelo SHEETGO EUROPE SL
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,23 +7,23 @@ ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Sheetgo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
+description: Examine todas as informações de segurança e conformidade disponíveis para a Sheetgo, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9cbad6d4fcd5f6e081187af10c3c8a69de7122ba
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: 001ad5dcce2a95885420f8413bfbfe03562eb5b2
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65225305"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65690426"
 ---
-# <a name="sheetgo"></a>Sheetgo
+# <a name="sheetgo-application-information"></a>Informações do aplicativo Sheetgo
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 3 de novembro de 2020</p>
 
 * <a href="https://teams.microsoft.com/l/app/583de270-58d0-4f94-af06-bf971f82fd94" target="_blank">Exibir no Teams armazenamento</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002067" target="_blank">Exibir no AppSource</a>
+* <a href="https://appsource.microsoft.com/en-US/product/office/WA200002128?tab=Overview" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 

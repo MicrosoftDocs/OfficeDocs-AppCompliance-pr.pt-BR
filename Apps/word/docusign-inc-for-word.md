@@ -3,24 +3,24 @@ title: Informações de aplicativo para DocuSign para Word da DocuSign, Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/18/2022
+ms.date: 05/25/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o DocuSign para Word, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0e949154c1e3af5a09337d7801fa175539fff506
-ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
+ms.openlocfilehash: 8cde4186d69cf52b28f2b5d6e5d111ddf69238c7
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/18/2022
-ms.locfileid: "65477837"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65690896"
 ---
 # <a name="docusign-for-word"></a>DocuSign para Word
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 18 de maio de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 24 de maio de 2022</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104218065" target="_blank">Exibir no AppSource</a>
 
@@ -99,20 +99,23 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | Sim |
 | O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Sim |
+| Data de certificação SOC1 mais recente | 2021-12-10 |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Sim |
+| Qual certificação do SOC 2 você obteve? | type2 |
+| Data de certificação SOC2 mais recente | 2021-12-10 |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
-| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
-| O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Não |
-| O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | N/D |
-| O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Não |
+| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
+| O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Sim |
+| O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | Sim |
+| O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Sim |
 | O aplicativo está em conformidade com a ISO 27002 (Organização Internacional para Padronização)? | Não |
-| O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Não |
+| O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Sim |
 | O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | Não |
 | O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | Não |
 | O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | Não |
 | O aplicativo está em conformidade com o NIST 800-171? | Não |
-| O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Não |
+| O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
