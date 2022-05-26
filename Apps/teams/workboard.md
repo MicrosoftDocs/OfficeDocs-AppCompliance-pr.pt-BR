@@ -7,14 +7,14 @@ ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Todas as informações de segurança e conformidade disponíveis para o Workboard, suas políticas de manipulação de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
+description: Examine todas as informações de segurança e conformidade disponíveis para o Workboard, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b20a6e58680109d719fca48cf8f2152c9239026a
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: ccf27f1fa0c6db96446fc0fa7afc686fe2a49e20
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65222452"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65688096"
 ---
 # <a name="application-information-for-workboard"></a>Informações do aplicativo para Workboard
 
@@ -57,7 +57,7 @@ Liste [as permissões Graph Microsoft que](/graph/permissions-reference) este ap
 
 >| **Permissão**  | **Tipo de permissão (Delegado/Aplicativo)** | **Os dados são coletados? Justificativa para coletar?** | **Os dados são armazenados? Justificativa para armazená-lo?** | **Azure AD ID do aplicativo** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | Delegada | endereço de email e IDs dos usuários.  Ele é usado para mapear o usuário para a ID de usuário do WorkBoard | O WorkBoard armazena apenas a identidade do usuário em seus bancos de dados | [User.Read](/microsoft-365-app-certification/azure/User.Read) |
+>| User.Read | Delegada | endereço de email e IDs dos usuários.  Ele é usado para mapear o usuário para a ID de usuário do WorkBoard | O WorkBoard armazena apenas a identidade do usuário em seus bancos de dados | [User.Read](/graph/permissions-reference#user-permissions) |
 
 
 #### <a name="non-microsoft-services-used"></a>Não serviços Microsoft usado

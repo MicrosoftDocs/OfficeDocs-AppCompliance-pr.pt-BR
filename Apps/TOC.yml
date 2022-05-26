@@ -78,6 +78,8 @@ items:
         href: outlook/adobe-inc-acrobat-sign-for-microsoft-outlook.md
       - name: Calendários de Contatos Aprovados
         href: outlook/approved-contact-calendars.md
+      - name: Appspace para Outlook
+        href: outlook/appspace-inc-for-outlook.md
       - name: Aumentar Meu Email
         href: outlook/boost-my-mail.md
       - name: CI-Signature
@@ -181,6 +183,8 @@ items:
         href: sharepoint/bizagi-team-webparts.md
       - name: Sobreposição de Calendário
         href: sharepoint/cloudwell-calendar-overlay.md
+      - name: DocuSign para SharePoint Online
+        href: sharepoint/docusign-inc-for-sharepoint-online.md
       - name: Conector FormMachines para SharePoint
         href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
       - name: HelloSign para SharePoint
@@ -714,6 +718,8 @@ items:
         href: teams/survivef5-gmbh-kudozza.md
       - name: Kunjani
         href: teams/faceboard-pty-ltd-kunjani.md
+      - name: KURO Portal
+        href: teams/si-net-kuro-portal.md
       - name: Laduma
         href: teams/laduma-ltd.md
       - name: LawToolBox
@@ -868,6 +874,8 @@ items:
         href: teams/panopto.md
       - name: ParkHere Corporativo
         href: teams/parkhere-gmbh-corporate.md
+      - name: Pavestep
+        href: teams/pavestep.md
       - name: PayaFy
         href: teams/nimblesoft-inc-payafy.md
       - name: Perdoo
@@ -887,7 +895,7 @@ items:
       - name: Plumm
         href: teams/plumm-health-ltd.md
       - name: Conector VoIP Nuvem POPP
-        href: teams/popp-communications-cloud-voip-connector.md
+        href: teams/poppcom-inc-popp-cloud-voip-connector.md
       - name: PostBeyond
         href: teams/postbeyond.md
       - name: Powell Teams
@@ -998,8 +1006,6 @@ items:
         href: teams/skillsoft-percipio.md
       - name: Skoach
         href: teams/cultify-lda-skoach.md
-      - name: SkyPoint Cloud
-        href: teams/skypoint-cloud-inc.md
       - name: Smarp
         href: teams/smarp.md
       - name: Smart Connect para Jira
@@ -1040,6 +1046,8 @@ items:
         href: teams/stealthmail-software-ltd.md
       - name: Adesivos Stipop
         href: teams/stipop-stickers.md
+      - name: Agilizar
+        href: teams/finative-streamline.md
       - name: Streem
         href: teams/streem.md
       - name: Estrutural
@@ -1108,7 +1116,7 @@ items:
         href: teams/teamschamp.md
       - name: TeamSticker por Communitio
         href: teams/communitio-corporation-teamsticker-by.md
-      - name: Trabalho em equipe
+      - name: Teamwork
         href: teams/teamwork.md
       - name: Conexão TELUS Business
         href: teams/ringcentral-inc-telus-business-connect.md
@@ -1138,6 +1146,8 @@ items:
         href: teams/timeghostio-timeghost-time-tracking.md
       - name: Timeneye
         href: teams/dm-digital-srl-timeneye.md
+      - name: TINYpulse
+        href: teams/tinypulse.md
       - name: Tonkean
         href: teams/tonkean.md
       - name: Totara
