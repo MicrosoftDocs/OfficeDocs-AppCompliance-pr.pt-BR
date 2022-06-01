@@ -40,6 +40,8 @@ items:
         href: excel/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
       - name: Assinaturas de Impressão
         href: excel/impression-signatures.md
+      - name: Indicadores Economicos Chile
+        href: excel/birdie-indicadores-economicos-chile.md
       - name: Jira Cloud para Excel
         href: excel/atlassiancom-jira-cloud-for-excel.md
       - name: O MeaningCloud Análise de Texto para Excel
@@ -128,8 +130,6 @@ items:
         href: outlook/pexipas-pexip-one-for-outlook.md
       - name: Matriz de Prioridade – Transformar emails em tarefas
         href: outlook/appfluence-inc-priority-matrix-turn-emails-into-tasks.md
-      - name: Quantum Workplace
-        href: outlook/quantum-workplace.md
       - name: Salesforce
         href: outlook/salesforcecom-salesforce.md
       - name: Strategy-AI for Outlook
@@ -171,6 +171,8 @@ items:
   - name: Microsoft SharePoint Apps
     href: sharepoint/sharepoint-apps.md
     items:
+      - name: 4Mata
+        href: sharepoint/cloudignite-llc-4mata.md
       - name: Adobe Acrobat Sign para Microsoft Office SharePoint Online
         href: sharepoint/adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md
       - name: Painel de Tarefas Agile para SharePoint Online
@@ -1645,6 +1647,8 @@ items:
         href: azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md
       - name: 4b538c54-11fb-454f-9ac1-6437dcf5f15a
         href: azure/4b538c54-11fb-454f-9ac1-6437dcf5f15a.md
+      - name: 4bea8f81-966b-45fe-8c33-4c8843fda977
+        href: azure/4bea8f81-966b-45fe-8c33-4c8843fda977.md
       - name: 4cda80df-64fe-4961-8d73-cbe8d5ad0724
         href: azure/4cda80df-64fe-4961-8d73-cbe8d5ad0724.md
       - name: 4d0997dc-df53-4b18-9df1-bb283f8a0377
@@ -1783,6 +1787,8 @@ items:
         href: azure/7c90e3d4-5233-4e49-8753-36cd5feb7fa0.md
       - name: 7cb50e3e-0427-409e-90d2-638eb28217c3
         href: azure/7cb50e3e-0427-409e-90d2-638eb28217c3.md
+      - name: 7df3e67b-ed62-48e9-a950-c95bd7ebce80
+        href: azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md
       - name: 7e1fc6b3-90a7-4a98-a766-5627193e95bc
         href: azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md
       - name: 7f6565a7-45e4-4bba-94d4-bac64886ed83
@@ -1909,6 +1915,8 @@ items:
         href: azure/af089bb5-48be-413d-ad34-53c32799da7d.md
       - name: afd2c390-8b78-40fa-913b-7fc5911e884a
         href: azure/afd2c390-8b78-40fa-913b-7fc5911e884a.md
+      - name: affa8732-9527-4cb1-9051-85d43fba3ce7
+        href: azure/affa8732-9527-4cb1-9051-85d43fba3ce7.md
       - name: affadfb6-f17b-428f-97f9-9aae3b6175bc
         href: azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md
       - name: b0656c15-44aa-4aab-8956-bb97e3016535
@@ -1953,8 +1961,6 @@ items:
         href: azure/be3cd296-fc8e-44d5-968b-32cf0371749c.md
       - name: be8d11cf-265a-4974-9912-4ff28c29fc21
         href: azure/be8d11cf-265a-4974-9912-4ff28c29fc21.md
-      - name: be93046b-63ab-4216-9bcc-78faa55eeaa7
-        href: azure/be93046b-63ab-4216-9bcc-78faa55eeaa7.md
       - name: bed170ee-dbd7-4efa-b48e-b0937ded1689
         href: azure/bed170ee-dbd7-4efa-b48e-b0937ded1689.md
       - name: bed944b9-c7f5-459a-b7af-53c421248893
@@ -1993,6 +1999,8 @@ items:
         href: azure/c884866a-50e4-4b61-a96c-1d22432f7139.md
       - name: c9b3645e-2695-46c5-970d-e06f5c74bcfa
         href: azure/c9b3645e-2695-46c5-970d-e06f5c74bcfa.md
+      - name: ca9b0417-d519-4ed6-ae2a-d939583a083c
+        href: azure/ca9b0417-d519-4ed6-ae2a-d939583a083c.md
       - name: cb657bc2-9910-4b9c-82a0-6f4f3a47006b
         href: azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md
       - name: cbc8bfef-8dd2-4714-ab18-18e15566b63e

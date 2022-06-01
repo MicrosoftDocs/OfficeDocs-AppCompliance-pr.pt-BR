@@ -3,17 +3,17 @@ title: Microsoft Excel segurança e conformidade de aplicativos – Todos os apl
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/21/2022
+ms.date: 05/31/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft Excel Aplicativos.
 localization_priority: Normal
-ms.openlocfilehash: 963258f90d264ccc39eabc608d8103f7405e6dd4
-ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
+ms.openlocfilehash: 1087e5cf36b285c0d45888f7d20f3dcd3a01f482
+ms.sourcegitcommit: 9cbff2dbc9762426293b9b094a29e3d2bebc760b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/23/2022
-ms.locfileid: "65645011"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65818299"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel segurança e conformidade de aplicativos
 
@@ -28,6 +28,7 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Forbury](./forbury-property.md) | Propriedade Forbury | **✓** |  |
 | [Editor de PDF do Foxit para Microsoft Word, Excel e PowerPoint](./foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md) | Foxit Software Inc. | **✓** |  |
 | [Assinaturas de Impressão](./impression-signatures.md) | Assinaturas de Impressão | **✓** |  |
+| [Indicadores Economicos Chile](./birdie-indicadores-economicos-chile.md) | Passarinho | **✓** |  |
 | [Jira Cloud para Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
 | [O MeaningCloud Análise de Texto para Excel](./meaningcloud-text-analytics-for-excel.md) | MeaningCloud | **✓** |  |
 | [Office2SharePoint para Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
