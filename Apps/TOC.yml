@@ -472,6 +472,8 @@ items:
         href: teams/medalsoft-digitalops-toolbox.md
       - name: Conselhos Diligentes
         href: teams/diligent-boards.md
+      - name: DisasterTech DICE
+        href: teams/disastertech-dice.md
       - name: Listas de distribuição Pro
         href: teams/witivio-distribution-lists-pro.md
       - name: do!book CB
@@ -630,7 +632,7 @@ items:
         href: teams/heedify.md
       - name: HelloTeam
         href: teams/helloteam-inc.md
-      - name: Herói por Happyforce
+      - name: Herói da Happyforce
         href: teams/happyforce-hero-by.md
       - name: HeyTaco
         href: teams/heytaco-llc.md
@@ -720,7 +722,7 @@ items:
         href: teams/survivef5-gmbh-kudozza.md
       - name: Kunjani
         href: teams/faceboard-pty-ltd-kunjani.md
-      - name: KURO Portal
+      - name: Portal KURO
         href: teams/si-net-kuro-portal.md
       - name: Laduma
         href: teams/laduma-ltd.md
@@ -888,7 +890,7 @@ items:
         href: teams/perflo.md
       - name: Arquivador de Fotos
         href: teams/ichicraft-photo-filer.md
-      - name: Pombinho Ao Vivo
+      - name: Pigeonhole Live
         href: teams/pigeonlab-pte-ltd-pigeonhole-live.md
       - name: Plandisc
         href: teams/plandisc.md
@@ -970,6 +972,8 @@ items:
         href: teams/ringcentral-inc.md
       - name: RowShare
         href: teams/rowshare.md
+      - name: Rungway
+        href: teams/rungway.md
       - name: ' Espaços Seguros'
         href: teams/ecare-vault-inc-safe-spaces.md
       - name: Sailpoint
@@ -1050,7 +1054,7 @@ items:
         href: teams/stealthmail-software-ltd.md
       - name: Adesivos Stipop
         href: teams/stipop-stickers.md
-      - name: Agilizar
+      - name: Simplificar
         href: teams/finative-streamline.md
       - name: Streem
         href: teams/streem.md
@@ -1120,7 +1124,7 @@ items:
         href: teams/teamschamp.md
       - name: TeamSticker por Communitio
         href: teams/communitio-corporation-teamsticker-by.md
-      - name: Teamwork
+      - name: Trabalho em equipe
         href: teams/teamwork.md
       - name: Conexão TELUS Business
         href: teams/ringcentral-inc-telus-business-connect.md
@@ -1398,6 +1402,8 @@ items:
         href: saas/avepoint-inc-policiesinsights-for-microsoft-office-365.md
       - name: Priority Matrix
         href: saas/appfluence-inc-priority-matrix.md
+      - name: Projeto Migrator
+        href: saas/fluentpro-software-corporation-project-migrator.md
       - name: SalesTim
         href: saas/salestim.md
       - name: Selador de Slides
@@ -2013,6 +2019,8 @@ items:
         href: azure/d44d071f-a9e5-4f99-b72e-5ab38cd7b175.md
       - name: d5630318-189a-4912-abae-99b1f8f82cce
         href: azure/d5630318-189a-4912-abae-99b1f8f82cce.md
+      - name: d5ed7567-83fb-4978-8aca-5018e63ece32
+        href: azure/d5ed7567-83fb-4978-8aca-5018e63ece32.md
       - name: d6a2090f-1447-456b-bd5f-121e4efd8c89
         href: azure/d6a2090f-1447-456b-bd5f-121e4efd8c89.md
       - name: d76f016f-52c7-41b5-835b-900361d7040c
