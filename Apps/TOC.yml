@@ -239,7 +239,7 @@ items:
       - name: ADI
         href: teams/akari-solutions-limited-adi.md
       - name: Adobe Acrobat
-        href: teams/adobe-systems-inc-acrobat.md
+        href: teams/adobe-acrobat.md
       - name: Assinatura do Adobe Acrobat
         href: teams/adobe-acrobat-sign.md
       - name: Adobe Creative Cloud Express
@@ -322,6 +322,8 @@ items:
         href: teams/unifon-as-bedriftsnett.md
       - name: Beekast
         href: teams/beekast.md
+      - name: Framboesa
+        href: teams/berryworksai-berry.md
       - name: Berrycast
         href: teams/technologies-openmind-inc-les-berrycast.md
       - name: Notificação BGA
@@ -628,14 +630,14 @@ items:
         href: teams/guidespark-communicate-cloud.md
       - name: GuineaPig
         href: teams/guineapig-health-technologies-ab.md
+      - name: Happyforce
+        href: teams/happyforce-sl.md
       - name: Health Hero
         href: teams/health-hero.md
       - name: Heedify
         href: teams/heedify.md
       - name: HelloTeam
         href: teams/helloteam-inc.md
-      - name: Herói da Happyforce
-        href: teams/happyforce-hero-by.md
       - name: HeyTaco
         href: teams/heytaco-llc.md
       - name: oi treinador digital
@@ -700,6 +702,8 @@ items:
         href: teams/joye-pte-ltd.md
       - name: Kakeai
         href: teams/kakeai.md
+      - name: Kami
+        href: teams/kami.md
       - name: Ferramenta Kanban
         href: teams/shore-labs-kanban-tool.md
       - name: Kaptain Carlos
@@ -718,8 +722,10 @@ items:
         href: teams/ernst-klett-verlag-gmbh.md
       - name: Koan
         href: teams/koan-inc.md
-      - name: Salas de Reunião do Kuban
+      - name: Salas de Reunião Kuban
         href: teams/kuban-meeting-rooms.md
+      - name: Visitantes do Kuban
+        href: teams/kuban-visitors.md
       - name: KUDO
         href: teams/kudo-inc.md
       - name: Kudozza
@@ -866,6 +872,8 @@ items:
         href: teams/librestream-onsight-connect.md
       - name: Optmyzr
         href: teams/optmyzr.md
+      - name: Orca
+        href: teams/orca-security-ltd.md
       - name: Org@Work
         href: teams/lundano-org@work.md
       - name: PA PEOPLE
@@ -1128,7 +1136,7 @@ items:
         href: teams/teamschamp.md
       - name: TeamSticker por Communitio
         href: teams/communitio-corporation-teamsticker-by.md
-      - name: Teamwork
+      - name: Trabalho em equipe
         href: teams/teamwork.md
       - name: Conexão TELUS Business
         href: teams/ringcentral-inc-telus-business-connect.md
