@@ -3,24 +3,24 @@ title: Informações do aplicativo para sobreposição de calendário pela Cloud
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/10/2022
+ms.date: 06/06/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para a Sobreposição de Calendário, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para a Sobreposição de Calendário, suas políticas de manipulação de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e98ea9e1131121d82c9b8a41eb336000c464e8c6
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 98207f2c5b4e21d005e3717784396f02d935ac1c
+ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877368"
+ms.lasthandoff: 06/07/2022
+ms.locfileid: "65936428"
 ---
 # <a name="calendar-overlay"></a>Sobreposição de Calendário
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 10 de março de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 6 de junho de 2022</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200003806" target="_blank">Exibir no AppSource</a>
 
@@ -30,15 +30,15 @@ ms.locfileid: "64877368"
 
 Informações fornecidas pelo Cloudwell à Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | Sobreposição de Calendário |
 | ID | WA200003806 |
-| Office 365 clientes com suporte | SharePoint 2016 ou posterior |
+| Clientes do Office 365 com suporte | SharePoint 2016 ou posterior |
 | Nome da empresa parceira | Cloudwell |
 | Site da empresa | [https://cloudwell.io](https://cloudwell.io) |
 | Termos de Uso do Aplicativo | [https://cwlicensingprod.blob.core.windows.net/termsofuse/St...](https://cwlicensingprod.blob.core.windows.net/termsofuse/StandardContractMarch2019.pdf) |
-| Funcionalidade principal do aplicativo | A Web Part Sobreposição de Calendário permite que você exiba todos os seus eventos do Microsoft SharePoint, Planner e Exchange em um só lugar! |
+| Funcionalidade principal do aplicativo | A Web Part sobreposição de Calendário permite que você exiba todos os seus eventos do Microsoft SharePoint, Planner e Exchange em um só lugar! |
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | [https://cloudwell.io/products/calendar-overlay](https://cloudwell.io/products/calendar-overlay) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
@@ -54,13 +54,13 @@ Informações fornecidas pelo Cloudwell à Microsoft:
 
 Essas informações foram fornecidas pelo Cloudwell sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados que o aplicativo coleta.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
-| Quais dados são processados pelo seu aplicativo? | Endereço de email do usuário, ID do locatário do usuário |
+| Quais dados são processados pelo seu aplicativo? | ID do locatário |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | Endereço de email do usuário, ID do locatário do usuário |
+| Quais dados são armazenados em seus bancos de dados? | ID do locatário |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são retidos após o encerramento da conta? | Menos de 30 dias |
@@ -73,9 +73,9 @@ Essas informações foram fornecidas pelo Cloudwell sobre como esse aplicativo c
 
 ::: zone pivot="security"
 
-As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do [catálogo do Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você executa testes de penetração anuais no aplicativo? | Sim |
 | O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Não |
@@ -104,7 +104,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="compliance"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | Sim |
 | O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | Sim |
@@ -129,7 +129,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="privsection"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Não |
 
@@ -139,16 +139,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
-| Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Você examinou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração da plataforma de identidade da Microsoft? | Sim |
 | Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Sim |
-| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
 | Seu aplicativo armazena credenciais no código? | Não |
-| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Sim |
+| Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Sim |
 
 >Este aplicativo não usa o Microsoft Graph.
 
