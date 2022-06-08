@@ -1,21 +1,21 @@
 ---
-title: Azure App informações de ID para 9af6eceb-6a8b-4710-b51d-dde2ac01cc71
+title: Informações da ID do Aplicativo Azure para 9af6eceb-6a8b-4710-b51d-dde2ac01cc71
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/02/2022
+ms.date: 06/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para 9af6eceb-6a8b-4710-b51d-dde2ac01cc71.
-ms.openlocfilehash: d21533fe270634f0f3d1cc65dfb8373ea8ba25ff
-ms.sourcegitcommit: 4ceff6ef6aa0bae1075da646773b852970bb4049
+ms.openlocfilehash: e22a28d7f926b0a5238d16e6c1fcd6f2c83a1b41
+ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "65869152"
+ms.lasthandoff: 06/07/2022
+ms.locfileid: "65937978"
 ---
-# <a name="azure-app-id-9af6eceb-6a8b-4710-b51d-dde2ac01cc71"></a>Azure App ID: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71
+# <a name="azure-app-id-9af6eceb-6a8b-4710-b51d-dde2ac01cc71"></a>ID do Aplicativo do Azure: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71
 
 
 ### <a name="apps-associated-with-this-id"></a>Aplicativos associados a esta ID:
@@ -23,5 +23,5 @@ ms.locfileid: "65869152"
 |--------------|---------------|-----------------------|
 | [InCaseIT](../forward/WA200003265.md) |  | [https://appsource.microsoft.com/product/office/WA200003265](https://appsource.microsoft.com/product/office/WA200003265) |
 
-### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 status de conformidade do aplicativo
-- Publisher Status do Atestado: Concluído
+### <a name="microsoft-365-app-compliance-status"></a>Status de Conformidade de Aplicativos do Microsoft 365
+- Status do Atestado do Publicador: Concluído
