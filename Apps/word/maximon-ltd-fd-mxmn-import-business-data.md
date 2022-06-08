@@ -1,5 +1,5 @@
 ---
-title: Informações de aplicativo para a Amplify by Hootsuite by Hootsuite Inc.
+title: Informações do aplicativo para a FD Replican – importar dados corporativos pela Maximon Ltd.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,43 +7,42 @@ ms.date: 06/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para a Amplify by Hootsuite, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para a FD Replican – importe dados corporativos, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro STAR da CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 88118f5f68c22989297619bb44badde8e3bf570c
+ms.openlocfilehash: 68b432baff30d04a9e4530af12304c2ba6029956
 ms.sourcegitcommit: dbf716786f7a3c0b84fa4563e47510e4bd3a2fd0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/08/2022
-ms.locfileid: "65943160"
+ms.locfileid: "65943174"
 ---
-# <a name="amplify-by-hootsuite"></a>Ampliação por Hootsuite
+# <a name="fd-mxmn---import-business-data"></a>FD Replican – importar dados de negócios
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 6 de junho de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 3 de maio de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/08d9aab9-a8f3-4f65-91e2-a33ef9bad6bb" target="_blank">Exibir na loja do Teams</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003153" target="_blank">Exibir no AppSource</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200004151" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pela Hootsuite Inc. à Microsoft:
+Informações fornecidas pela Maximon Ltd. à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Ampliação por Hootsuite |
-| ID | WA200003153 |
-| Clientes do Office 365 com suporte | Microsoft Teams |
-| Nome da empresa parceira | Hootsuite Inc. |
-| Site da empresa | [https://www.hootsuite.com](https://www.hootsuite.com) |
-| Termos de Uso do Aplicativo | [https://www.hootsuite.com/legal/eula](https://www.hootsuite.com/legal/eula) |
-| Funcionalidade principal do aplicativo | Compartilhe conteúdo do Microsoft Teams para seus canais sociais de equipes, da plataforma Hootsuite Amplify. |
-| Localização da sede da empresa | Canadá |
-| Página de informações do aplicativo | [https://www.hootsuite.com/about/contact-us](https://www.hootsuite.com/about/contact-us) |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
+| Nome do aplicativo | FD Replican – importar dados de negócios |
+| ID | WA200004151 |
+| Clientes do Office 365 com suporte | Word 2016 ou posterior no Mac, Word na Web, Word 2013 ou posterior no Windows |
+| Nome da empresa parceira | Maximon Ltd. |
+| Site da empresa | [https://www.maximon.ltd/fdmxmn/](https://www.maximon.ltd/fdmxmn/) |
+| Termos de Uso do Aplicativo | [https://www.maximon.ltd/legal_tou.php](https://www.maximon.ltd/legal_tou.php) |
+| Funcionalidade principal do aplicativo | Simplifique o rascunho legal importando dados corporativos diretamente das extrações do BizFile do ACRA. |
+| Localização da sede da empresa | Estados Unidos da América |
+| Página de informações do aplicativo | |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Other |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,7 +52,7 @@ Informações fornecidas pela Hootsuite Inc. à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
-Essas informações foram fornecidas pela Hootsuite Inc. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Maximon Ltd. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
@@ -70,26 +69,27 @@ As informações do [catálogo do Microsoft Cloud App Security](https://www.micr
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você executa testes de penetração anuais no aplicativo? | Sim |
-| O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Não |
+| Você executa testes de penetração anuais no aplicativo? | Não |
+| O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
 | Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | TraditionalAntiMalware |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Não |
-| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Não |
-| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? | Não |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Sim |
+| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Sim |
+| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? | Sim |
 | Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
-| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? | Não |
-| Você tem um firewall instalado no limite de rede externa? | Não |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? | Sim |
+| Você tem um firewall instalado no limite de rede externa? | Sim |
 | Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
-| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
+| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Não |
 | As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
-| Autenticação Multifator (MFA) habilitada para: | CodeRepositories, Credential |
+| Autenticação Multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
-| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | N/D |
 | Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
 | Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Não |
 | Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Sim |
-| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Não |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Sim |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -114,7 +114,7 @@ As informações do [catálogo do Microsoft Cloud App Security](https://www.micr
 | O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
 | O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | N/D |
 | O aplicativo está em conformidade com o NIST 800-171? | N/D |
-| O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Não |
+| O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -124,7 +124,17 @@ As informações do [catálogo do Microsoft Cloud App Security](https://www.micr
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Não |
+| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Sim |
+| URL da Política de Privacidade | https://www.maximon.ltd/legal_privacy.php |
+| O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
+| O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
+| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | N/D |
+| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | N/D |
+| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | N/D |
+| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -134,19 +144,15 @@ As informações do [catálogo do Microsoft Cloud App Security](https://www.micr
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
-| Você examinou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração da plataforma de identidade da Microsoft? | Sim |
-| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | N/D |
+| Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Não |
+| Você examinou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração da plataforma de identidade da Microsoft? | Não |
+| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
 | Seu aplicativo armazena credenciais no código? | Não |
 | Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
-
->|   **Permissão do Graph**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
->|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamsActivity.Send | Delegada | Para acesso ao feed de notificação de atividade dos usuários | [e308040f-41b5-4b8c-8f08-c2c38056f7e2](../azure/e308040f-41b5-4b8c-8f08-c2c38056f7e2.md) |
+>Este aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 

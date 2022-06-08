@@ -1,23 +1,23 @@
 ---
-title: Microsoft Word segurança e conformidade de aplicativos – Todos os aplicativos
+title: Segurança e conformidade do Microsoft Word Apps – Todos os aplicativos
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/25/2022
+ms.date: 06/07/2022
 ms.topic: article
 ms.service: attestation
-description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft Word Aplicativos.
+description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos do Microsoft Word.
 localization_priority: Normal
-ms.openlocfilehash: 0d44c91dae339e1402f104a8e054847bb935b421
-ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
+ms.openlocfilehash: 6049f63161765ee4b557952e2385a212b97bd431
+ms.sourcegitcommit: dbf716786f7a3c0b84fa4563e47510e4bd3a2fd0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65688506"
+ms.lasthandoff: 06/08/2022
+ms.locfileid: "65943132"
 ---
-# <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word segurança e conformidade de aplicativos
+# <a name="microsoft-word-apps-security-and-compliance"></a>Segurança e conformidade do Microsoft Word Apps
 
-A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para fornecer as informações que as organizações precisam para agilizar e informar decisões sobre Microsoft Word aplicativos e suplementos que usam. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
+A Microsoft trabalha com nossos parceiros desenvolvedores do Microsoft 365 para fornecer as informações que as organizações precisam para agilizar e informar decisões sobre o Microsoft Word Apps e suplementos que usam. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
 
 | **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -29,8 +29,9 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Cruzar](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |
 | [Rascunho de Documento](./green-meadow-aps-document-drafter.md) | ApS de Prado Verde | **✓** |  |
 | [DocuSign para Word](./docusign-inc-for-word.md) | DocuSign, Inc. | **✓** |  |
-| [Excel automação de documentos do Excel para o Word](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
-| [Fabasoft Cloud Office Suplemento](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
+| [Automação de Documentos do Excel para Word](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
+| [Fabasoft Cloud Office Add-in](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
+| [FD Replican – importar dados de negócios](./maximon-ltd-fd-mxmn-import-business-data.md) | Maximon Ltd. | **✓** |  |
 | [Editor de PDF do Foxit para Microsoft Word, Excel e PowerPoint](./foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md) | Foxit Software Inc. | **✓** |  |
 | [Assinaturas de Impressão](./impression-signatures.md) | Assinaturas de Impressão | **✓** |  |
 | [Jus2vec](./n2vec-tecnologia-jus2vec.md) | N2VEC TECNOLOGIA | **✓** |  |
@@ -41,10 +42,10 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Office2SharePoint para Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork - Content Chooser for Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork – Designer para Office](./officeatwork-officeatworkdesigner-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork – Selador de imagem para Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork – Selador de modelo para Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork – Uploader para Office](./officeatwork-officeatworkuploader-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - Verificador para Office](./officeatwork-officeatworkverifier-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork – Selador de Imagem para Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork – Selador de Modelo para Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork – Uploader for Office](./officeatwork-officeatworkuploader-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork – Verificador do Office](./officeatwork-officeatworkverifier-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork – Assistente para Office](./officeatwork-officeatworkwizard-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [RetMig &amp; Kommaforslag](./grammarsoft-aps-retmigkommaforslag.md) | GrammarSoft ApS | **✓** |  |
 | [RocketDocs LaunchPad](./rocketdocs-launchpad.md) | RocketDocs | **✓** |  |
