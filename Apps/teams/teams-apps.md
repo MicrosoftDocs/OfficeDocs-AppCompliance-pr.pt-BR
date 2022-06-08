@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 214ccdc88047d8e8c011f349d0e325bc76fb051f
-ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
+ms.openlocfilehash: 5e66c517b36dcb22dc16daf4beb580a70f11c7da
+ms.sourcegitcommit: dbf716786f7a3c0b84fa4563e47510e4bd3a2fd0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2022
-ms.locfileid: "65936998"
+ms.lasthandoff: 06/08/2022
+ms.locfileid: "65943150"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -100,7 +100,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Chronus](./chronus.md) | Chronus | **✓** |  |
 | [ChurnZero](./churnzero.md) | ChurnZero | **✓** |  |
 | [CI-Out-of-Office Lite](./ci-solution-gmbh-out-of-office-lite.md) | solução ci GmbH | **✓** |  |
-| [Listagem Classificada](./binaryroots-classified-listing.md) | BinaryRoots | **✓** |  |
+| [Listagem Confidencial](./binaryroots-classified-listing.md) | BinaryRoots | **✓** |  |
 | [SMS do funcionário](./unnamed-ventures-llc-clerk-sms.md) | Ventures sem nome, LLC. | **✓** |  |
 | [ClipTraining](./cliptraining.md) | ClipTraining | **✓** |  |
 | [Clixie](./clixie-media-llc.md) | Clixie Media LLC | **✓** |  |
@@ -191,6 +191,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Gerenciador de Arquivos](./solutions2share-gmbh-file-manager.md) | Solutions2Share GmbH | **✓** |  |
 | [Tempos Financeiros](./financial-times.md) | Tempos Financeiros | **✓** |  |
 | [Findit](./ctelo-findit.md) | CTELO | **✓** |  |
+| [Matriz de Decisão com a Ponta dos Dedos](./fingertip-decision-matrix.md) | Ponta do dedo | **✓** |  |
 | [FinTech Studios](./fintech-studios.md) | FinTech Studio | **✓** |  |
 | [Fireflies AI](./firefliesai-fireflies-ai.md) | Fireflies.ai | **✓** |  |
 | [FireHydrant](./firehydrant.md) | FireHydrant | **✓** |  |
@@ -247,7 +248,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [InCaseIT](./pilotech-as-incaseit.md) | Pilotech AS | **✓** |  |
 | [Indeqa](./indeqa-bv.md) | Indeqa B.V. | **✓** |  |
 | [Infor Coleman](./infor-us-inc-coleman.md) | INFOR (EUA), INC. | **✓** |  |
-| [IQ](./nlsql-iq.md) | NLSQL | **✓** |  |
+| [QI](./nlsql-iq.md) | NLSQL | **✓** |  |
 | [isLucid](./uab-lucid-agreements-islucid.md) | Acordos UAB Lucid | **✓** |  |
 | [Jabber](./cisco-jabber.md) | Cisco | **✓** |  |
 | [Jetdocs](./jetdocs.md) | Jetdocs | **✓** |  |
@@ -357,7 +358,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Arquivador de Fotos](./ichicraft-photo-filer.md) | Ichicraft | **✓** |  |
 | [Pigeonhole Live](./pigeonlab-pte-ltd-pigeonhole-live.md) | PigeonLab Pte Ltd | **✓** |  |
 | [Plandisc](./plandisc.md) | Plandisc | **✓** |  |
-| [Reproduzir por IntraActive](./fellowmind-denmark-play-by-intraactive.md) | Dinamarca de Fellowmind | **✓** |  |
+| [Executado por IntraActive](./fellowmind-denmark-play-by-intraactive.md) | Fellowmind Dinamarca | **✓** |  |
 | [PlayQuiz - Aprende &amp; Juega](./teamschamp-playquiz-aprendejuega.md) | TeamsChamp | **✓** |  |
 | [Plumm](./plumm-health-ltd.md) | Plumm Health LTD | **✓** |  |
 | [Conector VoIP Nuvem POPP](./poppcom-inc-popp-cloud-voip-connector.md) | POPP.Com, Inc | **✓** |  |
