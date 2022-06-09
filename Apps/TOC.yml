@@ -380,7 +380,7 @@ items:
         href: teams/churnzero.md
       - name: CI-Out-of-Office Lite
         href: teams/ci-solution-gmbh-out-of-office-lite.md
-      - name: Listagem classificada
+      - name: Listagem Confidencial
         href: teams/binaryroots-classified-listing.md
       - name: SMS do funcionário
         href: teams/unnamed-ventures-llc-clerk-sms.md
@@ -562,7 +562,7 @@ items:
         href: teams/financial-times.md
       - name: Findit
         href: teams/ctelo-findit.md
-      - name: Matriz de Decisão da Ponta do Dedo
+      - name: Matriz de Decisão com a Ponta dos Dedos
         href: teams/fingertip-decision-matrix.md
       - name: FinTech Studio
         href: teams/fintech-studios.md
@@ -896,7 +896,7 @@ items:
         href: teams/pigeonlab-pte-ltd-pigeonhole-live.md
       - name: Plandisc
         href: teams/plandisc.md
-      - name: Reproduzir por IntraActive
+      - name: Executado por IntraActive
         href: teams/fellowmind-denmark-play-by-intraactive.md
       - name: PlayQuiz - Aprende e Juega
         href: teams/teamschamp-playquiz-aprendejuega.md
@@ -1689,6 +1689,8 @@ items:
         href: azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md
       - name: 597cc93d-8951-4f62-b549-eca97ba5c042
         href: azure/597cc93d-8951-4f62-b549-eca97ba5c042.md
+      - name: 5a6a4d82-42ce-42c4-88f0-df529fe54dcc
+        href: azure/5a6a4d82-42ce-42c4-88f0-df529fe54dcc.md
       - name: 5b599e19-a609-432b-9074-c9d4457e8766
         href: azure/5b599e19-a609-432b-9074-c9d4457e8766.md
       - name: 5be2b320-a5b7-4221-893c-dee506e4e365
@@ -2053,6 +2055,8 @@ items:
         href: azure/dea67e43-444e-4852-b57b-b57878a4022b.md
       - name: e208746a-2666-4d95-b925-e2ff64b3181d
         href: azure/e208746a-2666-4d95-b925-e2ff64b3181d.md
+      - name: e308040f-41b5-4b8c-8f08-c2c38056f7e2
+        href: azure/e308040f-41b5-4b8c-8f08-c2c38056f7e2.md
       - name: e54fe734-bab8-48b2-9ec8-05c2545cc49d
         href: azure/e54fe734-bab8-48b2-9ec8-05c2545cc49d.md
       - name: e5d4c7df-50aa-4c15-aa06-c108d0225832

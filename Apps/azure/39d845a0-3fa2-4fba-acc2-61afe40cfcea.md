@@ -3,17 +3,17 @@ title: Informações da ID do Aplicativo do Azure para 39d845a0-3fa2-4fba-acc2-6
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/07/2022
+ms.date: 06/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para 39d845a0-3fa2-4fba-acc2-61afe40cfcea.
-ms.openlocfilehash: 4a92d194bdb43f57dfe1d7de88c8af73ce48d8f5
-ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
+ms.openlocfilehash: bb6b610e54fbc752df282abafe450d6f1451de4e
+ms.sourcegitcommit: 6f2b3870f4d541dcbd5bb8312c05bfc2ea351a77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2022
-ms.locfileid: "65932158"
+ms.lasthandoff: 06/09/2022
+ms.locfileid: "65966611"
 ---
 # <a name="azure-app-id-39d845a0-3fa2-4fba-acc2-61afe40cfcea"></a>ID do Aplicativo Azure: 39d845a0-3fa2-4fba-acc2-61afe40cfcea
 
