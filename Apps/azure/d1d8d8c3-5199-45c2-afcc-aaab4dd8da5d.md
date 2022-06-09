@@ -3,17 +3,17 @@ title: Informações da ID do Aplicativo do Azure para d1d8d8c3-5199-45c2-afcc-a
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/07/2022
+ms.date: 06/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d.
-ms.openlocfilehash: a3a2e9d078dbc07169ab2a3c43748b71eb2e2b61
-ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
+ms.openlocfilehash: 5e6c5955c48f4d46be4a0d9aa327814fc9e0b54a
+ms.sourcegitcommit: 6f2b3870f4d541dcbd5bb8312c05bfc2ea351a77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2022
-ms.locfileid: "65938288"
+ms.lasthandoff: 06/09/2022
+ms.locfileid: "65969591"
 ---
 # <a name="azure-app-id-d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d"></a>ID do Aplicativo do Azure: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d
 
