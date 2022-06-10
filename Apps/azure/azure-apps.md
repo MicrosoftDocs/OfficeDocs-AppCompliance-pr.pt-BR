@@ -1,25 +1,25 @@
 ---
-title: Segurança e conformidade das IDs de aplicativo do Azure – Todos os aplicativos
+title: Azure App segurança e conformidade de IDs – Todos os aplicativos
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/08/2022
+ms.date: 06/09/2022
 ms.topic: article
 ms.service: attestation
-description: Todas as informações de segurança e conformidade disponíveis para todas as IDs de aplicativo do Azure.
+description: Todas as informações de segurança e conformidade disponíveis para todas as Azure App IDs.
 localization_priority: Normal
-ms.openlocfilehash: 5d6ccac4a607a1e8f65daf9491ff3c82da7b7ccd
-ms.sourcegitcommit: 6f2b3870f4d541dcbd5bb8312c05bfc2ea351a77
+ms.openlocfilehash: db27a71ac4bb09e82f536462ba979385fcdd3328
+ms.sourcegitcommit: 6e1bedf47a32902e15f956a9492d8f5ec44a9650
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/09/2022
-ms.locfileid: "65967211"
+ms.locfileid: "65975577"
 ---
-# <a name="azure-app-ids-security-and-compliance"></a>Segurança e conformidade das IDs de aplicativo do Azure
+# <a name="azure-app-ids-security-and-compliance"></a>Azure App segurança e conformidade de IDs
 
-A Microsoft trabalha com nossos parceiros desenvolvedores do Microsoft 365 para fornecer as informações que as organizações precisam para agilizar e informar decisões sobre IDs de Aplicativo do Azure e suplementos que usam. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
+A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para fornecer as informações que as organizações precisam para agilizar e informar decisões sobre Azure App IDs e suplementos que usam. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
 
-| **ID do Aplicativo do Azure** | **Editor Atestado** | **Certificado** |
+| **Azure App ID** | **Editor Atestado** | **Certificado** |
 |:--------|:------------|:-------------:|
 | [00485db5-81b3-4299-833a-8d6c366d0ac0](./00485db5-81b3-4299-833a-8d6c366d0ac0.md) | **✓** |  |
 | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](./00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md) | **✓** |  |
