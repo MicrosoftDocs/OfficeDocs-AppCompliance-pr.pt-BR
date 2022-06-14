@@ -3,24 +3,24 @@ title: Informações do aplicativo para o Confluence Cloud by Atlassian
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/09/2022
+ms.date: 06/13/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Confluence Cloud, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1534755072b148cfd57e4eb479f69f328c7b92ac
-ms.sourcegitcommit: 6e1bedf47a32902e15f956a9492d8f5ec44a9650
+ms.openlocfilehash: 2b1fce0ac0210113dc5dee3ca08b5e52636ea1c3
+ms.sourcegitcommit: b6dd040770330d4499a0e19998f909be31b67c34
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2022
-ms.locfileid: "65982155"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "66076222"
 ---
 # <a name="confluence-cloud"></a>Nuvem de Confluência
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 9 de junho de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 13 de junho de 2022</p>
 
 * <a href="https://teams.microsoft.com/l/app/30bb610c-6321-40fe-a047-056e7d0dac96" target="_blank">Exibir no Teams armazenamento</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003113" target="_blank">Exibir no AppSource</a>
