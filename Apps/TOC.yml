@@ -169,8 +169,8 @@ items:
   - name: Microsoft SharePoint Apps
     href: sharepoint/sharepoint-apps.md
     items:
-      - name: 4Mata
-        href: sharepoint/cloudignite-llc-4mata.md
+      - name: 4Mata – Designer de Formatação de Lista
+        href: sharepoint/cloudignite-llc-4mata-list-formatting-designer.md
       - name: Adobe Acrobat Sign para Microsoft Office SharePoint Online
         href: sharepoint/adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md
       - name: Painel de Tarefas Agile para SharePoint Online
@@ -306,8 +306,6 @@ items:
         href: teams/autopilot-workflow-solutions-workflows.md
       - name: Avaamo IT Assistant
         href: teams/avaamo-it-assistant.md
-      - name: Axelleron
-        href: teams/axelleron.md
       - name: Eixo
         href: teams/axis-workshops-ltd.md
       - name: B12
@@ -1142,6 +1140,8 @@ items:
         href: teams/kitameraki-limited-ticketing-as-a-service.md
       - name: Tikit
         href: teams/cireson-tikit.md
+      - name: Tilly
+        href: teams/tilly-group-limited.md
       - name: TimeClock 365
         href: teams/softsale-timeclock-365.md
       - name: timeghost - Controle de tempo
@@ -1188,6 +1188,8 @@ items:
         href: teams/vtiger-crm.md
       - name: Waldo
         href: teams/kickle-waldo.md
+      - name: Wanda
+        href: teams/unit4-business-software-wanda.md
       - name: Wats
         href: teams/skillbase-wats.md
       - name: Wazoku
@@ -1248,6 +1250,8 @@ items:
         href: teams/replicon-zero-time-bot.md
       - name: Zignals
         href: teams/alight-consulting-gmbh-zignals.md
+      - name: Zoho CRM
+        href: teams/zoho-corporation-pvt-ltd-crm.md
       - name: Zoho Desk
         href: teams/zoho-corporation-private-limited-desk.md
       - name: Zoho Notebook
@@ -1380,6 +1384,8 @@ items:
         href: saas/officeatwork-mail-signature.md
       - name: MIPA – Meu Assistente Pessoal Inteligente
         href: saas/iglobe-mipa-my-intelligent-personal-assistant.md
+      - name: ModuleQ
+        href: saas/moduleq.md
       - name: MURAL
         href: saas/mural.md
       - name: MyHub para Teams

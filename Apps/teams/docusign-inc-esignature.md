@@ -1,48 +1,49 @@
 ---
-title: Informações de aplicativo para Zoho CRM da Zoho Corporation Pvt Ltd
+title: Informações do aplicativo para DocuSign eSignature da DocuSign, Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/14/2022
+ms.date: 06/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o Zoho CRM, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para o DocuSign eSignature, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4ad8849fdd2a3018d78b75a90f5173687c0ee80a
+ms.openlocfilehash: d0777ba2bd2926bca73fbdfff5827975aa38274d
 ms.sourcegitcommit: 6df79f38ffe390e7339cd6ce5eb32641a9f4c1a9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/15/2022
-ms.locfileid: "66105769"
+ms.locfileid: "66110299"
 ---
-# <a name="zoho-crm"></a>Zoho CRM
+# <a name="docusign-esignature"></a>DocuSign eSignature
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 20 de outubro de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 14 de junho de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/003a8a54-9d27-41cd-9c28-aec5875a3497" target="_blank">Exibir no Teams armazenamento</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104382094" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/e3e1c0f3-e2b3-492f-8944-d551b6dd71b9" target="_blank">Exibir no Teams armazenamento</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002755" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pela Zoho Corporation Pvt Ltd para a Microsoft:
+Informações fornecidas pelo DocuSign, Inc. à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Zoho CRM |
-| ID | WA104382094 |
+| Nome do aplicativo | DocuSign eSignature |
+| ID | WA200002755 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa parceira | Zoho Corporation Pvt Ltd |
-| Site da empresa | [https://www.zoho.com](https://www.zoho.com) |
-| Termos de Uso do Aplicativo | [https://www.zoho.com/terms.html](https://www.zoho.com/terms.html) |
-| Funcionalidade principal do aplicativo | Usando o aplicativo Zoho CRM no Microsoft Teams, acompanhe as principais métricas de negócios por meio de painéis anexados à guia Microsoft Teams. Compartilhe registros do Zoho CRM dentro de seu canal do Teams para colaborar em acordos ou acompanhamentos relacionados a perspectivas vitais. |
+| Nome da empresa parceira | DocuSign, Inc. |
+| Site da empresa | [https://www.docusign.com](https://www.docusign.com) |
+| Termos de Uso do Aplicativo | [https://www.docusign.com/company/terms-and-conditions/web](https://www.docusign.com/company/terms-and-conditions/web) |
+| Funcionalidade principal do aplicativo | Envie e assine documentos facilmente. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | [https://www.zoho.com/crm/help/](https://www.zoho.com/crm/help/) |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | IsvHosted |
+| Página de informações do aplicativo | [https://docs.docusign.com/supportdocs/ds-for-MS-teams/Conte...](https://docs.docusign.com/supportdocs/ds-for-MS-teams/Content/overview-docusign-for-ms-teams.htm) |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,20 +53,12 @@ Informações fornecidas pela Zoho Corporation Pvt Ltd para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
-Essas informações foram fornecidas pela Zoho Corporation Pvt Ltd sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela DocuSign, Inc. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
-| Quais dados são processados pelo seu aplicativo? | Dados de perfil, Webhook de Conversa Pessoal. |
-| O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | ID de usuário, Nome de Usuário, Endereço de email |
-| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Índia, Japão, Austrália, China, Países Baixos (a), Irlanda, Estados Unidos da América |
-| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são retidos após o encerramento da conta? | Menos de 90 dias |
-| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Não |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -79,7 +72,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você executa testes de penetração anuais no aplicativo? | Sim |
 | O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | TraditionalAntiMalware, ApplicationControls |
+| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | TraditionalAntiMalware |
 | Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Sim |
 | Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Sim |
 | Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? | Sim |
@@ -89,7 +82,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
 | Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
 | As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
-| Autenticação Multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
+| Autenticação Multifator (MFA) habilitada para: | Credential, DNSManagement |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
 | Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
 | Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
@@ -108,21 +101,22 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | Sim |
-| O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | Não |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Não |
+| O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Sim |
+| Data de certificação SOC1 mais recente | 2021-12-10 |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Sim |
 | Qual certificação do SOC 2 você obteve? | type2 |
-| Data de certificação SOC2 mais recente | 2021-11-30 |
+| Data de certificação SOC2 mais recente | 2021-12-10 |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
-| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Não |
+| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Sim |
 | O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Sim |
 | O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | Sim |
 | O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Sim |
 | O aplicativo está em conformidade com a ISO 27002 (Organização Internacional para Padronização)? | Não |
-| O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Não |
-| O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | Não |
-| O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | Não |
-| O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | Não |
+| O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Sim |
+| O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | N/D |
+| O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | Sim |
 | O aplicativo está em conformidade com o NIST 800-171? | Não |
 | O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Sim |
 
@@ -136,13 +130,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
 | O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Sim |
-| URL da Política de Privacidade | https://www.zoho.com/terms.html |
+| URL da Política de Privacidade | https://www.docusign.com/company/privacy-policy |
 | O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
 | O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
 | Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
 | O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
 | O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
-| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Não |
+| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Sim |
 | O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
 | As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
 
@@ -154,24 +148,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
-| Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Sim |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
-| Listar os tipos de políticas com suporte | Autenticação Multifator, exigindo dispositivos gerenciados pela organização para aplicativos específicos, Bloqueando comportamentos de entrada arriscada, limitando o acesso dado a pessoas que não sejam as funções administrativas  |
-| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Sim |
+| Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Não |
+| Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
+| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? |  |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
 | Seu aplicativo armazena credenciais no código? | Não |
 | Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
-
->|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
->|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | Delegada | Ler os nomes e descrições dos canais | [003a8a54-9d27-41cd-9c28-aec5875a3497](../azure/003a8a54-9d27-41cd-9c28-aec5875a3497.md) |
->| ChannelMessage.Send | Delegada | Enviar a mensagem do canal | [003a8a54-9d27-41cd-9c28-aec5875a3497](../azure/003a8a54-9d27-41cd-9c28-aec5875a3497.md) |
->| ChatMessage.Send | Delegada | Enviar mensagens de chat do usuário | [003a8a54-9d27-41cd-9c28-aec5875a3497](../azure/003a8a54-9d27-41cd-9c28-aec5875a3497.md) |
->| Team.ReadBasic.All | Delegada | Ler os nomes e as descrições das equipes | [003a8a54-9d27-41cd-9c28-aec5875a3497](../azure/003a8a54-9d27-41cd-9c28-aec5875a3497.md) |
->| User.Read | Delegada | Entrar e ler o perfil do usuário | [003a8a54-9d27-41cd-9c28-aec5875a3497](../azure/003a8a54-9d27-41cd-9c28-aec5875a3497.md) |
+>Este aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 
