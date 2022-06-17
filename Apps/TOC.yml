@@ -750,6 +750,8 @@ items:
         href: teams/elearningforce-international-lms365.md
       - name: Loop
         href: teams/friendly-flows-loop.md
+      - name: Loopio
+        href: teams/loopio-inc.md
       - name: Loops - Aprendizado criativo
         href: teams/skooler-loops-creative-learning.md
       - name: LTI Client
@@ -1140,7 +1142,7 @@ items:
         href: teams/kitameraki-limited-ticketing-as-a-service.md
       - name: Tikit
         href: teams/cireson-tikit.md
-      - name: Tilly
+      - name: tiLly
         href: teams/tilly-group-limited.md
       - name: TimeClock 365
         href: teams/softsale-timeclock-365.md
@@ -1256,6 +1258,8 @@ items:
         href: teams/zoho-corporation-private-limited-desk.md
       - name: Zoho Notebook
         href: teams/zoho-corporation-private-limited-notebook.md
+      - name: Zoho Projects
+        href: teams/zoho-corporation-private-limited-projects.md
       - name: Zoho Sign
         href: teams/zoho-corporation-private-limited-sign.md
   - name: Microsoft Word aplicativos
@@ -2021,6 +2025,8 @@ items:
         href: azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md
       - name: cec02d43-1b67-4430-9bc9-861da8582801
         href: azure/cec02d43-1b67-4430-9bc9-861da8582801.md
+      - name: cf9bdbc1-18c7-4700-b6b3-093f241e2d8a
+        href: azure/cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md
       - name: d1762bac-3696-429d-ab0b-2a61463d6b7a
         href: azure/d1762bac-3696-429d-ab0b-2a61463d6b7a.md
       - name: d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d
