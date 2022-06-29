@@ -1,28 +1,27 @@
 ---
-title: Segurança e conformidade Outlook Aplicativos do Microsoft Outlook – Todos os Aplicativos
+title: Segurança e conformidade dos Aplicativos do Microsoft Outlook – Todos os Aplicativos
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/31/2022
+ms.date: 06/24/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos do Microsoft Outlook.
 localization_priority: Normal
-ms.openlocfilehash: 9328f65dcdbc22d97a0b71a1e7e4a1c83814140b
-ms.sourcegitcommit: 9cbff2dbc9762426293b9b094a29e3d2bebc760b
+ms.openlocfilehash: 931290ecbe2e51c6d9a94232eacab98a693bc25f
+ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/01/2022
-ms.locfileid: "65818369"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66247297"
 ---
-# <a name="microsoft-outlook-apps-security-and-compliance"></a>Segurança e conformidade do Microsoft Outlook Apps
+# <a name="microsoft-outlook-apps-security-and-compliance"></a>Segurança e conformidade dos Aplicativos do Microsoft Outlook
 
-A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para fornecer as informações que as organizações precisam para agilizar e informar decisões sobre os aplicativos e suplementos do Microsoft Outlook que usam. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
+A Microsoft trabalha com nossos parceiros desenvolvedores do Microsoft 365 para fornecer as informações que as organizações precisam para agilizar e informar decisões sobre os Aplicativos do Microsoft Outlook e os suplementos que usam. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
 
 | **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [Adobe Acrobat Sign para Microsoft Outlook](./adobe-inc-acrobat-sign-for-microsoft-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Calendários de Contatos Aprovados](./approved-contact-calendars.md) | Contato Aprovado | **✓** |  |
 | [Appspace para Outlook](./appspace-inc-for-outlook.md) | Appspace, Inc | **✓** |  |
 | [Aumentar Meu Email](./boost-my-mail.md) | Aumentar Meu Email | **✓** |  |
 | [Ci-Signature](./ci-solution-gmbh-signature.md) | solução ci GmbH | **✓** |  |
@@ -32,22 +31,22 @@ A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para for
 | [Dynamo](./dynamo-software.md) | Dynamo Software | **✓** |  |
 | [Reator de Email](./flow-simulation-ltd-email-reactor.md) | Flow Simulation Ltd. | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
-| [Assinaturas de impressão para Outlook](./impression-signatures-for-outlook.md) | Assinaturas de Impressão | **✓** |  |
+| [Assinaturas de Impressão para Outlook](./impression-signatures-for-outlook.md) | Assinaturas de Impressão | **✓** |  |
 | [Suplemento do iPlanner Office 365 Planner para Outlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iPlanner Pro Office 365](./iglobe-iplanner-pro-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Jira Cloud for Outlook (Oficial)](./atlassiancom-jira-cloud-for-outlook-official.md) | Atlassian.com | **✓** |  |
 | [Gerenciamento de Matéria de Prazos &amp; do LawToolBox – Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlinesmatter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
-| [Prazos do LawToolBox e gerenciamento de Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
+| [Prazos do LawToolBox e gerenciamento de matéria – Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
 | [Mailbutler](./mailbutler.md) | Mailbutler | **✓** |  |
 | [MIPA – seu próprio assistente pessoal](./iglobe-mipa-your-own-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | Soluções All Blue | **✓** |  |
 | [Office2SharePoint para Outlook](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork - Content Chooser for Outlook](./officeatwork-officeatworkcontent-chooser-for-outlook.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - Assinatura de Email para Outlook](./officeatwork-officeatworkmail-signature-for-outlook.md) | officeatwork | **✓** |  |
+| [officeatwork – Assinatura de Email para Outlook](./officeatwork-officeatworkmail-signature-for-outlook.md) | officeatwork | **✓** |  |
 | [OnePlaceMail para Outlook](./oneplace-solutions-oneplacemail-for-outlook.md) | Soluções onePlace | **✓** |  |
-| [Compromisso de vendas de divulgação para Outlook](./outreach-sales-engagement-for-outlook.md) | Evangelismo | **✓** |  |
+| [Compromisso de vendas de divulgação para o Outlook](./outreach-sales-engagement-for-outlook.md) | Evangelismo | **✓** |  |
 | [Pexip One para Outlook](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |
 | [Matriz de Prioridade – Transformar emails em tarefas](./appfluence-inc-priority-matrix-turn-emails-into-tasks.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
-| [Strategy-AI for Outlook](./chinchilla-software-limited-strategy-ai-for-outlook.md) | Chinchilla Software Limited | **✓** |  |
+| [Strategy-AI para Outlook](./chinchilla-software-limited-strategy-ai-for-outlook.md) | Chinchilla Software Limited | **✓** |  |
 | [XQ Secure Email](./xq-message-secure-email.md) | Mensagem XQ | **✓** |  |

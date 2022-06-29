@@ -3,24 +3,24 @@ title: Informações do aplicativo para Showmaster da cherryware
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 01/27/2022
+ms.date: 06/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Showmaster, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9cde99fdf18b018fe2b881c4f60837fa88d8ae66
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: f6c6e1d68e4e0ab5a366ccb98f9d05420fcd044c
+ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64881078"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66248714"
 ---
 # <a name="showmaster"></a>Showmaster
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 21 de janeiro de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 23 de junho de 2022</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200003706" target="_blank">Exibir no AppSource</a>
 
@@ -30,7 +30,7 @@ ms.locfileid: "64881078"
 
 Informações fornecidas pelo cherryware à Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | Showmaster |
 | ID | WA200003706 |
@@ -38,7 +38,7 @@ Informações fornecidas pelo cherryware à Microsoft:
 | Nome da empresa parceira | cherryware |
 | Site da empresa | [https://www.cherryware.com](https://www.cherryware.com) |
 | Termos de Uso do Aplicativo | [https://showmaster.app/terms/](https://showmaster.app/terms/) |
-| Funcionalidade principal do aplicativo | Showmaster é um PowerPoint suplemento que cria um quadro emocionante em torno de sua conversa durante o tempo de espera e quebras com títulos, contagem regressiva, música e muito mais. |
+| Funcionalidade principal do aplicativo | Showmaster é um suplemento do PowerPoint que cria um quadro interessante em torno de sua conversa durante o tempo de espera e quebras com manchetes, contagem regressiva, música e muito mais. |
 | Localização da sede da empresa | Alemanha |
 | Página de informações do aplicativo | [https://showmaster.app](https://showmaster.app) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
@@ -54,7 +54,7 @@ Informações fornecidas pelo cherryware à Microsoft:
 
 Essas informações foram fornecidas pelo cherryware sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Não |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
@@ -67,7 +67,7 @@ Essas informações foram fornecidas pelo cherryware sobre como esse aplicativo 
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você executa testes de penetração anuais no aplicativo? | Sim |
 | O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
@@ -97,7 +97,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="compliance"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | N/D |
 | O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
@@ -122,7 +122,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="privsection"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Não |
 
@@ -132,16 +132,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Não |
 | Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
 | Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? |  |
-| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
 | Seu aplicativo armazena credenciais no código? | Não |
-| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
+| Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
 >Este aplicativo não usa o Microsoft Graph.
 

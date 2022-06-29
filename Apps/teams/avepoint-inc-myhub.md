@@ -3,26 +3,25 @@ title: Informações do aplicativo para MyHub by AvePoint, inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 01/21/2022
+ms.date: 06/22/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o MyHub, suas políticas de tratamento de dados, suas Microsoft Cloud App Security de catálogo de aplicativos e informações de segurança/conformidade no Registro STAR do CSA.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 483147bf1dbde67aa105e245012cdc3938227e01
-ms.sourcegitcommit: 2c06ca843da2f9359a834b1479d2b9b7eee1f68d
+certification_type: certified
+description: Todas as informações de segurança e conformidade disponíveis para o MyHub, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 36d0ac6e0a74e8282a9a130e21279d422ebf9504
+ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "64645876"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66245878"
 ---
 # <a name="myhub"></a>MyHub
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 14 de janeiro de 2022</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>Última atualização pelo desenvolvedor em: 24 de janeiro de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/c3ff6344-f6f0-4bfa-8697-b9d47b32ca4b" target="_blank">Exibir no Teams store</a>
+* <a href="https://teams.microsoft.com/l/app/c3ff6344-f6f0-4bfa-8697-b9d47b32ca4b" target="_blank">Exibir na loja do Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000726" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -31,15 +30,15 @@ ms.locfileid: "64645876"
 
 Informações fornecidas pelo AvePoint, inc. à Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | MyHub |
 | ID | WA200000726 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa de parceiro | AvePoint, inc. |
+| Nome da empresa parceira | AvePoint, inc. |
 | Site da empresa | [https://www.avepoint.com](https://www.avepoint.com) |
-| Termos de uso do aplicativo | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| Funcionalidade principal do aplicativo | Conheça o MyHub, um ponto de parada único para solicitar novos Office 365 de trabalho gerenciando os existentes&amp;. O MyHub fornece provisionamento, recertificação e &amp; serviços de ciclo de vida fáceis de usar sem sobrecarregar sua equipe de TI. Os usuários são capazes de dimensionar, &amp; automatizar espaços de trabalho seguros são notificados &amp; quando tomar medidas, facilitando a conclusão de sua lista de tarefas. O MyHub&#65533;estrutura &amp; segura sustentável é alimentada pelo AvePoint&#65533;Governança de Nuvem. |
+| Termos de Uso do Aplicativo | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
+| Funcionalidade principal do aplicativo | Conheça o MyHub, uma loja única para solicitar novos Office 365 workspaces que gerenciam os existentes&amp;. O MyHub fornece serviços de provisionamento, recertificação &amp; e ciclo de vida fáceis de usar sem sobrecarregar sua equipe de TI. Os usuários podem dimensionar, &amp; automatizar workspaces seguros são notificados &amp; quando tomar medidas, facilitando a conclusão da lista de tarefas pendentes. O MyHub&#65533;estrutura &amp; segura sustentável é da plataforma AvePoint&#65533;Cloud Governance. |
 | Localização da sede da empresa | Estados Unidos da América |
 | Página de informações do aplicativo | [https://www.avepoint.com/products/cloud/myhub](https://www.avepoint.com/products/cloud/myhub) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
@@ -51,20 +50,20 @@ Informações fornecidas pelo AvePoint, inc. à Microsoft:
 
 ::: zone pivot="data"
 
-### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com dados
+### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
-Essas informações foram fornecidas pelo AvePoint, inc. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela AvePoint, inc. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou ao dispositivo? | Não |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Não |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | Conjunto de Sites/Grupo O365/Teams metadados básicos; id do usuário, email, nome |
-| Se a estrutura subjacente processa ou armazena dados de clientes da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
+| Quais dados são armazenados em seus bancos de dados? | Conjunto de Sites/Metadados básicos do Grupo do O365/Teams; id do usuário, email, nome |
+| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são mantidos após o término da conta? | Menos de 60 dias |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Menos de 60 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou sub-processadores? | Não |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -74,27 +73,27 @@ Essas informações foram fornecidas pelo AvePoint, inc. sobre como esse aplicat
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| Você realiza testes de penetração anual no aplicativo? | Sim |
-| O aplicativo tem um plano de recuperação de desastres documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa proteção anti-malware tradicional ou controles de aplicativos? | TraditionalAntiMalware |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de classificação de risco? | Sim |
-| Você tem uma política que rege seu contrato de nível de serviço (SLA) para aplicar patches? | Sim |
-| Você realiza atividades de gerenciamento de patch de acordo com suas SLAs de política de patch? | Sim |
+| Você executa testes de penetração anuais no aplicativo? | Sim |
+| O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
+| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | TraditionalAntiMalware |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Sim |
+| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Sim |
+| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? | Sim |
 | Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
-| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que oferece suporte a ele? | Sim |
-| Você tem um firewall instalado no limite de rede externo? | Sim |
-| Você tem um processo de gerenciamento de alterações estabelecido usado para revisar e aprovar solicitações de alteração antes que elas sejam implantadas na produção? | Sim |
-| Uma pessoa adicional está revendo e aprovando todas as solicitações de alteração de código enviadas à produção pelo desenvolvedor original? | Sim |
-| As práticas de codificação segura levam em consideração classes comuns de vulnerabilidade, como o OWASP Top 10? | Sim |
-| Autenticação multifator (MFA) habilitada para: | Credential, DNSManagement, CodeRepositories |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? | Sim |
+| Você tem um firewall instalado no limite de rede externa? | Sim |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
+| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
+| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
+| Autenticação Multifator (MFA) habilitada para: | Credential, DNSManagement, CodeRepositories |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
-| Você tem um software IDPS (Detecção e Prevenção de Intrusão) implantado no perímetro do limite de rede que suporta seu aplicativo? | Sim |
-| Você tem o log de eventos definido em todos os componentes do sistema que suportam seu aplicativo? | Sim |
-| Todos os logs são revisados em uma cadência regular por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim |
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
+| Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
+| Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
-| Você tem um processo formal de gerenciamento de risco de segurança de informações estabelecido? | Sim |
+| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Sim |
 | Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Sim |
 | Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção? | Sim |
 
@@ -104,28 +103,26 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="compliance"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| O aplicativo está em conformidade com a Lei de Portabilidade e Contabilidade do Seguro de Saúde (HIPAA)? | N/D |
-| O aplicativo está em conformidade com a Health Information Trust Alliance, Common Security Framework (HITRUST CSF)? | N/D |
+| O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | N/D |
+| O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Não |
-| Data de certificação SOC1 mais recente |   |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Sim |
-| Qual certificação do SOC 2 você atingiu? |  type2 |
-| Data de certificação SOC2 mais recente |  2/9/2021 |
+| Qual certificação do SOC 2 você obteve? | type2 |
+| Data de certificação SOC2 mais recente | 2/9/2021 |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
-| Data de certificação SOC3 mais recente | |
-| Você realiza avaliações anuais do PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
-| O aplicativo International Organization for Standardization (ISO 27001) é certificado? | Sim |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27018)? | Não |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27017)? | Sim |
-| O aplicativo está em conformidade com a Organização Internacional para Padronização (ISO 27002)? | Não |
-| O aplicativo Federal Risk and Authorization Management Program (FedRAMP) está em conformidade? | Não |
-| O aplicativo está em conformidade com a FerPA (Lei de Privacidade e Direitos Educacionais da Família)? | N/D |
-| O aplicativo está em conformidade com a Lei de Proteção de Privacidade Online para Crianças (COPPA)? | N/D |
-| O aplicativo está em conformidade com Sarbanes-Oxley Lei (SOX)? | Sim |
+| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
+| O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Sim |
+| O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | Não |
+| O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Sim |
+| O aplicativo está em conformidade com a ISO 27002 (Organização Internacional para Padronização)? | Não |
+| O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Não |
+| O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | N/D |
+| O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
+| O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | Sim |
 | O aplicativo está em conformidade com o NIST 800-171? | N/D |
-| O aplicativo foi certificado pelo Cloud Security Alliance (CSA Star)? | Sim |
+| O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -133,19 +130,19 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="privsection"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| Você tem o RGPD ou outros requisitos ou obrigações de proteção de dados ou privacidade (como CCPA)? | Sim |
-| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como coleta, usa, compartilha e armazena dados do cliente? | Sim |
+| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Sim |
 | URL da Política de Privacidade | https://www.avepoint.com/company/privacy-and-security |
-| O aplicativo executa a tomada de decisão automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
-| O aplicativo processa dados do cliente para fins secundários não descritos no aviso de privacidade (ou seja, marketing, análise)? | Não |
-| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficas, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
+| O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
+| O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
 | O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
 | O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Não |
-| O aplicativo tem recursos para restringir ou limitar o processamento de dados pessoais de uma pessoa mediante solicitação? | Sim |
-| O aplicativo fornece às pessoas a capacidade de corrigir ou atualizar seus dados pessoais? | Não |
-| As avaliações regulares de segurança e privacidade de dados são realizadas (por exemplo, Avaliações de Impacto da Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
+| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Sim |
+| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | Não |
+| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -153,34 +150,33 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| Seu aplicativo se integra com a Plataforma de Identidade da Microsoft (Azure AD) para um único login, acesso à API etc.? | Sim |
-| Você já analisou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente do MSAL (Biblioteca de Autenticação da Microsoft) ou da Microsoft Identity Web para autenticação? | Sim |
-| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
+| Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
+| Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
+| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Sim |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
-| Listar os tipos de políticas com suporte | O aplicativo é federado com o Azure AD, para que todas as regras de acesso condicional possam ser usadas. |
-| Seu aplicativo dá suporte à Avaliação de Acesso Contínuo (CAE) | Sim |
-| Seu aplicativo armazena alguma credencial no código? | Não |
-| Aplicativos e complementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou complemento usa APIs adicionais da Microsoft? | Não |
+| Listar os tipos de políticas com suporte | O aplicativo é federado com Azure AD, portanto, todas as regras de acesso condicional podem ser usadas. |
+| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Sim |
+| Seu aplicativo armazena credenciais no código? | Não |
+| Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph Permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Permissão do Graph**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | ambos | Recupere uma lista de objetos de configuração de grupo. Como o compartilhamento externo classicfication, enableCreateGroup(application) e assim por diante. | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
->| Group.ReadWrite.All | ambos | Criar grupo, recuperar, adicionar ou remover associação de grupo | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
->| Mail.Send | delegado | Se o usuário atual quiser ingressar em um grupo privado, enviaremos uma notificação aos proprietários do grupo | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| Directory.Read.All | Ambas | Recuperar uma lista de objetos de configuração de grupo. Como o compartilhamento externo classicfication, enableCreateGroup(application) e assim por diante. | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| Group.ReadWrite.All | Ambas | Criar grupo, recuperar, adicionar ou remover associação de grupo | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| Mail.Send | Delegada | Se o usuário atual quiser ingressar em um grupo privado, enviaremos uma notificação aos proprietários do grupo | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
 >| Reports.Read.All | aplicação | obter relatório de uso de site/grupo | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
 >| Sites.FullControl.All | aplicação | criar ou excluir sites | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
 >| Sites.Read.All | aplicação | obter informações básicas do site | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
->| Sites.ReadWrite.All | delegado | follow/unfollow sites | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
->| User.Read.All | ambos | Delegado: obter foto dos usuários; Aplicativo: pesquisar/resolver usuários | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
->| email | delegado | SSO do aplicativo teams | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
->| offline_access | delegado | SSO do aplicativo teams | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
->| openid | delegado | SSO do aplicativo teams | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
->| perfil | delegado | SSO do aplicativo teams | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| Sites.ReadWrite.All | Delegada | seguir/não seguir sites | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| User.Read.All | Ambas | Delegado: obter foto dos usuários; Aplicativo: pesquisar/resolver usuários | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| email | Delegada | SSO do aplicativo teams | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| offline_access | Delegada | SSO do aplicativo teams | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| openid | Delegada | SSO do aplicativo teams | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
+>| perfil | Delegada | SSO do aplicativo teams | [478c769e-bab3-4049-9cfc-302d08a232bf](../azure/478c769e-bab3-4049-9cfc-302d08a232bf.md) |
 
 >Este aplicativo não tem APIs adicionais.
 
@@ -188,3 +184,39 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>Informações de certificação
+
+| **Control** | **Resultado da certificação do Microsoft 365** |
+|:------------|:---------------------------------------|
+| [**SEGURANÇA DO APLICATIVO**](../docs/certification-submission-guide.md#application-security) | **PASSAR** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teste de penetração | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Revisão da Avaliação de Vulnerabilidade (TESTE DE PENETRAÇÃO/DAST/SAST) | No Escopo |
+| [**SEGURANÇA OPERACIONAL**](../docs/certification-submission-guide.md#operational-security) | **PASSAR** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra malware – Antivírus | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra malware – Controle de Aplicativos | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Patches – Classificação de Risco | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de patch – aplicação de patch | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Verificação de vulnerabilidade | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firewall – Firewalls (ou tecnologias equivalentes) | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firewall – WAFs (Firewalls de Aplicativo Web) (opcional) | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alterar Controle | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvimento/implantação de software seguro | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Contas | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Detecção e prevenção contra intrusões (opcional) | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Log de eventos de segurança | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Revisando (dados de log) | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alertas de eventos de segurança | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Riscos de Segurança da Informação | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resposta a incidentes | No Escopo |
+| [**PRIVACIDADE DE SEGURANÇA DE TRATAMENTO DE &amp; DADOS**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **PASSAR** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados em trânsito | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados inativos | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retenção e descarte de dados | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Acesso a Dados | No Escopo |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RGPD | No Escopo |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
