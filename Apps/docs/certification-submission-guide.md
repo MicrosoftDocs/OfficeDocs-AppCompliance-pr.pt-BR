@@ -1,25 +1,25 @@
 ---
 ms.author: oromalle
-title: Microsoft 365 de Envio de Certificação do Microsoft 365
+title: Guia de envio de certificação do Microsoft 365
 author: orionomalley
 manager: tonybal
-description: Microsoft 365 certificação oferece garantia e confiança às organizações corporativas de que os dados e a privacidade estão adequadamente protegidos e protegidos.
-keywords: equipes de certificação Microsoft 365 conformidade de segurança m365
+description: A Certificação do Microsoft 365 oferece garantia e confiança às organizações corporativas de que os dados e a privacidade estão adequadamente protegidos e protegidos.
+keywords: equipes de certificação de aplicativos Microsoft 365 conformidade de segurança m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: fd6082a482cdf5e4dc268f140b7f2a8de4d8880f
-ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
+ms.openlocfilehash: a3bb30be81163b3de45b5a93b6b9b426858b0f97
+ms.sourcegitcommit: cede428f2a23bd3060f5506f270b40b327b02769
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784520"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66545170"
 ---
-# <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 de Envio de Certificação do Microsoft 365
+# <a name="microsoft-365-certification-submission-guide"></a>Guia de envio de certificação do Microsoft 365
 
 **Neste artigo:**
 - [Introdução](#introduction)
 - [Pré-requisitos](#prerequisites) 
-- [atualizações Microsoft 365 especificação de certificação do Microsoft 365](#microsoft-365-certification-specification-updates)
+- [Especificação de Certificação do Microsoft 365 Atualizações](#microsoft-365-certification-specification-updates)
 - [Escopo de certificação](#certification-scope)
 - [Processo de certificação](#certification-process)
 - [Envio inicial de documento](#initial-document-submission) 
@@ -42,41 +42,41 @@ ms.locfileid: "64784520"
 
 ## <a name="introduction"></a>Introdução
 
-Parte do programa de Conformidade de Aplicativos do Microsoft 365, a Certificação Microsoft 365 oferece garantia e confiança às organizações corporativas de que os dados e a privacidade são adequadamente protegidos e protegidos ao integrar aplicativos/suplementos de desenvolvedores de terceiros à plataforma Microsoft 365. Aplicativos e suplementos aprovados na validação serão designados **Microsoft 365 Certificados** em todo o Microsoft 365 ecossistema. 
+Parte do programa de Conformidade de Aplicativos do Microsoft 365, a Certificação do Microsoft 365 oferece garantia e confiança às organizações corporativas de que os dados e a privacidade são adequadamente protegidos e protegidos ao integrar aplicativos/suplementos de desenvolvedores de terceiros à plataforma microsoft 365. Os aplicativos e suplementos aprovados na validação serão designados **como Microsoft 365 Certified** em todo o ecossistema do Microsoft 365. 
 
-Ao participar do programa de Certificação do Microsoft 365, você está concordando com esses termos complementares e em conformidade com qualquer documentação complementar que se aplique à sua participação no programa de Certificação do Microsoft 365 com a Microsoft Corporation ("Microsoft", "nós", "nós" ou "nosso"). Você representa e garante a nós que tem autoridade para aceitar esses termos complementares de Certificação Microsoft 365 em nome de si mesmo, de uma empresa e/ou de outra entidade, conforme aplicável. Podemos alterar, alterar ou encerrar esses termos complementares a qualquer momento. Sua participação contínua no programa Microsoft 365 certificação após qualquer alteração ou alteração significa que você concorda com os novos termos complementares. Se você não concordar com os novos termos complementares ou se encerrarmos esses termos complementares, deverá parar de participar do programa Microsoft 365 Certificação.
+Ao participar do programa de Certificação do Microsoft 365, você está concordando com esses termos complementares e em conformidade com qualquer documentação complementar que se aplique à sua participação no programa de Certificação do Microsoft 365 com a Microsoft Corporation ("Microsoft", "nós", "nós" ou "nosso"). Você representa e nos garante que tem autoridade para aceitar esses termos complementares de Certificação do Microsoft 365 em nome de si mesmo, de uma empresa e/ou de outra entidade, conforme aplicável. Podemos alterar, alterar ou encerrar esses termos complementares a qualquer momento. Sua participação contínua no programa de Certificação do Microsoft 365 após qualquer alteração ou alteração significa que você concorda com os novos termos complementares. Se você não concordar com os novos termos complementares ou se encerrarmos esses termos complementares, deverá parar de participar do programa de Certificação do Microsoft 365.
 
-Este documento destina-se a ISVs (Fornecedores Independentes de Software) para fornecer informações sobre o processo de Certificação do Microsoft 365, pré-requisitos para iniciar o processo e detalhes de controles de segurança específicos que os ISVs devem ter em vigor.  Informações gerais do programa Microsoft 365 conformidade do aplicativo podem ser encontradas na página Microsoft 365 do programa de Conformidade de [Aplicativos](../overview.md). 
+Este documento destina-se a ISVs (Fornecedores Independentes de Software) para fornecer informações sobre o processo de certificação do Microsoft 365, pré-requisitos para iniciar o processo e detalhes de controles de segurança específicos que os ISVs devem ter em vigor.  Informações gerais do programa de Conformidade de Aplicativos do Microsoft 365 podem ser encontradas na página do programa de Conformidade de Aplicativos do Microsoft 365[.](../overview.md) 
 
 > [!IMPORTANT]
-> Atualmente, Microsoft 365 certificação é aplicável a todos:
->* Microsoft Teams aplicativos (Guias, Bots etc.).
+> Atualmente, a Certificação do Microsoft 365 é aplicável a todos:
+>* Aplicativos do Microsoft Teams (Guias, Bots etc.).
 >* Aplicativos/Suplementos do Sharepoint
->* Office suplementos (Word, Excel, PowerPoint, Outlook, Project, OneNote)
+>* Suplementos do Office (Word, Excel, PowerPoint, Outlook, Project, OneNote)
 >* Webapps
 
 ## <a name="prerequisites"></a>Pré-requisitos
 
 ### <a name="publisher-attestation"></a>Atestado do Editor
 
-Antes de receber o Microsoft 365 de Certificação, você deve ter concluído Publisher Atestado. No entanto, você pode iniciar o Microsoft 365 de Certificação antes de concluir Publisher atestado.  
+Antes de receber o processo de Certificação do Microsoft 365, você deve ter concluído o Atestado do Publicador. No entanto, você pode iniciar o processo de Certificação do Microsoft 365 antes de concluir o Atestado do Publicador.  
 
-### <a name="read-the-microsoft-365-certification-specification"></a>Ler a especificação Microsoft 365 certificação
+### <a name="read-the-microsoft-365-certification-specification"></a>Leia a Especificação de Certificação do Microsoft 365
 
-A Microsoft recomenda que todos os ISVs (Fornecedor Independente de Software) leiam essa Especificação de Certificação Microsoft 365 em sua totalidade para garantir que todos os controles aplicáveis sejam atendidos pelo ambiente no escopo e pelo aplicativo/suplemento. Isso ajudará a garantir um processo de avaliação suave.
+A Microsoft recomenda que todos os ISVs (Fornecedor Independente de Software) leiam essa Especificação de Certificação do Microsoft 365 em sua totalidade para garantir que todos os controles aplicáveis sejam atendidos pelo ambiente no escopo e pelo aplicativo/suplemento. Isso ajudará a garantir um processo de avaliação suave.
 
-## <a name="microsoft-365-certification-specification-updates"></a>atualizações Microsoft 365 especificação de certificação do Microsoft 365 
+## <a name="microsoft-365-certification-specification-updates"></a>Especificação de Certificação do Microsoft 365 Atualizações 
 
-As atualizações da especificação Microsoft 365 certificação são previstas aproximadamente a cada seis a doze meses. Essas atualizações podem introduzir novos domínios de segurança de destino e/ou controles de segurança. As atualizações serão baseadas nos comentários dos desenvolvedores, nas alterações no cenário de ameaças e no aumento da linha de base de segurança do programa conforme ele amadurece. 
+Atualizações à especificação de Certificação do Microsoft 365 são previstas aproximadamente a cada seis a doze meses. Essas atualizações podem introduzir novos domínios de segurança de destino e/ou controles de segurança. Atualizações basear-se em comentários do desenvolvedor, alterações no cenário de ameaças e para aumentar a linha de base de segurança do programa conforme ele amadurece. 
 
-Os ISVs que já iniciaram a avaliação de certificação Microsoft 365 podem continuar a avaliação com a versão da Especificação de Certificação Microsoft 365 que era válida quando a avaliação foi iniciada. Todos os novos envios, incluindo a recertificação anual, precisarão ser avaliados em relação à versão publicada.
+Os ISVs que já iniciaram a avaliação de certificação do Microsoft 365 podem continuar a avaliação com a versão da Especificação de Certificação do Microsoft 365 que era válida quando a avaliação foi iniciada. Todos os novos envios, incluindo a recertificação anual, precisarão ser avaliados em relação à versão publicada.
 
 > [!NOTE]
-> Você não precisa estar em conformidade com todos os controles dentro desta especificação Microsoft 365 certificação para receber uma certificação. No entanto, os limites de passagem (que não serão divulgados) estão em vigor para cada um dos domínios de segurança discutidos nesta especificação Microsoft 365 certificação. Alguns controles serão classificados como uma "**Falha** Difícil", o que significa que a falta desses controles de segurança resultará em uma avaliação com falha. 
+> Você não precisa estar em conformidade com todos os controles dentro desta Especificação de Certificação do Microsoft 365 para receber uma certificação. No entanto, os limites de passagem (que não serão divulgados) estão em vigor para cada um dos domínios de segurança discutidos nesta Especificação de Certificação do Microsoft 365. Alguns controles serão classificados como uma "**Falha** Difícil", o que significa que a falta desses controles de segurança resultará em uma avaliação com falha. 
 
 ## <a name="certification-scope"></a>Escopo de certificação
 
-O **ambiente no escopo** é o ambiente que dá suporte à entrega do código do aplicativo/suplemento e dá suporte a sistemas de back-end com os qual o aplicativo/suplemento pode estar se comunicando. Todos os ambientes conectados adicionais também serão incluídos no escopo, a menos que a segmentação adequada esteja em vigor e os ambientes conectados não possam afetar a segurança do ambiente no escopo. Todos os ambientes de recuperação de desastre também precisarão ser incluídos dentro do escopo da avaliação, pois esses ambientes seriam necessários para atender ao serviço caso algo acontecesse com o ambiente primário.  Os  **componentes do sistema**  de escopo termin referenciam **TODOS os** dispositivos e sistemas usados no ambiente no escopo. Os componentes no escopo incluem, mas não estão limitados a:
+O **ambiente no escopo** é o ambiente que dá suporte à entrega do código do aplicativo/suplemento e dá suporte a sistemas de back-end com os qual o aplicativo/suplemento pode estar se comunicando. Todos os ambientes conectados adicionais também serão incluídos no escopo, a menos que a segmentação adequada esteja em vigor e os ambientes conectados não possam afetar a segurança do ambiente no escopo. Todos os ambientes de recuperação de desastre também precisarão ser incluídos dentro do escopo da avaliação, pois esses ambientes seriam necessários para atender ao serviço caso algo acontecesse com o ambiente primário.  O termo  **componentes do sistema no escopo** fazem referência a **TODOS os** dispositivos e sistemas usados no ambiente no escopo. Os componentes no escopo incluem, mas não estão limitados a:
 * Os aplicativos Web.
 * Servidores.
 * Firewalls (ou equivalentes).
@@ -116,15 +116,15 @@ As solicitações de evidência em suporte à avaliação de certificação deve
 
 ## <a name="certification-process"></a>Processo de certificação
 
-Antes de iniciar o processo de certificação, você precisará ter concluído com êxito o atestado Publisher dados. Após a conclusão, Microsoft 365 processo de Certificação do Microsoft 365 continuará da seguinte maneira:
+Antes de iniciar o processo de certificação, você precisará ter concluído com êxito o Atestado do Publicador. Após a conclusão, o processo de Certificação do Microsoft 365 continuará da seguinte maneira:
 
 ### <a name="preparation"></a>Preparação
-1. Navegue até o Partner Center e examine a [documentação Publisher atestado](../docs/attestation.md). Se necessário, você pode editar e atualizar suas respostas; no entanto, se você fizer isso, precisará reenviar sua documentação de atestado para aprovação. Se o envio tiver mais de três meses, exigiremos que você reenvie Publisher atestado para revisão e validação. 
-1. Leia cuidadosamente o guia [de envio Microsoft 365 certificação](../docs/certification-submission-guide.md) para entender o que será necessário para você. Verifique se você poderá atender aos requisitos de [controle](../docs/certification-submission-guide.md#app-certification-criteria) especificados no Guia de Envio Microsoft 365 Certificação.
+1. Navegue até o Partner Center e examine a [documentação completa do Atestado do](../docs/attestation.md) Publicador. Se necessário, você pode editar e atualizar suas respostas; no entanto, se você fizer isso, precisará reenviar sua documentação de atestado para aprovação. Se o envio tiver mais de três meses, exigiremos que você reenvie o Atestado do Publicador para revisão e validação. 
+1. Leia cuidadosamente o Guia [de Envio de Certificação do Microsoft 365](../docs/certification-submission-guide.md) para entender o que será necessário para você. Verifique se você poderá atender aos requisitos de [controle](../docs/certification-submission-guide.md#app-certification-criteria) especificados no Guia de Envio de Certificação do Microsoft 365.
 1. No partner center, clique em "Iniciar Certificação". Isso levará você ao portal de envio de documento inicial. Envie o [envio inicial do documento](../docs/certification-submission-guide.md#initial-document-submission). Isso nos ajudará a determinar o que está no escopo de sua avaliação com base em como seu aplicativo é arquitetado e lida com os dados do cliente. Verifique esta página com frequência para ver se o envio foi aceito.
 
 >[!NOTE]
->Para todos os aplicativos do Office, você pode referenciar [nosso guia Office do usuário do Aplicativos.](../docs/userguide.md) Para todos os WebApps, você pode referenciar nosso Guia [do Usuário do Aplicativo SaaS](../docs/saasuserguide.md).
+>Para todos os aplicativos do Office, você pode referenciar nosso Guia [do Usuário do Office Apps](../docs/userguide.md). Para todos os WebApps, você pode referenciar nosso Guia [do Usuário do Aplicativo SaaS](../docs/saasuserguide.md).
 
 ### <a name="assessment"></a>Avaliação
 1. Depois que o envio inicial do documento for aceito, o conjunto de controles de segurança necessários para seu aplicativo será exibido automaticamente no portal. Em seguida, você precisará enviar evidências para cada controle demonstrando que o controle está em vigor. Tenha em mente que você receberá **60 dias para** enviar todas as evidências. Um analista examinará suas evidências e aprovará o controle ou solicitará evidências novas ou adicionais. Verifique esta página com frequência para ver se sua evidência foi aceita.
@@ -134,7 +134,7 @@ Antes de iniciar o processo de certificação, você precisará ter concluído c
 ## <a name="review-and-re-certification"></a>Revisão e re-certificação
 No caso de seu aplicativo passar por [alterações](../docs/certification-submission-guide.md#significant-changes) significativas a qualquer momento, você precisará nos notificar.
 
-Você também precisará passar pela recertificação anualmente. Isso exigirá a revalidação dos controles no escopo em relação ao seu ambiente atual. Esse processo pode começar até 90 dias antes da expiração da certificação. Sua certificação existente não expirará durante o período de certificação novamente. A nova certificação em todos os programas expira no aniversário de um ano da certificação Microsoft 365 serviço.
+Você também precisará passar pela recertificação anualmente. Isso exigirá a revalidação dos controles no escopo em relação ao seu ambiente atual. Esse processo pode começar até 90 dias antes da expiração da certificação. Sua certificação existente não expirará durante o período de certificação novamente. A nova certificação em todos os programas expira no aniversário de um ano da certificação do Microsoft 365.
 
 Se a certificação não for renovada antes da data de validade, o status de certificação dos aplicativos será revogado. Todos os badgings, ícones e a identidade visual de certificação associada serão removidos do seu aplicativo, e você será proibido de anunciar seu aplicativo como Microsoft 365 Certified.
 
@@ -148,13 +148,13 @@ Se a certificação não for renovada antes da data de validade, o status de cer
 
 O envio inicial do documento ajudará os analistas de certificação a executar o escopo e determinar o que estará no escopo da sua avaliação. Depois disso, você precisará enviar documentação de suporte e evidências usadas para realizar a avaliação. Seu envio inicial deve incluir as informações especificadas abaixo. Para obter mais informações, consulte o Guia [de Submissão de Documentos Initital](../docs/initialdocumentsubguide.md).
 
-| **DocumentationOverview&nbsp;**     |   **Detalhes da Documentação**  |
+| **Visão geral da&nbsp;documentação**     |   **Detalhes da Documentação**  |
 | -------------------------| -----------------------------|
 |**Descrição do aplicativo/suplemento** | Uma descrição da finalidade e da funcionalidade do aplicativo/suplemento. Isso deve fornecer ao analista de certificação uma boa compreensão de como o aplicativo/suplemento funciona e qual é o uso pretendido
 |**Relatório de testes de penetração** |Um relatório de teste de penetração concluído nos últimos 12 meses. Esse relatório deve incluir o ambiente que dá suporte à implantação do aplicativo/adicionar juntamente com qualquer ambiente adicional que dê suporte à operação do aplicativo/suplemento. **Observação:** se você não fizer testes de penetração anuais, poderá optar por fazê-los por meio do processo de certificação.|
 |**Diagramas de arquitetura**|Um diagrama de arquitetura lógica que representa uma visão geral de alto nível da infraestrutura de suporte do seu aplicativo/suplemento. Isso deve incluir todos **os ambientes** de hospedagem e a infraestrutura de suporte que dá suporte ao aplicativo/suplemento. Este diagrama DEVE descrever todos os diferentes componentes do sistema de suporte dentro do ambiente para ajudar os analistas de certificação a entender os sistemas no escopo e ajudar a determinar a amostragem. Indique também qual tipo de ambiente de hospedagem é usado; ISV Hospedado, IaaS, PaaS ou Híbrido. **Nota:** Onde o SaaS é usado, indique os vários serviços saaS usados para fornecer os serviços de suporte dentro do ambiente.|
 |**Volume público** | Detalhando **todos os** endereços IP públicos e URLs usados pela infraestrutura de suporte. Isso deve incluir o intervalo de IP roteável completo alocado para o ambiente, a menos que a segmentação adequada tenha sido implementada para dividir o intervalo em uso (a evidência adequada de segmentação será necessária)|
-|**Diagramas de fluxo de dados** |Flow diagramas detalhando o seguinte:
+|**Diagramas de fluxo de dados** |Diagramas de fluxo detalhando o seguinte:
 ||&#x2713; dados M365 flui de e para o aplicativo/suplemento (incluindo [EUII](#euii) e [OII](#oii) ).|
 ||&#x2713; fluxos de dados do M365 dentro da infraestrutura de suporte (quando aplicável)|
 ||&#x2713; Diagramas realçando onde e quais dados são armazenados, como os dados são passados para terceiros externos (incluindo detalhes de quais terceiros) e como os dados são protegidos em trânsito em redes abertas/públicas e em repouso.|
@@ -165,10 +165,10 @@ O envio inicial do documento ajudará os analistas de certificação a executar 
 ||&#x2713; período de retenção de dados.|
 ||&#x2713; por que os dados M365 do cliente estão sendo capturados.|
 ||&#x2713; onde os dados do cliente M365 são armazenados (devem ser incluídos nos diagramas de fluxo de dados fornecidos acima).|
-|**Confirmação de conformidade**|Documentação de suporte para estruturas de segurança externas incluídas no envio Publisher atestado ou a ser considerada ao examinar Microsoft 365 de certificação. Atualmente, há suporte para os três seguintes:|
+|**Confirmação de conformidade**|Documentação de suporte para estruturas de segurança externas incluídas no envio do Atestado do Publicador ou a serem consideradas ao examinar os controles de Certificação do Microsoft 365. Atualmente, há suporte para os três seguintes:|
 ||&#x2713; atestado de conformidade (AOC) de [PCI DSS](#pci-dss) .|
 ||&#x2713; relatórios do TIPO I/Tipo II do [SOC 2](#soc-2) .|
-||&#x2713; [ISMSIEC](#isms) /  - 1S0/IEC 27001 Declaração de Aplicabilidade (SoA) e Certificação.[](#iec)|
+||&#x2713; [ISMS](#isms) / [IEC](#iec) – 1S0/IEC 27001 Declaração de Aplicabilidade (SoA) e Certificação.|
 |**Dependências da Web**|Documentação listando todas as dependências usadas pelo aplicativo/suplemento com as versões em execução atuais.|
 |**Inventário de Software**|Um inventário de software atualizado que inclui todos os softwares usados no ambiente no escopo junto com as versões.|
 |**Inventário de hardware**| Um inventário de hardware atualizado usado pela infraestrutura de suporte. Isso será usado para ajudar na amostragem ao executar a fase de avaliação. Se seu ambiente incluir PaaS, forneça detalhes dos serviços consumidos.|
@@ -197,11 +197,11 @@ As técnicas de coleta de evidências usadas serão determinadas durante o proce
 
 **Atividades de Avaliação**
 
-Os analistas de certificação examinarão as evidências fornecidas para determinar se você atendeu adequadamente aos controles dentro desta especificação Microsoft 365 certificação. 
+Os analistas de certificação examinarão as evidências fornecidas para determinar se você atendeu adequadamente aos controles dentro desta Especificação de Certificação do Microsoft 365. 
 
-Sempre que possível e para reduzir o tempo necessário para concluir a avaliação, qualquer documentação ou toda a documentação detalhada no Envio de Documentação  [Inicial](#initial-document-submission)  deve ser fornecida com antecedência.
+Sempre que possível e para reduzir o tempo necessário para concluir a avaliação, [](#initial-document-submission) toda ou qualquer documentação detalhada no Envio de Documentação Inicial deve ser fornecida com antecedência.
 
-Os analistas de certificação primeiro examinarão as evidências fornecidas do envio inicial da documentação e as informações de atestado do Publisher para identificar linhas apropriadas de consulta, tamanho de amostragem e a necessidade de obter mais evidências, conforme detalhado acima.  Os analistas de certificação analisarão todas as informações coletadas para tirar conclusões sobre como e se você está a atender aos controles dentro desta especificação Microsoft 365 certificação. 
+Os analistas de certificação primeiro examinarão as evidências fornecidas do envio inicial da documentação e das informações de Atestado do Publicador para identificar linhas apropriadas de consulta, tamanho de amostragem e a necessidade de obter mais evidências, conforme detalhado acima.  Os analistas de certificação analisarão todas as informações coletadas para tirar conclusões sobre como e se você está a atender aos controles dentro desta Especificação de Certificação do Microsoft 365. 
 
 ## <a name="app-certification-criteria"></a>Critérios de certificação de aplicativo
 
@@ -211,7 +211,7 @@ Seu aplicativo, a infraestrutura de suporte e a documentação de suporte serão
 1. [**Segurança operacional/implantação segura**](#operational-security)
 1. [**Segurança e privacidade do tratamento de dados**](#data-handling-security-and-privacy)
 
-Cada um desses domínios de segurança inclui controles de chave específicos que abrangem um ou mais requisitos específicos que serão avaliados como parte do processo de avaliação. Para garantir que Microsoft 365 certificação seja inclusiva para desenvolvedores de todos os tamanhos, cada um dos domínios de segurança é avaliado usando um sistema de pontuação para determinar uma pontuação geral de cada um dos domínios. As pontuações para cada um dos controles de certificação Microsoft 365 são alocadas entre 1 (baixo) e 3 (alto) com base no risco percebido de que esse controle não está sendo atendido. Cada um dos domínios de segurança terá uma marca de porcentagem mínima a ser considerada uma passagem. Determinados elementos dessa especificação incluem alguns critérios de falha automática:
+Cada um desses domínios de segurança inclui controles de chave específicos que abrangem um ou mais requisitos específicos que serão avaliados como parte do processo de avaliação. Para garantir que a Certificação do Microsoft 365 seja inclusiva para desenvolvedores de todos os tamanhos, cada um dos domínios de segurança é avaliado usando um sistema de pontuação para determinar uma pontuação geral de cada um dos domínios. As pontuações para cada um dos controles de Certificação do Microsoft 365 são alocadas entre 1 (baixo) e 3 (alto) com base no risco percebido de que esse controle não está sendo atendido. Cada um dos domínios de segurança terá uma marca de porcentagem mínima a ser considerada uma passagem. Determinados elementos dessa especificação incluem alguns critérios de falha automática:
 
 - As permissões de API não estão seguindo o princípio de privilégios mínimos (PoLP).  
 - Nenhum relatório de teste de penetração quando necessário.
@@ -229,7 +229,7 @@ O domínio de segurança do aplicativo se concentra nas três áreas a seguir:
 
 ### <a name="graphapi-permission-validation"></a>Validação de permissão graphAPI
 
-A validação de permissão graphAPI é realizada para validar se o aplicativo/suplemento não solicita permissões muito permissivas. Isso é feito verificando manualmente quais permissões são solicitadas. Os analistas de certificação fará referência cruzada a essas verificações em relação ao envio de atestado do Publisher e avaliarão o nível de acesso que está sendo solicitado para garantir que as práticas de "privilégios mínimos" estejam sendo atendidas. Quando os analistas de certificação acreditam que essas práticas de "privilégios mínimos" não estão sendo atendidas, os analistas de certificação terão uma discussão aberta com você para validar a justificativa comercial para as permissões que estão sendo solicitadas. Todas as discrepâncias em relação Publisher envio de atestado encontrados durante essa revisão também receberão comentários para que seu Publisher atestado possa ser atualizado. 
+A validação de permissão graphAPI é realizada para validar se o aplicativo/suplemento não solicita permissões muito permissivas. Isso é feito verificando manualmente quais permissões são solicitadas. Os analistas de certificação fará referência cruzada a essas verificações em relação ao envio do Atestado do Publicador e avaliarão o nível de acesso que está sendo solicitado para garantir que as práticas de "privilégios mínimos" estejam sendo atendidas. Quando os analistas de certificação acreditam que essas práticas de "privilégios mínimos" não estão sendo atendidas, os analistas de certificação terão uma discussão aberta com você para validar a justificativa comercial para as permissões que estão sendo solicitadas. Todas as discrepâncias em relação ao envio do Atestado do Publicador encontrados durante esta revisão também receberão comentários para que o Atestado do Publicador possa ser atualizado. 
 
 ### <a name="external-connectivity-checks"></a>Verificações de conectividade externa
 
@@ -246,7 +246,7 @@ As atividades de  teste de penetração DEVEM ser realizadas no ambiente de prod
 
 Quando as técnicas são usadas para segmentar os ambientes no escopo de outros ambientes, as atividades de teste de penetração DEVEM validar a eficácia dessas técnicas de segmentação. Isso deve ser detalhado no relatório de teste de penetração. 
 
-Os relatórios de teste de penetração serão revisados para garantir que não haja vulnerabilidades que atendam aos seguintes critérios  **de** falha automática descritos nos controles abaixo.
+Os relatórios de teste de penetração serão revisados para garantir que não haja vulnerabilidades que **** atendam aos seguintes critérios de falha automática descritos nos controles abaixo.
  
 **Requisitos de teste de penetração**
 
@@ -262,11 +262,11 @@ Os relatórios de teste de penetração serão revisados para garantir que não 
 |**Critérios de falha automática:**|**Controls**|
 || Presença de um sistema operacional sem suporte. |
 || Presença de contas administrativas padrão, enumeráveis ou adivinhadas.|
-|| Presença de SQL de injeção.|
+|| Presença de riscos de injeção de SQL.|
 || Presença de script entre sites.|
 || Presença de vulnerabilidades de passagem de diretório (caminho do arquivo).|
 || Presença de vulnerabilidades HTTP, por exemplo, divisão de resposta de cabeçalho, solicitação de falsificação e ataques de Desincronização.|
-|| Presença de divulgação de código-fonte ( [includingLFI](#lfi)).|
+|| Presença de divulgação de código-fonte (incluindo [LFI](#lfi)).|
 || Qualquer pontuação crítica ou alta, conforme definido pelas diretrizes de gerenciamento de patch do CVSS.|
 || Qualquer vulnerabilidade técnica significativa que possa ser prontamente explorada para comprometer uma grande quantidade de UEII ou UOI.|
 
@@ -281,9 +281,9 @@ Os relatórios de teste de penetração serão revisados para garantir que não 
 
 **Requisitos e regras de teste de penetração complementares**
 
-- Para ISVs que atualmente não se envolvem em testes de penetração, os testes de penetração podem ser realizados gratuitamente no Microsoft 365 Certificação. A Microsoft organizará e cobrirá o custo de um teste de penetração por até 12 dias de teste manual. Os custos dos testes de penetração são calculados com base no número de dias necessários para testar o ambiente. Todas as despesas que excederem 12 dias de teste serão de responsabilidade do ISV. 
+- Para ISVs que atualmente não se envolvem em testes de penetração, os testes de penetração podem ser realizados gratuitamente na Certificação do Microsoft 365. A Microsoft organizará e cobrirá o custo de um teste de penetração por até 12 dias de teste manual. Os custos dos testes de penetração são calculados com base no número de dias necessários para testar o ambiente. Todas as despesas que excederem 12 dias de teste serão de responsabilidade do ISV. 
 - Os ISVs serão necessários para enviar evidências e receber aprovação para 50% dos controles no escopo antes da realização do teste de penetração. Para começar, basta preencher o envio inicial do documento e optar por incluir testes de penetração como parte da avaliação. Você será contatado para definir o escopo e agendar o teste de penetração quando tiver concluído 50% dos controles.
-- O relatório emitido depois que o pentest for concluído será fornecido ao ISV depois de concluir a certificação. Esse relatório, juntamente com sua Microsoft 365, pode ser usado para mostrar aos clientes potenciais que seu ambiente é seguro.
+- O relatório emitido depois que o pentest for concluído será fornecido ao ISV depois de concluir a certificação. Esse relatório, juntamente com sua Certificação do Microsoft 365, pode ser usado para mostrar aos clientes potenciais que seu ambiente é seguro.
 - Os ISVs também serão responsáveis por demonstrar que as vulnerabilidades identificadas no teste de penetração foram corrigidas antes da concessão de uma certificação, mas não precisam produzir um relatório limpo.
 
 Depois que um teste de penetração é organizado, o ISV é responsável pelos valores associados à remarcação e cancelamentos da seguinte maneira:
@@ -321,7 +321,7 @@ Esse domínio mede o alinhamento dos processos de infraestrutura e implantação
 |**Gerenciamento de Patches – Classificação de Risco**| Forneça a documentação da política que rege como novas vulnerabilidades de segurança são identificadas e atribuídas a uma pontuação de risco.|
 ||Forneça evidências de como novas vulnerabilidades de segurança são identificadas.|
 ||Forneça evidências demonstrando que todas as vulnerabilidades recebem uma classificação de risco uma vez identificada.|
-|**Patch Managmeent – Aplicação de patch**|Forneça a documentação da política para a aplicação de patch de componentes do sistema no escopo que inclua um período de tempo de aplicação de patch mínimo adequado para vulnerabilidades críticas, de alto e médio risco; e desativação de sistemas operacionais e softwares sem suporte.|
+|**Gerenciamento de patch – aplicação de patch**|Forneça a documentação da política para a aplicação de patch de componentes do sistema no escopo que inclua um período de tempo de aplicação de patch mínimo adequado para vulnerabilidades críticas, de alto e médio risco; e desativação de sistemas operacionais e softwares sem suporte.|
 ||Forneça evidências demonstradas de que todos os componentes do sistema amostrados estão sendo corrigidos.|
 ||Forneça evidências demonstradas de que quaisquer sistemas operacionais e componentes de software sem suporte não são usados no ambiente.|
 |**Verificação de vulnerabilidade**|Forneça os relatórios de verificação de vulnerabilidade de aplicativo Web e infraestrutura trimestral. A verificação precisa ser realizada em relação a todo o volume público (endereços IP e URLs) e intervalos de IP internos.|
@@ -420,19 +420,19 @@ Onde seu aplicativo recupera e armazena dados M365, será necessário implementa
 
 ## <a name="optional-external-compliance-frameworks-review"></a>Revisão opcional de estruturas de conformidade externa
 
-Embora isso não seja necessário, se você estiver em conformidade com ISO 27001, PCI DSS ou SOC2, poderá optar por usar essas certificações para atender a alguns dos controles de certificação Microsoft 365. Os analistas de certificação tentarão alinhar as estruturas de segurança externa existentes à especificação Microsoft 365 certificação. No entanto, se a documentação de suporte não puder fornecer garantia de que os controles de certificação do Microsoft 365 foram avaliados como parte da auditoria/avaliação das estruturas de segurança externas, você precisará fornecer evidências adicionais dos controles que estão em vigor.
+Embora isso não seja necessário, se você estiver em conformidade com ISO 27001, PCI DSS ou SOC2, poderá optar por usar essas certificações para atender a alguns dos controles de Certificação do Microsoft 365. Os analistas de certificação tentarão alinhar as estruturas de segurança externa existentes à especificação de Certificação do Microsoft 365. No entanto, se a documentação de suporte não puder fornecer garantia de que os controles de Certificação do Microsoft 365 foram avaliados como parte da auditoria/avaliação das estruturas de segurança externas, você precisará fornecer evidências adicionais dos controles que estão em vigor.
 
-A documentação deve demonstrar adequadamente que o ambiente no escopo da certificação Microsoft 365 foi incluído no escopo dessas estruturas de segurança externas. A validação dessas estruturas de segurança será atendida aceitando evidências de certificações válidas realizadas por empresas de terceiros externas confiáveis. Essas empresas confiáveis devem ser membros de órgãos de certificação internacionais para programas de conformidade relevantes. Consulte os padrões de certificação e conformidade ISO para ISO 27001 e QSA (Avaliadores de Segurança Qualificados) para PCI DSS.
+A documentação deve demonstrar adequadamente que o ambiente no escopo para a Certificação do Microsoft 365 foi incluído dentro do escopo dessas estruturas de segurança externas. A validação dessas estruturas de segurança será atendida aceitando evidências de certificações válidas realizadas por empresas de terceiros externas confiáveis. Essas empresas confiáveis devem ser membros de órgãos de certificação internacionais para programas de conformidade relevantes. Consulte os padrões de certificação e conformidade ISO para ISO 27001 e QSA (Avaliadores de Segurança Qualificados) para PCI DSS.
 
 A tabela a seguir destaca as estruturas externas e a documentação exigidas pelos analistas de certificação como parte desse processo de validação:
 
 | **Standard** | **Requisitos** |
 | ----- | ----- |
 | **[ISO 27001](#iso-27001)** | Será necessária uma versão pública da **SOA (Declaração** de Aplicabilidade) e uma cópia do certificado ISO 27001 emitido.  O SOA resume sua posição em cada um dos 114 controles de segurança de informações e será usado para identificar se há exclusão de controles que não são detalhados satisfatoriamente no certificado ISO 27001. Se isso não puder ser determinado examinando a versão pública do SOA, o analista poderá precisar de acesso ao SOA completo se ISO 27001 for usado para validar alguns dos controles de Especificação de Certificação do Microsoft 365.  Além de validar o escopo das atividades de avaliação iso 27001, os analistas também confirmarão a validade da empresa de auditoria, conforme descrito acima.|
-|**[PCI DSS](#pci-dss)**| Um documento **válido de Atestado** de Conformidade (AOC) de Nível 1 deve ser fornecido identificando claramente os componentes do aplicativo e do sistema no escopo.  Uma AOC de autoavaliação **não será** aceita como evidência das melhores práticas de segurança de reunião. O AOC será usado para determinar quais dos controles Microsoft 365 especificação de certificação foram avaliados e confirmados como parte da avaliação de PCI DSS.|
-|**[SOC 2](#soc-2)**|O relatório **SOC 2 (Tipo I ou Tipo II)** deve ser atual (emitido nos últimos 15 meses e o período de tempo declarado iniciado nos últimos 27 meses) para ser usado como evidência de conformidade com qualquer um dos controles de avaliação dentro desta Especificação de Certificação Microsoft 365.|
+|**[PCI DSS](#pci-dss)**| Um documento **válido de Atestado** de Conformidade (AOC) de Nível 1 deve ser fornecido identificando claramente os componentes do aplicativo e do sistema no escopo.  Uma AOC de autoavaliação **não será** aceita como evidência das melhores práticas de segurança de reunião. O AOC será usado para determinar quais dos controles de Especificação de Certificação do Microsoft 365 foram avaliados e confirmados como parte da avaliação de PCI DSS.|
+|**[SOC 2](#soc-2)**|O relatório **SOC 2 (Tipo I ou Tipo II)** deve ser atual (emitido nos últimos 15 meses e o período de tempo declarado iniciado nos últimos 27 meses) para ser usado como evidência de conformidade com qualquer um dos controles de avaliação dentro desta Especificação de Certificação do Microsoft 365.|
 
-Se estruturas de segurança externas tiverem sido incluídas no atestado do Publisher, os analistas de certificação precisarão verificar a validade dessas estruturas de conformidade de segurança como parte da avaliação de certificação Microsoft 365.
+Se estruturas de segurança externas tiverem sido incluídas no Atestado do Publicador, os analistas de certificação precisarão verificar a validade dessas estruturas de conformidade de segurança como parte da avaliação de Certificação do Microsoft 365.
 
 |**Framework** | **Considerações adicionais** |
 |-------------- | --------------------|
@@ -441,7 +441,7 @@ Se estruturas de segurança externas tiverem sido incluídas no atestado do Publ
 |SOC 2| [**Apêndice E**](#appendix-e): Coleção de evidências – Deltas para SOC 2.|
 
 > [!NOTE]
-> Embora os padrões/estruturas de segurança externos mencionados acima possam ser enviados como evidência para atender a alguns dos controles de certificação do Microsoft 365, passar a Certificação do Microsoft 365 não significa que você passará com êxito em uma auditoria em relação a esses padrões/estruturas. A especificação Microsoft 365 certificação é apenas um pequeno subconjunto desses padrões/estruturas de segurança que permite que a Microsoft obtenha um nível de garantia em referência à sua postura de segurança.
+> Embora os padrões/estruturas de segurança externos mencionados acima possam ser enviados como evidência para atender a alguns dos controles de Certificação do Microsoft 365, passar na Certificação do Microsoft 365 não significa que você passará com êxito em uma auditoria em relação a esses padrões/estruturas. A Especificação de Certificação do Microsoft 365 é apenas um pequeno subconjunto desses padrões/estruturas de segurança que permite que a Microsoft obtenha um nível de garantia em referência à sua postura de segurança.
 
 
 ### <a name="requirements-to-use-external-compliance-frameworks"></a>Requisitos para usar estruturas de conformidade externas
@@ -509,7 +509,7 @@ Somente primitivos criptográficos e parâmetros são permitidos da seguinte man
 
 &emsp;&#x2713;ECDSA é permitido. A **chave DEVE** ter pelo menos 256 bits. A curva NIST P-256, P-384 ou P-521 deve ser usada.
 
-**Chave Exchange**
+**Troca de chaves**
 
 &emsp;&#x2713; ECDH é permitido. A **chave DEVE** ter pelo menos 256 bits. A curva NIST P-256, P-384 ou P-521 deve ser usada.
 
@@ -519,10 +519,10 @@ Somente primitivos criptográficos e parâmetros são permitidos da seguinte man
 
 ### <a name="evidence-collection--delta-for-iso-27001"></a>Coleção de evidências – Delta para ISO 27001
 
-Quando você já tiver atingido a conformidade com ISO27001, as lacunas (lacunas) do delta a seguir não totalmente cobertas pela ISO 27001 precisarão, no mínimo, ser revisadas como parte desta Certificação Microsoft 365.
+Quando você já tiver atingido a conformidade com ISO27001, as lacunas (lacunas) do delta a seguir não totalmente cobertas pela ISO 27001 precisarão, no mínimo, ser revisadas como parte desta Certificação do Microsoft 365.
 
 > [!NOTE]
-> Como parte da avaliação de certificação do Microsoft 365, o analista de certificação determinará se qualquer um dos controles ISO 27001 mapeados não foi incluído como parte da avaliação iso 27001 e também poderá decidir os controles de exemplo que foram incluídos para fornecer mais garantia. Todos os requisitos ausentes da ISO 27001 precisarão ser incluídos em suas atividades de avaliação Microsoft 365 certificação.
+> Como parte da avaliação de certificação do Microsoft 365, o analista de certificação determinará se algum dos controles ISO 27001 mapeados não foi incluído como parte da avaliação iso 27001 e também pode decidir os controles de exemplo que foram incluídos para fornecer mais garantia. Todos os requisitos ausentes do ISO 27001 precisarão ser incluídos em suas atividades de avaliação de certificação do Microsoft 365.
 
 **Proteção contra malware – Antivírus**
 
@@ -600,7 +600,7 @@ Crédito adicional será fornecido se um WAF for implantado para ajudar a proteg
 
 &#x2713; ataques de script entre sites.
 
-&#x2713; SQL de injeção.
+&#x2713; ataques de injeção de SQL.
 
 &#x2713; ataques de fixação de sessão.
 
@@ -702,10 +702,10 @@ Como as auditorias iso 27001 não avaliam especificamente alguns elementos de pr
 
 ### <a name="evidence-collection--deltas-for-pci-dss"></a>Coleta de evidências – Deltas para PCI DSS
 
-Quando você já tiver atingido a conformidade com PCI DSS, as lacunas (lacunas) do delta a seguir não totalmente cobertas pelo PCI DSS precisarão, no mínimo, ser revisadas como parte desta certificação Microsoft 365.
+Quando você já tiver atingido a conformidade com PCI DSS, as lacunas (lacunas) do delta a seguir não totalmente cobertas pelo PCI DSS precisarão, no mínimo, ser revisadas como parte dessa Certificação do Microsoft 365.
 
 > [!NOTE]
-> Como parte da avaliação de certificação do Microsoft 365, o analista de certificação determinará se qualquer um dos controles PCI DSS mapeados não foi incluído como parte da avaliação de PCI DSS e também poderá decidir os controles de exemplo que foram considerados incluídos para fornecer mais garantia. Todos os requisitos ausentes do PCI DSS precisarão ser incluídos nas atividades de avaliação Microsoft 365 certificação.
+> Como parte da avaliação de Certificação do Microsoft 365, o analista de certificação determinará se qualquer um dos controles PCI DSS mapeados não foi incluído como parte da avaliação de PCI DSS e também poderá decidir os controles de exemplo que foram considerados incluídos para fornecer mais garantia. Todos os requisitos ausentes do PCI DSS precisarão ser incluídos nas atividades de avaliação de certificação do Microsoft 365.
 
 **Proteção contra malware – Controle de Aplicativos**
 
@@ -761,7 +761,7 @@ Um crédito adicional será fornecido se um waf (Firewall de Aplicativo Web) for
 
 &#x2713; ataques de script entre sites.
 
-&#x2713; SQL de injeção.
+&#x2713; ataques de injeção de SQL.
 
 &#x2713; ataques de fixação de sessão.
 
@@ -829,10 +829,10 @@ Como as auditorias de PCI DSS não avaliam especificamente alguns elementos de p
 
 ### <a name="evidence-collection---deltas-for-soc-2"></a>Coleção de evidências – Deltas para SOC 2
 
-Quando você já tiver atingido a conformidade do SOC 2, as lacunas (lacunas) do delta a seguir não totalmente cobertas pelo SOC 2 precisarão ser revisadas como parte desta certificação Microsoft 365.
+Quando você já tiver atingido a conformidade do SOC 2, as lacunas (lacunas) do delta a seguir não totalmente cobertas pelo SOC 2 precisarão ser revisadas como parte desta Certificação do Microsoft 365.
 
 > [!NOTE]
-> Como parte da avaliação de certificação do Microsoft 365, o analista de certificação determinará se qualquer um dos controles SOC 2 mapeados não foi incluído como parte da avaliação do SOC 2 e também poderá decidir os controles de exemplo que foram incluídos para fornecer mais garantia. Todos os requisitos ausentes da avaliação do SOC 2 precisarão ser incluídos como parte das atividades de avaliação Microsoft 365 certificação.
+> Como parte da avaliação de certificação do Microsoft 365, o analista de certificação determinará se qualquer um dos controles SOC 2 mapeados não foi incluído como parte da avaliação do SOC 2 e também poderá decidir os controles de exemplo que foram considerados incluídos para fornecer mais garantia. Todos os requisitos ausentes da avaliação do SOC 2 precisarão ser incluídos como parte das atividades de avaliação de certificação do Microsoft 365.
 
 **Proteção contra malware – Controle de Aplicativos**
 
@@ -884,7 +884,7 @@ Um crédito adicional será fornecido se um WAF (Firewall de Aplicativo Web) ou 
 
 &emsp;&#x2713; ataques de script entre sites.
 
-&emsp;&#x2713; SQL injeção de dados.
+&emsp;&#x2713; ataques de injeção de SQL.
 
 &emsp;&#x2713; ataques de fixação de sessão.
 
@@ -998,24 +998,24 @@ Como as auditorias soC2 não avaliam especificamente alguns elementos de process
 
 ### <a name="hosting-deployment-types"></a>Tipos de implantação de hospedagem
 
-A Microsoft reconhece que você implantará aplicativos e armazenará código de aplicativo/suplemento em diferentes ambientes de hospedagem. As responsabilidades gerais de alguns dos controles de segurança dentro do Microsoft 365 certificação dependerão do ambiente de hospedagem que está sendo usado. O Apêndice F examina os tipos de implantação comuns e os mapeia em relação aos controles de segurança que são avaliados como parte do processo de avaliação. Os seguintes tipos de implantação de hospedagem foram identificados:
+A Microsoft reconhece que você implantará aplicativos e armazenará código de aplicativo/suplemento em diferentes ambientes de hospedagem. As responsabilidades gerais de alguns dos controles de segurança na Certificação do Microsoft 365 dependerão do ambiente de hospedagem que está sendo usado. O Apêndice F examina os tipos de implantação comuns e os mapeia em relação aos controles de segurança que são avaliados como parte do processo de avaliação. Os seguintes tipos de implantação de hospedagem foram identificados:
 
 |Tipos de hospedagem  |Descrição  |
 |-----|------|
 |**ISV hospedado**|Os tipos hospedados pelo ISV podem ser definidos como onde você é responsável pela infraestrutura usada para dar suporte ao ambiente de aplicativo/suplemento. Isso pode estar fisicamente localizado em seus próprios data centers ou data centers de terceiros com um serviço de colocalidade. Por fim, você tem controle administrativo e de propriedade total sobre a infraestrutura de suporte e o ambiente operacional.|
 |**IaaS (infraestrutura como serviço)** (https://azure.microsoft.com/overview/what-is-iaas/)|A infraestrutura como serviço é um serviço fornecido pelo qual a infraestrutura de suporte físico é gerenciada e mantida em seu nome pelo CSP (provedor de serviços de nuvem). Normalmente, a rede, o armazenamento, os servidores físicos e a infraestrutura de virtualização são de responsabilidade do CSP. O sistema operacional, o middleware, o runtime, os dados e os aplicativos são as responsabilidades de você. Os recursos de firewall também seriam gerenciados e mantidos por terceiros, no entanto, a manutenção da base de regras de firewall geralmente ainda seria responsabilidade dos consumidores.|
-|**Plataforma como serviço/PaaS (sem servidor)** (https://azure.microsoft.com/overview/what-is-paas/)| Com a Plataforma como Serviço, você é provisionado com uma plataforma gerenciada apresentando um serviço que pode ser consumido. Você não precisa executar funções sysadmin, pois o sistema operacional e a infraestrutura de suporte são gerenciados pelo CSP. Normalmente, isso seria usado quando as organizações não querem se preocupar com a apresentação de um serviço Web e, em vez disso, podem se concentrar na criação do código-fonte do aplicativo Web e na publicação do aplicativo Web nos serviços Web gerenciados na nuvem.  Outro exemplo pode ser um serviço de banco de dados em que a conectividade é fornecida a um banco de dados, no entanto, a infraestrutura de suporte e o aplicativo de banco de dados são abstraídos do consumidor.   **Observação: Sem servidor e PaaS são semelhantes, portanto, para a finalidade do tipo de implantação de hospedagem de Microsoft 365 de certificação sem servidor e PasS são considerados iguais**|
-|**Hospedado híbrido**|Com o tipo hospedado híbrido, você pode utilizar vários tipos hospedados para dar suporte a várias partes do ambiente de suporte. Esse pode ser mais o caso em que aplicativos/suplementos são utilizados em várias pilhas M365. Embora a Certificação do Microsoft 365 seja compatível com o desenvolvimento de aplicativos/complementos em vários serviços M365, uma avaliação de todo o ambiente de suporte (entre aplicativos/suplementos) precisaria ser avaliada de acordo com cada um dos "Mapeamentos de Tipo Hospedado" aplicáveis. Ocasionalmente, você pode utilizar diferentes tipos hospedados para um único suplemento, onde isso está sendo executado, a aplicabilidade dos critérios ainda precisará seguir os critérios "Mapeamentos de Tipo Hospedado" entre os vários tipos hospedados.|
-|**Hospedagem compartilhada**|A hospedagem compartilhada é o local em que você hospeda o ambiente em uma plataforma compartilhada por vários consumidores individuais. A Microsoft 365 especificação de certificação não foi gravada para isso devido à adoção da nuvem, a hospedagem compartilhada não é comum. Se você acredita que isso está sendo usado, entre em contato com a Microsoft, pois os requisitos adicionais precisarão ser criados para contabilitar os riscos adicionais sob esse tipo de hospedagem.|
+|**Plataforma como serviço/PaaS (sem servidor)** (https://azure.microsoft.com/overview/what-is-paas/)| Com a Plataforma como Serviço, você é provisionado com uma plataforma gerenciada apresentando um serviço que pode ser consumido. Você não precisa executar funções sysadmin, pois o sistema operacional e a infraestrutura de suporte são gerenciados pelo CSP. Normalmente, isso seria usado quando as organizações não querem se preocupar com a apresentação de um serviço Web e, em vez disso, podem se concentrar na criação do código-fonte do aplicativo Web e na publicação do aplicativo Web nos serviços Web gerenciados na nuvem.  Outro exemplo pode ser um serviço de banco de dados em que a conectividade é fornecida a um banco de dados, no entanto, a infraestrutura de suporte e o aplicativo de banco de dados são abstraídos do consumidor.   **Observação: Sem servidor e PaaS são semelhantes, portanto, para a finalidade do Tipo de Implantação de Hospedagem de Certificação do Microsoft 365, o Tipo de Implantação sem Servidor e o PasS são considerados iguais**|
+|**Hospedado híbrido**|Com o tipo hospedado híbrido, você pode utilizar vários tipos hospedados para dar suporte a várias partes do ambiente de suporte. Esse pode ser mais o caso em que aplicativos/suplementos são utilizados em várias pilhas M365. Embora a Certificação do Microsoft 365 seja compatível com o local em que aplicativos/complementos em vários serviços do M365 são desenvolvidos, uma avaliação de todo o ambiente de suporte (entre aplicativos/suplementos) precisaria ser avaliada de acordo com cada um dos "Mapeamentos de Tipo Hospedado" aplicáveis. Ocasionalmente, você pode utilizar diferentes tipos hospedados para um único suplemento, onde isso está sendo executado, a aplicabilidade dos critérios ainda precisará seguir os critérios "Mapeamentos de Tipo Hospedado" entre os vários tipos hospedados.|
+|**Hospedagem compartilhada**|A hospedagem compartilhada é o local em que você hospeda o ambiente em uma plataforma compartilhada por vários consumidores individuais. A Especificação de Certificação do Microsoft 365 não foi gravada para isso devido à adoção da nuvem, a hospedagem compartilhada não é comum. Se você acredita que isso está sendo usado, entre em contato com a Microsoft, pois os requisitos adicionais precisarão ser criados para contabilitar os riscos adicionais sob esse tipo de hospedagem.|
 
 
 ## <a name="appendix-g"></a>Apêndice G
 
 ## <a name="learn-more"></a>Saiba mais
 
-[Microsoft 365 do Programa de Conformidade de Aplicativos](~/overview.md)  
-[O que é Microsoft 365 aplicativo Publisher atestado?](~/docs/attestation.md)  
-[O que é Microsoft 365 certificação?](~/docs/enterprise-app-certification-guide.md)
+[Visão geral do Programa de Conformidade de Aplicativos do Microsoft 365](~/overview.md)  
+[O que é o Atestado do Editor de Aplicativos do Microsoft 365?](~/docs/attestation.md)  
+[O que é a Certificação do Microsoft 365?](~/docs/enterprise-app-certification-guide.md)
 
 ## <a name="glossary"></a>Glossário
 
@@ -1094,7 +1094,7 @@ O NIST (National *Institute of Standards* ), uma agência não regulatória do D
 
 ### <a name="owasp"></a>OWASP
 
-*Abra o aplicativo Web Security Project*.
+*Abra o Projeto de Segurança de Aplicativo Web*.
 
 ### <a name="pci-dss"></a>PCI DSS
 
@@ -1108,7 +1108,7 @@ O NIST (National *Institute of Standards* ), uma agência não regulatória do D
 
 *A Linguagem de Marcação de Declaração* de Segurança é um padrão aberto para trocar dados de autenticação e autorização entre o usuário, o provedor de identidade e o provedor de serviços.
 
-### <a name="sensitive-data"></a>Dados Confidenciais
+### <a name="sensitive-data"></a>Dados confidenciais
 
 * Dados de controle de acesso.
 * Conteúdo do cliente.
@@ -1122,7 +1122,7 @@ O NIST (National *Institute of Standards* ), uma agência não regulatória do D
 * Realocação do ambiente de hospedagem.
 * Principais atualizações para a infraestrutura de suporte; por exemplo, implementação de um novo firewall, atualizações principais para serviços voltados para a frente etc.
 * Adição de funcionalidades e /ou extensões ao seu aplicativo.
-* Atualizações em seu aplicativo que capturam dados confidenciais adicionais.
+* Atualizações seu aplicativo que captura dados confidenciais adicionais.
 * Alterações nos fluxos de dados ou nos modelos de autorização do aplicativo
 * Adição de pontos de extremidade de API ou funções de ponto de extremidade de API.
 
