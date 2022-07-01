@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 680305771fde79df454820ea087574aad7586dc8
-ms.sourcegitcommit: cede428f2a23bd3060f5506f270b40b327b02769
+ms.openlocfilehash: fb5fad9efeb1856f2d827161648f2d3a24f93f8c
+ms.sourcegitcommit: 2ae239376c807fa9223fc7e18daa1feed6e826aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66542340"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66564547"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -26,6 +26,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [365-QA](./advantive-365-qa.md) | Advantive | **✓** |  |
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  |
 | [8x8](./8x8-inc.md) | 8x8, Inc | **✓** |  |
+| [Abi](./beroe-abi.md) | Beroe | **✓** |  |
 | [absentify](./braincore-solutions-absentify.md) | Soluções BrainCore | **✓** |  |
 | [ACV](./tangible-it-mexico-acv.md) | Tangible IT Mexico | **✓** |  |
 | [Adobe Acrobat](./adobe-acrobat.md) | Adobe | **✓** |  |
@@ -184,6 +185,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Indicações de Funcionários](./recruitday-inc-employee-referrals.md) | Recruitday Inc. | **✓** |  |
 | [Gerenciamento da Treinamento de Funcionários](./sharepointsapiens-employee-training-management.md) | SharePoint-Sapiens | **✓** |  |
 | [Empuls](./empuls.md) | Empuls | **✓** |  |
+| [Dicionário EN-UA](./skyline-consulatnts-en-ua-dictionary.md) | Consultores da Skyline | **✓** |  |
 | [Conector ENA SmartUC](./ena-smartuc-connector.md) | ENA | **✓** |  |
 | [Enboarder](./enboarder.md) | Enboarder | **✓** |  |
 | [Engagedly](./engagedly-inc.md) | Engagedly Inc | **✓** |  |
@@ -275,6 +277,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Jira Integration Plus](./nextup-llc-jira-integration-plus.md) | Próximo, LLC | **✓** |  |
 | [JobPts](./semos-cloud-soultions-jobpts.md) | Semos Nuvem Soultions | **✓** |  |
 | [Joye](./joye-pte-ltd.md) | Joye Pte Ltd | **✓** |  |
+| [JustLogin](./justlogin.md) | JustLogin | **✓** |  |
 | [Kakeai](./kakeai.md) | KAKEAI | **✓** |  |
 | [Kami](./kami.md) | Kami | **✓** |  |
 | [Ferramenta Kanban](./shore-labs-kanban-tool.md) | Laboratórios de Costa | **✓** |  |
@@ -400,7 +403,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Priority Matrix HIPAA](./appfluence-inc-priority-matrix-hipaa.md) | Appfluence Inc | **✓** |  |
 | [PrivyNow](./pt-privy-identitas-digital-privynow.md) | PT Privy Identitas Digital | **✓** |  |
 | [Rua do Processo](./process-street.md) | Rua do Processo | **✓** |  |
-| [Proconnect para o Sitecore](./subramanian-ramanathan-proconnect-for-sitecore.md) | Subramanian Ramanathan | **✓** |  |
+| [Proconnect para o Sitecore](./subramanian-ramanathan-proconnect-for-sitecore.md) | Subramanian Ramanathan | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Insights do Projeto](./project-insight.md) | Insights do Projeto | **✓** |  |
 | [Projeto Migrator](./fluentpro-software-corporation-project-migrator.md) | FluentPro Software Corporação | **✓** |  |
 | [Projectplace](./planview-inc-projectplace.md) | Planview, Inc. | **✓** |  |
@@ -459,6 +462,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [SmartPods](./discourse-analytics-smartpods.md) | Análise do Discurso | **✓** |  |
 | [Smartsheet](./smartsheet.md) | Smartsheet | **✓** |  |
 | [SmartWork](./smartwork-of-intumit.md) | SmartWork of Intumit | **✓** |  |
+| [Smy](./supermonday-smy.md) | Supermonday | **✓** |  |
 | [Sobol](./consensys-ags-sobol.md) | ConsenSys AG&#8217;s Sobol | **✓** |  |
 | [Sociável](./sociabble.md) | Sociável | **✓** |  |
 | [Advocacia Social](./oktopost-social-advocacy.md) | Oktopost | **✓** |  |
@@ -520,6 +524,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Tíquetes como serviço](./kitameraki-limited-ticketing-as-a-service.md) | kitameraki limitado | **✓** |  |
 | [Tigim Analytics](./hippo-ed-tech-ltd-tigim-analytics.md) | Hippo Ed Tech LTD | **✓** |  |
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
+| [Agente Virtual Tikit](./cireson-tikit-virtual-agent.md) | Cireson | **✓** |  |
 | [tiLly](./tilly-group-limited.md) | Tilly Group Limited | **✓** |  |
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost - Controle de tempo](./timeghostio-timeghost-time-tracking.md) | timeghost.io | **✓** |  |
