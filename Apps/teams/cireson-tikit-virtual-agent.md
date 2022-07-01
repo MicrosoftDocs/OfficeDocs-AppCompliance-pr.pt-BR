@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para MindManager by Corel
+title: Informações do aplicativo para o Tikit Virtual Agent da Cireson
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,43 +7,43 @@ ms.date: 06/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o MindManager, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para o Tikit Virtual Agent, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b57ba8d0236b2e8bcccfc28139aaa289d23a9dcb
+ms.openlocfilehash: e545e92bffd3f6ca5fc7bb4ef8c5f3c1eb75ad72
 ms.sourcegitcommit: 2ae239376c807fa9223fc7e18daa1feed6e826aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/30/2022
-ms.locfileid: "66564517"
+ms.locfileid: "66564560"
 ---
-# <a name="mindmanager"></a>MindManager
+# <a name="tikit-virtual-agent"></a>Tikit Virtual Agent
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 6 de junho de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 4 de maio de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/cebe4a59-b076-47f3-a7bf-79148daf82f7" target="_blank">Exibir na loja do Teams</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002261" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/55f323bf-3622-4624-b3b5-0582d8be4ad5" target="_blank">Exibir na loja do Teams</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200004288" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Corel para a Microsoft:
+Informações fornecidas pelo Cireson à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | MindManager |
-| ID | WA200002261 |
+| Nome do aplicativo | Tikit Virtual Agent |
+| ID | WA200004288 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa parceira | Corel |
-| Site da empresa | [https://www.mindmanager.com](https://www.mindmanager.com) |
-| Termos de Uso do Aplicativo | [https://www.mindjet.com/go/mmcloudterms](https://www.mindjet.com/go/mmcloudterms) |
-| Funcionalidade principal do aplicativo | Co-edite mapas, gerencie painéis de equipe, crie fluxogramas e mantenha os projetos em exibição. |
-| Localização da sede da empresa | Canadá |
-| Página de informações do aplicativo | |
+| Nome da empresa parceira | Cireson |
+| Site da empresa | [https://tikit.ai](https://tikit.ai) |
+| Termos de Uso do Aplicativo | [https://tikit.ai/terms-service/](https://tikit.ai/terms-service/) |
+| Funcionalidade principal do aplicativo | Tikit&#8217;Virtual Agent: seus usuários finais&#8217; solução para todas as suas necessidades de tíquete de suporte |
+| Localização da sede da empresa | Estados Unidos da América |
+| Página de informações do aplicativo | [https://tikit.ai](https://tikit.ai) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,12 +53,21 @@ Informações fornecidas pelo Corel para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
-Essas informações foram fornecidas pelo Corel sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados que o aplicativo coleta.
+Essas informações foram fornecidas pelo Cireson sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
+| Quais dados são processados pelo seu aplicativo? | Perfil do Usuário e Dados de Email do Usuário |
+| O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
+| Quais dados são armazenados em seus bancos de dados? | Perfil do Usuário (informações do Azure Active Directory – nome, título etc.) |
+| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
+| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Menos de 30 dias |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Sim |
+| Você tem contratos de compartilhamento de dados em vigor com qualquer serviço de terceiros com o qual você compartilha dados de clientes da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -70,21 +79,21 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Você executa testes de penetração anuais no aplicativo? | Sim |
+| Você executa testes de penetração anuais no aplicativo? | Não |
 | O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
 | Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | ApplicationControls |
 | Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Sim |
 | Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Sim |
 | Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? | Sim |
 | Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
-| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? | Sim |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? | Não |
 | Você tem um firewall instalado no limite de rede externa? | Sim |
 | Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
 | Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
 | As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
-| Autenticação Multifator (MFA) habilitada para: | CodeRepositories |
+| Autenticação Multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
-| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | N/D |
 | Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
 | Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
@@ -103,12 +112,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | N/D |
 | O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Sim |
-| Qual certificação do SOC 2 você obteve? | type2 |
-| Data de certificação SOC2 mais recente | 2020-08-31 |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Sim |
-| Data de certificação SOC3 mais recente | 2021-10-15 |
-| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
+| Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | Não |
 | O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Não |
 | O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | N/D |
 | O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Não |
@@ -117,7 +123,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | N/D |
 | O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
 | O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | N/D |
-| O aplicativo está em conformidade com o NIST 800-171? | Sim |
+| O aplicativo está em conformidade com o NIST 800-171? | N/D |
 | O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -130,7 +136,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
 | O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Sim |
-| URL da Política de Privacidade | https://www.corel.com/en/corel-privacy-policy/ |
+| URL da Política de Privacidade | https://www.tikit.ai/privacy-statement/ |
 | O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
 | O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
 | Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
@@ -138,7 +144,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
 | O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Sim |
 | O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
-| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
+| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -150,23 +156,26 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
 | Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Não |
-| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? | SDK javaScript do MS Teams para autenticação |
-| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
+| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Sim |
+| Seu aplicativo dá suporte a políticas de Acesso Condicional? | Sim |
+| Listar os tipos de políticas com suporte | Autenticação multifator, permitindo que Intune dispositivos registrados acessem serviços específicos, restringindo locais de usuário e intervalo de IP |
 | Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
 | Seu aplicativo armazena credenciais no código? | Não |
-| Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
+| Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Sim |
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
 >|   **Permissão do Graph**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMessage.Send | Delegada | O aplicativo (MindManager) delega permissões ao usuário para executar operações de arquivo.   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| Chat.Send | Delegada | O aplicativo (MindManager) delega permissões ao usuário para executar operações de arquivo.   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| Files.ReadWrite | Delegada | O aplicativo (MindManager) delega permissões ao usuário para executar operações de arquivo.   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| Sites.ReadWrite.All | Delegada | O aplicativo (MindManager) delega permissões ao usuário para executar operações de arquivo.   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| User.Read | Delegada | O aplicativo (MindManager) delega permissões ao usuário para executar operações de arquivo.   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| offline_access | Delegada | O aplicativo (MindManager) delega permissões ao usuário para executar operações de arquivo.   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
+>| Directory.AccessAsUser.All | Delegada | Usado para ler atribuições de função para RBAC dentro do aplicativo | [55f323bf-3622-4624-b3b5-0582d8be4ad5](../azure/55f323bf-3622-4624-b3b5-0582d8be4ad5.md) |
+>| Directory.Read.All | Delegada | Usado para ler atribuições de função para RBAC dentro do aplicativo | [55f323bf-3622-4624-b3b5-0582d8be4ad5](../azure/55f323bf-3622-4624-b3b5-0582d8be4ad5.md) |
+>| Group.Read.All | Ambas | Usado para ler atribuições de função para RBAC dentro do aplicativo | [55f323bf-3622-4624-b3b5-0582d8be4ad5](../azure/55f323bf-3622-4624-b3b5-0582d8be4ad5.md) |
+>| User.Read | Delegada | Logon | [55f323bf-3622-4624-b3b5-0582d8be4ad5](../azure/55f323bf-3622-4624-b3b5-0582d8be4ad5.md) |
+>| User.Read.All | aplicação | Logon | [55f323bf-3622-4624-b3b5-0582d8be4ad5](../azure/55f323bf-3622-4624-b3b5-0582d8be4ad5.md) |
+>| User.ReadBasic.All | Delegada | Logon | [55f323bf-3622-4624-b3b5-0582d8be4ad5](../azure/55f323bf-3622-4624-b3b5-0582d8be4ad5.md) |
+>| email | Delegada | Permissões de logon | [55f323bf-3622-4624-b3b5-0582d8be4ad5](../azure/55f323bf-3622-4624-b3b5-0582d8be4ad5.md) |
+>| openid | Delegada | Logon | [55f323bf-3622-4624-b3b5-0582d8be4ad5](../azure/55f323bf-3622-4624-b3b5-0582d8be4ad5.md) |
+>| perfil | Delegada | Login | [55f323bf-3622-4624-b3b5-0582d8be4ad5](../azure/55f323bf-3622-4624-b3b5-0582d8be4ad5.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para MindManager by Corel
+title: Informações do aplicativo para a Abi by Beroe
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,43 +7,43 @@ ms.date: 06/29/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para o MindManager, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para a Abi, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b57ba8d0236b2e8bcccfc28139aaa289d23a9dcb
+ms.openlocfilehash: 040164e46e94e7fa43f38f73361c049c46acb373
 ms.sourcegitcommit: 2ae239376c807fa9223fc7e18daa1feed6e826aa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/30/2022
-ms.locfileid: "66564517"
+ms.locfileid: "66564561"
 ---
-# <a name="mindmanager"></a>MindManager
+# <a name="abi"></a>Abi
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 6 de junho de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 17 de março de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/cebe4a59-b076-47f3-a7bf-79148daf82f7" target="_blank">Exibir na loja do Teams</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002261" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/55560ea0-ae82-48b2-b71e-a45356f56bb1" target="_blank">Exibir na loja do Teams</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003862" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Corel para a Microsoft:
+Informações fornecidas pelo Beroe à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | MindManager |
-| ID | WA200002261 |
+| Nome do aplicativo | Abi |
+| ID | WA200003862 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa parceira | Corel |
-| Site da empresa | [https://www.mindmanager.com](https://www.mindmanager.com) |
-| Termos de Uso do Aplicativo | [https://www.mindjet.com/go/mmcloudterms](https://www.mindjet.com/go/mmcloudterms) |
-| Funcionalidade principal do aplicativo | Co-edite mapas, gerencie painéis de equipe, crie fluxogramas e mantenha os projetos em exibição. |
-| Localização da sede da empresa | Canadá |
-| Página de informações do aplicativo | |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
+| Nome da empresa parceira | Beroe |
+| Site da empresa | [https://www.beroeinc.com](https://www.beroeinc.com) |
+| Termos de Uso do Aplicativo | [https://www.beroeinc.com/terms/](https://www.beroeinc.com/terms/) |
+| Funcionalidade principal do aplicativo | Abi &#8211; seu assistente de aquisição digital da plataforma de IA |
+| Localização da sede da empresa | Índia |
+| Página de informações do aplicativo | [https://www.beroeinc.com/beroe-live-ai](https://www.beroeinc.com/beroe-live-ai) |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws, Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,12 +53,21 @@ Informações fornecidas pelo Corel para a Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
-Essas informações foram fornecidas pelo Corel sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados que o aplicativo coleta.
+Essas informações foram fornecidas pelo Beroe sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Não |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
+| Quais dados são processados pelo seu aplicativo? | Nome, ID do email de trabalho &amp; de sobrenome |
+| O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
+| Quais dados são armazenados em seus bancos de dados? | Nome, sobrenome, ID da conversa da ID de &amp; email de trabalho |
+| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Irlanda |
+| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Não mantido |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Sim |
+| Você tem contratos de compartilhamento de dados em vigor com qualquer serviço de terceiros com o qual você compartilha dados de clientes da Microsoft? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -82,7 +91,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
 | Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
 | As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
-| Autenticação Multifator (MFA) habilitada para: | CodeRepositories |
+| Autenticação Multifator (MFA) habilitada para: | Credential, DNSManagement |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
 | Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
 | Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
@@ -103,13 +112,10 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | N/D |
 | O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Sim |
-| Qual certificação do SOC 2 você obteve? | type2 |
-| Data de certificação SOC2 mais recente | 2020-08-31 |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Sim |
-| Data de certificação SOC3 mais recente | 2021-10-15 |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
 | Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
-| O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Não |
+| O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Sim |
 | O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | N/D |
 | O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Não |
 | O aplicativo está em conformidade com a ISO 27002 (Organização Internacional para Padronização)? | Não |
@@ -117,7 +123,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | N/D |
 | O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
 | O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | N/D |
-| O aplicativo está em conformidade com o NIST 800-171? | Sim |
+| O aplicativo está em conformidade com o NIST 800-171? | N/D |
 | O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -130,7 +136,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
 | O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Sim |
-| URL da Política de Privacidade | https://www.corel.com/en/corel-privacy-policy/ |
+| URL da Política de Privacidade | https://www.beroeinc.com/privacy-policy/ |
 | O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
 | O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
 | Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
@@ -150,23 +156,13 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
 | Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Não |
-| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? | SDK javaScript do MS Teams para autenticação |
+| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | N/D |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
 | Seu aplicativo armazena credenciais no código? | Não |
 | Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
-#### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
-
->|   **Permissão do Graph**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
->|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMessage.Send | Delegada | O aplicativo (MindManager) delega permissões ao usuário para executar operações de arquivo.   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| Chat.Send | Delegada | O aplicativo (MindManager) delega permissões ao usuário para executar operações de arquivo.   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| Files.ReadWrite | Delegada | O aplicativo (MindManager) delega permissões ao usuário para executar operações de arquivo.   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| Sites.ReadWrite.All | Delegada | O aplicativo (MindManager) delega permissões ao usuário para executar operações de arquivo.   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| User.Read | Delegada | O aplicativo (MindManager) delega permissões ao usuário para executar operações de arquivo.   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
->| offline_access | Delegada | O aplicativo (MindManager) delega permissões ao usuário para executar operações de arquivo.   | [51e2b67d-9854-446a-8da1-cdd89ef0b987](../azure/51e2b67d-9854-446a-8da1-cdd89ef0b987.md) |
+>Este aplicativo não usa o Microsoft Graph.
 
 >Este aplicativo não tem APIs adicionais.
 
