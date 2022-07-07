@@ -3,17 +3,17 @@ title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/06/2022
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 927a0c52af78e2e83c0160789e9403db603ebe7d
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: 57ab09069315b3193da58102005b0d9b5220cf37
+ms.sourcegitcommit: b752351d112ecc2ea7f539d200e6638a6a3034e5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66648181"
+ms.lasthandoff: 07/07/2022
+ms.locfileid: "66679676"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -38,7 +38,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Produtor de IA](./livearena-technologies-ab-ai-producer.md) | LiveArena Technologies AB | **✓** |  |
 | [Aimful](./aimful.md) | Aimful | **✓** |  |
 | [interpretação do Akouo](./akouo-technologies-inc-interpretation.md) | Akouo Technologies Inc. | **✓** |  |
-| [Aprovação da Alevate AP ](./serrala-group-gmbh-alevate-ap-approval.md) | Serrala Group GmbH | **✓** |  |
+| [Alevate AP Approval](./serrala-group-gmbh-alevate-ap-approval.md) | Serrala Group GmbH | **✓** |  |
 | [ Assistente de Autoatendimento de liga ](./alloy-software-self-service-assistant.md) | Software de Liga | **✓** |  |
 | [Alvao Service Desk](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  |
 | [Âmbar](./infeedo-amber.md) | inFeedo | **✓** |  |
@@ -100,7 +100,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Calendário Pro](./witivio-calendar-pro.md) | Witivio | **✓** |  |
 | [Canário](./yattee-inc-canary.md) | YATTEE Inc. | **✓** |  |
 | [Audiência virtual do Casedoc](./casedoc-virtual-hearing.md) | Casedoc | **✓** |  |
-| [ Experiência da Cegid HR ](./cegid-hr-experience.md) | Cegid | **✓** |  |
+| [Cegid HR Experience](./cegid-hr-experience.md) | Cegid | **✓** |  |
 | [Centrical](./biz-effective-centrical.md) | Biz-Effective | **✓** |  |
 | [check.it](./cloud-cover-it-checkit.md) | TI de Cobertura de Nuvem | **✓** |  |
 | [Controle de Tempo de Cronoscópio](./chrono-innovation-chronoscope-time-tracking.md) | Cronograma de Inovação | **✓** |  |
@@ -141,7 +141,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Cultr Conexão](./cultr-connect.md) | Cultr | **✓** |  |
 | [Amplificador de Cultura](./culture-amp.md) | Amplificador de Cultura | **✓** |  |
 | [Cyberday](./digiturvamalli-cyberday.md) | Digiturvamalli | **✓** |  |
-| [Central  de atendimento da CyCX](./cytrack-cycxcontact-centre.md) | CyTrack | **✓** |  |
+| [CyCX  Contact Center](./cytrack-cycxcontact-centre.md) | CyTrack | **✓** |  |
 | [CyDesk](./cytrack-cydesk.md) | CyTrack | **✓** |  |
 | [CyRecord](./cytrack-cyrecord.md) | CyTrack | **✓** |  |
 | [CyReport](./cytrack-cyreport.md) | CyTrack | **✓** |  |
@@ -154,7 +154,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Deeplink Chatbot](./deeplink-sa-chatbot.md) | Deeplink SA | **✓** |  |
 | [Degreed](./degreed.md) | Degreed | **✓** |  |
 | [Atraso de Envio](./appfluence-inc-delayed-send.md) | Appfluence Inc | **✓** |  |
-| [deliberar](./dontknow-internet-sl-delibera.md) | Dontknow Internet S.L. | **✓** |  |
+| [delibera](./dontknow-internet-sl-delibera.md) | Dontknow Internet S.L. | **✓** |  |
 | [DELTAoverC](./deltaoverc.md) | DELTAoverC | **✓** |  |
 | [Reservas de mesa](./tns-consulting-aps-desk-reservations.md) | TNS Consulting ApS | **✓** |  |
 | [Desk365](./kani-technologies-inc-desk365.md) | Kani Technologies Inc | **✓** |  |
@@ -200,7 +200,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [enmacc](./enmacc.md) | enmacc | **✓** |  |
 | [Expresso](./solutions2share-gmbh-espresso.md) | Solutions2Share GmbH | **✓** |  |
 | [eTeamer](./eteamer.md) | &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
-| [Gerente da Eusoft Rdp](./eusoft-srl-rdp-manager.md) | Eusoft S.r.l. | **✓** |  |
+| [Eusoft Rdp Manager](./eusoft-srl-rdp-manager.md) | Eusoft S.r.l. | **✓** |  |
 | [Eva](./outthink-ltd-eva.md) | OutThink Ltd | **✓** |  |
 | [Gerenciamento de Eventos](./sharepointsapiens-event-management.md) | SharePoint-Sapiens | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
@@ -278,7 +278,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [imDocShare](./kl-software-technologies-imdocshare.md) | KL Software Technologies | **✓** |  |
 | [Em caso de crise](./rockdove-solutions-inc-in-case-of-crisis.md) | RockDove Solutions, Inc. | **✓** |  |
 | [InCaseIT](./pilotech-as-incaseit.md) | Pilotech AS | **✓** |  |
-| [Reuniões do Indeqa Board](./easy2meet-bv-indeqa-board-meetings.md) | Easy2Meet B.V. | **✓** |  |
+| [Indeqa Board Meetings](./easy2meet-bv-indeqa-board-meetings.md) | Easy2Meet B.V. | **✓** |  |
 | [Infor Coleman](./infor-us-inc-coleman.md) | INFOR (EUA), INC. | **✓** |  |
 | [QI](./nlsql-iq.md) | NLSQL | **✓** |  |
 | [isLucid](./uab-lucid-agreements-islucid.md) | Acordos UAB Lucid | **✓** |  |
@@ -359,7 +359,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [MSPBots](./jexet-technologies-llc-mspbots.md) | Jexet Technologies LLC | **✓** |  |
 | [ LTAPPs de Processo de Multiaprovação](./ltapps-software-coltd-multi-approval-process.md) | LTAPPs SOFTWARE CO.,LTD | **✓** |  |
 | [MURAL](./mural.md) | MURAL | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Meus Lembretes](./appfluence-inc-my-reminders.md) | Appfluence Inc | **✓** |  |
+| [My Reminders](./appfluence-inc-my-reminders.md) | Appfluence Inc | **✓** |  |
 | [Myfone](./flexfone-myfone.md) | Flexfone | **✓** |  |
 | [MyHub](./avepoint-inc-myhub.md) | AvePoint, inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Mylo Bot](./my-learning-hub-mylo-bot.md) | My Learning Hub | **✓** |  |
@@ -392,7 +392,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [PandaDoc](./pandadoc.md) | PandaDoc | **✓** |  |
 | [Pandos](./pandos-intelligence-inc.md) | Pandos Intelligence Inc | **✓** |  |
 | [Panopto](./panopto.md) | Panopto | **✓** |  |
-| [Bot PAP](./pap-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12467;&#12521;&#12508;&#12473;&#12479;&#12452;&#12523; | **✓** |  |
+| [PAP bot](./pap-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12467;&#12521;&#12508;&#12473;&#12479;&#12452;&#12523; | **✓** |  |
 | [ParkHere Corporativo](./parkhere-gmbh-corporate.md) | ParkHere GmbH | **✓** |  |
 | [Passport 360](./passport-360.md) | Passport 360 | **✓** |  |
 | [Pavestep](./pavestep.md) | Pavestep | **✓** |  |
@@ -409,7 +409,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Pling](./fellowmind-denmark-pling.md) | Fellowmind Dinamarca | **✓** |  |
 | [Plumm](./plumm-health-ltd.md) | Plumm Health LTD | **✓** |  |
 | [Poimapper](./pajat-solutions-oy-poimapper.md) | Pajat Solutions Oy. | **✓** |  |
-| [Planejador de Rotas da Polumana](./blue-zone-gmbh-polumana-tour-route-planner.md) | blue-zone GmbH | **✓** |  |
+| [polumana Tour Route Planner](./blue-zone-gmbh-polumana-tour-route-planner.md) | blue-zone GmbH | **✓** |  |
 | [Conector VoIP Nuvem POPP](./poppcom-inc-popp-cloud-voip-connector.md) | POPP.Com, Inc | **✓** |  |
 | [PostBeyond](./postbeyond.md) | PostBeyond | **✓** |  |
 | [Powell Teams](./powell-software-teams.md) | Software DoLS | **✓** |  |
@@ -551,7 +551,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [timeghost - Controle de tempo](./timeghostio-timeghost-time-tracking.md) | timeghost.io | **✓** |  |
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  |
-| [Lista de Verificação de Tarefas Pendentes para a Equipe](./herocoders-to-do-checklist-for-team.md) | HeroCoders | **✓** |  |
+| [Lista de Verificação de Tarefa Pendente para a Equipe](./herocoders-to-do-checklist-for-team.md) | HeroCoders | **✓** |  |
 | [Tonkean](./tonkean.md) | Tonkean | **✓** |  |
 | [Totara](./totara-learning.md) | Aprendizagem do Totara | **✓** |  |
 | [touchSMS](./edgility-touchsms.md) | Edgility | **✓** |  |
@@ -599,7 +599,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [SALA X0PA](./x0pa-ai-singapore-room.md) | X0PA AI Singapura | **✓** |  |
 | [xMatters](./xmatters-inc.md) | xMatters Inc. | **✓** |  |
 | [YAROOMS](./yarooms.md) | YAROOMS | **✓** |  |
-| [Local de Trabalho da Yeastar](./xiamen-yeastar-coltd-workplace.md) | Xiamen Yeastar Co.,Ltd | **✓** |  |
+| [Yeastar Workplace](./xiamen-yeastar-coltd-workplace.md) | Xiamen Yeastar Co.,Ltd | **✓** |  |
 | [yuccaHR](./yucca-technologies-gmbh-yuccahr.md) | GmbH da Tecnologias de Yucca | **✓** |  |
 | [Zavvy](./zavvy-gmbh.md) | Zavvy GmbH | **✓** |  |
 | [Bot de Tempo Zero](./replicon-zero-time-bot.md) | Replicon | **✓** |  |
