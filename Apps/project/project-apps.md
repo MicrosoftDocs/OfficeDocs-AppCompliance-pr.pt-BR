@@ -1,24 +1,24 @@
 ---
-title: Microsoft Project Segurança e Conformidade de Aplicativos - Todos os Aplicativos
+title: Segurança e conformidade do Microsoft Project Apps – Todos os aplicativos
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/17/2022
+ms.date: 07/06/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Microsoft Project Apps.
 localization_priority: Normal
-ms.openlocfilehash: 43d3cee5881b9f7c8e010611c015e228c6f8a2b1
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 172cc0fcff80702087eae23481b02a968028edee
+ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63542519"
+ms.lasthandoff: 07/06/2022
+ms.locfileid: "66652861"
 ---
-# <a name="microsoft-project-apps-security-and-compliance"></a>Microsoft Project Segurança e Conformidade de Aplicativos
+# <a name="microsoft-project-apps-security-and-compliance"></a>Segurança e conformidade do Microsoft Project Apps
 
-A Microsoft trabalha com nossos parceiros Microsoft 365 desenvolvedores para fornecer as informações que as organizações precisam para acelerar e informar as decisões sobre Microsoft Project aplicativos e complementos que eles usam. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
+A Microsoft trabalha com nossos parceiros desenvolvedores do Microsoft 365 para fornecer as informações que as organizações precisam para agilizar e informar decisões sobre os Aplicativos do Microsoft Project e os suplementos que usam. Essas informações de segurança, gerenciamento de dados e conformidade destinam-se a ajudar as organizações a avaliar e gerenciar os riscos ao usar esses aplicativos.
 
 | **Aplicativo** | **Parceiro** | **Editor Atestado** | **Certificado** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [officeatwork - Selador de modelo para Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork – Selador de Modelo para Office – M365](./officeatwork-officeatworktemplate-chooser-for-office-m365.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
