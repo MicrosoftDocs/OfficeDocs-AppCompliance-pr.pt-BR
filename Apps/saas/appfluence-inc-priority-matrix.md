@@ -1,25 +1,25 @@
 ---
-title: Visão geral da matriz de prioridade
+title: Informações do aplicativo para Priority Matrix da Appfluence Inc
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/23/2021
+ms.date: 07/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Priority Matrix, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 370aec841f0965d65b148901b385edd3f52b5a49
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: ed928604d7e185af69e326f73a68ad198c461bc5
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65226565"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66702969"
 ---
-# <a name="priority-matrix-overview"></a>Visão geral da matriz de prioridade
+# <a name="priority-matrix"></a>Priority Matrix
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>Última atualização pelo desenvolvedor em: 23 de junho de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 13 de junho de 2022</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/appfluenceinc.m_pm_msft" target="_blank">Exibir no AppSource</a>
 
@@ -29,18 +29,18 @@ ms.locfileid: "65226565"
 
 Informações fornecidas pela Appfluence Inc para a Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | Priority Matrix |
 | ID | appfluenceinc.m_pm_msft |
 | Nome da empresa parceira | Appfluence Inc |
-| Site da empresa | [https://appfluence.com/office-365-project-management-integr...](https://appfluence.com/office-365-project-management-integration/) |
+| Site da empresa | [https://appfluence.com](https://appfluence.com) |
 | Termos de Uso do Aplicativo | [https://appfluence.com/eula](https://appfluence.com/eula) |
 | Funcionalidade principal do aplicativo | A Matriz de Prioridade é uma solução de gerenciamento de projeto, tarefa e prioridade que cria uma fonte central de verdade para coordenar todo o trabalho que sua equipe precisa fazer. |
 | Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | [https://appfluence.com/project-management-integration-for-m...](https://appfluence.com/project-management-integration-for-microsoft-teams/) |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS, Azure |
+| Página de informações do aplicativo | [https://appfluence.com/office-365-project-management-integr...](https://appfluence.com/office-365-project-management-integration) |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,10 +52,12 @@ Informações fornecidas pela Appfluence Inc para a Microsoft:
 
 Essas informações foram fornecidas pela Appfluence Inc sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
+| Quais dados são processados pelo seu aplicativo? | Email do usuário e nome/sobrenome como mínimo. Opcionalmente, colaboradores, emails, eventos de calendário. |
+| O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -65,27 +67,29 @@ Essas informações foram fornecidas pela Appfluence Inc sobre como esse aplicat
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você executa testes de penetração anuais no aplicativo? | Sim |
 | O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? |  |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? |  |
-| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? |  |
-| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? |  |
-| Seu ambiente tem algum software ou sistemas operacionais sem suporte? |  |
-| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? |  |
-| Você tem um firewall instalado no limite de rede externa? |  |
-| Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? |  |
-| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? |  |
-| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? |  |
-| Autenticação Multifator (MFA) habilitada para: |  |
-| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? |  |
-| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? |  |
-| Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? |  |
-| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? |  |
-| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? |  |
-| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
+| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | ApplicationControls, TraditionalAntiMalware |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Sim |
+| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Sim |
+| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? | Sim |
+| Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? | Sim |
+| Você tem um firewall instalado no limite de rede externa? | Sim |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
+| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
+| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
+| Autenticação Multifator (MFA) habilitada para: | DNSManagement, Credential, CodeRepositories |
+| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
+| Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
+| Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim |
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
+| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Sim |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Sim |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -93,7 +97,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="compliance"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | Não |
 | O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | Não |
@@ -109,7 +113,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | Não |
 | O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | Não |
 | O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | N/D |
-| O aplicativo está em conformidade com o NIST 800-171? |  |
+| O aplicativo está em conformidade com o NIST 800-171? | Não |
 | O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -118,9 +122,19 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="privsection"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? |  |
+| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Sim |
+| URL da Política de Privacidade | https://appfluence.com/gdpr/ |
+| O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
+| O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
+| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
+| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Sim |
+| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
+| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -128,31 +142,32 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
 | Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
 | Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Não |
-| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
+| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? | social-auth-app-django |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
-| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
-| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) |  |
-| Seu aplicativo armazena credenciais no código? |  |
-| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
+| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Sim |
+| Seu aplicativo armazena credenciais no código? | Não |
+| Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
+>|   **Permissão do Graph**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | Delegada | Somente quando um novo usuário é adicionado à conta, armazenamos seus emails. | [5be2b320-a5b7-4221-893c-dee506e4e365](../azure/5be2b320-a5b7-4221-893c-dee506e4e365.md) |
->| User.ReadBasic.All | Delegada | Somente quando um novo usuário é adicionado à conta, armazenamos seus emails. | [5be2b320-a5b7-4221-893c-dee506e4e365](../azure/5be2b320-a5b7-4221-893c-dee506e4e365.md) |
->| offline_access | Delegada | Armazenamos o token de logon para executar solicitações em nome do usuário | [5be2b320-a5b7-4221-893c-dee506e4e365](../azure/5be2b320-a5b7-4221-893c-dee506e4e365.md) |
->| Files.Read.All | Delegada | Não armazenamos nenhuma informação de arquivo, a menos que o usuário crie explicitamente e conscientemente um item priority matrix que vincula ao arquivo original. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](../azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md) |
->| User.Read | Delegada | As informações básicas do perfil do usuário (nome de exibição, nome, sobrenome, email, avatar) são armazenadas por nós. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](../azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md) |
->| openid | Delegada | Armazenamos a conexão de SSO para indicar o modo de logon do usuário. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](../azure/affadfb6-f17b-428f-97f9-9aae3b6175bc.md) |
->| Calendars.Read | Delegada | Um pequeno número de eventos de calendário são transformados em tarefas armazenadas em nosso sistema. | [d76f016f-52c7-41b5-835b-900361d7040c](../azure/d76f016f-52c7-41b5-835b-900361d7040c.md) |
->| Mail.Read | Delegada | Armazenamos tarefas criadas em nosso sistema, com um link para a mensagem original. | [d76f016f-52c7-41b5-835b-900361d7040c](../azure/d76f016f-52c7-41b5-835b-900361d7040c.md) |
->| Tasks.Read | Delegada | Algumas Outlook/Planner são replicadas em nosso sistema para ajudar novos usuários. | [d76f016f-52c7-41b5-835b-900361d7040c](../azure/d76f016f-52c7-41b5-835b-900361d7040c.md) |
+>| Calendars.Read | Delegada | Em nossa exibição 1 a 1, apresente ao usuário eventos que ele compartilha com um colaborador | [cf9bdbc1-18c7-4700-b6b3-093f241e2d8a](../azure/cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md) |
+>| Files.Read.All | Delegada | Em nossa exibição 1 a 1, apresente ao usuário os arquivos que ele compartilha com um colaborador. Além disso, opcionalmente, eles podem armazenar seus anexos em seu próprio OneDrive em vez de em nosso sistema. | [cf9bdbc1-18c7-4700-b6b3-093f241e2d8a](../azure/cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md) |
+>| Mail.Read | Delegada | Em nossa exibição 1 a 1, apresente ao usuário emails que ele compartilha com um colaborador. | [cf9bdbc1-18c7-4700-b6b3-093f241e2d8a](../azure/cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md) |
+>| Tasks.Read | Delegada | Em nossa exibição 1 a 1, apresente ao usuário as tarefas que ele compartilha com um colaborador | [cf9bdbc1-18c7-4700-b6b3-093f241e2d8a](../azure/cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md) |
+>| TeamsActivity.Send | Delegada | Envie alertas relevantes (ou seja, itens vencidos, menções) para o feed de atividades do Teams de um usuário. | [cf9bdbc1-18c7-4700-b6b3-093f241e2d8a](../azure/cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md) |
+>| User.Read | Delegada | Entre no usuário e compartilhe seu email e nome/sobrenome para que possamos enviar uma mensagem corretamente. | [cf9bdbc1-18c7-4700-b6b3-093f241e2d8a](../azure/cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md) |
+>| User.ReadBasic.All | Delegada | Consulte os colegas de equipe do usuário para que possamos sugerir que outros colaboradores convidem para a Matriz de Prioridade ou atribuam tarefas. | [cf9bdbc1-18c7-4700-b6b3-093f241e2d8a](../azure/cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md) |
+>| email | Delegada | Conheça o endereço de email do usuário para que possamos endereizá-lo em nossas comunicações. Essa também é a ID deles em nosso sistema. | [cf9bdbc1-18c7-4700-b6b3-093f241e2d8a](../azure/cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md) |
+>| offline_access | Delegada | Mantenha o acesso aos dados do usuário para que possamos preparar relatórios enquanto o usuário não está conectado. | [cf9bdbc1-18c7-4700-b6b3-093f241e2d8a](../azure/cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md) |
+>| openid | Delegada | Conecte o usuário por meio do logon único. | [cf9bdbc1-18c7-4700-b6b3-093f241e2d8a](../azure/cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md) |
+>| perfil | Delegada | Saiba o nome/sobrenome do usuário para que possamos endereizá-lo corretamente. | [cf9bdbc1-18c7-4700-b6b3-093f241e2d8a](../azure/cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md) |
 
 >Este aplicativo não tem APIs adicionais.
 
@@ -160,3 +175,39 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone-end
 
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>Informações de certificação
+
+| **Control** | **Resultado da certificação do Microsoft 365** |
+|:------------|:---------------------------------------|
+| [**SEGURANÇA DO APLICATIVO**](../docs/certification-submission-guide.md#application-security) | **N/D** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teste de penetração | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Revisão da Avaliação de Vulnerabilidade (TESTE DE PENETRAÇÃO/DAST/SAST) | N/D |
+| [**SEGURANÇA OPERACIONAL**](../docs/certification-submission-guide.md#operational-security) | **N/D** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra malware – Antivírus | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra malware – Controle de Aplicativos | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Patches – Classificação de Risco | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de patch – aplicação de patch | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Verificação de vulnerabilidade | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firewall – Firewalls (ou tecnologias equivalentes) | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firewall – WAFs (Firewalls de Aplicativo Web) (opcional) | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alterar Controle | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvimento/implantação de software seguro | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Contas | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Detecção e prevenção contra intrusões (opcional) | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Log de eventos de segurança | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Revisando (dados de log) | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alertas de eventos de segurança | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Riscos de Segurança da Informação | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resposta a incidentes | N/D |
+| [**PRIVACIDADE DE SEGURANÇA DE TRATAMENTO DE &amp; DADOS**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **N/D** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados em trânsito | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados inativos | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retenção e descarte de dados | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Acesso a Dados | N/D |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RGPD | N/D |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
