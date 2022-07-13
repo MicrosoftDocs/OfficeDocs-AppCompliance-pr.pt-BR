@@ -3,17 +3,17 @@ title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/08/2022
+ms.date: 07/12/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: cfa7d528ef4a368955ceff556eb5c6e0528795c8
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+ms.openlocfilehash: f0676af49b6a4c273e7836185540d9ef3bbb3bb7
+ms.sourcegitcommit: 1d78b47ae32dd7ee29fb848e04ac0c5090d6b41c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66702629"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66762830"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -57,7 +57,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Asana](./asana.md) | Asana | **✓** |  |
 | [ASC Recording Insights](./asc-technologies-ag-recording-insights.md) | ASC Technologies AG | **✓** |  |
 | [Perguntar ao Vizir](./vizirco-ask-vizir.md) | Vizir.co | **✓** |  |
-| [Assembly](./carrothr-inc-assembly.md) | CarrotHR Inc. | **✓** |  |
 | [Aster](./entrup-aster.md) | Entrup | **✓** |  |
 | [AtBot](./h3-solutions-inc-atbot.md) | H3 Solutions, Inc. | **✓** |  |
 | [Atlas](./atlassian-inc-atlas.md) | Atlassian, Inc. | **✓** |  |
@@ -94,7 +93,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Votações Brilhante](./brightbits-bright-poll.md) | BrightBits | **✓** |  |
 | [Brilhante Me Lembre](./chat-apps-llc-bright-remind-me.md) | Aplicativos de Chat, LLC | **✓** |  |
 | [Conexão de Vídeo Brilhante](./brightcove-inc-video-connect.md) | Brightcove Inc. | **✓** |  |
-| [Transmissão](./cerkl-broadcast.md) | Cerkl | **✓** |  |
 | [Brochesia](./brochesia.md) | Brochesia | **✓** |  |
 | [Quadro de Avisos - NextSet](./nextsetinc-bulletin-board-nextset.md) | NextSet,Inc. | **✓** |  |
 | [Bot de Adoção C.AI](./contexxtai-cai-adoption-bot.md) | contexxt.ai | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -106,7 +104,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [check.it](./cloud-cover-it-checkit.md) | TI de Cobertura de Nuvem | **✓** |  |
 | [Controle de Tempo de Cronoscópio](./chrono-innovation-chronoscope-time-tracking.md) | Cronograma de Inovação | **✓** |  |
 | [Chronus](./chronus.md) | Chronus | **✓** |  |
-| [ChurnZero](./churnzero.md) | ChurnZero | **✓** |  |
 | [CI-Out-of-Office Lite](./ci-solution-gmbh-out-of-office-lite.md) | solução ci GmbH | **✓** |  |
 | [Listagem Confidencial](./binaryroots-classified-listing.md) | BinaryRoots | **✓** |  |
 | [SMS do funcionário](./unnamed-ventures-llc-clerk-sms.md) | Ventures sem nome, LLC. | **✓** |  |
@@ -406,7 +403,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Arquivador de Fotos](./ichicraft-photo-filer.md) | Ichicraft | **✓** |  |
 | [Pigeonhole Live](./pigeonlab-pte-ltd-pigeonhole-live.md) | PigeonLab Pte Ltd | **✓** |  |
 | [Plandisc](./plandisc.md) | Plandisc | **✓** |  |
-| [Executado por IntraActive](./fellowmind-denmark-play-by-intraactive.md) | Fellowmind Dinamarca | **✓** |  |
+| [PlanIt](./enable-365-planit.md) | Habilitar 365 | **✓** |  |
 | [PlayQuiz - Aprende &amp; Juega](./teamschamp-playquiz-aprendejuega.md) | TeamsChamp | **✓** |  |
 | [Pling](./fellowmind-denmark-pling.md) | Fellowmind Dinamarca | **✓** |  |
 | [Plumm](./plumm-health-ltd.md) | Plumm Health LTD | **✓** |  |
@@ -434,7 +431,6 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Qooper](./cognata-technologies-llc-qooper.md) | TECNOLOGIAS COGNATA, LLC | **✓** |  |
 | [Quadra Thankz](./quadrasystemsnet-quadra-thankz.md) | Quadrasystems.net | **✓** |  |
 | [Quadra Visitorz](./quadrasystemsnet-quadra-visitorz.md) | Quadrasystems.net | **✓** |  |
-| [Qualificado](./qualified.md) | Qualificado | **✓** |  |
 | [Quire](./potix-corporation-quire.md) | Potix Corporação | **✓** |  |
 | [Quitch](./quitch.md) | Quitch | **✓** |  |
 | [Rafiky](./global-congress-srl-rafiky.md) | SRL DO CONGRESSO GLOBAL | **✓** |  |
@@ -444,6 +440,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [DM do RecognitionNow](./bi-worldwide-recognitionnow-dm.md) | BI WORLDWIDE | **✓** |  |
 | [Reconhecer](./recognize.md) | Reconhecer | **✓** |  |
 | [Remind](./88-ventures-limited-remind.md) | 88 Ventures Limited | **✓** |  |
+| [Reprodução por IntraActive](./fellowmind-denmark-replay-by-intraactive.md) | Fellowmind Dinamarca | **✓** |  |
 | [researcHR](./researchr.md) | KBE&#26666;&#24335;&#20250;&#31038; | **✓** |  |
 | [Responsum](./responsum-inc.md) | Responsum Inc. | **✓** |  |
 | [ReTeam](./beremote-llc-reteam.md) | BeRemote LLC | **✓** |  |
@@ -487,6 +484,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Advocacia Social](./oktopost-social-advocacy.md) | Oktopost | **✓** |  |
 | [Solo](./teladoc-inc-solo.md) | Teladoc, Inc. | **✓** |  |
 | [SQQ](./superquickquestion-sqq.md) | SuperQuickQuestion | **✓** |  |
+| [Squadify](./squadify-holdings-pty-ltd.md) | Squadify Holdings Pty Ltd | **✓** |  |
 | [Stack Overflow para o Teams](./stack-overflow-for-teams.md) | Stack Overflow | **✓** |  |
 | [StaffCircle](./staffcircle.md) | StaffCircle | **✓** |  |
 | [Standup Alice](./bao-le-duc-standup-alice.md) | Bao Le Duc | **✓** |  |
@@ -604,7 +602,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [Yeastar Workplace](./xiamen-yeastar-coltd-workplace.md) | Xiamen Yeastar Co.,Ltd | **✓** |  |
 | [yuccaHR](./yucca-technologies-gmbh-yuccahr.md) | GmbH da Tecnologias de Yucca | **✓** |  |
 | [Zavvy](./zavvy-gmbh.md) | Zavvy GmbH | **✓** |  |
-| [Bot de Tempo Zero](./replicon-zero-time-bot.md) | Replicon | **✓** |  |
+| [ZeroTime Bot](./replicon-zerotime-bot.md) | Replicon | **✓** |  |
 | [Zignals](./alight-consulting-gmbh-zignals.md) | GmbH de Consultoria do Alight | **✓** |  |
 | [Zoho CRM](./zoho-corporation-pvt-ltd-crm.md) | Zoho Corporation Pvt Ltd | **✓** |  |
 | [Zoho Desk](./zoho-corporation-private-limited-desk.md) | Zoho Corporation Private Limited | **✓** |  |
