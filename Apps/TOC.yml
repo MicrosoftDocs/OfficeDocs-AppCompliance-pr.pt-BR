@@ -298,8 +298,6 @@ items:
         href: teams/asc-technologies-ag-recording-insights.md
       - name: Perguntar ao Vizir
         href: teams/vizirco-ask-vizir.md
-      - name: Assembly
-        href: teams/carrothr-inc-assembly.md
       - name: Áster
         href: teams/entrup-aster.md
       - name: AtBot
@@ -372,8 +370,6 @@ items:
         href: teams/chat-apps-llc-bright-remind-me.md
       - name: Conexão de Vídeo Brilhante
         href: teams/brightcove-inc-video-connect.md
-      - name: Transmitir
-        href: teams/cerkl-broadcast.md
       - name: Brochesia
         href: teams/brochesia.md
       - name: Quadro de Avisos - NextSet
@@ -396,8 +392,6 @@ items:
         href: teams/chrono-innovation-chronoscope-time-tracking.md
       - name: Chronus
         href: teams/chronus.md
-      - name: ChurnZero
-        href: teams/churnzero.md
       - name: CI-Out-of-Office Lite
         href: teams/ci-solution-gmbh-out-of-office-lite.md
       - name: Listagem Confidencial
@@ -996,8 +990,8 @@ items:
         href: teams/pigeonlab-pte-ltd-pigeonhole-live.md
       - name: Plandisc
         href: teams/plandisc.md
-      - name: Executado por IntraActive
-        href: teams/fellowmind-denmark-play-by-intraactive.md
+      - name: PlanIt
+        href: teams/enable-365-planit.md
       - name: PlayQuiz - Aprende e Juega
         href: teams/teamschamp-playquiz-aprendejuega.md
       - name: Pling
@@ -1052,8 +1046,6 @@ items:
         href: teams/quadrasystemsnet-quadra-thankz.md
       - name: Quadra Visitorz
         href: teams/quadrasystemsnet-quadra-visitorz.md
-      - name: Qualificado
-        href: teams/qualified.md
       - name: Quire
         href: teams/potix-corporation-quire.md
       - name: Quitch
@@ -1072,6 +1064,8 @@ items:
         href: teams/recognize.md
       - name: Remind
         href: teams/88-ventures-limited-remind.md
+      - name: Reprodução por IntraActive
+        href: teams/fellowmind-denmark-replay-by-intraactive.md
       - name: researcHR
         href: teams/researchr.md
       - name: Responsum
@@ -1158,6 +1152,8 @@ items:
         href: teams/teladoc-inc-solo.md
       - name: SQQ
         href: teams/superquickquestion-sqq.md
+      - name: Squadify
+        href: teams/squadify-holdings-pty-ltd.md
       - name: Stack Overflow para o Teams
         href: teams/stack-overflow-for-teams.md
       - name: StaffCircle
@@ -1392,8 +1388,8 @@ items:
         href: teams/yucca-technologies-gmbh-yuccahr.md
       - name: Zavvy
         href: teams/zavvy-gmbh.md
-      - name: Bot de Tempo Zero
-        href: teams/replicon-zero-time-bot.md
+      - name: ZeroTime Bot
+        href: teams/replicon-zerotime-bot.md
       - name: Zignals
         href: teams/alight-consulting-gmbh-zignals.md
       - name: Zoho CRM
@@ -1623,8 +1619,6 @@ items:
         href: azure/092aa7d1-522d-4d9d-90b6-7186e28eaf4a.md
       - name: 094f3986-3951-4f0c-88fa-514d117c8dd0
         href: azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md
-      - name: 0a1b7ca8-390e-4f55-a7b5-eee089c5a905
-        href: azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905.md
       - name: 0b87cb84-073e-4cf6-a1ef-45d864ef2918
         href: azure/0b87cb84-073e-4cf6-a1ef-45d864ef2918.md
       - name: 0bb1641a-3b3b-47f7-a11e-01279d92abfb
@@ -1715,8 +1709,6 @@ items:
         href: azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md
       - name: 2a93620e-4345-4e3b-9bae-0195f08aab69
         href: azure/2a93620e-4345-4e3b-9bae-0195f08aab69.md
-      - name: 2c951ed5-c5c6-493f-9b02-4b42e3ba536c
-        href: azure/2c951ed5-c5c6-493f-9b02-4b42e3ba536c.md
       - name: 2c9fb9b7-5112-4a91-af52-f98682bc7bf3
         href: azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3.md
       - name: 2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb
@@ -1963,8 +1955,6 @@ items:
         href: azure/73ee6b52-6b68-41c1-a7c5-91919e05b845.md
       - name: 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4
         href: azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4.md
-      - name: 74ef25ab-3685-446c-aa43-4e9cc251ed62
-        href: azure/74ef25ab-3685-446c-aa43-4e9cc251ed62.md
       - name: 75932bb9-5e71-449a-b584-b5cc01c2d118
         href: azure/75932bb9-5e71-449a-b584-b5cc01c2d118.md
       - name: 77578a4c-117a-4cd4-b36d-3ea09ca2eded
@@ -2209,8 +2199,6 @@ items:
         href: azure/c1abaf93-e823-4e9a-a810-34a47e77ef71.md
       - name: c2395027-53de-4f00-b658-246d82ed7e6f
         href: azure/c2395027-53de-4f00-b658-246d82ed7e6f.md
-      - name: c2e66b59-725d-4c56-8a0e-ee2587031d9f
-        href: azure/c2e66b59-725d-4c56-8a0e-ee2587031d9f.md
       - name: c2f87ddb-d2e0-4268-851f-88d57ac6e0a0
         href: azure/c2f87ddb-d2e0-4268-851f-88d57ac6e0a0.md
       - name: c36d31a2-8de1-4eb5-9e7d-01da45244c04
