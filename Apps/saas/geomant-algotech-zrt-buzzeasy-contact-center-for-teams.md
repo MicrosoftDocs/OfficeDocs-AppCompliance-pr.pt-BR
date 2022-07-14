@@ -6,19 +6,20 @@ manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
+certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Buzzeasy Contact Center for Teams, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro STAR da CSA.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 4388c1e72e3504ecf4d75aa59d2cfb75d3071239
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: b991fdcdd4e2c7aad48cbc5d26403a04b0b9c170
+ms.sourcegitcommit: 0c7f7f3da27d274928b863a18ff16d4dc775487c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66707328"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "66781655"
 ---
 # <a name="buzzeasy-contact-center-for-teams"></a>Buzzeasy Contact Center for Teams
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 23 de novembro de 2021</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/geomant.buzzeasy_teams_contact_center" target="_blank">Exibir no AppSource</a>
@@ -39,7 +40,7 @@ Informações fornecidas por Geomant-Algotech Zrt. para a Microsoft:
 | Funcionalidade principal do aplicativo | Solução do Contact Center para o Microsoft Teams |
 | Localização da sede da empresa | Hungria  |
 | Página de informações do aplicativo | [https://www.geomant.com/buzzeasy-contact-centre-for-microso...](https://www.geomant.com/buzzeasy-contact-centre-for-microsoft-teams) |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -55,9 +56,15 @@ Essas informações foram fornecidas por Geomant-Algotech Zrt. sobre como esse a
 | **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
-| Quais dados são processados pelo seu aplicativo? | Token de atualização e usuário do Microsoft JWT, ID do Aplicativo Da Microsoft, Segredo do Aplicativo, Conteúdo de Email do M365 da API do Graph |
+| Quais dados são processados pelo seu aplicativo? | Token de atualização e usuário do Microsoft JWT, ID do Aplicativo Da Microsoft, Segredo do Aplicativo, Email M365 API do Graph |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
+| Quais dados são armazenados em seus bancos de dados? | Token de atualização e usuário do Microsoft JWT, ID do Aplicativo Da Microsoft, Segredo do Aplicativo, Email M365 API do Graph |
+| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Irlanda |
+| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Menos de 90 dias |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -171,39 +178,3 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone-end
 
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>Informações de certificação
-
-| **Control** | **Resultado da certificação do Microsoft 365** |
-|:------------|:---------------------------------------|
-| [**SEGURANÇA DO APLICATIVO**](../docs/certification-submission-guide.md#application-security) | **N/D** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teste de penetração | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Revisão da Avaliação de Vulnerabilidade (TESTE DE PENETRAÇÃO/DAST/SAST) | N/D |
-| [**SEGURANÇA OPERACIONAL**](../docs/certification-submission-guide.md#operational-security) | **FAIL** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra malware – Antivírus | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteção contra malware – Controle de Aplicativos | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Patches – Classificação de Risco | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de patch – aplicação de patch | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Verificação de vulnerabilidade | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firewall – Firewalls (ou tecnologias equivalentes) | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firewall – WAFs (Firewalls de Aplicativo Web) (opcional) | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alterar Controle | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolvimento/implantação de software seguro | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Contas | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Detecção e prevenção contra intrusões (opcional) | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Log de eventos de segurança | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Revisando (dados de log) | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alertas de eventos de segurança | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Riscos de Segurança da Informação | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resposta a incidentes | No Escopo |
-| [**PRIVACIDADE DE SEGURANÇA DE TRATAMENTO DE &amp; DADOS**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **FAIL** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados em trânsito | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados inativos | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retenção e descarte de dados | No Escopo |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gerenciamento de Acesso a Dados | N/D |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RGPD | No Escopo |
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end

@@ -3,17 +3,17 @@ title: Azure App informações de ID para 58cac74c-be05-4edf-b6de-294e856ecd7b
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/12/2022
+ms.date: 07/13/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para 58cac74c-be05-4edf-b6de-294e856ecd7b.
-ms.openlocfilehash: d61413a60b0e01ffe09b18484fdd7379fd5d88b6
-ms.sourcegitcommit: 1d78b47ae32dd7ee29fb848e04ac0c5090d6b41c
+ms.openlocfilehash: 7997fd638d19954e6682f07e1354b974ae65d898
+ms.sourcegitcommit: 0c7f7f3da27d274928b863a18ff16d4dc775487c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66762210"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "66783565"
 ---
 # <a name="azure-app-id-58cac74c-be05-4edf-b6de-294e856ecd7b"></a>Azure App ID: 58cac74c-be05-4edf-b6de-294e856ecd7b
 
