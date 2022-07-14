@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos SaaS.
 localization_priority: Normal
-ms.openlocfilehash: 2540acebe47558ff7e325ad58bef3741b7d40508
-ms.sourcegitcommit: 0c7f7f3da27d274928b863a18ff16d4dc775487c
+ms.openlocfilehash: e8bd67ffe994724af91ce39854452cde1cc4b8db
+ms.sourcegitcommit: 72f4a6341a000d08a27b69b25ee9d3fb0bbfea6e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/14/2022
-ms.locfileid: "66786016"
+ms.locfileid: "66792750"
 ---
 # <a name="saas-apps-security-and-compliance"></a>Segurança e conformidade de aplicativos SaaS
 
@@ -38,7 +38,7 @@ A Microsoft trabalha com nossos parceiros desenvolvedores do Microsoft 365 para 
 | [Gravação de chamada unificada do Batuletor para o Microsoft Teams](./dubber-corp-unified-call-recording-for-microsoft-teams.md) | Corp de Dublador | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Emailgistics](./emailgistics-corp.md) | Emailgistics Corp. | **✓** |  |
 | [EmailNotes para Outlook](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | Standss (Pacífico Sul) PTE Limited | **✓** |  |
-| [Integração do Genesys Cloud CX Teams](./genesys-cloud-services-inc-cx-teams-integration.md) | Genesys Serviços de Nuvem, Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Integração do Genesys Cloud CX Teams](./genesys-cloud-services-inc-cx-teams-integration.md) | Genesys Serviços de Nuvem, Inc | **✓** |  |
 | [Ice Contact Center](./computertalk-ice-contact-center.md) | ComputerTalk | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iGlobe CRM Office 365 para Microsoft 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Selador de Imagem](./officeatwork-image-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -46,7 +46,7 @@ A Microsoft trabalha com nossos parceiros desenvolvedores do Microsoft 365 para 
 | [IXCloud – Inteligência de Gravação de Conformidade do &amp; Teams](./numonix-llc-ixcloud-teams-compliance-recordingintelligence.md) | Numonix LLC | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [LMS365](./elearningforce-international-aps-lms365.md) | ELEARNINGFORCE International Aps | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Gravação de conformidade do Luware para o Microsoft Teams](./luware-ag-compliance-recording-for-microsoft-teams.md) | Luware AG | **✓** |  |
-| [Luware Nimbus para Microsoft Teams](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Luware Nimbus para Microsoft Teams](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** |  |
 | [Assinatura de Email](./officeatwork-mail-signature.md) | officeatwork | **✓** |  |
 | [MIPA – Meu Assistente Pessoal Inteligente](./iglobe-mipa-my-intelligent-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ModuleQ](./moduleq.md) | ModuleQ | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
