@@ -94,7 +94,7 @@ items:
         href: outlook/dynamo-software.md
       - name: Egnyte para Outlook
         href: outlook/egnyte-inc-for-outlook.md
-      - name: Reator de Email
+      - name: Email reator
         href: outlook/flow-simulation-ltd-email-reactor.md
       - name: Evernote
         href: outlook/evernote.md
@@ -372,6 +372,8 @@ items:
         href: teams/brightcove-inc-video-connect.md
       - name: Brochesia
         href: teams/brochesia.md
+      - name: BrowserStack
+        href: teams/browserstack-inc.md
       - name: Quadro de Avisos - NextSet
         href: teams/nextsetinc-bulletin-board-nextset.md
       - name: Bot de Adoção C.AI
@@ -436,6 +438,8 @@ items:
         href: teams/move-work-forward-confluence-connector-by-mwf.md
       - name: Connect+
         href: teams/reward-gateway-connectplus.md
+      - name: Contact Center
+        href: teams/landis-technologies-llc-contact-center.md
       - name: Contact Center | ROGER365.io
         href: teams/roger365io-contact-centerroger365io.md
       - name: Contatos Profissionais
@@ -454,12 +458,16 @@ items:
         href: teams/creately.md
       - name: CSOD Aprender
         href: teams/cornerstone-ondemand-csod-learn.md
+      - name: Ct Apresentador
+        href: teams/customertimes-ct-presenter.md
       - name: Cuckoo
         href: teams/cuckoo-networks-oy.md
       - name: Cultr Conexão
         href: teams/cultr-connect.md
       - name: Amplificador de Cultura
         href: teams/culture-amp.md
+      - name: Cursum
+        href: teams/cursum-as.md
       - name: Cyberday
         href: teams/digiturvamalli-cyberday.md
       - name: CyCX  Contact Center
@@ -700,8 +708,6 @@ items:
         href: teams/hi5technologies-hi5.md
       - name: HighSide
         href: teams/highside-inc.md
-      - name: Highspot
-        href: teams/highspot.md
       - name: HitHorizons
         href: teams/finstat-sro-hithorizons.md
       - name: Hive
@@ -744,6 +750,8 @@ items:
         href: teams/nlsql-iq.md
       - name: isLucid
         href: teams/uab-lucid-agreements-islucid.md
+      - name: isolved
+        href: teams/isolved.md
       - name: iTalent
         href: teams/beisen-italent.md
       - name: Jabber
@@ -784,6 +792,8 @@ items:
         href: teams/ernst-klett-verlag-gmbh.md
       - name: Koan
         href: teams/koan-inc.md
+      - name: Painel do Koare
+        href: teams/koaretech-sl-koare-dashboard.md
       - name: Koare I-management
         href: teams/koaretech-sl-koare-i-management.md
       - name: Kuban Desks
@@ -902,6 +912,8 @@ items:
         href: teams/mural.md
       - name: My Reminders
         href: teams/appfluence-inc-my-reminders.md
+      - name: MyCheckins
+        href: teams/cloud-catalogs-llc-mycheckins.md
       - name: Myfone
         href: teams/flexfone-myfone.md
       - name: MyHub
@@ -1034,6 +1046,8 @@ items:
         href: teams/planview-inc-projectplace.md
       - name: Prowd
         href: teams/prowd.md
+      - name: Segurança por push
+        href: teams/push-security.md
       - name: I
         href: teams/moduleq-q.md
       - name: qbo
@@ -1138,6 +1152,8 @@ items:
         href: teams/discourse-analytics-smartpods.md
       - name: Smartsheet
         href: teams/smartsheet.md
+      - name: SmartStash
+        href: teams/fellowmind-germany-gmbh-smartstash.md
       - name: SmartWork
         href: teams/smartwork-of-intumit.md
       - name: Smy
@@ -1378,6 +1394,8 @@ items:
         href: teams/wurqi.md
       - name: SALA X0PA
         href: teams/x0pa-ai-singapore-room.md
+      - name: X2O
+        href: teams/x2o-media-inc.md
       - name: xMatters
         href: teams/xmatters-inc.md
       - name: YAROOMS
@@ -1388,6 +1406,8 @@ items:
         href: teams/yucca-technologies-gmbh-yuccahr.md
       - name: Zavvy
         href: teams/zavvy-gmbh.md
+      - name: Zendesk
+        href: teams/softserve-inc-office-store-zendesk.md
       - name: ZeroTime Bot
         href: teams/replicon-zerotime-bot.md
       - name: Zignals
@@ -1471,6 +1491,8 @@ items:
         href: word/taxyio-gmbh-taxkit-docs.md
       - name: TerMef
         href: word/mondeca-termef.md
+      - name: ValidSign
+        href: word/validsign.md
   - name: Aplicativos SaaS
     href: saas/saas-apps.md
     items:
@@ -1492,7 +1514,7 @@ items:
         href: saas/netsupport-ltd-classroomcloud.md
       - name: Backup na nuvem para Microsoft Office 365
         href: saas/avepoint-inc-cloud-backup-for-microsoft-office-365.md
-      - name: CodeTwo Email Signatures for Office 365
+      - name: CodeTwo Email assinaturas para Office 365
         href: saas/codetwo-email-signatures-for-office-365.md
       - name: Competella Communication Suite
         href: saas/competella-ab-communication-suite.md
