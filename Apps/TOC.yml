@@ -326,6 +326,8 @@ items:
         href: teams/decision-point-beagle.md
       - name: Bedriftsnett
         href: teams/unifon-as-bedriftsnett.md
+      - name: Bipe
+        href: teams/medxnote-beep.md
       - name: Framboesa
         href: teams/berryworksai-berry.md
       - name: Berrycast
@@ -926,6 +928,8 @@ items:
         href: teams/all-blue-solutions-ngdesk.md
       - name: Nickname por jogos flowrish
         href: teams/room6-nickname-by-flowrish-games.md
+      - name: Now Virtual Agent
+        href: teams/servicenow-now-virtual-agent.md
       - name: Nulia Works
         href: teams/nulia-works.md
       - name: O2S - Office2SharePoint
@@ -1046,6 +1050,8 @@ items:
         href: teams/quadrasystemsnet-quadra-thankz.md
       - name: Quadra Visitorz
         href: teams/quadrasystemsnet-quadra-visitorz.md
+      - name: QuickMinutes
+        href: teams/quickminutes.md
       - name: Quire
         href: teams/potix-corporation-quire.md
       - name: Quitch
@@ -1895,12 +1901,16 @@ items:
         href: azure/597cc93d-8951-4f62-b549-eca97ba5c042.md
       - name: 5a6a4d82-42ce-42c4-88f0-df529fe54dcc
         href: azure/5a6a4d82-42ce-42c4-88f0-df529fe54dcc.md
+      - name: 5a87eaa0-a00c-4382-9bdd-cdada0b6820f
+        href: azure/5a87eaa0-a00c-4382-9bdd-cdada0b6820f.md
       - name: 5b599e19-a609-432b-9074-c9d4457e8766
         href: azure/5b599e19-a609-432b-9074-c9d4457e8766.md
       - name: 5be2b320-a5b7-4221-893c-dee506e4e365
         href: azure/5be2b320-a5b7-4221-893c-dee506e4e365.md
       - name: 5c1f85d2-d744-4159-8c01-16e9a7b1207b
         href: azure/5c1f85d2-d744-4159-8c01-16e9a7b1207b.md
+      - name: 5d0905b2-a6de-4480-b5e0-059140592517
+        href: azure/5d0905b2-a6de-4480-b5e0-059140592517.md
       - name: 5d1cde38-6b6f-4a7c-ab8a-12bb0d449c1d
         href: azure/5d1cde38-6b6f-4a7c-ab8a-12bb0d449c1d.md
       - name: 5d655b39-963c-465a-89ab-bdad7ab7af7f
@@ -2325,6 +2335,8 @@ items:
         href: azure/e208746a-2666-4d95-b925-e2ff64b3181d.md
       - name: e308040f-41b5-4b8c-8f08-c2c38056f7e2
         href: azure/e308040f-41b5-4b8c-8f08-c2c38056f7e2.md
+      - name: e340e520-b8f4-4752-8e1c-60270c863b12
+        href: azure/e340e520-b8f4-4752-8e1c-60270c863b12.md
       - name: e4218775-2e3c-44eb-807f-78f8f39a04d8
         href: azure/e4218775-2e3c-44eb-807f-78f8f39a04d8.md
       - name: e54fe734-bab8-48b2-9ec8-05c2545cc49d
