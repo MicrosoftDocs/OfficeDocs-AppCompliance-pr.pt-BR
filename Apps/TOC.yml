@@ -234,8 +234,6 @@ items:
         href: teams/advantive-365-qa.md
       - name: 365Projects
         href: teams/365apps-365projects.md
-      - name: 8x8
-        href: teams/8x8-inc.md
       - name: Abi
         href: teams/beroe-abi.md
       - name: absentify
@@ -248,8 +246,6 @@ items:
         href: teams/adobe-acrobat-sign.md
       - name: Adobe Express
         href: teams/adobe-express.md
-      - name: Agenda Chefe
-        href: teams/appfluence-inc-agenda-boss.md
       - name: Quadro de Tarefas Agile
         href: teams/agile-is-task-board.md
       - name: ahead
@@ -330,6 +326,8 @@ items:
         href: teams/decision-point-beagle.md
       - name: Bedriftsnett
         href: teams/unifon-as-bedriftsnett.md
+      - name: Bipe
+        href: teams/medxnote-beep.md
       - name: Framboesa
         href: teams/berryworksai-berry.md
       - name: Berrycast
@@ -374,8 +372,6 @@ items:
         href: teams/brochesia.md
       - name: BrowserStack
         href: teams/browserstack-inc.md
-      - name: Quadro de Avisos - NextSet
-        href: teams/nextsetinc-bulletin-board-nextset.md
       - name: Bot de Adoção C.AI
         href: teams/contexxtai-cai-adoption-bot.md
       - name: Calendário Pro
@@ -428,8 +424,6 @@ items:
         href: teams/konica-minolta-it-solutions-company-navigator.md
       - name: ComplianceCow
         href: teams/continube-inc-compliancecow.md
-      - name: Concluir
-        href: teams/cauzey-pty-ltd-complish.md
       - name: Conferences i/o
         href: teams/conferences-io.md
       - name: Nuvem de Confluência
@@ -458,7 +452,7 @@ items:
         href: teams/creately.md
       - name: CSOD Aprender
         href: teams/cornerstone-ondemand-csod-learn.md
-      - name: Ct Apresentador
+      - name: CT Presenter
         href: teams/customertimes-ct-presenter.md
       - name: Cuckoo
         href: teams/cuckoo-networks-oy.md
@@ -484,8 +478,6 @@ items:
         href: teams/datafetch-inc.md
       - name: DataMiner
         href: teams/skyline-communications-dataminer.md
-      - name: Datto Workplace
-        href: teams/datto-inc-workplace.md
       - name: DBit
         href: teams/diamondsoft-solutions-llc-dbit.md
       - name: Decisions
@@ -702,8 +694,6 @@ items:
         href: teams/helloteam-inc.md
       - name: HeyTaco
         href: teams/heytaco-llc.md
-      - name: oi treinador digital
-        href: teams/digital-attitude-srl-hi-coach.md
       - name: Hi5
         href: teams/hi5technologies-hi5.md
       - name: HighSide
@@ -750,7 +740,7 @@ items:
         href: teams/nlsql-iq.md
       - name: isLucid
         href: teams/uab-lucid-agreements-islucid.md
-      - name: isolved
+      - name: isolados
         href: teams/isolved.md
       - name: iTalent
         href: teams/beisen-italent.md
@@ -768,8 +758,6 @@ items:
         href: teams/joye-pte-ltd.md
       - name: JustLogin
         href: teams/justlogin.md
-      - name: Kakeai
-        href: teams/kakeai.md
       - name: Kami
         href: teams/kami.md
       - name: Ferramenta Kanban
@@ -940,6 +928,8 @@ items:
         href: teams/all-blue-solutions-ngdesk.md
       - name: Nickname por jogos flowrish
         href: teams/room6-nickname-by-flowrish-games.md
+      - name: Now Virtual Agent
+        href: teams/servicenow-now-virtual-agent.md
       - name: Nulia Works
         href: teams/nulia-works.md
       - name: O2S - Office2SharePoint
@@ -1046,7 +1036,7 @@ items:
         href: teams/planview-inc-projectplace.md
       - name: Prowd
         href: teams/prowd.md
-      - name: Segurança por push
+      - name: Segurança por Push
         href: teams/push-security.md
       - name: I
         href: teams/moduleq-q.md
@@ -1060,6 +1050,8 @@ items:
         href: teams/quadrasystemsnet-quadra-thankz.md
       - name: Quadra Visitorz
         href: teams/quadrasystemsnet-quadra-visitorz.md
+      - name: QuickMinutes
+        href: teams/quickminutes.md
       - name: Quire
         href: teams/potix-corporation-quire.md
       - name: Quitch
@@ -1224,8 +1216,6 @@ items:
         href: teams/swoop-analytics-pty-ltd.md
       - name: SysAid
         href: teams/sysaid.md
-      - name: Tactileo
-        href: teams/maskott-tactileo.md
       - name: TagMyFav
         href: teams/avishkaram-technologies-pvt-ltd-tagmyfav.md
       - name: Tailored Talks
@@ -1401,7 +1391,7 @@ items:
       - name: YAROOMS
         href: teams/yarooms.md
       - name: Yeastar Workplace
-        href: teams/xiamen-yeastar-coltd-workplace.md
+        href: teams/yeastar-information-technology-workplace.md
       - name: yuccaHR
         href: teams/yucca-technologies-gmbh-yuccahr.md
       - name: Zavvy
@@ -2283,8 +2273,6 @@ items:
         href: azure/cdd5ed6f-ceda-4d46-a522-b7526d6d9e50.md
       - name: ce60db2f-439f-4e45-bfdc-d4c827c1820d
         href: azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md
-      - name: cec02d43-1b67-4430-9bc9-861da8582801
-        href: azure/cec02d43-1b67-4430-9bc9-861da8582801.md
       - name: cf9bdbc1-18c7-4700-b6b3-093f241e2d8a
         href: azure/cf9bdbc1-18c7-4700-b6b3-093f241e2d8a.md
       - name: d1762bac-3696-429d-ab0b-2a61463d6b7a
@@ -2439,7 +2427,5 @@ items:
         href: azure/ff50870f-b19b-489c-9766-4bcee4e843eb.md
       - name: ff540df6-84dc-4a84-baa4-a95ce3b415cd
         href: azure/ff540df6-84dc-4a84-baa4-a95ce3b415cd.md
-      - name: ff5f406c-2ded-423f-b6ba-2950a2532b69
-        href: azure/ff5f406c-2ded-423f-b6ba-2950a2532b69.md
       - name: ffdbe361-6168-42f7-beef-d1931b7922da
         href: azure/ffdbe361-6168-42f7-beef-d1931b7922da.md
