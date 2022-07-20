@@ -1,5 +1,5 @@
 ---
-title: Informações do aplicativo para Appraisd da Appraisd ltd.
+title: Informações do aplicativo para Glowbl por Glowbl
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,43 +7,43 @@ ms.date: 07/19/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para a Appraisd, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para Glowbl, suas políticas de manipulação de dados, suas informações do catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro STAR da CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: feb9fcc1576d3d357eafaade364ad9913c369a83
+ms.openlocfilehash: 26ae43baf501786611c57c7912716e4acb2825eb
 ms.sourcegitcommit: f020743c27bd5ba69e4f74e8fff3f82b2571c408
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/20/2022
-ms.locfileid: "66890254"
+ms.locfileid: "66892008"
 ---
-# <a name="appraisd"></a>Avaliado
+# <a name="glowbl"></a>Glowbl
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 22 de junho de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 20 de dezembro de 2021</p>
 
-* <a href="https://teams.microsoft.com/l/app/4f037969-20ef-4a41-8330-422b7b115eb6" target="_blank">Exibir na loja do Teams</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003123" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/4a32acb6-9163-4dfe-9427-d51a3f53ef42" target="_blank">Exibir na loja do Teams</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200004368" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pela Appraisd ltd. à Microsoft:
+Informações fornecidas pelo Glowbl para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Avaliado |
-| ID | WA200003123 |
+| Nome do aplicativo | Glowbl |
+| ID | WA200004368 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa parceira | Avaliado ltd. |
-| Site da empresa | [https://www.appraisd.com](https://www.appraisd.com) |
-| Termos de Uso do Aplicativo | [https://www.appraisd.com/terms](https://www.appraisd.com/terms) |
-| Funcionalidade principal do aplicativo | Sobrecarrege sua cultura de desempenho com revisões de desempenho, metas e comentários |
-| Localização da sede da empresa | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
-| Página de informações do aplicativo | [https://www.appraisd.com](https://www.appraisd.com) |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
+| Nome da empresa parceira | Glowbl |
+| Site da empresa | [https://www.glowbl.com](https://www.glowbl.com) |
+| Termos de Uso do Aplicativo | [https://www.glowbl.com/en/terms-of-use/](https://www.glowbl.com/en/terms-of-use/) |
+| Funcionalidade principal do aplicativo | Use sua autenticação do Microsoft Teams para entrar facilmente no Glowbl, - Adicione um espaço Glowbl em uma guia da equipe criada para cada sessão de aprendizado, - Crie eventos em seu calendário do Outlook diretamente de seus espaços virtuais Glowbl, - Compartilhar e projetar arquivos do SharePoint ou uma unidade (Microsoft Word, Microsoft Excel e Microsoft Powerpoint) em tabelas inteligentes Glowbl sem abrir uma nova janela do navegador ou compartilhar sua tela |
+| Localização da sede da empresa | França |
+| Página de informações do aplicativo | |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,20 +53,21 @@ Informações fornecidas pela Appraisd ltd. à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
-Essas informações foram fornecidas pela Appraisd ltd. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
+Essas informações foram fornecidas pela Glowbl sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados que o aplicativo coleta.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
-| Quais dados são processados pelo seu aplicativo? | Dados de perfil do usuário |
+| Quais dados são processados pelo seu aplicativo? | Email do usuário, nome, sobrenome |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | ID do Grafo de Usuário, Nome de princípio do usuário, URL do serviço de Bot, ID de usuário do Teams |
-| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
+| Quais dados são armazenados em seus bancos de dados? | Email do usuário, nome, sobrenome |
+| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | França |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são retidos após o encerramento da conta? | Menos de 60 dias |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Menos de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
-| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Sim |
+| Você tem contratos de compartilhamento de dados em vigor com qualquer serviço de terceiros com o qual você compartilha dados de clientes da Microsoft? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -79,8 +80,8 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Você executa testes de penetração anuais no aplicativo? | Sim |
-| O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | ApplicationControls |
+| O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Não |
+| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | TraditionalAntiMalware, ApplicationControls |
 | Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Sim |
 | Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Sim |
 | Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? | Sim |
@@ -92,11 +93,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
 | Autenticação Multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
-| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | N/D |
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
 | Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
 | Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Sim |
 | Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Sim |
-| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Sim |
+| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Não |
 | Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Sim |
 | Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção? | Sim |
 
@@ -109,20 +110,20 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | N/D |
-| O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
-| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | N/D |
+| O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | Não |
+| O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 1)? | Não |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 2)? | Não |
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
 | Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
-| O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Sim |
+| O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Não |
 | O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | Não |
 | O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Não |
 | O aplicativo está em conformidade com a ISO 27002 (Organização Internacional para Padronização)? | Não |
 | O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Não |
-| O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | N/D |
-| O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
-| O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | N/D |
-| O aplicativo está em conformidade com o NIST 800-171? | N/D |
+| O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | Não |
+| O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | Não |
+| O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | Não |
+| O aplicativo está em conformidade com o NIST 800-171? | Não |
 | O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -135,15 +136,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
 | O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Sim |
-| URL da Política de Privacidade | https://www.appraisd.com/legal/privacy-policy |
+| URL da Política de Privacidade | https://www.glowbl.com/en/privacy-policy/ |
 | O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
 | O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
 | Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
 | O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
 | O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
-| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | N/D |
+| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Não |
 | O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
-| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
+| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,9 +166,12 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 >|   **Permissão do Graph**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| People.Read | Delegada | Essas permissões são necessárias para obter uma lista de membros da equipe para os quais o usuário pode enviar comentários. | [4f037969-20ef-4a41-8330-422b7b115eb6](../azure/4f037969-20ef-4a41-8330-422b7b115eb6.md) |
->| User.Read | Delegada | Essas permissões são necessárias para identificar o usuário e vinculá-lo a uma conta no Appraisd. | [4f037969-20ef-4a41-8330-422b7b115eb6](../azure/4f037969-20ef-4a41-8330-422b7b115eb6.md) |
->| User.ReadBasic.All | Delegada | Essas permissões são necessárias para obter os nomes dos membros da equipe ao selecionar comentários. | [4f037969-20ef-4a41-8330-422b7b115eb6](../azure/4f037969-20ef-4a41-8330-422b7b115eb6.md) |
+>| Files.Read | Delegada | Somente quando os usuários precisam mostrar documentos em uma sessão Glowbl (seletor do Sharepoint) | [12d736b4-dd63-4d2a-a527-e4ab0edb08e9](../azure/12d736b4-dd63-4d2a-a527-e4ab0edb08e9.md) |
+>| Files.Read.All | Delegada | Somente quando os usuários precisam mostrar documentos em uma sessão Glowbl (seletor do Sharepoint) | [12d736b4-dd63-4d2a-a527-e4ab0edb08e9](../azure/12d736b4-dd63-4d2a-a527-e4ab0edb08e9.md) |
+>| User.Read | Delegada | Conectar o usuário e ler o perfil do usuário | [12d736b4-dd63-4d2a-a527-e4ab0edb08e9](../azure/12d736b4-dd63-4d2a-a527-e4ab0edb08e9.md) |
+>| email | Delegada | Obter email do usuário para regras de acesso ao espaço Glowbl com base em emails | [12d736b4-dd63-4d2a-a527-e4ab0edb08e9](../azure/12d736b4-dd63-4d2a-a527-e4ab0edb08e9.md) |
+>| openid | Delegada | Usuário de entrada | [12d736b4-dd63-4d2a-a527-e4ab0edb08e9](../azure/12d736b4-dd63-4d2a-a527-e4ab0edb08e9.md) |
+>| perfil | Delegada | Exibir o perfil básico do usuário para listar participantes em sessões glowbl | [12d736b4-dd63-4d2a-a527-e4ab0edb08e9](../azure/12d736b4-dd63-4d2a-a527-e4ab0edb08e9.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

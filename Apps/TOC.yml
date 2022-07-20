@@ -508,6 +508,8 @@ items:
         href: teams/medalsoft-digitalops-toolbox.md
       - name: Conselhos Diligentes
         href: teams/diligent-boards.md
+      - name: DirectFax
+        href: teams/etherfax-llc-directfax.md
       - name: DisasterTech DICE
         href: teams/disastertech-dice.md
       - name: Listas de distribuição Pro
@@ -656,6 +658,8 @@ items:
         href: teams/gfacility.md
       - name: GitHub
         href: teams/microsoft-corporation-github.md
+      - name: Glowbl
+        href: teams/glowbl.md
       - name: Go1
         href: teams/go1.md
       - name: Goalhub
@@ -1110,6 +1114,8 @@ items:
         href: teams/wni-shared-thread-by.md
       - name: SHL
         href: teams/shl.md
+      - name: Showmaster
+        href: teams/cherryware-showmaster.md
       - name: Separar
         href: teams/sift.md
       - name: SightCall
@@ -1160,6 +1166,8 @@ items:
         href: teams/teladoc-inc-solo.md
       - name: SQQ
         href: teams/superquickquestion-sqq.md
+      - name: Squadcast
+        href: teams/squadcast.md
       - name: Squadify
         href: teams/squadify-holdings-pty-ltd.md
       - name: Stack Overflow para o Teams
@@ -1237,7 +1245,7 @@ items:
       - name: Espaço de aula do Teameo
         href: teams/ls2-innovation-teameo-class-space.md
       - name: Teamflect
-        href: teams/grepsi-software-teamflect.md
+        href: teams/teamflect.md
       - name: TeamMood
         href: teams/power-up-conseil-teammood.md
       - name: Teams Manager
