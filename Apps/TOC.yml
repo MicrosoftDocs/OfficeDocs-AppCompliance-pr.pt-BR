@@ -476,6 +476,8 @@ items:
         href: teams/cytrack-cyrecord.md
       - name: CyReport
         href: teams/cytrack-cyreport.md
+      - name: DailyBot
+        href: teams/dailybot.md
       - name: Data Hu
         href: teams/data-hu.md
       - name: DataFetch
