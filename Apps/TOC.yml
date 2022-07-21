@@ -76,6 +76,8 @@ items:
   - name: Microsoft Outlook Apps
     href: outlook/outlook-apps.md
     items:
+      - name: Achievers para Outlook
+        href: outlook/achievers-for-outlook.md
       - name: Adobe Acrobat Sign para Microsoft Outlook
         href: outlook/adobe-inc-acrobat-sign-for-microsoft-outlook.md
       - name: Appspace para Outlook
@@ -238,6 +240,8 @@ items:
         href: teams/beroe-abi.md
       - name: absentify
         href: teams/braincore-solutions-absentify.md
+      - name: Empreendedores
+        href: teams/achievers.md
       - name: ACV
         href: teams/tangible-it-mexico-acv.md
       - name: Adobe Acrobat
@@ -430,7 +434,7 @@ items:
         href: teams/atlassian-confluence-cloud.md
       - name: Conector de Confluência por MWF
         href: teams/move-work-forward-confluence-connector-by-mwf.md
-      - name: Connect+
+      - name: Conectar+
         href: teams/reward-gateway-connectplus.md
       - name: Contact Center
         href: teams/landis-technologies-llc-contact-center.md
