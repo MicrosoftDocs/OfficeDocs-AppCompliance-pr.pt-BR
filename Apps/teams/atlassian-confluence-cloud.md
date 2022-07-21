@@ -3,26 +3,26 @@ title: Informações do aplicativo para o Confluence Cloud by Atlassian
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/13/2022
+ms.date: 07/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Confluence Cloud, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2b1fce0ac0210113dc5dee3ca08b5e52636ea1c3
-ms.sourcegitcommit: b6dd040770330d4499a0e19998f909be31b67c34
+ms.openlocfilehash: 9571b81a027e7b10f1b7621f4f5623720101460e
+ms.sourcegitcommit: d35f3194155f00ecca787b2bc9bea5c69a534b0a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66076222"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66949564"
 ---
 # <a name="confluence-cloud"></a>Nuvem de Confluência
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 13 de junho de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 21 de julho de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/30bb610c-6321-40fe-a047-056e7d0dac96" target="_blank">Exibir no Teams armazenamento</a>
+* <a href="https://teams.microsoft.com/l/app/30bb610c-6321-40fe-a047-056e7d0dac96" target="_blank">Exibir na loja do Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003113" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -39,7 +39,7 @@ Informações fornecidas pelo Atlassian à Microsoft:
 | Nome da empresa parceira | Atlassian |
 | Site da empresa | [https://www.atlassian.com](https://www.atlassian.com) |
 | Termos de Uso do Aplicativo | [https://www.atlassian.com/licensing/marketplace/termsofuse](https://www.atlassian.com/licensing/marketplace/termsofuse) |
-| Funcionalidade principal do aplicativo | Faça anotações de reunião, compartilhe páginas e mantenha-se atualizado com o Confluence Cloud para Teams.  |
+| Funcionalidade principal do aplicativo | Faça anotações de reunião, compartilhe páginas e mantenha-se atualizado com o Confluence Cloud for Teams.  |
 | Localização da sede da empresa | Austrália |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
@@ -152,11 +152,11 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
 | Seu aplicativo armazena credenciais no código? | Não |
-| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
+| Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
+>|   **Permissão do Graph**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Calendars.Read | Delegada | - Nós lêmos a lista de membros do Chat em uma reunião, para que saibamos a lista de convidados para a reunião. - Nós lêmos os usuários&#8217; nomes e endereços de email que são exibidos condicionalmente em nosso aplicativo de reunião. Por exemplo, exiba o nome do usuário atual fazendo anotações da reunião. – Nosso aplicativo lê o evento de calendário&#8217;usuário em que nosso aplicativo foi adicionado a uma reunião para que possamos ter informações básicas sobre a reunião, como o título da reunião.     | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
 >| Chat.ReadBasic | Delegada | - Nós lêmos a lista de membros do Chat em uma reunião, para que saibamos a lista de convidados para a reunião. - Nós lêmos os usuários&#8217; nomes e endereços de email que são exibidos condicionalmente em nosso aplicativo de reunião. Por exemplo, exiba o nome do usuário atual fazendo anotações da reunião. – Nosso aplicativo lê o evento de calendário&#8217;usuário em que nosso aplicativo foi adicionado a uma reunião para que possamos ter informações básicas sobre a reunião, como o título da reunião. | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
