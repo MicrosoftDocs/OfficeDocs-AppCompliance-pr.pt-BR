@@ -434,7 +434,7 @@ items:
         href: teams/atlassian-confluence-cloud.md
       - name: Conector de Confluência por MWF
         href: teams/move-work-forward-confluence-connector-by-mwf.md
-      - name: Conectar+
+      - name: Connect+
         href: teams/reward-gateway-connectplus.md
       - name: Contact Center
         href: teams/landis-technologies-llc-contact-center.md
@@ -2041,6 +2041,8 @@ items:
         href: azure/81daf623-cac2-4861-a939-19fdbde90b4d.md
       - name: 8277a51c-3ad6-446c-9b7e-e3f6e27257c1
         href: azure/8277a51c-3ad6-446c-9b7e-e3f6e27257c1.md
+      - name: 82bfb2e1-cad3-4e99-8995-5d140f295ef2
+        href: azure/82bfb2e1-cad3-4e99-8995-5d140f295ef2.md
       - name: 82df726e-0de2-46af-b4f1-0645fd95fc97
         href: azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md
       - name: 82eb2bf2-969c-46da-9e89-1db59ac4fbb3
