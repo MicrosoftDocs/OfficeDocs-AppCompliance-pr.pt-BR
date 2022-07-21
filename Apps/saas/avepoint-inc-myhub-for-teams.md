@@ -3,18 +3,18 @@ title: Informações de aplicativo para MyHub para Teams da AvePoint Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/22/2022
+ms.date: 07/20/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o MyHub para Teams, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 539fb0347185133f1d81d169c14922bb44f5aea3
-ms.sourcegitcommit: 8f06a03c298fca9d066cc977fcbd2717c310caa4
+ms.openlocfilehash: 2612c1f6580365e9a00e333843c5058d7bb00c01
+ms.sourcegitcommit: 0a27f7395a0969da2cebc8345a88aa69e841eff6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/21/2022
-ms.locfileid: "66916783"
+ms.locfileid: "66923466"
 ---
 # <a name="myhub-for-teams"></a>MyHub para Teams
 
