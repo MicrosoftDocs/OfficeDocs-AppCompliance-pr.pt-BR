@@ -3,17 +3,17 @@ title: Segurança e Conformidade de Aplicativos do Microsoft Teams – Todos os 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/20/2022
+ms.date: 07/21/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações disponíveis sobre segurança e conformidade de todos os aplicativos do Microsoft Teams.
 localization_priority: Priority
-ms.openlocfilehash: 915447afd534019f3142c93e42c438e57d110f9a
-ms.sourcegitcommit: 65cdf1f1a0b38b05e29adf12828851ba225da959
+ms.openlocfilehash: 10a62a78badfecf37ff486dfddd69662553817b3
+ms.sourcegitcommit: d35f3194155f00ecca787b2bc9bea5c69a534b0a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/21/2022
-ms.locfileid: "66915604"
+ms.locfileid: "66949574"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Segurança e Conformidade dos Aplicativos do Microsoft Teams
 
@@ -107,6 +107,7 @@ A Microsoft trabalha com os nossos parceiros de desenvolvedor do Microsoft 365 p
 | [CI-Out-of-Office Lite](./ci-solution-gmbh-out-of-office-lite.md) | solução ci GmbH | **✓** |  |
 | [Listagem Confidencial](./binaryroots-classified-listing.md) | BinaryRoots | **✓** |  |
 | [SMS do funcionário](./unnamed-ventures-llc-clerk-sms.md) | Ventures sem nome, LLC. | **✓** |  |
+| [CLIPr](./clipr-co.md) | CLIPr Co | **✓** |  |
 | [ClipTraining](./cliptraining.md) | ClipTraining | **✓** |  |
 | [Clixie](./clixie-media-llc.md) | Clixie Media LLC | **✓** |  |
 | [Nuvem Eficaz](./cloud-effective.md) | Nuvem Eficaz | **✓** |  |
