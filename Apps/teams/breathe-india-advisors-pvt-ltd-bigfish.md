@@ -3,26 +3,26 @@ title: Informações de aplicativo para Bigfish da Breathe India Advisors Pvt. L
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 08/19/2021
+ms.date: 07/22/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Bigfish, suas políticas de manipulação de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3988b1480173fe3ea07c5da1c8eb1baa7333b63a
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: c9692626cd1a74ae3996875befdbdf755e4e7826
+ms.sourcegitcommit: 9c114837630164e4c4965abc220743e2b08a1df5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64881360"
+ms.lasthandoff: 07/22/2022
+ms.locfileid: "66973135"
 ---
 # <a name="bigfish"></a>Bigfish
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 23 de junho de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 22 de julho de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/04e306e7-e799-4817-8206-dbfaf1fcefa6" target="_blank">Exibir no Teams armazenamento</a>
+* <a href="https://teams.microsoft.com/l/app/04e306e7-e799-4817-8206-dbfaf1fcefa6" target="_blank">Exibir na loja do Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002985" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -31,19 +31,19 @@ ms.locfileid: "64881360"
 
 Informações fornecidas pelo Breathe India Advisors Pvt. Ltd. para a Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | Bigfish |
 | ID | WA200002985 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa parceira | Breathe India Advisors Pvt. |
+| Nome da empresa parceira | Breathe India Advisors Pvt. Ltd. |
 | Site da empresa | [https://www.bigfishbenefits.com](https://www.bigfishbenefits.com) |
 | Termos de Uso do Aplicativo | [https://www.bigfishbenefits.com/termsOfUse.html](https://www.bigfishbenefits.com/termsOfUse.html) |
 | Funcionalidade principal do aplicativo | Reconhecer. Recompensa. Ascensão. Impulsionar a produtividade do local de trabalho por meio do envolvimento moderno dos funcionários. |
 | Localização da sede da empresa | Índia |
 | Página de informações do aplicativo | |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | AWS |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,10 +55,10 @@ Informações fornecidas pelo Breathe India Advisors Pvt. Ltd. para a Microsoft:
 
 Essas informações foram fornecidas pelo Breathe India Advisors Pvt. Ltd. sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados que o aplicativo coleta.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Não |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -68,27 +68,28 @@ Essas informações foram fornecidas pelo Breathe India Advisors Pvt. Ltd. sobre
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você executa testes de penetração anuais no aplicativo? | Sim |
 | O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? |  |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? |  |
-| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? |  |
-| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? |  |
-| Seu ambiente tem algum software ou sistemas operacionais sem suporte? |  |
-| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? |  |
-| Você tem um firewall instalado no limite de rede externa? |  |
-| Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? |  |
-| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? |  |
-| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? |  |
-| Autenticação Multifator (MFA) habilitada para: |  |
-| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? |  |
-| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? |  |
-| Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? |  |
-| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? |  |
-| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? |  |
-| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
+| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | ApplicationControls, TraditionalAntiMalware |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Sim |
+| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Sim |
+| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? | Sim |
+| Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? | Sim |
+| Você tem um firewall instalado no limite de rede externa? | Sim |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
+| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
+| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
+| Autenticação Multifator (MFA) habilitada para: | CodeRepositories, DNSManagement |
+| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Não |
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | N/D |
+| Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Não |
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Não |
+| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Sim |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Sim |
+| Você relata violações de dados de aplicativo ou serviço a autoridades de supervisão e indivíduos afetados pela violação dentro de 72 horas após a detecção? | Sim |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -96,7 +97,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="compliance"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | N/D |
 | O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
@@ -112,7 +113,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | N/D |
 | O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
 | O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | N/D |
-| O aplicativo está em conformidade com o NIST 800-171? |  |
+| O aplicativo está em conformidade com o NIST 800-171? | N/D |
 | O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -121,9 +122,9 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="privsection"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? |  |
+| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -131,16 +132,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Não |
 | Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
 | Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? |  |
-| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
-| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) |  |
-| Seu aplicativo armazena credenciais no código? |  |
-| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
+| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
+| Seu aplicativo armazena credenciais no código? | Não |
+| Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
 >Este aplicativo não usa o Microsoft Graph.
 
