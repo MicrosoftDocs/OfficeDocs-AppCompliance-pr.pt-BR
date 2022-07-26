@@ -426,6 +426,8 @@ items:
         href: teams/ibv-solutions-collaboard.md
       - name: Vaso de Coleta
         href: teams/gifted-to-you-limited-collection-pot.md
+      - name: Coloquial
+        href: teams/colloquial-solutions.md
       - name: Navegador da Empresa
         href: teams/konica-minolta-it-solutions-company-navigator.md
       - name: ComplianceCow
@@ -1582,8 +1584,6 @@ items:
         href: saas/fluentpro-software-corporation-project-migrator.md
       - name: Integração do Puzzel Microsoft Teams
         href: saas/puzzel-as-microsoft-teams-integration.md
-      - name: SalesTim
-        href: saas/salestim.md
       - name: Selador de Slides
         href: saas/officeatwork-slide-chooser.md
       - name: Integração do Teams do Storm Cloud Contact Center
@@ -1743,8 +1743,6 @@ items:
         href: azure/2858d81b-9eb1-4ba1-a79b-b42390bb0015.md
       - name: 286a2e24-18ad-432d-8698-694bcd77ecfc
         href: azure/286a2e24-18ad-432d-8698-694bcd77ecfc.md
-      - name: 2a651f59-97ce-42bb-97d7-cf7a2af4b635
-        href: azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635.md
       - name: 2a93620e-4345-4e3b-9bae-0195f08aab69
         href: azure/2a93620e-4345-4e3b-9bae-0195f08aab69.md
       - name: 2c9fb9b7-5112-4a91-af52-f98682bc7bf3
