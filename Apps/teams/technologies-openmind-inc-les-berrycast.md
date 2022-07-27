@@ -3,26 +3,26 @@ title: Informações de aplicativo para Berrycast da Technologies Openmind Inc, 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/23/2021
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Berrycast, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: be2ffc0cf2ae260c02f04c5cc885f79c753a107f
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 6295b67ab8c73fc629455f248c486eee56121574
+ms.sourcegitcommit: 6d3b549e1bef908d74a643e57b7315aaa27261ee
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64875288"
+ms.lasthandoff: 07/26/2022
+ms.locfileid: "67032475"
 ---
 # <a name="berrycast"></a>Berrycast
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 23 de julho de 2021</p>
+<p>Última atualização pelo desenvolvedor em: 25 de julho de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/c7cde650-1e32-11eb-af14-639b3a7d6491" target="_blank">Exibir no Teams armazenamento</a>
+* <a href="https://teams.microsoft.com/l/app/c7cde650-1e32-11eb-af14-639b3a7d6491" target="_blank">Exibir na loja do Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002798" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -31,7 +31,7 @@ ms.locfileid: "64875288"
 
 Informações fornecidas pela Technologies Openmind Inc, Les to Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | Berrycast |
 | ID | WA200002798 |
@@ -42,8 +42,8 @@ Informações fornecidas pela Technologies Openmind Inc, Les to Microsoft:
 | Funcionalidade principal do aplicativo | Melhore a comunicação e a colaboração com seus colegas e clientes usando o Berrycast. |
 | Localização da sede da empresa | Canadá |
 | Página de informações do aplicativo | |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? |  |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Other |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,10 +55,16 @@ Informações fornecidas pela Technologies Openmind Inc, Les to Microsoft:
 
 Essas informações foram fornecidas pela Technologies Openmind Inc, Les sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? |  |
-| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? |  |
+| O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Não |
+| O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
+| Quais dados são armazenados em seus bancos de dados? | email, nome, sobrenome, microsoftid |
+| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Canadá |
+| Você tem um processo estabelecido de locação e descarte de dados? | Sim |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Não mantido |
+| Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
+| Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -68,27 +74,28 @@ Essas informações foram fornecidas pela Technologies Openmind Inc, Les sobre c
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você executa testes de penetração anuais no aplicativo? | Não |
 | O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
-| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? |  |
-| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? |  |
-| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? |  |
-| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? |  |
-| Seu ambiente tem algum software ou sistemas operacionais sem suporte? |  |
-| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? |  |
-| Você tem um firewall instalado no limite de rede externa? |  |
-| Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? |  |
-| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? |  |
-| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? |  |
-| Autenticação Multifator (MFA) habilitada para: |  |
-| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? |  |
-| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? |  |
-| Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? |  |
-| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? |  |
-| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? |  |
-| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? |  |
+| Seu ambiente usa a proteção antimalware tradicional ou controles de aplicativo? | ApplicationControls, TraditionalAntiMalware |
+| Você tem um processo estabelecido para identificar e classificar vulnerabilidades de segurança de risco? | Não |
+| Você tem uma política que rege o SLA (contrato de nível de serviço) para aplicar patches? | Não |
+| Você realiza atividades de gerenciamento de patch de acordo com os SLAs da política de aplicação de patch? | Sim |
+| Seu ambiente tem algum software ou sistemas operacionais sem suporte? | Não |
+| Você realiza a verificação de vulnerabilidade trimestral em seu aplicativo e a infastructure que dá suporte a ele? | Não |
+| Você tem um firewall instalado no limite de rede externa? | Sim |
+| Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
+| Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
+| As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
+| Autenticação Multifator (MFA) habilitada para: | CodeRepositories, DNSManagement, Credential |
+| Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
+| Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
+| Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
+| Todos os logs são revisados regularmente por ferramentas humanas ou automatizadas para detectar possíveis eventos de segurança? | Não |
+| Quando um evento de segurança é detectado, os alertas são enviados automaticamente a um funcionário para triagem? | Não |
+| Você tem um processo formal de gerenciamento de risco de segurança da informação estabelecido? | Não |
+| Você tem um processo formal de resposta a incidentes de segurança documentado e estabelecido? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -96,7 +103,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="compliance"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | N/D |
 | O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
@@ -112,7 +119,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com a LEI de Privacidade e Direitos Educacionais da Família (FERPA)? | N/D |
 | O aplicativo está em conformidade com a COPPA (Children's Online Privacy Protection Act)? | N/D |
 | O aplicativo está em conformidade com Sarbanes-Oxley Act (SOX)? | N/D |
-| O aplicativo está em conformidade com o NIST 800-171? |  |
+| O aplicativo está em conformidade com o NIST 800-171? | N/D |
 | O aplicativo foi certificado pela Cloud Security Alliance (CSA Star) ? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -121,9 +128,18 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="privsection"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? |  |
+| Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
+| O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Não |
+| O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
+| O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
+| O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
+| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Não |
+| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
+| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Não |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -131,27 +147,26 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
 | Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
-| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | falso |
-| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? |  |
+| Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Não |
+| Se seu aplicativo não usar uma das bibliotecas acima, qual biblioteca ou biblioteca de autenticação ele usa? | direct oauth2 authentification with passport-microsoft |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
-| Seu aplicativo solicita permissões de privilégios mínimos para seu cenário? | Sim |
-| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) |  |
-| Seu aplicativo armazena credenciais no código? |  |
-| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
+| Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
+| Seu aplicativo armazena credenciais no código? | Não |
+| Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Permissão do Graph**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| People.Read | Delegada | Para obter todos os contatos do usuário | [094f3986-3951-4f0c-88fa-514d117c8dd0](../azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md) |
->| User.Read | Delegada | Para identificar o usuário com informações básicas (nome, sobrenome e imagem) | [094f3986-3951-4f0c-88fa-514d117c8dd0](../azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md) |
->| email | Delegada | Para identificar o usuário | [094f3986-3951-4f0c-88fa-514d117c8dd0](../azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md) |
->| offline_access | Delegada | Manter acesso aos dados aos quais você concedeu acesso | [094f3986-3951-4f0c-88fa-514d117c8dd0](../azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md) |
->| openid | Delegada | Para identificar o usuário | [094f3986-3951-4f0c-88fa-514d117c8dd0](../azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md) |
+>| People.Read | Delegada | Ser capaz de conhecer o contato dos usuários para melhorar a experiência de compartilhamento | [094f3986-3951-4f0c-88fa-514d117c8dd0](../azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md) |
+>| User.Read | Delegada | Ser capaz de conhecer o email, o nome e o sobrenome do usuário | [094f3986-3951-4f0c-88fa-514d117c8dd0](../azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md) |
+>| email | Delegada | Lembre-se do usuário para um logon futur com o Microsoft Oauth2 | [094f3986-3951-4f0c-88fa-514d117c8dd0](../azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md) |
+>| offline_access | Delegada | Precisamos manter o acesso para atualizar o contato e permitir uma experiência melhor | [094f3986-3951-4f0c-88fa-514d117c8dd0](../azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md) |
+>| openid | Delegada | Lembre-se do usuário para um logon futur com o Microsoft Oauth2 | [094f3986-3951-4f0c-88fa-514d117c8dd0](../azure/094f3986-3951-4f0c-88fa-514d117c8dd0.md) |
 
 >Este aplicativo não tem APIs adicionais.
 
