@@ -332,6 +332,8 @@ items:
         href: teams/unifon-as-bedriftsnett.md
       - name: Bipe
         href: teams/medxnote-beep.md
+      - name: Beesy
+        href: teams/beesapps-beesy.md
       - name: Framboesa
         href: teams/berryworksai-berry.md
       - name: Berrycast
@@ -426,7 +428,7 @@ items:
         href: teams/ibv-solutions-collaboard.md
       - name: Vaso de Coleta
         href: teams/gifted-to-you-limited-collection-pot.md
-      - name: Coloquial
+      - name: Colloquial
         href: teams/colloquial-solutions.md
       - name: Navegador da Empresa
         href: teams/konica-minolta-it-solutions-company-navigator.md
@@ -1334,6 +1336,8 @@ items:
         href: teams/uservoice.md
       - name: Vacation Tracker
         href: teams/vacation-tracker.md
+      - name: Verso
+        href: teams/versebook.md
       - name: Verto 365
         href: teams/tmi-systems-verto-365.md
       - name: Vibe
@@ -2015,6 +2019,8 @@ items:
         href: azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md
       - name: 78472101-8565-4ebe-a478-fbeb5ac8b1e0
         href: azure/78472101-8565-4ebe-a478-fbeb5ac8b1e0.md
+      - name: 79b08482-6a09-41ff-a303-7ad2fd9c3531
+        href: azure/79b08482-6a09-41ff-a303-7ad2fd9c3531.md
       - name: 79d7af39-4f57-4e95-adaf-ec8ff756d0df
         href: azure/79d7af39-4f57-4e95-adaf-ec8ff756d0df.md
       - name: 7a483472-4f1b-4c75-bff3-7a48dae227dc
