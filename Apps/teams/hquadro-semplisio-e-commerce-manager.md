@@ -3,20 +3,20 @@ title: Informações do aplicativo para o Semplisio e-commerce Manager da HQuadr
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/22/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Semplisio e o Gerenciador de comércio eletrônico, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0aa0282c79baec2c8dfebaeef26efa0f69c55636
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: a28ac8464627e779e138a35b37b1d54401e13660
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66247890"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67048295"
 ---
-# <a name="semplisio-e-commerce-manager"></a>Gerente de comércio eletrônico do Semplisio
+# <a name="semplisio-e-commerce-manager"></a>Semplisio e-commerce Manager
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +33,7 @@ Informações fornecidas pelo HQuadro à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Gerente de comércio eletrônico do Semplisio |
+| Nome do aplicativo | Semplisio e-commerce Manager |
 | ID | WA200004286 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa parceira | HQuadro |
@@ -64,7 +64,7 @@ Essas informações foram fornecidas pelo HQuadro sobre como esse aplicativo col
 | Quais dados são armazenados em seus bancos de dados? | id Team, canal de ID |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Países Baixos (a), Finlândia |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 

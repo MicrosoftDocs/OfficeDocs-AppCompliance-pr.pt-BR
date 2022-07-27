@@ -3,18 +3,18 @@ title: Informações do aplicativo para os achievers por achievers
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/20/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para os Achievers, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 563889cb54881ec8fe27d4e7ffe21983a9ee26ef
-ms.sourcegitcommit: b072ed662849382b6df1bebf43454e12e5ed544d
+ms.openlocfilehash: ba0d4b33d7cc22b5abc51f0f5112a3b8966c3239
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/20/2022
-ms.locfileid: "66912908"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67048299"
 ---
 # <a name="achievers"></a>Empreendedores
 
@@ -62,7 +62,7 @@ Essas informações foram fornecidas pelos Achievers sobre como esse aplicativo 
 | Quais dados são armazenados em seus bancos de dados? | ID do locatário, ID do usuário, Email do usuário, Localidade do usuário, ID do Bot, Nome do bot, URL do serviço de Bot |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Canadá |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Sim |
 | Você tem contratos de compartilhamento de dados em vigor com qualquer serviço de terceiros com o qual você compartilha dados de clientes da Microsoft? | Sim |

@@ -3,18 +3,18 @@ title: Informações do aplicativo para Smy by Supermonday
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/29/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Smy, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ff423241fd4440e04cfd4019d1a060fe04d4f3fe
-ms.sourcegitcommit: 2ae239376c807fa9223fc7e18daa1feed6e826aa
+ms.openlocfilehash: dfdd62c25620605989082a0583c48363126e15f1
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/30/2022
-ms.locfileid: "66564557"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67048507"
 ---
 # <a name="smy"></a>Smy
 
@@ -43,7 +43,7 @@ Informações fornecidas pelo Supermonday para a Microsoft:
 | Localização da sede da empresa | França |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Outros |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | Other |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -64,7 +64,7 @@ Essas informações foram fornecidas pelo Supermonday sobre como esse aplicativo
 | Quais dados são armazenados em seus bancos de dados? | microsoft user, microsoft group |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | França |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 
