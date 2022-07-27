@@ -3,18 +3,18 @@ title: Informações do aplicativo para Appspace da Appspace, Inc.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/11/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Todas as informações de segurança e conformidade disponíveis para o Appspace, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 33ebdad28ebae386982c9e84025417e7fecd7900
-ms.sourcegitcommit: 1d78b47ae32dd7ee29fb848e04ac0c5090d6b41c
+ms.openlocfilehash: ee8749cecf65b20022f537a8ba06e546e04e0bd4
+ms.sourcegitcommit: b0ba698028b1a5124488394b51a34755aa74137e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66765110"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67036080"
 ---
 # <a name="appspace"></a>Appspace
 

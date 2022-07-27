@@ -3,18 +3,18 @@ title: Informações do aplicativo para SalesTim por SalesTim
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/27/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para SalesTim, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: dedccb17f83675fa128af424c5769a5ee395d984
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: d7faa5b8162e99eb7d463acf441c0d59a0a53cd3
+ms.sourcegitcommit: b0ba698028b1a5124488394b51a34755aa74137e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66250006"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67036090"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -37,11 +37,11 @@ Informações fornecidas pelo SalesTim para a Microsoft:
 | ID | WA200001393 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa parceira | SalesTim |
-| Site da empresa | [https://www.salestim.com](https://www.salestim.com) |
-| Termos de Uso do Aplicativo | [https://www.salestim.com/legal/tos](https://www.salestim.com/legal/tos) |
+| Site da empresa | [https://nbold.co/](https://nbold.co/) |
+| Termos de Uso do Aplicativo | [https://nbold.co/legal/tos/](https://nbold.co/legal/tos/) |
 | Funcionalidade principal do aplicativo | O SalesTim ajuda todas as organizações a melhorar seus processos colaborativos por meio da criação de modelos do Microsoft Teams sem código e da automação de governança em escala. |
 | Localização da sede da empresa | França |
-| Página de informações do aplicativo | [https://www.salestim.com](https://www.salestim.com) |
+| Página de informações do aplicativo | [https://nbold.co/microsoft-teams-for-project-management/](https://nbold.co/microsoft-teams-for-project-management/) |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Paas |
 | Quais provedores de nuvem de hospedagem o aplicativo usa? | Azure |
 

@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todas as Azure App IDs.
 localization_priority: Normal
-ms.openlocfilehash: 9e00a79a1a6066706522851bab4eb458c03b4bdd
-ms.sourcegitcommit: 6d3b549e1bef908d74a643e57b7315aaa27261ee
+ms.openlocfilehash: e3de0201053d6fe83d30ee6572931d571b6ba4e7
+ms.sourcegitcommit: b0ba698028b1a5124488394b51a34755aa74137e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/26/2022
-ms.locfileid: "67027575"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67036070"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure App segurança e conformidade de IDs
 
@@ -88,6 +88,7 @@ A Microsoft trabalha com nossos parceiros desenvolvedores do Microsoft 365 para 
 | [27c89ce8-b449-4959-b801-988d8b727512](./27c89ce8-b449-4959-b801-988d8b727512.md) | **✓** |  |
 | [2858d81b-9eb1-4ba1-a79b-b42390bb0015](./2858d81b-9eb1-4ba1-a79b-b42390bb0015.md) | **✓** |  |
 | [286a2e24-18ad-432d-8698-694bcd77ecfc](./286a2e24-18ad-432d-8698-694bcd77ecfc.md) | **✓** |  |
+| [28b871ff-85bf-48a5-9bee-364f2b74d104](./28b871ff-85bf-48a5-9bee-364f2b74d104.md) | **✓** |  |
 | [2a93620e-4345-4e3b-9bae-0195f08aab69](./2a93620e-4345-4e3b-9bae-0195f08aab69.md) | **✓** |  |
 | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](./2c9fb9b7-5112-4a91-af52-f98682bc7bf3.md) | **✓** |  |
 | [2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb](./2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb.md) | **✓** |  |
@@ -372,6 +373,7 @@ A Microsoft trabalha com nossos parceiros desenvolvedores do Microsoft 365 para 
 | [d1762bac-3696-429d-ab0b-2a61463d6b7a](./d1762bac-3696-429d-ab0b-2a61463d6b7a.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](./d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d.md) | **✓** |  |
 | [d2682b2a-2037-4545-94b6-3e7216ecca5f](./d2682b2a-2037-4545-94b6-3e7216ecca5f.md) | **✓** |  |
+| [d27f56ed-ddc7-4cf8-86ac-721b76c7d287](./d27f56ed-ddc7-4cf8-86ac-721b76c7d287.md) | **✓** |  |
 | [d2a1ed44-6cca-44d2-9b9c-1c9c1d597093](./d2a1ed44-6cca-44d2-9b9c-1c9c1d597093.md) | **✓** |  |
 | [d2c7af43-2e9d-41b2-b374-e9ffbe316d61](./d2c7af43-2e9d-41b2-b374-e9ffbe316d61.md) | **✓** |  |
 | [d361752a-c257-474d-bb79-324fbe4898b5](./d361752a-c257-474d-bb79-324fbe4898b5.md) | **✓** |  |
