@@ -3,26 +3,26 @@ title: Informações do aplicativo para Solicitar Vizir por Vizir.co
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/25/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Ask Vizir, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 452c8e22df7cd8d9b9d9f8277da7830dcf65a876
-ms.sourcegitcommit: 7c4eed407267c4c313909d4f27f46bebf443cb23
+ms.openlocfilehash: f1dae8bcc3dde4df939d8c09dde2fef8573eda86
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65069686"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67041769"
 ---
-# <a name="ask-vizir"></a>Pergunte ao Vizir
+# <a name="ask-vizir"></a>Perguntar ao Vizir
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 22 de abril de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/7b0641d9-8e1f-4415-99da-c80f8c175c69" target="_blank">Exibir no Teams armazenamento</a>
+* <a href="https://teams.microsoft.com/l/app/7b0641d9-8e1f-4415-99da-c80f8c175c69" target="_blank">Exibir na loja do Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003119" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -31,9 +31,9 @@ ms.locfileid: "65069686"
 
 Informações fornecidas pelo Vizir.co à Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Pergunte ao Vizir |
+| Nome do aplicativo | Perguntar ao Vizir |
 | ID | WA200003119 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa parceira | Vizir.co |
@@ -55,7 +55,7 @@ Informações fornecidas pelo Vizir.co à Microsoft:
 
 Essas informações foram fornecidas pelo Vizir.co sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
 | Quais dados são processados pelo seu aplicativo? | email do usuário, nome, sobrenome |
@@ -64,7 +64,7 @@ Essas informações foram fornecidas pelo Vizir.co sobre como esse aplicativo co
 | Quais dados são armazenados em seus bancos de dados? | email do usuário, nome, sobrenome |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | França |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 
@@ -76,7 +76,7 @@ Essas informações foram fornecidas pelo Vizir.co sobre como esse aplicativo co
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você executa testes de penetração anuais no aplicativo? | Sim |
 | O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
@@ -106,7 +106,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="compliance"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | N/D |
 | O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
@@ -131,7 +131,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="privsection"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
 | O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Sim |
@@ -151,7 +151,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Não |
 | Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
@@ -159,7 +159,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Sim |
 | Seu aplicativo armazena credenciais no código? | Não |
-| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
+| Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
 >Este aplicativo não usa o Microsoft Graph.
 

@@ -3,18 +3,18 @@ title: Informações do aplicativo para Beep by Medxnote
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/18/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Beep, suas políticas de manipulação de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fde5cb07dce69f3a739f02da9212bf2c527838c4
-ms.sourcegitcommit: 21d1c42a8e6d9f94b9c8f279bbe37f649ebd4e10
+ms.openlocfilehash: 194733cb012012903487f8034658089fa477c4cc
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/19/2022
-ms.locfileid: "66852674"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67046279"
 ---
 # <a name="beep"></a>Bipe
 
@@ -64,7 +64,7 @@ Essas informações foram fornecidas pelo Medxnote sobre como esse aplicativo co
 | Quais dados são armazenados em seus bancos de dados? | ID do locatário, perfil de usuário, marcas |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Reino Unido da Grã-Bretanha e Irlanda do Norte (o) |
 | Você tem um processo estabelecido de locação e descarte de dados? | Não |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Não |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 

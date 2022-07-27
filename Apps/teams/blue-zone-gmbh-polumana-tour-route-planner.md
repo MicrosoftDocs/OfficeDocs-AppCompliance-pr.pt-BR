@@ -3,20 +3,20 @@ title: Informações do aplicativo para Polumana Tour Route Planner by blue-zone
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/30/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Polumana Tour Route Planner, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0f434704fe58c7e92584341386850294807d3460
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: b7dda9931bc874b620c10e38e3b6b7c3c51c782a
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66655830"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67041809"
 ---
-# <a name="polumana-tour-route-planner"></a>Polumana Tour Route Planner
+# <a name="polumana-tour-route-planner"></a>polumana Tour Route Planner
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,10 +33,10 @@ Informações fornecidas pelo GmbH de zona azul para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Polumana Tour Route Planner |
+| Nome do aplicativo | polumana Tour Route Planner |
 | ID | WA200004331 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa parceira | GmbH de zona azul |
+| Nome da empresa parceira | blue-zone GmbH |
 | Site da empresa | [https://blue-zone.de](https://blue-zone.de) |
 | Termos de Uso do Aplicativo | [https://azaap-disp-route-planning.azurewebsites.net/#/terms...](https://azaap-disp-route-planning.azurewebsites.net/#/termsofuse) |
 | Funcionalidade principal do aplicativo | Planejador de Rota do Polumana Tour &amp; para aumentar a eficiência em suas visitas aos clientes |
@@ -58,13 +58,13 @@ Essas informações foram fornecidas pela GmbH de zona azul sobre como esse apli
 | **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
-| Quais dados são processados pelo seu aplicativo? | Contatos, Endereço de Email |
+| Quais dados são processados pelo seu aplicativo? | Contatos, Email endereço |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | Email, Endereços de Contatos |
+| Quais dados são armazenados em seus bancos de dados? | Email, endereços de contatos |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Países Baixos (o) |
 | Você tem um processo estabelecido de locação e descarte de dados? | Não |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Não |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Sim |
 | Você tem contratos de compartilhamento de dados em vigor com qualquer serviço de terceiros com o qual você compartilha dados de clientes da Microsoft? | Não |
@@ -158,7 +158,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Calendars.ReadWrite | aplicação | Após a otimização de rota, precisamos criar novos compromissos e excluir os existentes | [d361752a-c257-474d-bb79-324fbe4898b5](../azure/d361752a-c257-474d-bb79-324fbe4898b5.md) |
 >| Contacts.Read | aplicação | Precisamos ler os contatos para criar os compromissos | [d361752a-c257-474d-bb79-324fbe4898b5](../azure/d361752a-c257-474d-bb79-324fbe4898b5.md) |
->| User.Read | aplicação | Precisamos obter o email do usuário para manter as configurações | [d361752a-c257-474d-bb79-324fbe4898b5](../azure/d361752a-c257-474d-bb79-324fbe4898b5.md) |
+>| User.Read | aplicação | Precisamos obter a Email do usuário para manter as configurações | [d361752a-c257-474d-bb79-324fbe4898b5](../azure/d361752a-c257-474d-bb79-324fbe4898b5.md) |
 
 >Este aplicativo não tem APIs adicionais.
 

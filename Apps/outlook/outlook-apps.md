@@ -3,17 +3,17 @@ title: Segurança e conformidade dos Aplicativos do Microsoft Outlook – Todos 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/20/2022
+ms.date: 07/27/2022
 ms.topic: article
 ms.service: attestation
 description: Todas as informações de segurança e conformidade disponíveis para todos os Aplicativos do Microsoft Outlook.
 localization_priority: Normal
-ms.openlocfilehash: 6725f3b4f6b0ebcf60850ee21c966aa9123e53fe
-ms.sourcegitcommit: b072ed662849382b6df1bebf43454e12e5ed544d
+ms.openlocfilehash: b6b1815e317146c15ecb81c64316776a9e791d1a
+ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/20/2022
-ms.locfileid: "66912865"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67040970"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Segurança e conformidade dos Aplicativos do Microsoft Outlook
 
