@@ -3,18 +3,18 @@ title: Informações do aplicativo para TELUS Business Connect da RingCentral, I
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/27/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o TELUS Business Connect, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 923825beedc6cc9247622726de120d39c702ccec
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: a87262db541cc887d2afb9415d3e5ce79bfcdf56
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66245348"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053233"
 ---
 # <a name="telus-business-connect"></a>Conexão TELUS Business
 
@@ -63,7 +63,7 @@ Essas informações foram fornecidas pela RingCentral, Inc. sobre como esse apli
 | Quais dados são armazenados em seus bancos de dados? | Dados de perfil do usuário |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Não |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 

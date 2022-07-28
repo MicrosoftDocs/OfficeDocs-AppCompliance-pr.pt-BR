@@ -1,5 +1,5 @@
 ---
-title: Informações de aplicativo para AttendanceBot por Anaek
+title: Informações do aplicativo para o local de trabalho levedurar da tecnologia da informação levedural
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,43 +7,43 @@ ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para AttendanceBot, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para o Workplace do Levedurar, suas políticas de manipulação de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 15b2e1e76b3e0df07a96e50a24eb0e2e8a377edd
+ms.openlocfilehash: 2933a52dce901d395766f0ac5b7de69b3260dbab
 ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 07/27/2022
-ms.locfileid: "67053294"
+ms.locfileid: "67053314"
 ---
-# <a name="attendancebot"></a>AttendanceBot
+# <a name="yeastar-workplace"></a>Yeastar Workplace
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>Última atualização pelo desenvolvedor em: 6 de julho de 2022</p>
+<p>Última atualização pelo desenvolvedor em: 21 de junho de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/77231724-5a80-4edf-ad93-dfd2e61207fa" target="_blank">Exibir na loja do Teams</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381652" target="_blank">Exibir no AppSource</a>
+* <a href="https://teams.microsoft.com/l/app/8a2a6bf3-b7ad-403a-bdf4-68855ed22024" target="_blank">Exibir na loja do Teams</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200004339" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>Informações gerais
 
-Informações fornecidas pelo Anaek à Microsoft:
+Informações fornecidas pela Tecnologia da Informação Levedurar para a Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | AttendanceBot |
-| ID | WA104381652 |
+| Nome do aplicativo | Yeastar Workplace |
+| ID | WA200004339 |
 | Office 365 clientes com suporte | Microsoft Teams |
-| Nome da empresa parceira | Anaek |
-| Site da empresa | [https://www.harmonizehq.com](https://www.harmonizehq.com) |
-| Termos de Uso do Aplicativo | [https://www.attendancebot.com/attendance/tos/](https://www.attendancebot.com/attendance/tos/) |
-| Funcionalidade principal do aplicativo | RH moderno para acompanhar tempo, participação, PTO, folga, trabalho híbrido, planejamento &amp; de turnos |
-| Localização da sede da empresa | Estados Unidos da América |
-| Página de informações do aplicativo | [https://www.attendancebot.com](https://www.attendancebot.com) |
-| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Híbrido |
-| Quais provedores de nuvem de hospedagem o aplicativo usa? | Aws |
+| Nome da empresa parceira | Yeastar Tecnologia da Informação |
+| Site da empresa | [https://www.yeastar.com](https://www.yeastar.com) |
+| Termos de Uso do Aplicativo | [https://www.yeastar.com/yeastar-workplace-terms-of-service/](https://www.yeastar.com/yeastar-workplace-terms-of-service/) |
+| Funcionalidade principal do aplicativo | Encontre facilmente e reserve salas de reunião no Microsoft Teams. |
+| Localização da sede da empresa | China |
+| Página de informações do aplicativo | [https://www.yeastar.com/yeastar-workplace/meeting-room-book...](https://www.yeastar.com/yeastar-workplace/meeting-room-booking) |
+| Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
+| Quais provedores de nuvem de hospedagem o aplicativo usa? | AlibabaCloud, GCP, Aws |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,16 +53,16 @@ Informações fornecidas pelo Anaek à Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>Como o aplicativo lida com os dados
 
-Essas informações foram fornecidas pelo Anaek sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados que o aplicativo coleta.
+Essas informações foram fornecidas pela Tecnologia da Informação Levedurar sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
-| Quais dados são processados pelo seu aplicativo? | Dados de perfil do usuário |
+| Quais dados são processados pelo seu aplicativo? | Logon do usuário e reservas de reunião |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | Tokens de acesso, dados de locatário (ID do locatário, nome, detalhes da equipe), Dados do usuário (nome, email) |
-| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
+| Quais dados são armazenados em seus bancos de dados? | Logon do usuário e reservas de reunião |
+| Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América, Alemanha |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
 | Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
@@ -90,7 +90,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Você tem um processo de gerenciamento de alterações estabelecido usado para examinar e aprovar solicitações de alteração antes que elas sejam implantadas em produção? | Sim |
 | Uma pessoa adicional está examinando e aprovando todas as solicitações de alteração de código enviadas para produção pelo desenvolvedor original? | Sim |
 | As práticas de codificação segura levam em conta classes de vulnerabilidade comuns, como o OWASP Top 10? | Sim |
-| Autenticação Multifator (MFA) habilitada para: | DNSManagement, Credential |
+| Autenticação Multifator (MFA) habilitada para: | Credential |
 | Você tem um processo estabelecido para provisionamento, modificação e exclusão de contas de funcionários? | Sim |
 | Você tem o software de Detecção e Prevenção de Intrusões (IDPS) implantado no perímetro do limite de rede que dá suporte ao seu aplicativo? | Sim |
 | Você tem o log de eventos configurado em todos os componentes do sistema que dão suporte ao seu aplicativo? | Sim |
@@ -115,7 +115,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | O aplicativo está em conformidade com os Controles da Organização do Serviço (SOC 3)? | Não |
 | Você realiza avaliações anuais de PCI DSS em relação ao aplicativo e seu ambiente de suporte? | N/D |
 | O aplicativo ISO 27001 (Organização Internacional para Padronização) é certificado? | Não |
-| O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | Não |
+| O aplicativo está em conformidade com a ISO 27018 (Organização Internacional para Padronização)? | N/D |
 | O aplicativo está em conformidade com a ISO 27017 (Organização Internacional para Padronização)? | Não |
 | O aplicativo está em conformidade com a ISO 27002 (Organização Internacional para Padronização)? | Não |
 | O aplicativo FedRAMP (Federal Risk and Authorization Management Program) está em conformidade? | Não |
@@ -135,15 +135,15 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 |:----------------|:-------------|
 | Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Sim |
 | O aplicativo tem um aviso de privacidade voltado para o externo que descreve como ele coleta, usa, compartilha e armazena dados do cliente? | Sim |
-| URL da Política de Privacidade | https://www.attendancebot.com/attendance/privacy/ |
+| URL da Política de Privacidade | https://www.yeastar.com/yeastar-workplace-privacy-policy/ |
 | O aplicativo executa a tomada de decisões automatizada, incluindo a criação de perfil que pode ter um efeito legal ou um impacto semelhante? | Não |
 | O aplicativo processa dados do cliente para uma finalidade secundária não descrita no aviso de privacidade (ou seja, marketing, análise)? | Não |
-| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Não |
+| Você processa categorias especiais de dados confidenciais (ou seja, origem racial ou étnica, opinião política, crenças religiosas ou filosóficos, dados genéticos ou biométricos, dados de saúde) ou categorias de dados sujeitos a leis de notificação de violação? | Sim |
 | O aplicativo coleta ou processa dados de menores (ou seja, indivíduos com menos de 16 anos)? | Não |
-| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Sim |
-| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Sim |
-| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | Sim |
-| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | Sim |
+| O aplicativo tem recursos para excluir dados pessoais de um indivíduo mediante solicitação? | Não |
+| O aplicativo tem recursos para restringir ou limitar o processamento dos dados pessoais de um indivíduo mediante solicitação? | Não |
+| O aplicativo fornece aos indivíduos a capacidade de corrigir ou atualizar seus dados pessoais? | Não |
+| As revisões regulares de privacidade e segurança de dados são executadas (por exemplo, Avaliações de Impacto de Proteção de Dados ou avaliações de risco de privacidade) para identificar riscos relacionados ao processamento de dados pessoais para o aplicativo? | N/D |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

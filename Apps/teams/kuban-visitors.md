@@ -3,18 +3,18 @@ title: Informações do aplicativo para visitantes do Kuban por &#19978;&#28023;
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/01/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para visitantes do Kuban, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro STAR do CSA.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 716e440db7e7337b4fe92e9dd72ea382461c06dc
-ms.sourcegitcommit: 4ceff6ef6aa0bae1075da646773b852970bb4049
+ms.openlocfilehash: 8e0420379d45a27e6721a8cee4c23e5db76cc8b2
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "65874189"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053063"
 ---
 # <a name="kuban-visitors"></a>Visitantes do Kuban
 
@@ -22,7 +22,7 @@ ms.locfileid: "65874189"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 1º de junho de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/08c71ed0-0b39-46eb-8ec8-42c66a1579de" target="_blank">Exibir no Teams armazenamento</a>
+* <a href="https://teams.microsoft.com/l/app/08c71ed0-0b39-46eb-8ec8-42c66a1579de" target="_blank">Exibir na loja do Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200004147" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -31,7 +31,7 @@ ms.locfileid: "65874189"
 
 Informações fornecidas pelo &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; para a Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | Visitantes do Kuban |
 | ID | WA200004147 |
@@ -39,7 +39,7 @@ Informações fornecidas pelo &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#
 | Nome da empresa parceira | &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; |
 | Site da empresa | [https://kuban.io](https://kuban.io) |
 | Termos de Uso do Aplicativo | [https://api.ent.kuban.io/terms_us.html](https://api.ent.kuban.io/terms_us.html) |
-| Funcionalidade principal do aplicativo | O Kuban Visitors for Microsoft Teams torna super fácil convidar visitantes. Você pode convidar visitantes, entrar e desassoizá-los rapidamente. Você também pode exibir a lista de visitantes de hoje.  OBSERVAÇÃO: para usar esse aplicativo, os usuários devem ter uma conta ativa do Kuban. Entre em contato com nossa equipe de suporte para obter mais detalhes.  |
+| Funcionalidade principal do aplicativo | Os Visitantes do Kuban para Microsoft Teams facilitam o convite de visitantes. Você pode convidar visitantes, entrar e desassoizá-los rapidamente. Você também pode exibir a lista de visitantes de hoje.  OBSERVAÇÃO: para usar esse aplicativo, os usuários devem ter uma conta ativa do Kuban. Entre em contato com nossa equipe de suporte para obter mais detalhes.  |
 | Localização da sede da empresa | China |
 | Página de informações do aplicativo | |
 | Qual é o ambiente de hospedagem ou o modelo de serviço usado para executar seu aplicativo? | Iaas |
@@ -55,16 +55,16 @@ Informações fornecidas pelo &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#
 
 Essas informações foram fornecidas pelo &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados coletados pelo aplicativo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
-| Quais dados são processados pelo seu aplicativo? | Usar o Perfil de Usuário de Leitura (grafo/me) para buscar email e nome de usuário e armazenar em nosso banco de dados |
+| Quais dados são processados pelo seu aplicativo? | Usar o Perfil de Usuário de Leitura (grafo/me) para buscar Email nome de usuário e armazenamento em nosso banco de dados |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | Usar o Perfil de Usuário de Leitura (grafo/me) para buscar email e nome de usuário e armazenar em nosso banco de dados |
+| Quais dados são armazenados em seus bancos de dados? | Usar o Perfil de Usuário de Leitura (grafo/me) para buscar Email nome de usuário e armazenamento em nosso banco de dados |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Cingapura |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 
@@ -76,7 +76,7 @@ Essas informações foram fornecidas pelo &#19978;&#28023;&#37239;&#20134;&#3118
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você executa testes de penetração anuais no aplicativo? | Sim |
 | O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Sim |
@@ -106,7 +106,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="compliance"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | Não |
 | O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | Não |
@@ -131,7 +131,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="privsection"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Não |
 
@@ -141,7 +141,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Não |
 | Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
@@ -149,7 +149,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
 | Seu aplicativo armazena credenciais no código? | Não |
-| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
+| Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
 >Este aplicativo não usa o Microsoft Graph.
 

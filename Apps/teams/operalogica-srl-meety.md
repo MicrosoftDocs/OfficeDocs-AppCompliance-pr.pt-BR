@@ -3,18 +3,18 @@ title: Informações do aplicativo para Meety da operaLogica srl
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/20/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Meety, suas políticas de manipulação de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 20ac8b775cbc912c635b304e14fd16dad0192dc1
-ms.sourcegitcommit: cede428f2a23bd3060f5506f270b40b327b02769
+ms.openlocfilehash: 6321c3def79836f043433f0f945d22a4cff5c0dd
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66549360"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053237"
 ---
 # <a name="meety"></a>Meety
 
@@ -64,7 +64,7 @@ Essas informações foram fornecidas pela operaLogica srl sobre como esse aplica
 | Quais dados são armazenados em seus bancos de dados? | Email, Nome, Sobrenome, Reunião inserida |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Irlanda |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 

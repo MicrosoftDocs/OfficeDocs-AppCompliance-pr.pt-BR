@@ -3,18 +3,18 @@ title: Informações do aplicativo para os achievers Conexões do Viva by Achiev
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/06/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para os Achievers para Conexões do Viva, suas políticas de tratamento de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f89f2957e4c990d2a4368efb12a6df683c2a80ee
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: 6a8ff36b47fd79e4fd0827b7035d1219fe099156
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66655840"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053073"
 ---
 # <a name="achievers-for-viva-connections"></a>Achievers for Conexões do Viva
 
@@ -61,7 +61,7 @@ Essas informações foram fornecidas pelos Achievers sobre como esse aplicativo 
 | Quais dados são armazenados em seus bancos de dados? | ID do locatário, ID de usuário |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Canadá |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Sim |
 | Você tem contratos de compartilhamento de dados em vigor com qualquer serviço de terceiros com o qual você compartilha dados de clientes da Microsoft? | Sim |

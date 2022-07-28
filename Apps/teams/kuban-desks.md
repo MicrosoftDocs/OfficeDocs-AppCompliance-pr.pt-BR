@@ -3,20 +3,20 @@ title: Informações do aplicativo para mesas Kuban por &#19978;&#28023;&#37239;
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/27/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o Kuban Desks, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fea7553360feb8cab303cb52d427dc11ea16b3ca
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: 9d24ecb0cd772eeafb095e47b2a87de65cb8611d
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66250180"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053203"
 ---
-# <a name="kuban-desks"></a>Mesas Kuban
+# <a name="kuban-desks"></a>Kuban Desks
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +33,7 @@ Informações fornecidas pelo &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Mesas Kuban |
+| Nome do aplicativo | Kuban Desks |
 | ID | WA200004276 |
 | Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa parceira | &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; |
@@ -58,13 +58,13 @@ Essas informações foram fornecidas pelo &#19978;&#28023;&#37239;&#20134;&#3118
 | **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
-| Quais dados são processados pelo seu aplicativo? | Usar o Perfil de Usuário de Leitura (grafo/me) para buscar email e nome de usuário e armazenar em nosso banco de dados |
+| Quais dados são processados pelo seu aplicativo? | Usar o Perfil de Usuário de Leitura (grafo/me) para buscar Email nome de usuário e armazenamento em nosso banco de dados |
 | O aplicativo dá suporte ao TLS 1.1 ou superior? | Sim |
 | O aplicativo ou a infraestrutura subjacente armazena dados do cliente da Microsoft? | Sim |
-| Quais dados são armazenados em seus bancos de dados? | Usar o Perfil de Usuário de Leitura (grafo/me) para buscar email e nome de usuário e armazenar em nosso banco de dados |
+| Quais dados são armazenados em seus bancos de dados? | Usar o Perfil de Usuário de Leitura (grafo/me) para buscar Email nome de usuário e armazenamento em nosso banco de dados |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Cingapura |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 

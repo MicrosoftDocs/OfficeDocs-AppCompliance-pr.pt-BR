@@ -3,20 +3,20 @@ title: Informações do aplicativo para listagem classificada por BinaryRoots
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/01/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Todas as informações de segurança e conformidade disponíveis para Listagem Classificada, suas políticas de manipulação de dados, suas informações do catálogo de aplicativos do Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
+description: Todas as informações de segurança e conformidade disponíveis para Listagem Classificada, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e64f6953c0157e09c3a2896926ca63a15988b63c
-ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
+ms.openlocfilehash: 0813d8c063e64c6ccc37a1d1d4aad659be54ee75
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2022
-ms.locfileid: "65938658"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053101"
 ---
-# <a name="classified-listing"></a>Listagem classificada
+# <a name="classified-listing"></a>Listagem Confidencial
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,9 +33,9 @@ Informações fornecidas por BinaryRoots à Microsoft:
 
 | **Information** | **Response** |
 |:----------------|:-------------|
-| Nome do aplicativo | Listagem classificada |
+| Nome do aplicativo | Listagem Confidencial |
 | ID | WA200004155 |
-| Clientes do Office 365 com suporte | Microsoft Teams |
+| Office 365 clientes com suporte | Microsoft Teams |
 | Nome da empresa parceira | BinaryRoots |
 | Site da empresa | [https://binaryroots.com](https://binaryroots.com) |
 | Termos de Uso do Aplicativo | [https://binaryroots.com/classifiedapp-terms-and-conditions](https://binaryroots.com/classifiedapp-terms-and-conditions) |
@@ -62,7 +62,7 @@ Essas informações foram fornecidas por BinaryRoots sobre como esse aplicativo 
 | Quais dados são armazenados em seus bancos de dados? | Somente as IDs – ID do Locatário, IDs de Usuário de Administradores, URL do Site e ID do Site, ID da lista/biblioteca |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Não |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 
@@ -72,7 +72,7 @@ Essas informações foram fornecidas por BinaryRoots sobre como esse aplicativo 
 
 ::: zone pivot="security"
 
-As informações do [catálogo do Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
+As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
 | **Information** | **Response** |
 |:----------------|:-------------|
@@ -151,7 +151,7 @@ As informações do [catálogo do Microsoft Cloud App Security](https://www.micr
 | **Information** | **Response** |
 |:----------------|:-------------|
 | Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
-| Você examinou e cumpriu todas as práticas recomendadas aplicáveis descritas na lista de verificação de integração da plataforma de identidade da Microsoft? | Sim |
+| Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Sim |
 | Seu aplicativo usa a versão mais recente da MSAL (Biblioteca de Autenticação da Microsoft) ou do Microsoft Identity Web para autenticação? | Sim |
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
@@ -160,7 +160,7 @@ As informações do [catálogo do Microsoft Cloud App Security](https://www.micr
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Permissão do Graph**  | **Tipo de permissão** |          **Justificativa**          | **ID do aplicativo do Azure AD** |
+>|   **Permissão do Graph**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Channel.ReadBasic.All | Delegada | Para mostrar o canal ao usar a funcionalidade de compartilhamento | [e8a37d29-e4be-4ce1-ae06-bbd1ad1968e3](../azure/e8a37d29-e4be-4ce1-ae06-bbd1ad1968e3.md) |
 >| ChannelMessage.Send | Delegada | Para enviar mensagem para o usuário/canal em nome do usuário quando a funcionalidade de compartilhamento é usada | [e8a37d29-e4be-4ce1-ae06-bbd1ad1968e3](../azure/e8a37d29-e4be-4ce1-ae06-bbd1ad1968e3.md) |

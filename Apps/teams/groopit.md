@@ -3,18 +3,18 @@ title: Informações do aplicativo para Groopit da Groopit
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/21/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para Groopit, suas políticas de manipulação de dados, suas informações do catálogo de aplicativos Microsoft Cloud App Security e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ee56f303fec6d0700be873fb644e95a8dcde94a8
-ms.sourcegitcommit: cede428f2a23bd3060f5506f270b40b327b02769
+ms.openlocfilehash: c9f036aebdff141067c4f35fe3965ced716da167
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66547006"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053235"
 ---
 # <a name="groopit"></a>Groopit
 
@@ -64,7 +64,7 @@ Essas informações foram fornecidas pelo Groopit sobre como esse aplicativo col
 | Quais dados são armazenados em seus bancos de dados? | User Id |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Sim |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Sim |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 

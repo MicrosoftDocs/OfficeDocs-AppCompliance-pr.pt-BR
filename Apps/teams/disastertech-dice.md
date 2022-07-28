@@ -3,18 +3,18 @@ title: Informações do aplicativo para DisasterTech DICE da DisasterTech
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/31/2022
+ms.date: 07/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para DisasterTech DICE, suas políticas de tratamento de dados, suas Microsoft Cloud App Security do catálogo de aplicativos e informações de segurança/conformidade no registro CSA STAR.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0ed797cb886577f74601c0cd6effa546b9587efc
-ms.sourcegitcommit: 29a4475d630d2f1d0755a6322eb994646322aca1
+ms.openlocfilehash: a905f01e10c28843b1e823c561abade8bce06501
+ms.sourcegitcommit: 3e68e819f21cd95aeb2abc018cd86af2a9dd0b1a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/01/2022
-ms.locfileid: "65811215"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67053223"
 ---
 # <a name="disastertech-dice"></a>DisasterTech DICE
 
@@ -22,7 +22,7 @@ ms.locfileid: "65811215"
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>Última atualização pelo desenvolvedor em: 31 de maio de 2022</p>
 
-* <a href="https://teams.microsoft.com/l/app/7df3e67b-ed62-48e9-a950-c95bd7ebce80" target="_blank">Exibir no Teams armazenamento</a>
+* <a href="https://teams.microsoft.com/l/app/7df3e67b-ed62-48e9-a950-c95bd7ebce80" target="_blank">Exibir na loja do Teams</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001909" target="_blank">Exibir no AppSource</a>
 
 ::: zone pivot="general"
@@ -31,7 +31,7 @@ ms.locfileid: "65811215"
 
 Informações fornecidas pela DisasterTech para a Microsoft:
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Nome do aplicativo | DisasterTech DICE |
 | ID | WA200001909 |
@@ -55,7 +55,7 @@ Informações fornecidas pela DisasterTech para a Microsoft:
 
 Essas informações foram fornecidas pela DisasterTech sobre como esse aplicativo coleta e armazena dados organizacionais e o controle que sua organização terá sobre os dados que o aplicativo coleta.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo ou a infraestrutura subjacente processa dados relacionados a um cliente da Microsoft ou seu dispositivo? | Sim |
 | Quais dados são processados pelo seu aplicativo? | Perfil de Usuário |
@@ -64,7 +64,7 @@ Essas informações foram fornecidas pela DisasterTech sobre como esse aplicativ
 | Quais dados são armazenados em seus bancos de dados? | Perfil de Usuário |
 | Se a infastructure subjacente processa ou armazena dados do cliente da Microsoft, onde esses dados são armazenados geograficamente? | Estados Unidos da América |
 | Você tem um processo estabelecido de locação e descarte de dados? | Não |
-| Por quanto tempo os dados são retidos após o encerramento da conta? |  |
+| Por quanto tempo os dados são retidos após o encerramento da conta? | Mais de 90 dias |
 | Você tem um processo de gerenciamento de acesso a dados estabelecido? | Não |
 | Você transfere dados do cliente ou conteúdo do cliente para terceiros ou subprocessados? | Não |
 
@@ -76,7 +76,7 @@ Essas informações foram fornecidas pela DisasterTech sobre como esse aplicativ
 
 As informações do [catálogo Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) são exibidas abaixo.
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você executa testes de penetração anuais no aplicativo? | Não |
 | O aplicativo tem um plano de recuperação de desastre documentado, incluindo uma estratégia de backup e restauração? | Não |
@@ -104,7 +104,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="compliance"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | O aplicativo está em conformidade com a HIPAA (Health Insurance Portability and Accounting Act)? | N/D |
 | O aplicativo está em conformidade com a Aliança de Confiança de Informações de Integridade, a Estrutura de Segurança Comum (HITRUST CSF)? | N/D |
@@ -129,7 +129,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="privsection"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Você tem GDPR ou outros requisitos de privacidade ou proteção de dados ou obrigações (como CCPA)? | Não |
 
@@ -139,7 +139,7 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 
 ::: zone pivot="zerotrust"
 
-| **Information** | **Resposta** |
+| **Information** | **Response** |
 |:----------------|:-------------|
 | Seu aplicativo se integra ao Microsoft Identity Platform (Azure AD) para logon único, acesso à API etc.? | Sim |
 | Você examinou e atendeu a todas as práticas recomendadas aplicáveis descritas na lista de verificação plataforma de identidade da Microsoft integração? | Não |
@@ -147,17 +147,17 @@ As informações do [catálogo Microsoft Cloud App Security](https://www.microso
 | Seu aplicativo dá suporte a políticas de Acesso Condicional? | Não |
 | Seu aplicativo dá suporte à CAE (Avaliação Contínua de Acesso) | Não |
 | Seu aplicativo armazena credenciais no código? | Não |
-| Aplicativos e suplementos para Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
+| Aplicativos e suplementos do Microsoft 365 podem usar APIs adicionais da Microsoft fora do Microsoft Graph. Seu aplicativo ou suplemento usa APIs adicionais da Microsoft? | Não |
 
 #### <a name="data-access-using-microsoft-graph"></a>Acesso a dados usando o Microsoft Graph
 
->|   **Graph permissão**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
+>|   **Permissão do Graph**  | **Tipo de permissão** |          **Justificativa**          | **Azure AD ID do aplicativo** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | Delegada | Microsoft Teams logon único | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
->| email | Delegada | Microsoft Teams logon único | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
->| offline_access | Delegada | Microsoft Teams logon único | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
->| openid | Delegada | Microsoft Teams logon único | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
->| perfil | Delegada | Microsoft Teams logon único | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
+>| User.Read | Delegada | Logon único do Microsoft Teams | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
+>| email | Delegada | Logon único do Microsoft Teams | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
+>| offline_access | Delegada | Logon único do Microsoft Teams | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
+>| openid | Delegada | Logon único do Microsoft Teams | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
+>| perfil | Delegada | Logon único do Microsoft Teams | [7df3e67b-ed62-48e9-a950-c95bd7ebce80](../azure/7df3e67b-ed62-48e9-a950-c95bd7ebce80.md) |
 
 >Este aplicativo não tem APIs adicionais.
 
