@@ -3,17 +3,17 @@ title: Azure App informações de ID para o foodbfc71-2cf8-42f0-bcdd-83e5f4acfdc
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/27/2022
+ms.date: 07/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Todas as informações de segurança e conformidade disponíveis para o foodbfc71-2cf8-42f0-bcdd-83e5f4acfdcc.
-ms.openlocfilehash: c7ddbae1e89fa38490f6fcd829ef1b4311b1102e
-ms.sourcegitcommit: 6771e51564baf354398b12cdf2f9eede6a8ce994
+ms.openlocfilehash: 82009381cd9d0e31c52664339596e83b8bad0cc9
+ms.sourcegitcommit: 2787e3eed97b8dfb6fab7dd837e2d7fe65828121
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/27/2022
-ms.locfileid: "67039769"
+ms.lasthandoff: 07/28/2022
+ms.locfileid: "67065079"
 ---
 # <a name="azure-app-id-fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc"></a>Azure App ID: foodbfc71-2cf8-42f0-bcdd-83e5f4acfdcc
 
